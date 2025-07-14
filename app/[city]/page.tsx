@@ -10,7 +10,7 @@ import { StickyFooterCTA } from "@/components/sticky-footer-cta"
 import { AnalyticsProvider } from "@/components/analytics-provider"
 import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
 import { generateCityMetadata, generateLocalBusinessStructuredData, getAllCitySlugs } from "@/lib/seo"
-import { getCityData, generateCityMetadata as generateStrapiMetadata } from "@/lib/strapi"
+
 
 interface PageProps {
   params: {
@@ -18,59 +18,21 @@ interface PageProps {
   }
 }
 
-// Generate metadata for SEO - try Strapi first, fallback to static
+// Generate metadata for SEO - use static data for reliable builds
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://your-domain.com'
 
-  // Try to get metadata from Strapi first
-  const strapiMetadata = await generateStrapiMetadata(params.city)
-  if (strapiMetadata && strapiMetadata.title) {
-    return {
-      title: strapiMetadata.title,
-      description: strapiMetadata.description,
-      keywords: strapiMetadata.keywords,
-      metadataBase: new URL(baseUrl),
-      alternates: { canonical: `/${params.city}` },
-      openGraph: {
-        title: strapiMetadata.title,
-        description: strapiMetadata.description,
-        url: `${baseUrl}/${params.city}`,
-        siteName: 'LawProactive',
-        locale: 'en_US',
-        type: 'website',
-      },
-      robots: { index: true, follow: true },
-      other: strapiMetadata.coordinates ? {
-        'geo.region': 'US-CA',
-        'geo.placename': strapiMetadata.coordinates.lat ? params.city.replace(/-/g, ' ') : undefined,
-        'geo.position': strapiMetadata.coordinates.lat ? `${strapiMetadata.coordinates.lat};${strapiMetadata.coordinates.lng}` : undefined,
-      } : {},
-    }
-  }
-
-  // Fallback to static metadata
+  // Use static metadata for reliable deployment
   return generateCityMetadata(params.city, baseUrl)
 }
 
-export default async function PersonalInjuryLanding({ params }: PageProps) {
+export default function PersonalInjuryLanding({ params }: PageProps) {
   const city = params.city.charAt(0).toUpperCase() + params.city.slice(1).replace(/-/g, " ")
   const citySlug = params.city
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://your-domain.com'
 
-  // Try to get city data from Strapi
-  const strapiCityData = await getCityData(citySlug)
-
-  // Use Strapi data if available, otherwise use defaults
-  const cityData = strapiCityData ? {
-    name: strapiCityData.attributes.name,
-    practiceAreas: strapiCityData.attributes.practiceAreas || [],
-    testimonials: strapiCityData.attributes.testimonials || [],
-    localStats: strapiCityData.attributes.localStats || {
-      averageSettlement: "$125,000",
-      casesWon: 95,
-      yearsExperience: 15
-    }
-  } : {
+  // Use static data for reliable deployment
+  const cityData = {
     name: city,
     practiceAreas: [],
     testimonials: [],
@@ -84,16 +46,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
   // Generate structured data using utility function
   const structuredData = generateLocalBusinessStructuredData(citySlug, baseUrl)
 
-  const services = [
-    { name: "Car Accidents", icon: "🚗", description: "Get compensation for vehicle collisions and injuries" },
-    { name: "Slip & Fall", icon: "⚠️", description: "Property owner negligence claims" },
-    { name: "Medical Malpractice", icon: "🏥", description: "Healthcare provider negligence cases" },
-    { name: "Workplace Injuries", icon: "🏗️", description: "On-the-job accident compensation" },
-    { name: "Product Liability", icon: "📦", description: "Defective product injury claims" },
-    { name: "Wrongful Death", icon: "💔", description: "Justice for families who lost loved ones" },
-  ]
-
-  const testimonials = [
+  const defaultTestimonials = [
     {
       name: "Maria Rodriguez",
       location: "Los Angeles, CA",
@@ -121,6 +74,17 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         "They matched me with a specialist who understood my case completely. The settlement covered all my medical expenses and more.",
       rating: 5,
     },
+  ]
+
+  const testimonials = cityData.testimonials.length > 0 ? cityData.testimonials : defaultTestimonials
+
+  const services = [
+    { name: "Car Accidents", icon: "🚗", description: "Get compensation for vehicle collisions and injuries" },
+    { name: "Slip & Fall", icon: "⚠️", description: "Property owner negligence claims" },
+    { name: "Medical Malpractice", icon: "🏥", description: "Healthcare provider negligence cases" },
+    { name: "Workplace Injuries", icon: "🏗️", description: "On-the-job accident compensation" },
+    { name: "Product Liability", icon: "📦", description: "Defective product injury claims" },
+    { name: "Wrongful Death", icon: "💔", description: "Justice for families who lost loved ones" },
   ]
 
   const faqItems = [

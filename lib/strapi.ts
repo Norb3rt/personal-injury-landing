@@ -67,6 +67,12 @@ interface PracticeArea {
 
 // Fetch city-specific SEO data from Strapi
 export async function getCityData(citySlug: string): Promise<CityData | null> {
+  // Disable Strapi during build to prevent deployment errors
+  if (process.env.NODE_ENV === 'production' && !STRAPI_API_TOKEN) {
+    console.log('Strapi disabled in production build - using fallback data')
+    return null
+  }
+
   try {
     const response = await fetch(
       `${STRAPI_API_URL}/cities?filters[slug][$eq]=${citySlug}&populate=*`,

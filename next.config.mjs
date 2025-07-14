@@ -19,9 +19,9 @@ const nextConfig = {
   output: 'standalone',
   // Optimize for production
   swcMinify: true,
-  // Enable experimental features for better performance
+  // Disable experimental features that cause build issues
   experimental: {
-    optimizeCss: true,
+    // optimizeCss: true, // Disabled - causes 'critters' module error on Vercel
     optimizePackageImports: ['lucide-react', '@radix-ui/react-icons'],
   },
   // Headers for security and SEO
