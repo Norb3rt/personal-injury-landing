@@ -54,7 +54,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "concord"
   ]
 
+  // Get all cities (now includes 482 California cities)
   const cities = [...mainCities, ...additionalCities]
+
+  console.log(`🗺️ Generating sitemap for ${cities.length} cities`)
 
   // Generate sitemap entries for all city pages
   const cityPages = cities.map((city) => ({

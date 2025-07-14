@@ -1,6 +1,7 @@
 // SEO utilities for programmatic SEO optimization
 
 import { Metadata } from 'next'
+import { getCityData as getFullCityData, findCityByOriginalSlug } from './california-cities'
 
 export interface CityCoordinates {
   lat: number
@@ -68,11 +69,32 @@ export const CALIFORNIA_CITIES: Record<string, CityMetadata> = {
 
 // Generate comprehensive metadata for city pages
 export function generateCityMetadata(citySlug: string, baseUrl: string = 'https://your-domain.com'): Metadata {
-  const cityData = CALIFORNIA_CITIES[citySlug]
-  
+  // Try new structure first (california-city)
+  let cityData = getFullCityData(citySlug)
+
+  // If not found, try old structure (city only) for backward compatibility
+  if (!cityData) {
+    const oldCityData = CALIFORNIA_CITIES[citySlug]
+    if (oldCityData) {
+      // Convert old format to new format for compatibility
+      cityData = {
+        ...oldCityData,
+        originalSlug: citySlug,
+        objectId: 0
+      }
+    }
+  }
+
+  // If still not found, try to find by original slug
+  if (!cityData) {
+    cityData = findCityByOriginalSlug(citySlug)
+  }
+
   if (!cityData) {
     // Fallback for cities not in our database
-    const cityName = citySlug.charAt(0).toUpperCase() + citySlug.slice(1).replace(/-/g, " ")
+    const cityName = citySlug.includes('california-')
+      ? citySlug.replace('california-', '').charAt(0).toUpperCase() + citySlug.replace('california-', '').slice(1).replace(/-/g, " ")
+      : citySlug.charAt(0).toUpperCase() + citySlug.slice(1).replace(/-/g, " ")
     return generateFallbackMetadata(cityName, citySlug, baseUrl)
   }
 
@@ -249,9 +271,13 @@ export function generateLocalBusinessStructuredData(citySlug: string, baseUrl: s
   }
 }
 
-// Get all city slugs for static generation
+// Get all city slugs for static generation (both old and new format)
 export function getAllCitySlugs(): string[] {
-  return Object.keys(CALIFORNIA_CITIES)
+  const oldSlugs = Object.keys(CALIFORNIA_CITIES)
+  const newSlugs = Object.keys(require('./california-cities').CALIFORNIA_CITIES_FULL)
+
+  // Combine both for backward compatibility and new structure
+  return [...oldSlugs, ...newSlugs]
 }
 
 // Validate if a city slug exists

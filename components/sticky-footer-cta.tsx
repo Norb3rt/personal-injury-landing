@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import { Phone } from "lucide-react"
+import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
 
 interface StickyFooterCTAProps {
   city: string
@@ -21,12 +22,8 @@ export function StickyFooterCTA({ city }: StickyFooterCTAProps) {
     return () => window.removeEventListener("scroll", handleScroll)
   }, [])
 
-  const scrollToForm = () => {
-    const formElement = document.querySelector("[data-hero-form]")
-    if (formElement) {
-      formElement.scrollIntoView({ behavior: "smooth", block: "center" })
-    }
-  }
+  // Get phone number from environment or use default
+  const phoneNumber = process.env.NEXT_PUBLIC_PHONE_NUMBER || "+1-800-123-4567"
 
   if (!isVisible) return null
 
@@ -38,15 +35,21 @@ export function StickyFooterCTA({ city }: StickyFooterCTAProps) {
           <p className="text-blue-200 text-sm">Free consultation • No win, no fee • Available 24/7</p>
         </div>
         <div className="flex gap-3">
-          <a href="tel:5551234567">
+          <a href={`tel:${phoneNumber.replace(/[^0-9+]/g, '')}`}>
             <Button className="bg-green-600 hover:bg-green-700 text-white font-bold">
               <Phone className="h-4 w-4 mr-2" />
               Call Now
             </Button>
           </a>
-          <Button className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold" onClick={scrollToForm}>
-            Get My Free Case Review
-          </Button>
+          <TwoStepLeadModal
+            trigger={
+              <Button className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold">
+                Get My Free Case Review
+              </Button>
+            }
+            source="sticky-footer"
+            city={city}
+          />
         </div>
       </div>
     </div>

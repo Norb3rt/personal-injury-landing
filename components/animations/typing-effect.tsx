@@ -89,7 +89,7 @@ export function AnimatedText({
       {words.map((word, index) => (
         <motion.span
           key={index}
-          className="inline-block mr-1"
+          className="inline-block"
           variants={{
             hidden: {
               opacity: 0,
@@ -106,6 +106,7 @@ export function AnimatedText({
           }}
         >
           {word}
+          {index < words.length - 1 && <span>&nbsp;</span>}
         </motion.span>
       ))}
     </motion.div>

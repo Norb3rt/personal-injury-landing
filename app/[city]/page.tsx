@@ -730,51 +730,10 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
 
 // Generate static params for all cities using utility function
 export async function generateStaticParams() {
-  const cities = getAllCitySlugs()
+  // Get all city slugs (includes both old format and new california-city format)
+  const allCities = getAllCitySlugs()
 
-  // Add additional cities not in the main database
-  const additionalCities = [
-    "riverside",
-    "san-bernardino",
-    "ventura",
-    "santa-barbara",
-    "kern",
-    "imperial",
-    "fresno",
-    "bakersfield",
-    "stockton",
-    "modesto",
-    "oxnard",
-    "fontana",
-    "moreno-valley",
-    "huntington-beach",
-    "glendale",
-    "santa-clarita",
-    "garden-grove",
-    "oceanside",
-    "rancho-cucamonga",
-    "santa-rosa",
-    "ontario",
-    "lancaster",
-    "elk-grove",
-    "palmdale",
-    "corona",
-    "salinas",
-    "pomona",
-    "hayward",
-    "escondido",
-    "torrance",
-    "sunnyvale",
-    "orange",
-    "fullerton",
-    "pasadena",
-    "thousand-oaks",
-    "visalia",
-    "simi-valley",
-    "concord"
-  ]
-
-  const allCities = [...cities, ...additionalCities]
+  console.log(`🏗️ Generating static params for ${allCities.length} cities`)
 
   return allCities.map((city) => ({
     city: city,
