@@ -672,7 +672,7 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
                     <Phone className="h-12 w-12 text-blue-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
                   <h3 className="font-semibold mb-2 text-gray-900">Call Now</h3>
-                  <p className="text-gray-600">(555) 123-4567</p>
+                  <p className="text-gray-600">(213) 394-5864</p>
                 </div>
               </StaggerItem>
 
@@ -709,7 +709,7 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
               LawProactive is a legal document and lead generation platform. We connect you with independent attorneys
               who handle your case directly.
             </p>
-            <div className="flex flex-wrap justify-center gap-6 text-sm">
+            {/* <div className="flex flex-wrap justify-center gap-6 text-sm">
               <Link href="/privacy" className="hover:text-yellow-400">
                 Privacy Policy
               </Link>
@@ -719,7 +719,7 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
               <Link href="/disclaimer" className="hover:text-yellow-400">
                 Legal Disclaimer
               </Link>
-            </div>
+            </div> */}
             <p className="text-gray-500 text-sm mt-4">© 2025 LawProactive. All rights reserved.</p>
           </div>
         </footer>

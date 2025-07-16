@@ -1,7 +1,9 @@
 "use server"
 
 import { z } from "zod"
-import { submitLeadToStrapi, checkStrapiConnection } from "./strapi"
+// Strapi integration removed - using only Perfex CRM
+import { createPerfexLead, type LeadFormData } from "./perfex/simple-leads"
+import { validatePerfexConfig } from "./perfex/api"
 
 const leadSubmissionSchema = z.object({
   firstName: z.string().min(2),
@@ -25,22 +27,51 @@ export async function submitLead(data: LeadSubmission) {
     // Validate the data
     const validatedData = leadSubmissionSchema.parse(data)
 
-    // Check if Strapi is available
-    const strapiAvailable = await checkStrapiConnection()
+    console.log("Processing new lead submission:", {
+      name: `${validatedData.firstName} ${validatedData.lastName}`,
+      email: validatedData.email,
+      city: validatedData.city,
+      caseType: validatedData.caseType
+    })
 
-    if (strapiAvailable) {
-      // Submit to Strapi Cloud
+    // Primary integration: Perfex CRM (your existing CRM)
+    const perfexConfig = validatePerfexConfig()
+
+    if (perfexConfig.valid) {
       try {
-        await submitLeadToStrapi(validatedData)
-        console.log("Lead successfully submitted to Strapi")
-      } catch (strapiError) {
-        console.error("Failed to submit to Strapi, falling back to local storage:", strapiError)
-        // Continue with local processing as fallback
+        console.log("Submitting lead to your Perfex CRM...")
+        const perfexResult = await createPerfexLead(validatedData as LeadFormData)
+
+        if (perfexResult.success) {
+          console.log("✅ Lead successfully submitted to Perfex CRM:", {
+            name: `${validatedData.firstName} ${validatedData.lastName}`,
+            email: validatedData.email,
+            city: validatedData.city
+          })
+
+          // Return success immediately for Perfex integration
+          return {
+            success: true,
+            message: "Lead submitted successfully to Perfex CRM",
+            data: perfexResult.data
+          }
+        } else {
+          console.error("❌ Failed to submit lead to Perfex CRM:", perfexResult.error)
+          // Continue with fallback options
+        }
+      } catch (perfexError) {
+        console.error("❌ Perfex CRM integration error:", perfexError)
+        // Continue with fallback options
       }
+    } else {
+      console.warn("⚠️ Perfex CRM configuration invalid:", perfexConfig.errors)
     }
 
-    // Log the lead for demonstration
-    console.log("New lead submitted:", {
+    // Fallback: Save locally if Perfex CRM fails
+    console.log("Perfex CRM failed, lead saved locally only")
+
+    // Log the lead for demonstration (final fallback)
+    console.log("Lead processed with local fallback:", {
       ...validatedData,
       submittedAt: new Date().toISOString(),
     })
@@ -48,7 +79,7 @@ export async function submitLead(data: LeadSubmission) {
     // Send email notification
     await sendEmailNotification(validatedData)
 
-    // Send to CRM
+    // Legacy CRM integration (if needed)
     await sendToCRM(validatedData)
 
     return { success: true, message: "Lead submitted successfully" }

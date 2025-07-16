@@ -7,10 +7,7 @@
     "dev": "next dev",
     "lint": "next lint",
     "start": "next start",
-    "generate-strapi-data": "node scripts/generate-strapi-data.js",
-    "test-strapi": "node scripts/test-strapi-integration.js",
-    "process-california-cities": "node scripts/process-california-cities.js",
-    "test-cities": "node scripts/test-build.js"
+    "process-california-cities": "node scripts/process-california-cities.js"
   },
   "dependencies": {
     "@emotion/is-prop-valid": "latest",
@@ -47,11 +44,13 @@
     "clsx": "^2.1.1",
     "cmdk": "1.0.4",
     "date-fns": "4.1.0",
+    "dotenv": "^17.2.0",
     "embla-carousel-react": "8.5.1",
     "framer-motion": "latest",
     "input-otp": "1.4.1",
     "lucide-react": "^0.454.0",
     "next": "^14.2.30",
+    "next-auth": "^4.24.11",
     "next-themes": "^0.4.4",
     "react": "^18",
     "react-day-picker": "^9.0.0",
