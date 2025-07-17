@@ -152,7 +152,7 @@ export function TwoStepLeadModal({ trigger, source, city, caseType }: TwoStepLea
           bills, photos, etc.)
         </p>
       </div>
-      <Button onClick={handleClose} className="bg-blue-600 hover:bg-blue-700">
+      <Button onClick={handleClose} style={{ backgroundColor: '#0B6B65' }} className="hover:opacity-90">
         Close
       </Button>
     </motion.div>
@@ -169,10 +169,10 @@ export function TwoStepLeadModal({ trigger, source, city, caseType }: TwoStepLea
         ) : (
           <>
             {/* Header with Progress */}
-            <div className="bg-gradient-to-r from-blue-600 to-blue-700 text-white p-6 rounded-t-lg">
+            <div className="text-white p-6 rounded-t-lg" style={{ background: 'linear-gradient(to right, #0B6B65, #0B6B65)' }}>
               <DialogHeader>
                 <DialogTitle className="text-2xl font-bold text-center">Free Case Evaluation</DialogTitle>
-                <p className="text-center text-blue-100 mt-2">
+                <p className="text-center text-white/80 mt-2">
                   Step {currentStep} of 2 - {currentStep === 1 ? "Contact Information" : "Case Details"}
                 </p>
               </DialogHeader>
@@ -180,12 +180,13 @@ export function TwoStepLeadModal({ trigger, source, city, caseType }: TwoStepLea
               {/* Progress Bar */}
               <div className="mt-4">
                 <div className="flex justify-between items-center mb-2">
-                  <span className="text-sm text-blue-100">Progress</span>
-                  <span className="text-sm text-blue-100">{currentStep === 1 ? "50%" : "100%"}</span>
+                  <span className="text-sm text-white/70">Progress</span>
+                  <span className="text-sm text-white/70">{currentStep === 1 ? "50%" : "100%"}</span>
                 </div>
-                <div className="w-full bg-blue-800 rounded-full h-2">
+                <div className="w-full bg-black/20 rounded-full h-2">
                   <motion.div
-                    className="bg-yellow-400 h-2 rounded-full"
+                    className="h-2 rounded-full"
+                    style={{ backgroundColor: '#e06e00' }}
                     initial={{ width: "0%" }}
                     animate={{ width: currentStep === 1 ? "50%" : "100%" }}
                     transition={{ duration: 0.3 }}
@@ -205,8 +206,8 @@ export function TwoStepLeadModal({ trigger, source, city, caseType }: TwoStepLea
                     transition={{ duration: 0.3 }}
                   >
                     <div className="flex items-center gap-3 mb-6">
-                      <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center">
-                        <User className="h-5 w-5 text-blue-600" />
+                      <div className="w-10 h-10 rounded-full flex items-center justify-center" style={{ backgroundColor: '#0B6B65', opacity: 0.1 }}>
+                        <User className="h-5 w-5" style={{ color: '#0B6B65' }} />
                       </div>
                       <div>
                         <h3 className="text-lg font-semibold">Contact Information</h3>
@@ -280,7 +281,7 @@ export function TwoStepLeadModal({ trigger, source, city, caseType }: TwoStepLea
                         </p>
                       </div>
 
-                      <Button type="submit" className="w-full bg-blue-600 hover:bg-blue-700 text-lg py-3">
+                      <Button type="submit" className="w-full text-lg py-3 text-white hover:opacity-90" style={{ backgroundColor: '#0B6B65' }}>
                         Continue to Step 2
                         <ArrowRight className="ml-2 h-5 w-5" />
                       </Button>
@@ -295,8 +296,8 @@ export function TwoStepLeadModal({ trigger, source, city, caseType }: TwoStepLea
                     transition={{ duration: 0.3 }}
                   >
                     <div className="flex items-center gap-3 mb-6">
-                      <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center">
-                        <FileText className="h-5 w-5 text-blue-600" />
+                      <div className="w-10 h-10 rounded-full flex items-center justify-center" style={{ backgroundColor: '#0B6B65', opacity: 0.1 }}>
+                        <FileText className="h-5 w-5" style={{ color: '#0B6B65' }} />
                       </div>
                       <div>
                         <h3 className="text-lg font-semibold">Case Details</h3>
@@ -393,13 +394,14 @@ export function TwoStepLeadModal({ trigger, source, city, caseType }: TwoStepLea
                       </div>
 
                       <div className="flex gap-3">
-                        <Button type="button" variant="outline" onClick={() => setCurrentStep(1)} className="flex-1">
+                        <Button type="button" variant="outline" onClick={() => setCurrentStep(1)} className="flex-1 service-button">
                           <ArrowLeft className="mr-2 h-4 w-4" />
                           Previous
                         </Button>
                         <Button
                           type="submit"
-                          className="flex-1 bg-green-600 hover:bg-green-700"
+                          className="flex-1 text-white hover:opacity-90"
+                          style={{ backgroundColor: '#e06e00' }}
                           disabled={isSubmitting}
                         >
                           {isSubmitting ? (

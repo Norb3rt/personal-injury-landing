@@ -2,7 +2,7 @@
 // Updated to support new multi-state architecture with legacy compatibility
 
 import { Metadata } from 'next'
-import { getCityData as getFullCityData, findCityByOriginalSlug } from './california-cities'
+import { getCityData as getFullCityData, findCityByOriginalSlug, CALIFORNIA_CITIES_FULL } from './california-cities'
 
 export interface CityCoordinates {
   lat: number
@@ -275,14 +275,14 @@ export function generateLocalBusinessStructuredData(citySlug: string, baseUrl: s
 // Get all city slugs for static generation
 export async function getAllCitySlugsList(): Promise<string[]> {
   const oldSlugs = Object.keys(CALIFORNIA_CITIES)
-  const newSlugs = Object.keys(require('./california-cities').CALIFORNIA_CITIES_FULL)
+  const newSlugs = Object.keys(CALIFORNIA_CITIES_FULL)
   return [...oldSlugs, ...newSlugs]
 }
 
 // Synchronous version for backward compatibility
 export function getAllCitySlugs(): string[] {
   const oldSlugs = Object.keys(CALIFORNIA_CITIES)
-  const newSlugs = Object.keys(require('./california-cities').CALIFORNIA_CITIES_FULL)
+  const newSlugs = Object.keys(CALIFORNIA_CITIES_FULL)
   return [...oldSlugs, ...newSlugs]
 }
 

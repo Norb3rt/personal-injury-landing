@@ -28,22 +28,28 @@ export function StickyFooterCTA({ city }: StickyFooterCTAProps) {
   if (!isVisible) return null
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 bg-blue-900 text-white p-4 shadow-lg z-50 border-t-4 border-yellow-400">
+    <div className="fixed bottom-0 left-0 right-0 text-white p-4 shadow-lg z-50 border-t-4" style={{ backgroundColor: '#0B6B65', borderTopColor: '#e06e00' }}>
       <div className="max-w-4xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
         <div className="text-center sm:text-left">
           <p className="font-semibold text-lg">Take the First Step Toward Financial Recovery.</p>
-          <p className="text-blue-200 text-sm">Free consultation • No win, no fee • Available 24/7</p>
+          <p className="text-white/80 text-sm">Free consultation • No win, no fee • Available 24/7</p>
         </div>
         <div className="flex gap-3">
-          <a href={`tel:${phoneNumber.replace(/[^0-9+]/g, '')}`}>
-            <Button className="bg-green-600 hover:bg-green-700 text-white font-bold">
+          {/* <a href={`tel:${phoneNumber.replace(/[^0-9+]/g, '')}`}>
+            <Button
+              className="text-white font-bold transition-all duration-300 hover:opacity-90"
+              style={{ backgroundColor: '#0B6B65', borderColor: '#0B6B65' }}
+            >
               <Phone className="h-4 w-4 mr-2" />
               Call Now
             </Button>
-          </a>
+          </a> */}
           <TwoStepLeadModal
             trigger={
-              <Button className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold">
+              <Button
+                className="text-white font-bold transition-all duration-300 hover:opacity-90"
+                style={{ backgroundColor: '#e06e00', borderColor: '#e06e00' }}
+              >
                 Get My Free Case Review
               </Button>
             }

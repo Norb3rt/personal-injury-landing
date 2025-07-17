@@ -157,7 +157,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         <ScrollProgress />
 
         {/* Hero Section */}
-        <section className="relative bg-gradient-to-br from-blue-900 via-blue-800 to-blue-700 text-white py-20 px-4 overflow-hidden">
+        <section className="relative text-white py-20 px-4 overflow-hidden" style={{ backgroundColor: '#0B6B65' }}>
           {/* Floating Particles Background */}
           <FloatingParticles
             count={60}
@@ -171,15 +171,15 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             <FadeIn direction="down" delay={0.1}>
               <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
                 <AnimatedText text="Injured in" className="inline-block mr-2" staggerDelay={0.03} />
-                <span className="text-yellow-400 inline-block">
+                <span className="inline-block" style={{ color: '#e06e00' }}>
                   <TypingEffect
                     text={city}
                     speed={50}
-                    className="text-yellow-400"
+                    style={{ color: '#e06e00' }}
                     showCursor={false}
                   />
                 </span>
-                <span className="text-yellow-400">?</span>
+                <span style={{ color: '#e06e00' }}>?</span>
                 <br />
                 <AnimatedText
                   text="Get the Settlement You Deserve."
@@ -202,7 +202,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   trigger={
                     <Button
                       size="lg"
-                      className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold text-lg px-8 py-4 mb-8 shadow-2xl"
+                      className="text-white font-bold text-lg px-8 py-4 mb-8 shadow-2xl hover:opacity-90"
+                      style={{ backgroundColor: '#e06e00' }}
                     >
                       Get a Free Case Review
                     </Button>
@@ -215,25 +216,25 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
             <StaggerContainer staggerDelay={0.05} className="flex flex-wrap justify-center items-center gap-6 text-sm">
               <StaggerItem>
-                <GlowEffect glowColor="rgba(234, 179, 8, 0.3)">
+                <GlowEffect glowColor="rgba(224, 110, 0, 0.3)">
                   <div className="flex items-center gap-2">
-                    <DollarSign className="h-5 w-5 text-yellow-400" />
+                    <DollarSign className="h-5 w-5" style={{ color: '#e06e00' }} />
                     <span>Millions Recovered</span>
                   </div>
                 </GlowEffect>
               </StaggerItem>
               <StaggerItem>
-                <GlowEffect glowColor="rgba(234, 179, 8, 0.3)">
+                <GlowEffect glowColor="rgba(224, 110, 0, 0.3)">
                   <div className="flex items-center gap-2">
-                    <Shield className="h-5 w-5 text-yellow-400" />
+                    <Shield className="h-5 w-5" style={{ color: '#e06e00' }} />
                     <span>No Win, No Fee</span>
                   </div>
                 </GlowEffect>
               </StaggerItem>
               <StaggerItem>
-                <GlowEffect glowColor="rgba(234, 179, 8, 0.3)">
+                <GlowEffect glowColor="rgba(224, 110, 0, 0.3)">
                   <div className="flex items-center gap-2">
-                    <Clock className="h-5 w-5 text-yellow-400" />
+                    <Clock className="h-5 w-5" style={{ color: '#e06e00' }} />
                     <span>Available 24/7</span>
                   </div>
                 </GlowEffect>
@@ -277,7 +278,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                             <Button
                               variant="outline"
                               size="sm"
-                              className="w-full bg-transparent hover:bg-blue-50 border-blue-200 hover:border-blue-400 transition-all duration-300"
+                              className="w-full bg-transparent service-button"
                             >
                               Get Help Now
                             </Button>
@@ -339,7 +340,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
               <AnimatedButton magneticStrength={0.2} hoverScale={1.05}>
                 <TwoStepLeadModal
                   trigger={
-                    <Button size="lg" className="bg-red-600 hover:bg-red-700 text-white font-bold text-lg px-8 py-4 shadow-xl">
+                    <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#e06e00' }}>
                       Don't Let Them Win - Get Help Now
                     </Button>
                   }
@@ -406,7 +407,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                 <AnimatedButton magneticStrength={0.2} hoverScale={1.05}>
                   <TwoStepLeadModal
                     trigger={
-                      <Button size="lg" className="bg-green-600 hover:bg-green-700 text-white font-bold text-lg px-8 py-4 shadow-xl">
+                      <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#0B6B65' }}>
                         Find Out What Your Case is Worth
                       </Button>
                     }
@@ -430,12 +431,12 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
             <StaggerContainer staggerDelay={0.1} className="grid md:grid-cols-3 gap-8 relative">
               {/* Connecting Lines */}
-              <div className="hidden md:block absolute top-8 left-1/6 right-1/6 h-0.5 bg-gradient-to-r from-blue-200 via-blue-400 to-blue-200"></div>
+              <div className="hidden md:block absolute top-8 left-1/6 right-1/6 h-0.5" style={{ background: 'linear-gradient(to right, rgba(11, 107, 101, 0.3), #0B6B65, rgba(11, 107, 101, 0.3))' }}></div>
 
               <StaggerItem>
                 <div className="text-center relative">
                   <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110">
+                    <div className="w-16 h-16 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110" style={{ background: 'linear-gradient(to bottom right, #0B6B65, #0B6B65)' }}>
                       <AnimatedNumber value={1} />
                     </div>
                   </GlowEffect>
@@ -447,7 +448,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
               <StaggerItem>
                 <div className="text-center relative">
                   <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110">
+                    <div className="w-16 h-16 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110" style={{ background: 'linear-gradient(to bottom right, #0B6B65, #0B6B65)' }}>
                       <AnimatedNumber value={2} />
                     </div>
                   </GlowEffect>
@@ -459,7 +460,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
               <StaggerItem>
                 <div className="text-center relative">
                   <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110">
+                    <div className="w-16 h-16 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110" style={{ background: 'linear-gradient(to bottom right, #0B6B65, #0B6B65)' }}>
                       <AnimatedNumber value={3} />
                     </div>
                   </GlowEffect>
@@ -474,7 +475,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                 <AnimatedButton magneticStrength={0.2} hoverScale={1.05}>
                   <TwoStepLeadModal
                     trigger={
-                      <Button size="lg" className="bg-blue-600 hover:bg-blue-700 text-white font-bold text-lg px-8 py-4 shadow-xl">
+                      <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#0B6B65' }}>
                         Start Step 1 Now
                       </Button>
                     }
@@ -508,7 +509,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
               <AnimatedButton magneticStrength={0.2} hoverScale={1.05}>
                 <TwoStepLeadModal
                   trigger={
-                    <Button size="lg" className="bg-yellow-600 hover:bg-yellow-700 text-white font-bold text-lg px-8 py-4 shadow-xl">
+                    <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#e06e00' }}>
                       Risk-Free Consultation
                     </Button>
                   }
@@ -551,7 +552,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                         <p className="font-semibold text-gray-900">{testimonial.name}</p>
                         <p className="text-sm text-gray-500 mb-2">{testimonial.location}</p>
                         <GlowEffect glowColor="rgba(59, 130, 246, 0.3)">
-                          <Badge variant="secondary" className="bg-blue-100 text-blue-800 hover:bg-blue-200 transition-colors">
+                          <Badge variant="secondary" className="text-white hover:opacity-90 transition-colors" style={{ backgroundColor: '#0B6B65' }}>
                             {testimonial.case} - {testimonial.settlement}
                           </Badge>
                         </GlowEffect>
@@ -570,7 +571,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       <Button
                         size="lg"
                         variant="outline"
-                        className="border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white bg-transparent shadow-lg hover:shadow-xl transition-all duration-300"
+                        className="bg-transparent shadow-lg hover:shadow-xl transition-all duration-300 service-button"
                       >
                         Get Your Success Story Started
                       </Button>
@@ -585,18 +586,18 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         </section>
 
         {/* Reassurance Section */}
-        <section className="py-16 px-4 bg-blue-50 relative overflow-hidden">
+        <section className="py-16 px-4 bg-slate-50 relative overflow-hidden">
           <ParallaxScroll speed={0.3} className="absolute inset-0 opacity-10">
-            <FloatingParticles count={30} particleColor="rgba(59, 130, 246, 0.2)" />
+            <FloatingParticles count={30} particleColor="rgba(45, 212, 191, 0.2)" />
           </ParallaxScroll>
 
           <div className="max-w-4xl mx-auto text-center relative">
             <FadeIn direction="up" delay={0.1}>
-              <h2 className="text-3xl md:text-4xl font-bold mb-6 text-blue-800">Still Weighing Your Options?</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6 text-slate-800">Still Weighing Your Options?</h2>
             </FadeIn>
 
             <FadeIn direction="up" delay={0.2}>
-              <p className="text-xl mb-8 text-gray-700">
+              <p className="text-xl mb-8 text-slate-700">
                 If you're not ready yet, that's perfectly fine. Explore your options, and when you're ready to take
                 action, we'll be here — prepared to fight for your full compensation.
               </p>
@@ -609,7 +610,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                     <Button
                       size="lg"
                       variant="outline"
-                      className="border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white font-bold text-lg px-8 py-4 bg-transparent shadow-lg hover:shadow-xl transition-all duration-300"
+                      className="border-teal-600 text-teal-600 hover:bg-teal-600 hover:text-white font-bold text-lg px-8 py-4 bg-transparent shadow-lg hover:shadow-xl transition-all duration-300"
                     >
                       Get Your Free Case Review When Ready
                     </Button>
@@ -623,10 +624,10 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         </section>
 
         {/* FAQ Section */}
-        <section className="py-16 px-4 bg-gray-50" id="faq">
+        <section className="py-16 px-4 bg-slate-50" id="faq">
           <div className="max-w-4xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
-              <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
+              <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-slate-800">
                 Frequently Asked Questions
               </h2>
             </FadeIn>
@@ -659,7 +660,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       <Button
                         size="lg"
                         variant="outline"
-                        className="border-gray-600 text-gray-600 hover:bg-gray-600 hover:text-white bg-transparent shadow-lg hover:shadow-xl transition-all duration-300"
+                        className="border-slate-600 text-slate-600 hover:bg-slate-600 hover:text-white bg-transparent shadow-lg hover:shadow-xl transition-all duration-300"
                       >
                         Still Have Questions? Get Answers Now
                       </Button>
@@ -677,37 +678,37 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         <section className="py-16 px-4 bg-white">
           <div className="max-w-4xl mx-auto text-center">
             <FadeIn direction="up" delay={0.1}>
-              <h2 className="text-3xl md:text-4xl font-bold mb-8 text-gray-900">Ready to Get Started?</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-8 text-slate-800">Ready to Get Started?</h2>
             </FadeIn>
 
             <StaggerContainer staggerDelay={0.08} className="grid md:grid-cols-3 gap-8 mb-8">
               <StaggerItem>
-                <div className="flex flex-col items-center p-6 rounded-xl hover:bg-gray-50 transition-all duration-300">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.3)">
-                    <FileText className="h-12 w-12 text-blue-600 mb-4 hover:scale-110 transition-transform duration-300" />
+                <div className="flex flex-col items-center p-6 rounded-xl hover:bg-slate-50 transition-all duration-300">
+                  <GlowEffect glowColor="rgba(45, 212, 191, 0.3)">
+                    <FileText className="h-12 w-12 text-teal-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
-                  <h3 className="font-semibold mb-2 text-gray-900">Free Case Review</h3>
-                  <p className="text-gray-600">Get your case evaluated instantly</p>
+                  <h3 className="font-semibold mb-2 text-slate-800">Free Case Review</h3>
+                  <p className="text-slate-600">Get your case evaluated instantly</p>
                 </div>
               </StaggerItem>
 
               <StaggerItem>
-                <div className="flex flex-col items-center p-6 rounded-xl hover:bg-gray-50 transition-all duration-300">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.3)">
-                    <Users className="h-12 w-12 text-blue-600 mb-4 hover:scale-110 transition-transform duration-300" />
+                <div className="flex flex-col items-center p-6 rounded-xl hover:bg-slate-50 transition-all duration-300">
+                  <GlowEffect glowColor="rgba(45, 212, 191, 0.3)">
+                    <Users className="h-12 w-12 text-teal-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
-                  <h3 className="font-semibold mb-2 text-gray-900">Expert Matching</h3>
-                  <p className="text-gray-600">Connected to specialized attorneys</p>
+                  <h3 className="font-semibold mb-2 text-slate-800">Expert Matching</h3>
+                  <p className="text-slate-600">Connected to specialized attorneys</p>
                 </div>
               </StaggerItem>
 
               <StaggerItem>
-                <div className="flex flex-col items-center p-6 rounded-xl hover:bg-gray-50 transition-all duration-300">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.3)">
-                    <MapPin className="h-12 w-12 text-blue-600 mb-4 hover:scale-110 transition-transform duration-300" />
+                <div className="flex flex-col items-center p-6 rounded-xl hover:bg-slate-50 transition-all duration-300">
+                  <GlowEffect glowColor="rgba(45, 212, 191, 0.3)">
+                    <MapPin className="h-12 w-12 text-teal-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
-                  <h3 className="font-semibold mb-2 text-gray-900">Serving</h3>
-                  <p className="text-gray-600">{city} & Surrounding Areas</p>
+                  <h3 className="font-semibold mb-2 text-slate-800">Serving</h3>
+                  <p className="text-slate-600">{city} & Surrounding Areas</p>
                 </div>
               </StaggerItem>
             </StaggerContainer>
