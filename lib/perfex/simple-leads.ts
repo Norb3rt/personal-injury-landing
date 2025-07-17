@@ -15,6 +15,7 @@ export interface LeadFormData {
   urgency: string
   description: string
   city: string
+  state: string // Agregar campo de estado
   source: string
   timestamp: string
 }
@@ -67,7 +68,7 @@ ${formData.description}
     email: formData.email,
     phonenumber: formData.phone,
     city: formData.city,
-    state: 'California', // Since this is for California cities
+    state: formData.state, //
     country: 'United States',
     description: enrichedDescription,
     status: 1, // New lead

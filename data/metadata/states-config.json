@@ -1,0 +1,188 @@
+{
+  "california": {
+    "name": "California",
+    "abbreviation": "CA",
+    "slug": "california",
+    "timezone": "America/Los_Angeles",
+    "majorCities": [
+      "Los Angeles",
+      "San Francisco", 
+      "San Diego",
+      "Sacramento",
+      "San Jose",
+      "Fresno",
+      "Long Beach",
+      "Oakland",
+      "Bakersfield",
+      "Anaheim"
+    ],
+    "seoModifiers": [
+      "Golden State",
+      "West Coast",
+      "Pacific",
+      "Southern California",
+      "Northern California",
+      "Central Valley"
+    ],
+    "defaultCoordinates": {
+      "lat": 36.7783,
+      "lng": -119.4179
+    },
+    "enabled": true
+  },
+  "texas": {
+    "name": "Texas",
+    "abbreviation": "TX",
+    "slug": "texas",
+    "timezone": "America/Chicago",
+    "majorCities": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio",
+      "Fort Worth",
+      "El Paso",
+      "Arlington",
+      "Corpus Christi",
+      "Plano",
+      "Lubbock"
+    ],
+    "seoModifiers": [
+      "Lone Star State",
+      "South",
+      "Southwest",
+      "East Texas",
+      "West Texas",
+      "Central Texas"
+    ],
+    "defaultCoordinates": {
+      "lat": 31.9686,
+      "lng": -99.9018
+    },
+    "enabled": false
+  },
+  "florida": {
+    "name": "Florida",
+    "abbreviation": "FL",
+    "slug": "florida",
+    "timezone": "America/New_York",
+    "majorCities": [
+      "Miami",
+      "Tampa",
+      "Orlando",
+      "Jacksonville",
+      "St. Petersburg",
+      "Hialeah",
+      "Tallahassee",
+      "Fort Lauderdale",
+      "Port St. Lucie",
+      "Cape Coral"
+    ],
+    "seoModifiers": [
+      "Sunshine State",
+      "Southeast",
+      "South Florida",
+      "Central Florida",
+      "North Florida",
+      "Gulf Coast"
+    ],
+    "defaultCoordinates": {
+      "lat": 27.7663,
+      "lng": -81.6868
+    },
+    "enabled": true
+  },
+  "new-york": {
+    "name": "New York",
+    "abbreviation": "NY",
+    "slug": "new-york",
+    "timezone": "America/New_York",
+    "majorCities": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Yonkers",
+      "Syracuse",
+      "Albany",
+      "New Rochelle",
+      "Mount Vernon",
+      "Schenectady",
+      "Utica"
+    ],
+    "seoModifiers": [
+      "Empire State",
+      "Northeast",
+      "Upstate New York",
+      "Downstate New York",
+      "Hudson Valley",
+      "Long Island"
+    ],
+    "defaultCoordinates": {
+      "lat": 42.1657,
+      "lng": -74.9481
+    },
+    "enabled": false
+  },
+  "illinois": {
+    "name": "Illinois",
+    "abbreviation": "IL",
+    "slug": "illinois",
+    "timezone": "America/Chicago",
+    "majorCities": [
+      "Chicago",
+      "Aurora",
+      "Rockford",
+      "Joliet",
+      "Naperville",
+      "Springfield",
+      "Peoria",
+      "Elgin",
+      "Waukegan",
+      "Cicero"
+    ],
+    "seoModifiers": [
+      "Prairie State",
+      "Midwest",
+      "Chicagoland",
+      "Central Illinois",
+      "Southern Illinois",
+      "Northern Illinois"
+    ],
+    "defaultCoordinates": {
+      "lat": 40.6331,
+      "lng": -89.3985
+    },
+    "enabled": false
+  },
+  "pennsylvania": {
+    "name": "Pennsylvania",
+    "abbreviation": "PA",
+    "slug": "pennsylvania",
+    "timezone": "America/New_York",
+    "majorCities": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Erie",
+      "Reading",
+      "Scranton",
+      "Bethlehem",
+      "Lancaster",
+      "Harrisburg",
+      "Altoona"
+    ],
+    "seoModifiers": [
+      "Keystone State",
+      "Northeast",
+      "Eastern Pennsylvania",
+      "Western Pennsylvania",
+      "Central Pennsylvania",
+      "Lehigh Valley"
+    ],
+    "defaultCoordinates": {
+      "lat": 41.2033,
+      "lng": -77.1945
+    },
+    "enabled": false
+  }
+}

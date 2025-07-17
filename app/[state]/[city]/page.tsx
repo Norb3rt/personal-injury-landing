@@ -2,14 +2,18 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
-import { Phone, Mail, MapPin, Star, Shield, Clock, DollarSign } from "lucide-react"
+import { Phone, Mail, MapPin, Star, Shield, Clock, DollarSign, FileText, Users } from "lucide-react"
 import Link from "next/link"
 import type { Metadata } from "next"
+import { notFound } from 'next/navigation'
 
 import { StickyFooterCTA } from "@/components/sticky-footer-cta"
 import { AnalyticsProvider } from "@/components/analytics-provider"
 import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
-import { generateCityMetadata, generateLocalBusinessStructuredData, getAllCitySlugs } from "@/lib/seo"
+import { generateCityMetadata, generateLocalBusinessStructuredData } from "@/lib/seo"
+
+// Import new data loading system
+import { StateDataLoader } from "@/lib/data/state-loader"
 
 // Import animation components
 import {
@@ -29,24 +33,33 @@ import {
 
 interface PageProps {
   params: {
+    state: string
     city: string
   }
 }
 
-// Generate metadata for SEO - use static data for reliable builds
+// Generate metadata for SEO - use same system as legacy for consistency
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://your-domain.com'
 
-  // Use static metadata for reliable deployment
+  // Use the same metadata generation as legacy pages
   return generateCityMetadata(params.city, baseUrl)
 }
 
-export default function PersonalInjuryLanding({ params }: PageProps) {
+export default async function PersonalInjuryLanding({ params }: PageProps) {
+  // Validar que la combinación estado/ciudad existe
+  const isValidLocation = await validateLocation(params.state, params.city)
+
+  if (!isValidLocation) {
+    notFound() // Esto mostrará tu not-found.tsx
+  }
+
   const city = params.city.charAt(0).toUpperCase() + params.city.slice(1).replace(/-/g, " ")
+  const state = params.state.charAt(0).toUpperCase() + params.state.slice(1).replace(/-/g, " ")
   const citySlug = params.city
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://your-domain.com'
 
-  // Use static data for reliable deployment
+  // Use static data for reliable deployment (same as legacy)
   const cityData = {
     name: city,
     practiceAreas: [],
@@ -58,13 +71,13 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
     }
   }
 
-  // Generate structured data using utility function
+  // Generate structured data using utility function (same as legacy)
   const structuredData = generateLocalBusinessStructuredData(citySlug, baseUrl)
 
   const defaultTestimonials = [
     {
       name: "Maria Rodriguez",
-      location: "Los Angeles, CA",
+      location: `${city}, ${state}`,
       case: "Car Accident",
       settlement: "$285,000",
       quote:
@@ -73,7 +86,7 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
     },
     {
       name: "James Chen",
-      location: "Orange County, CA",
+      location: `${city}, ${state}`,
       case: "Slip & Fall",
       settlement: "$150,000",
       quote:
@@ -82,7 +95,7 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
     },
     {
       name: "Sarah Johnson",
-      location: "Riverside, CA",
+      location: `${city}, ${state}`,
       case: "Medical Malpractice",
       settlement: "$420,000",
       quote:
@@ -229,6 +242,8 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
           </div>
         </section>
 
+
+
         {/* Services Section */}
         <section className="py-16 px-4 bg-gray-50" id="services">
           <div className="max-w-6xl mx-auto">
@@ -358,30 +373,30 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
               <StaggerItem>
                 <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
                   <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={95} suffix="%" />
+                    <AnimatedNumber value={92} suffix="%" />
                   </div>
-                  <p className="text-gray-700 font-semibold">Success Rate</p>
-                  <p className="text-sm text-gray-600 mt-1">Cases Won</p>
+                  <p className="text-gray-700 font-semibold">Client Satisfaction</p>
+                  <p className="text-sm text-gray-600 mt-1">We put people first</p>
                 </div>
               </StaggerItem>
 
               <StaggerItem>
                 <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
                   <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={15} suffix="+" />
+                    <AnimatedNumber value={20} suffix="+" />
                   </div>
-                  <p className="text-gray-700 font-semibold">Years Experience</p>
-                  <p className="text-sm text-gray-600 mt-1">Serving {city}</p>
+                  <p className="text-gray-700 font-semibold">Years Combined Experience</p>
+                  <p className="text-sm text-gray-600 mt-1">Serving  (local communities) {city}</p>
                 </div>
               </StaggerItem>
 
               <StaggerItem>
                 <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
                   <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={125} prefix="$" suffix="K" />
+                    <AnimatedNumber value={100} prefix="$" suffix="K" />
                   </div>
-                  <p className="text-gray-700 font-semibold">Average Settlement</p>
-                  <p className="text-sm text-gray-600 mt-1">Per Case</p>
+                  <p className="text-gray-700 font-semibold">Typical Case Value</p>
+                  <p className="text-sm text-gray-600 mt-1">Fighting for maximum results</p>
                 </div>
               </StaggerItem>
             </StaggerContainer>
@@ -401,6 +416,107 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
                 </AnimatedButton>
               </FadeIn>
             </div>
+          </div>
+        </section>
+
+        {/* How It Works Section */}
+        <section className="py-16 px-4 bg-white relative overflow-hidden" id="how-it-works">
+          <div className="max-w-4xl mx-auto">
+            <FadeIn direction="up" delay={0.1}>
+              <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
+                Only Three Steps to Your Peace of Mind.
+              </h2>
+            </FadeIn>
+
+            <StaggerContainer staggerDelay={0.1} className="grid md:grid-cols-3 gap-8 relative">
+              {/* Connecting Lines */}
+              <div className="hidden md:block absolute top-8 left-1/6 right-1/6 h-0.5 bg-gradient-to-r from-blue-200 via-blue-400 to-blue-200"></div>
+
+              <StaggerItem>
+                <div className="text-center relative">
+                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
+                    <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110">
+                      <AnimatedNumber value={1} />
+                    </div>
+                  </GlowEffect>
+                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Tell Us About Your Accident</h3>
+                  <p className="text-gray-600">Free, no-obligation case evaluation.</p>
+                </div>
+              </StaggerItem>
+
+              <StaggerItem>
+                <div className="text-center relative">
+                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
+                    <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110">
+                      <AnimatedNumber value={2} />
+                    </div>
+                  </GlowEffect>
+                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Get Matched With a Local Attorney</h3>
+                  <p className="text-gray-600">Specialized in personal injury claims like yours.</p>
+                </div>
+              </StaggerItem>
+
+              <StaggerItem>
+                <div className="text-center relative">
+                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
+                    <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110">
+                      <AnimatedNumber value={3} />
+                    </div>
+                  </GlowEffect>
+                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Collect Your Compensation</h3>
+                  <p className="text-gray-600">Pay nothing out of pocket. Fees come from your settlement.</p>
+                </div>
+              </StaggerItem>
+            </StaggerContainer>
+
+            <div className="text-center mt-8">
+              <FadeIn direction="up" delay={0.3}>
+                <AnimatedButton magneticStrength={0.2} hoverScale={1.05}>
+                  <TwoStepLeadModal
+                    trigger={
+                      <Button size="lg" className="bg-blue-600 hover:bg-blue-700 text-white font-bold text-lg px-8 py-4 shadow-xl">
+                        Start Step 1 Now
+                      </Button>
+                    }
+                    source="how-it-works"
+                    city={city}
+                  />
+                </AnimatedButton>
+              </FadeIn>
+            </div>
+          </div>
+        </section>
+
+        {/* Risk Reversal Section */}
+        <section className="py-16 px-4 bg-yellow-50 relative overflow-hidden">
+          <div className="max-w-4xl mx-auto text-center">
+            <FadeIn direction="up" delay={0.1}>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6 text-yellow-800">
+                <GlowEffect glowColor="rgba(234, 179, 8, 0.3)">
+                  No Recovery, No Fee — Ever.
+                </GlowEffect>
+              </h2>
+            </FadeIn>
+
+            <FadeIn direction="up" delay={0.2}>
+              <p className="text-xl text-gray-700 mb-8">
+                You'll never pay upfront. Our partner attorneys only get paid if they win your case.
+              </p>
+            </FadeIn>
+
+            <FadeIn direction="up" delay={0.3}>
+              <AnimatedButton magneticStrength={0.2} hoverScale={1.05}>
+                <TwoStepLeadModal
+                  trigger={
+                    <Button size="lg" className="bg-yellow-600 hover:bg-yellow-700 text-white font-bold text-lg px-8 py-4 shadow-xl">
+                      Risk-Free Consultation
+                    </Button>
+                  }
+                  source="risk-reversal"
+                  city={city}
+                />
+              </AnimatedButton>
+            </FadeIn>
           </div>
         </section>
 
@@ -506,107 +622,6 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
           </div>
         </section>
 
-        {/* How It Works Section */}
-        <section className="py-16 px-4 bg-white relative overflow-hidden" id="how-it-works">
-          <div className="max-w-4xl mx-auto">
-            <FadeIn direction="up" delay={0.1}>
-              <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-                Only Three Steps to Your Peace of Mind.
-              </h2>
-            </FadeIn>
-
-            <StaggerContainer staggerDelay={0.1} className="grid md:grid-cols-3 gap-8 relative">
-              {/* Connecting Lines */}
-              <div className="hidden md:block absolute top-8 left-1/6 right-1/6 h-0.5 bg-gradient-to-r from-blue-200 via-blue-400 to-blue-200"></div>
-
-              <StaggerItem>
-                <div className="text-center relative">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110">
-                      <AnimatedNumber value={1} />
-                    </div>
-                  </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Tell Us About Your Accident</h3>
-                  <p className="text-gray-600">Free, no-obligation case evaluation.</p>
-                </div>
-              </StaggerItem>
-
-              <StaggerItem>
-                <div className="text-center relative">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110">
-                      <AnimatedNumber value={2} />
-                    </div>
-                  </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Get Matched With a Local Attorney</h3>
-                  <p className="text-gray-600">Specialized in personal injury claims like yours.</p>
-                </div>
-              </StaggerItem>
-
-              <StaggerItem>
-                <div className="text-center relative">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110">
-                      <AnimatedNumber value={3} />
-                    </div>
-                  </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Collect Your Compensation</h3>
-                  <p className="text-gray-600">Pay nothing out of pocket. Fees come from your settlement.</p>
-                </div>
-              </StaggerItem>
-            </StaggerContainer>
-
-            <div className="text-center mt-8">
-              <FadeIn direction="up" delay={0.3}>
-                <AnimatedButton magneticStrength={0.2} hoverScale={1.05}>
-                  <TwoStepLeadModal
-                    trigger={
-                      <Button size="lg" className="bg-blue-600 hover:bg-blue-700 text-white font-bold text-lg px-8 py-4 shadow-xl">
-                        Start Step 1 Now
-                      </Button>
-                    }
-                    source="how-it-works"
-                    city={city}
-                  />
-                </AnimatedButton>
-              </FadeIn>
-            </div>
-          </div>
-        </section>
-
-        {/* Risk Reversal Section */}
-        <section className="py-16 px-4 bg-yellow-50 relative overflow-hidden">
-          <div className="max-w-4xl mx-auto text-center">
-            <FadeIn direction="up" delay={0.1}>
-              <h2 className="text-3xl md:text-4xl font-bold mb-6 text-yellow-800">
-                <GlowEffect glowColor="rgba(234, 179, 8, 0.3)">
-                  No Recovery, No Fee — Ever.
-                </GlowEffect>
-              </h2>
-            </FadeIn>
-
-            <FadeIn direction="up" delay={0.2}>
-              <p className="text-xl text-gray-700 mb-8">
-                You'll never pay upfront. Our partner attorneys only get paid if they win your case.
-              </p>
-            </FadeIn>
-
-            <FadeIn direction="up" delay={0.3}>
-              <AnimatedButton magneticStrength={0.2} hoverScale={1.05}>
-                <TwoStepLeadModal
-                  trigger={
-                    <Button size="lg" className="bg-yellow-600 hover:bg-yellow-700 text-white font-bold text-lg px-8 py-4 shadow-xl">
-                      Risk-Free Consultation
-                    </Button>
-                  }
-                  source="risk-reversal"
-                  city={city}
-                />
-              </AnimatedButton>
-            </FadeIn>
-          </div>
-        </section>
-
         {/* FAQ Section */}
         <section className="py-16 px-4 bg-gray-50" id="faq">
           <div className="max-w-4xl mx-auto">
@@ -669,20 +684,20 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
               <StaggerItem>
                 <div className="flex flex-col items-center p-6 rounded-xl hover:bg-gray-50 transition-all duration-300">
                   <GlowEffect glowColor="rgba(59, 130, 246, 0.3)">
-                    <Phone className="h-12 w-12 text-blue-600 mb-4 hover:scale-110 transition-transform duration-300" />
+                    <FileText className="h-12 w-12 text-blue-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
-                  <h3 className="font-semibold mb-2 text-gray-900">Call Now</h3>
-                  <p className="text-gray-600">(213) 394-5864</p>
+                  <h3 className="font-semibold mb-2 text-gray-900">Free Case Review</h3>
+                  <p className="text-gray-600">Get your case evaluated instantly</p>
                 </div>
               </StaggerItem>
 
               <StaggerItem>
                 <div className="flex flex-col items-center p-6 rounded-xl hover:bg-gray-50 transition-all duration-300">
                   <GlowEffect glowColor="rgba(59, 130, 246, 0.3)">
-                    <Mail className="h-12 w-12 text-blue-600 mb-4 hover:scale-110 transition-transform duration-300" />
+                    <Users className="h-12 w-12 text-blue-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
-                  <h3 className="font-semibold mb-2 text-gray-900">Email Us</h3>
-                  <p className="text-gray-600">info@lawproactive.com</p>
+                  <h3 className="font-semibold mb-2 text-gray-900">Expert Matching</h3>
+                  <p className="text-gray-600">Connected to specialized attorneys</p>
                 </div>
               </StaggerItem>
 
@@ -699,6 +714,8 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
           </div>
         </section>
 
+
+
         {/* Sticky Footer CTA */}
         <StickyFooterCTA city={city} />
 
@@ -709,17 +726,6 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
               LawProactive is a legal document and lead generation platform. We connect you with independent attorneys
               who handle your case directly.
             </p>
-            {/* <div className="flex flex-wrap justify-center gap-6 text-sm">
-              <Link href="/privacy" className="hover:text-yellow-400">
-                Privacy Policy
-              </Link>
-              <Link href="/terms" className="hover:text-yellow-400">
-                Terms of Service
-              </Link>
-              <Link href="/disclaimer" className="hover:text-yellow-400">
-                Legal Disclaimer
-              </Link>
-            </div> */}
             <p className="text-gray-500 text-sm mt-4">© 2025 LawProactive. All rights reserved.</p>
           </div>
         </footer>
@@ -728,14 +734,45 @@ export default function PersonalInjuryLanding({ params }: PageProps) {
   )
 }
 
-// Generate static params for all cities using utility function
+// Generate static params for all state/city combinations
 export async function generateStaticParams() {
-  // Get all city slugs (includes both old format and new california-city format)
-  const allCities = getAllCitySlugs()
+  try {
+    const allLocations = await StateDataLoader.getAllProcessedLocations()
 
-  console.log(`🏗️ Generating static params for ${allCities.length} cities`)
+    console.log(`🏗️ Generating static params for ${allLocations.length} state/city combinations`)
 
-  return allCities.map((city) => ({
-    city: city,
-  }))
+    return allLocations.map((location) => ({
+      state: location.stateSlug,
+      city: location.citySlug,
+    }))
+  } catch (error) {
+    console.error('Error generating static params:', error)
+
+    // Fallback to basic combinations
+    const fallbackCombinations = [
+      { state: 'california', city: 'los-angeles' },
+      { state: 'california', city: 'san-francisco' },
+      { state: 'texas', city: 'houston' },
+      { state: 'florida', city: 'miami' },
+    ]
+
+    console.log(`🔄 Using fallback: ${fallbackCombinations.length} combinations`)
+    return fallbackCombinations
+  }
 }
+
+// Función para validar si la ubicación existe
+async function validateLocation(stateSlug: string, citySlug: string): Promise<boolean> {
+  try {
+    const allLocations = await StateDataLoader.getAllProcessedLocations()
+
+    return allLocations.some(location =>
+      location.stateSlug === stateSlug && location.citySlug === citySlug
+    )
+  } catch (error) {
+    console.error('Error validating location:', error)
+    return false // Si hay error, mostrar 404
+  }
+}
+
+

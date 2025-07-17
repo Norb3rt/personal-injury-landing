@@ -1,0 +1,197 @@
+{
+  "default": {
+    "metaTitle": "{city} Personal Injury Lawyer | {state}",
+    "metaDescription": "Experienced personal injury lawyer in {city}, {state}. Free consultation for car accidents, slip & fall, medical malpractice. Call now for expert legal help!",
+    "h1Template": "Personal Injury Lawyer in {city}, {state}",
+    "contentSections": [
+      "hero",
+      "why-choose-us", 
+      "practice-areas",
+      "local-expertise",
+      "testimonials",
+      "contact-form",
+      "faq"
+    ],
+    "keywordTemplates": {
+      "primary": [
+        "personal injury lawyer",
+        "car accident attorney",
+        "slip and fall lawyer", 
+        "medical malpractice attorney",
+        "wrongful death lawyer",
+        "accident lawyer",
+        "injury attorney",
+        "personal injury law firm"
+      ],
+      "local": [
+        "{city} personal injury attorney",
+        "{city} accident lawyer",
+        "{city} car crash attorney", 
+        "{city} slip fall lawyer",
+        "{city} injury law firm",
+        "{city} wrongful death attorney",
+        "{city} medical malpractice lawyer",
+        "{city} auto accident attorney"
+      ],
+      "longTail": [
+        "best personal injury lawyer in {city}",
+        "{city} {state} accident attorney",
+        "top rated injury lawyer {city}",
+        "{city} personal injury law firm",
+        "experienced {city} accident lawyer",
+        "{city} {state} car accident attorney",
+        "trusted personal injury lawyer {city}",
+        "{city} slip and fall accident lawyer"
+      ]
+    }
+  },
+  "carAccident": {
+    "metaTitle": "{city} Car Accident Lawyer | {state}",
+    "metaDescription": "Car accident lawyer in {city}, {state}. Get compensation for your auto accident injuries. Free consultation. No fees unless we win your case!",
+    "h1Template": "Car Accident Lawyer in {city}, {state}",
+    "keywordTemplates": {
+      "primary": [
+        "car accident lawyer",
+        "auto accident attorney",
+        "vehicle accident lawyer",
+        "traffic accident attorney",
+        "motor vehicle accident lawyer"
+      ],
+      "local": [
+        "{city} car accident lawyer",
+        "{city} auto accident attorney",
+        "{city} vehicle accident lawyer",
+        "{city} traffic accident attorney"
+      ],
+      "longTail": [
+        "best car accident lawyer in {city}",
+        "{city} {state} auto accident attorney",
+        "experienced car accident lawyer {city}",
+        "{city} motor vehicle accident attorney"
+      ]
+    }
+  },
+  "slipAndFall": {
+    "metaTitle": "{city} Slip and Fall Lawyer | {state} Premises Liability Attorney",
+    "metaDescription": "Slip and fall lawyer in {city}, {state}. Injured on someone else's property? Get compensation for your injuries. Free consultation available!",
+    "h1Template": "Slip and Fall Lawyer in {city}, {state}",
+    "keywordTemplates": {
+      "primary": [
+        "slip and fall lawyer",
+        "premises liability attorney",
+        "trip and fall lawyer",
+        "property accident attorney",
+        "slip fall injury lawyer"
+      ],
+      "local": [
+        "{city} slip and fall lawyer",
+        "{city} premises liability attorney",
+        "{city} trip and fall lawyer",
+        "{city} property accident attorney"
+      ],
+      "longTail": [
+        "best slip and fall lawyer in {city}",
+        "{city} {state} premises liability attorney",
+        "experienced slip fall lawyer {city}",
+        "{city} property injury attorney"
+      ]
+    }
+  },
+  "medicalMalpractice": {
+    "metaTitle": "{city} Medical Malpractice Lawyer | {state} Healthcare Attorney",
+    "metaDescription": "Medical malpractice lawyer in {city}, {state}. Victim of medical negligence? Our experienced attorneys fight for your rights. Free consultation!",
+    "h1Template": "Medical Malpractice Lawyer in {city}, {state}",
+    "keywordTemplates": {
+      "primary": [
+        "medical malpractice lawyer",
+        "medical negligence attorney",
+        "healthcare malpractice lawyer",
+        "doctor malpractice attorney",
+        "hospital negligence lawyer"
+      ],
+      "local": [
+        "{city} medical malpractice lawyer",
+        "{city} medical negligence attorney",
+        "{city} healthcare malpractice lawyer",
+        "{city} doctor malpractice attorney"
+      ],
+      "longTail": [
+        "best medical malpractice lawyer in {city}",
+        "{city} {state} medical negligence attorney",
+        "experienced medical malpractice lawyer {city}",
+        "{city} healthcare negligence attorney"
+      ]
+    }
+  },
+  "wrongfulDeath": {
+    "metaTitle": "{city} Wrongful Death Lawyer | {state} Fatal Accident Attorney",
+    "metaDescription": "Wrongful death lawyer in {city}, {state}. Lost a loved one due to negligence? Our compassionate attorneys help families seek justice and compensation.",
+    "h1Template": "Wrongful Death Lawyer in {city}, {state}",
+    "keywordTemplates": {
+      "primary": [
+        "wrongful death lawyer",
+        "fatal accident attorney",
+        "wrongful death attorney",
+        "death injury lawyer",
+        "fatal injury attorney"
+      ],
+      "local": [
+        "{city} wrongful death lawyer",
+        "{city} fatal accident attorney",
+        "{city} wrongful death attorney",
+        "{city} death injury lawyer"
+      ],
+      "longTail": [
+        "best wrongful death lawyer in {city}",
+        "{city} {state} fatal accident attorney",
+        "experienced wrongful death lawyer {city}",
+        "{city} death injury attorney"
+      ]
+    }
+  },
+  "contentVariations": {
+    "heroIntros": [
+      "If you've been injured in {city}, {state}, you need experienced legal representation.",
+      "When accidents happen in {city}, {state}, our personal injury lawyers are here to help.",
+      "Seeking justice after an injury in {city}, {state}? Our legal team is ready to fight for you.",
+      "Injured in {city}, {state}? Don't face the insurance companies alone.",
+      "After an accident in {city}, {state}, you deserve compensation for your injuries."
+    ],
+    "practiceAreaIntros": [
+      "Our comprehensive legal services cover all types of personal injury cases.",
+      "We handle a wide range of accident and injury claims throughout the area.",
+      "From car accidents to medical malpractice, we provide expert legal representation.",
+      "Our experienced attorneys specialize in various types of personal injury cases.",
+      "We offer skilled legal representation for all types of accident and injury claims."
+    ],
+    "whyChooseUsIntros": [
+      "With years of experience serving clients in the area, we understand local laws and procedures.",
+      "Our track record of successful settlements and verdicts speaks for itself.",
+      "We offer personalized attention and aggressive representation for every client.",
+      "Our commitment to excellence has earned us the trust of clients throughout the region.",
+      "We combine legal expertise with compassionate client service to achieve the best results."
+    ],
+    "localExpertiseIntros": [
+      "Our deep knowledge of {city} and {state} gives us an advantage in your case.",
+      "As local attorneys, we understand the unique challenges facing {city} residents.",
+      "We're proud to serve the {city} community with dedicated legal advocacy.",
+      "Our familiarity with {city} courts and legal procedures benefits our clients.",
+      "Having served {city} for years, we know how to navigate the local legal system."
+    ]
+  },
+  "schemaTemplates": {
+    "legalService": {
+      "@context": "https://schema.org",
+      "@type": ["LegalService", "LocalBusiness"],
+      "serviceType": "Personal Injury Law",
+      "areaServed": "{city}, {state}",
+      "priceRange": "Free Consultation"
+    },
+    "attorney": {
+      "@context": "https://schema.org", 
+      "@type": "Attorney",
+      "name": "Personal Injury Lawyer",
+      "knowsAbout": "Personal Injury Law"
+    }
+  }
+}

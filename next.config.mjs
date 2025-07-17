@@ -63,6 +63,43 @@ const nextConfig = {
         destination: '/',
         permanent: true,
       },
+      // Legacy city redirects to new state/city structure
+      {
+        source: '/los-angeles',
+        destination: '/california/los-angeles',
+        permanent: true,
+      },
+      {
+        source: '/san-francisco',
+        destination: '/california/san-francisco',
+        permanent: true,
+      },
+      {
+        source: '/san-diego',
+        destination: '/california/san-diego',
+        permanent: true,
+      },
+      {
+        source: '/sacramento',
+        destination: '/california/sacramento',
+        permanent: true,
+      },
+      {
+        source: '/houston',
+        destination: '/texas/houston',
+        permanent: true,
+      },
+      {
+        source: '/dallas',
+        destination: '/texas/dallas',
+        permanent: true,
+      },
+      {
+        source: '/miami',
+        destination: '/florida/miami',
+        permanent: true,
+      },
+      // Add more redirects for all your cities...
     ]
   },
 }

@@ -80,10 +80,14 @@ export function TwoStepLeadModal({ trigger, source, city, caseType }: TwoStepLea
 
     setIsSubmitting(true)
     try {
-      const fullData: FullFormData & { city: string; source: string; timestamp: string } = {
+      // Extraer estado de la URL o source
+      const stateFromSource = extractStateFromSource(source)
+
+      const fullData: FullFormData & { city: string; state: string; source: string; timestamp: string } = {
         ...step1Data,
         ...data,
         city,
+        state: stateFromSource, // Agregar estado dinámico
         source,
         timestamp: new Date().toISOString(),
       }
@@ -423,4 +427,25 @@ export function TwoStepLeadModal({ trigger, source, city, caseType }: TwoStepLea
       </DialogContent>
     </Dialog>
   )
+}
+
+// Función helper para extraer estado del source
+function extractStateFromSource(source: string): string {
+  // Si el source incluye información del estado
+  if (source.includes('california')) return 'California'
+  if (source.includes('texas')) return 'Texas'
+  if (source.includes('florida')) return 'Florida'
+  if (source.includes('new-york')) return 'New York'
+
+  // Fallback: extraer de la URL actual
+  if (typeof window !== 'undefined') {
+    const pathname = window.location.pathname
+    const segments = pathname.split('/')
+    if (segments[1]) {
+      const stateSlug = segments[1]
+      return stateSlug.charAt(0).toUpperCase() + stateSlug.slice(1).replace(/-/g, ' ')
+    }
+  }
+
+  return 'Unknown'
 }

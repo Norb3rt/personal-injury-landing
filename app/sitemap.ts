@@ -1,71 +1,9 @@
 import { MetadataRoute } from 'next'
-import { getAllCitySlugs } from '@/lib/seo'
+import { StateDataLoader } from '@/lib/data/state-loader'
+import { SEOPriority } from '@/lib/types/location.types'
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://your-domain.com'
-
-  // Get cities from SEO utility and add additional cities
-  const mainCities = getAllCitySlugs()
-  const additionalCities = [
-    "riverside",
-    "san-bernardino",
-    "ventura",
-    "santa-barbara",
-    "kern",
-    "imperial",
-    "fresno",
-    "san-jose",
-    "oakland",
-    "bakersfield",
-    "anaheim",
-    "santa-ana",
-    "stockton",
-    "fremont",
-    "irvine",
-    "chula-vista",
-    "modesto",
-    "oxnard",
-    "fontana",
-    "moreno-valley",
-    "huntington-beach",
-    "glendale",
-    "santa-clarita",
-    "garden-grove",
-    "oceanside",
-    "rancho-cucamonga",
-    "santa-rosa",
-    "ontario",
-    "lancaster",
-    "elk-grove",
-    "palmdale",
-    "corona",
-    "salinas",
-    "pomona",
-    "hayward",
-    "escondido",
-    "torrance",
-    "sunnyvale",
-    "orange",
-    "fullerton",
-    "pasadena",
-    "thousand-oaks",
-    "visalia",
-    "simi-valley",
-    "concord"
-  ]
-
-  // Get all cities (now includes 482 California cities)
-  const cities = [...mainCities, ...additionalCities]
-
-  console.log(`🗺️ Generating sitemap for ${cities.length} cities`)
-
-  // Generate sitemap entries for all city pages
-  const cityPages = cities.map((city) => ({
-    url: `${baseUrl}/${city}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: 0.8,
-  }))
 
   // Static pages
   const staticPages = [
@@ -95,5 +33,50 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ]
 
-  return [...staticPages, ...cityPages]
+  try {
+    // Get all locations from new system
+    const allLocations = await StateDataLoader.getAllProcessedLocations()
+
+    console.log(`🗺️ Generating sitemap for ${allLocations.length} locations across multiple states`)
+
+    // Generate sitemap entries for new [state]/[city] structure
+    const newStatePages = allLocations.map((location) => ({
+      url: `${baseUrl}/${location.stateSlug}/${location.citySlug}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: calculatePriority(location),
+    }))
+
+    console.log(`📍 Generated ${newStatePages.length} state/city pages`)
+
+    return [...staticPages, ...newStatePages]
+  } catch (error) {
+    console.error('Error generating sitemap:', error)
+
+    console.log(`🔄 Fallback: Using static pages only`)
+    return staticPages
+  }
+}
+
+// Helper function to calculate priority based on location data
+function calculatePriority(location: any): number {
+  // Major cities get higher priority
+  const majorCities = [
+    'los-angeles', 'san-francisco', 'san-diego', 'sacramento', 'san-jose',
+    'houston', 'dallas', 'austin', 'san-antonio', 'fort-worth',
+    'miami', 'tampa', 'orlando', 'jacksonville',
+    'new-york-city', 'buffalo', 'rochester'
+  ]
+
+  if (majorCities.includes(location.citySlug)) {
+    return SEOPriority.HIGH
+  }
+
+  // State capitals and large cities
+  if (location.population && location.population > 100000) {
+    return SEOPriority.MEDIUM
+  }
+
+  // Default priority for smaller cities
+  return SEOPriority.LOW
 }
