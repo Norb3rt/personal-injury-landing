@@ -272,15 +272,19 @@ export function generateLocalBusinessStructuredData(citySlug: string, baseUrl: s
   }
 }
 
-// Get all city slugs for static generation
+// Get all city slugs for static generation - DEPRECATED
+// These functions are no longer needed as we use the new [state]/[city] structure
+// Keeping for backward compatibility but they should not be used in new code
 export async function getAllCitySlugsList(): Promise<string[]> {
+  console.warn('getAllCitySlugsList is deprecated. Use StateDataLoader.getAllProcessedLocations() instead.')
   const oldSlugs = Object.keys(CALIFORNIA_CITIES)
   const newSlugs = Object.keys(CALIFORNIA_CITIES_FULL)
   return [...oldSlugs, ...newSlugs]
 }
 
-// Synchronous version for backward compatibility
+// Synchronous version for backward compatibility - DEPRECATED
 export function getAllCitySlugs(): string[] {
+  console.warn('getAllCitySlugs is deprecated. Use StateDataLoader.getAllProcessedLocations() instead.')
   const oldSlugs = Object.keys(CALIFORNIA_CITIES)
   const newSlugs = Object.keys(CALIFORNIA_CITIES_FULL)
   return [...oldSlugs, ...newSlugs]
