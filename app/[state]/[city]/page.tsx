@@ -736,7 +736,25 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
               LawProactive is a legal document and lead generation platform. We connect you with independent attorneys
               who handle your case directly.
             </p>
-            <p className="text-gray-500 text-sm mt-4">© 2025 LawProactive. All rights reserved.</p>
+
+            {/* Legal Links */}
+            <div className="flex justify-center items-center gap-6 mb-4">
+              <Link
+                href="/terms-of-service"
+                className="text-gray-400 hover:text-white transition-colors duration-300 text-sm underline"
+              >
+                Terms of Service
+              </Link>
+              <span className="text-gray-600">|</span>
+              <Link
+                href="/privacy-policy"
+                className="text-gray-400 hover:text-white transition-colors duration-300 text-sm underline"
+              >
+                Privacy Policy
+              </Link>
+            </div>
+
+            <p className="text-gray-500 text-sm">© 2025 LawProactive. All rights reserved.</p>
           </div>
         </footer>
       </div>
