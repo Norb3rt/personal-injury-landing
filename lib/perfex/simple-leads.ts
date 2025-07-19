@@ -83,6 +83,9 @@ ${formData.description}
 
   // Log para debugging
   console.log('📋 Datos que se envían a Perfex CRM:', {
+    name: leadData.name,
+    city: leadData.city,
+    state: leadData.state,
     caseType: leadData.case_type,
     accidentDate: leadData.accident_date,
     urgency: leadData.urgency,
@@ -104,7 +107,8 @@ export async function createPerfexLead(formData: LeadFormData): Promise<ApiRespo
       name: leadData.name,
       email: leadData.email,
       city: leadData.city,
-      caseType: leadData.custom_fields?.case_type
+      state: leadData.state,
+      caseType: leadData.case_type
     })
 
     const result = await client.createLead(leadData)

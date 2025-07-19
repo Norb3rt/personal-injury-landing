@@ -210,6 +210,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   }
                   source="hero-primary"
                   city={city}
+                  state={state}
                 />
               </AnimatedButton>
             </FadeIn>
@@ -285,6 +286,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                           }
                           source={`service-${service.name.toLowerCase().replace(/\s+/g, "-")}`}
                           city={city}
+                          state={state}
                           caseType={service.name}
                         />
                       </AnimatedButton>
@@ -346,6 +348,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   }
                   source="pain-points"
                   city={city}
+                  state={state}
                 />
               </AnimatedButton>
             </FadeIn>
@@ -413,6 +416,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                     }
                     source="value-prop"
                     city={city}
+                    state={state}
                   />
                 </AnimatedButton>
               </FadeIn>
@@ -481,6 +485,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                     }
                     source="how-it-works"
                     city={city}
+                    state={state}
                   />
                 </AnimatedButton>
               </FadeIn>
@@ -515,6 +520,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   }
                   source="risk-reversal"
                   city={city}
+                  state={state}
                 />
               </AnimatedButton>
             </FadeIn>
@@ -578,6 +584,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                     }
                     source="testimonials"
                     city={city}
+                    state={state}
                   />
                 </AnimatedButton>
               </FadeIn>
@@ -617,6 +624,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   }
                   source="reassurance"
                   city={city}
+                  state={state}
                 />
               </AnimatedButton>
             </FadeIn>
@@ -667,6 +675,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                     }
                     source="faq"
                     city={city}
+                    state={state}
                   />
                 </AnimatedButton>
               </FadeIn>
@@ -718,7 +727,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
 
         {/* Sticky Footer CTA */}
-        <StickyFooterCTA city={city} />
+        <StickyFooterCTA city={city} state={state} />
 
         {/* Footer */}
         <footer className="bg-gray-900 text-white py-8 px-4 pb-20">

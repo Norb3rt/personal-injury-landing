@@ -2,7 +2,7 @@
 // Updated to support new multi-state architecture with legacy compatibility
 
 import { Metadata } from 'next'
-import { getCityData as getFullCityData, findCityByOriginalSlug, CALIFORNIA_CITIES_FULL } from './california-cities'
+// Removed dependency on california-cities.ts - using static data instead
 
 export interface CityCoordinates {
   lat: number
@@ -70,84 +70,51 @@ export const CALIFORNIA_CITIES: Record<string, CityMetadata> = {
 
 // Generate comprehensive metadata for city pages
 export function generateCityMetadata(citySlug: string, baseUrl: string = 'https://your-domain.com'): Metadata {
-  // Try new structure first (california-city)
-  let cityData = getFullCityData(citySlug)
+  // Simplified implementation - convert slug to city name
+  const cityName = citySlug.charAt(0).toUpperCase() + citySlug.slice(1).replace(/-/g, " ")
 
-  // If not found, try old structure (city only) for backward compatibility
-  if (!cityData) {
-    const oldCityData = CALIFORNIA_CITIES[citySlug]
-    if (oldCityData) {
-      // Convert old format to new format for compatibility
-      cityData = {
-        ...oldCityData,
-        originalSlug: citySlug,
-        objectId: 0
-      }
+  // Check if we have legacy data
+  const oldCityData = CALIFORNIA_CITIES[citySlug]
+  if (oldCityData) {
+    const { name, coordinates, keywords, localKeywords } = oldCityData
+
+    return {
+      title: `Personal Injury Lawyer in ${name}, CA | Free Consultation | No Win No Fee`,
+      description: `Injured in ${name}? Get the settlement you deserve. Connect with top-rated personal injury attorneys in ${name}, California. Free case evaluation. No win, no fee guarantee.`,
+      keywords: [...keywords, ...localKeywords, `${name} personal injury`, `${name} accident lawyer`].join(', '),
+      metadataBase: new URL(baseUrl),
+      alternates: {
+        canonical: `/${citySlug}`,
+      },
+      openGraph: {
+        title: `${name} Personal Injury Lawyer | Free Consultation`,
+        description: `Injured in ${name}, CA? Get maximum compensation with our experienced personal injury attorneys. No win, no fee.`,
+        url: `${baseUrl}/${citySlug}`,
+        siteName: 'Personal Injury Lawyers',
+        locale: 'en_US',
+        type: 'website',
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: `${name} Personal Injury Lawyer | Free Consultation`,
+        description: `Injured in ${name}, CA? Get maximum compensation with our experienced personal injury attorneys. No win, no fee.`,
+      },
+      robots: {
+        index: true,
+        follow: true,
+        googleBot: {
+          index: true,
+          follow: true,
+          'max-video-preview': -1,
+          'max-image-preview': 'large',
+          'max-snippet': -1,
+        },
+      },
     }
   }
 
-  // If still not found, try to find by original slug
-  if (!cityData) {
-    cityData = findCityByOriginalSlug(citySlug)
-  }
-
-  if (!cityData) {
-    // Fallback for cities not in our database
-    const cityName = citySlug.includes('california-')
-      ? citySlug.replace('california-', '').charAt(0).toUpperCase() + citySlug.replace('california-', '').slice(1).replace(/-/g, " ")
-      : citySlug.charAt(0).toUpperCase() + citySlug.slice(1).replace(/-/g, " ")
-    return generateFallbackMetadata(cityName, citySlug, baseUrl)
-  }
-
-  const { name, coordinates, keywords, localKeywords } = cityData
-  
-  return {
-    title: `Personal Injury Lawyer in ${name}, CA | Free Consultation | No Win No Fee`,
-    description: `Injured in ${name}? Get the settlement you deserve. Connect with top-rated personal injury attorneys in ${name}, California. Free case evaluation. No win, no fee guarantee.`,
-    keywords: [...keywords, ...localKeywords, `${name} personal injury`, `${name} accident lawyer`].join(', '),
-    metadataBase: new URL(baseUrl),
-    alternates: {
-      canonical: `/${citySlug}`,
-    },
-    openGraph: {
-      title: `Personal Injury Lawyer in ${name}, CA | Free Consultation`,
-      description: `Injured in ${name}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
-      url: `${baseUrl}/${citySlug}`,
-      siteName: 'LawProactive',
-      images: [
-        {
-          url: `/og-images/${citySlug}.jpg`,
-          width: 1200,
-          height: 630,
-          alt: `Personal Injury Lawyer in ${name}, California`,
-        },
-      ],
-      locale: 'en_US',
-      type: 'website',
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title: `Personal Injury Lawyer in ${name}, CA | Free Consultation`,
-      description: `Injured in ${name}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
-      images: [`/og-images/${citySlug}.jpg`],
-    },
-    robots: {
-      index: true,
-      follow: true,
-      googleBot: {
-        index: true,
-        follow: true,
-        'max-video-preview': -1,
-        'max-image-preview': 'large',
-        'max-snippet': -1,
-      },
-    },
-    other: {
-      'geo.region': 'US-CA',
-      'geo.placename': name,
-      'geo.position': `${coordinates.lat};${coordinates.lng}`,
-    },
-  }
+  // Fallback for cities not in our database
+  return generateFallbackMetadata(cityName, citySlug, baseUrl)
 }
 
 // Fallback metadata for cities not in our database
@@ -278,16 +245,14 @@ export function generateLocalBusinessStructuredData(citySlug: string, baseUrl: s
 export async function getAllCitySlugsList(): Promise<string[]> {
   console.warn('getAllCitySlugsList is deprecated. Use StateDataLoader.getAllProcessedLocations() instead.')
   const oldSlugs = Object.keys(CALIFORNIA_CITIES)
-  const newSlugs = Object.keys(CALIFORNIA_CITIES_FULL)
-  return [...oldSlugs, ...newSlugs]
+  return oldSlugs
 }
 
 // Synchronous version for backward compatibility - DEPRECATED
 export function getAllCitySlugs(): string[] {
   console.warn('getAllCitySlugs is deprecated. Use StateDataLoader.getAllProcessedLocations() instead.')
   const oldSlugs = Object.keys(CALIFORNIA_CITIES)
-  const newSlugs = Object.keys(CALIFORNIA_CITIES_FULL)
-  return [...oldSlugs, ...newSlugs]
+  return oldSlugs
 }
 
 // Enhanced city metadata generation using legacy system
@@ -297,7 +262,7 @@ export async function generateCityMetadataEnhanced(citySlug: string, baseUrl: st
 
 // Legacy metadata generation (kept for fallback)
 function generateCityMetadataLegacy(citySlug: string, baseUrl: string): Metadata {
-  const cityData = CALIFORNIA_CITIES[citySlug] || getFullCityData(citySlug)
+  const cityData = CALIFORNIA_CITIES[citySlug]
   const cityName = cityData?.name || citySlug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())
 
   return {

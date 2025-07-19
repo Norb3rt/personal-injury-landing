@@ -16,6 +16,7 @@ const leadSubmissionSchema = z.object({
   description: z.string().min(10),
   consent: z.boolean(),
   city: z.string(),
+  state: z.string(),
   source: z.string(),
   timestamp: z.string(),
 })
@@ -31,6 +32,7 @@ export async function submitLead(data: LeadSubmission) {
       name: `${validatedData.firstName} ${validatedData.lastName}`,
       email: validatedData.email,
       city: validatedData.city,
+      state: validatedData.state,
       caseType: validatedData.caseType
     })
 
@@ -46,7 +48,8 @@ export async function submitLead(data: LeadSubmission) {
           console.log("✅ Lead successfully submitted to Perfex CRM:", {
             name: `${validatedData.firstName} ${validatedData.lastName}`,
             email: validatedData.email,
-            city: validatedData.city
+            city: validatedData.city,
+            state: validatedData.state
           })
 
           // Return success immediately for Perfex integration

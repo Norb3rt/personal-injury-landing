@@ -7,9 +7,10 @@ import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
 
 interface StickyFooterCTAProps {
   city: string
+  state?: string
 }
 
-export function StickyFooterCTA({ city }: StickyFooterCTAProps) {
+export function StickyFooterCTA({ city, state }: StickyFooterCTAProps) {
   const [isVisible, setIsVisible] = useState(false)
 
   useEffect(() => {
@@ -55,6 +56,7 @@ export function StickyFooterCTA({ city }: StickyFooterCTAProps) {
             }
             source="sticky-footer"
             city={city}
+            state={state}
           />
         </div>
       </div>

@@ -40,10 +40,11 @@ interface TwoStepLeadModalProps {
   trigger: React.ReactNode
   source: string
   city: string
+  state?: string
   caseType?: string
 }
 
-export function TwoStepLeadModal({ trigger, source, city, caseType }: TwoStepLeadModalProps) {
+export function TwoStepLeadModal({ trigger, source, city, state, caseType }: TwoStepLeadModalProps) {
   const [open, setOpen] = useState(false)
   const [currentStep, setCurrentStep] = useState(1)
   const [isSubmitting, setIsSubmitting] = useState(false)
@@ -80,14 +81,14 @@ export function TwoStepLeadModal({ trigger, source, city, caseType }: TwoStepLea
 
     setIsSubmitting(true)
     try {
-      // Extraer estado de la URL o source
-      const stateFromSource = extractStateFromSource(source)
+      // Usar el estado pasado como prop o extraer de la URL/source como fallback
+      const finalState = state || extractStateFromSource(source)
 
       const fullData: FullFormData & { city: string; state: string; source: string; timestamp: string } = {
         ...step1Data,
         ...data,
         city,
-        state: stateFromSource, // Agregar estado dinámico
+        state: finalState, // Usar estado dinámico
         source,
         timestamp: new Date().toISOString(),
       }
@@ -438,6 +439,52 @@ function extractStateFromSource(source: string): string {
   if (source.includes('texas')) return 'Texas'
   if (source.includes('florida')) return 'Florida'
   if (source.includes('new-york')) return 'New York'
+  if (source.includes('nevada')) return 'Nevada'
+  if (source.includes('arizona')) return 'Arizona'
+  if (source.includes('washington')) return 'Washington'
+  if (source.includes('oregon')) return 'Oregon'
+  if (source.includes('colorado')) return 'Colorado'
+  if (source.includes('utah')) return 'Utah'
+  if (source.includes('new-mexico')) return 'New Mexico'
+  if (source.includes('montana')) return 'Montana'
+  if (source.includes('wyoming')) return 'Wyoming'
+  if (source.includes('idaho')) return 'Idaho'
+  if (source.includes('north-dakota')) return 'North Dakota'
+  if (source.includes('south-dakota')) return 'South Dakota'
+  if (source.includes('nebraska')) return 'Nebraska'
+  if (source.includes('kansas')) return 'Kansas'
+  if (source.includes('oklahoma')) return 'Oklahoma'
+  if (source.includes('arkansas')) return 'Arkansas'
+  if (source.includes('louisiana')) return 'Louisiana'
+  if (source.includes('mississippi')) return 'Mississippi'
+  if (source.includes('alabama')) return 'Alabama'
+  if (source.includes('tennessee')) return 'Tennessee'
+  if (source.includes('kentucky')) return 'Kentucky'
+  if (source.includes('missouri')) return 'Missouri'
+  if (source.includes('iowa')) return 'Iowa'
+  if (source.includes('minnesota')) return 'Minnesota'
+  if (source.includes('wisconsin')) return 'Wisconsin'
+  if (source.includes('illinois')) return 'Illinois'
+  if (source.includes('michigan')) return 'Michigan'
+  if (source.includes('indiana')) return 'Indiana'
+  if (source.includes('ohio')) return 'Ohio'
+  if (source.includes('west-virginia')) return 'West Virginia'
+  if (source.includes('virginia')) return 'Virginia'
+  if (source.includes('north-carolina')) return 'North Carolina'
+  if (source.includes('south-carolina')) return 'South Carolina'
+  if (source.includes('georgia')) return 'Georgia'
+  if (source.includes('pennsylvania')) return 'Pennsylvania'
+  if (source.includes('maryland')) return 'Maryland'
+  if (source.includes('delaware')) return 'Delaware'
+  if (source.includes('new-jersey')) return 'New Jersey'
+  if (source.includes('connecticut')) return 'Connecticut'
+  if (source.includes('rhode-island')) return 'Rhode Island'
+  if (source.includes('massachusetts')) return 'Massachusetts'
+  if (source.includes('vermont')) return 'Vermont'
+  if (source.includes('new-hampshire')) return 'New Hampshire'
+  if (source.includes('maine')) return 'Maine'
+  if (source.includes('alaska')) return 'Alaska'
+  if (source.includes('hawaii')) return 'Hawaii'
 
   // Fallback: extraer de la URL actual
   if (typeof window !== 'undefined') {
