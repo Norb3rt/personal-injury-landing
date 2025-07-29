@@ -76,30 +76,30 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
   const defaultTestimonials = [
     {
-      name: "Maria Rodriguez",
+      name: "",
       location: `${city}, ${state}`,
-      case: "Car Accident",
-      settlement: "$285,000",
+      case: "Former User",
+      // settlement: "",
       quote:
-        "After my accident, I was overwhelmed with medical bills and insurance calls. The attorney they connected me with fought hard and got me almost 3x what insurance initially offered.",
+        "This platform made it easy to find a personal injury lawyer near me. I was contacted within minutes.",
       rating: 5,
     },
     {
-      name: "James Chen",
+      name: "",
       location: `${city}, ${state}`,
-      case: "Slip & Fall",
-      settlement: "$150,000",
+      case: "Injured Motorist",
+      // settlement: "$150,000",
       quote:
-        "Professional, responsive, and got results. I couldn't have navigated this process alone. Highly recommend their network of attorneys.",
+        "“I didn’t know where to start after my accident, but this site helped me get in touch with a lawyer who could help",
       rating: 5,
     },
     {
-      name: "Sarah Johnson",
+      name: "",
       location: `${city}, ${state}`,
-      case: "Medical Malpractice",
-      settlement: "$420,000",
+      case: "Site Visitor",
+      // settlement: "$420,000",
       quote:
-        "They matched me with a specialist who understood my case completely. The settlement covered all my medical expenses and more.",
+        "The process was fast and simple. I got a free consultation the same day I submitted my info.",
       rating: 5,
     },
   ]
@@ -377,30 +377,30 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
               <StaggerItem>
                 <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
                   <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={92} suffix="%" />
+                    <AnimatedNumber value={300} suffix="+" />
                   </div>
-                  <p className="text-gray-700 font-semibold">Client Satisfaction</p>
-                  <p className="text-sm text-gray-600 mt-1">We put people first</p>
+                  <p className="text-gray-700 font-semibold">Active Attorneys</p>
+                  <p className="text-sm text-gray-600 mt-1">in Our Network (and growing)</p>
                 </div>
               </StaggerItem>
 
               <StaggerItem>
                 <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
                   <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={20} suffix="+" />
+                    <AnimatedNumber value={250} suffix="+" />
                   </div>
                   <p className="text-gray-700 font-semibold">Years Combined Experience</p>
-                  <p className="text-sm text-gray-600 mt-1">Serving  (local communities) {city}</p>
+                  <p className="text-sm text-gray-600 mt-1">Serving local communities {city}</p>
                 </div>
               </StaggerItem>
 
               <StaggerItem>
                 <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
                   <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={100} prefix="$" suffix="K" />
+                    <AnimatedNumber value={100} prefix="$" suffix="M+" />
                   </div>
-                  <p className="text-gray-700 font-semibold">Typical Case Value</p>
-                  <p className="text-sm text-gray-600 mt-1">Fighting for maximum results</p>
+                  <p className="text-gray-700 font-semibold">Reported Recoveries Across Our Legal Network</p>
+                  <p className="text-sm text-gray-600 mt-1">Self-reported by participating attorneys. May include estimates or unverified figures.</p>
                 </div>
               </StaggerItem>
             </StaggerContainer>
@@ -456,8 +456,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       <AnimatedNumber value={2} />
                     </div>
                   </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Get Matched With a Local Attorney</h3>
-                  <p className="text-gray-600">Specialized in personal injury claims like yours.</p>
+                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Connect with a local attorney</h3>
+                  <p className="text-gray-600">Quickly connect with a local personal injury lawyer.</p>
                 </div>
               </StaggerItem>
 
@@ -532,7 +532,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           <div className="max-w-6xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-                Real Results for Real People
+                What People Are Saying
               </h2>
             </FadeIn>
 
@@ -706,8 +706,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   <GlowEffect glowColor="rgba(45, 212, 191, 0.3)">
                     <Users className="h-12 w-12 text-teal-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
-                  <h3 className="font-semibold mb-2 text-slate-800">Expert Matching</h3>
-                  <p className="text-slate-600">Connected to specialized attorneys</p>
+                  <h3 className="font-semibold mb-2 text-slate-800">Have Questions</h3>
+                  <p className="text-slate-600">Connect to A Licensed Attorney</p>
                 </div>
               </StaggerItem>
 
@@ -733,8 +733,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         <footer className="bg-gray-900 text-white py-8 px-4 pb-20">
           <div className="max-w-6xl mx-auto text-center">
             <p className="text-gray-400 mb-4">
-              LawProactive is a legal document and lead generation platform. We connect you with independent attorneys
-              who handle your case directly.
+              LawProactive is not a law firm and does not provide legal advice. We provide legal document preparation services and maintain a publishing platform for attorney listings and digital landing pages.
+
+              All listings are paid advertisements. LawProactive does not endorse, evaluate, or assign attorneys. No attorney-client relationship is formed by using this website.
             </p>
 
             {/* Legal Links */}
