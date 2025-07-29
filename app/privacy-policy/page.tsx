@@ -18,110 +18,167 @@ export default function PrivacyPolicyPage() {
 
           <div className="prose prose-lg max-w-none">
             <p className="text-sm text-gray-600 mb-6">
-              <strong>Effective Date:</strong> July 18, 2025<br />
-              <strong>Last Updated:</strong> July 18, 2025
+              <strong>Effective Date:</strong> July 29, 2025
             </p>
 
             <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
-              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>1. Introduction</h2>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>LawProactive Privacy Policy</h2>
               <p className="text-slate-700 leading-relaxed">
-                This Privacy Policy explains how LawProactive ("we", "us", "our") collects, uses, and protects your information.
+                This Privacy Policy explains how LawProactive.com ("LawProactive," "we," or "our") collects, uses, discloses,
+                and protects your personal information when you use our website, request legal document preparation, or
+                browse attorney listings.
+              </p>
+              <p className="text-slate-700 leading-relaxed">
+                LawProactive is not a law firm and does not provide legal advice or representation.
+                We are a California-registered and bonded Legal Document Assistant (LDA) platform operating under Business &
+                Professions Code §§ 6400-6415. We also operate a publishing and advertising platform that enables
+                attorneys to rent landing pages and maintain directory listings.
               </p>
             </section>
 
             <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
-              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>2. What We Collect</h2>
-              <p className="text-slate-700 leading-relaxed mb-4">We may collect:</p>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>What This Privacy Policy Covers</h2>
+              <p className="text-slate-700 leading-relaxed mb-4">This Privacy Policy applies to:</p>
               <ul className="list-disc pl-6 text-slate-700 space-y-2">
-                <li>Name, email, phone number, and submitted legal details.</li>
-                <li>Funnel interaction data and IP addresses.</li>
-                <li>Payment information (processed via secure third-party gateways).</li>
+                <li>Legal document preparation services offered by Law Proactive</li>
+                <li>Our website and subdomains (including legal document automation portals)</li>
+                <li>Directory listings and landing pages rented by attorneys for advertising purposes</li>
+              </ul>
+              <p className="text-slate-700 leading-relaxed mb-4">This policy does NOT cover:</p>
+              <ul className="list-disc pl-6 text-slate-700 space-y-2">
+                <li>The privacy practices of attorneys advertising on our platform</li>
+                <li>Third-party websites linked from our site</li>
+                <li>Legal services you may receive from attorneys independently</li>
               </ul>
             </section>
 
             <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
-              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>3. How We Use It</h2>
-              <p className="text-slate-700 leading-relaxed mb-4">We use your data to:</p>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>Our Approach to Privacy</h2>
+              <p className="text-slate-700 leading-relaxed">
+                We are committed to safeguarding the personal information you provide. We do not sell your data. We collect only the information necessary to deliver our services, support your interactions with the platform, and comply with applicable laws.
+              </p>
+            </section>
+
+            <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>Information We Collect</h2>
+              <p className="text-slate-700 leading-relaxed mb-4">We may collect the following categories of personal information:</p>
               <ul className="list-disc pl-6 text-slate-700 space-y-2">
-                <li>Operate and improve our website and automation tools.</li>
-                <li>Deliver the services you request.</li>
-                <li>Refer you to independent lawyers when requested.</li>
-                <li>Comply with legal obligations.</li>
+                <li>Identifiers</li>
+                <li>Document Information</li>
+                <li>Device & Usage Data</li>
+                <li>Geolocation</li>
+                <li>Professional Information</li>
+                <li>Payment Information</li>
+              </ul>
+              <p className="text-slate-700 leading-relaxed">
+                We do NOT knowingly collect sensitive biometric, health, or protected class data.
+              </p>
+            </section>
+
+            <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>How We Collect Your Information</h2>
+              <p className="text-slate-700 leading-relaxed mb-4">We collect information:</p>
+              <ul className="list-disc pl-6 text-slate-700 space-y-2">
+                <li>Directly from you via forms, email, or uploads</li>
+                <li>Through your interactions with our site (via cookies or session tracking)</li>
+                <li>From attorneys you contact through a listing or landing page</li>
+                <li>From publicly available sources</li>
               </ul>
             </section>
 
             <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
-              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>4. Third-Party Sharing and Lead Distribution</h2>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>How We Use Your Information</h2>
+              <p className="text-slate-700 leading-relaxed mb-4">We use your information to:</p>
+              <ul className="list-disc pl-6 text-slate-700 space-y-2">
+                <li>Provide document preparation services under your direction</li>
+                <li>Deliver legal forms or facilitate communication with independent attorneys</li>
+                <li>Manage your account or user profile</li>
+                <li>Improve our site and services</li>
+                <li>Send communications</li>
+                <li>Comply with regulations</li>
+              </ul>
+              <p className="text-slate-700 leading-relaxed">
+                We do NOT use your information to offer legal advice or legal representation.
+              </p>
+            </section>
+
+            <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>Attorney Listings and Advertising</h2>
+              <p className="text-slate-700 leading-relaxed">
+                Attorneys may rent landing pages or claim directory profiles to advertise their services. These pages are marked as "Attorney Advertising."
+              </p>
+              <p className="text-slate-700 leading-relaxed mb-4">LawProactive does not:</p>
+              <ul className="list-disc pl-6 text-slate-700 space-y-2">
+                <li>Recommend, refer, or evaluate attorneys</li>
+                <li>Create attorney-client relationships</li>
+                <li>Guarantee legal services, outcomes, or qualifications</li>
+              </ul>
+            </section>
+
+            <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>How We Share Information</h2>
               <p className="text-slate-700 leading-relaxed mb-4">We may share your information with:</p>
-              <ul className="list-disc pl-6 text-slate-700 space-y-2 mb-4">
-                <li>Independent lawyers you request contact with.</li>
-                <li>Licensed attorneys or legal professionals who rent funnel space on our platform or pay for lead access.</li>
+              <ul className="list-disc pl-6 text-slate-700 space-y-2">
+                <li>Service providers</li>
+                <li>Attorneys (only when you initiate contact)</li>
+                <li>Regulatory authorities when required</li>
               </ul>
               <p className="text-slate-700 leading-relaxed">
-                This transfer of data may be considered a "sale" of personal information under some privacy laws. We do not sell your information in bulk or to unrelated data brokers.
+                We do not sell or license your personal information.
               </p>
             </section>
 
             <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
-              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>5. Your Rights</h2>
-              <p className="text-slate-700 leading-relaxed mb-4">You may:</p>
-              <ul className="list-disc pl-6 text-slate-700 space-y-2 mb-4">
-                <li>Request a copy of your data.</li>
-                <li>Ask us to delete your information.</li>
-                <li>Opt out of marketing communications.</li>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>Data Security</h2>
+              <p className="text-slate-700 leading-relaxed">
+                We use administrative, technical, and physical safeguards to protect your information. However, no system is fully secure. Please avoid submitting sensitive or confidential information.
+              </p>
+            </section>
+
+            <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>User Rights & Your Choices</h2>
+              <p className="text-slate-700 leading-relaxed mb-4">You may have rights to:</p>
+              <ul className="list-disc pl-6 text-slate-700 space-y-2">
+                <li>Access, update, or delete your information</li>
+                <li>Opt out of marketing</li>
+                <li>Withdraw consent</li>
               </ul>
               <p className="text-slate-700 leading-relaxed">
-                Email <strong style={{ color: '#e06e00' }}>legal@lawproactive.com</strong> to exercise your rights.
+                To make a request, contact: <strong style={{ color: '#e06e00' }}>privacy@lawproactive.com</strong>
               </p>
             </section>
 
             <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
-              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>6. Security</h2>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>Attorney Advertising & No Legal Advice</h2>
               <p className="text-slate-700 leading-relaxed">
-                We use industry-standard encryption and access controls, but cannot guarantee 100% security of any digital platform.
+                LawProactive is not a law firm. No content on our website should be construed as legal advice.
+                Attorney listings are paid advertisements. No attorney-client relationship is formed by using this site.
               </p>
             </section>
 
             <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
-              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>7. Cookies</h2>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>International Visitors</h2>
               <p className="text-slate-700 leading-relaxed">
-                We use cookies for analytics, site performance, and personalized content. You can manage cookie preferences through your browser.
+                If you access our platform from outside the U.S., your information will be transferred and processed in the U.S.
               </p>
             </section>
 
             <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
-              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>8. Children</h2>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>Changes to This Policy</h2>
               <p className="text-slate-700 leading-relaxed">
-                This site is not intended for users under 18. We do not knowingly collect data from minors.
-              </p>
-            </section>
-
-            <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
-              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>9. California Privacy Rights (CCPA/CPRA)</h2>
-              <p className="text-slate-700 leading-relaxed mb-4">
-                If you are a California resident, you have the right to:
-              </p>
-              <ul className="list-disc pl-6 text-slate-700 space-y-2 mb-4">
-                <li>Know what personal information we collect and how we use it.</li>
-                <li>Request that we delete your personal information.</li>
-                <li>Opt out of the sale or sharing of your personal information.</li>
-              </ul>
-              <p className="text-slate-700 leading-relaxed">
-                To submit a request, email us at <strong style={{ color: '#e06e00' }}>legal@lawproactive.com</strong> with the subject line "CCPA Request."
-              </p>
-            </section>
-
-            <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
-              <h2 className="text-xl font-semibold mb-4" style={{ color: '#0B6B65' }}>10. Changes to Privacy Policy</h2>
-              <p className="text-slate-700 leading-relaxed">
-                We reserve the right to update this policy. Continued use of the site means you accept the updated version.
+                We may update this Privacy Policy as our services evolve or laws change.
+                The updated version will include a new effective date.
               </p>
             </section>
 
             <section className="mb-8 p-6 bg-orange-50 rounded-lg border-l-4" style={{ borderLeftColor: '#e06e00' }}>
-              <h2 className="text-xl font-semibold mb-4" style={{ color: '#e06e00' }}>11. Contact Us</h2>
+              <h2 className="text-xl font-semibold mb-4" style={{ color: '#e06e00' }}>Contact Us</h2>
               <p className="text-slate-700 leading-relaxed">
-                For privacy concerns: <strong style={{ color: '#e06e00' }}>legal@lawproactive.com</strong>
+                If you have questions about this Privacy Policy or wish to exercise your rights, contact:
+                <br />
+                Email: <strong style={{ color: '#e06e00' }}>privacy@lawproactive.com</strong>
+                <br />
+                Address: 4001 Inglewood Ave, Suite 233, Redondo Beach, CA 90278
               </p>
             </section>
           </div>
