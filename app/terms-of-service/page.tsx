@@ -18,7 +18,7 @@ export default function TermsOfServicePage() {
 
           <div className="prose prose-lg max-w-none">
             <p className="text-sm text-gray-600 mb-6">
-              <strong>Effective Date:</strong> [Insert Date]
+              <strong>Effective Date:</strong> July 29, 2025
             </p>
 
             <section className="mb-8 p-6 bg-slate-50 rounded-lg border-l-4" style={{ borderLeftColor: '#0B6B65' }}>
