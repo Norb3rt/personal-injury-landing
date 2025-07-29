@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
-import { Phone } from "lucide-react"
+import { Phone, X } from "lucide-react"
 import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
 
 interface StickyFooterCTAProps {
@@ -12,24 +12,48 @@ interface StickyFooterCTAProps {
 
 export function StickyFooterCTA({ city, state }: StickyFooterCTAProps) {
   const [isVisible, setIsVisible] = useState(false)
+  const [isDismissed, setIsDismissed] = useState(false)
 
   useEffect(() => {
     const handleScroll = () => {
-      // Show sticky footer after scrolling 500px
-      setIsVisible(window.scrollY > 500)
+      // Show sticky footer after minimal scroll
+      setIsVisible(window.scrollY > 5)
     }
 
-    window.addEventListener("scroll", handleScroll)
+    // Check initial scroll position
+    handleScroll()
+
+    window.addEventListener("scroll", handleScroll, { passive: true })
     return () => window.removeEventListener("scroll", handleScroll)
   }, [])
 
   // Get phone number from environment or use default
   const phoneNumber = process.env.NEXT_PUBLIC_PHONE_NUMBER || "+1-800-123-4567"
 
-  if (!isVisible) return null
+  const handleDismiss = () => {
+    setIsDismissed(true)
+  }
+
+  if (!isVisible || isDismissed) return null
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 text-white p-4 shadow-lg z-50 border-t-4" style={{ backgroundColor: '#0B6B65', borderTopColor: '#e06e00' }}>
+    <div
+      className="fixed bottom-0 left-0 right-0 w-full text-white p-4 shadow-lg border-t-4"
+      style={{
+        backgroundColor: '#0B6B65',
+        borderTopColor: '#e06e00',
+        zIndex: 9999,
+        position: 'fixed'
+      }}
+    >
+      {/* Close button */}
+      <button
+        onClick={handleDismiss}
+        className="absolute top-2 right-2 p-1 hover:bg-white/10 rounded-full transition-colors duration-200"
+        aria-label="Close"
+      >
+        <X className="h-4 w-4 text-white/80 hover:text-white" />
+      </button>
       <div className="max-w-4xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
         <div className="text-center sm:text-left">
           <p className="font-semibold text-lg">Take the First Step Toward Financial Recovery.</p>
