@@ -365,8 +365,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
               </FadeIn>
               <FadeIn direction="up" delay={0.2}>
                 <p className="text-xl mb-8 text-gray-700 max-w-4xl mx-auto">
-                  Our network of skilled personal injury lawyers in {city} fights for every dollar you're owed. You pay
-                  nothing unless you win — guaranteed.
+                  Our network of personal injury lawyers in {city} fights for every dollar you're owed. You pay
+                  nothing unless you win.
                 </p>
               </FadeIn>
             </div>
