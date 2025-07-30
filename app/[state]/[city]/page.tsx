@@ -191,7 +191,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
             <FadeIn direction="up" delay={0.3}>
               <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-4xl mx-auto">
-                Your Search for a Personal Injury Attorney in San Diego Ends Here  Legal support for accident claims, injuries, and more  — serving all of {city} County.
+                Your Search for a Personal Injury Attorney in {city} Ends Here  Legal support for accident claims, injuries, and more  — serving all of {city} County.
               </p>
             </FadeIn>
 
