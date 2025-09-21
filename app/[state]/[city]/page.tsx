@@ -162,11 +162,23 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             __html: JSON.stringify(structuredData),
           }}
         />
+
         {/* Scroll Progress Bar */}
         <ScrollProgress />
 
         {/* Hero Section */}
         <section className="relative text-white py-20 px-4 overflow-hidden" style={{ backgroundColor: '#0B6B65' }}>
+          {/* Disclaimer Banner - Positioned at top of hero section */}
+          <FadeIn direction="down" delay={0.05}>
+            <div className="absolute top-0 left-0 right-0 flex justify-center pt-1 z-10">
+              <div className="inline-flex items-center gap-2 px-6 py-3 rounded-full border border-white/20 bg-white/10 backdrop-blur-sm transition-all duration-300 hover:bg-white/20 hover:border-white/40 hover:scale-105 hover:shadow-lg group">
+                <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse group-hover:bg-green-300 transition-colors duration-300"></div>
+                <span className="text-sm font-medium text-white/90 tracking-wide group-hover:text-white transition-colors duration-300">
+                  DISCLAIMER: ATTORNEY ADVERTISING
+                </span>
+              </div>
+            </div>
+          </FadeIn>
           {/* Floating Particles Background */}
           <FloatingParticles
             count={60}
@@ -200,7 +212,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
             <FadeIn direction="up" delay={0.3}>
               <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-4xl mx-auto">
-                Your Search for a Personal Injury Attorney in {city} Ends Here  Legal support for accident claims, injuries, and more  — serving all of {city} County.
+                Your Search for a Personal Injury Attorney in {city} Ends Here.
+                We provide legal support for accident claims, injuries, and more — proudly serving all of {city} County.
               </p>
             </FadeIn>
 
