@@ -54,8 +54,17 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     notFound() // Esto mostrará tu not-found.tsx
   }
 
-  const city = params.city.charAt(0).toUpperCase() + params.city.slice(1).replace(/-/g, " ")
-  const state = params.state.charAt(0).toUpperCase() + params.state.slice(1).replace(/-/g, " ")
+  // Helper function to convert slug to proper title case
+  const toTitleCase = (slug: string) => {
+    return slug
+      .replace(/-/g, " ")
+      .split(" ")
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+      .join(" ")
+  }
+
+  const city = toTitleCase(params.city)
+  const state = toTitleCase(params.state)
   const citySlug = params.city
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://your-domain.com'
 
