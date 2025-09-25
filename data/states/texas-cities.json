@@ -1,0 +1,62 @@
+[
+    {
+        "city": "Houston",
+        "landmark": "Space Center Houston",
+        "population": 2304580,
+        "slug": "houston"
+    },
+    {
+        "city": "Dallas",
+        "landmark": "Reunion Tower",
+        "population": 1304379,
+        "slug": "dallas"
+    },
+    {
+        "city": "Austin",
+        "landmark": "State Capitol",
+        "population": 978908,
+        "slug": "austin"
+    },
+    {
+        "city": "San Antonio",
+        "landmark": "The Alamo",
+        "population": 1547253,
+        "slug": "san-antonio"
+    },
+    {
+        "city": "Fort Worth",
+        "landmark": "Fort Worth Stockyards",
+        "population": 918915,
+        "slug": "fort-worth"
+    },
+    {
+        "city": "El Paso",
+        "landmark": "Franklin Mountains State Park",
+        "population": 695044,
+        "slug": "el-paso"
+    },
+    {
+        "city": "Arlington",
+        "landmark": "AT&T Stadium",
+        "population": 394266,
+        "slug": "arlington"
+    },
+    {
+        "city": "Corpus Christi",
+        "landmark": "USS Lexington Museum",
+        "population": 326586,
+        "slug": "corpus-christi"
+    },
+    {
+        "city": "Plano",
+        "landmark": "Legacy West",
+        "population": 285494,
+        "slug": "plano"
+    },
+    {
+        "city": "Lubbock",
+        "landmark": "Buddy Holly Center",
+        "population": 258862,
+        "slug": "lubbock"
+    }
+]

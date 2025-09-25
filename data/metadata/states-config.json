@@ -4,9 +4,11 @@
     "abbreviation": "CA",
     "slug": "california",
     "timezone": "America/Los_Angeles",
+    "strategy": "full",
+    "priority": "high",
     "majorCities": [
       "Los Angeles",
-      "San Francisco", 
+      "San Francisco",
       "San Diego",
       "Sacramento",
       "San Jose",
@@ -35,6 +37,8 @@
     "abbreviation": "TX",
     "slug": "texas",
     "timezone": "America/Chicago",
+    "strategy": "major",
+    "priority": "high",
     "majorCities": [
       "Houston",
       "Dallas",
@@ -59,13 +63,15 @@
       "lat": 31.9686,
       "lng": -99.9018
     },
-    "enabled": false
+    "enabled": true
   },
   "florida": {
     "name": "Florida",
     "abbreviation": "FL",
     "slug": "florida",
     "timezone": "America/New_York",
+    "strategy": "major",
+    "priority": "high",
     "majorCities": [
       "Miami",
       "Tampa",
@@ -97,6 +103,8 @@
     "abbreviation": "NY",
     "slug": "new-york",
     "timezone": "America/New_York",
+    "strategy": "major",
+    "priority": "high",
     "majorCities": [
       "New York City",
       "Buffalo",
@@ -121,7 +129,7 @@
       "lat": 42.1657,
       "lng": -74.9481
     },
-    "enabled": false
+    "enabled": true
   },
   "illinois": {
     "name": "Illinois",

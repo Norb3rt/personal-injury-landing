@@ -1,0 +1,62 @@
+[
+    {
+        "city": "Miami",
+        "landmark": "Art Deco Historic District",
+        "population": 442241,
+        "slug": "miami"
+    },
+    {
+        "city": "Tampa",
+        "landmark": "Tampa Riverwalk",
+        "population": 384959,
+        "slug": "tampa"
+    },
+    {
+        "city": "Orlando",
+        "landmark": "Walt Disney World Resort",
+        "population": 307573,
+        "slug": "orlando"
+    },
+    {
+        "city": "Jacksonville",
+        "landmark": "Jacksonville Landing",
+        "population": 949611,
+        "slug": "jacksonville"
+    },
+    {
+        "city": "St. Petersburg",
+        "landmark": "Salvador Dalí Museum",
+        "population": 258308,
+        "slug": "st-petersburg"
+    },
+    {
+        "city": "Hialeah",
+        "landmark": "Hialeah Park Racing & Casino",
+        "population": 223109,
+        "slug": "hialeah"
+    },
+    {
+        "city": "Tallahassee",
+        "landmark": "Florida State Capitol",
+        "population": 194500,
+        "slug": "tallahassee"
+    },
+    {
+        "city": "Fort Lauderdale",
+        "landmark": "Las Olas Boulevard",
+        "population": 182760,
+        "slug": "fort-lauderdale"
+    },
+    {
+        "city": "Port St. Lucie",
+        "landmark": "Tradition Town Center",
+        "population": 204851,
+        "slug": "port-st-lucie"
+    },
+    {
+        "city": "Cape Coral",
+        "landmark": "Cape Coral Yacht Club",
+        "population": 194016,
+        "slug": "cape-coral"
+    }
+]

@@ -6,8 +6,7 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "start": "next start",
-    "process-california-cities": "node scripts/process-california-cities.js"
+    "start": "next start"
   },
   "dependencies": {
     "@emotion/is-prop-valid": "latest",

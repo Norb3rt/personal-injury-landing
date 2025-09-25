@@ -1,0 +1,62 @@
+[
+    {
+        "city": "New York City",
+        "landmark": "Statue of Liberty",
+        "population": 8336817,
+        "slug": "new-york-city"
+    },
+    {
+        "city": "Buffalo",
+        "landmark": "Niagara Falls",
+        "population": 278349,
+        "slug": "buffalo"
+    },
+    {
+        "city": "Rochester",
+        "landmark": "Strong National Museum of Play",
+        "population": 211328,
+        "slug": "rochester"
+    },
+    {
+        "city": "Yonkers",
+        "landmark": "Hudson River Museum",
+        "population": 211569,
+        "slug": "yonkers"
+    },
+    {
+        "city": "Syracuse",
+        "landmark": "Carrier Dome",
+        "population": 148620,
+        "slug": "syracuse"
+    },
+    {
+        "city": "Albany",
+        "landmark": "New York State Capitol",
+        "population": 97856,
+        "slug": "albany"
+    },
+    {
+        "city": "New Rochelle",
+        "landmark": "Thomas Paine Cottage",
+        "population": 79726,
+        "slug": "new-rochelle"
+    },
+    {
+        "city": "Mount Vernon",
+        "landmark": "St. Paul's Church National Historic Site",
+        "population": 67292,
+        "slug": "mount-vernon"
+    },
+    {
+        "city": "Schenectady",
+        "landmark": "Proctors Theatre",
+        "population": 65273,
+        "slug": "schenectady"
+    },
+    {
+        "city": "Utica",
+        "landmark": "Munson-Williams-Proctor Arts Institute",
+        "population": 65283,
+        "slug": "utica"
+    }
+]

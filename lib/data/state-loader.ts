@@ -10,6 +10,119 @@ import {
 } from '../types/location.types';
 
 /**
+ * Adaptador para archivos JSON
+ */
+export class JSONAdapter implements DataAdapter {
+  private readonly dataPath = path.join(process.cwd(), 'data', 'states');
+
+  async loadLocations(state: string): Promise<BaseLocation[]> {
+    try {
+      const jsonPath = path.join(this.dataPath, `${state.toLowerCase()}-cities.json`);
+
+      if (await this.fileExists(jsonPath)) {
+        return await this.parseJSON(jsonPath);
+      }
+
+      return [];
+    } catch (error) {
+      console.error(`Error loading JSON for ${state}:`, error);
+      return [];
+    }
+  }
+
+  async getAllStates(): Promise<string[]> {
+    try {
+      const files = await fs.readdir(this.dataPath);
+      const jsonFiles = files.filter(file => file.endsWith('-cities.json'));
+      return jsonFiles.map(file => file.replace('-cities.json', ''));
+    } catch (error) {
+      console.error('Error reading states directory:', error);
+      return ['california'];
+    }
+  }
+
+  async getStateConfig(state: string): Promise<StateConfig> {
+    const configPath = path.join(process.cwd(), 'data', 'metadata', 'states-config.json');
+
+    try {
+      if (await this.fileExists(configPath)) {
+        const configData = await fs.readFile(configPath, 'utf-8');
+        const configs = JSON.parse(configData);
+        return configs[state.toLowerCase()];
+      }
+    } catch (error) {
+      console.warn(`No config found for ${state}`);
+    }
+
+    throw new Error(`Config not found for state: ${state}`);
+  }
+
+  validateData(data: BaseLocation[]): boolean {
+    return data.every(location =>
+      location.state &&
+      location.city &&
+      typeof location.state === 'string' &&
+      typeof location.city === 'string'
+    );
+  }
+
+  private async parseJSON(filePath: string): Promise<BaseLocation[]> {
+    const contentRaw = await fs.readFile(filePath, 'utf-8');
+    // Strip BOM if present to avoid JSON.parse errors (e.g., when files are written with UTF-8 BOM)
+    const content = contentRaw.replace(/^\uFEFF/, '');
+    const jsonData = JSON.parse(content);
+
+    // Extract state name from file path (e.g., "california-cities.json" -> "california")
+    const fileName = path.basename(filePath, '.json');
+    const stateName = fileName.replace('-cities', '');
+
+    // Get proper state name from config
+    let properStateName = stateName;
+    try {
+      const configPath = path.join(process.cwd(), 'data', 'metadata', 'states-config.json');
+      if (await this.fileExists(configPath)) {
+        const configData = await fs.readFile(configPath, 'utf-8');
+        const configs = JSON.parse(configData);
+        const stateConfig = configs[stateName.toLowerCase()];
+        if (stateConfig && stateConfig.name) {
+          properStateName = stateConfig.name;
+        }
+      }
+    } catch (error) {
+      console.warn(`Could not load state config for ${stateName}, using filename`);
+      // Fallback: capitalize first letter
+      properStateName = stateName.charAt(0).toUpperCase() + stateName.slice(1);
+    }
+
+    const locations: BaseLocation[] = [];
+
+    for (const item of jsonData) {
+      if (item.city && item.landmark && item.population && item.slug) {
+        locations.push({
+          state: properStateName, // Dynamic state name based on file
+          city: item.city,
+          landmark: item.landmark,
+          population: item.population,
+          slug: item.slug,
+          coordinates: { lat: 0, lng: 0 } // Default coordinates
+        });
+      }
+    }
+
+    return locations;
+  }
+
+  private async fileExists(filePath: string): Promise<boolean> {
+    try {
+      await fs.access(filePath);
+      return true;
+    } catch {
+      return false;
+    }
+  }
+}
+
+/**
  * Adaptador para archivos CSV
  */
 export class CSVAdapter implements DataAdapter {
@@ -157,7 +270,8 @@ export class StateDataLoader {
    */
   private static ensureAdapter(): void {
     if (!this.adapter) {
-      this.adapter = new CSVAdapter();
+      // Use JSON adapter by default, fallback to CSV if needed
+      this.adapter = new JSONAdapter();
     }
   }
 
@@ -275,19 +389,74 @@ export class StateDataLoader {
   }
 
   /**
-   * Obtiene todas las ubicaciones procesadas de todos los estados
+   * Obtiene todas las ubicaciones procesadas de todos los estados usando estrategia híbrida
    */
   static async getAllProcessedLocations(): Promise<ProcessedLocation[]> {
     const states = await this.getAllStates();
     const allLocations: ProcessedLocation[] = [];
 
     for (const state of states) {
-      const cities = await this.loadStateData(state);
+      const config = await this.getStateConfig(state);
+
+      // Solo procesar estados habilitados
+      if (!config.enabled) {
+        continue;
+      }
+
+      let cities: BaseLocation[] = [];
+
+      if (config.strategy === 'full') {
+        // Estrategia completa: cargar todas las ciudades (California)
+        cities = await this.loadStateData(state);
+      } else if (config.strategy === 'major') {
+        // Estrategia mayor: solo ciudades principales
+        cities = await this.loadMajorCitiesOnly(state, config);
+      } else {
+        // Estrategia mínima o fallback: solo las primeras 5 ciudades principales
+        cities = await this.loadMinimalCities(state, config);
+      }
+
       const processed = await this.enrichWithCoordinates(cities);
       allLocations.push(...processed);
     }
 
+    console.log(`🏗️ Generated ${allLocations.length} locations using hybrid strategy`);
     return allLocations;
+  }
+
+  /**
+   * Carga solo las ciudades principales de un estado
+   */
+  static async loadMajorCitiesOnly(stateName: string, config: StateConfig): Promise<BaseLocation[]> {
+    try {
+      // Intentar cargar desde archivo JSON específico del estado
+      const cities = await this.loadStateData(stateName);
+
+      if (cities.length > 0) {
+        return cities; // El archivo JSON ya contiene solo las ciudades principales
+      }
+
+      // Fallback: crear ciudades desde la configuración
+      return config.majorCities.map(cityName => ({
+        state: config.name,
+        city: cityName,
+        landmark: `${cityName} Landmark`,
+        population: 100000, // Población estimada
+        slug: this.slugify(cityName),
+        coordinates: config.defaultCoordinates
+      }));
+    } catch (error) {
+      console.warn(`Could not load major cities for ${stateName}:`, error);
+      return [];
+    }
+  }
+
+  /**
+   * Carga un número mínimo de ciudades (para estados de baja prioridad)
+   */
+  static async loadMinimalCities(stateName: string, config: StateConfig): Promise<BaseLocation[]> {
+    const majorCities = await this.loadMajorCitiesOnly(stateName, config);
+    return majorCities.slice(0, 5); // Solo las primeras 5 ciudades
   }
 
   /**
@@ -337,7 +506,12 @@ export class StateDataLoader {
   }
 
   static slugify(text: string): string {
-    return text
+    // Normalize and strip diacritics before slugging (e.g., ñ -> n)
+    const normalized = text
+      .normalize('NFKD')
+      .replace(/[\u0300-\u036f]/g, '');
+
+    return normalized
       .toLowerCase()
       .replace(/[^a-z0-9\s-]/g, '')
       .replace(/\s+/g, '-')
@@ -351,10 +525,12 @@ export class StateDataLoader {
       abbreviation: this.getStateAbbreviation(stateName),
       slug: this.slugify(stateName),
       timezone: 'America/New_York',
+      strategy: 'minimal', // Estrategia por defecto para estados no configurados
+      priority: 'low',
       majorCities: [],
       seoModifiers: [],
       defaultCoordinates: { lat: 39.8283, lng: -98.5795 },
-      enabled: true
+      enabled: false // Por defecto deshabilitado hasta configurar
     };
   }
 

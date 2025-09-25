@@ -9,6 +9,9 @@ export interface BaseLocation {
   population?: number;
   county?: string;
   objectId?: number;
+  landmark?: string;
+  slug?: string;
+  coordinates?: Coordinates;
 }
 
 export interface ProcessedLocation extends BaseLocation {
@@ -40,6 +43,8 @@ export interface StateConfig {
   abbreviation: string;
   slug: string;
   timezone: string;
+  strategy?: 'full' | 'major' | 'minimal'; // Hybrid strategy
+  priority?: 'high' | 'medium' | 'low';    // Generation priority
   majorCities: string[];
   seoModifiers: string[];
   defaultCoordinates: Coordinates;

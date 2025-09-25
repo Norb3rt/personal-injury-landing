@@ -1,0 +1,2912 @@
+[
+    {
+        "city":  "Adelanto",
+        "landmark":  "Victor Valley Museum",
+        "population":  34592,
+        "slug":  "adelanto"
+    },
+    {
+        "city":  "Agoura Hills",
+        "landmark":  "Paramount Ranch",
+        "population":  20525,
+        "slug":  "agoura-hills"
+    },
+    {
+        "city":  "Alameda",
+        "landmark":  "USS Hornet",
+        "population":  78434,
+        "slug":  "alameda"
+    },
+    {
+        "city":  "Albany",
+        "landmark":  "Albany Bulb",
+        "population":  20563,
+        "slug":  "albany"
+    },
+    {
+        "city":  "Alhambra",
+        "landmark":  "Alhambra Park",
+        "population":  83466,
+        "slug":  "alhambra"
+    },
+    {
+        "city":  "Aliso Viejo",
+        "landmark":  "Aliso Viejo Community Park",
+        "population":  52445,
+        "slug":  "aliso-viejo"
+    },
+    {
+        "city":  "Alturas",
+        "landmark":  "Modoc County Museum",
+        "population":  2705,
+        "slug":  "alturas"
+    },
+    {
+        "city":  "Amador City",
+        "landmark":  "Amador Whitney Museum",
+        "population":  188,
+        "slug":  "amador-city"
+    },
+    {
+        "city":  "American Canyon",
+        "landmark":  "Napa River Ecological Reserve",
+        "population":  21429,
+        "slug":  "american-canyon"
+    },
+    {
+        "city":  "Anaheim",
+        "landmark":  "Disneyland",
+        "population":  348204,
+        "slug":  "anaheim"
+    },
+    {
+        "city":  "Anderson",
+        "landmark":  "Anderson River Park",
+        "population":  11437,
+        "slug":  "anderson"
+    },
+    {
+        "city":  "Angels",
+        "landmark":  "Angels Camp Museum",
+        "population":  3618,
+        "slug":  "angels"
+    },
+    {
+        "city":  "Antioch",
+        "landmark":  "Antioch Bridge",
+        "population":  115290,
+        "slug":  "antioch"
+    },
+    {
+        "city":  "Apple Valley",
+        "landmark":  "Apple Valley Legacy Park",
+        "population":  75874,
+        "slug":  "apple-valley"
+    },
+    {
+        "city":  "Arcadia",
+        "landmark":  "Santa Anita Park",
+        "population":  58326,
+        "slug":  "arcadia"
+    },
+    {
+        "city":  "Arcata",
+        "landmark":  "Humboldt State University",
+        "population":  18569,
+        "slug":  "arcata"
+    },
+    {
+        "city":  "Arroyo Grande",
+        "landmark":  "El Camino Real Bell",
+        "population":  18441,
+        "slug":  "arroyo-grande"
+    },
+    {
+        "city":  "Artesia",
+        "landmark":  "Little India",
+        "population":  16645,
+        "slug":  "artesia"
+    },
+    {
+        "city":  "Arvin",
+        "landmark":  "Arvin Community Park",
+        "population":  22581,
+        "slug":  "arvin"
+    },
+    {
+        "city":  "Atascadero",
+        "landmark":  "Charles Paddock Zoo",
+        "population":  29773,
+        "slug":  "atascadero"
+    },
+    {
+        "city":  "Atherton",
+        "landmark":  "Holbrook-Palmer Park",
+        "population":  7097,
+        "slug":  "atherton"
+    },
+    {
+        "city":  "Atwater",
+        "landmark":  "Bloss House",
+        "population":  30687,
+        "slug":  "atwater"
+    },
+    {
+        "city":  "Auburn",
+        "landmark":  "Old Town Auburn",
+        "population":  13963,
+        "slug":  "auburn"
+    },
+    {
+        "city":  "Avalon",
+        "landmark":  "Catalina Casino",
+        "population":  3723,
+        "slug":  "avalon"
+    },
+    {
+        "city":  "Avenal",
+        "landmark":  "Avenal State Prison",
+        "population":  13154,
+        "slug":  "avenal"
+    },
+    {
+        "city":  "Azusa",
+        "landmark":  "Azusa Pacific University",
+        "population":  50970,
+        "slug":  "azusa"
+    },
+    {
+        "city":  "Bakersfield",
+        "landmark":  "Kern County Museum",
+        "population":  411747,
+        "slug":  "bakersfield"
+    },
+    {
+        "city":  "Baldwin Park",
+        "landmark":  "Morgan Park",
+        "population":  73736,
+        "slug":  "baldwin-park"
+    },
+    {
+        "city":  "Banning",
+        "landmark":  "Banning Museum",
+        "population":  25189,
+        "slug":  "banning"
+    },
+    {
+        "city":  "Barstow",
+        "landmark":  "Route 66 Museum",
+        "population":  25870,
+        "slug":  "barstow"
+    },
+    {
+        "city":  "Beaumont",
+        "landmark":  "Cherry Valley Park",
+        "population":  55392,
+        "slug":  "beaumont"
+    },
+    {
+        "city":  "Bell",
+        "landmark":  "Bell Community Center",
+        "population":  33264,
+        "slug":  "bell"
+    },
+    {
+        "city":  "Bell Gardens",
+        "landmark":  "Veterans Memorial",
+        "population":  38263,
+        "slug":  "bell-gardens"
+    },
+    {
+        "city":  "Bellflower",
+        "landmark":  "Bellflower Park",
+        "population":  77573,
+        "slug":  "bellflower"
+    },
+    {
+        "city":  "Belmont",
+        "landmark":  "Ralston Hall",
+        "population":  28051,
+        "slug":  "belmont"
+    },
+    {
+        "city":  "Belvedere",
+        "landmark":  "Tiburon-Belvedere Landmark",
+        "population":  2075,
+        "slug":  "belvedere"
+    },
+    {
+        "city":  "Benicia",
+        "landmark":  "Benicia Capitol State Historic Park",
+        "population":  28030,
+        "slug":  "benicia"
+    },
+    {
+        "city":  "Berkeley",
+        "landmark":  "UC Berkeley",
+        "population":  124321,
+        "slug":  "berkeley"
+    },
+    {
+        "city":  "Beverly Hills",
+        "landmark":  "Rodeo Drive",
+        "population":  32310,
+        "slug":  "beverly-hills"
+    },
+    {
+        "city":  "Big Bear Lake",
+        "landmark":  "Big Bear Lake Village",
+        "population":  5136,
+        "slug":  "big-bear-lake"
+    },
+    {
+        "city":  "Biggs",
+        "landmark":  "Biggs Rail Depot",
+        "population":  1745,
+        "slug":  "biggs"
+    },
+    {
+        "city":  "Bishop",
+        "landmark":  "Erick Schat’s Bakkerij",
+        "population":  3806,
+        "slug":  "bishop"
+    },
+    {
+        "city":  "Blue Lake",
+        "landmark":  "Blue Lake Museum",
+        "population":  1168,
+        "slug":  "blue-lake"
+    },
+    {
+        "city":  "Blythe",
+        "landmark":  "Palo Verde Historical Museum",
+        "population":  17641,
+        "slug":  "blythe"
+    },
+    {
+        "city":  "Bradbury",
+        "landmark":  "Bradbury Estate",
+        "population":  1034,
+        "slug":  "bradbury"
+    },
+    {
+        "city":  "Brawley",
+        "landmark":  "Brawley Cattle Call Rodeo",
+        "population":  25607,
+        "slug":  "brawley"
+    },
+    {
+        "city":  "Brea",
+        "landmark":  "Brea Mall",
+        "population":  48225,
+        "slug":  "brea"
+    },
+    {
+        "city":  "Brentwood",
+        "landmark":  "Brentwood Park",
+        "population":  64911,
+        "slug":  "brentwood"
+    },
+    {
+        "city":  "Brisbane",
+        "landmark":  "San Bruno Mountain Park",
+        "population":  4940,
+        "slug":  "brisbane"
+    },
+    {
+        "city":  "Buellton",
+        "landmark":  "Ostrich Land",
+        "population":  5178,
+        "slug":  "buellton"
+    },
+    {
+        "city":  "Buena Park",
+        "landmark":  "Knott’s Berry Farm",
+        "population":  84458,
+        "slug":  "buena-park"
+    },
+    {
+        "city":  "Burbank",
+        "landmark":  "Warner Bros. Studio",
+        "population":  107337,
+        "slug":  "burbank"
+    },
+    {
+        "city":  "Burlingame",
+        "landmark":  "Burlingame Museum",
+        "population":  31799,
+        "slug":  "burlingame"
+    },
+    {
+        "city":  "Calabasas",
+        "landmark":  "Leonis Adobe",
+        "population":  24170,
+        "slug":  "calabasas"
+    },
+    {
+        "city":  "Calexico",
+        "landmark":  "Calexico Museum",
+        "population":  38907,
+        "slug":  "calexico"
+    },
+    {
+        "city":  "California",
+        "landmark":  "State Capitol Replica",
+        "population":  111,
+        "slug":  "california"
+    },
+    {
+        "city":  "Calimesa",
+        "landmark":  "Yucaipa Regional Park",
+        "population":  10233,
+        "slug":  "calimesa"
+    },
+    {
+        "city":  "Calipatria",
+        "landmark":  "Calipatria Flagpole",
+        "population":  7382,
+        "slug":  "calipatria"
+    },
+    {
+        "city":  "Calistoga",
+        "landmark":  "Old Faithful Geyser",
+        "population":  5255,
+        "slug":  "calistoga"
+    },
+    {
+        "city":  "Camarillo",
+        "landmark":  "Camarillo Ranch House",
+        "population":  70889,
+        "slug":  "camarillo"
+    },
+    {
+        "city":  "Campbell",
+        "landmark":  "Los Gatos Creek Trail",
+        "population":  44440,
+        "slug":  "campbell"
+    },
+    {
+        "city":  "Canyon Lake",
+        "landmark":  "Canyon Lake Marina",
+        "population":  11420,
+        "slug":  "canyon-lake"
+    },
+    {
+        "city":  "Capitola",
+        "landmark":  "Capitola Wharf",
+        "population":  9871,
+        "slug":  "capitola"
+    },
+    {
+        "city":  "Carlsbad",
+        "landmark":  "Legoland California",
+        "population":  115702,
+        "slug":  "carlsbad"
+    },
+    {
+        "city":  "Carmel-by-the-Sea",
+        "landmark":  "Carmel Mission",
+        "population":  3222,
+        "slug":  "carmel-by-the-sea"
+    },
+    {
+        "city":  "Carpinteria",
+        "landmark":  "Carpinteria State Beach",
+        "population":  13561,
+        "slug":  "carpinteria"
+    },
+    {
+        "city":  "Carson",
+        "landmark":  "Home Depot Center",
+        "population":  95655,
+        "slug":  "carson"
+    },
+    {
+        "city":  "Cathedral City",
+        "landmark":  "Desert Memorial Park",
+        "population":  52952,
+        "slug":  "cathedral-city"
+    },
+    {
+        "city":  "Ceres",
+        "landmark":  "Ceres Community Center",
+        "population":  49738,
+        "slug":  "ceres"
+    },
+    {
+        "city":  "Cerritos",
+        "landmark":  "Cerritos Center for the Arts",
+        "population":  49981,
+        "slug":  "cerritos"
+    },
+    {
+        "city":  "Chico",
+        "landmark":  "Bidwell Mansion",
+        "population":  103557,
+        "slug":  "chico"
+    },
+    {
+        "city":  "Chino",
+        "landmark":  "Chino Hills State Park",
+        "population":  95351,
+        "slug":  "chino"
+    },
+    {
+        "city":  "Chino Hills",
+        "landmark":  "Carbon Canyon Regional Park",
+        "population":  84732,
+        "slug":  "chino-hills"
+    },
+    {
+        "city":  "Chowchilla",
+        "landmark":  "Chowchilla-Madera County Fair",
+        "population":  18977,
+        "slug":  "chowchilla"
+    },
+    {
+        "city":  "Chula Vista",
+        "landmark":  "Living Coast Discovery Center",
+        "population":  275487,
+        "slug":  "chula-vista"
+    },
+    {
+        "city":  "Citrus Heights",
+        "landmark":  "Sunrise Mall",
+        "population":  89243,
+        "slug":  "citrus-heights"
+    },
+    {
+        "city":  "Claremont",
+        "landmark":  "Claremont Colleges",
+        "population":  37559,
+        "slug":  "claremont"
+    },
+    {
+        "city":  "Clayton",
+        "landmark":  "Clayton Historical Society",
+        "population":  11356,
+        "slug":  "clayton"
+    },
+    {
+        "city":  "Clearlake",
+        "landmark":  "Clear Lake State Park",
+        "population":  16049,
+        "slug":  "clearlake"
+    },
+    {
+        "city":  "Cloverdale",
+        "landmark":  "Cloverdale Historical Museum",
+        "population":  8877,
+        "slug":  "cloverdale"
+    },
+    {
+        "city":  "Clovis",
+        "landmark":  "Old Town Clovis",
+        "population":  125292,
+        "slug":  "clovis"
+    },
+    {
+        "city":  "Coachella",
+        "landmark":  "Coachella Valley Preserve",
+        "population":  44228,
+        "slug":  "coachella"
+    },
+    {
+        "city":  "Coalinga",
+        "landmark":  "Coalinga Mineral Springs",
+        "population":  13503,
+        "slug":  "coalinga"
+    },
+    {
+        "city":  "Colfax",
+        "landmark":  "Colfax Railroad Museum",
+        "population":  2006,
+        "slug":  "colfax"
+    },
+    {
+        "city":  "Colma",
+        "landmark":  "Holy Cross Cemetery",
+        "population":  1526,
+        "slug":  "colma"
+    },
+    {
+        "city":  "Colton",
+        "landmark":  "Colton Area Museum",
+        "population":  54824,
+        "slug":  "colton"
+    },
+    {
+        "city":  "Colusa",
+        "landmark":  "Colusa Levee Park",
+        "population":  6326,
+        "slug":  "colusa"
+    },
+    {
+        "city":  "Commerce",
+        "landmark":  "Citizens Business Bank Arena",
+        "population":  12626,
+        "slug":  "commerce"
+    },
+    {
+        "city":  "Compton",
+        "landmark":  "Compton Courthouse",
+        "population":  95707,
+        "slug":  "compton"
+    },
+    {
+        "city":  "Concord",
+        "landmark":  "Todos Santos Park",
+        "population":  129053,
+        "slug":  "concord"
+    },
+    {
+        "city":  "Corcoran",
+        "landmark":  "Corcoran State Prison",
+        "population":  21309,
+        "slug":  "corcoran"
+    },
+    {
+        "city":  "Corning",
+        "landmark":  "Corning Museum",
+        "population":  7985,
+        "slug":  "corning"
+    },
+    {
+        "city":  "Corona",
+        "landmark":  "Tom\u0027s Farms",
+        "population":  168081,
+        "slug":  "corona"
+    },
+    {
+        "city":  "Coronado",
+        "landmark":  "Hotel del Coronado",
+        "population":  20310,
+        "slug":  "coronado"
+    },
+    {
+        "city":  "Corte Madera",
+        "landmark":  "Town Park",
+        "population":  10022,
+        "slug":  "corte-madera"
+    },
+    {
+        "city":  "Costa Mesa",
+        "landmark":  "Segerstrom Center",
+        "population":  113204,
+        "slug":  "costa-mesa"
+    },
+    {
+        "city":  "Cotati",
+        "landmark":  "Cotati Depot Museum",
+        "population":  7479,
+        "slug":  "cotati"
+    },
+    {
+        "city":  "Covina",
+        "landmark":  "Covina Park",
+        "population":  51469,
+        "slug":  "covina"
+    },
+    {
+        "city":  "Crescent City",
+        "landmark":  "Battery Point Lighthouse",
+        "population":  6069,
+        "slug":  "crescent-city"
+    },
+    {
+        "city":  "Cudahy",
+        "landmark":  "Cudahy Park",
+        "population":  23706,
+        "slug":  "cudahy"
+    },
+    {
+        "city":  "Culver City",
+        "landmark":  "Sony Pictures Studios",
+        "population":  40779,
+        "slug":  "culver-city"
+    },
+    {
+        "city":  "Cupertino",
+        "landmark":  "De Anza College",
+        "population":  60281,
+        "slug":  "cupertino"
+    },
+    {
+        "city":  "Cypress",
+        "landmark":  "Cypress Community Center",
+        "population":  50812,
+        "slug":  "cypress"
+    },
+    {
+        "city":  "Daly City",
+        "landmark":  "Serra Center",
+        "population":  104190,
+        "slug":  "daly-city"
+    },
+    {
+        "city":  "Dana Point",
+        "landmark":  "Dana Point Harbor",
+        "population":  33595,
+        "slug":  "dana-point"
+    },
+    {
+        "city":  "Danville",
+        "landmark":  "Mt. Diablo State Park",
+        "population":  44477,
+        "slug":  "danville"
+    },
+    {
+        "city":  "Davis",
+        "landmark":  "UC Davis Arboretum",
+        "population":  67666,
+        "slug":  "davis"
+    },
+    {
+        "city":  "Del Mar",
+        "landmark":  "Del Mar Racetrack",
+        "population":  4242,
+        "slug":  "del-mar"
+    },
+    {
+        "city":  "Del Rey Oaks",
+        "landmark":  "Del Rey Woods",
+        "population":  1672,
+        "slug":  "del-rey-oaks"
+    },
+    {
+        "city":  "Delano",
+        "landmark":  "Delano Regional Medical Center",
+        "population":  52491,
+        "slug":  "delano"
+    },
+    {
+        "city":  "Desert Hot Springs",
+        "landmark":  "Cabots Pueblo Museum",
+        "population":  32135,
+        "slug":  "desert-hot-springs"
+    },
+    {
+        "city":  "Diamond Bar",
+        "landmark":  "Diamond Bar Center",
+        "population":  55720,
+        "slug":  "diamond-bar"
+    },
+    {
+        "city":  "Dinuba",
+        "landmark":  "Dinuba Historical Society",
+        "population":  25007,
+        "slug":  "dinuba"
+    },
+    {
+        "city":  "Dixon",
+        "landmark":  "Dixon May Fairgrounds",
+        "population":  20551,
+        "slug":  "dixon"
+    },
+    {
+        "city":  "Dorris",
+        "landmark":  "Dorris Park",
+        "population":  886,
+        "slug":  "dorris"
+    },
+    {
+        "city":  "Dos Palos",
+        "landmark":  "Dos Palos Park",
+        "population":  5292,
+        "slug":  "dos-palos"
+    },
+    {
+        "city":  "Downey",
+        "landmark":  "Columbia Memorial Space Center",
+        "population":  115966,
+        "slug":  "downey"
+    },
+    {
+        "city":  "Duarte",
+        "landmark":  "City of Hope",
+        "population":  21427,
+        "slug":  "duarte"
+    },
+    {
+        "city":  "Dublin",
+        "landmark":  "Dublin Heritage Park",
+        "population":  71440,
+        "slug":  "dublin"
+    },
+    {
+        "city":  "Dunsmuir",
+        "landmark":  "Castle Crags State Park",
+        "population":  1563,
+        "slug":  "dunsmuir"
+    },
+    {
+        "city":  "East Palo Alto",
+        "landmark":  "Ravenswood Open Space",
+        "population":  30927,
+        "slug":  "east-palo-alto"
+    },
+    {
+        "city":  "Eastvale",
+        "landmark":  "Eastvale Community Park",
+        "population":  71974,
+        "slug":  "eastvale"
+    },
+    {
+        "city":  "El Cajon",
+        "landmark":  "Fortune Towne Shopping Center",
+        "population":  106215,
+        "slug":  "el-cajon"
+    },
+    {
+        "city":  "El Centro",
+        "landmark":  "El Centro Naval Air Facility",
+        "population":  44226,
+        "slug":  "el-centro"
+    },
+    {
+        "city":  "El Cerrito",
+        "landmark":  "El Cerrito Plaza",
+        "population":  25541,
+        "slug":  "el-cerrito"
+    },
+    {
+        "city":  "El Monte",
+        "landmark":  "American Heritage Park",
+        "population":  108623,
+        "slug":  "el-monte"
+    },
+    {
+        "city":  "El Segundo",
+        "landmark":  "Chevron Refinery",
+        "population":  17556,
+        "slug":  "el-segundo"
+    },
+    {
+        "city":  "Elk Grove",
+        "landmark":  "Old Town Elk Grove",
+        "population":  176124,
+        "slug":  "elk-grove"
+    },
+    {
+        "city":  "Emeryville",
+        "landmark":  "Emeryville Marina",
+        "population":  13477,
+        "slug":  "emeryville"
+    },
+    {
+        "city":  "Encinitas",
+        "landmark":  "Encinitas Ranch Golf Course",
+        "population":  62367,
+        "slug":  "encinitas"
+    },
+    {
+        "city":  "Escalon",
+        "landmark":  "Escalon Park",
+        "population":  7790,
+        "slug":  "escalon"
+    },
+    {
+        "city":  "Escondido",
+        "landmark":  "California Center for the Arts",
+        "population":  151038,
+        "slug":  "escondido"
+    },
+    {
+        "city":  "Etna",
+        "landmark":  "Etna Park",
+        "population":  687,
+        "slug":  "etna"
+    },
+    {
+        "city":  "Eureka",
+        "landmark":  "Carson Mansion",
+        "population":  26210,
+        "slug":  "eureka"
+    },
+    {
+        "city":  "Exeter",
+        "landmark":  "Exeter Memorial Building",
+        "population":  10687,
+        "slug":  "exeter"
+    },
+    {
+        "city":  "Fairfax",
+        "landmark":  "Fairfax Pavilion",
+        "population":  7408,
+        "slug":  "fairfax"
+    },
+    {
+        "city":  "Fairfield",
+        "landmark":  "Gelco Shopping Center",
+        "population":  119913,
+        "slug":  "fairfield"
+    },
+    {
+        "city":  "Farmersville",
+        "landmark":  "Farmersville Historical Park",
+        "population":  11095,
+        "slug":  "farmersville"
+    },
+    {
+        "city":  "Ferndale",
+        "landmark":  "Ferndale Museum",
+        "population":  1331,
+        "slug":  "ferndale"
+    },
+    {
+        "city":  "Fillmore",
+        "landmark":  "Fillmore Historical Museum",
+        "population":  15877,
+        "slug":  "fillmore"
+    },
+    {
+        "city":  "Firebaugh",
+        "landmark":  "Firebaugh Community Center",
+        "population":  7797,
+        "slug":  "firebaugh"
+    },
+    {
+        "city":  "Folsom",
+        "landmark":  "Folsom Prison",
+        "population":  80863,
+        "slug":  "folsom"
+    },
+    {
+        "city":  "Fontana",
+        "landmark":  "Auto Club Speedway",
+        "population":  213899,
+        "slug":  "fontana"
+    },
+    {
+        "city":  "Fort Bragg",
+        "landmark":  "Glass Beach",
+        "population":  7002,
+        "slug":  "fort-bragg"
+    },
+    {
+        "city":  "Fort Jones",
+        "landmark":  "Fort Jones Museum",
+        "population":  823,
+        "slug":  "fort-jones"
+    },
+    {
+        "city":  "Fortuna",
+        "landmark":  "Fortuna Depot Museum",
+        "population":  12038,
+        "slug":  "fortuna"
+    },
+    {
+        "city":  "Foster City",
+        "landmark":  "Foster City Central Lake",
+        "population":  34703,
+        "slug":  "foster-city"
+    },
+    {
+        "city":  "Fountain Valley",
+        "landmark":  "Mile Square Regional Park",
+        "population":  57453,
+        "slug":  "fountain-valley"
+    },
+    {
+        "city":  "Fowler",
+        "landmark":  "Fowler Community Park",
+        "population":  6782,
+        "slug":  "fowler"
+    },
+    {
+        "city":  "Fremont",
+        "landmark":  "Mission San Jose",
+        "population":  230504,
+        "slug":  "fremont"
+    },
+    {
+        "city":  "Fresno",
+        "landmark":  "Forestiere Underground Gardens",
+        "population":  550105,
+        "slug":  "fresno"
+    },
+    {
+        "city":  "Fullerton",
+        "landmark":  "Fullerton Arboretum",
+        "population":  140823,
+        "slug":  "fullerton"
+    },
+    {
+        "city":  "Galt",
+        "landmark":  "Cosumnes River Preserve",
+        "population":  27314,
+        "slug":  "galt"
+    },
+    {
+        "city":  "Garden Grove",
+        "landmark":  "Crystal Cathedral",
+        "population":  170311,
+        "slug":  "garden-grove"
+    },
+    {
+        "city":  "Gardena",
+        "landmark":  "Rowley Memorial Park",
+        "population":  61484,
+        "slug":  "gardena"
+    },
+    {
+        "city":  "Gilroy",
+        "landmark":  "Gilroy Gardens",
+        "population":  59927,
+        "slug":  "gilroy"
+    },
+    {
+        "city":  "Glendale",
+        "landmark":  "Forest Lawn Memorial Park",
+        "population":  187038,
+        "slug":  "glendale"
+    },
+    {
+        "city":  "Glendora",
+        "landmark":  "Glendora Historical Society",
+        "population":  52493,
+        "slug":  "glendora"
+    },
+    {
+        "city":  "Goleta",
+        "landmark":  "UC Santa Barbara",
+        "population":  33302,
+        "slug":  "goleta"
+    },
+    {
+        "city":  "Gonzales",
+        "landmark":  "Gonzales Historical Museum",
+        "population":  8654,
+        "slug":  "gonzales"
+    },
+    {
+        "city":  "Grand Terrace",
+        "landmark":  "Grand Terrace Community Park",
+        "population":  12673,
+        "slug":  "grand-terrace"
+    },
+    {
+        "city":  "Grass Valley",
+        "landmark":  "Grass Valley Museum",
+        "population":  13139,
+        "slug":  "grass-valley"
+    },
+    {
+        "city":  "Greenfield",
+        "landmark":  "Greenfield Park",
+        "population":  19467,
+        "slug":  "greenfield"
+    },
+    {
+        "city":  "Gridley",
+        "landmark":  "Gridley Museum",
+        "population":  7519,
+        "slug":  "gridley"
+    },
+    {
+        "city":  "Grover Beach",
+        "landmark":  "Grover Beach Community Center",
+        "population":  13649,
+        "slug":  "grover-beach"
+    },
+    {
+        "city":  "Guadalupe",
+        "landmark":  "Guadalupe-Nipomo Dunes",
+        "population":  8269,
+        "slug":  "guadalupe"
+    },
+    {
+        "city":  "Gustine",
+        "landmark":  "Gustine Museum",
+        "population":  5821,
+        "slug":  "gustine"
+    },
+    {
+        "city":  "Half Moon Bay",
+        "landmark":  "Pillar Point Harbor",
+        "population":  11602,
+        "slug":  "half-moon-bay"
+    },
+    {
+        "city":  "Hanford",
+        "landmark":  "Confederate Air Force Museum",
+        "population":  59235,
+        "slug":  "hanford"
+    },
+    {
+        "city":  "Hawaiian Gardens",
+        "landmark":  "Hawaiian Gardens Casino",
+        "population":  14149,
+        "slug":  "hawaiian-gardens"
+    },
+    {
+        "city":  "Hawthorne",
+        "landmark":  "Hawthorne Memorial Park",
+        "population":  87425,
+        "slug":  "hawthorne"
+    },
+    {
+        "city":  "Hayward",
+        "landmark":  "Easy Bay Regional Park",
+        "population":  162952,
+        "slug":  "hayward"
+    },
+    {
+        "city":  "Healdsburg",
+        "landmark":  "Healdsburg Plaza",
+        "population":  11641,
+        "slug":  "healdsburg"
+    },
+    {
+        "city":  "Hemet",
+        "landmark":  "Ramona Bowl",
+        "population":  89222,
+        "slug":  "hemet"
+    },
+    {
+        "city":  "Hercules",
+        "landmark":  "Refugio Valley Park",
+        "population":  26734,
+        "slug":  "hercules"
+    },
+    {
+        "city":  "Hermosa Beach",
+        "landmark":  "Hermosa Beach Pier",
+        "population":  19504,
+        "slug":  "hermosa-beach"
+    },
+    {
+        "city":  "Hesperia",
+        "landmark":  "Hesperia Lake Park",
+        "population":  100664,
+        "slug":  "hesperia"
+    },
+    {
+        "city":  "Hidden Hills",
+        "landmark":  "Hidden Hills Community Park",
+        "population":  1957,
+        "slug":  "hidden-hills"
+    },
+    {
+        "city":  "Highland",
+        "landmark":  "Thurman Flat",
+        "population":  56661,
+        "slug":  "highland"
+    },
+    {
+        "city":  "Hillsborough",
+        "landmark":  "Fairway Park",
+        "population":  11405,
+        "slug":  "hillsborough"
+    },
+    {
+        "city":  "Hollister",
+        "landmark":  "Hollister Community Center",
+        "population":  41308,
+        "slug":  "hollister"
+    },
+    {
+        "city":  "Holtville",
+        "landmark":  "Holtville Historical Society",
+        "population":  5892,
+        "slug":  "holtville"
+    },
+    {
+        "city":  "Hughson",
+        "landmark":  "Hughson Historical Society",
+        "population":  7885,
+        "slug":  "hughson"
+    },
+    {
+        "city":  "Huntington Beach",
+        "landmark":  "Huntington Beach Pier",
+        "population":  198711,
+        "slug":  "huntington-beach"
+    },
+    {
+        "city":  "Huntington Park",
+        "landmark":  "Huntington Park Community Center",
+        "population":  56185,
+        "slug":  "huntington-park"
+    },
+    {
+        "city":  "Huron",
+        "landmark":  "Huron Park",
+        "population":  7045,
+        "slug":  "huron"
+    },
+    {
+        "city":  "Imperial",
+        "landmark":  "Imperial Valley College",
+        "population":  20559,
+        "slug":  "imperial"
+    },
+    {
+        "city":  "Imperial Beach",
+        "landmark":  "Imperial Beach Pier",
+        "population":  26302,
+        "slug":  "imperial-beach"
+    },
+    {
+        "city":  "Indian Wells",
+        "landmark":  "Indian Wells Tennis Garden",
+        "population":  5375,
+        "slug":  "indian-wells"
+    },
+    {
+        "city":  "Indio",
+        "landmark":  "Coachella Valley Preserve",
+        "population":  96431,
+        "slug":  "indio"
+    },
+    {
+        "city":  "Industry",
+        "landmark":  "Industry Hills Expo Center",
+        "population":  219,
+        "slug":  "industry"
+    },
+    {
+        "city":  "Inglewood",
+        "landmark":  "The Forum",
+        "population":  107203,
+        "slug":  "inglewood"
+    },
+    {
+        "city":  "Ione",
+        "landmark":  "Preston Castle",
+        "population":  7848,
+        "slug":  "ione"
+    },
+    {
+        "city":  "Irvine",
+        "landmark":  "Pretend City Children\u0027s Museum",
+        "population":  318761,
+        "slug":  "irvine"
+    },
+    {
+        "city":  "Irwindale",
+        "landmark":  "Santa Fe Dam Recreation Area",
+        "population":  1376,
+        "slug":  "irwindale"
+    },
+    {
+        "city":  "Isleton",
+        "landmark":  "Isleton Pool",
+        "population":  804,
+        "slug":  "isleton"
+    },
+    {
+        "city":  "Jackson",
+        "landmark":  "Amador County Museum",
+        "population":  4986,
+        "slug":  "jackson"
+    },
+    {
+        "city":  "Jurupa Valley",
+        "landmark":  "Jurupa Oak Park",
+        "population":  121318,
+        "slug":  "jurupa-valley"
+    },
+    {
+        "city":  "Kerman",
+        "landmark":  "Kerman Community Center",
+        "population":  16086,
+        "slug":  "kerman"
+    },
+    {
+        "city":  "King City",
+        "landmark":  "King City Joint Union High School",
+        "population":  14277,
+        "slug":  "king-city"
+    },
+    {
+        "city":  "Kingsburg",
+        "landmark":  "Kingsburg Historical Park",
+        "population":  12775,
+        "slug":  "kingsburg"
+    },
+    {
+        "city":  "La CaÃ±ada Flintridge",
+        "landmark":  "Descanso Gardens",
+        "population":  20707,
+        "slug":  "la-caada-flintridge"
+    },
+    {
+        "city":  "La Cañada Flintridge",
+        "landmark":  "Descanso Gardens",
+        "population":  20707,
+        "slug":  "la-canada-flintridge"
+    },
+    {
+        "city":  "La Habra",
+        "landmark":  "La Habra Historical Museum",
+        "population":  63764,
+        "slug":  "la-habra"
+    },
+    {
+        "city":  "La Habra Heights",
+        "landmark":  "Hacienda Park",
+        "population":  5488,
+        "slug":  "la-habra-heights"
+    },
+    {
+        "city":  "La Mesa",
+        "landmark":  "La Mesa Village",
+        "population":  59992,
+        "slug":  "la-mesa"
+    },
+    {
+        "city":  "La Mirada",
+        "landmark":  "La Mirada Theatre",
+        "population":  48123,
+        "slug":  "la-mirada"
+    },
+    {
+        "city":  "La Palma",
+        "landmark":  "La Palma Park",
+        "population":  15409,
+        "slug":  "la-palma"
+    },
+    {
+        "city":  "La Puente",
+        "landmark":  "La Puente Valley Park",
+        "population":  38336,
+        "slug":  "la-puente"
+    },
+    {
+        "city":  "La Quinta",
+        "landmark":  "La Quinta Resort",
+        "population":  39575,
+        "slug":  "la-quinta"
+    },
+    {
+        "city":  "La Verne",
+        "landmark":  "Lordsburg Park",
+        "population":  31635,
+        "slug":  "la-verne"
+    },
+    {
+        "city":  "Lafayette",
+        "landmark":  "Lafayette Reservoir",
+        "population":  25680,
+        "slug":  "lafayette"
+    },
+    {
+        "city":  "Laguna Beach",
+        "landmark":  "Laguna Art Museum",
+        "population":  22937,
+        "slug":  "laguna-beach"
+    },
+    {
+        "city":  "Laguna Hills",
+        "landmark":  "Nadia Park",
+        "population":  31596,
+        "slug":  "laguna-hills"
+    },
+    {
+        "city":  "Laguna Niguel",
+        "landmark":  "Crown Valley Park",
+        "population":  64868,
+        "slug":  "laguna-niguel"
+    },
+    {
+        "city":  "Laguna Woods",
+        "landmark":  "Laguna Woods Village",
+        "population":  17965,
+        "slug":  "laguna-woods"
+    },
+    {
+        "city":  "Lake Elsinore",
+        "landmark":  "Lake Elsinore Diamond",
+        "population":  74910,
+        "slug":  "lake-elsinore"
+    },
+    {
+        "city":  "Lake Forest",
+        "landmark":  "Serrano Creek Park",
+        "population":  86062,
+        "slug":  "lake-forest"
+    },
+    {
+        "city":  "Lakeport",
+        "landmark":  "Lakeport Historic Courthouse Museum",
+        "population":  4979,
+        "slug":  "lakeport"
+    },
+    {
+        "city":  "Lakewood",
+        "landmark":  "Lakewood Center Mall",
+        "population":  79976,
+        "slug":  "lakewood"
+    },
+    {
+        "city":  "Lancaster",
+        "landmark":  "Antelope Valley Fairgrounds",
+        "population":  171057,
+        "slug":  "lancaster"
+    },
+    {
+        "city":  "Larkspur",
+        "landmark":  "Larkspur Ferry Terminal",
+        "population":  13217,
+        "slug":  "larkspur"
+    },
+    {
+        "city":  "Lathrop",
+        "landmark":  "Lathrop Community Center",
+        "population":  32344,
+        "slug":  "lathrop"
+    },
+    {
+        "city":  "Lawndale",
+        "landmark":  "Lawndale City Hall",
+        "population":  32119,
+        "slug":  "lawndale"
+    },
+    {
+        "city":  "Lemon Grove",
+        "landmark":  "Lemon Grove Park",
+        "population":  26732,
+        "slug":  "lemon-grove"
+    },
+    {
+        "city":  "Lemoore",
+        "landmark":  "Lemoore Naval Air Station",
+        "population":  27393,
+        "slug":  "lemoore"
+    },
+    {
+        "city":  "Lincoln",
+        "landmark":  "Beermann Plaza",
+        "population":  50843,
+        "slug":  "lincoln"
+    },
+    {
+        "city":  "Lindsay",
+        "landmark":  "Lindsay Museum",
+        "population":  11533,
+        "slug":  "lindsay"
+    },
+    {
+        "city":  "Live Oak",
+        "landmark":  "Live Oak Park",
+        "population":  8918,
+        "slug":  "live-oak"
+    },
+    {
+        "city":  "Livermore",
+        "landmark":  "Del Valle Regional Park",
+        "population":  89303,
+        "slug":  "livermore"
+    },
+    {
+        "city":  "Livingston",
+        "landmark":  "Livingston Community Center",
+        "population":  14891,
+        "slug":  "livingston"
+    },
+    {
+        "city":  "Lodi",
+        "landmark":  "Lodi Lake Park",
+        "population":  67231,
+        "slug":  "lodi"
+    },
+    {
+        "city":  "Loma Linda",
+        "landmark":  "Loma Linda University",
+        "population":  24573,
+        "slug":  "loma-linda"
+    },
+    {
+        "city":  "Lomita",
+        "landmark":  "Lomita Railroad Museum",
+        "population":  20566,
+        "slug":  "lomita"
+    },
+    {
+        "city":  "Lompoc",
+        "landmark":  "Lompoc Valley Medical Center",
+        "population":  44882,
+        "slug":  "lompoc"
+    },
+    {
+        "city":  "Long Beach",
+        "landmark":  "Queen Mary Ship",
+        "population":  451998,
+        "slug":  "long-beach"
+    },
+    {
+        "city":  "Loomis",
+        "landmark":  "Loomis Community Park",
+        "population":  6771,
+        "slug":  "loomis"
+    },
+    {
+        "city":  "Los Alamitos",
+        "landmark":  "Los Alamitos Race Course",
+        "population":  11560,
+        "slug":  "los-alamitos"
+    },
+    {
+        "city":  "Los Altos",
+        "landmark":  "Los Altos History Museum",
+        "population":  31172,
+        "slug":  "los-altos"
+    },
+    {
+        "city":  "Los Altos Hills",
+        "landmark":  "Hidden Villa",
+        "population":  8517,
+        "slug":  "los-altos-hills"
+    },
+    {
+        "city":  "Los Angeles",
+        "landmark":  "Hollywood Sign",
+        "population":  3878704,
+        "slug":  "los-angeles"
+    },
+    {
+        "city":  "Los Banos",
+        "landmark":  "Miller \u0026 Lux Building",
+        "population":  46075,
+        "slug":  "los-banos"
+    },
+    {
+        "city":  "Los Gatos",
+        "landmark":  "Vasona Lake County Park",
+        "population":  31495,
+        "slug":  "los-gatos"
+    },
+    {
+        "city":  "Loyalton",
+        "landmark":  "Loyalton City Park",
+        "population":  753,
+        "slug":  "loyalton"
+    },
+    {
+        "city":  "Lynwood",
+        "landmark":  "Lynwood Park",
+        "population":  65712,
+        "slug":  "lynwood"
+    },
+    {
+        "city":  "Madera",
+        "landmark":  "Madera County Historical Museum",
+        "population":  68779,
+        "slug":  "madera"
+    },
+    {
+        "city":  "Malibu",
+        "landmark":  "Getty Villa",
+        "population":  10654,
+        "slug":  "malibu"
+    },
+    {
+        "city":  "Mammoth Lakes",
+        "landmark":  "Mammoth Mountain",
+        "population":  7928,
+        "slug":  "mammoth-lakes"
+    },
+    {
+        "city":  "Manhattan Beach",
+        "landmark":  "Manhattan Beach Pier",
+        "population":  35303,
+        "slug":  "manhattan-beach"
+    },
+    {
+        "city":  "Manteca",
+        "landmark":  "Manteca Historical Museum",
+        "population":  88561,
+        "slug":  "manteca"
+    },
+    {
+        "city":  "Maricopa",
+        "landmark":  "Maricopa Park",
+        "population":  1130,
+        "slug":  "maricopa"
+    },
+    {
+        "city":  "Marina",
+        "landmark":  "Fort Ord Dunes State Park",
+        "population":  22827,
+        "slug":  "marina"
+    },
+    {
+        "city":  "Martinez",
+        "landmark":  "John Muir National Historic Site",
+        "population":  37245,
+        "slug":  "martinez"
+    },
+    {
+        "city":  "Marysville",
+        "landmark":  "Booker T. Crenshaw Park",
+        "population":  12421,
+        "slug":  "marysville"
+    },
+    {
+        "city":  "Maywood",
+        "landmark":  "Maywood Park",
+        "population":  24987,
+        "slug":  "maywood"
+    },
+    {
+        "city":  "McFarland",
+        "landmark":  "McFarland Park",
+        "population":  14658,
+        "slug":  "mcfarland"
+    },
+    {
+        "city":  "Mendota",
+        "landmark":  "Mendota Pool",
+        "population":  12982,
+        "slug":  "mendota"
+    },
+    {
+        "city":  "Menifee",
+        "landmark":  "Menifee Lakes",
+        "population":  106611,
+        "slug":  "menifee"
+    },
+    {
+        "city":  "Menlo Park",
+        "landmark":  "Stanford University",
+        "population":  34725,
+        "slug":  "menlo-park"
+    },
+    {
+        "city":  "Merced",
+        "landmark":  "Merced Theatre",
+        "population":  90679,
+        "slug":  "merced"
+    },
+    {
+        "city":  "Mill Valley",
+        "landmark":  "Mill Valley Lumber Yard",
+        "population":  14316,
+        "slug":  "mill-valley"
+    },
+    {
+        "city":  "Millbrae",
+        "landmark":  "Millbrae BART Station",
+        "population":  23319,
+        "slug":  "millbrae"
+    },
+    {
+        "city":  "Milpitas",
+        "landmark":  "Great Mall",
+        "population":  79040,
+        "slug":  "milpitas"
+    },
+    {
+        "city":  "Mission Viejo",
+        "landmark":  "Mission San Juan Capistrano",
+        "population":  93365,
+        "slug":  "mission-viejo"
+    },
+    {
+        "city":  "Modesto",
+        "landmark":  "McHenry Mansion",
+        "population":  218464,
+        "slug":  "modesto"
+    },
+    {
+        "city":  "Monrovia",
+        "landmark":  "Monrovia Canyon Park",
+        "population":  37479,
+        "slug":  "monrovia"
+    },
+    {
+        "city":  "Montague",
+        "landmark":  "Montague Depot",
+        "population":  1413,
+        "slug":  "montague"
+    },
+    {
+        "city":  "Montclair",
+        "landmark":  "Montclair Plaza",
+        "population":  39746,
+        "slug":  "montclair"
+    },
+    {
+        "city":  "Monte Sereno",
+        "landmark":  "Monte Sereno Community Center",
+        "population":  3577,
+        "slug":  "monte-sereno"
+    },
+    {
+        "city":  "Montebello",
+        "landmark":  "Montebello City Park",
+        "population":  62661,
+        "slug":  "montebello"
+    },
+    {
+        "city":  "Monterey",
+        "landmark":  "Cannery Row",
+        "population":  30058,
+        "slug":  "monterey"
+    },
+    {
+        "city":  "Monterey Park",
+        "landmark":  "City Hall Park",
+        "population":  60944,
+        "slug":  "monterey-park"
+    },
+    {
+        "city":  "Moorpark",
+        "landmark":  "Moorpark College",
+        "population":  36743,
+        "slug":  "moorpark"
+    },
+    {
+        "city":  "Moraga",
+        "landmark":  "Saint Mary’s College",
+        "population":  17526,
+        "slug":  "moraga"
+    },
+    {
+        "city":  "Moreno Valley",
+        "landmark":  "Lake Perris",
+        "population":  208774,
+        "slug":  "moreno-valley"
+    },
+    {
+        "city":  "Morgan Hill",
+        "landmark":  "Morgan Hill Community Park",
+        "population":  46577,
+        "slug":  "morgan-hill"
+    },
+    {
+        "city":  "Morro Bay",
+        "landmark":  "Morro Rock",
+        "population":  10595,
+        "slug":  "morro-bay"
+    },
+    {
+        "city":  "Mount Shasta",
+        "landmark":  "Mount Shasta City Park",
+        "population":  3156,
+        "slug":  "mount-shasta"
+    },
+    {
+        "city":  "Mountain View",
+        "landmark":  "NASA Ames Research Center",
+        "population":  82903,
+        "slug":  "mountain-view"
+    },
+    {
+        "city":  "Murrieta",
+        "landmark":  "Town Square Park",
+        "population":  117592,
+        "slug":  "murrieta"
+    },
+    {
+        "city":  "Napa",
+        "landmark":  "Napa Valley Opera House",
+        "population":  79970,
+        "slug":  "napa"
+    },
+    {
+        "city":  "National City",
+        "landmark":  "Kimball Park",
+        "population":  61904,
+        "slug":  "national-city"
+    },
+    {
+        "city":  "Needles",
+        "landmark":  "El Garces Train Depot",
+        "population":  4715,
+        "slug":  "needles"
+    },
+    {
+        "city":  "Nevada City",
+        "landmark":  "Nevada County Courthouse",
+        "population":  3256,
+        "slug":  "nevada-city"
+    },
+    {
+        "city":  "Newark",
+        "landmark":  "Newark Community Park",
+        "population":  48965,
+        "slug":  "newark"
+    },
+    {
+        "city":  "Newman",
+        "landmark":  "Newman Park",
+        "population":  12392,
+        "slug":  "newman"
+    },
+    {
+        "city":  "Newport Beach",
+        "landmark":  "Balboa Island",
+        "population":  84965,
+        "slug":  "newport-beach"
+    },
+    {
+        "city":  "Norco",
+        "landmark":  "Norco Community Center",
+        "population":  26318,
+        "slug":  "norco"
+    },
+    {
+        "city":  "North Hollywood",
+        "landmark":  "NoHo Arts District",
+        "population":  87241,
+        "slug":  "north-hollywood"
+    },
+    {
+        "city":  "Norwalk",
+        "landmark":  "Norwalk Park",
+        "population":  102978,
+        "slug":  "norwalk"
+    },
+    {
+        "city":  "Novato",
+        "landmark":  "Novato History Museum",
+        "population":  54848,
+        "slug":  "novato"
+    },
+    {
+        "city":  "Oakdale",
+        "landmark":  "Oakdale Cowboy Museum",
+        "population":  23573,
+        "slug":  "oakdale"
+    },
+    {
+        "city":  "Oakland",
+        "landmark":  "Lake Merritt",
+        "population":  433544,
+        "slug":  "oakland"
+    },
+    {
+        "city":  "Oakley",
+        "landmark":  "Oakley Town Square Park",
+        "population":  42870,
+        "slug":  "oakley"
+    },
+    {
+        "city":  "Oceanside",
+        "landmark":  "Oceanside Pier",
+        "population":  170992,
+        "slug":  "oceanside"
+    },
+    {
+        "city":  "Oildale",
+        "landmark":  "Oildale Drive-In",
+        "population":  36021,
+        "slug":  "oildale"
+    },
+    {
+        "city":  "Ojai",
+        "landmark":  "Ojai Valley Museum",
+        "population":  7568,
+        "slug":  "ojai"
+    },
+    {
+        "city":  "Ontario",
+        "landmark":  "Ontario Mills Mall",
+        "population":  175265,
+        "slug":  "ontario"
+    },
+    {
+        "city":  "Orange",
+        "landmark":  "Old Towne Orange",
+        "population":  137811,
+        "slug":  "orange"
+    },
+    {
+        "city":  "Orange Cove",
+        "landmark":  "Orange Cove Park",
+        "population":  9630,
+        "slug":  "orange-cove"
+    },
+    {
+        "city":  "Orinda",
+        "landmark":  "Orinda Community Center",
+        "population":  19373,
+        "slug":  "orinda"
+    },
+    {
+        "city":  "Orland",
+        "landmark":  "Orland Park",
+        "population":  8089,
+        "slug":  "orland"
+    },
+    {
+        "city":  "Oroville",
+        "landmark":  "Feather River Fish Hatchery",
+        "population":  15660,
+        "slug":  "oroville"
+    },
+    {
+        "city":  "Oxnard",
+        "landmark":  "Channel Islands National Park",
+        "population":  202412,
+        "slug":  "oxnard"
+    },
+    {
+        "city":  "Pacific Grove",
+        "landmark":  "Point Pinos Lighthouse",
+        "population":  15414,
+        "slug":  "pacific-grove"
+    },
+    {
+        "city":  "Pacifica",
+        "landmark":  "Pacifica State Beach",
+        "population":  38090,
+        "slug":  "pacifica"
+    },
+    {
+        "city":  "Palm Desert",
+        "landmark":  "Living Desert Zoo",
+        "population":  53252,
+        "slug":  "palm-desert"
+    },
+    {
+        "city":  "Palm Springs",
+        "landmark":  "Palm Springs Aerial Tramway",
+        "population":  46565,
+        "slug":  "palm-springs"
+    },
+    {
+        "city":  "Palmdale",
+        "landmark":  "Dry Town Casino",
+        "population":  169333,
+        "slug":  "palmdale"
+    },
+    {
+        "city":  "Palo Alto",
+        "landmark":  "Stanford Shopping Center",
+        "population":  68621,
+        "slug":  "palo-alto"
+    },
+    {
+        "city":  "Palos Verdes Estates",
+        "landmark":  "Point Vicente Lighthouse",
+        "population":  13535,
+        "slug":  "palos-verdes-estates"
+    },
+    {
+        "city":  "Paradise",
+        "landmark":  "Paradise Community Park",
+        "population":  17439,
+        "slug":  "paradise"
+    },
+    {
+        "city":  "Paramount",
+        "landmark":  "Paramount Theatre",
+        "population":  53563,
+        "slug":  "paramount"
+    },
+    {
+        "city":  "Parlier",
+        "landmark":  "Parlier Park",
+        "population":  15491,
+        "slug":  "parlier"
+    },
+    {
+        "city":  "Pasadena",
+        "landmark":  "Rose Bowl Stadium",
+        "population":  138672,
+        "slug":  "pasadena"
+    },
+    {
+        "city":  "Paso Robles",
+        "landmark":  "Paso Robles Pioneer Museum",
+        "population":  31431,
+        "slug":  "paso-robles"
+    },
+    {
+        "city":  "Patterson",
+        "landmark":  "Patterson District Park",
+        "population":  23758,
+        "slug":  "patterson"
+    },
+    {
+        "city":  "Perris",
+        "landmark":  "Lake Perris State Recreation Area",
+        "population":  79723,
+        "slug":  "perris"
+    },
+    {
+        "city":  "Petaluma",
+        "landmark":  "Petaluma Historical Library",
+        "population":  60707,
+        "slug":  "petaluma"
+    },
+    {
+        "city":  "Pico Rivera",
+        "landmark":  "Pico Rivera Sports Arena",
+        "population":  62289,
+        "slug":  "pico-rivera"
+    },
+    {
+        "city":  "Piedmont",
+        "landmark":  "Piedmont Park",
+        "population":  11376,
+        "slug":  "piedmont"
+    },
+    {
+        "city":  "Pinole",
+        "landmark":  "Pinole Valley Park",
+        "population":  19139,
+        "slug":  "pinole"
+    },
+    {
+        "city":  "Pismo Beach",
+        "landmark":  "Pismo Beach Pier",
+        "population":  8056,
+        "slug":  "pismo-beach"
+    },
+    {
+        "city":  "Pittsburg",
+        "landmark":  "Pittsburg Marina",
+        "population":  75507,
+        "slug":  "pittsburg"
+    },
+    {
+        "city":  "Placentia",
+        "landmark":  "Placentia Founders Park",
+        "population":  52240,
+        "slug":  "placentia"
+    },
+    {
+        "city":  "Placerville",
+        "landmark":  "El Dorado County Courthouse",
+        "population":  10834,
+        "slug":  "placerville"
+    },
+    {
+        "city":  "Pleasant Hill",
+        "landmark":  "College Park",
+        "population":  34727,
+        "slug":  "pleasant-hill"
+    },
+    {
+        "city":  "Pleasanton",
+        "landmark":  "Alameda County Fairgrounds",
+        "population":  79795,
+        "slug":  "pleasanton"
+    },
+    {
+        "city":  "Plymouth",
+        "landmark":  "Plymouth Park",
+        "population":  1078,
+        "slug":  "plymouth"
+    },
+    {
+        "city":  "Point Arena",
+        "landmark":  "Point Arena Lighthouse",
+        "population":  420,
+        "slug":  "point-arena"
+    },
+    {
+        "city":  "Pomona",
+        "landmark":  "LA County Fairplex",
+        "population":  151713,
+        "slug":  "pomona"
+    },
+    {
+        "city":  "Port Hueneme",
+        "landmark":  "Port Hueneme Beach Park",
+        "population":  21536,
+        "slug":  "port-hueneme"
+    },
+    {
+        "city":  "Porterville",
+        "landmark":  "John W. Wiley Memorial Park",
+        "population":  62704,
+        "slug":  "porterville"
+    },
+    {
+        "city":  "Portola",
+        "landmark":  "Portola Railroad Museum",
+        "population":  1958,
+        "slug":  "portola"
+    },
+    {
+        "city":  "Portola Valley",
+        "landmark":  "Windmill School",
+        "population":  4486,
+        "slug":  "portola-valley"
+    },
+    {
+        "city":  "Poway",
+        "landmark":  "Old Poway Park",
+        "population":  49732,
+        "slug":  "poway"
+    },
+    {
+        "city":  "Rancho Cordova",
+        "landmark":  "Mather Regional Park",
+        "population":  77161,
+        "slug":  "rancho-cordova"
+    },
+    {
+        "city":  "Rancho Cucamonga",
+        "landmark":  "Victoria Gardens",
+        "population":  174506,
+        "slug":  "rancho-cucamonga"
+    },
+    {
+        "city":  "Rancho Mirage",
+        "landmark":  "Rancho Mirage Community Park",
+        "population":  17989,
+        "slug":  "rancho-mirage"
+    },
+    {
+        "city":  "Rancho Palos Verdes",
+        "landmark":  "Point Fermin Park",
+        "population":  41174,
+        "slug":  "rancho-palos-verdes"
+    },
+    {
+        "city":  "Rancho Santa Margarita",
+        "landmark":  "Lake Mission Viejo",
+        "population":  47354,
+        "slug":  "rancho-santa-margarita"
+    },
+    {
+        "city":  "Red Bluff",
+        "landmark":  "Kelly-Griggs House Museum",
+        "population":  14129,
+        "slug":  "red-bluff"
+    },
+    {
+        "city":  "Redding",
+        "landmark":  "Sundial Bridge",
+        "population":  91962,
+        "slug":  "redding"
+    },
+    {
+        "city":  "Redlands",
+        "landmark":  "Smiley Park",
+        "population":  73440,
+        "slug":  "redlands"
+    },
+    {
+        "city":  "Redondo Beach",
+        "landmark":  "Redondo Pier",
+        "population":  70254,
+        "slug":  "redondo-beach"
+    },
+    {
+        "city":  "Redwood City",
+        "landmark":  "San Mateo County History Museum",
+        "population":  87332,
+        "slug":  "redwood-city"
+    },
+    {
+        "city":  "Reedley",
+        "landmark":  "Reedley Museum",
+        "population":  25518,
+        "slug":  "reedley"
+    },
+    {
+        "city":  "Rialto",
+        "landmark":  "Rialto Historical Society",
+        "population":  104381,
+        "slug":  "rialto"
+    },
+    {
+        "city":  "Richmond",
+        "landmark":  "Rosie the Riveter Museum",
+        "population":  116823,
+        "slug":  "richmond"
+    },
+    {
+        "city":  "Ridgecrest",
+        "landmark":  "Maturango Museum",
+        "population":  26931,
+        "slug":  "ridgecrest"
+    },
+    {
+        "city":  "Rio Dell",
+        "landmark":  "Rio Dell Park",
+        "population":  3336,
+        "slug":  "rio-dell"
+    },
+    {
+        "city":  "Rio Vista",
+        "landmark":  "Rio Vista Bridge",
+        "population":  10103,
+        "slug":  "rio-vista"
+    },
+    {
+        "city":  "Ripon",
+        "landmark":  "Ripon Community Center",
+        "population":  16867,
+        "slug":  "ripon"
+    },
+    {
+        "city":  "Riverbank",
+        "landmark":  "Riverbank Community Park",
+        "population":  25837,
+        "slug":  "riverbank"
+    },
+    {
+        "city":  "Riverside",
+        "landmark":  "Mission Inn",
+        "population":  320764,
+        "slug":  "riverside"
+    },
+    {
+        "city":  "Rocklin",
+        "landmark":  "Johnson-Springview Park",
+        "population":  72463,
+        "slug":  "rocklin"
+    },
+    {
+        "city":  "Rohnert Park",
+        "landmark":  "Rohnert Park Express",
+        "population":  44840,
+        "slug":  "rohnert-park"
+    },
+    {
+        "city":  "Rolling Hills",
+        "landmark":  "Rolling Hills Covenant Church",
+        "population":  1820,
+        "slug":  "rolling-hills"
+    },
+    {
+        "city":  "Rolling Hills Estates",
+        "landmark":  "Anderson Park",
+        "population":  8287,
+        "slug":  "rolling-hills-estates"
+    },
+    {
+        "city":  "Rosemead",
+        "landmark":  "Rosemead Park",
+        "population":  51690,
+        "slug":  "rosemead"
+    },
+    {
+        "city":  "Roseville",
+        "landmark":  "Roseville Galleria",
+        "population":  152565,
+        "slug":  "roseville"
+    },
+    {
+        "city":  "Ross",
+        "landmark":  "Ross Common",
+        "population":  2420,
+        "slug":  "ross"
+    },
+    {
+        "city":  "Sacramento",
+        "landmark":  "California State Capitol",
+        "population":  524943,
+        "slug":  "sacramento"
+    },
+    {
+        "city":  "Salinas",
+        "landmark":  "National Steinbeck Center",
+        "population":  163856,
+        "slug":  "salinas"
+    },
+    {
+        "city":  "San Anselmo",
+        "landmark":  "San Anselmo Memorial Park",
+        "population":  12500,
+        "slug":  "san-anselmo"
+    },
+    {
+        "city":  "San Bernardino",
+        "landmark":  "Wigwam Motel",
+        "population":  226999,
+        "slug":  "san-bernardino"
+    },
+    {
+        "city":  "San Bruno",
+        "landmark":  "Tanforan Park",
+        "population":  43556,
+        "slug":  "san-bruno"
+    },
+    {
+        "city":  "San Carlos",
+        "landmark":  "Laurel Street Park",
+        "population":  30972,
+        "slug":  "san-carlos"
+    },
+    {
+        "city":  "San Clemente",
+        "landmark":  "San Clemente Pier",
+        "population":  64563,
+        "slug":  "san-clemente"
+    },
+    {
+        "city":  "San Diego",
+        "landmark":  "Balboa Park",
+        "population":  1404452,
+        "slug":  "san-diego"
+    },
+    {
+        "city":  "San Dimas",
+        "landmark":  "San Dimas Canyon Park",
+        "population":  34481,
+        "slug":  "san-dimas"
+    },
+    {
+        "city":  "San Fernando",
+        "landmark":  "San Fernando Mission",
+        "population":  24188,
+        "slug":  "san-fernando"
+    },
+    {
+        "city":  "San Francisco",
+        "landmark":  "Golden Gate Bridge",
+        "population":  827526,
+        "slug":  "san-francisco"
+    },
+    {
+        "city":  "San Gabriel",
+        "landmark":  "San Gabriel Mission",
+        "population":  39797,
+        "slug":  "san-gabriel"
+    },
+    {
+        "city":  "San Jacinto",
+        "landmark":  "San Jacinto Monument",
+        "population":  55581,
+        "slug":  "san-jacinto"
+    },
+    {
+        "city":  "San Joaquin",
+        "landmark":  "San Joaquin Park",
+        "population":  4008,
+        "slug":  "san-joaquin"
+    },
+    {
+        "city":  "San Jose",
+        "landmark":  "Winchester Mystery House",
+        "population":  997368,
+        "slug":  "san-jose"
+    },
+    {
+        "city":  "San Juan Bautista",
+        "landmark":  "San Juan Bautista State Park",
+        "population":  2002,
+        "slug":  "san-juan-bautista"
+    },
+    {
+        "city":  "San Juan Capistrano",
+        "landmark":  "Mission San Juan Capistrano",
+        "population":  36961,
+        "slug":  "san-juan-capistrano"
+    },
+    {
+        "city":  "San Leandro",
+        "landmark":  "San Leandro Marina",
+        "population":  89489,
+        "slug":  "san-leandro"
+    },
+    {
+        "city":  "San Luis Obispo",
+        "landmark":  "Mission San Luis Obispo",
+        "population":  47856,
+        "slug":  "san-luis-obispo"
+    },
+    {
+        "city":  "San Marcos",
+        "landmark":  "Cal State San Marcos",
+        "population":  96989,
+        "slug":  "san-marcos"
+    },
+    {
+        "city":  "San Marino",
+        "landmark":  "Huntington Library",
+        "population":  13147,
+        "slug":  "san-marino"
+    },
+    {
+        "city":  "San Mateo",
+        "landmark":  "College of San Mateo",
+        "population":  104430,
+        "slug":  "san-mateo"
+    },
+    {
+        "city":  "San Pablo",
+        "landmark":  "San Pablo Park",
+        "population":  31065,
+        "slug":  "san-pablo"
+    },
+    {
+        "city":  "San Rafael",
+        "landmark":  "Mission San Rafael Arcángel",
+        "population":  61549,
+        "slug":  "san-rafael"
+    },
+    {
+        "city":  "San Ramon",
+        "landmark":  "Central Park",
+        "population":  87881,
+        "slug":  "san-ramon"
+    },
+    {
+        "city":  "Sand City",
+        "landmark":  "Sand City Recreation Area",
+        "population":  325,
+        "slug":  "sand-city"
+    },
+    {
+        "city":  "Sanger",
+        "landmark":  "Sanger Depot Museum",
+        "population":  25822,
+        "slug":  "sanger"
+    },
+    {
+        "city":  "Santa Ana",
+        "landmark":  "Bowers Museum",
+        "population":  310069,
+        "slug":  "santa-ana"
+    },
+    {
+        "city":  "Santa Barbara",
+        "landmark":  "Stearns Wharf",
+        "population":  91842,
+        "slug":  "santa-barbara"
+    },
+    {
+        "city":  "Santa Clara",
+        "landmark":  "Great America",
+        "population":  130215,
+        "slug":  "santa-clara"
+    },
+    {
+        "city":  "Santa Clarita",
+        "landmark":  "Six Flags Magic Mountain",
+        "population":  182081,
+        "slug":  "santa-clarita"
+    },
+    {
+        "city":  "Santa Cruz",
+        "landmark":  "Santa Cruz Beach Boardwalk",
+        "population":  62956,
+        "slug":  "santa-cruz"
+    },
+    {
+        "city":  "Santa Fe Springs",
+        "landmark":  "Santa Fe Springs Park",
+        "population":  18613,
+        "slug":  "santa-fe-springs"
+    },
+    {
+        "city":  "Santa Maria",
+        "landmark":  "Santa Maria Valley Historical Society",
+        "population":  109707,
+        "slug":  "santa-maria"
+    },
+    {
+        "city":  "Santa Monica",
+        "landmark":  "Santa Monica Pier",
+        "population":  91567,
+        "slug":  "santa-monica"
+    },
+    {
+        "city":  "Santa Paula",
+        "landmark":  "California Oil Museum",
+        "population":  30220,
+        "slug":  "santa-paula"
+    },
+    {
+        "city":  "Santa Rosa",
+        "landmark":  "Sonoma County Fairgrounds",
+        "population":  178805,
+        "slug":  "santa-rosa"
+    },
+    {
+        "city":  "Santee",
+        "landmark":  "Santee Lakes Recreation Preserve",
+        "population":  59400,
+        "slug":  "santee"
+    },
+    {
+        "city":  "Saratoga",
+        "landmark":  "Hakone Gardens",
+        "population":  30770,
+        "slug":  "saratoga"
+    },
+    {
+        "city":  "Sausalito",
+        "landmark":  "Sausalito Houseboats",
+        "population":  7162,
+        "slug":  "sausalito"
+    },
+    {
+        "city":  "Scotts Valley",
+        "landmark":  "Scotts Valley Community Center",
+        "population":  12523,
+        "slug":  "scotts-valley"
+    },
+    {
+        "city":  "Seal Beach",
+        "landmark":  "Seal Beach Pier",
+        "population":  25978,
+        "slug":  "seal-beach"
+    },
+    {
+        "city":  "Seaside",
+        "landmark":  "Seaside Beach",
+        "population":  34827,
+        "slug":  "seaside"
+    },
+    {
+        "city":  "Sebastopol",
+        "landmark":  "Sebastopol Center for the Arts",
+        "population":  7615,
+        "slug":  "sebastopol"
+    },
+    {
+        "city":  "Selma",
+        "landmark":  "Selma Park",
+        "population":  24742,
+        "slug":  "selma"
+    },
+    {
+        "city":  "Shafter",
+        "landmark":  "Shafter Depot Museum",
+        "population":  20779,
+        "slug":  "shafter"
+    },
+    {
+        "city":  "Shasta Lake",
+        "landmark":  "Shasta Dam",
+        "population":  10167,
+        "slug":  "shasta-lake"
+    },
+    {
+        "city":  "Sierra Madre",
+        "landmark":  "Mount Wilson Trail",
+        "population":  10736,
+        "slug":  "sierra-madre"
+    },
+    {
+        "city":  "Signal Hill",
+        "landmark":  "Signal Hill Park",
+        "population":  11416,
+        "slug":  "signal-hill"
+    },
+    {
+        "city":  "Simi Valley",
+        "landmark":  "Strathearn Historical Park",
+        "population":  126158,
+        "slug":  "simi-valley"
+    },
+    {
+        "city":  "Solana Beach",
+        "landmark":  "Fletcher Cove Park",
+        "population":  12981,
+        "slug":  "solana-beach"
+    },
+    {
+        "city":  "Soledad",
+        "landmark":  "Mission Nuestra Señora de la Soledad",
+        "population":  25699,
+        "slug":  "soledad"
+    },
+    {
+        "city":  "Solvang",
+        "landmark":  "Hans Christian Andersen Museum",
+        "population":  6306,
+        "slug":  "solvang"
+    },
+    {
+        "city":  "Sonoma",
+        "landmark":  "Sonoma Plaza",
+        "population":  11344,
+        "slug":  "sonoma"
+    },
+    {
+        "city":  "Sonora",
+        "landmark":  "Covered Bridge",
+        "population":  4793,
+        "slug":  "sonora"
+    },
+    {
+        "city":  "South El Monte",
+        "landmark":  "South El Monte Park",
+        "population":  19577,
+        "slug":  "south-el-monte"
+    },
+    {
+        "city":  "South Gate",
+        "landmark":  "South Gate Park",
+        "population":  91565,
+        "slug":  "south-gate"
+    },
+    {
+        "city":  "South Lake Tahoe",
+        "landmark":  "Heavenly Ski Resort",
+        "population":  21128,
+        "slug":  "south-lake-tahoe"
+    },
+    {
+        "city":  "South Pasadena",
+        "landmark":  "South Pasadena Historical Society",
+        "population":  26778,
+        "slug":  "south-pasadena"
+    },
+    {
+        "city":  "South San Francisco",
+        "landmark":  "South San Francisco BART",
+        "population":  67271,
+        "slug":  "south-san-francisco"
+    },
+    {
+        "city":  "St. Helena",
+        "landmark":  "Beringer Vineyards",
+        "population":  5721,
+        "slug":  "st-helena"
+    },
+    {
+        "city":  "Stanton",
+        "landmark":  "Stanton Central Park",
+        "population":  38286,
+        "slug":  "stanton"
+    },
+    {
+        "city":  "Stockton",
+        "landmark":  "Haggin Museum",
+        "population":  320537,
+        "slug":  "stockton"
+    },
+    {
+        "city":  "Suisun City",
+        "landmark":  "Suisun City Marina",
+        "population":  29858,
+        "slug":  "suisun-city"
+    },
+    {
+        "city":  "Sunnyvale",
+        "landmark":  "Levi\u0027s Stadium",
+        "population":  155279,
+        "slug":  "sunnyvale"
+    },
+    {
+        "city":  "Susanville",
+        "landmark":  "Susanville Ranch Park",
+        "population":  14519,
+        "slug":  "susanville"
+    },
+    {
+        "city":  "Sutter Creek",
+        "landmark":  "Sutter Creek Park",
+        "population":  2653,
+        "slug":  "sutter-creek"
+    },
+    {
+        "city":  "Taft",
+        "landmark":  "Taft Oil Museum",
+        "population":  8968,
+        "slug":  "taft"
+    },
+    {
+        "city":  "Tehachapi",
+        "landmark":  "Tehachapi Loop",
+        "population":  13207,
+        "slug":  "tehachapi"
+    },
+    {
+        "city":  "Tehama",
+        "landmark":  "Tehama County Museum",
+        "population":  403,
+        "slug":  "tehama"
+    },
+    {
+        "city":  "Temecula",
+        "landmark":  "Old Town Temecula",
+        "population":  114761,
+        "slug":  "temecula"
+    },
+    {
+        "city":  "Temple City",
+        "landmark":  "Temple City Park",
+        "population":  35558,
+        "slug":  "temple-city"
+    },
+    {
+        "city":  "Thousand Oaks",
+        "landmark":  "Stagecoach Inn",
+        "population":  127595,
+        "slug":  "thousand-oaks"
+    },
+    {
+        "city":  "Tiburon",
+        "landmark":  "Tiburon Ferry Terminal",
+        "population":  9145,
+        "slug":  "tiburon"
+    },
+    {
+        "city":  "Torrance",
+        "landmark":  "Del Amo Fashion Center",
+        "population":  147067,
+        "slug":  "torrance"
+    },
+    {
+        "city":  "Tracy",
+        "landmark":  "Tracy Community Center",
+        "population":  97226,
+        "slug":  "tracy"
+    },
+    {
+        "city":  "Trinidad",
+        "landmark":  "Trinidad Memorial Lighthouse",
+        "population":  298,
+        "slug":  "trinidad"
+    },
+    {
+        "city":  "Truckee",
+        "landmark":  "Donner Memorial State Park",
+        "population":  17039,
+        "slug":  "truckee"
+    },
+    {
+        "city":  "Tulare",
+        "landmark":  "Tulare Historical Museum",
+        "population":  68699,
+        "slug":  "tulare"
+    },
+    {
+        "city":  "Tulelake",
+        "landmark":  "Tule Lake National Monument",
+        "population":  977,
+        "slug":  "tulelake"
+    },
+    {
+        "city":  "Turlock",
+        "landmark":  "Turlock Community Theatre",
+        "population":  73738,
+        "slug":  "turlock"
+    },
+    {
+        "city":  "Tustin",
+        "landmark":  "Tustin Area Museum",
+        "population":  80692,
+        "slug":  "tustin"
+    },
+    {
+        "city":  "Twentynine Palms",
+        "landmark":  "Twentynine Palms Art Gallery",
+        "population":  25169,
+        "slug":  "twentynine-palms"
+    },
+    {
+        "city":  "Ukiah",
+        "landmark":  "Grace Hudson Museum",
+        "population":  16607,
+        "slug":  "ukiah"
+    },
+    {
+        "city":  "Union City",
+        "landmark":  "Garner Park",
+        "population":  73166,
+        "slug":  "union-city"
+    },
+    {
+        "city":  "Upland",
+        "landmark":  "Euclid Avenue",
+        "population":  79000,
+        "slug":  "upland"
+    },
+    {
+        "city":  "Vacaville",
+        "landmark":  "Verizon Wireless Amphitheater",
+        "population":  102386,
+        "slug":  "vacaville"
+    },
+    {
+        "city":  "Vallejo",
+        "landmark":  "Vallejo Naval \u0026 Historical Museum",
+        "population":  121478,
+        "slug":  "vallejo"
+    },
+    {
+        "city":  "Ventura",
+        "landmark":  "Mission San Buenaventura",
+        "population":  110763,
+        "slug":  "ventura"
+    },
+    {
+        "city":  "Vernon",
+        "landmark":  "Vernon City Hall",
+        "population":  222,
+        "slug":  "vernon"
+    },
+    {
+        "city":  "Victorville",
+        "landmark":  "Route 66 Museum",
+        "population":  134811,
+        "slug":  "victorville"
+    },
+    {
+        "city":  "Villa Park",
+        "landmark":  "Villa Park Orchards Association",
+        "population":  5956,
+        "slug":  "villa-park"
+    },
+    {
+        "city":  "Visalia",
+        "landmark":  "Mooney Grove Park",
+        "population":  141384,
+        "slug":  "visalia"
+    },
+    {
+        "city":  "Vista",
+        "landmark":  "Antique Gas \u0026 Steam Engine Museum",
+        "population":  101171,
+        "slug":  "vista"
+    },
+    {
+        "city":  "Walnut",
+        "landmark":  "Walnut Family Park",
+        "population":  28625,
+        "slug":  "walnut"
+    },
+    {
+        "city":  "Walnut Creek",
+        "landmark":  "Broadway Plaza",
+        "population":  70939,
+        "slug":  "walnut-creek"
+    },
+    {
+        "city":  "Wasco",
+        "landmark":  "Wasco State Prison",
+        "population":  28392,
+        "slug":  "wasco"
+    },
+    {
+        "city":  "Waterford",
+        "landmark":  "Waterford Park",
+        "population":  8849,
+        "slug":  "waterford"
+    },
+    {
+        "city":  "Watsonville",
+        "landmark":  "Pajaro Valley Historical Association",
+        "population":  53599,
+        "slug":  "watsonville"
+    },
+    {
+        "city":  "Weed",
+        "landmark":  "Weed Historic Lumberjack Museum",
+        "population":  2733,
+        "slug":  "weed"
+    },
+    {
+        "city":  "West Covina",
+        "landmark":  "West Covina Park",
+        "population":  108233,
+        "slug":  "west-covina"
+    },
+    {
+        "city":  "West Hollywood",
+        "landmark":  "Sunset Strip",
+        "population":  35158,
+        "slug":  "west-hollywood"
+    },
+    {
+        "city":  "West Sacramento",
+        "landmark":  "Raley Field",
+        "population":  53515,
+        "slug":  "west-sacramento"
+    },
+    {
+        "city":  "Westlake Village",
+        "landmark":  "Westlake Village Community Park",
+        "population":  8293,
+        "slug":  "westlake-village"
+    },
+    {
+        "city":  "Westminster",
+        "landmark":  "Westminster Mall",
+        "population":  90134,
+        "slug":  "westminster"
+    },
+    {
+        "city":  "Westmorland",
+        "landmark":  "Westmorland Community Park",
+        "population":  2142,
+        "slug":  "westmorland"
+    },
+    {
+        "city":  "Wheatland",
+        "landmark":  "Wheatland Park",
+        "population":  3702,
+        "slug":  "wheatland"
+    },
+    {
+        "city":  "Whittier",
+        "landmark":  "Pio Pico State Historic Park",
+        "population":  87647,
+        "slug":  "whittier"
+    },
+    {
+        "city":  "Wildomar",
+        "landmark":  "Wildomar Community Park",
+        "population":  37688,
+        "slug":  "wildomar"
+    },
+    {
+        "city":  "Williams",
+        "landmark":  "Williams Community Park",
+        "population":  5641,
+        "slug":  "williams"
+    },
+    {
+        "city":  "Willits",
+        "landmark":  "Willits Depot",
+        "population":  4995,
+        "slug":  "willits"
+    },
+    {
+        "city":  "Willows",
+        "landmark":  "Willows Museum",
+        "population":  6039,
+        "slug":  "willows"
+    },
+    {
+        "city":  "Windsor",
+        "landmark":  "Windsor Town Green",
+        "population":  27376,
+        "slug":  "windsor"
+    },
+    {
+        "city":  "Winters",
+        "landmark":  "Turkey Day Festival",
+        "population":  7408,
+        "slug":  "winters"
+    },
+    {
+        "city":  "Woodlake",
+        "landmark":  "Woodlake Botanical Garden",
+        "population":  7603,
+        "slug":  "woodlake"
+    },
+    {
+        "city":  "Woodland",
+        "landmark":  "Yolo County Historical Museum",
+        "population":  61717,
+        "slug":  "woodland"
+    },
+    {
+        "city":  "Woodside",
+        "landmark":  "Huddart Park",
+        "population":  5402,
+        "slug":  "woodside"
+    },
+    {
+        "city":  "Yorba Linda",
+        "landmark":  "Nixon Presidential Library",
+        "population":  68775,
+        "slug":  "yorba-linda"
+    },
+    {
+        "city":  "Yountville",
+        "landmark":  "French Laundry",
+        "population":  2953,
+        "slug":  "yountville"
+    },
+    {
+        "city":  "Yreka",
+        "landmark":  "McCloud River",
+        "population":  7767,
+        "slug":  "yreka"
+    },
+    {
+        "city":  "Yuba City",
+        "landmark":  "Sutter Buttes",
+        "population":  70106,
+        "slug":  "yuba-city"
+    },
+    {
+        "city":  "Yucaipa",
+        "landmark":  "Yucaipa Regional Park",
+        "population":  56463,
+        "slug":  "yucaipa"
+    },
+    {
+        "city":  "Yucca Valley",
+        "landmark":  "Joshua Tree National Park",
+        "population":  21977,
+        "slug":  "yucca-valley"
+    }
+]
