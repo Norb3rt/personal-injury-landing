@@ -3,7 +3,7 @@ import { StateDataLoader } from '@/lib/data/state-loader'
 import { SEOPriority } from '@/lib/types/location.types'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://your-domain.com'
+  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
 
   // Static pages
   const staticPages = [

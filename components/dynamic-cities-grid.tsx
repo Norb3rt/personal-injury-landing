@@ -86,7 +86,10 @@ export function DynamicCitiesGrid({
           }
         }
 
-        setCities(citiesData)
+        const filteredCities = currentCity
+          ? citiesData.filter(c => c.slug === currentCity || c.slug === currentCity.toLowerCase())
+          : citiesData
+        setCities(filteredCities)
         setStateConfig(config)
       } catch (err) {
         console.error(`Error loading cities for ${currentState}:`, err)
@@ -97,7 +100,7 @@ export function DynamicCitiesGrid({
     }
 
     loadCitiesData()
-  }, [currentState])
+  }, [currentState, currentCity])
 
   const displayedCities = cities.slice(0, visibleCount)
   const hasMoreCities = visibleCount < cities.length

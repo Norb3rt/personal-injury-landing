@@ -10,7 +10,7 @@ import { notFound } from 'next/navigation'
 import { StickyFooterCTA } from "@/components/sticky-footer-cta"
 import { AnalyticsProvider } from "@/components/analytics-provider"
 import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
-import { DynamicCitiesGrid } from "@/components/dynamic-cities-grid"
+import { DynamicCitySpotlight } from "@/components/dynamic-city-spotlight"
 
 import { generateCityMetadata, generateLocalBusinessStructuredData } from "@/lib/seo"
 
@@ -42,7 +42,7 @@ interface PageProps {
 
 // Generate metadata for SEO - use same system as legacy for consistency
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://your-domain.com'
+  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
 
   // Use the same metadata generation as legacy pages
   return generateCityMetadata(params.city, baseUrl)
@@ -747,47 +747,15 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           </div>
         </section>
 
-        {/* Dynamic Cities Section */}
-        <section className="py-16 px-4 bg-gray-50 relative overflow-hidden">
-          <div className="max-w-6xl mx-auto">
-            <FadeIn direction="up" delay={0.1}>
-              <h2 className="text-3xl md:text-4xl font-bold text-center mb-4 text-gray-900">
-                Serving Cities Across {state}
-              </h2>
-              <p className="text-xl text-gray-600 text-center mb-12 max-w-3xl mx-auto">
-                Our network of experienced personal injury attorneys provides legal services throughout {state}.
-                Find professional legal assistance in your city.
-              </p>
-            </FadeIn>
 
-            <DynamicCitiesGrid
-              currentState={params.state}
-              currentCity={params.city}
-              maxInitialCities={3}
-            />
 
-            <div className="text-center mt-12">
-              <FadeIn direction="up" delay={0.3}>
-                <AnimatedButton magneticStrength={0.2} hoverScale={1.05}>
-                  <TwoStepLeadModal
-                    trigger={
-                      <Button
-                        size="lg"
-                        className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90"
-                        style={{ backgroundColor: '#0B6B65' }}
-                      >
-                        Find an Attorney in Your City
-                      </Button>
-                    }
-                    source="cities-section"
-                    city={city}
-                    state={state}
-                  />
-                </AnimatedButton>
-              </FadeIn>
-            </div>
-          </div>
-        </section>
+        {/* Dynamic City Spotlight Section */}
+        <DynamicCitySpotlight
+          currentState={params.state}
+          currentCity={params.city}
+          stateDisplayName={state}
+          cityDisplayName={city}
+        />
 
         {/* Sticky Footer CTA */}
         <StickyFooterCTA city={city} state={state} />
