@@ -275,10 +275,10 @@ export function TwoStepLeadModal({ trigger, source, city, state, caseType }: Two
                       <div className="bg-green-50 p-4 rounded-lg">
                         <div className="flex items-center gap-2 text-green-800 mb-2">
                           <Shield className="h-4 w-4" />
-                          <span className="font-semibold text-sm">Your Information is Secure</span>
+                          <span className="font-semibold text-sm">This is an Attorney Advertisement</span>
                         </div>
                         <p className="text-green-700 text-xs">
-                          All information is confidential and protected by attorney-client privilege.
+                          By submitting this form, you agree to be contacted by an attorney (or intake). Results may vary.
                         </p>
                       </div>
 

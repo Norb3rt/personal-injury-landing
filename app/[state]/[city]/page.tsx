@@ -16,6 +16,7 @@ import { generateCityMetadata, generateLocalBusinessStructuredData } from "@/lib
 
 // Import new data loading system
 import { StateDataLoader } from "@/lib/data/state-loader"
+import { practiceAreaNameToSlug } from "@/lib/data/practice-areas-config"
 
 // Import animation components
 import {
@@ -118,12 +119,12 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
   const testimonials = cityData.testimonials.length > 0 ? cityData.testimonials : defaultTestimonials
 
   const services = [
-    { name: "Car Accidents", icon: "🚗", description: "Get compensation for vehicle collisions and injuries" },
-    { name: "Slip & Fall", icon: "⚠️", description: "Property owner negligence claims" },
-    { name: "Medical Malpractice", icon: "🏥", description: "Healthcare provider negligence cases" },
-    { name: "Workplace Injuries", icon: "🏗️", description: "On-the-job accident compensation" },
-    { name: "Product Liability", icon: "📦", description: "Defective product injury claims" },
-    { name: "Wrongful Death", icon: "💔", description: "Justice for families who lost loved ones" },
+    { name: "Car Accidents", slug: "car-accident", icon: "🚗", description: "Get compensation for vehicle collisions and injuries" },
+    { name: "Slip & Fall", slug: "slip-and-fall", icon: "⚠️", description: "Property owner negligence claims" },
+    { name: "Medical Malpractice", slug: "medical-malpractice", icon: "🏥", description: "Healthcare provider negligence cases" },
+    { name: "Workplace Injuries", slug: "workplace-injury", icon: "🏗️", description: "On-the-job accident compensation" },
+    { name: "Product Liability", slug: "product-liability", icon: "📦", description: "Defective product injury claims" },
+    { name: "Wrongful Death", slug: "wrongful-death", icon: "💔", description: "Justice for families who lost loved ones" },
   ]
 
   const faqItems = [
@@ -281,40 +282,34 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             <StaggerContainer staggerDelay={0.05} className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {services.map((service, index) => (
                 <StaggerItem key={index}>
-                  <Card className="h-full hover:shadow-xl transition-all duration-300 border-0 shadow-md bg-white/80 backdrop-blur-sm">
-                    <CardContent className="p-6 text-center h-full flex flex-col">
-                      <GlowEffect
-                        glowColor="rgba(59, 130, 246, 0.3)"
-                        intensity={0.8}
-                        className="mb-4"
-                      >
-                        <div className="text-4xl mb-4 transform transition-transform duration-300 hover:scale-110">
-                          {service.icon}
-                        </div>
-                      </GlowEffect>
+                  <Link href={`/${params.state}/${params.city}/${service.slug}`}>
+                    <Card className="h-full hover:shadow-xl transition-all duration-300 border-0 shadow-md bg-white/80 backdrop-blur-sm cursor-pointer group">
+                      <CardContent className="p-6 text-center h-full flex flex-col">
+                        <GlowEffect
+                          glowColor="rgba(59, 130, 246, 0.3)"
+                          intensity={0.8}
+                          className="mb-4"
+                        >
+                          <div className="text-4xl mb-4 transform transition-transform duration-300 group-hover:scale-110">
+                            {service.icon}
+                          </div>
+                        </GlowEffect>
 
-                      <h3 className="text-xl font-semibold mb-2 text-gray-900">{service.name}</h3>
-                      <p className="text-gray-600 mb-4 flex-grow">{service.description}</p>
+                        <h3 className="text-xl font-semibold mb-2 text-gray-900 group-hover:text-teal-600 transition-colors">{service.name}</h3>
+                        <p className="text-gray-600 mb-4 flex-grow">{service.description}</p>
 
-                      <AnimatedButton magneticStrength={0.15} hoverScale={1.02}>
-                        <TwoStepLeadModal
-                          trigger={
-                            <Button
-                              variant="outline"
-                              size="sm"
-                              className="w-full bg-transparent service-button"
-                            >
-                              Get Help Now
-                            </Button>
-                          }
-                          source={`service-${service.name.toLowerCase().replace(/\s+/g, "-")}`}
-                          city={city}
-                          state={state}
-                          caseType={service.name}
-                        />
-                      </AnimatedButton>
-                    </CardContent>
-                  </Card>
+                        <AnimatedButton magneticStrength={0.15} hoverScale={1.02}>
+                          <Button
+                            variant="outline"
+                            size="sm"
+                            className="w-full bg-transparent service-button"
+                          >
+                            Learn More →
+                          </Button>
+                        </AnimatedButton>
+                      </CardContent>
+                    </Card>
+                  </Link>
                 </StaggerItem>
               ))}
             </StaggerContainer>

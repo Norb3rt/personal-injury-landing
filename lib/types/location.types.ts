@@ -100,6 +100,7 @@ export interface SitemapEntry {
   priority: number;
   state: string;
   city: string;
+  practice?: string; // Optional practice area for subniche pages
 }
 
 // Tipos para analytics y tracking
