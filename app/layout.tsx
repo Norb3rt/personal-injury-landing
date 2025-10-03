@@ -12,14 +12,14 @@ export const metadata: Metadata = {
   description:
     "Connect with top personal injury attorneys in California. No win, no fee. Get the settlement you deserve.",
   generator: 'Next.js',
-  metadataBase: new URL('https://your-domain.com'), // Replace with your actual domain
+  metadataBase: new URL('https://personalinjury.lawproactive.com'), // Replace with your actual domain
   alternates: {
     canonical: '/',
   },
   openGraph: {
     title: "Personal Injury Lawyers in California | Free Consultation",
     description: "Connect with top personal injury attorneys in California. No win, no fee. Get the settlement you deserve.",
-    url: 'https://your-domain.com',
+    url: 'https://personalinjury.lawproactive.com',
     siteName: 'LawProactive',
     images: [
       {

@@ -69,7 +69,7 @@ export const CALIFORNIA_CITIES: Record<string, CityMetadata> = {
 }
 
 // Generate comprehensive metadata for city pages
-export function generateCityMetadata(citySlug: string, baseUrl: string = 'https://your-domain.com'): Metadata {
+export function generateCityMetadata(citySlug: string, baseUrl: string = 'https://personalinjury.lawproactive.com'): Metadata {
   // Simplified implementation - convert slug to city name
   const cityName = citySlug.charAt(0).toUpperCase() + citySlug.slice(1).replace(/-/g, " ")
 
@@ -143,7 +143,7 @@ function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: s
 }
 
 // Generate structured data for local business
-export function generateLocalBusinessStructuredData(citySlug: string, baseUrl: string = 'https://your-domain.com') {
+export function generateLocalBusinessStructuredData(citySlug: string, baseUrl: string = 'https://personalinjury.lawproactive.com') {
   const cityData = CALIFORNIA_CITIES[citySlug]
   const cityName = cityData?.name || citySlug.charAt(0).toUpperCase() + citySlug.slice(1).replace(/-/g, " ")
   const coordinates = cityData?.coordinates || { lat: 34.0522, lng: -118.2437 }

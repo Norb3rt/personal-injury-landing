@@ -69,7 +69,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
   const city = toTitleCase(params.city)
   const state = toTitleCase(params.state)
   const citySlug = params.city
-  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://your-domain.com'
+  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
 
   // Use static data for reliable deployment (same as legacy)
   const cityData = {
