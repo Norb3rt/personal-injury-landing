@@ -13,9 +13,31 @@ import { Checkbox } from "@/components/ui/checkbox"
 import { useForm } from "react-hook-form"
 import { zodResolver } from "@hookform/resolvers/zod"
 import { z } from "zod"
-import { submitLead } from "@/lib/actions"
+// import { submitLead } from "@/lib/actions"
 import { useToast } from "@/hooks/use-toast"
 import { Loader2, ArrowRight, ArrowLeft, CheckCircle, User, FileText, Shield, Clock } from "lucide-react"
+
+async function submitLeadToAPI(leadData: any) {
+  const apiUrl = process.env.NEXT_PUBLIC_CRM_API_URL || 'https://lawproactive-crm.vercel.app/api/leads'
+
+  const response = await fetch(`${apiUrl}/api/leads`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    credentials: 'include',
+    body: JSON.stringify(leadData)
+  })
+
+  if (!response.ok) {
+    const error = await response.json()
+    throw new Error(error.error || 'Failed to submit lead')
+  }
+
+  return await response.json()
+}
+
+
 
 const step1Schema = z.object({
   firstName: z.string().min(2, "First name must be at least 2 characters"),
@@ -89,11 +111,13 @@ export function TwoStepLeadModal({ trigger, source, city, state, caseType }: Two
         ...data,
         city,
         state: finalState, // Usar estado dinámico
-        source,
+        source: "Personal Injury", // Always use "Landing Page" for CRM constraint
         timestamp: new Date().toISOString(),
       }
 
-      const result = await submitLead(fullData)
+      // const result = await submitLead(fullData)
+
+      const result = await submitLeadToAPI(fullData)
 
       if (result.success) {
         // Track conversion
