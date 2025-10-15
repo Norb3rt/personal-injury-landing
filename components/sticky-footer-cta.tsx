@@ -13,6 +13,7 @@ interface StickyFooterCTAProps {
 export function StickyFooterCTA({ city, state }: StickyFooterCTAProps) {
   const [isVisible, setIsVisible] = useState(false)
   const [isDismissed, setIsDismissed] = useState(false)
+  const [isModalOpen, setIsModalOpen] = useState(false)
 
   useEffect(() => {
     const handleScroll = () => {
@@ -27,6 +28,25 @@ export function StickyFooterCTA({ city, state }: StickyFooterCTAProps) {
     return () => window.removeEventListener("scroll", handleScroll)
   }, [])
 
+  // Listen for modal open/close events from ANY TwoStepLeadModal on the page
+  useEffect(() => {
+    const handleModalOpen = () => {
+      setIsModalOpen(true)
+    }
+
+    const handleModalClose = () => {
+      setIsModalOpen(false)
+    }
+
+    window.addEventListener("leadModalOpen", handleModalOpen)
+    window.addEventListener("leadModalClose", handleModalClose)
+
+    return () => {
+      window.removeEventListener("leadModalOpen", handleModalOpen)
+      window.removeEventListener("leadModalClose", handleModalClose)
+    }
+  }, [])
+
   // Get phone number from environment or use default
   const phoneNumber = process.env.NEXT_PUBLIC_PHONE_NUMBER || "+1-800-123-4567"
 
@@ -34,7 +54,13 @@ export function StickyFooterCTA({ city, state }: StickyFooterCTAProps) {
     setIsDismissed(true)
   }
 
-  if (!isVisible || isDismissed) return null
+  const handleModalOpenChange = (open: boolean) => {
+    // This is still used for the modal inside the banner
+    setIsModalOpen(open)
+  }
+
+  // Hide banner if dismissed OR if modal is open
+  if (!isVisible || isDismissed || isModalOpen) return null
 
   return (
     <div
@@ -81,6 +107,7 @@ export function StickyFooterCTA({ city, state }: StickyFooterCTAProps) {
             source="sticky-footer"
             city={city}
             state={state}
+            onOpenChange={handleModalOpenChange}
           />
         </div>
       </div>

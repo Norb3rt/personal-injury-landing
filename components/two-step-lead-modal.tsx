@@ -64,9 +64,10 @@ interface TwoStepLeadModalProps {
   city: string
   state?: string
   caseType?: string
+  onOpenChange?: (open: boolean) => void
 }
 
-export function TwoStepLeadModal({ trigger, source, city, state, caseType }: TwoStepLeadModalProps) {
+export function TwoStepLeadModal({ trigger, source, city, state, caseType, onOpenChange }: TwoStepLeadModalProps) {
   const [open, setOpen] = useState(false)
   const [currentStep, setCurrentStep] = useState(1)
   const [isSubmitting, setIsSubmitting] = useState(false)
@@ -160,7 +161,28 @@ export function TwoStepLeadModal({ trigger, source, city, state, caseType }: Two
 
   const handleClose = () => {
     setOpen(false)
+    onOpenChange?.(false)
+
+    // Emit global event for banner to listen
+    if (typeof window !== "undefined") {
+      window.dispatchEvent(new Event("leadModalClose"))
+    }
+
     setTimeout(resetForm, 300) // Reset after modal closes
+  }
+
+  const handleOpenChange = (newOpen: boolean) => {
+    setOpen(newOpen)
+    onOpenChange?.(newOpen)
+
+    // Emit global events for banner to listen
+    if (typeof window !== "undefined") {
+      if (newOpen) {
+        window.dispatchEvent(new Event("leadModalOpen"))
+      } else {
+        window.dispatchEvent(new Event("leadModalClose"))
+      }
+    }
   }
 
   const SuccessContent = () => (
@@ -184,7 +206,7 @@ export function TwoStepLeadModal({ trigger, source, city, state, caseType }: Two
   )
 
   return (
-    <Dialog open={open} onOpenChange={setOpen}>
+    <Dialog open={open} onOpenChange={handleOpenChange}>
       <DialogTrigger asChild>{trigger}</DialogTrigger>
       <DialogContent className="sm:max-w-[600px] max-h-[90vh] overflow-y-auto p-0">
         {isSuccess ? (
