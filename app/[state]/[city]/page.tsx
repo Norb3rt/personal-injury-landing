@@ -759,11 +759,16 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         <footer className="bg-gray-900 text-white py-8 px-4 pb-20">
           <div className="max-w-6xl mx-auto text-center">
             <p className="text-gray-400 mb-4">
-              LawProactive is not a law firm and does not provide legal advice. We provide legal document preparation services and maintain a publishing platform for attorney listings and digital landing pages.
-
-              All listings are paid advertisements. LawProactive does not endorse, evaluate, or assign attorneys. No attorney-client relationship is formed by using this website.
+              Attorneys: Stop chasing leads.{" "}
+              <Link href="http://leads.lawproactive.com" className="text-teal-400 hover:text-teal-300 underline">
+                Secure your funnel
+              </Link>{" "}
+              and convert local searches into real clients.
             </p>
 
+            <p className="text-gray-400 mb-4 text-sm">
+              Attorney Advertising: LawProactive is not a law firm and does not provide legal advice. We provide legal document preparation services and maintain a publishing platform for attorney listings and digital marketing services. All listings are paid advertisements. LawProactive does not endorse, evaluate, assign, or refer attorneys. No attorney-client relationship is formed by using this website.
+            </p>
             {/* Legal Links */}
             <div className="flex justify-center items-center gap-6 mb-4">
               <Link
@@ -837,5 +842,3 @@ async function validateLocation(stateSlug: string, citySlug: string): Promise<bo
     return false // If there's an error, show 404
   }
 }
-
-

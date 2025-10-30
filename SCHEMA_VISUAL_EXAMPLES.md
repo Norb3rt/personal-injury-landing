@@ -383,7 +383,7 @@ BEFORE:                    AFTER:
 │ Home › Practice Areas › Car Accidents                           │
 │ https://www.forthepeople.com › practice-areas › car-accidents  │
 │                                                                 │
-│ ⭐⭐⭐⭐⭐ Rating: 4.8 · 15,234 reviews                          │
+│ ⭐⭐⭐⭐⭐ Rating: 4.8 · 15,234 reviews                         │
 │                                                                 │
 │ Free case evaluation. No fees unless we win. Over $15 billion   │
 │ recovered for clients. Call (800) XXX-XXXX for a free...        │
