@@ -772,14 +772,14 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             {/* Legal Links */}
             <div className="flex justify-center items-center gap-6 mb-4">
               <Link
-                href="/terms-of-service"
+                href="https://www.lawproactive.com/terms-of-service"
                 className="text-gray-400 hover:text-white transition-colors duration-300 text-sm underline"
               >
                 Terms of Service
               </Link>
               <span className="text-gray-600">|</span>
               <Link
-                href="/privacy-policy"
+                href="https://www.lawproactive.com/privacy-policy"
                 className="text-gray-400 hover:text-white transition-colors duration-300 text-sm underline"
               >
                 Privacy Policy
