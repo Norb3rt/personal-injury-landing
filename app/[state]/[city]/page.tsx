@@ -13,7 +13,7 @@ import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
 import { DynamicCitySpotlight } from "@/components/dynamic-city-spotlight"
 
 import { generateCityMetadata, generateLocalBusinessStructuredData } from "@/lib/seo"
-
+import { getCitiesByState } from "@/lib/data/cities"
 // Import new data loading system
 import { StateDataLoader } from "@/lib/data/state-loader"
 import { practiceAreaNameToSlug } from "@/lib/data/practice-areas-config"
@@ -51,7 +51,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
 export default async function PersonalInjuryLanding({ params }: PageProps) {
   // Validar que la combinación estado/ciudad existe
-  const isValidLocation = await validateLocation(params.state, params.city)
+  const isValidLocation = await validateLocation(params.state, params.city);
 
   if (!isValidLocation) {
     notFound() // Esto mostrará tu not-found.tsx
@@ -82,9 +82,6 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
       yearsExperience: 15
     }
   }
-
-  // Generate structured data using utility function (same as legacy)
-  const structuredData = generateLocalBusinessStructuredData(citySlug, baseUrl)
 
   const defaultTestimonials = [
     {
@@ -155,15 +152,106 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     },
   ]
 
+  // --- Enhanced SEO Structured Data ---
+
+  const pageUrl = `${baseUrl}/${params.state}/${params.city}`;
+
+  // 1. LegalService Schema (more specific than LocalBusiness)
+  const legalServiceSchema = {
+    "@context": "https://schema.org",
+    "@type": "LegalService",
+    "name": `Personal Injury Attorney in ${city}, ${state}`,
+    "description": `Find top-rated personal injury lawyers in ${city}. Free case review, no win, no fee. We handle car accidents, slip & fall, and more.`,
+    "url": pageUrl,
+    "telephone": "+1-213-220-5556", // Replace with a real tracking number if available
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": city,
+      "addressRegion": state,
+      "addressCountry": "US"
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": city
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Personal Injury Legal Services",
+      "itemListElement": services.map(service => ({
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": service.name,
+          "description": service.description,
+          "url": `${pageUrl}/${service.slug}`
+        }
+      }))
+    },
+    "review": testimonials.map(t => ({
+      "@type": "Review",
+      "author": { "@type": "Person", "name": t.case },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": t.rating.toString()
+      },
+      "reviewBody": t.quote
+    }))
+  };
+
+  // 2. FAQPage Schema
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqItems.map(item => ({
+      "@type": "Question",
+      "name": item.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": item.answer
+      }
+    }))
+  };
+
+  // 3. BreadcrumbList Schema
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": baseUrl
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": state,
+        "item": `${baseUrl}/${params.state}`
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": city,
+        "item": pageUrl
+      }
+    ]
+  };
+
+  // Combine all schemas
+  const allStructuredData = [
+    legalServiceSchema,
+    faqSchema,
+    breadcrumbSchema
+  ];
+
   return (
     <AnalyticsProvider>
       <div className="min-h-screen bg-white">
         {/* Structured Data for SEO */}
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(structuredData),
-          }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(allStructuredData) }}
         />
 
         {/* Scroll Progress Bar */}
