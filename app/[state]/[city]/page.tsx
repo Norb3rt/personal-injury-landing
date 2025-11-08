@@ -156,7 +156,26 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
   const pageUrl = `${baseUrl}/${params.state}/${params.city}`;
 
-  // 1. LegalService Schema (more specific than LocalBusiness)
+  // --- Definición de Schemas para SEO Avanzado ---
+
+  // Perfiles sociales para reutilizar en los schemas
+  const socialProfiles = [
+    "https://www.facebook.com/people/Law-Proactive/100093908101031",
+    "https://x.com/lawproactive/",
+    "https://www.linkedin.com/company/lawproactive/",
+    "https://www.instagram.com/lawproactive/"
+  ];
+
+  // 1. Organization Schema (Define la entidad principal)
+  const organizationSchema = {
+    "@type": "Organization",
+    "name": "Law Proactive",
+    "url": baseUrl,
+    "logo": `${baseUrl}/logo.png`, // Reemplaza con tu logo cuando esté listo,
+    "sameAs": socialProfiles // Reutiliza los perfiles sociales
+  };
+
+  // 2. LegalService Schema (Describe el servicio ofrecido)
   const legalServiceSchema = {
     "@context": "https://schema.org",
     "@type": "LegalService",
@@ -174,6 +193,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
       "@type": "City",
       "name": city
     },
+    "priceRange": "Free Consultation & Contingency Fee Basis",
+    "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 00:00-23:59", // 24/7
+    "sameAs": socialProfiles,
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
       "name": "Personal Injury Legal Services",
@@ -203,7 +225,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     }))
   };
 
-  // 2. FAQPage Schema
+  // 3. FAQPage Schema
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -217,7 +239,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     }))
   };
 
-  // 3. BreadcrumbList Schema
+  // 4. BreadcrumbList Schema
   const breadcrumbSchema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -245,7 +267,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
   // Combine all schemas
   const allStructuredData = [
-    legalServiceSchema,
+    organizationSchema, // Añadimos el nuevo schema de Organización
+    legalServiceSchema, // Mantenemos el de LegalService
     faqSchema,
     breadcrumbSchema
   ];
