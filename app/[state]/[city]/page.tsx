@@ -187,6 +187,11 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         }
       }))
     },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": (testimonials.reduce((acc, t) => acc + t.rating, 0) / testimonials.length).toFixed(1),
+      "reviewCount": testimonials.length
+    },
     "review": testimonials.map(t => ({
       "@type": "Review",
       "author": { "@type": "Person", "name": t.case },
