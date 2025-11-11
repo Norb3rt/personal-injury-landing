@@ -115,6 +115,12 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
   const testimonials = cityData.testimonials.length > 0 ? cityData.testimonials : defaultTestimonials
 
+  // EDITAR AQUÍ
+  // Puedes modificar los servicios que se ofrecen en esta sección.
+  // - name: El título del servicio que verá el usuario.
+  // - slug: La parte de la URL para este servicio. DEBE ser en minúsculas y usar guiones en lugar de espacios (ej. "nuevo-servicio").
+  // - icon: El emoji que representa el servicio.
+  // - description: Una breve descripción del servicio.
   const services = [
     { name: "Car Accidents", slug: "car-accident", icon: "🚗", description: "Get compensation for vehicle collisions and injuries" },
     { name: "Slip & Fall", slug: "slip-and-fall", icon: "⚠️", description: "Property owner negligence claims" },
@@ -122,6 +128,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     { name: "Workplace Injuries", slug: "workplace-injury", icon: "🏗️", description: "On-the-job accident compensation" },
     { name: "Product Liability", slug: "product-liability", icon: "📦", description: "Defective product injury claims" },
     { name: "Wrongful Death", slug: "wrongful-death", icon: "💔", description: "Justice for families who lost loved ones" },
+    // Para agregar un nuevo servicio, copia una de las líneas de arriba y pégala aquí, modificando los valores.
   ]
 
   const faqItems = [
@@ -309,7 +316,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
           <div className="relative max-w-6xl mx-auto text-center">
             <FadeIn direction="down" delay={0.1}>
+              {/* EDITAR AQUÍ - Este es el título principal (H1) de la página. */}
               <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+                {/* Puedes cambiar el texto "Injured in". El nombre de la ciudad se inserta automáticamente. */}
                 <AnimatedText text="Injured in" className="inline-block mr-2" staggerDelay={0.03} />
                 <span className="inline-block" style={{ color: '#e06e00' }}>
                   <TypingEffect
@@ -321,6 +330,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                 </span>
                 <span style={{ color: '#e06e00' }}>?</span>
                 <br />
+                {/* Puedes cambiar el texto "Get the Settlement You Deserve." */}
                 <AnimatedText
                   text="Get the Settlement You Deserve."
                   staggerDelay={0.04}
@@ -578,6 +588,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       <AnimatedNumber value={1} />
                     </div>
                   </GlowEffect>
+                  {/* EDITAR AQUÍ - Título H3 del primer paso. */}
                   <h3 className="text-xl font-semibold mb-2 text-gray-900">Tell Us About Your Accident</h3>
                   <p className="text-gray-600">Free, no-obligation case evaluation.</p>
                 </div>
@@ -590,6 +601,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       <AnimatedNumber value={2} />
                     </div>
                   </GlowEffect>
+                  {/* EDITAR AQUÍ - Título H3 del segundo paso. */}
                   <h3 className="text-xl font-semibold mb-2 text-gray-900">Connect with a local attorney</h3>
                   <p className="text-gray-600">Quickly connect with a local personal injury lawyer.</p>
                 </div>
@@ -602,6 +614,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       <AnimatedNumber value={3} />
                     </div>
                   </GlowEffect>
+                  {/*  EDITAR AQUÍ - Título H3 del tercer paso. */}
                   <h3 className="text-xl font-semibold mb-2 text-gray-900">Collect Your Compensation</h3>
                   <p className="text-gray-600">Pay nothing out of pocket. Fees come from your settlement.</p>
                 </div>
@@ -830,6 +843,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   <GlowEffect glowColor="rgba(45, 212, 191, 0.3)">
                     <FileText className="h-12 w-12 text-teal-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
+                  {/* EDITAR AQUÍ - Título H3 de la sección de contacto. */}
                   <h3 className="font-semibold mb-2 text-slate-800">Free Case Review</h3>
                   <p className="text-slate-600">Get your case evaluated instantly</p>
                 </div>
@@ -840,6 +854,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   <GlowEffect glowColor="rgba(45, 212, 191, 0.3)">
                     <Users className="h-12 w-12 text-teal-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
+                  {/* EDITAR AQUÍ - Título H3 de la sección de contacto. */}
                   <h3 className="font-semibold mb-2 text-slate-800">Have Questions</h3>
                   <p className="text-slate-600">Connect to A Licensed Attorney</p>
                 </div>
@@ -850,6 +865,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   <GlowEffect glowColor="rgba(45, 212, 191, 0.3)">
                     <MapPin className="h-12 w-12 text-teal-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
+                  {/* EDITAR AQUÍ - Título H3 de la sección de contacto. */}
                   <h3 className="font-semibold mb-2 text-slate-800">Serving</h3>
                   <p className="text-slate-600">{city} & Surrounding Areas</p>
                 </div>
