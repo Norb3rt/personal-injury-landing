@@ -84,7 +84,7 @@ export function generateCityMetadata(citySlug: string, baseUrl: string = 'https:
       keywords: [...keywords, ...localKeywords, `${name} personal injury`, `${name} accident lawyer`].join(', '),
       metadataBase: new URL(baseUrl),
       alternates: {
-        canonical: `/${citySlug}`,
+        canonical: `${baseUrl}/${citySlug}`,
       },
       openGraph: {
         title: `${name} Personal Injury Lawyer | Free Consultation`,
@@ -125,7 +125,7 @@ function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: s
     keywords: `personal injury lawyer ${cityName}, accident attorney ${cityName}, car accident lawyer ${cityName}`,
     metadataBase: new URL(baseUrl),
     alternates: {
-      canonical: `/${citySlug}`,
+      canonical: `${baseUrl}/${citySlug}`,
     },
     openGraph: {
       title: `Personal Injury Lawyer in ${cityName}, CA | Free Consultation`,
