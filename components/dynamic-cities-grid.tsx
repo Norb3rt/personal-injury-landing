@@ -150,7 +150,7 @@ export function DynamicCitiesGrid({
         {displayedCities.map((cityData: CityData) => (
           <StaggerItem key={`${currentState}-${cityData.slug}`}>
             <Card className="h-full hover:shadow-xl transition-all duration-300 border-0 shadow-md bg-white group cursor-pointer">
-              <Link href={`/${currentState}/${cityData.slug}`}>
+              <Link href={`/personal-injury-lawyer/${currentState}/${cityData.slug}`}>
                 <CardContent className="p-6 h-full">
                   {/* City Header */}
                   <div className="flex items-start gap-3 mb-4">

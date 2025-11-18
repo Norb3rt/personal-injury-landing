@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
-import { Phone, ArrowLeft, CheckCircle2, Scale, FileText, Users, Clock } from "lucide-react"
+import { ArrowLeft, CheckCircle2, Scale, FileText, Users, Clock } from "lucide-react"
 import Link from "next/link"
 import type { Metadata } from "next"
 import { notFound } from 'next/navigation'
@@ -70,7 +70,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     openGraph: {
       title,
       description,
-      url: `${baseUrl}/${params.state}/${params.city}/${params.practice}`,
+      url: `${baseUrl}/personal-injury-lawyer/${params.state}/${params.city}/${params.practice}`,
       siteName: 'LawProactive',
       locale: 'en_US',
       type: 'website',
@@ -126,7 +126,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
             <FadeIn direction="down" delay={0.1}>
               <div className="mb-6">
                 <Link
-                  href={`/${stateSlug}/${citySlug}`}
+                  href={`/personal-injury-lawyer/${stateSlug}/${citySlug}`}
                   className="inline-flex items-center text-blue-100 hover:text-white transition-colors"
                 >
                   <ArrowLeft className="h-4 w-4 mr-2" />
@@ -347,7 +347,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
             <StaggerContainer staggerDelay={0.05} className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {otherPracticeAreas.map((area) => (
                 <StaggerItem key={area.slug}>
-                  <Link href={`/${stateSlug}/${citySlug}/${area.slug}`}>
+                  <Link href={`/personal-injury-lawyer/${stateSlug}/${citySlug}/${area.slug}`}>
                     <Card className="h-full hover:shadow-xl transition-all duration-300 border-0 shadow-md bg-white/80 backdrop-blur-sm cursor-pointer group">
                       <CardContent className="p-6 text-center">
                         <div className="text-4xl mb-4 transform transition-transform duration-300 group-hover:scale-110">
@@ -366,7 +366,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
 
             <div className="text-center mt-8">
               <FadeIn direction="up" delay={0.3}>
-                <Link href={`/${stateSlug}/${citySlug}`}>
+                <Link href={`/personal-injury-lawyer/${stateSlug}/${citySlug}`}>
                   <Button variant="outline" size="lg" className="service-button">
                     <ArrowLeft className="h-4 w-4 mr-2" />
                     View All {city} Services
@@ -388,7 +388,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
 
             <FadeIn direction="up" delay={0.2}>
               <p className="text-xl mb-8 text-blue-100">
-                Don't wait. The sooner you act, the stronger your case. Get your free consultation today.
+                Don&apos;t wait. The sooner you act, the stronger your case. Get your free consultation today.
               </p>
             </FadeIn>
 
@@ -470,4 +470,3 @@ async function validateLocation(stateSlug: string, citySlug: string): Promise<bo
     return false
   }
 }
-

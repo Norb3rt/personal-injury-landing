@@ -50,9 +50,11 @@ const nextConfig = {
       },
     ]
   },
-  // Redirects for SEO
+  // Redirects for SEO - redirect OLD URLs to new structure
+  // These run BEFORE rewrites, so old URLs get redirected first
   async redirects() {
     return [
+      // Static page redirects
       {
         source: '/home',
         destination: '/',
@@ -63,43 +65,55 @@ const nextConfig = {
         destination: '/',
         permanent: true,
       },
-      // Legacy city redirects to new state/city structure
+      // Legacy single-city URLs (most specific first)
       {
         source: '/los-angeles',
-        destination: '/california/los-angeles',
+        destination: '/personal-injury-lawyer/california/los-angeles',
         permanent: true,
       },
       {
         source: '/san-francisco',
-        destination: '/california/san-francisco',
+        destination: '/personal-injury-lawyer/california/san-francisco',
         permanent: true,
       },
       {
         source: '/san-diego',
-        destination: '/california/san-diego',
+        destination: '/personal-injury-lawyer/california/san-diego',
         permanent: true,
       },
       {
         source: '/sacramento',
-        destination: '/california/sacramento',
+        destination: '/personal-injury-lawyer/california/sacramento',
         permanent: true,
       },
       {
         source: '/houston',
-        destination: '/texas/houston',
+        destination: '/personal-injury-lawyer/texas/houston',
         permanent: true,
       },
       {
         source: '/dallas',
-        destination: '/texas/dallas',
+        destination: '/personal-injury-lawyer/texas/dallas',
         permanent: true,
       },
       {
         source: '/miami',
-        destination: '/florida/miami',
+        destination: '/personal-injury-lawyer/florida/miami',
         permanent: true,
       },
-      // Add more redirects for all your cities...
+      // Dynamic state/city URLs (with practice area)
+      // More specific pattern first to avoid conflicts
+      {
+        source: '/:state(california|texas|florida|new-york)/:city([a-z-]+)/:practice([a-z-]+)',
+        destination: '/personal-injury-lawyer/:state/:city/:practice',
+        permanent: true,
+      },
+      // Dynamic state/city URLs (without practice area)
+      {
+        source: '/:state(california|texas|florida|new-york)/:city([a-z-]+)',
+        destination: '/personal-injury-lawyer/:state/:city',
+        permanent: true,
+      },
     ]
   },
 }

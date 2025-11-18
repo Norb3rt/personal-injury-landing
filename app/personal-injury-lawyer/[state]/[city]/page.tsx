@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
 
   // Use the same metadata generation as legacy pages
-  return generateCityMetadata(params.city, baseUrl)
+  return generateCityMetadata(params.city, baseUrl, params.state)
 }
 
 export default async function PersonalInjuryLanding({ params }: PageProps) {
@@ -99,7 +99,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
       case: "Injured Motorist",
       // settlement: "$150,000",
       quote:
-        "“I didn’t know where to start after my accident, but this site helped me get in touch with a lawyer who could help",
+        "&quot;I didn&apos;t know where to start after my accident, but this site helped me get in touch with a lawyer who could help",
       rating: 5,
     },
     {
@@ -158,10 +158,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         "The sooner the better. Evidence can disappear, witnesses' memories fade, and there are legal deadlines (statutes of limitations) that must be met.",
     },
   ]
-
   // --- Enhanced SEO Structured Data ---
 
-  const pageUrl = `${baseUrl}/${params.state}/${params.city}`;
+  const pageUrl = `${baseUrl}/personal-injury-lawyer/${params.state}/${params.city}`;
 
   // --- Definición de Schemas para SEO Avanzado ---
 
@@ -405,39 +404,38 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
               </h2>
             </FadeIn>
 
-            <StaggerContainer staggerDelay={0.05} className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {services.map((service, index) => (
-                <StaggerItem key={index}>
-                  <Link href={`/${params.state}/${params.city}/${service.slug}`}>
-                    <Card className="h-full hover:shadow-xl transition-all duration-300 border-0 shadow-md bg-white/80 backdrop-blur-sm cursor-pointer group">
-                      <CardContent className="p-6 text-center h-full flex flex-col">
-                        <GlowEffect
-                          glowColor="rgba(59, 130, 246, 0.3)"
-                          intensity={0.8}
-                          className="mb-4"
+            <StaggerContainer staggerDelay={0.05} className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">              {services.map((service, index) => (
+              <StaggerItem key={index}>
+                <Link href={`/personal-injury-lawyer/${params.state}/${params.city}/${service.slug}`}>
+                  <Card className="h-full hover:shadow-xl transition-all duration-300 border-0 shadow-md bg-white/80 backdrop-blur-sm cursor-pointer group">
+                    <CardContent className="p-6 text-center h-full flex flex-col">
+                      <GlowEffect
+                        glowColor="rgba(59, 130, 246, 0.3)"
+                        intensity={0.8}
+                        className="mb-4"
+                      >
+                        <div className="text-4xl mb-4 transform transition-transform duration-300 group-hover:scale-110">
+                          {service.icon}
+                        </div>
+                      </GlowEffect>
+
+                      <h3 className="text-xl font-semibold mb-2 text-gray-900 group-hover:text-teal-600 transition-colors">{service.name}</h3>
+                      <p className="text-gray-600 mb-4 flex-grow">{service.description}</p>
+
+                      <AnimatedButton magneticStrength={0.15} hoverScale={1.02}>
+                        <Button
+                          variant="outline"
+                          size="sm"
+                          className="w-full bg-transparent service-button"
                         >
-                          <div className="text-4xl mb-4 transform transition-transform duration-300 group-hover:scale-110">
-                            {service.icon}
-                          </div>
-                        </GlowEffect>
-
-                        <h3 className="text-xl font-semibold mb-2 text-gray-900 group-hover:text-teal-600 transition-colors">{service.name}</h3>
-                        <p className="text-gray-600 mb-4 flex-grow">{service.description}</p>
-
-                        <AnimatedButton magneticStrength={0.15} hoverScale={1.02}>
-                          <Button
-                            variant="outline"
-                            size="sm"
-                            className="w-full bg-transparent service-button"
-                          >
-                            Learn More →
-                          </Button>
-                        </AnimatedButton>
-                      </CardContent>
-                    </Card>
-                  </Link>
-                </StaggerItem>
-              ))}
+                          Learn More →
+                        </Button>
+                      </AnimatedButton>
+                    </CardContent>
+                  </Card>
+                </Link>
+              </StaggerItem>
+            ))}
             </StaggerContainer>
           </div>
         </section>
@@ -447,7 +445,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           <div className="max-w-4xl mx-auto text-center">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold mb-8 text-red-800">
-                Insurance Companies Hope You'll Settle for Less.
+                Insurance Companies Hope You&apos;ll Settle for Less.
               </h2>
             </FadeIn>
 
@@ -487,7 +485,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                 <TwoStepLeadModal
                   trigger={
                     <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#e06e00' }}>
-                      Don't Let Them Win - Get Help Now
+                      Don&apos;t Let Them Win - Get Help Now
                     </Button>
                   }
                   source="pain-points"
@@ -510,7 +508,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
               </FadeIn>
               <FadeIn direction="up" delay={0.2}>
                 <p className="text-xl mb-8 text-gray-700 max-w-4xl mx-auto">
-                  Our network of personal injury lawyers in {city} fights for every dollar you're owed. You pay
+                  Our network of personal injury lawyers in {city} fights for every dollar you&apos;re owed. You pay
                   nothing unless you win.
                 </p>
               </FadeIn>
@@ -588,7 +586,6 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       <AnimatedNumber value={1} />
                     </div>
                   </GlowEffect>
-                  {/* EDITAR AQUÍ - Título H3 del primer paso. */}
                   <h3 className="text-xl font-semibold mb-2 text-gray-900">Tell Us About Your Accident</h3>
                   <p className="text-gray-600">Free, no-obligation case evaluation.</p>
                 </div>
@@ -601,7 +598,6 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       <AnimatedNumber value={2} />
                     </div>
                   </GlowEffect>
-                  {/* EDITAR AQUÍ - Título H3 del segundo paso. */}
                   <h3 className="text-xl font-semibold mb-2 text-gray-900">Connect with a local attorney</h3>
                   <p className="text-gray-600">Quickly connect with a local personal injury lawyer.</p>
                 </div>
@@ -614,7 +610,6 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       <AnimatedNumber value={3} />
                     </div>
                   </GlowEffect>
-                  {/*  EDITAR AQUÍ - Título H3 del tercer paso. */}
                   <h3 className="text-xl font-semibold mb-2 text-gray-900">Collect Your Compensation</h3>
                   <p className="text-gray-600">Pay nothing out of pocket. Fees come from your settlement.</p>
                 </div>
@@ -653,7 +648,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
             <FadeIn direction="up" delay={0.2}>
               <p className="text-xl text-gray-700 mb-8">
-                You'll never pay upfront. Our partner attorneys only get paid if they win your case.
+                You&apos;ll never pay upfront. Our partner attorneys only get paid if they win your case.
               </p>
             </FadeIn>
 
@@ -698,7 +693,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       </div>
 
                       <p className="text-gray-600 mb-4 italic flex-grow leading-relaxed">
-                        "{testimonial.quote}"
+                        &quot;{testimonial.quote}&quot;
                       </p>
 
                       <div className="border-t pt-4 mt-auto">
@@ -752,8 +747,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
             <FadeIn direction="up" delay={0.2}>
               <p className="text-xl mb-8 text-slate-700">
-                If you're not ready yet, that's perfectly fine. Explore your options, and when you're ready to take
-                action, we'll be here — prepared to fight for your full compensation.
+                If you&apos;re not ready yet, that&apos;s perfectly fine. Explore your options, and when you&apos;re ready to take
+                action, we&apos;ll be here — prepared to fight for your full compensation.
               </p>
             </FadeIn>
 
@@ -843,7 +838,6 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   <GlowEffect glowColor="rgba(45, 212, 191, 0.3)">
                     <FileText className="h-12 w-12 text-teal-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
-                  {/* EDITAR AQUÍ - Título H3 de la sección de contacto. */}
                   <h3 className="font-semibold mb-2 text-slate-800">Free Case Review</h3>
                   <p className="text-slate-600">Get your case evaluated instantly</p>
                 </div>
@@ -854,7 +848,6 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   <GlowEffect glowColor="rgba(45, 212, 191, 0.3)">
                     <Users className="h-12 w-12 text-teal-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
-                  {/* EDITAR AQUÍ - Título H3 de la sección de contacto. */}
                   <h3 className="font-semibold mb-2 text-slate-800">Have Questions</h3>
                   <p className="text-slate-600">Connect to A Licensed Attorney</p>
                 </div>
@@ -865,7 +858,6 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   <GlowEffect glowColor="rgba(45, 212, 191, 0.3)">
                     <MapPin className="h-12 w-12 text-teal-600 mb-4 hover:scale-110 transition-transform duration-300" />
                   </GlowEffect>
-                  {/* EDITAR AQUÍ - Título H3 de la sección de contacto. */}
                   <h3 className="font-semibold mb-2 text-slate-800">Serving</h3>
                   <p className="text-slate-600">{city} & Surrounding Areas</p>
                 </div>

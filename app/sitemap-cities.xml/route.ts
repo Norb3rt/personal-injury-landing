@@ -10,13 +10,13 @@ export async function GET() {
 
     console.log(`🗺️ Generating cities sitemap for ${allLocations.length} locations`)
 
-    // Generate XML for city pages
+    // Generate XML for city pages with personal-injury-lawyer prefix
     const urlEntries = allLocations.map((location) => {
       const priority = calculatePriority(location)
       const lastmod = new Date().toISOString()
 
       return `  <url>
-    <loc>${baseUrl}/${location.stateSlug}/${location.citySlug}</loc>
+    <loc>${baseUrl}/personal-injury-lawyer/${location.stateSlug}/${location.citySlug}</loc>
     <lastmod>${lastmod}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>${priority}</priority>
@@ -37,11 +37,11 @@ ${urlEntries}
   } catch (error) {
     console.error('Error generating cities sitemap:', error)
 
-    // Return minimal sitemap on error
+    // Return minimal sitemap on error with personal-injury-lawyer prefix
     const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>${baseUrl}/california/los-angeles</loc>
+    <loc>${baseUrl}/personal-injury-lawyer/california/los-angeles</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>

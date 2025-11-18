@@ -22,13 +22,13 @@ export async function GET() {
 
     console.log(`🗺️ Generating subniches sitemap for ${combinations.length} pages`)
 
-    // Generate XML for subniche pages
+    // Generate XML for subniche pages with personal-injury-lawyer prefix
     const urlEntries = combinations.map((combo) => {
       const priority = calculateSubnichePriority(combo)
       const lastmod = new Date().toISOString()
 
       return `  <url>
-    <loc>${baseUrl}/${combo.stateSlug}/${combo.citySlug}/${combo.practiceSlug}</loc>
+    <loc>${baseUrl}/personal-injury-lawyer/${combo.stateSlug}/${combo.citySlug}/${combo.practiceSlug}</loc>
     <lastmod>${lastmod}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>${priority}</priority>
@@ -49,11 +49,11 @@ ${urlEntries}
   } catch (error) {
     console.error('Error generating subniches sitemap:', error)
 
-    // Return minimal sitemap on error
+    // Return minimal sitemap on error with personal-injury-lawyer prefix
     const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>${baseUrl}/california/los-angeles/car-accident</loc>
+    <loc>${baseUrl}/personal-injury-lawyer/california/los-angeles/car-accident</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>

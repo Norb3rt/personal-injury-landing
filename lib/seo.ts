@@ -2,6 +2,7 @@
 // Updated to support new multi-state architecture with legacy compatibility
 
 import { Metadata } from 'next'
+import { buildAbsoluteCityUrl } from './url'
 // Removed dependency on california-cities.ts - using static data instead
 
 export interface CityCoordinates {
@@ -69,7 +70,11 @@ export const CALIFORNIA_CITIES: Record<string, CityMetadata> = {
 }
 
 // Generate comprehensive metadata for city pages
-export function generateCityMetadata(citySlug: string, baseUrl: string = 'https://personalinjury.lawproactive.com'): Metadata {
+export function generateCityMetadata(
+  citySlug: string, 
+  baseUrl: string = 'https://personalinjury.lawproactive.com',
+  stateSlug: string = 'california'
+): Metadata {
   // Simplified implementation - convert slug to city name
   const cityName = citySlug.charAt(0).toUpperCase() + citySlug.slice(1).replace(/-/g, " ")
 
@@ -77,6 +82,7 @@ export function generateCityMetadata(citySlug: string, baseUrl: string = 'https:
   const oldCityData = CALIFORNIA_CITIES[citySlug]
   if (oldCityData) {
     const { name, coordinates, keywords, localKeywords } = oldCityData
+    const canonicalUrl = buildAbsoluteCityUrl(stateSlug, citySlug, undefined, baseUrl)
 
     return {
       title: `Personal Injury Lawyer in ${name}, CA | Free Consultation | No Win No Fee`,
@@ -84,12 +90,12 @@ export function generateCityMetadata(citySlug: string, baseUrl: string = 'https:
       keywords: [...keywords, ...localKeywords, `${name} personal injury`, `${name} accident lawyer`].join(', '),
       metadataBase: new URL(baseUrl),
       alternates: {
-        canonical: `${baseUrl}/${citySlug}`,
+        canonical: canonicalUrl,
       },
       openGraph: {
         title: `${name} Personal Injury Lawyer | Free Consultation`,
         description: `Injured in ${name}, CA? Get maximum compensation with our experienced personal injury attorneys. No win, no fee.`,
-        url: `${baseUrl}/${citySlug}`,
+        url: canonicalUrl,
         siteName: 'Personal Injury Lawyers',
         locale: 'en_US',
         type: 'website',
@@ -114,23 +120,25 @@ export function generateCityMetadata(citySlug: string, baseUrl: string = 'https:
   }
 
   // Fallback for cities not in our database
-  return generateFallbackMetadata(cityName, citySlug, baseUrl)
+  return generateFallbackMetadata(cityName, citySlug, baseUrl, stateSlug)
 }
 
 // Fallback metadata for cities not in our database
-function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: string): Metadata {
+function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: string, stateSlug: string = 'california'): Metadata {
+  const canonicalUrl = buildAbsoluteCityUrl(stateSlug, citySlug, undefined, baseUrl)
+  
   return {
     title: `Personal Injury Lawyer in ${cityName}, CA | Free Consultation`,
     description: `Injured in ${cityName}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
     keywords: `personal injury lawyer ${cityName}, accident attorney ${cityName}, car accident lawyer ${cityName}`,
     metadataBase: new URL(baseUrl),
     alternates: {
-      canonical: `${baseUrl}/${citySlug}`,
+      canonical: canonicalUrl,
     },
     openGraph: {
       title: `Personal Injury Lawyer in ${cityName}, CA | Free Consultation`,
       description: `Injured in ${cityName}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
-      url: `${baseUrl}/${citySlug}`,
+      url: canonicalUrl,
       siteName: 'LawProactive',
       locale: 'en_US',
       type: 'website',
@@ -143,20 +151,25 @@ function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: s
 }
 
 // Generate structured data for local business
-export function generateLocalBusinessStructuredData(citySlug: string, baseUrl: string = 'https://personalinjury.lawproactive.com') {
+export function generateLocalBusinessStructuredData(
+  citySlug: string, 
+  baseUrl: string = 'https://personalinjury.lawproactive.com',
+  stateSlug: string = 'california'
+) {
   const cityData = CALIFORNIA_CITIES[citySlug]
   const cityName = cityData?.name || citySlug.charAt(0).toUpperCase() + citySlug.slice(1).replace(/-/g, " ")
   const coordinates = cityData?.coordinates || { lat: 34.0522, lng: -118.2437 }
+  const pageUrl = buildAbsoluteCityUrl(stateSlug, citySlug, undefined, baseUrl)
 
   return {
     "@context": "https://schema.org",
     "@graph": [
       {
         "@type": "LegalService",
-        "@id": `${baseUrl}/${citySlug}#legalservice`,
+        "@id": `${pageUrl}#legalservice`,
         "name": `Personal Injury Lawyers in ${cityName}`,
         "description": `Top-rated personal injury attorneys serving ${cityName}, California. Free consultation, no win no fee.`,
-        "url": `${baseUrl}/${citySlug}`,
+        "url": pageUrl,
         "telephone": process.env.NEXT_PUBLIC_PHONE_NUMBER || "+1-800-123-4567",
         "priceRange": "Free Consultation",
         "areaServed": {
@@ -204,8 +217,8 @@ export function generateLocalBusinessStructuredData(citySlug: string, baseUrl: s
       },
       {
         "@type": "WebPage",
-        "@id": `${baseUrl}/${citySlug}#webpage`,
-        "url": `${baseUrl}/${citySlug}`,
+        "@id": `${pageUrl}#webpage`,
+        "url": pageUrl,
         "name": `Personal Injury Lawyer in ${cityName}, CA | Free Consultation`,
         "description": `Injured in ${cityName}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
         "isPartOf": {
@@ -213,10 +226,10 @@ export function generateLocalBusinessStructuredData(citySlug: string, baseUrl: s
           "@id": `${baseUrl}#website`
         },
         "about": {
-          "@id": `${baseUrl}/${citySlug}#legalservice`
+          "@id": `${pageUrl}#legalservice`
         },
         "mainEntity": {
-          "@id": `${baseUrl}/${citySlug}#legalservice`
+          "@id": `${pageUrl}#legalservice`
         }
       },
       {
@@ -261,9 +274,10 @@ export async function generateCityMetadataEnhanced(citySlug: string, baseUrl: st
 }
 
 // Legacy metadata generation (kept for fallback)
-function generateCityMetadataLegacy(citySlug: string, baseUrl: string): Metadata {
+function generateCityMetadataLegacy(citySlug: string, baseUrl: string, stateSlug: string = 'california'): Metadata {
   const cityData = CALIFORNIA_CITIES[citySlug]
   const cityName = cityData?.name || citySlug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())
+  const canonicalUrl = buildAbsoluteCityUrl(stateSlug, citySlug, undefined, baseUrl)
 
   return {
     title: `${cityName} Personal Injury Lawyer | California Accident Attorney`,
@@ -272,7 +286,7 @@ function generateCityMetadataLegacy(citySlug: string, baseUrl: string): Metadata
     openGraph: {
       title: `${cityName} Personal Injury Lawyer | Free Consultation`,
       description: `Injured in ${cityName}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
-      url: `${baseUrl}/${citySlug}`,
+      url: canonicalUrl,
       siteName: 'Personal Injury Lawyers',
       locale: 'en_US',
       type: 'website',
@@ -283,7 +297,7 @@ function generateCityMetadataLegacy(citySlug: string, baseUrl: string): Metadata
       description: `Injured in ${cityName}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
     },
     alternates: {
-      canonical: `${baseUrl}/${citySlug}`,
+      canonical: canonicalUrl,
     },
   }
 }

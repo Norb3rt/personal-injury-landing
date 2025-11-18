@@ -43,7 +43,7 @@ export function CaliforniaCitiesGrid() {
         {displayedCities.map((cityData: CityData) => (
           <StaggerItem key={cityData.slug}>
             <Card className="h-full hover:shadow-xl transition-all duration-300 border-0 shadow-md bg-white group cursor-pointer">
-              <Link href={`/california/${cityData.slug}`}>
+              <Link href={`/personal-injury-lawyer/california/${cityData.slug}`}>
                 <CardContent className="p-6 h-full">
                   {/* City Header */}
                   <div className="flex items-start gap-3 mb-4">

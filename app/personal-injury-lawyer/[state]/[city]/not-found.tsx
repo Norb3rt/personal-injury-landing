@@ -14,7 +14,7 @@ export default function NotFound() {
               Location Not Found
             </h1>
             <p className="text-lg text-slate-600 mb-6">
-              We couldn't find a personal injury lawyer page for this location.
+              We couldn&apos;t find a personal injury lawyer page for this location.
               This might be because:
             </p>
 
@@ -25,7 +25,7 @@ export default function NotFound() {
               </div>
               <div className="flex items-start gap-3">
                 <Search className="h-5 w-5 text-teal-600 mt-0.5" />
-                <p className="text-slate-600">We haven't added this location to our service area yet</p>
+                <p className="text-slate-600">We haven&apos;t added this location to our service area yet</p>
               </div>
               <div className="flex items-start gap-3">
                 <Home className="h-5 w-5 text-teal-600 mt-0.5" />
@@ -42,7 +42,7 @@ export default function NotFound() {
               </Button>
             </Link>
 
-            <Link href="/california/los-angeles">
+            <Link href="/personal-injury-lawyer/california/los-angeles">
               <Button size="lg" variant="outline" className="w-full border-teal-600 text-teal-600 hover:bg-teal-600 hover:text-white">
                 <MapPin className="h-5 w-5 mr-2" />
                 View Los Angeles Example
@@ -53,16 +53,16 @@ export default function NotFound() {
             <div className="mt-6">
               <p className="text-sm text-slate-600 mb-3">Popular locations we serve:</p>
               <div className="grid grid-cols-2 gap-2">
-                <Link href="/california/san-francisco" className="text-teal-600 hover:underline text-sm">
+                <Link href="/personal-injury-lawyer/california/san-francisco" className="text-teal-600 hover:underline text-sm">
                   San Francisco, CA
                 </Link>
-                <Link href="/california/san-diego" className="text-teal-600 hover:underline text-sm">
+                <Link href="/personal-injury-lawyer/california/san-diego" className="text-teal-600 hover:underline text-sm">
                   San Diego, CA
                 </Link>
-                <Link href="/texas/houston" className="text-teal-600 hover:underline text-sm">
+                <Link href="/personal-injury-lawyer/texas/houston" className="text-teal-600 hover:underline text-sm">
                   Houston, TX
                 </Link>
-                <Link href="/florida/miami" className="text-teal-600 hover:underline text-sm">
+                <Link href="/personal-injury-lawyer/florida/miami" className="text-teal-600 hover:underline text-sm">
                   Miami, FL
                 </Link>
               </div>
@@ -73,7 +73,7 @@ export default function NotFound() {
             <p className="text-sm text-slate-600">
               <strong>Need help with a personal injury case?</strong><br />
               Call us at <span className="font-semibold" style={{ color: '#0B6B65' }}>(213) 394-5864 </span>
-              and we'll connect you with a qualified attorney in your area.
+              and we&apos;ll connect you with a qualified attorney in your area.
             </p>
           </div>
         </CardContent>
@@ -81,4 +81,3 @@ export default function NotFound() {
     </div>
   )
 }
-

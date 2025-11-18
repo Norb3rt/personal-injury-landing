@@ -39,9 +39,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
     console.log(`🗺️ Generating sitemap for ${allLocations.length} locations across multiple states`)
 
-    // Generate sitemap entries for new [state]/[city] structure
+    // Generate sitemap entries for new [state]/[city] structure with personal-injury-lawyer prefix
     const newStatePages = allLocations.map((location) => ({
-      url: `${baseUrl}/${location.stateSlug}/${location.citySlug}`,
+      url: `${baseUrl}/personal-injury-lawyer/${location.stateSlug}/${location.citySlug}`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: calculatePriority(location),
