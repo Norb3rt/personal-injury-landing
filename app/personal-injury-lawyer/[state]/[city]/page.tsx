@@ -341,7 +341,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             <FadeIn direction="up" delay={0.3}>
               <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-4xl mx-auto">
                 Your Search for a Personal Injury Attorney in {city} Ends Here.
-                We provide legal support for accident claims, injuries, and more — proudly serving all of {city} County.
+                We provide legal support for accident claims, injuries, and more — proudly serving all of {city}.
               </p>
             </FadeIn>
 

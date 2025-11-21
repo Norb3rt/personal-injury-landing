@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // Recomiendo habilitar el linter y la verificación de tipos para producción
+  // para asegurar la calidad del código. Si causa problemas, puedes mantenerlo como está.
   eslint: {
     ignoreDuringBuilds: true,
   },
@@ -7,7 +9,7 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-    unoptimized: false, // Enable image optimization for better performance
+    unoptimized: false,
     domains: ['https://personalinjury.lawproactive.com'],
     formats: ['image/webp', 'image/avif'],
     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
@@ -15,13 +17,11 @@ const nextConfig = {
   },
   // Enable compression
   compress: true,
-  // Generate static pages at build time for better SEO
-  output: 'standalone',
-  // Optimize for production
+  // 'standalone' es para despliegues en contenedores. Si usas Vercel, esto no es necesario.
+  output: 'standalone', 
   swcMinify: true,
-  // Disable experimental features that cause build issues
   experimental: {
-    // optimizeCss: true, // Disabled - causes 'critters' module error on Vercel
+    // optimizeCss: true, // Puedes probar a habilitarlo para mejorar el CSS.
     optimizePackageImports: ['lucide-react', '@radix-ui/react-icons'],
   },
   // Headers for security and SEO
