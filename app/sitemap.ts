@@ -2,6 +2,8 @@ import { MetadataRoute } from 'next'
 import { StateDataLoader } from '@/lib/data/state-loader'
 import { SEOPriority } from '@/lib/types/location.types'
 
+export const revalidate = 86400 // Revalidate daily
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
 
@@ -47,13 +49,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: calculatePriority(location),
     }))
 
-    console.log(`📍 Generated ${newStatePages.length} state/city pages`)
-
     return [...staticPages, ...newStatePages]
   } catch (error) {
     console.error('Error generating sitemap:', error)
-
-    console.log(`🔄 Fallback: Using static pages only`)
     return staticPages
   }
 }

@@ -71,7 +71,10 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
   const citySlug = params.city
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
 
-  // Use static data for reliable deployment (same as legacy)
+  // Fetch real city data
+  const cityLocation = await StateDataLoader.findLocation(params.state, params.city)
+
+  // Use static data for reliable deployment (same as legacy) but enriched with real data if available
   const cityData = {
     name: city,
     practiceAreas: [],
@@ -79,7 +82,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     localStats: {
       averageSettlement: "$125,000",
       casesWon: 95,
-      yearsExperience: 15
+      yearsExperience: 15,
+      population: cityLocation?.population ? new Intl.NumberFormat('en-US').format(cityLocation.population) : null,
+      landmark: cityLocation?.landmark
     }
   }
 
@@ -90,7 +95,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
       case: "Former User",
       // settlement: "",
       quote:
-        "This platform made it easy to find a personal injury lawyer near me. I was contacted within minutes.",
+        `This platform made it easy to find a personal injury lawyer near ${cityLocation?.landmark || 'me'}. I was contacted within minutes.`,
       rating: 5,
     },
     {
@@ -160,80 +165,15 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
   ]
   // --- Enhanced SEO Structured Data ---
 
+  // --- Enhanced SEO Structured Data ---
+
   const pageUrl = `${baseUrl}/personal-injury-lawyer/${params.state}/${params.city}`;
 
-  // --- Definición de Schemas para SEO Avanzado ---
+  // 1. Fetch Centralized Schema (Organization, LegalService, WebPage)
+  const baseStructuredData = await generateLocalBusinessStructuredData(params.city, baseUrl, params.state);
 
-  // Perfiles sociales para reutilizar en los schemas
-  const socialProfiles = [
-    "https://www.facebook.com/people/Law-Proactive/100093908101031",
-    "https://x.com/lawproactive/",
-    "https://www.linkedin.com/company/lawproactive/",
-    "https://www.instagram.com/lawproactive/"
-  ];
-
-  // 1. Organization Schema (Define la entidad principal)
-  const organizationSchema = {
-    "@type": "Organization",
-    "name": "Law Proactive",
-    "url": baseUrl,
-    "logo": `${baseUrl}/logo.png`, // Reemplaza con tu logo cuando esté listo,
-    "sameAs": socialProfiles // Reutiliza los perfiles sociales
-  };
-
-  // 2. LegalService Schema (Describe el servicio ofrecido)
-  const legalServiceSchema = {
-    "@context": "https://schema.org",
-    "@type": "LegalService",
-    "name": `Personal Injury Attorney in ${city}, ${state}`,
-    "description": `Find top-rated personal injury lawyers in ${city}. Free case review, no win, no fee. We handle car accidents, slip & fall, and more.`,
-    "url": pageUrl,
-    "telephone": "+1-213-220-5556", // Replace with a real tracking number if available
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": city,
-      "addressRegion": state,
-      "addressCountry": "US"
-    },
-    "areaServed": {
-      "@type": "City",
-      "name": city
-    },
-    "priceRange": "Free Consultation & Contingency Fee Basis",
-    "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 00:00-23:59", // 24/7
-    "sameAs": socialProfiles,
-    "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "Personal Injury Legal Services",
-      "itemListElement": services.map(service => ({
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": service.name,
-          "description": service.description,
-          "url": `${pageUrl}/${service.slug}`
-        }
-      }))
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": (testimonials.reduce((acc, t) => acc + t.rating, 0) / testimonials.length).toFixed(1),
-      "reviewCount": testimonials.length
-    },
-    "review": testimonials.map(t => ({
-      "@type": "Review",
-      "author": { "@type": "Person", "name": t.case },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": t.rating.toString()
-      },
-      "reviewBody": t.quote
-    }))
-  };
-
-  // 3. FAQPage Schema
+  // 2. FAQPage Schema (Local to this page's content)
   const faqSchema = {
-    "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": faqItems.map(item => ({
       "@type": "Question",
@@ -245,9 +185,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     }))
   };
 
-  // 4. BreadcrumbList Schema
+  // 3. BreadcrumbList Schema
   const breadcrumbSchema = {
-    "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       {
@@ -260,7 +199,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         "@type": "ListItem",
         "position": 2,
         "name": state,
-        "item": `${baseUrl}/${params.state}`
+        "item": `${baseUrl}/personal-injury-lawyer/${params.state}`
       },
       {
         "@type": "ListItem",
@@ -271,13 +210,13 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     ]
   };
 
-  // Combine all schemas
-  const allStructuredData = [
-    organizationSchema, // Añadimos el nuevo schema de Organización
-    legalServiceSchema, // Mantenemos el de LegalService
-    faqSchema,
-    breadcrumbSchema
-  ];
+  // Merge schemas into the graph
+  if (baseStructuredData && baseStructuredData['@graph']) {
+    baseStructuredData['@graph'].push(faqSchema);
+    baseStructuredData['@graph'].push(breadcrumbSchema);
+  }
+
+  const allStructuredData = baseStructuredData;
 
   return (
     <AnalyticsProvider>
@@ -341,7 +280,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             <FadeIn direction="up" delay={0.3}>
               <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-4xl mx-auto">
                 Your Search for a Personal Injury Attorney in {city} Ends Here.
-                We provide legal support for accident claims, injuries, and more — proudly serving all of {city}.
+                We provide legal support for accident claims, injuries, and more — proudly serving {cityData.localStats.population ? `the ${cityData.localStats.population} residents of` : 'all of'} {city}.
               </p>
             </FadeIn>
 
@@ -913,8 +852,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             <p className="text-gray-500 text-sm">© 2025 LawProactive. All rights reserved.</p>
           </div>
         </footer>
-      </div>
-    </AnalyticsProvider>
+      </div >
+    </AnalyticsProvider >
   )
 }
 
