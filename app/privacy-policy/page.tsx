@@ -4,6 +4,9 @@ export const metadata: Metadata = {
   title: 'Privacy Policy | LawProactive',
   description: 'Privacy Policy for LawProactive - Learn how we collect, use, and protect your personal information.',
   robots: 'index, follow',
+  alternates: {
+    canonical: '/privacy-policy',
+  },
 }
 
 export default function PrivacyPolicyPage() {

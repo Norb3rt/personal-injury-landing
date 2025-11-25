@@ -4,6 +4,9 @@ export const metadata: Metadata = {
   title: 'Terms of Service | LawProactive',
   description: 'Terms of Service for LawProactive legal document preparation platform and lead generation services.',
   robots: 'index, follow',
+  alternates: {
+    canonical: '/terms-of-service',
+  },
 }
 
 export default function TermsOfServicePage() {
