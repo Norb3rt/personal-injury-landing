@@ -26,18 +26,19 @@ import {
 } from "@/components/animations"
 
 interface PageProps {
-  params: {
+  params: Promise<{
     state: string
     city: string
     practice: string
-  }
+  }>
 }
 
 // Generate metadata for SEO
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { state, city, practice } = await params;
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
 
-  const practiceArea = getPracticeAreaBySlug(params.practice)
+  const practiceArea = getPracticeAreaBySlug(practice)
   if (!practiceArea) {
     return {
       title: 'Practice Area Not Found',
@@ -45,12 +46,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     }
   }
 
-  const cityName = params.city
+  const cityName = city
     .split('-')
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ')
 
-  const stateName = params.state
+  const stateName = state
     .split('-')
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ')
@@ -70,7 +71,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     openGraph: {
       title,
       description,
-      url: `${baseUrl}/personal-injury-lawyer/${params.state}/${params.city}/${params.practice}`,
+      url: `${baseUrl}/personal-injury-lawyer/${state}/${city}/${practice}`,
       siteName: 'LawProactive',
       locale: 'en_US',
       type: 'website',
@@ -83,14 +84,15 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 export default async function PracticeAreaPage({ params }: PageProps) {
+  const { state: paramState, city: paramCity, practice } = await params;
   // Validate location exists
-  const isValidLocation = await validateLocation(params.state, params.city)
+  const isValidLocation = await validateLocation(paramState, paramCity)
   if (!isValidLocation) {
     notFound()
   }
 
   // Validate practice area exists
-  const practiceArea = getPracticeAreaBySlug(params.practice)
+  const practiceArea = getPracticeAreaBySlug(practice)
   if (!practiceArea) {
     notFound()
   }
@@ -104,13 +106,13 @@ export default async function PracticeAreaPage({ params }: PageProps) {
       .join(" ")
   }
 
-  const city = toTitleCase(params.city)
-  const state = toTitleCase(params.state)
-  const citySlug = params.city
-  const stateSlug = params.state
+  const city = toTitleCase(paramCity)
+  const state = toTitleCase(paramState)
+  const citySlug = paramCity
+  const stateSlug = paramState
 
   // Get other practice areas for internal linking (sibling pages)
-  const otherPracticeAreas = PRACTICE_AREAS.filter(area => area.slug !== params.practice)
+  const otherPracticeAreas = PRACTICE_AREAS.filter(area => area.slug !== practice)
 
   return (
     <AnalyticsProvider>
@@ -164,7 +166,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                         Get a Free Case Review
                       </Button>
                     }
-                    source={`hero-${params.practice}`}
+                    source={`hero-${practice}`}
                     city={city}
                     state={state}
                     caseType={practiceArea.name}
@@ -234,7 +236,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                         Discuss Your {practiceArea.name} Case
                       </Button>
                     }
-                    source={`about-${params.practice}`}
+                    source={`about-${practice}`}
                     city={city}
                     state={state}
                     caseType={practiceArea.name}
@@ -404,7 +406,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                       Get My Free Case Evaluation
                     </Button>
                   }
-                  source={`final-cta-${params.practice}`}
+                  source={`final-cta-${practice}`}
                   city={city}
                   state={state}
                   caseType={practiceArea.name}

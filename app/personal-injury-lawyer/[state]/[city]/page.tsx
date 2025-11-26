@@ -35,23 +35,25 @@ import {
 
 
 interface PageProps {
-  params: {
+  params: Promise<{
     state: string
     city: string
-  }
+  }>
 }
 
 // Generate metadata for SEO - use same system as legacy for consistency
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { state, city } = await params;
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
 
   // Use the same metadata generation as legacy pages
-  return generateCityMetadata(params.city, baseUrl, params.state)
+  return generateCityMetadata(city, baseUrl, state)
 }
 
 export default async function PersonalInjuryLanding({ params }: PageProps) {
+  const { state: paramState, city: paramCity } = await params;
   // Validar que la combinación estado/ciudad existe
-  const isValidLocation = await validateLocation(params.state, params.city);
+  const isValidLocation = await validateLocation(paramState, paramCity);
 
   if (!isValidLocation) {
     notFound() // Esto mostrará tu not-found.tsx
@@ -66,13 +68,13 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
       .join(" ")
   }
 
-  const city = toTitleCase(params.city)
-  const state = toTitleCase(params.state)
-  const citySlug = params.city
+  const city = toTitleCase(paramCity)
+  const state = toTitleCase(paramState)
+  const citySlug = paramCity
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
 
   // Fetch real city data
-  const cityLocation = await StateDataLoader.findLocation(params.state, params.city)
+  const cityLocation = await StateDataLoader.findLocation(paramState, paramCity)
 
   // Use static data for reliable deployment (same as legacy) but enriched with real data if available
   const cityData = {
@@ -93,7 +95,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
       name: "",
       location: `${city}, ${state}`,
       case: "Former User",
-      // settlement: "",
+      settlement: "Confidential",
       quote:
         `This platform made it easy to find a personal injury lawyer near ${cityLocation?.landmark || 'me'}. I was contacted within minutes.`,
       rating: 5,
@@ -102,7 +104,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
       name: "",
       location: `${city}, ${state}`,
       case: "Injured Motorist",
-      // settlement: "$150,000",
+      settlement: "$150,000",
       quote:
         "&quot;I didn&apos;t know where to start after my accident, but this site helped me get in touch with a lawyer who could help",
       rating: 5,
@@ -111,7 +113,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
       name: "",
       location: `${city}, ${state}`,
       case: "Site Visitor",
-      // settlement: "$420,000",
+      settlement: "$420,000",
       quote:
         "The process was fast and simple. I got a free consultation the same day I submitted my info.",
       rating: 5,
@@ -167,10 +169,10 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
   // --- Enhanced SEO Structured Data ---
 
-  const pageUrl = `${baseUrl}/personal-injury-lawyer/${params.state}/${params.city}`;
+  const pageUrl = `${baseUrl}/personal-injury-lawyer/${paramState}/${paramCity}`;
 
   // 1. Fetch Centralized Schema (Organization, LegalService, WebPage)
-  const baseStructuredData = await generateLocalBusinessStructuredData(params.city, baseUrl, params.state);
+  const baseStructuredData = await generateLocalBusinessStructuredData(paramCity, baseUrl, paramState);
 
   // 2. FAQPage Schema (Local to this page's content)
   const faqSchema = {
@@ -199,7 +201,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         "@type": "ListItem",
         "position": 2,
         "name": state,
-        "item": `${baseUrl}/personal-injury-lawyer/${params.state}`
+        "item": `${baseUrl}/personal-injury-lawyer/${paramState}`
       },
       {
         "@type": "ListItem",
@@ -211,9 +213,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
   };
 
   // Merge schemas into the graph
-  if (baseStructuredData && baseStructuredData['@graph']) {
-    baseStructuredData['@graph'].push(faqSchema);
-    baseStructuredData['@graph'].push(breadcrumbSchema);
+  if (baseStructuredData && (baseStructuredData as any)['@graph']) {
+    (baseStructuredData as any)['@graph'].push(faqSchema);
+    (baseStructuredData as any)['@graph'].push(breadcrumbSchema);
   }
 
   const allStructuredData = baseStructuredData;
@@ -345,7 +347,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
             <StaggerContainer staggerDelay={0.05} className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">              {services.map((service, index) => (
               <StaggerItem key={index}>
-                <Link href={`/personal-injury-lawyer/${params.state}/${params.city}/${service.slug}`}>
+                <Link href={`/personal-injury-lawyer/${paramState}/${paramCity}/${service.slug}`}>
                   <Card className="h-full hover:shadow-xl transition-all duration-300 border-0 shadow-md bg-white/80 backdrop-blur-sm cursor-pointer group">
                     <CardContent className="p-6 text-center h-full flex flex-col">
                       <GlowEffect
@@ -809,8 +811,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
         {/* Dynamic City Spotlight Section */}
         <DynamicCitySpotlight
-          currentState={params.state}
-          currentCity={params.city}
+          currentState={paramState}
+          currentCity={paramCity}
           stateDisplayName={state}
           cityDisplayName={city}
         />

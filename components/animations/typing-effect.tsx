@@ -7,6 +7,7 @@ interface TypingEffectProps {
   text: string
   speed?: number
   className?: string
+  style?: React.CSSProperties
   showCursor?: boolean
   cursorClassName?: string
   onComplete?: () => void
@@ -16,6 +17,7 @@ export function TypingEffect({
   text,
   speed = 50,
   className = "",
+  style,
   showCursor = true,
   cursorClassName = "",
   onComplete,
@@ -37,7 +39,7 @@ export function TypingEffect({
   }, [currentIndex, text, speed, onComplete])
 
   return (
-    <span className={className}>
+    <span className={className} style={style}>
       {displayedText}
       {showCursor && (
         <motion.span
