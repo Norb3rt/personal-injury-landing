@@ -1,0 +1,500 @@
+[
+  {
+    "city": "Apache Junction",
+    "landmark": "Lost Dutchman State Park (Superstition Mountains)",
+    "population": 38499,
+    "slug": "apache-junction"
+  },
+  {
+    "city": "Avondale",
+    "landmark": "Phoenix Raceway",
+    "population": 89334,
+    "slug": "avondale"
+  },
+  {
+    "city": "Benson",
+    "landmark": "Kartchner Caverns State Park (nearby)",
+    "population": 5305,
+    "slug": "benson"
+  },
+  {
+    "city": "Bisbee",
+    "landmark": "Queen Mine Tour",
+    "population": 4923,
+    "slug": "bisbee"
+  },
+  {
+    "city": "Buckeye",
+    "landmark": "Verrado Golf Club",
+    "population": 91502,
+    "slug": "buckeye"
+  },
+  {
+    "city": "Bullhead City",
+    "landmark": "Davis Dam",
+    "population": 41348,
+    "slug": "bullhead-city"
+  },
+  {
+    "city": "Camp Verde",
+    "landmark": "Fort Verde State Historic Park",
+    "population": 12146,
+    "slug": "camp-verde"
+  },
+  {
+    "city": "Casa Grande",
+    "landmark": "Casa Grande Ruins National Monument (nearby)",
+    "population": 52221,
+    "slug": "casa-grande"
+  },
+  {
+    "city": "Chandler",
+    "landmark": "Chandler Museum or Veterans Oasis Park",
+    "population": 275987,
+    "slug": "chandler"
+  },
+  {
+    "city": "Chino Valley",
+    "landmark": "Granite Creek Vineyards",
+    "population": 13020,
+    "slug": "chino-valley"
+  },
+  {
+    "city": "Clarkdale",
+    "landmark": "Verde Canyon Railroad",
+    "population": 4429,
+    "slug": "clarkdale"
+  },
+  {
+    "city": "Clifton",
+    "landmark": "Greenlee County Historical Museum",
+    "population": 3923,
+    "slug": "clifton"
+  },
+  {
+    "city": "Coolidge",
+    "landmark": "Casa Grande Ruins National Monument",
+    "population": 13037,
+    "slug": "coolidge"
+  },
+  {
+    "city": "Cottonwood",
+    "landmark": "Tuzigoot National Monument",
+    "population": 12029,
+    "slug": "cottonwood"
+  },
+  {
+    "city": "Dewey-Humboldt",
+    "landmark": "Mortimer Farms",
+    "population": 3995,
+    "slug": "dewey-humboldt"
+  },
+  {
+    "city": "Douglas",
+    "landmark": "Gadsden Hotel",
+    "population": 16534,
+    "slug": "douglas"
+  },
+  {
+    "city": "Duncan",
+    "landmark": "Old Duncan Church",
+    "population": 856,
+    "slug": "duncan"
+  },
+  {
+    "city": "Eagar",
+    "landmark": "White Mountain Historical Park",
+    "population": 4395,
+    "slug": "eagar"
+  },
+  {
+    "city": "El Mirage",
+    "landmark": "Luke Air Force Base (nearby)",
+    "population": 35805,
+    "slug": "el-mirage"
+  },
+  {
+    "city": "Eloy",
+    "landmark": "Skydive Arizona",
+    "population": 15635,
+    "slug": "eloy"
+  },
+  {
+    "city": "Flagstaff",
+    "landmark": "Lowell Observatory",
+    "population": 76831,
+    "slug": "flagstaff"
+  },
+  {
+    "city": "Florence",
+    "landmark": "McFarland State Historic Park",
+    "population": 26785,
+    "slug": "florence"
+  },
+  {
+    "city": "Fountain Hills",
+    "landmark": "World Famous Fountain",
+    "population": 23820,
+    "slug": "fountain-hills"
+  },
+  {
+    "city": "Fredonia",
+    "landmark": "Pipe Spring National Monument (nearby)",
+    "population": 1314,
+    "slug": "fredonia"
+  },
+  {
+    "city": "Ganado",
+    "landmark": "Hubbell Trading Post National Historic Site (nearby)",
+    "population": 1210,
+    "slug": "ganado"
+  },
+  {
+    "city": "Gila Bend",
+    "landmark": "Gila Bend Museum",
+    "population": 1768,
+    "slug": "gila-bend"
+  },
+  {
+    "city": "Gilbert",
+    "landmark": "Riparian Preserve at Water Ranch",
+    "population": 267918,
+    "slug": "gilbert"
+  },
+  {
+    "city": "Glendale",
+    "landmark": "State Farm Stadium",
+    "population": 248325,
+    "slug": "glendale"
+  },
+  {
+    "city": "Globe",
+    "landmark": "Besh-Ba-Gowah Archaeological Park",
+    "population": 7162,
+    "slug": "globe"
+  },
+  {
+    "city": "Goodyear",
+    "landmark": "Goodyear Ballpark",
+    "population": 95294,
+    "slug": "goodyear"
+  },
+  {
+    "city": "Guadalupe",
+    "landmark": "Our Lady of Guadalupe Church",
+    "population": 5661,
+    "slug": "guadalupe"
+  },
+  {
+    "city": "Kearny",
+    "landmark": "Pinal Pioneer Parkway",
+    "population": 1950,
+    "slug": "kearny"
+  },
+  {
+    "city": "Kingman",
+    "landmark": "Route 66 Museum",
+    "population": 32686,
+    "slug": "kingman"
+  },
+  {
+    "city": "Lake Havasu City",
+    "landmark": "London Bridge",
+    "population": 57144,
+    "slug": "lake-havasu-city"
+  },
+  {
+    "city": "Mammoth",
+    "landmark": "Oracle State Park (nearby)",
+    "population": 1720,
+    "slug": "mammoth"
+  },
+  {
+    "city": "Marana",
+    "landmark": "Saguaro National Park (nearby)",
+    "population": 51908,
+    "slug": "marana"
+  },
+  {
+    "city": "Maricopa",
+    "landmark": "Harrah's Ak-Chin Casino Resort",
+    "population": 58125,
+    "slug": "maricopa"
+  },
+  {
+    "city": "Mesa",
+    "landmark": "Arizona Museum of Natural History",
+    "population": 504258,
+    "slug": "mesa"
+  },
+  {
+    "city": "Morenci",
+    "landmark": "Clifton Hot Springs",
+    "population": 1489,
+    "slug": "morenci"
+  },
+  {
+    "city": "New River",
+    "landmark": "Black Canyon City Trail",
+    "population": 5745,
+    "slug": "new-river"
+  },
+  {
+    "city": "Nogales",
+    "landmark": "Nogales Border Station / Historic Courthouse",
+    "population": 20837,
+    "slug": "nogales"
+  },
+  {
+    "city": "Oro Valley",
+    "landmark": "Catalina State Park",
+    "population": 47070,
+    "slug": "oro-valley"
+  },
+  {
+    "city": "Page",
+    "landmark": "Glen Canyon Dam / Lake Powell",
+    "population": 7440,
+    "slug": "page"
+  },
+  {
+    "city": "Paradise Valley",
+    "landmark": "Camelback Mountain",
+    "population": 12658,
+    "slug": "paradise-valley"
+  },
+  {
+    "city": "Parker",
+    "landmark": "Buckskin Mountain State Park (nearby)",
+    "population": 3083,
+    "slug": "parker"
+  },
+  {
+    "city": "Payson",
+    "landmark": "Tonto Natural Bridge State Park (nearby)",
+    "population": 16351,
+    "slug": "payson"
+  },
+  {
+    "city": "Peoria",
+    "landmark": "Lake Pleasant Regional Park",
+    "population": 190929,
+    "slug": "peoria"
+  },
+  {
+    "city": "Phoenix",
+    "landmark": "State Capitol Building / Heard Museum",
+    "population": 1608139,
+    "slug": "phoenix"
+  },
+  {
+    "city": "Pinetop-Lakeside",
+    "landmark": "Hon-Dah Casino",
+    "population": 4098,
+    "slug": "pinetop-lakeside"
+  },
+  {
+    "city": "Prescott",
+    "landmark": "Whiskey Row",
+    "population": 45869,
+    "slug": "prescott"
+  },
+  {
+    "city": "Prescott Valley",
+    "landmark": "Fain Park",
+    "population": 46787,
+    "slug": "prescott-valley"
+  },
+  {
+    "city": "Quartzsite",
+    "landmark": "Quartzsite Gem and Mineral Show",
+    "population": 2413,
+    "slug": "quartzsite"
+  },
+  {
+    "city": "Queen Creek",
+    "landmark": "Schnepf Farms",
+    "population": 59519,
+    "slug": "queen-creek"
+  },
+  {
+    "city": "Rio Rico",
+    "landmark": "Tumacácori National Historical Park (nearby)",
+    "population": 20131,
+    "slug": "rio-rico"
+  },
+  {
+    "city": "Safford",
+    "landmark": "Mount Graham International Observatory (nearby)",
+    "population": 10129,
+    "slug": "safford"
+  },
+  {
+    "city": "Sahuarita",
+    "landmark": "Titan Missile Museum (nearby)",
+    "population": 31348,
+    "slug": "sahuarita"
+  },
+  {
+    "city": "Saint Johns",
+    "landmark": "Lyman Lake State Park (nearby)",
+    "population": 3450,
+    "slug": "saint-johns"
+  },
+  {
+    "city": "San Luis",
+    "landmark": "San Luis Port of Entry",
+    "population": 35257,
+    "slug": "san-luis"
+  },
+  {
+    "city": "San Tan Valley",
+    "landmark": "San Tan Mountain Regional Park",
+    "population": 99894,
+    "slug": "san-tan-valley"
+  },
+  {
+    "city": "Scottsdale",
+    "landmark": "Taliesin West / Old Town Scottsdale",
+    "population": 241361,
+    "slug": "scottsdale"
+  },
+  {
+    "city": "Sedona",
+    "landmark": "Cathedral Rock / Red Rock State Park",
+    "population": 9684,
+    "slug": "sedona"
+  },
+  {
+    "city": "Show Low",
+    "landmark": "Fool Hollow Lake Recreation Area",
+    "population": 11467,
+    "slug": "show-low"
+  },
+  {
+    "city": "Sierra Vista",
+    "landmark": "Fort Huachuca",
+    "population": 45308,
+    "slug": "sierra-vista"
+  },
+  {
+    "city": "Somerton",
+    "landmark": "Somerton Castle",
+    "population": 16539,
+    "slug": "somerton"
+  },
+  {
+    "city": "Springerville",
+    "landmark": "Casa Malpais Archaeological Park",
+    "population": 1757,
+    "slug": "springerville"
+  },
+  {
+    "city": "Sun City",
+    "landmark": "Sun Bowl Amphitheatre",
+    "population": 39931,
+    "slug": "sun-city"
+  },
+  {
+    "city": "Sun City West",
+    "landmark": "Recreation Centers of Sun City West",
+    "population": 25806,
+    "slug": "sun-city-west"
+  },
+  {
+    "city": "Sun Lakes",
+    "landmark": "Sun Lakes Country Club",
+    "population": 14846,
+    "slug": "sun-lakes"
+  },
+  {
+    "city": "Superior",
+    "landmark": "Boyce Thompson Arboretum State Park",
+    "population": 2453,
+    "slug": "superior"
+  },
+  {
+    "city": "Surprise",
+    "landmark": "Surprise Stadium",
+    "population": 143148,
+    "slug": "surprise"
+  },
+  {
+    "city": "Tempe",
+    "landmark": "Arizona State University (ASU) / Tempe Town Lake",
+    "population": 180925,
+    "slug": "tempe"
+  },
+  {
+    "city": "Thatcher",
+    "landmark": "Eastern Arizona College",
+    "population": 4865,
+    "slug": "thatcher"
+  },
+  {
+    "city": "Tolleson",
+    "landmark": "Phoenix International Raceway (nearby)",
+    "population": 7437,
+    "slug": "tolleson"
+  },
+  {
+    "city": "Tuba City",
+    "landmark": "Dinosaur Tracks (nearby)",
+    "population": 8611,
+    "slug": "tuba-city"
+  },
+  {
+    "city": "Tucson",
+    "landmark": "Mission San Xavier del Bac / University of Arizona",
+    "population": 542629,
+    "slug": "tucson"
+  },
+  {
+    "city": "Wellton",
+    "landmark": "Wellton Public Library",
+    "population": 2882,
+    "slug": "wellton"
+  },
+  {
+    "city": "Whiteriver",
+    "landmark": "Sunrise Park Resort (nearby)",
+    "population": 6303,
+    "slug": "whiteriver"
+  },
+  {
+    "city": "Wickenburg",
+    "landmark": "Desert Caballeros Western Museum",
+    "population": 7474,
+    "slug": "wickenburg"
+  },
+  {
+    "city": "Willcox",
+    "landmark": "Chiricahua National Monument (nearby)",
+    "population": 3667,
+    "slug": "willcox"
+  },
+  {
+    "city": "Williams",
+    "landmark": "Grand Canyon Railway",
+    "population": 3202,
+    "slug": "williams"
+  },
+  {
+    "city": "Winslow",
+    "landmark": "Standin' on the Corner Park",
+    "population": 9005,
+    "slug": "winslow"
+  },
+  {
+    "city": "Youngtown",
+    "landmark": "Youngtown Public Library",
+    "population": 6698,
+    "slug": "youngtown"
+  },
+  {
+    "city": "Yuma",
+    "landmark": "Yuma Territorial Prison State Historic Park",
+    "population": 95545,
+    "slug": "yuma"
+  }
+]

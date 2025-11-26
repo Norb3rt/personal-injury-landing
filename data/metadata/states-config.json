@@ -192,5 +192,36 @@
       "lng": -77.1945
     },
     "enabled": false
+  },
+  "arizona": {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "slug": "arizona",
+    "timezone": "America/Phoenix",
+    "strategy": "full",
+    "priority": "high",
+    "majorCities": [
+      "Phoenix",
+      "Tucson",
+      "Mesa",
+      "Chandler",
+      "Glendale",
+      "Scottsdale",
+      "Gilbert",
+      "Tempe",
+      "Peoria",
+      "Surprise"
+    ],
+    "seoModifiers": [
+      "Grand Canyon State",
+      "Southwest",
+      "Desert",
+      "Copper State"
+    ],
+    "defaultCoordinates": {
+      "lat": 34.0489,
+      "lng": -111.0937
+    },
+    "enabled": true
   }
 }
