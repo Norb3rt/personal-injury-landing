@@ -247,7 +247,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           </FadeIn>
           {/* Floating Particles Background */}
           <FloatingParticles
-            count={60}
+            count={30} // Reduced from 60 for performance
             particleColor="rgba(255, 255, 255, 0.1)"
             className="pointer-events-none"
           />
@@ -255,29 +255,19 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           <div className="absolute inset-0 bg-black/20"></div>
 
           <div className="relative max-w-6xl mx-auto text-center">
-            <FadeIn direction="down" delay={0.1}>
-              {/* EDITAR AQUÍ - Este es el título principal (H1) de la página. */}
-              <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-                {/* Puedes cambiar el texto "Injured in". El nombre de la ciudad se inserta automáticamente. */}
-                <AnimatedText text="Injured in" className="inline-block mr-2" staggerDelay={0.03} />
-                <span className="inline-block" style={{ color: '#e06e00' }}>
-                  <TypingEffect
-                    text={city}
-                    speed={50}
-                    style={{ color: '#e06e00' }}
-                    showCursor={false}
-                  />
-                </span>
-                <span style={{ color: '#e06e00' }}>?</span>
-                <br />
-                {/* Puedes cambiar el texto "Get the Settlement You Deserve." */}
-                <AnimatedText
-                  text="Get the Settlement You Deserve."
-                  staggerDelay={0.04}
-                  className="block mt-2"
-                />
-              </h1>
-            </FadeIn>
+            {/* EDITAR AQUÍ - Este es el título principal (H1) de la página. */}
+            <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+              {/* Static text for LCP optimization */}
+              <span className="inline-block mr-2">Injured in</span>
+              <span className="inline-block" style={{ color: '#e06e00' }}>
+                {city}
+              </span>
+              <span style={{ color: '#e06e00' }}>?</span>
+              <br />
+              <span className="block mt-2">
+                Get the Settlement You Deserve.
+              </span>
+            </h1>
 
             <FadeIn direction="up" delay={0.3}>
               <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-4xl mx-auto">

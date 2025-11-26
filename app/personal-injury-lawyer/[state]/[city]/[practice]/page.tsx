@@ -120,7 +120,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
         {/* Hero Section */}
         <section className="relative bg-gradient-to-br from-blue-900 via-blue-800 to-teal-700 text-white py-20 px-4 overflow-hidden">
           <ParallaxScroll speed={0.5} className="absolute inset-0 opacity-20">
-            <FloatingParticles count={50} particleColor="rgba(255, 255, 255, 0.3)" />
+            <FloatingParticles count={30} particleColor="rgba(255, 255, 255, 0.3)" />
           </ParallaxScroll>
 
           <div className="max-w-6xl mx-auto relative z-10">
@@ -142,11 +142,9 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                 <div className="text-6xl mb-6">{practiceArea.icon}</div>
               </FadeIn>
 
-              <FadeIn direction="up" delay={0.3}>
-                <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-                  {practiceArea.name} Lawyer in {city}, {state}
-                </h1>
-              </FadeIn>
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
+                {practiceArea.name} Lawyer in {city}, {state}
+              </h1>
 
               <FadeIn direction="up" delay={0.4}>
                 <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-4xl mx-auto">

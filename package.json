@@ -39,6 +39,7 @@
     "@types/node": "^22",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "babel-plugin-react-compiler": "^1.0.0",
     "eslint": "8.57.1",
     "eslint-config-next": "latest",
     "postcss": "^8.5",

@@ -18,11 +18,11 @@ const nextConfig = {
   // Enable compression
   compress: true,
   // 'standalone' es para despliegues en contenedores. Si usas Vercel, esto no es necesario.
-  output: 'standalone', 
-  swcMinify: true,
+  output: 'standalone',
+  reactCompiler: true,
   experimental: {
     // optimizeCss: true, // Puedes probar a habilitarlo para mejorar el CSS.
-    optimizePackageImports: ['lucide-react', '@radix-ui/react-icons'],
+    optimizePackageImports: ['lucide-react', '@radix-ui/react-icons', 'framer-motion'],
   },
   // Headers for security and SEO
   async headers() {
