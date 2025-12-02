@@ -106,7 +106,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
       case: "Injured Motorist",
       settlement: "$150,000",
       quote:
-        "&quot;I didn&apos;t know where to start after my accident, but this site helped me get in touch with a lawyer who could help",
+        "I didn't know where to start after my accident, but this site helped me get in touch with a lawyer who could help",
       rating: 5,
     },
     {
