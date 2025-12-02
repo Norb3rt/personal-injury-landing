@@ -1,16 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { useMemo } from "react"
-
-interface Particle {
-  id: number
-  x: number
-  y: number
-  size: number
-  duration: number
-  delay: number
-}
+import { useState, useEffect } from "react"
 
 interface FloatingParticlesProps {
   count?: number
@@ -22,6 +13,41 @@ interface FloatingParticlesProps {
   maxDuration?: number
 }
 
+interface Particle {
+  id: number
+  x: number
+  y: number
+  size: number
+  duration: number
+  delay: number
+  animationX: number
+}
+
+// Seeded random number generator for consistent values
+function seededRandom(seed: number): number {
+  const x = Math.sin(seed * 9999) * 10000
+  return x - Math.floor(x)
+}
+
+// Generate particles with fixed seed - only called on client
+function generateParticles(
+  count: number,
+  minSize: number,
+  maxSize: number,
+  minDuration: number,
+  maxDuration: number
+): Particle[] {
+  return Array.from({ length: count }, (_, i) => ({
+    id: i,
+    x: Math.round(seededRandom(i * 1) * 10000) / 100,
+    y: Math.round(seededRandom(i * 2) * 10000) / 100,
+    size: Math.round((seededRandom(i * 3) * (maxSize - minSize) + minSize) * 100) / 100,
+    duration: Math.round((seededRandom(i * 4) * (maxDuration - minDuration) + minDuration) * 100) / 100,
+    delay: Math.round(seededRandom(i * 5) * 500) / 100,
+    animationX: Math.round((seededRandom(i * 6) * 20 - 10) * 100) / 100,
+  }))
+}
+
 export function FloatingParticles({
   count = 50,
   className = "",
@@ -31,17 +57,14 @@ export function FloatingParticles({
   minDuration = 10,
   maxDuration = 20,
 }: FloatingParticlesProps) {
-  const particles = useMemo(() => {
-    return Array.from({ length: count }, (_, i) => ({
-      id: i,
-      x: Math.random() * 100,
-      y: Math.random() * 100,
-      size: Math.random() * (maxSize - minSize) + minSize,
-      duration: Math.random() * (maxDuration - minDuration) + minDuration,
-      delay: Math.random() * 5,
-    }))
+  const [particles, setParticles] = useState<Particle[]>([])
+
+  useEffect(() => {
+    // Only generate particles on the client side to avoid hydration mismatch
+    setParticles(generateParticles(count, minSize, maxSize, minDuration, maxDuration))
   }, [count, minSize, maxSize, minDuration, maxDuration])
 
+  // Render empty container on server, particles only appear after hydration
   return (
     <div className={`absolute inset-0 overflow-hidden ${className}`}>
       {particles.map((particle) => (
@@ -57,7 +80,7 @@ export function FloatingParticles({
           }}
           animate={{
             y: [0, -30, 0],
-            x: [0, Math.random() * 20 - 10, 0],
+            x: [0, particle.animationX, 0],
             opacity: [0, 1, 0],
           }}
           transition={{

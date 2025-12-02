@@ -1,9 +1,19 @@
+/* Leaflet CSS - imported globally to ensure proper loading */
+@import "leaflet/dist/leaflet.css";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Fix for Leaflet container height */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  z-index: 0;
 }
 
 @layer utilities {

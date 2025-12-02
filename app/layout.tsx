@@ -10,14 +10,14 @@ import { SpeedInsights } from "@vercel/speed-insights/next"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Personal Injury Lawyers in California | Free Consultation",
+  title: "Personal Injury Lawyers | Nationwide Legal Help | Free Consultation",
   description:
-    "Connect with top personal injury attorneys in California. No win, no fee. Get the settlement you deserve.",
+    "Connect with top personal injury attorneys across the USA. No win, no fee. Get the settlement you deserve.",
   generator: 'Next.js',
   metadataBase: new URL('https://personalinjury.lawproactive.com'), // Replace with your actual domain
   openGraph: {
-    title: "Personal Injury Lawyers in California | Free Consultation",
-    description: "Connect with top personal injury attorneys in California. No win, no fee. Get the settlement you deserve.",
+    title: "Personal Injury Lawyers | Nationwide Legal Help | Free Consultation",
+    description: "Connect with top personal injury attorneys across the USA. No win, no fee. Get the settlement you deserve.",
     url: 'https://personalinjury.lawproactive.com',
     siteName: 'LawProactive',
     images: [
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         url: '/og-image.jpg', // You'll need to add this image
         width: 1200,
         height: 630,
-        alt: 'Personal Injury Lawyers in California',
+        alt: 'Nationwide Personal Injury Lawyers',
       },
     ],
     locale: 'en_US',
@@ -33,8 +33,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Personal Injury Lawyers in California | Free Consultation",
-    description: "Connect with top personal injury attorneys in California. No win, no fee. Get the settlement you deserve.",
+    title: "Personal Injury Lawyers | Nationwide Legal Help | Free Consultation",
+    description: "Connect with top personal injury attorneys across the USA. No win, no fee. Get the settlement you deserve.",
     images: ['/og-image.jpg'],
   },
   robots: {

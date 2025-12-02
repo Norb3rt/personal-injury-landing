@@ -96,7 +96,7 @@ function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: s
       title: `Personal Injury Lawyer in ${cityName} | Free Consultation`,
       description: `Injured in ${cityName}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
       url: canonicalUrl,
-      siteName: 'LawProactive',
+      siteName: 'No Win No Fee',
       locale: 'en_US',
       type: 'website',
     },

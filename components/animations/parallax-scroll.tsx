@@ -1,7 +1,7 @@
 "use client"
 
 import { motion, useScroll, useTransform } from "framer-motion"
-import { ReactNode, useRef } from "react"
+import { ReactNode, useRef, useState, useEffect } from "react"
 
 interface ParallaxScrollProps {
   children: ReactNode
@@ -75,7 +75,16 @@ export function ScrollProgress({
   color = "#3b82f6",
   height = 4,
 }: ScrollProgressProps) {
+  const [mounted, setMounted] = useState(false)
   const { scrollYProgress } = useScroll()
+
+  useEffect(() => {
+    setMounted(true)
+  }, [])
+
+  if (!mounted) {
+    return null
+  }
 
   return (
     <motion.div
