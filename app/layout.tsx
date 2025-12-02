@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     siteName: 'LawProactive',
     images: [
       {
-        url: '/og-image.jpg', // You'll need to add this image
+        url: '/images/logo-favicon.jpg',
         width: 1200,
         height: 630,
         alt: 'Nationwide Personal Injury Lawyers',
@@ -35,7 +35,16 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "Personal Injury Lawyers | Nationwide Legal Help | Free Consultation",
     description: "Connect with top personal injury attorneys across the USA. No win, no fee. Get the settlement you deserve.",
-    images: ['/og-image.jpg'],
+    images: ['/images/logo-favicon.jpg'],
+  },
+  icons: {
+    icon: '/images/logo-favicon.jpg',
+    shortcut: '/images/logo-favicon.jpg',
+    apple: '/images/logo-favicon.jpg',
+    other: {
+      rel: 'apple-touch-icon-precomposed',
+      url: '/images/logo-favicon.jpg',
+    },
   },
   robots: {
     index: true,
