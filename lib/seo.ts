@@ -56,7 +56,7 @@ export async function generateCityMetadata(
         siteName: 'LawProactive',
         images: [
           {
-            url: '/images/logo-favicon.jpg',
+            url: `${baseUrl}/images/logo-favicon.jpg`,
             width: 1200,
             height: 630,
             alt: `${cityName} Personal Injury Lawyer`,
@@ -69,7 +69,7 @@ export async function generateCityMetadata(
         card: 'summary_large_image',
         title: `${cityName} Personal Injury Lawyer | Free Consultation`,
         description: `Injured in ${cityName}, ${cityData.state}? Get maximum compensation with our experienced personal injury attorneys. No win, no fee.`,
-        images: ['/images/logo-favicon.jpg'],
+        images: [`${baseUrl}/images/logo-favicon.jpg`],
       },
       robots: {
         index: true,
@@ -108,7 +108,7 @@ function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: s
       siteName: 'No Win No Fee',
       images: [
         {
-          url: '/images/logo-favicon.jpg',
+          url: `${baseUrl}/images/logo-favicon.jpg`,
           width: 1200,
           height: 630,
           alt: `${cityName} Personal Injury Lawyer`,
@@ -121,7 +121,7 @@ function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: s
       card: 'summary_large_image',
       title: `Personal Injury Lawyer in ${cityName} | Free Consultation`,
       description: `Injured in ${cityName}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
-      images: ['/images/logo-favicon.jpg'],
+      images: [`${baseUrl}/images/logo-favicon.jpg`],
     },
     robots: {
       index: true,

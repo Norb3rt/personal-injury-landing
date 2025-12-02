@@ -9,12 +9,15 @@ import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const inter = Inter({ subsets: ["latin"] })
 
+const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
+const imageUrl = `${baseUrl}/images/logo-favicon.jpg`
+
 export const metadata: Metadata = {
   title: "Personal Injury Lawyers | Nationwide Legal Help | Free Consultation",
   description:
     "Connect with top personal injury attorneys across the USA. No win, no fee. Get the settlement you deserve.",
   generator: 'Next.js',
-  metadataBase: new URL('https://personalinjury.lawproactive.com'), // Replace with your actual domain
+  metadataBase: new URL(baseUrl), // Replace with your actual domain
   openGraph: {
     title: "Personal Injury Lawyers | Nationwide Legal Help | Free Consultation",
     description: "Connect with top personal injury attorneys across the USA. No win, no fee. Get the settlement you deserve.",
@@ -22,7 +25,7 @@ export const metadata: Metadata = {
     siteName: 'LawProactive',
     images: [
       {
-        url: '/images/logo-favicon.jpg',
+        url: imageUrl,
         width: 1200,
         height: 630,
         alt: 'Nationwide Personal Injury Lawyers',
@@ -35,15 +38,15 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "Personal Injury Lawyers | Nationwide Legal Help | Free Consultation",
     description: "Connect with top personal injury attorneys across the USA. No win, no fee. Get the settlement you deserve.",
-    images: ['/images/logo-favicon.jpg'],
+    images: [imageUrl],
   },
   icons: {
-    icon: '/images/logo-favicon.jpg',
-    shortcut: '/images/logo-favicon.jpg',
-    apple: '/images/logo-favicon.jpg',
+    icon: imageUrl,
+    shortcut: imageUrl,
+    apple: imageUrl,
     other: {
       rel: 'apple-touch-icon-precomposed',
-      url: '/images/logo-favicon.jpg',
+      url: imageUrl,
     },
   },
   robots: {
