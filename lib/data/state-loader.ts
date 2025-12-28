@@ -1,12 +1,12 @@
 import { promises as fs } from 'fs';
 import path from 'path';
-import { 
-  BaseLocation, 
-  StateConfig, 
-  ProcessedLocation, 
+import {
+  BaseLocation,
+  StateConfig,
+  ProcessedLocation,
   StateDataResult,
   DataAdapter,
-  Coordinates 
+  Coordinates
 } from '../types/location.types';
 
 /**
@@ -132,7 +132,7 @@ export class CSVAdapter implements DataAdapter {
     try {
       // Intentar cargar desde la nueva estructura
       const csvPath = path.join(this.dataPath, `${state.toLowerCase()}.csv`);
-      
+
       if (await this.fileExists(csvPath)) {
         return await this.parseCSV(csvPath);
       }
@@ -170,7 +170,7 @@ export class CSVAdapter implements DataAdapter {
 
   async getStateConfig(state: string): Promise<StateConfig> {
     const configPath = path.join(process.cwd(), 'data', 'metadata', 'states-config.json');
-    
+
     try {
       if (await this.fileExists(configPath)) {
         const configData = await fs.readFile(configPath, 'utf-8');
@@ -185,10 +185,10 @@ export class CSVAdapter implements DataAdapter {
   }
 
   validateData(data: BaseLocation[]): boolean {
-    return data.every(location => 
-      location.state && 
-      location.city && 
-      typeof location.state === 'string' && 
+    return data.every(location =>
+      location.state &&
+      location.city &&
+      typeof location.state === 'string' &&
       typeof location.city === 'string'
     );
   }
@@ -197,9 +197,9 @@ export class CSVAdapter implements DataAdapter {
     const content = await fs.readFile(filePath, 'utf-8');
     const lines = content.trim().split('\n');
     const headers = lines[0].toLowerCase().split(',');
-    
+
     const locations: BaseLocation[] = [];
-    
+
     for (let i = 1; i < lines.length; i++) {
       const values = lines[i].split(',');
       const location: BaseLocation = {
@@ -280,7 +280,7 @@ export class StateDataLoader {
    */
   static async loadStateData(stateName: string): Promise<BaseLocation[]> {
     this.ensureAdapter();
-    
+
     // Cache simple
     const cacheKey = `state-${stateName.toLowerCase()}`;
     if (this.cache.has(cacheKey)) {
@@ -294,7 +294,7 @@ export class StateDataLoader {
     try {
       const cities = await this.adapter.loadLocations(stateName);
       const config = await this.getStateConfig(stateName);
-      
+
       const result: StateDataResult = {
         state: stateName,
         cities,
@@ -329,7 +329,7 @@ export class StateDataLoader {
    */
   static async getStateConfig(stateName: string): Promise<StateConfig> {
     this.ensureAdapter();
-    
+
     // Cache simple para configuración
     const cacheKey = `config-${stateName.toLowerCase()}`;
     if (this.cache.has(cacheKey)) {
@@ -342,7 +342,7 @@ export class StateDataLoader {
 
     try {
       const config = await this.adapter.getStateConfig(stateName);
-      
+
       const result: StateDataResult = {
         state: stateName,
         cities: [],
@@ -367,7 +367,7 @@ export class StateDataLoader {
       locations.map(async (location) => {
         const coordinates = await this.getCoordinates(location);
         const slug = this.generateSlug(location.state, location.city);
-        
+
         return {
           ...location,
           slug,
@@ -464,12 +464,12 @@ export class StateDataLoader {
    */
   static async findLocation(stateSlug: string, citySlug: string): Promise<ProcessedLocation | null> {
     const states = await this.getAllStates();
-    
+
     for (const state of states) {
       if (this.slugify(state) === stateSlug) {
         const cities = await this.loadStateData(state);
         const city = cities.find(c => this.slugify(c.city) === citySlug);
-        
+
         if (city) {
           const processed = await this.enrichWithCoordinates([city]);
           return processed[0];
@@ -478,6 +478,46 @@ export class StateDataLoader {
     }
 
     return null;
+  }
+
+  /**
+   * Gets nearby cities in the same state for internal linking.
+   * Uses deterministic selection based on city name hash for consistent results.
+   */
+  static async getNearbyCities(
+    stateSlug: string,
+    currentCitySlug: string,
+    limit: number = 8
+  ): Promise<Array<{ name: string; slug: string }>> {
+    const states = await this.getAllStates();
+
+    for (const state of states) {
+      if (this.slugify(state) === stateSlug) {
+        const cities = await this.loadStateData(state);
+
+        // Filter out current city
+        const otherCities = cities.filter(c => this.slugify(c.city) !== currentCitySlug);
+
+        if (otherCities.length === 0) return [];
+
+        // Use a simple hash of the current city name for deterministic "random" selection
+        const hash = currentCitySlug.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
+
+        // Shuffle based on hash (deterministic)
+        const shuffled = [...otherCities].sort((a, b) => {
+          const hashA = (this.slugify(a.city).charCodeAt(0) + hash) % 100;
+          const hashB = (this.slugify(b.city).charCodeAt(0) + hash) % 100;
+          return hashA - hashB;
+        });
+
+        return shuffled.slice(0, limit).map(c => ({
+          name: c.city,
+          slug: this.slugify(c.city)
+        }));
+      }
+    }
+
+    return [];
   }
 
   // Métodos privados de utilidad
@@ -543,7 +583,7 @@ export class StateDataLoader {
       'illinois': 'IL',
       'pennsylvania': 'PA'
     };
-    
+
     return abbreviations[stateName.toLowerCase()] || stateName.substring(0, 2).toUpperCase();
   }
 
