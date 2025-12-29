@@ -22,7 +22,9 @@ import { practiceAreaNameToSlug } from "@/lib/data/practice-areas-config"
 import { NearbyCities } from "@/components/nearby-cities"
 import { StateLegalInfo } from "@/components/state-legal-info"
 import { LocalResources } from "@/components/local-resources"
+import { AccidentStatistics } from "@/components/accident-statistics"
 import { getStateLawInfo } from "@/data/state-laws"
+import { generateAccidentStats } from "@/data/accident-stats"
 
 // Import animation components
 import {
@@ -87,6 +89,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
   // Get state-specific legal information
   const stateLawInfo = getStateLawInfo(paramState)
+
+  // Generate accident statistics for this city
+  const accidentStats = generateAccidentStats(city, state, paramState, cityLocation?.population)
 
   // Generate dynamic stats based on city population/name for uniqueness
   const generateDynamicStats = (cityName: string, population?: number) => {
@@ -399,6 +404,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             </StaggerContainer>
           </div>
         </section>
+
+        {/* Accident Statistics Section */}
+        <AccidentStatistics stats={accidentStats} />
 
         {/* Pain Points Section */}
         <section className="py-16 px-4 bg-red-50 relative overflow-hidden">
