@@ -23,6 +23,8 @@ import { NearbyCities } from "@/components/nearby-cities"
 import { StateLegalInfo } from "@/components/state-legal-info"
 import { LocalResources } from "@/components/local-resources"
 import { AccidentStatistics } from "@/components/accident-statistics"
+import { LocalNews } from "@/components/local-news"
+import { CompensationCalculator } from "@/components/compensation-calculator"
 import { getStateLawInfo } from "@/data/state-laws"
 import { generateAccidentStats } from "@/data/accident-stats"
 
@@ -407,6 +409,21 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
         {/* Accident Statistics Section */}
         <AccidentStatistics stats={accidentStats} />
+
+        {/* Local News Section */}
+        {/* <LocalNews
+          city={city}
+          state={state}
+          citySlug={paramCity}
+          stateSlug={paramState}
+        /> */}
+
+        {/* Compensation Calculator */}
+        {/* <CompensationCalculator
+          city={city}
+          state={state}
+          stateSlug={paramState}
+        /> */}
 
         {/* Pain Points Section */}
         <section className="py-16 px-4 bg-red-50 relative overflow-hidden">

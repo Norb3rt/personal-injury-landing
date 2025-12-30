@@ -1,5 +1,7 @@
 // SEO utilities for programmatic SEO optimization
 // Updated to support new multi-state architecture with legacy compatibility
+// SAFETY UPDATE 1: Removed aggregateRating to comply with Google's spam policies.
+// SAFETY UPDATE 2: Removed telephone numbers entirely (Lead Gen / Digital-First model).
 
 import { Metadata } from 'next'
 import { buildAbsoluteCityUrl } from './url'
@@ -43,6 +45,7 @@ export async function generateCityMetadata(
 
     return {
       title: `Personal Injury Lawyer in ${cityName}, ${cityData.state} | Free Consultation`,
+      // Claim-Based Trust: Focus on "Maximum Compensation" in description
       description: `Injured in ${cityName}? Get the settlement you deserve. Connect with top-rated personal injury attorneys in ${cityName}, ${cityData.state}. Free case evaluation. No win, no fee.`,
       keywords: keywords.join(', '),
       metadataBase: new URL(baseUrl),
@@ -95,7 +98,7 @@ function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: s
 
   return {
     title: `Personal Injury Lawyer in ${cityName} | Free Consultation`,
-    description: `Injured in ${cityName}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
+    description: `Injured in ${cityName}? Get settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
     keywords: `personal injury lawyer ${cityName}, accident attorney ${cityName}, car accident lawyer ${cityName}`,
     metadataBase: new URL(baseUrl),
     alternates: {
@@ -103,7 +106,7 @@ function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: s
     },
     openGraph: {
       title: `Personal Injury Lawyer in ${cityName} | Free Consultation`,
-      description: `Injured in ${cityName}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
+      description: `Injured in ${cityName}? Get settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
       url: canonicalUrl,
       siteName: 'No Win No Fee',
       images: [
@@ -120,7 +123,7 @@ function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: s
     twitter: {
       card: 'summary_large_image',
       title: `Personal Injury Lawyer in ${cityName} | Free Consultation`,
-      description: `Injured in ${cityName}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
+      description: `Injured in ${cityName}? Get settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
       images: [`${baseUrl}/images/logo-favicon.jpg`],
     },
     robots: {
@@ -140,7 +143,7 @@ export async function generateLocalBusinessStructuredData(
   const cityName = cityData?.city || citySlug.charAt(0).toUpperCase() + citySlug.slice(1).replace(/-/g, " ")
   const coordinates = cityData?.coordinates || { lat: 34.0522, lng: -118.2437 }
   const pageUrl = buildAbsoluteCityUrl(stateSlug, citySlug, undefined, baseUrl)
-  const stateName = cityData?.state || 'California' // Fallback
+  const stateName = cityData?.state || 'California'
 
   return {
     "@context": "https://schema.org",
@@ -149,10 +152,12 @@ export async function generateLocalBusinessStructuredData(
         "@type": "LegalService",
         "@id": `${pageUrl}#legalservice`,
         "name": `Personal Injury Lawyers in ${cityName}`,
-        "description": `Top-rated personal injury attorneys serving ${cityName}, ${stateName}. Free consultation, no win no fee.`,
+        // Claim-Based Trust: Description focuses on "Connect" and "Free Consultation"
+        "description": `Connecting ${cityName} accident victims with top-rated attorneys. Secure maximum compensation through our network. Free evaluation, no obligation.`,
         "url": pageUrl,
-        "telephone": process.env.NEXT_PUBLIC_PHONE_NUMBER || "+1-800-123-4567",
+        // REMOVED: Telephone (Digital-First Lead Gen Model)
         "priceRange": "Free Consultation",
+        // "areaServed" with GeoCoordinates helps Google understand service region for multi-state/national lead gen
         "areaServed": {
           "@type": "City",
           "name": cityName,
@@ -181,27 +186,21 @@ export async function generateLocalBusinessStructuredData(
               "itemOffered": {
                 "@type": "Service",
                 "name": "Free Legal Consultation",
-                "description": "No-obligation case evaluation"
+                "description": "No-obligation case evaluation via secure web form."
               },
               "price": "0",
               "priceCurrency": "USD"
             }
           ]
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "reviewCount": "150",
-          "bestRating": "5",
-          "worstRating": "1"
         }
+        // REMOVED: aggregateRating (Policy Compliance)
       },
       {
         "@type": "WebPage",
         "@id": `${pageUrl}#webpage`,
         "url": pageUrl,
         "name": `Personal Injury Lawyer in ${cityName}, ${stateName} | Free Consultation`,
-        "description": `Injured in ${cityName}? Get the settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
+        "description": `Injured in ${cityName}? Get settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
         "isPartOf": {
           "@type": "WebSite",
           "@id": `${baseUrl}#website`
@@ -221,13 +220,9 @@ export async function generateLocalBusinessStructuredData(
         "logo": {
           "@type": "ImageObject",
           "url": `${baseUrl}/images/logo-favicon.jpg`
-        },
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "telephone": process.env.NEXT_PUBLIC_PHONE_NUMBER || "+1-800-123-4567",
-          "contactType": "customer service",
-          "availableLanguage": ["English", "Spanish"]
         }
+        // REMOVED: contactPoint (Depended on phone number)
+        // REMOVED: telephone (Digital-First Model)
       }
     ]
   }
@@ -238,4 +233,3 @@ export async function isValidCitySlug(stateSlug: string, citySlug: string): Prom
   const location = await StateDataLoader.findLocation(stateSlug, citySlug)
   return !!location
 }
-
