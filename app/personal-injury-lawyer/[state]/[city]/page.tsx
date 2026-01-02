@@ -411,12 +411,12 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
         <AccidentStatistics stats={accidentStats} />
 
         {/* Local News Section */}
-        {/* <LocalNews
+        <LocalNews
           city={city}
           state={state}
           citySlug={paramCity}
           stateSlug={paramState}
-        /> */}
+        />
 
         {/* Compensation Calculator */}
         {/* <CompensationCalculator
