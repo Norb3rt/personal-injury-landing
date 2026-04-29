@@ -25,6 +25,10 @@ import { LocalResources } from "@/components/local-resources"
 import { AccidentStatistics } from "@/components/accident-statistics"
 import { LocalNews } from "@/components/local-news"
 import { CompensationCalculator } from "@/components/compensation-calculator"
+// Import territory / lawyer cards
+import { LawyerTerritoryCard } from "@/components/lawyers/lawyer-territory-card"
+import { TerritoryAvailableCard } from "@/components/lawyers/territory-available-card"
+import { getLawyerForTerritory } from "@/lib/get-lawyer-for-territory"
 import { getStateLawInfo } from "@/data/state-laws"
 import { generateAccidentStats } from "@/data/accident-stats"
 
@@ -88,6 +92,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
   // Fetch nearby cities for internal linking
   const nearbyCities = await StateDataLoader.getNearbyCities(paramState, paramCity, 8)
+
+  // ── Fetch lawyer assigned to this territory ──
+  const assignedLawyer = await getLawyerForTerritory(paramState, paramCity)
 
   // Get state-specific legal information
   const stateLawInfo = getStateLawInfo(paramState)
@@ -360,7 +367,19 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           </div>
         </section>
 
-
+        {/* ── Territory / Lawyer Card (below hero) ── */}
+        {assignedLawyer ? (
+          <LawyerTerritoryCard
+            lawyer={assignedLawyer}
+            city={city}
+            state={state}
+          />
+        ) : (
+          <TerritoryAvailableCard
+            city={city}
+            state={state}
+          />
+        )}
 
         {/* Services Section */}
         <section className="py-16 px-4 bg-gray-50" id="services">

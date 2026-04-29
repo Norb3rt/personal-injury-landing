@@ -25,6 +25,11 @@ import {
   FloatingParticles,
 } from "@/components/animations"
 
+// Import territory / lawyer cards
+import { LawyerTerritoryCard } from "@/components/lawyers/lawyer-territory-card"
+import { TerritoryAvailableCard } from "@/components/lawyers/territory-available-card"
+import { getLawyerForTerritory } from "@/lib/get-lawyer-for-territory"
+
 interface PageProps {
   params: Promise<{
     state: string
@@ -111,6 +116,9 @@ export default async function PracticeAreaPage({ params }: PageProps) {
   const citySlug = paramCity
   const stateSlug = paramState
 
+  // ── Fetch lawyer assigned to this territory ──
+  const assignedLawyer = await getLawyerForTerritory(paramState, paramCity)
+
   // Get other practice areas for internal linking (sibling pages)
   const otherPracticeAreas = PRACTICE_AREAS.filter(area => area.slug !== practice)
 
@@ -192,6 +200,20 @@ export default async function PracticeAreaPage({ params }: PageProps) {
           </div>
         </section>
 
+        {/* ── Territory / Lawyer Card (same city as city page) ── */}
+        {assignedLawyer ? (
+          <LawyerTerritoryCard
+            lawyer={assignedLawyer}
+            city={city}
+            state={state}
+          />
+        ) : (
+          <TerritoryAvailableCard
+            city={city}
+            state={state}
+          />
+        )}
+
         {/* About This Practice Area */}
         <section className="py-16 px-4 bg-white">
           <div className="max-w-4xl mx-auto">
@@ -253,7 +275,6 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                 Why Choose Our {practiceArea.name} Attorneys in {city}
               </h2>
             </FadeIn>
-
             <StaggerContainer staggerDelay={0.1} className="grid md:grid-cols-3 gap-8">
               <StaggerItem>
                 <Card className="h-full border-0 shadow-lg hover:shadow-xl transition-all duration-300">
