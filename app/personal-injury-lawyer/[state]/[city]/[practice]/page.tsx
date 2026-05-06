@@ -201,18 +201,18 @@ export default async function PracticeAreaPage({ params }: PageProps) {
         </section>
 
         {/* ── Territory / Lawyer Card (same city as city page) ── */}
-        {/* {assignedLawyer ? (
-            <LawyerTerritoryCard
-              lawyer={assignedLawyer}
-              city={city}
-              state={state}
-            />
-          ) : (
-            <TerritoryAvailableCard
-              city={city}
-              state={state}
-            />
-          )} */}
+        {assignedLawyer ? (
+          <LawyerTerritoryCard
+            lawyer={assignedLawyer}
+            city={city}
+            state={state}
+          />
+        ) : (
+          <TerritoryAvailableCard
+            city={city}
+            state={state}
+          />
+        )}
 
         {/* About This Practice Area */}
         <section className="py-16 px-4 bg-white">
