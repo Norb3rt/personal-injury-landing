@@ -42,17 +42,16 @@ export function TerritoryAvailableCard({ city, state }: TerritoryAvailableCardPr
                 {/* Heading */}
                 <StaggerItem>
                   <h2 className="text-xl sm:text-2xl font-bold text-gray-900 text-center mb-3">
-                    No Exclusive Attorney Claimed {city} Yet
+                    No attorney has claimed {city} territory yet.
                   </h2>
                 </StaggerItem>
 
                 {/* Sub-copy */}
                 <StaggerItem>
                   <p className="text-gray-600 text-center mb-6 leading-relaxed max-w-xl mx-auto">
-                    Our team is actively connecting injury victims in{" "}
-                    <span className="font-semibold text-gray-800">{city}</span> with top-rated
-                    personal injury attorneys nearby.{" "}
-                    <span className="font-semibold">You still get a free consultation.</span>
+                    This page is part of our attorney marketing software platform. Visitors are potential clients actively seeking legal help in
+                    <span className="font-semibold text-gray-800"> {city}</span> All consultations are handled directly by the renting
+                    <span className="font-semibold"> Attorney.</span>
                   </p>
                 </StaggerItem>
 
@@ -75,7 +74,7 @@ export function TerritoryAvailableCard({ city, state }: TerritoryAvailableCardPr
                 </StaggerItem>
 
                 {/* Primary CTA — same orange as every other button on the landing */}
-                <StaggerItem>
+                {/* <StaggerItem>
                   <div className="flex justify-center">
                     <TwoStepLeadModal
                       trigger={
@@ -85,7 +84,7 @@ export function TerritoryAvailableCard({ city, state }: TerritoryAvailableCardPr
                                      transition-all duration-300 text-base"
                           style={{ backgroundColor: "#e06e00" }}
                         >
-                          Get Matched with an Attorney — Free
+                          Connect with an attorney - free
                         </Button>
                       }
                       source="territory-available-card"
@@ -93,7 +92,7 @@ export function TerritoryAvailableCard({ city, state }: TerritoryAvailableCardPr
                       state={state}
                     />
                   </div>
-                </StaggerItem>
+                </StaggerItem> */}
 
               </StaggerContainer>
             </div>
@@ -105,8 +104,8 @@ export function TerritoryAvailableCard({ city, state }: TerritoryAvailableCardPr
               style={{ backgroundColor: "#fffbeb" }}
             >
               <p className="text-sm text-gray-500 text-center sm:text-left">
-                Are you a personal injury attorney serving{" "}
-                <span className="font-semibold text-gray-700">{city}</span>?
+                One attorney. One city.{" "}
+                <span className="font-semibold text-gray-700">Unlimited potential</span>
               </p>
               <a
                 href="http://leads.lawproactive.com"
@@ -116,7 +115,7 @@ export function TerritoryAvailableCard({ city, state }: TerritoryAvailableCardPr
                            transition-colors duration-200 hover:opacity-80"
                 style={{ color: "#0B6B65" }}
               >
-                Claim this territory exclusively
+                Claim it before someone else does
                 <ExternalLink className="h-3.5 w-3.5" />
               </a>
             </div>
