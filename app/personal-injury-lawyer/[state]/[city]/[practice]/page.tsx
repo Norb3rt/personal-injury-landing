@@ -13,6 +13,7 @@ import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
 
 import { StateDataLoader } from "@/lib/data/state-loader"
 import { PRACTICE_AREAS, getPracticeAreaBySlug, getAllPracticeAreaSlugs } from "@/lib/data/practice-areas-config"
+import { orgSchema, websiteSchema, serviceSchema } from "@/lib/seo"
 
 // Import animation components
 import {
@@ -122,9 +123,76 @@ export default async function PracticeAreaPage({ params }: PageProps) {
   // Get other practice areas for internal linking (sibling pages)
   const otherPracticeAreas = PRACTICE_AREAS.filter(area => area.slug !== practice)
 
+  const stateConfig = await StateDataLoader.getStateConfig(paramState);
+  const stateCode = stateConfig?.abbreviation || paramState.toUpperCase().substring(0, 2);
+
+  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
+  const pageUrl = `${baseUrl}/personal-injury-lawyer/${paramState}/${paramCity}/${practice}`;
+
+  const organizationSchemaObj = orgSchema();
+  const webSiteSchemaObj = websiteSchema();
+  const serviceSchemaObj = serviceSchema(city, state, stateCode, practiceArea.name);
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": practiceArea.faqItems.map(item => ({
+      "@type": "Question",
+      "name": item.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": item.answer
+      }
+    }))
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": baseUrl
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": state,
+        "item": `${baseUrl}/personal-injury-lawyer/${paramState}`
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": city,
+        "item": `${baseUrl}/personal-injury-lawyer/${paramState}/${paramCity}`
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": practiceArea.name,
+        "item": pageUrl
+      }
+    ]
+  };
+
+  const schemas = [
+    organizationSchemaObj,
+    webSiteSchemaObj,
+    serviceSchemaObj,
+    faqSchema,
+    breadcrumbSchema
+  ];
+
   return (
     <AnalyticsProvider>
       <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
+        {/* Structured Data for SEO */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schemas) }}
+        />
         {/* Hero Section */}
         <section className="relative bg-gradient-to-br from-blue-900 via-blue-800 to-teal-700 text-white py-20 px-4 overflow-hidden">
           <ParallaxScroll speed={0.5} className="absolute inset-0 opacity-20">

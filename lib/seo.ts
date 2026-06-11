@@ -133,99 +133,176 @@ function generateFallbackMetadata(cityName: string, citySlug: string, baseUrl: s
   }
 }
 
-// Generate structured data for local business
-export async function generateLocalBusinessStructuredData(
-  citySlug: string,
-  baseUrl: string = 'https://personalinjury.lawproactive.com',
-  stateSlug: string = 'california'
-) {
-  const cityData = await StateDataLoader.findLocation(stateSlug, citySlug)
-  const cityName = cityData?.city || citySlug.charAt(0).toUpperCase() + citySlug.slice(1).replace(/-/g, " ")
-  const coordinates = cityData?.coordinates || { lat: 34.0522, lng: -118.2437 }
-  const pageUrl = buildAbsoluteCityUrl(stateSlug, citySlug, undefined, baseUrl)
-  const stateName = cityData?.state || 'California'
+const BASE = "https://personalinjury.lawproactive.com".trim();
+
+export const CONFIG = {
+  org: {
+    name: "LawProactive",
+    legalName: "LawProactive, Inc.",
+    url: BASE,
+    logo: `${BASE}/images/logo.jpg`.trim(),
+    phone: "+1-213-394-5867".trim(),
+    email: "lawproactive@gmail.com".trim(),
+    address: {
+      street: "4001 Inglewood Avenue, Suite 233".trim(),
+      city: "Redondo Beach".trim(),
+      state: "CA".trim(),
+      zip: "90278".trim(),
+    },
+    social: [
+      "https://www.facebook.com/profile.php?id=100093908101031".trim(),
+      "https://www.linkedin.com/company/lawproactive".trim(),
+      "https://twitter.com/lawproactive".trim(),
+    ],
+  },
+
+  practiceAreas: [
+    "Car Accident",
+    "Slip and Fall",
+    "Medical Malpractice",
+    "Workplace Injuries",
+    "Product Liability",
+    "Wrongful Death",
+  ],
+};
+
+// -----------------------------------------------------
+// ORGANIZATION SCHEMA
+// -----------------------------------------------------
+export function orgSchema() {
+  const { org } = CONFIG;
+  return {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": `${BASE}/#org`,
+    name: org.name,
+    legalName: org.legalName,
+    url: org.url,
+    logo: org.logo,
+    telephone: org.phone,
+    email: org.email,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: org.address.street,
+      addressLocality: org.address.city,
+      addressRegion: org.address.state,
+      postalCode: org.address.zip,
+      addressCountry: "US",
+    },
+    sameAs: org.social,
+  };
+}
+
+// -----------------------------------------------------
+// WEBSITE SCHEMA
+// -----------------------------------------------------
+export function websiteSchema() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": `${BASE}/#website`,
+    url: BASE,
+    name: CONFIG.org.name,
+    publisher: { "@id": `${BASE}/#org` },
+  };
+}
+
+// -----------------------------------------------------
+// CITY PAGE SCHEMA (LegalService)
+// -----------------------------------------------------
+export function citySchema(city: string, state: string, stateCode: string, lat?: number, lng?: number) {
+  const url = `${BASE}/personal-injury-lawyer/${state.toLowerCase()}/${city.toLowerCase()}`;
 
   return {
     "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "LegalService",
-        "@id": `${pageUrl}#legalservice`,
-        "name": `Personal Injury Lawyers in ${cityName}`,
-        // Claim-Based Trust: Description focuses on "Connect" and "Free Consultation"
-        "description": `Connecting ${cityName} accident victims with top-rated attorneys. Secure maximum compensation through our network. Free evaluation, no obligation.`,
-        "url": pageUrl,
-        // REMOVED: Telephone (Digital-First Lead Gen Model)
-        "priceRange": "Free Consultation",
-        // "areaServed" with GeoCoordinates helps Google understand service region for multi-state/national lead gen
-        "areaServed": {
-          "@type": "City",
-          "name": cityName,
-          "addressRegion": stateName,
-          "addressCountry": "US",
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": coordinates.lat,
-            "longitude": coordinates.lng
-          }
-        },
-        "serviceType": [
-          "Personal Injury Law",
-          "Car Accident Attorney",
-          "Slip and Fall Lawyer",
-          "Medical Malpractice Attorney",
-          "Wrongful Death Lawyer",
-          "Workplace Injury Attorney"
-        ],
-        "hasOfferCatalog": {
-          "@type": "OfferCatalog",
-          "name": "Legal Services",
-          "itemListElement": [
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Service",
-                "name": "Free Legal Consultation",
-                "description": "No-obligation case evaluation via secure web form."
-              },
-              "price": "0",
-              "priceCurrency": "USD"
-            }
-          ]
-        }
-        // REMOVED: aggregateRating (Policy Compliance)
-      },
-      {
-        "@type": "WebPage",
-        "@id": `${pageUrl}#webpage`,
-        "url": pageUrl,
-        "name": `Personal Injury Lawyer in ${cityName}, ${stateName} | Free Consultation`,
-        "description": `Injured in ${cityName}? Get settlement you deserve. Connect with top personal injury attorneys. No win, no fee.`,
-        "isPartOf": {
-          "@type": "WebSite",
-          "@id": `${baseUrl}#website`
-        },
-        "about": {
-          "@id": `${pageUrl}#legalservice`
-        },
-        "mainEntity": {
-          "@id": `${pageUrl}#legalservice`
-        }
-      },
-      {
-        "@type": "Organization",
-        "@id": `${baseUrl}#organization`,
-        "name": process.env.NEXT_PUBLIC_COMPANY_NAME || "LawProactive",
-        "url": baseUrl,
-        "logo": {
-          "@type": "ImageObject",
-          "url": `${baseUrl}/images/logo-favicon.jpg`
-        }
-        // REMOVED: contactPoint (Depended on phone number)
-        // REMOVED: telephone (Digital-First Model)
-      }
-    ]
-  }
+    "@type": "LegalService",
+    "@id": `${url}/#service`,
+    name: `Personal Injury Lawyer ${city}, ${stateCode}`,
+    url,
+    description: `Connect with experienced personal injury lawyers in ${city}, ${stateCode}. Free consultation. We handle car accidents, slip and fall, medical malpractice, and more.`,
+    telephone: CONFIG.org.phone,
+    areaServed: {
+      "@type": "City",
+      name: city,
+      containedInPlace: { "@type": "State", name: state },
+    },
+    provider: { "@id": `${BASE}/#org` },
+  };
+}
+
+// -----------------------------------------------------
+// DATASET SCHEMA (Accident Stats)
+// -----------------------------------------------------
+export function datasetSchema(city: string, state: string, stateCode: string, data?: any) {
+  const url = `${BASE}/personal-injury-lawyer/${state.toLowerCase()}/${city.toLowerCase()}`;
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "@id": `${url}/#dataset`,
+    name: `${city}, ${stateCode} Accident Statistics`,
+    description: `Live accident data for ${city}, ${stateCode} including top accident locations, freeways, and injury types from government sources.`,
+    url,
+    isPartOf: { "@id": url },
+    spatialCoverage: {
+      "@type": "City",
+      name: city,
+    },
+    distribution: {
+      "@type": "DataDownload",
+      contentUrl: url,
+      encodingFormat: "HTML",
+    },
+    keywords: [
+      `${city} accidents`,
+      `${state} injury statistics`,
+      "accident data",
+    ],
+  };
+}
+
+// -----------------------------------------------------
+// PRACTICE AREA SUB-PAGE SCHEMA
+// -----------------------------------------------------
+export function serviceSchema(city: string, state: string, stateCode: string, practiceArea: string) {
+  const url = `${BASE}/personal-injury-lawyer/${state.toLowerCase()}/${city.toLowerCase()}/${practiceArea
+    .toLowerCase()
+    .replace(/\s+/g, "-")}`;
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "LegalService",
+    "@id": `${url}/#service`,
+    name: `${practiceArea} Lawyer ${city}, ${stateCode}`,
+    url,
+    description: `${practiceArea} lawyer in ${city}, ${stateCode}. Free case review. No fee unless you win.`,
+    telephone: CONFIG.org.phone,
+    areaServed: {
+      "@type": "City",
+      name: city,
+    },
+    provider: { "@id": `${BASE}/#org` },
+    isPartOf: {
+      "@id": `${BASE}/personal-injury-lawyer/${state.toLowerCase()}/${city.toLowerCase()}/#service`,
+    },
+  };
+}
+
+// -----------------------------------------------------
+// NEWS ARTICLE SCHEMA
+// -----------------------------------------------------
+export function newsArticleSchema(city: string, url: string, headline: string, description: string, datePublished: string) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    headline,
+    description,
+    url,
+    datePublished,
+    isPartOf: {
+      "@id": `${BASE}/personal-injury-lawyer/${city.toLowerCase()}/#service`,
+    },
+  };
 }
 
 // Validate if a city slug exists

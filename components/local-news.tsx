@@ -19,15 +19,20 @@ interface LocalNewsProps {
     state: string
     citySlug: string
     stateSlug: string
+    initialNews?: NewsItem[]
+    initialIsFallback?: boolean
 }
 
-export function LocalNews({ city, state, citySlug, stateSlug }: LocalNewsProps) {
-    const [news, setNews] = useState<NewsItem[]>([])
-    const [loading, setLoading] = useState(true)
+export function LocalNews({ city, state, citySlug, stateSlug, initialNews, initialIsFallback }: LocalNewsProps) {
+    const [news, setNews] = useState<NewsItem[]>(initialNews || [])
+    const [loading, setLoading] = useState(!initialNews)
     const [error, setError] = useState(false)
-    const [isFallback, setIsFallback] = useState(false)
+    const [isFallback, setIsFallback] = useState(initialIsFallback || false)
 
     useEffect(() => {
+        if (initialNews) {
+            return // Use preloaded server-side news, do not fetch on client
+        }
         const fetchNews = async () => {
             try {
                 setLoading(true)

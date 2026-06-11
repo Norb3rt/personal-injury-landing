@@ -12,10 +12,11 @@ import { AnalyticsProvider } from "@/components/analytics-provider"
 import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
 import { DynamicCitySpotlight } from "@/components/dynamic-city-spotlight"
 
-import { generateCityMetadata, generateLocalBusinessStructuredData } from "@/lib/seo"
+import { generateCityMetadata, orgSchema, websiteSchema, citySchema, datasetSchema, newsArticleSchema } from "@/lib/seo"
 import { getCitiesByState } from "@/lib/data/cities"
 // Import new data loading system
 import { StateDataLoader } from "@/lib/data/state-loader"
+import { fetchGoogleNewsRSS, generateFallbackNews } from "@/lib/news"
 import { practiceAreaNameToSlug } from "@/lib/data/practice-areas-config"
 
 // Import new content enhancement components
@@ -101,6 +102,13 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
   // Generate accident statistics for this city
   const accidentStats = generateAccidentStats(city, state, paramState, cityLocation?.population)
+
+  // Fetch news articles server-side for rendering and schema generation
+  let newsItems = await fetchGoogleNewsRSS(city, state);
+  const isNewsFallback = newsItems.length === 0;
+  if (isNewsFallback) {
+    newsItems = generateFallbackNews(city, state);
+  }
 
   // Generate dynamic stats based on city population/name for uniqueness
   const generateDynamicStats = (cityName: string, population?: number) => {
@@ -209,16 +217,27 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     },
   ]
   // --- Enhanced SEO Structured Data ---
-
-  // --- Enhanced SEO Structured Data ---
-
   const pageUrl = `${baseUrl}/personal-injury-lawyer/${paramState}/${paramCity}`;
 
-  // 1. Fetch Centralized Schema (Organization, LegalService, WebPage)
-  const baseStructuredData = await generateLocalBusinessStructuredData(paramCity, baseUrl, paramState);
+  const stateConfig = await StateDataLoader.getStateConfig(paramState);
+  const stateCode = stateConfig?.abbreviation || paramState.toUpperCase().substring(0, 2);
+  const lat = cityLocation?.coordinates?.lat || cityLocation?.latitude;
+  const lng = cityLocation?.coordinates?.lng || cityLocation?.longitude;
 
-  // 2. FAQPage Schema (Local to this page's content)
+  // 1. Generate core schemas from the template specifications
+  const organizationSchemaObj = orgSchema();
+  const webSiteSchemaObj = websiteSchema();
+  const citySchemaObj = citySchema(city, state, stateCode, lat, lng);
+  const datasetSchemaObj = datasetSchema(city, state, stateCode, accidentStats);
+
+  // 2. Generate NewsArticle schemas for the server-fetched news
+  const newsArticleSchemas = newsItems.slice(0, 4).map(item => 
+    newsArticleSchema(city, item.link === '#' ? pageUrl : item.link, item.title, item.title, item.publishedAt)
+  );
+
+  // 3. FAQPage Schema (Local to this page's content)
   const faqSchema = {
+    "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": faqItems.map(item => ({
       "@type": "Question",
@@ -230,8 +249,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     }))
   };
 
-  // 3. BreadcrumbList Schema
+  // 4. BreadcrumbList Schema
   const breadcrumbSchema = {
+    "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       {
@@ -255,13 +275,16 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     ]
   };
 
-  // Merge schemas into the graph
-  if (baseStructuredData && (baseStructuredData as any)['@graph']) {
-    (baseStructuredData as any)['@graph'].push(faqSchema);
-    (baseStructuredData as any)['@graph'].push(breadcrumbSchema);
-  }
-
-  const allStructuredData = baseStructuredData;
+  // Combine into a clean flat array of self-contained schemas
+  const allStructuredData = [
+    organizationSchemaObj,
+    webSiteSchemaObj,
+    citySchemaObj,
+    datasetSchemaObj,
+    ...newsArticleSchemas,
+    faqSchema,
+    breadcrumbSchema
+  ];
 
   return (
     <AnalyticsProvider>
@@ -435,6 +458,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           state={state}
           citySlug={paramCity}
           stateSlug={paramState}
+          initialNews={newsItems}
+          initialIsFallback={isNewsFallback}
         />
 
         {/* Compensation Calculator */}

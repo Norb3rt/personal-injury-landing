@@ -11,6 +11,7 @@ import { AnalyticsProvider } from "@/components/analytics-provider"
 import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
 import { NationwideMapWrapper } from "@/components/nationwide-map-wrapper"
 import { StateDataLoader } from "@/lib/data/state-loader"
+import { orgSchema, websiteSchema } from "@/lib/seo"
 
 // Import animation components
 import {
@@ -35,6 +36,7 @@ export const metadata: Metadata = {
 
 export default async function HomePage() {
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
+  const schemas = [orgSchema(), websiteSchema()]
 
   // Fetch ALL active states for the map
   const states = await StateDataLoader.getAllStates()
@@ -165,6 +167,12 @@ export default async function HomePage() {
   return (
     <AnalyticsProvider>
       <div className="min-h-screen bg-white">
+        {/* Structured Data for SEO */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schemas) }}
+        />
+
         {/* Scroll Progress Bar */}
         <ScrollProgress />
 
