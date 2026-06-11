@@ -1,19 +1,19 @@
 export async function GET() {
-  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
+  const baseUrl = (process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com').replace(/\/$/, '')
   const lastmod = new Date().toISOString()
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>${baseUrl}/sitemap.xml</loc>
+    <loc>${baseUrl}/sitemap-main.xml</loc>
     <lastmod>${lastmod}</lastmod>
   </sitemap>
   <sitemap>
-    <loc>${baseUrl}/sitemap-cities.xml</loc>
+    <loc>${baseUrl}/sitemap-locations.xml</loc>
     <lastmod>${lastmod}</lastmod>
   </sitemap>
   <sitemap>
-    <loc>${baseUrl}/sitemap-subniches.xml</loc>
+    <loc>${baseUrl}/sitemap-categories.xml</loc>
     <lastmod>${lastmod}</lastmod>
   </sitemap>
 </sitemapindex>`
@@ -21,8 +21,7 @@ export async function GET() {
   return new Response(xml, {
     headers: {
       'Content-Type': 'application/xml',
-      'Cache-Control': 'public, max-age=3600, s-maxage=3600',
+      'Cache-Control': 'public, max-age=86400, s-maxage=86400',
     },
   })
 }
-
