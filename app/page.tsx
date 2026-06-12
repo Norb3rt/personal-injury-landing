@@ -643,9 +643,14 @@ export default async function HomePage() {
               and convert local searches into real clients.
             </p>
 
-            <p className="text-gray-400 mb-4 text-sm">
-              Attorney Advertising: LawProactive is not a law firm and does not provide legal advice. We provide legal document preparation services and maintain a publishing platform for attorney listings and digital marketing services. All listings are paid advertisements. LawProactive does not endorse, evaluate, assign, or refer attorneys. No attorney-client relationship is formed by using this website.
+            <p className="text-gray-400 mb-3 text-sm">
+              Attorney Advertising: LawProactive is not a law firm and does not provide legal advice. We provide ethical lead generation and digital marketing services for attorneys, including a publishing platform for attorney listings. All listings are paid advertisements. LawProactive does not endorse, evaluate, assign, or refer attorneys. No attorney-client relationship is formed by using this website.
             </p>
+
+            <p className="text-gray-400 mb-3 text-sm">
+              This page is part of our attorney marketing software platform. Visitors are potential clients actively seeking legal help. All consultations are handled directly by the advertising attorney.
+            </p>
+
             {/* Legal Links */}
             <div className="flex justify-center items-center gap-6 mb-4">
               <Link
@@ -663,7 +668,7 @@ export default async function HomePage() {
               </Link>
             </div>
 
-            <p className="text-gray-500 text-sm">© 2025 LawProactive. All rights reserved.</p>
+            <p className="text-gray-500 text-sm">© {new Date().getFullYear()} LawProactive. All rights reserved.</p>
           </div>
         </footer>
       </div>
