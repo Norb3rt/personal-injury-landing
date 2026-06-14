@@ -98,13 +98,17 @@ export class JSONAdapter implements DataAdapter {
 
     for (const item of jsonData) {
       if (item.city && item.landmark && item.population && item.slug) {
+        const lat = item.latitude !== undefined ? parseFloat(item.latitude) : undefined;
+        const lng = item.longitude !== undefined ? parseFloat(item.longitude) : undefined;
         locations.push({
           state: properStateName, // Dynamic state name based on file
           city: item.city,
           landmark: item.landmark,
           population: item.population,
           slug: item.slug,
-          coordinates: { lat: 0, lng: 0 } // Default coordinates
+          latitude: lat,
+          longitude: lng,
+          coordinates: lat !== undefined && lng !== undefined ? { lat, lng } : { lat: 0, lng: 0 }
         });
       }
     }
@@ -482,7 +486,8 @@ export class StateDataLoader {
 
   /**
    * Gets nearby cities in the same state for internal linking.
-   * Uses deterministic selection based on city name hash for consistent results.
+   * Uses real geographic coordinates to sort by distance (using Haversine distance).
+   * Falls back to deterministic selection if coordinates are not available.
    */
   static async getNearbyCities(
     stateSlug: string,
@@ -500,7 +505,52 @@ export class StateDataLoader {
 
         if (otherCities.length === 0) return [];
 
-        // Use a simple hash of the current city name for deterministic "random" selection
+        const currentCity = cities.find(c => this.slugify(c.city) === currentCitySlug);
+        
+        const hasCoordinates = currentCity && 
+          currentCity.latitude !== undefined && 
+          currentCity.longitude !== undefined &&
+          currentCity.latitude !== 0 &&
+          currentCity.longitude !== 0;
+
+        if (hasCoordinates) {
+          const lat1 = currentCity.latitude!;
+          const lon1 = currentCity.longitude!;
+
+          const getDistance = (lat2: number, lon2: number) => {
+            const R = 6371; // Earth's radius in km
+            const dLat = (lat2 - lat1) * Math.PI / 180;
+            const dLon = (lon2 - lon1) * Math.PI / 180;
+            const a = 
+              Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+              Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * 
+              Math.sin(dLon / 2) * Math.sin(dLon / 2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+            return R * c;
+          };
+
+          const sorted = otherCities
+            .map(c => {
+              const distance = c.latitude !== undefined && c.longitude !== undefined && c.latitude !== 0 && c.longitude !== 0
+                ? getDistance(c.latitude, c.longitude)
+                : Infinity;
+              return { city: c, distance };
+            })
+            .sort((a, b) => {
+              if (a.distance !== b.distance) {
+                return a.distance - b.distance;
+              }
+              // Tie-breaker
+              return a.city.city.localeCompare(b.city.city);
+            });
+
+          return sorted.slice(0, limit).map(item => ({
+            name: item.city.city,
+            slug: this.slugify(item.city.city)
+          }));
+        }
+
+        // Fallback to deterministic hash if no coordinates are found
         const hash = currentCitySlug.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
 
         // Shuffle based on hash (deterministic)

@@ -3,60 +3,80 @@
         "city": "Houston",
         "landmark": "Space Center Houston",
         "population": 2304580,
-        "slug": "houston"
+        "slug": "houston",
+        "latitude": 29.7652,
+        "longitude": -95.3657
     },
     {
         "city": "Dallas",
         "landmark": "Reunion Tower",
         "population": 1304379,
-        "slug": "dallas"
+        "slug": "dallas",
+        "latitude": 32.790439,
+        "longitude": -96.80439
     },
     {
         "city": "Austin",
         "landmark": "State Capitol",
         "population": 978908,
-        "slug": "austin"
+        "slug": "austin",
+        "latitude": 30.505972,
+        "longitude": -97.747187
     },
     {
         "city": "San Antonio",
         "landmark": "The Alamo",
         "population": 1547253,
-        "slug": "san-antonio"
+        "slug": "san-antonio",
+        "latitude": 29.644226,
+        "longitude": -98.312774
     },
     {
         "city": "Fort Worth",
         "landmark": "Fort Worth Stockyards",
         "population": 918915,
-        "slug": "fort-worth"
+        "slug": "fort-worth",
+        "latitude": 32.7469,
+        "longitude": -97.3268
     },
     {
         "city": "El Paso",
         "landmark": "Franklin Mountains State Park",
         "population": 695044,
-        "slug": "el-paso"
+        "slug": "el-paso",
+        "latitude": 31.758411,
+        "longitude": -106.478311
     },
     {
         "city": "Arlington",
         "landmark": "AT&T Stadium",
         "population": 394266,
-        "slug": "arlington"
+        "slug": "arlington",
+        "latitude": 32.6336,
+        "longitude": -97.1469
     },
     {
         "city": "Corpus Christi",
         "landmark": "USS Lexington Museum",
         "population": 326586,
-        "slug": "corpus-christi"
+        "slug": "corpus-christi",
+        "latitude": 27.794086,
+        "longitude": -97.402994
     },
     {
         "city": "Plano",
         "landmark": "Legacy West",
         "population": 285494,
-        "slug": "plano"
+        "slug": "plano",
+        "latitude": 33.054972,
+        "longitude": -96.736454
     },
     {
         "city": "Lubbock",
         "landmark": "Buddy Holly Center",
         "population": 258862,
-        "slug": "lubbock"
+        "slug": "lubbock",
+        "latitude": 33.586527,
+        "longitude": -101.860634
     }
 ]

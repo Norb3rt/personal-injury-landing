@@ -1,0 +1,52 @@
+# LawProactive Personal Injury Landing
+
+This project is a high-performance programmatic SEO (PSEO) landing page system built with Next.js (App Router) to generate localized content and connect personal injury victims with qualified attorneys across multiple United States territories.
+
+---
+
+## Tech Stack
+- **Framework**: Next.js 16 (React 19, Turbopack)
+- **Styling**: Tailwind CSS & Tailwind CSS Animate
+- **Animations**: Framer Motion
+- **Maps**: Leaflet (via React Leaflet)
+- **Validation**: Zod & React Hook Form
+- **Database / CRM Integrations**: Google Sheets API, Gmail API, Supabase
+
+---
+
+## Core Architecture
+
+### 1. Dynamic Routing & SSG
+All city and practice pages are generated statically using Next.js Static Site Generation (SSG) via `generateStaticParams`:
+- `/personal-injury-lawyer/[state]/[city]`: Core state/city landing pages.
+- `/personal-injury-lawyer/[state]/[city]/[practice]`: Sub-niche practice area landing pages (e.g., `car-accident`, `slip-and-fall`, `medical-malpractice`).
+
+### 2. Data Loader System (`lib/data/state-loader.ts`)
+- Manages state configurations (`data/metadata/states-config.json`) and loads location data.
+- **Hybrid Data Generation Strategy**:
+  - `full`: Loads all cities from a state (used for California).
+  - `major`: Loads only key major cities.
+  - `minimal`: Loads a small slice of primary locations.
+- **Location Files**: Coordinates, population, and landmark data are stored inside local JSON files:
+  - `data/states/california-cities.json`
+  - `data/states/arizona-cities.json`
+  - `data/states/texas-cities.json`
+  - `data/states/florida-cities.json`
+  - `data/states/new-york-cities.json`
+
+---
+
+## Key Features & Components
+
+- **Geographic Distance-Based "Nearby Cities" Linking** (`components/nearby-cities.tsx`):
+  Sorts other cities in the state based on physical proximity calculated using the **Haversine formula** on city coordinates (`latitude`, `longitude`). If coordinates are unavailable, falls back to a deterministic string hash selection for SSG page stability.
+- **Lawyer Assignment**: Dynamically resolves lawyers assigned to specific state/city territories via `/lib/get-lawyer-for-territory.ts`.
+- **Local Accident Statistics** (`components/accident-statistics.tsx`): Formats local statistics dynamically based on city metadata and state averages.
+- **Local News Aggregator** (`components/local-news.tsx`): Fetches localized Google News server-side using RSS feeds.
+- **Lead Capture** (`components/two-step-lead-modal.tsx`): High-converting multi-step lead capture modal.
+
+---
+
+## Developer Scripts
+- `scripts/enrich-coordinates.ts`: Downloads a US cities database and updates the state JSON files with latitude/longitude values.
+- `scripts/test-distance.ts`: Quick check utility to test nearby city distance sorting output for any city.

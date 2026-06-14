@@ -3,60 +3,80 @@
         "city": "Miami",
         "landmark": "Art Deco Historic District",
         "population": 442241,
-        "slug": "miami"
+        "slug": "miami",
+        "latitude": 25.779,
+        "longitude": -80.1982
     },
     {
         "city": "Tampa",
         "landmark": "Tampa Riverwalk",
         "population": 384959,
-        "slug": "tampa"
+        "slug": "tampa",
+        "latitude": 27.9428,
+        "longitude": -82.4549
     },
     {
         "city": "Orlando",
         "landmark": "Walt Disney World Resort",
         "population": 307573,
-        "slug": "orlando"
+        "slug": "orlando",
+        "latitude": 28.539882,
+        "longitude": -81.372668
     },
     {
         "city": "Jacksonville",
         "landmark": "Jacksonville Landing",
         "population": 949611,
-        "slug": "jacksonville"
+        "slug": "jacksonville",
+        "latitude": 30.0759,
+        "longitude": -81.5803
     },
     {
         "city": "St. Petersburg",
         "landmark": "Salvador Dalí Museum",
         "population": 258308,
-        "slug": "st-petersburg"
+        "slug": "st-petersburg",
+        "latitude": 27.7712264,
+        "longitude": -82.6340259
     },
     {
         "city": "Hialeah",
         "landmark": "Hialeah Park Racing & Casino",
         "population": 223109,
-        "slug": "hialeah"
+        "slug": "hialeah",
+        "latitude": 25.905,
+        "longitude": -80.3049
     },
     {
         "city": "Tallahassee",
         "landmark": "Florida State Capitol",
         "population": 194500,
-        "slug": "tallahassee"
+        "slug": "tallahassee",
+        "latitude": 30.428563,
+        "longitude": -84.259337
     },
     {
         "city": "Fort Lauderdale",
         "landmark": "Las Olas Boulevard",
         "population": 182760,
-        "slug": "fort-lauderdale"
+        "slug": "fort-lauderdale",
+        "latitude": 26.121561,
+        "longitude": -80.128778
     },
     {
         "city": "Port St. Lucie",
         "landmark": "Tradition Town Center",
         "population": 204851,
-        "slug": "port-st-lucie"
+        "slug": "port-st-lucie",
+        "latitude": 27.2939333,
+        "longitude": -80.3503283
     },
     {
         "city": "Cape Coral",
         "landmark": "Cape Coral Yacht Club",
         "population": 194016,
-        "slug": "cape-coral"
+        "slug": "cape-coral",
+        "latitude": 26.57746,
+        "longitude": -81.952243
     }
 ]

@@ -3,60 +3,80 @@
         "city": "New York City",
         "landmark": "Statue of Liberty",
         "population": 8336817,
-        "slug": "new-york-city"
+        "slug": "new-york-city",
+        "latitude": 40.7127281,
+        "longitude": -74.0060152
     },
     {
         "city": "Buffalo",
         "landmark": "Niagara Falls",
         "population": 278349,
-        "slug": "buffalo"
+        "slug": "buffalo",
+        "latitude": 42.896659,
+        "longitude": -78.884575
     },
     {
         "city": "Rochester",
         "landmark": "Strong National Museum of Play",
         "population": 211328,
-        "slug": "rochester"
+        "slug": "rochester",
+        "latitude": 43.1683,
+        "longitude": -77.6026
     },
     {
         "city": "Yonkers",
         "landmark": "Hudson River Museum",
         "population": 211569,
-        "slug": "yonkers"
+        "slug": "yonkers",
+        "latitude": 40.940716,
+        "longitude": -73.888317
     },
     {
         "city": "Syracuse",
         "landmark": "Carrier Dome",
         "population": 148620,
-        "slug": "syracuse"
+        "slug": "syracuse",
+        "latitude": 43.0459,
+        "longitude": -76.1528
     },
     {
         "city": "Albany",
         "landmark": "New York State Capitol",
         "population": 97856,
-        "slug": "albany"
+        "slug": "albany",
+        "latitude": 42.6525,
+        "longitude": -73.7566
     },
     {
         "city": "New Rochelle",
         "landmark": "Thomas Paine Cottage",
         "population": 79726,
-        "slug": "new-rochelle"
+        "slug": "new-rochelle",
+        "latitude": 40.916628,
+        "longitude": -73.787729
     },
     {
         "city": "Mount Vernon",
         "landmark": "St. Paul's Church National Historic Site",
         "population": 67292,
-        "slug": "mount-vernon"
+        "slug": "mount-vernon",
+        "latitude": 40.907863,
+        "longitude": -73.837961
     },
     {
         "city": "Schenectady",
         "landmark": "Proctors Theatre",
         "population": 65273,
-        "slug": "schenectady"
+        "slug": "schenectady",
+        "latitude": 42.8155,
+        "longitude": -73.9395
     },
     {
         "city": "Utica",
         "landmark": "Munson-Williams-Proctor Arts Institute",
         "population": 65283,
-        "slug": "utica"
+        "slug": "utica",
+        "latitude": 43.087112,
+        "longitude": -75.231463
     }
 ]
