@@ -5,6 +5,7 @@ import "./globals.css"
 import { Toaster } from "@/components/ui/toaster"
 import { Analytics } from "@vercel/analytics/react"
 import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Footer } from "@/components/footer"
 // AuthProvider removed - not needed for production
 
 const inter = Inter({ subsets: ["latin"] })
@@ -74,6 +75,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         {children}
+        <Footer />
         <Toaster />
         <Analytics />
         <SpeedInsights />
