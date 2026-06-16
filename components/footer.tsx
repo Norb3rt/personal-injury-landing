@@ -12,13 +12,26 @@ export function Footer() {
           and convert local searches into real clients.
         </p>
 
-        <p className="text-gray-400 mb-3 text-sm">
-          Attorney Advertising: LawProactive is not a law firm and does not provide legal advice. We provide legal document preparation services, ethical lead generation, and digital marketing services for attorneys, including a publishing platform for attorney listings. All listings are paid advertisements. LawProactive does not endorse, evaluate, assign, or refer attorneys. No attorney-client relationship is formed by using this website.
-        </p>
-
-        <p className="text-gray-400 mb-3 text-sm">
-          This page is part of our attorney marketing software platform. Visitors are potential clients actively seeking legal help. All consultations are handled directly by the advertising attorney.
-        </p>
+        <div className="max-w-4xl mx-auto text-gray-400 text-xs leading-relaxed space-y-4 mb-8">
+          <h4 className="text-xs uppercase tracking-wider font-semibold text-gray-300">
+            Attorney Advertising
+          </h4>
+          <p>
+            LawProactive is an advertising platform. It is not a law firm, does not practice law, does not provide legal advice, and is not a lawyer referral service. LawProactive does not endorse, recommend, refer, or select any attorney, and does not evaluate, vouch for, or guarantee the qualifications, competence, or quality of any attorney or law firm. All listings are paid advertisements. The advertising attorney or law firm is solely responsible for the content and claims in its own listing and for compliance with the advertising rules of its jurisdiction.
+          </p>
+          <p>
+            No legal advice is provided through this site. The information here is general and informational only. Using this site, submitting an inquiry, or contacting an advertiser through this site does not create an attorney-client relationship with LawProactive or any attorney. An attorney-client relationship is formed only when an attorney confirms it in a signed written agreement.
+          </p>
+          <p>
+            Choosing an attorney is an important decision that should not be based solely on advertising. Any results, ratings, awards, or recognitions shown in a listing reflect only the advertiser's own statements and are not a promise or prediction about your matter; prior results do not guarantee a similar outcome. Advertising attorneys are licensed only in the jurisdictions identified in their listings, and the responsible attorney's name and office location are stated in each listing.
+          </p>
+          <p>
+            California residents: This is an advertisement, not a referral. The attorney or law firm responsible for each listing is identified within that listing.
+          </p>
+          <p>
+            New Jersey residents: No aspect of this advertisement has been approved by the Supreme Court of New Jersey.
+          </p>
+        </div>
 
         {/* Legal Links */}
         <div className="flex justify-center items-center gap-6 mb-4">
