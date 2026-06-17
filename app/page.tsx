@@ -121,24 +121,24 @@ export default async function HomePage() {
     {
       name: "Sarah M.",
       location: "California",
-      case: "Car Accident",
-      settlement: "$150,000",
+      case: "Former User",
+      settlement: "Confidential",
       quote: "I didn't know where to start after my accident, but this site helped me get in touch with a lawyer who could help.",
       rating: 5,
     },
     {
       name: "Michael R.",
       location: "Texas",
-      case: "Workplace Injury",
-      settlement: "$420,000",
+      case: "Former User",
+      settlement: "Confidential",
       quote: "The process was fast and simple. I got a free consultation the same day I submitted my info.",
       rating: 5,
     },
     {
       name: "Jennifer L.",
       location: "Florida",
-      case: "Slip & Fall",
-      settlement: "$85,000",
+      case: "Former User",
+      settlement: "Confidential",
       quote: "Highly recommended. Connected me with a local attorney who really fought for me.",
       rating: 5,
     },
@@ -413,30 +413,30 @@ export default async function HomePage() {
               <StaggerItem>
                 <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
                   <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={300} suffix="+" />
+                    <AnimatedNumber value={95} suffix="%" />
                   </div>
-                  <p className="text-gray-700 font-semibold">Active Attorneys</p>
-                  <p className="text-sm text-gray-600 mt-1">in Our Network (and growing)</p>
+                  <p className="text-gray-700 font-semibold">Of Injury Cases Settle Out of Court</p>
+                  <p className="text-sm text-gray-600 mt-1">Most injury claims are resolved through negotiation rather than a courtroom trial.</p>
                 </div>
               </StaggerItem>
 
               <StaggerItem>
                 <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
                   <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={250} suffix="+" />
+                    <AnimatedNumber value={73} suffix="%" />
                   </div>
-                  <p className="text-gray-700 font-semibold">Years Combined Experience</p>
-                  <p className="text-sm text-gray-600 mt-1">Serving local communities</p>
+                  <p className="text-gray-700 font-semibold">Accept the First Insurance Offer</p>
+                  <p className="text-sm text-gray-600 mt-1">First offers are often 40 to 60% lower than a claim&apos;s full value.</p>
                 </div>
               </StaggerItem>
 
               <StaggerItem>
                 <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
                   <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={100} prefix="$" suffix="M+" />
+                    <AnimatedNumber value={72} suffix=" Hours" />
                   </div>
-                  <p className="text-gray-700 font-semibold">Reported Recoveries Across Our Legal Network</p>
-                  <p className="text-sm text-gray-600 mt-1">Self-reported by participating attorneys.</p>
+                  <p className="text-gray-700 font-semibold">Critical Window to Preserve Evidence</p>
+                  <p className="text-sm text-gray-600 mt-1">Surveillance footage, witness statements, and scene details can disappear within days.</p>
                 </div>
               </StaggerItem>
             </StaggerContainer>
