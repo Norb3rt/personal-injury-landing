@@ -39,7 +39,7 @@ export function CityGoogleMap({ cityName, stateName, latitude, longitude }: City
 
                         <FadeIn direction="right" delay={0.2}>
                             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight leading-tight">
-                                Serving injury in <span className="text-teal-600">{cityName}</span> & Surrounding Communities
+                                Serving Injury Victims in <span className="text-teal-600">{cityName}</span> & Surrounding Communities
                             </h2>
                         </FadeIn>
 
