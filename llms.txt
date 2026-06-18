@@ -8,7 +8,7 @@ This project is a high-performance programmatic SEO (PSEO) landing page system b
 - **Framework**: Next.js 16 (React 19, Turbopack)
 - **Styling**: Tailwind CSS & Tailwind CSS Animate
 - **Animations**: Framer Motion
-- **Maps**: Leaflet (via React Leaflet)
+- **Maps**: Leaflet (via React Leaflet) for the homepage nationwide map, and free embedded Google Maps for programmatic city-level landing pages
 - **Validation**: Zod & React Hook Form
 - **Database / CRM Integrations**: Google Sheets API, Gmail API, Supabase
 
@@ -44,6 +44,7 @@ All city and practice pages are generated statically using Next.js Static Site G
 - **Local Accident Statistics** (`components/accident-statistics.tsx`): Formats local statistics dynamically based on city metadata and state averages.
 - **Local News Aggregator** (`components/local-news.tsx`): Fetches localized Google News server-side using RSS feeds.
 - **Lead Capture** (`components/two-step-lead-modal.tsx`): High-converting multi-step lead capture modal.
+- **Embedded Google Maps for City Pages** (`components/city-google-map.tsx`): Renders a responsive, SEO-optimized, free-tier embedded Google Map pinpointing each specific city and state location to enhance local search ranking. Includes localized legal-disclaimer-aligned copy and lazy loading to protect performance.
 
 ---
 
