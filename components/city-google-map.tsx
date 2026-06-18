@@ -39,7 +39,7 @@ export function CityGoogleMap({ cityName, stateName, latitude, longitude }: City
 
                         <FadeIn direction="right" delay={0.2}>
                             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight leading-tight">
-                                Serving <span className="text-teal-600">{cityName}</span> & Surrounding Communities
+                                Serving injury in <span className="text-teal-600">{cityName}</span> & Surrounding Communities
                             </h2>
                         </FadeIn>
 
@@ -57,7 +57,7 @@ export function CityGoogleMap({ cityName, stateName, latitude, longitude }: City
                                         <Shield className="h-4 w-4" />
                                     </div>
                                     <div>
-                                        <p className="text-sm font-semibold text-gray-800">No Win, No Fee Guarantee</p>
+                                        <p className="text-sm font-semibold text-gray-800">No Win, No Fee</p>
                                         <p className="text-xs text-gray-500">Attorneys serving {cityName} work on contingency — you pay nothing unless they win your case.</p>
                                     </div>
                                 </div>
