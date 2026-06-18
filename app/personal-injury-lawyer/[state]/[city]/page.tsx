@@ -25,6 +25,7 @@ import { LocalResources } from "@/components/local-resources"
 import { AccidentStatistics } from "@/components/accident-statistics"
 import { LocalNews } from "@/components/local-news"
 import { CompensationCalculator } from "@/components/compensation-calculator"
+import { CityGoogleMap } from "@/components/city-google-map"
 // Import territory / lawyer cards
 import { LawyerTerritoryCard } from "@/components/lawyers/lawyer-territory-card"
 import { TerritoryAvailableCard } from "@/components/lawyers/territory-available-card"
@@ -903,6 +904,14 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           cityName={city}
           stateName={state}
           landmark={cityData.localStats.landmark}
+        />
+
+        {/* City Google Map Section */}
+        <CityGoogleMap
+          cityName={city}
+          stateName={state}
+          latitude={lat}
+          longitude={lng}
         />
 
         {/* Nearby Cities Section */}
