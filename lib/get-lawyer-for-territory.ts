@@ -1,4 +1,5 @@
 import { supabaseServer } from '@/lib/supabase-server'
+import { StateDataLoader } from '@/lib/data/state-loader'
 
 export interface LawyerPublicProfile {
   name: string | null
@@ -20,6 +21,9 @@ export async function getLawyerForTerritory(
   paramCity: string
 ): Promise<LawyerPublicProfile | null> {
   try {
+    const stateConfig = await StateDataLoader.getStateConfig(paramState)
+    const stateAbbr = stateConfig?.abbreviation || paramState
+
     const { data, error } = await supabaseServer
       .from('territory_subscriptions')
       .select(`
@@ -36,7 +40,7 @@ export async function getLawyerForTerritory(
         )
       `)
       .eq('cities.slug', paramCity)
-      .ilike('cities.state', paramState)
+      .ilike('cities.state', stateAbbr)
       .in('status', ['active', 'trialing'])
       .limit(1)
       .maybeSingle()

@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { supabaseServer } from '@/lib/supabase-server'
+import { StateDataLoader } from '@/lib/data/state-loader'
 
 // Cache response for 1 hour — updates automatically when lawyers rent/cancel
 export const revalidate = 3600
@@ -14,6 +15,9 @@ export async function GET(req: NextRequest) {
   }
 
   try {
+    const stateConfig = await StateDataLoader.getStateConfig(stateParam)
+    const stateAbbr = stateConfig?.abbreviation || stateParam
+
     // Query: find the active/trialing subscription for this city slug + state
     // Using service_role_key so RLS doesn't block us
     const { data, error } = await supabaseServer
@@ -32,7 +36,7 @@ export async function GET(req: NextRequest) {
         )
       `)
       .eq('cities.slug', cityParam)
-      .ilike('cities.state', stateParam)
+      .ilike('cities.state', stateAbbr)
       .in('status', ['active', 'trialing'])
       .limit(1)
       .maybeSingle()
