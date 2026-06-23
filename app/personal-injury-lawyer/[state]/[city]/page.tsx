@@ -49,6 +49,8 @@ import {
 } from "@/components/animations"
 
 
+export const dynamic = 'force-dynamic'
+
 interface PageProps {
   params: Promise<{
     state: string

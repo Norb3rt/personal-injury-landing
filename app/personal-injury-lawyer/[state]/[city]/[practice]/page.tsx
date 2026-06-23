@@ -31,6 +31,8 @@ import { LawyerTerritoryCard } from "@/components/lawyers/lawyer-territory-card"
 import { TerritoryAvailableCard } from "@/components/lawyers/territory-available-card"
 import { getLawyerForTerritory } from "@/lib/get-lawyer-for-territory"
 
+export const dynamic = 'force-dynamic'
+
 interface PageProps {
   params: Promise<{
     state: string
