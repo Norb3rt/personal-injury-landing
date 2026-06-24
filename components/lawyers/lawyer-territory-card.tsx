@@ -44,7 +44,7 @@ export function LawyerTerritoryCard({ lawyer, city, state }: LawyerTerritoryCard
               }}
             >
               <Shield className="h-4 w-4" />
-              Exclusive Territory Attorney — {city}, {state}
+              Exclusive Territory Responsible Attorney — {city}, {state}
             </span>
           </div>
 
