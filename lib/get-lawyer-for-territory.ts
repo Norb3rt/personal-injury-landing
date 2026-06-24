@@ -5,6 +5,11 @@ export interface LawyerPublicProfile {
   name: string | null
   location: string | null
   barNumber: string | null
+  streetAddress?: string | null
+  suiteUnit?: string | null
+  city?: string | null
+  state?: string | null
+  zipCode?: string | null
 }
 
 /**
@@ -36,7 +41,12 @@ export async function getLawyerForTerritory(
           first_name,
           last_name,
           location,
-          bar_number
+          bar_number,
+          street_address,
+          suite_unit,
+          city,
+          state,
+          zip_code
         )
       `)
       .eq('cities.slug', paramCity)
@@ -52,6 +62,11 @@ export async function getLawyerForTerritory(
       name:      `${user.first_name ?? ''} ${user.last_name ?? ''}`.trim() || null,
       location:  user.location   ?? null,
       barNumber: user.bar_number ?? null,
+      streetAddress: user.street_address ?? null,
+      suiteUnit: user.suite_unit ?? null,
+      city: user.city ?? null,
+      state: user.state ?? null,
+      zipCode: user.zip_code ?? null,
     }
   } catch {
     return null

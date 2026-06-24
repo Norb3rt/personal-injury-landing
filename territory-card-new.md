@@ -1,4 +1,4 @@
-Responsible Attorney
+
 
 [Full Attorney Name]
 State Bar No. [BAR NUMBER]

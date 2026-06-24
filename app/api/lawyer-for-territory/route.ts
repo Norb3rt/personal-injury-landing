@@ -32,7 +32,12 @@ export async function GET(req: NextRequest) {
           first_name,
           last_name,
           location,
-          bar_number
+          bar_number,
+          street_address,
+          suite_unit,
+          city,
+          state,
+          zip_code
         )
       `)
       .eq('cities.slug', cityParam)
@@ -57,6 +62,11 @@ export async function GET(req: NextRequest) {
         name:      `${user.first_name ?? ''} ${user.last_name ?? ''}`.trim() || null,
         location:  user.location   ?? null,
         barNumber: user.bar_number ?? null,
+        streetAddress: user.street_address ?? null,
+        suiteUnit: user.suite_unit ?? null,
+        city: user.city ?? null,
+        state: user.state ?? null,
+        zipCode: user.zip_code ?? null,
       }
     })
 

@@ -162,7 +162,21 @@ export function ViewLawyerDialog({ lawyer, open, onOpenChange }: ViewLawyerDialo
                   </div>
                 )}
 
-                {lawyer.location && (
+                 {(lawyer.street_address || lawyer.city || lawyer.state || lawyer.zip_code) ? (
+                  <div className="flex items-start space-x-3">
+                    <MapPin className="h-5 w-5 text-muted-foreground mt-0.5" />
+                    <div>
+                      <p className="text-sm font-medium">Office Address</p>
+                      <p className="text-sm text-muted-foreground">
+                        {lawyer.street_address}
+                        {lawyer.suite_unit && `, ${lawyer.suite_unit}`}
+                        <br />
+                        {lawyer.city && `${lawyer.city}, `}
+                        {lawyer.state} {lawyer.zip_code}
+                      </p>
+                    </div>
+                  </div>
+                ) : lawyer.location ? (
                   <div className="flex items-start space-x-3">
                     <MapPin className="h-5 w-5 text-muted-foreground mt-0.5" />
                     <div>
@@ -170,7 +184,7 @@ export function ViewLawyerDialog({ lawyer, open, onOpenChange }: ViewLawyerDialo
                       <p className="text-sm text-muted-foreground">{lawyer.location}</p>
                     </div>
                   </div>
-                )}
+                ) : null}
               </div>
             </CardContent>
           </Card>

@@ -85,12 +85,23 @@ export function LawyerTerritoryCard({ lawyer, city, state }: LawyerTerritoryCard
               )}
 
               {/* Address / Location */}
-              {lawyer.location && (
+              {(lawyer.streetAddress || lawyer.city || lawyer.state || lawyer.zipCode) ? (
+                <div className="flex items-start justify-center sm:justify-start gap-2">
+                  <MapPin className="h-4 w-4 flex-shrink-0 mt-0.5" style={{ color: "#0B6B65" }} />
+                  <span className="text-sm text-gray-600 leading-snug">
+                    {lawyer.streetAddress}
+                    {lawyer.suiteUnit && `, ${lawyer.suiteUnit}`}
+                    <br />
+                    {lawyer.city && `${lawyer.city}, `}
+                    {lawyer.state} {lawyer.zipCode}
+                  </span>
+                </div>
+              ) : lawyer.location ? (
                 <div className="flex items-start justify-center sm:justify-start gap-2">
                   <MapPin className="h-4 w-4 flex-shrink-0 mt-0.5" style={{ color: "#0B6B65" }} />
                   <span className="text-sm text-gray-600 leading-snug">{lawyer.location}</span>
                 </div>
-              )}
+              ) : null}
             </div>
 
             {/* CTA — same orange #e06e00 as every other button on the landing */}
