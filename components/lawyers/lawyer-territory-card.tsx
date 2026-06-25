@@ -1,14 +1,21 @@
 "use client"
 
-import { Shield, MapPin, FileText } from "lucide-react"
+import { useState } from "react"
+import { Shield, MapPin, FileText, ChevronDown } from "lucide-react"
 import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
 import { Button } from "@/components/ui/button"
 import { FadeIn } from "@/components/animations"
+import { cn } from "@/lib/utils"
 
 export interface LawyerPublicProfile {
   name: string | null
   location: string | null
   barNumber: string | null
+  streetAddress?: string | null
+  suiteUnit?: string | null
+  city?: string | null
+  state?: string | null
+  zipCode?: string | null
 }
 
 interface LawyerTerritoryCardProps {
@@ -18,6 +25,8 @@ interface LawyerTerritoryCardProps {
 }
 
 export function LawyerTerritoryCard({ lawyer, city, state }: LawyerTerritoryCardProps) {
+  const [isOpen, setIsOpen] = useState(false)
+
   // Generate avatar initials from the lawyer's name
   const initials = (lawyer.name ?? "")
     .split(" ")
@@ -50,11 +59,11 @@ export function LawyerTerritoryCard({ lawyer, city, state }: LawyerTerritoryCard
 
           {/* ── Card ── */}
           <div
-            className="bg-white rounded-2xl shadow-lg border p-6
-                       flex flex-col sm:flex-row items-center sm:items-start gap-6
+            className="bg-white rounded-2xl shadow-lg border
                        transition-all duration-300 hover:shadow-xl"
             style={{ borderColor: "#b2dbd8" }}
           >
+            <div className="p-6 flex flex-col sm:flex-row items-center sm:items-start gap-6">
             {/* Avatar */}
             <div
               className="flex-shrink-0 w-16 h-16 rounded-full flex items-center justify-center
@@ -120,6 +129,34 @@ export function LawyerTerritoryCard({ lawyer, city, state }: LawyerTerritoryCard
                 city={city}
                 state={state}
               />
+            </div>
+          </div>
+
+          {/* Disclaimer & Disclosure Section */}
+            <div className="px-6 py-4 bg-gray-50 border-t rounded-b-2xl text-xs text-gray-500 space-y-2">
+              <p className="leading-relaxed font-medium text-gray-600 text-center sm:text-left">
+                This advertisement is paid for and the sole responsibility of the above attorney/firm.
+              </p>
+              
+              <div className="flex justify-center sm:justify-start">
+                <button
+                  onClick={() => setIsOpen(!isOpen)}
+                  className="inline-flex items-center gap-1 font-semibold hover:opacity-85 transition-opacity focus:outline-none"
+                  style={{ color: "#0B6B65" }}
+                >
+                  <span>{isOpen ? "Hide full disclosures" : "View full disclosures"}</span>
+                  <ChevronDown className={cn("h-3.5 w-3.5 transition-transform duration-200", isOpen && "rotate-180")} />
+                </button>
+              </div>
+
+              <div 
+                className={cn(
+                  "overflow-hidden transition-all duration-300 ease-in-out text-gray-500 leading-relaxed text-[11px] text-center sm:text-left",
+                  isOpen ? "max-h-[500px] opacity-100 mt-2 border-t pt-2 border-gray-200" : "max-h-0 opacity-0 pointer-events-none"
+                )}
+              >
+                This is an advertisement. LawProactive is not a law firm and does not provide legal services or referrals. No attorney-client relationship is formed by contacting us or viewing this page. Results are not guaranteed. All cases are handled directly by the responsible attorney shown above. For license verification, visit the State Bar of California. Prior results do not guarantee a similar outcome. This communication is not a substitute for legal advice.
+              </div>
             </div>
           </div>
 
