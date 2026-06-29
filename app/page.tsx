@@ -121,24 +121,24 @@ export default async function HomePage() {
     {
       name: "Sarah M.",
       location: "California",
-      case: "Former User",
-      settlement: "Confidential",
+      case: "Beta",
+      settlement: "Tester",
       quote: "I didn't know where to start after my accident, but this site helped me get in touch with a lawyer who could help.",
       rating: 5,
     },
     {
       name: "Michael R.",
       location: "Texas",
-      case: "Former User",
-      settlement: "Confidential",
+      case: "Beta",
+      settlement: "Tester",
       quote: "The process was fast and simple. I got a free consultation the same day I submitted my info.",
       rating: 5,
     },
     {
       name: "Jennifer L.",
       location: "Florida",
-      case: "Former User",
-      settlement: "Confidential",
+      case: "Beta",
+      settlement: "Tester",
       quote: "Highly recommended. Connected me with a local attorney who really fought for me.",
       rating: 5,
     },
@@ -398,12 +398,12 @@ export default async function HomePage() {
             <div className="text-center mb-12">
               <FadeIn direction="up" delay={0.1}>
                 <h2 className="text-3xl md:text-4xl font-bold mb-6 text-green-800">
-                  We Make It Simple to Get Maximum Compensation.
+                  We Make It Simple to Find the Right Personal Injury Lawyer.
                 </h2>
               </FadeIn>
               <FadeIn direction="up" delay={0.2}>
                 <p className="text-xl mb-8 text-gray-700 max-w-4xl mx-auto">
-                  Our network fights for every dollar you&apos;re owed. You pay nothing unless you win.
+                  Connect with personal injury lawyers serving all 50 states. No attorney&apos;s fee unless your case results in a recovery. Court costs and case expenses may apply.
                 </p>
               </FadeIn>
             </div>
@@ -504,8 +504,8 @@ export default async function HomePage() {
                       <AnimatedNumber value={3} />
                     </div>
                   </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Collect Your Compensation</h3>
-                  <p className="text-gray-600">Pay nothing out of pocket. Fees come from your settlement.</p>
+                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Resolve Your Claim</h3>
+                  <p className="text-gray-600">No attorney&apos;s fee unless there&apos;s a recovery. Court costs and case expenses may apply.</p>
                 </div>
               </StaggerItem>
             </StaggerContainer>

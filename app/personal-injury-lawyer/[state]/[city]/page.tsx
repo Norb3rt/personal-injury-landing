@@ -147,8 +147,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     {
       name: "",
       location: `${city}, ${state}`,
-      case: "Former User",
-      settlement: "Confidential",
+      case: "Beta",
+      settlement: "Tester",
       quote:
         `This platform made it easy to find a personal injury lawyer near ${cityLocation?.landmark || 'me'}. I was contacted within minutes.`,
       rating: 5,
@@ -156,8 +156,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     {
       name: "",
       location: `${city}, ${state}`,
-      case: "Former User",
-      settlement: "Confidential",
+      case: "Beta",
+      settlement: "Tester",
       quote:
         "I didn't know where to start after my accident, but this site helped me get in touch with a lawyer who could help",
       rating: 5,
@@ -165,8 +165,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     {
       name: "",
       location: `${city}, ${state}`,
-      case: "Former User",
-      settlement: "Confidential",
+      case: "Beta",
+      settlement: "Tester",
       quote:
         "The process was fast and simple. I got a free consultation the same day I submitted my info.",
       rating: 5,
@@ -534,13 +534,13 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             <div className="text-center mb-12">
               <FadeIn direction="up" delay={0.1}>
                 <h2 className="text-3xl md:text-4xl font-bold mb-6 text-green-800">
-                  We Make It Simple to Get Maximum Compensation.
+                  We Make It Simple to Find the Right Personal Injury Lawyer.
                 </h2>
               </FadeIn>
               <FadeIn direction="up" delay={0.2}>
                 <p className="text-xl mb-8 text-gray-700 max-w-4xl mx-auto">
-                  Our network of personal injury lawyers in {city} fights for every dollar you&apos;re owed. You pay
-                  nothing unless you win.
+                  Connect with personal injury lawyers serving {city}.
+                  No attorney&apos;s fee unless your case results in a recovery. Court costs and case expenses may apply.
                 </p>
               </FadeIn>
             </div>
@@ -641,8 +641,8 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       <AnimatedNumber value={3} />
                     </div>
                   </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Collect Your Compensation</h3>
-                  <p className="text-gray-600">Pay nothing out of pocket. Fees come from your settlement.</p>
+                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Resolve Your Claim</h3>
+                  <p className="text-gray-600">No attorney&apos;s fee unless there&apos;s a recovery. Court costs and case expenses may apply.</p>
                 </div>
               </StaggerItem>
             </StaggerContainer>
@@ -672,14 +672,17 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold mb-6 text-yellow-800">
                 <GlowEffect glowColor="rgba(234, 179, 8, 0.3)">
-                  No Recovery, No Fee — Ever.
+                  No Recovery, No Attorney&apos;s Fee.
                 </GlowEffect>
               </h2>
             </FadeIn>
 
             <FadeIn direction="up" delay={0.2}>
-              <p className="text-xl text-gray-700 mb-8">
-                You&apos;ll never pay upfront. Our partner attorneys only get paid if they win your case.
+              <p className="text-xl text-gray-700 mb-4">
+                There&apos;s no upfront attorney&apos;s fee. Participating attorneys are paid only from any recovery obtained in your case.
+              </p>
+              <p className="text-xs text-gray-700 mb-8 italic">
+                *No attorney&apos;s fee unless there is a recovery. The client may be responsible for court costs and case expenses.
               </p>
             </FadeIn>
 
@@ -688,7 +691,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                 <TwoStepLeadModal
                   trigger={
                     <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#e06e00' }}>
-                      Risk-Free Consultation
+                      Free Case Review
                     </Button>
                   }
                   source="risk-reversal"

@@ -58,7 +58,7 @@ export function CityGoogleMap({ cityName, stateName, latitude, longitude }: City
                                     </div>
                                     <div>
                                         <p className="text-sm font-semibold text-gray-800">No Win, No Fee</p>
-                                        <p className="text-xs text-gray-500">Attorneys serving {cityName} work on contingency — you pay nothing unless they win your case.</p>
+                                        <p className="text-xs text-gray-500">Attorneys serving {cityName} work on contingency — No Recovery, No Attorney’s Fee.</p>
                                     </div>
                                 </div>
                                 <div className="flex items-start gap-3">
@@ -70,6 +70,7 @@ export function CityGoogleMap({ cityName, stateName, latitude, longitude }: City
                                         <p className="text-xs text-gray-500">Request a free case review from a {stateName}-licensed attorney — anytime, day or night.</p>
                                     </div>
                                 </div>
+                                <p className="text-xs text-gray-500 italic">*No attorney&apos;s fee unless there is a recovery. The client may be responsible for court costs and case expenses.</p>
                             </div>
                         </FadeIn>
 
