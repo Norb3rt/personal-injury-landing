@@ -60,7 +60,7 @@ export function TerritoryAvailableCard({ city, state }: TerritoryAvailableCardPr
                   <div className="flex flex-wrap justify-center gap-4 mb-7 text-sm text-gray-500">
                     <span className="flex items-center gap-1.5">
                       <span className="w-2 h-2 rounded-full bg-green-500 inline-block" />
-                      No Win, No Fee
+                      No Recovery, No Fee*
                     </span>
                     <span className="flex items-center gap-1.5">
                       <span className="w-2 h-2 rounded-full bg-green-500 inline-block" />

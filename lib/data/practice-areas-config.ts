@@ -20,11 +20,11 @@ export interface PracticeArea {
 
 export const PRACTICE_AREAS: PracticeArea[] = [
   {
-    name: "Car Accidents",
+    name: "Car Accident",
     slug: "car-accident",
     icon: "🚗",
     description: "Get compensation for vehicle collisions and injuries",
-    longDescription: "Car accidents can result in serious injuries, property damage, and financial hardship. Our network of experienced attorneys helps victims recover compensation for medical bills, lost wages, pain and suffering, and vehicle repairs. Whether you were hit by a distracted driver, rear-ended, or involved in a multi-vehicle collision, we can connect you with legal experts who understand the complexities of auto accident claims.",
+    longDescription: "Car accidents can result in serious injuries, property damage, and financial hardship. We help accident victims pursue compensation for medical bills, lost wages, pain and suffering, and vehicle repairs. Whether you were hit by a distracted driver, rear-ended, or involved in a multi-vehicle collision, we understand the complexities of auto accident claims and are here to guide you through every step.",
     keywords: [
       "car accident lawyer",
       "auto accident attorney",

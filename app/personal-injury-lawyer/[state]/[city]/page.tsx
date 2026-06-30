@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
-import { Phone, Mail, MapPin, Star, Shield, Clock, DollarSign, FileText, Users } from "lucide-react"
+import { Phone, Mail, MapPin, Star, Shield, Clock, FileText, Users, Handshake, Scale } from "lucide-react"
 import Link from "next/link"
 import type { Metadata } from "next"
 import { notFound } from 'next/navigation'
@@ -350,7 +350,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   trigger={
                     <Button
                       size="lg"
-                      className="text-white font-bold text-lg px-8 py-4 mb-8 shadow-2xl hover:opacity-90"
+                      className="text-white font-bold text-lg px-8 py-4 mb-2 shadow-2xl hover:opacity-90"
                       style={{ backgroundColor: '#e06e00' }}
                     >
                       Get a Free Case Review
@@ -361,22 +361,25 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   state={state}
                 />
               </AnimatedButton>
+              <p className="text-xs text-blue-200/80 mt-2 mb-8 italic max-w-lg mx-auto">
+                *No attorney&apos;s fee unless there is a recovery. The client may be responsible for court costs and case expenses.
+              </p>
             </FadeIn>
 
             <StaggerContainer staggerDelay={0.05} className="flex flex-wrap justify-center items-center gap-6 text-sm">
               <StaggerItem>
                 <GlowEffect glowColor="rgba(224, 110, 0, 0.3)">
                   <div className="flex items-center gap-2">
-                    <DollarSign className="h-5 w-5" style={{ color: '#e06e00' }} />
-                    <span>Millions Recovered</span>
+                    <Scale className="h-5 w-5" style={{ color: '#e06e00' }} />
+                    <span>Local Attorney</span>
                   </div>
                 </GlowEffect>
               </StaggerItem>
               <StaggerItem>
                 <GlowEffect glowColor="rgba(224, 110, 0, 0.3)">
                   <div className="flex items-center gap-2">
-                    <Shield className="h-5 w-5" style={{ color: '#e06e00' }} />
-                    <span>No Win, No Fee</span>
+                    <Handshake className="h-5 w-5" style={{ color: '#e06e00' }} />
+                    <span>No Recovery, No Fee*</span>
                   </div>
                 </GlowEffect>
               </StaggerItem>

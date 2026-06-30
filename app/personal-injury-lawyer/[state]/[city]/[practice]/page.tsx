@@ -230,31 +230,35 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                 </p>
               </FadeIn>
 
-              <FadeIn direction="up" delay={0.5}>
+               <FadeIn direction="up" delay={0.5}>
                 <AnimatedButton magneticStrength={0.2} hoverScale={1.05}>
                   <TwoStepLeadModal
                     trigger={
                       <Button
                         size="lg"
-                        className="text-white font-bold text-lg px-8 py-4 mb-8 shadow-2xl hover:opacity-90"
+                        className="text-white font-bold text-lg px-8 py-4 mb-2 shadow-2xl hover:opacity-90"
                         style={{ backgroundColor: '#e06e00' }}
                       >
                         Get a Free Case Review
                       </Button>
                     }
+                    
                     source={`hero-${practice}`}
                     city={city}
                     state={state}
                     caseType={practiceArea.name}
                   />
                 </AnimatedButton>
+                <p className="text-xs text-blue-200/80 mt-2 mb-8 italic max-w-lg mx-auto text-center">
+                  *No attorney&apos;s fee unless there is a recovery. The client may be responsible for court costs and case expenses.
+                </p>
               </FadeIn>
 
               <FadeIn direction="up" delay={0.6}>
                 <div className="flex flex-wrap justify-center gap-4 text-sm">
                   <Badge variant="secondary" className="bg-white/20 text-white border-0 px-4 py-2">
                     <CheckCircle2 className="h-4 w-4 mr-2" />
-                    No Win, No Fee
+                    No Recovery, No Fee* 
                   </Badge>
                   <Badge variant="secondary" className="bg-white/20 text-white border-0 px-4 py-2">
                     <Clock className="h-4 w-4 mr-2" />
@@ -356,7 +360,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                     </GlowEffect>
                     <h3 className="text-xl font-semibold mb-3 text-gray-900">Proven Track Record</h3>
                     <p className="text-gray-600">
-                      Our network of attorneys has successfully handled thousands of {practiceArea.name.toLowerCase()} cases, securing millions in compensation for clients.
+                      We bring experience and dedication to every {practiceArea.name.toLowerCase()} case we handle, fighting to pursue the compensation our clients deserve.
                     </p>
                   </CardContent>
                 </Card>
@@ -388,7 +392,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                     </GlowEffect>
                     <h3 className="text-xl font-semibold mb-3 text-gray-900">No Upfront Costs</h3>
                     <p className="text-gray-600">
-                      We work on a contingency fee basis. You pay nothing unless we win your {practiceArea.name.toLowerCase()} case.
+                      We work on a contingency fee basis — no attorney's fees unless we recover compensation for your case.
                     </p>
                   </CardContent>
                 </Card>
