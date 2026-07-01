@@ -343,14 +343,13 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                 We provide legal support for accident claims, injuries, and more — proudly serving {cityData.localStats.population ? `the ${cityData.localStats.population} residents of` : 'all of'} {city}.
               </p>
             </FadeIn>
-
             <FadeIn direction="up" delay={0.4}>
               <AnimatedButton magneticStrength={0.2} hoverScale={1.05}>
                 <TwoStepLeadModal
                   trigger={
                     <Button
                       size="lg"
-                      className="text-white font-bold text-lg px-8 py-4 mb-2 shadow-2xl hover:opacity-90"
+                      className="text-white font-bold text-lg px-8 py-4 mb-8 shadow-2xl hover:opacity-90"
                       style={{ backgroundColor: '#e06e00' }}
                     >
                       Get a Free Case Review
@@ -361,12 +360,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   state={state}
                 />
               </AnimatedButton>
-              <p className="text-xs text-blue-200/80 mt-2 mb-8 italic max-w-lg mx-auto">
-                *No attorney&apos;s fee unless there is a recovery. The client may be responsible for court costs and case expenses.
-              </p>
             </FadeIn>
-
-            <StaggerContainer staggerDelay={0.05} className="flex flex-wrap justify-center items-center gap-6 text-sm">
+ 
+            <StaggerContainer staggerDelay={0.05} className="flex flex-wrap justify-center items-center gap-6 text-sm mb-6">
               <StaggerItem>
                 <GlowEffect glowColor="rgba(224, 110, 0, 0.3)">
                   <div className="flex items-center gap-2">
@@ -392,6 +388,12 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                 </GlowEffect>
               </StaggerItem>
             </StaggerContainer>
+
+            <FadeIn direction="up" delay={0.6}>
+              <p className="text-xs text-blue-200/80 mt-2 mb-8 italic max-w-lg mx-auto text-center">
+                *No attorney&apos;s fee unless there is a recovery. The client may be responsible for court costs and case expenses.
+              </p>
+            </FadeIn>
           </div>
         </section>
 

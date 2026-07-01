@@ -236,7 +236,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                     trigger={
                       <Button
                         size="lg"
-                        className="text-white font-bold text-lg px-8 py-4 mb-2 shadow-2xl hover:opacity-90"
+                        className="text-white font-bold text-lg px-8 py-4 mb-8 shadow-2xl hover:opacity-90"
                         style={{ backgroundColor: '#e06e00' }}
                       >
                         Get a Free Case Review
@@ -249,9 +249,6 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                     caseType={practiceArea.name}
                   />
                 </AnimatedButton>
-                <p className="text-xs text-blue-200/80 mt-2 mb-8 italic max-w-lg mx-auto text-center">
-                  *No attorney&apos;s fee unless there is a recovery. The client may be responsible for court costs and case expenses.
-                </p>
               </FadeIn>
 
               <FadeIn direction="up" delay={0.6}>
@@ -269,6 +266,9 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                     Experienced Attorneys
                   </Badge>
                 </div>
+                <p className="text-xs text-blue-200/80 mt-4 mb-8 italic max-w-lg mx-auto text-center">
+                  *No attorney&apos;s fee unless there is a recovery. The client may be responsible for court costs and case expenses.
+                </p>
               </FadeIn>
             </div>
           </div>
