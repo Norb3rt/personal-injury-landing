@@ -103,7 +103,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
   const stateLawInfo = getStateLawInfo(paramState)
 
   // Generate accident statistics for this city
-  const accidentStats = generateAccidentStats(city, state, paramState, cityLocation?.population)
+  const accidentStats = generateAccidentStats(city, state, paramState, cityLocation?.population, cityLocation?.coordinates)
 
   // Fetch news articles server-side for rendering and schema generation
   let newsItems = await fetchGoogleNewsRSS(city, state);

@@ -10,7 +10,8 @@ import {
     Car,
     Clock,
     MapPin,
-    Activity
+    Activity,
+    Info
 } from "lucide-react"
 import { FadeIn, StaggerContainer, StaggerItem, GlowEffect, AnimatedNumber } from "@/components/animations"
 import type { AccidentStats } from "@/data/accident-stats"
@@ -42,9 +43,9 @@ export function AccidentStatistics({ stats }: AccidentStatisticsProps) {
             average: "bg-gray-100 text-gray-700 border-gray-200"
         }
         const labels = {
-            above: `${stats.comparedToStateAvgPercent}% Above State Avg`,
-            below: `${stats.comparedToStateAvgPercent}% Below State Avg`,
-            average: "At State Average"
+            above: `~${stats.comparedToStateAvgPercent}% Above State Avg`,
+            below: `~${stats.comparedToStateAvgPercent}% Below State Avg`,
+            average: "~At State Average"
         }
         return (
             <Badge variant="outline" className={`${colors[stats.comparedToStateAvg]} font-medium`}>
@@ -61,13 +62,19 @@ export function AccidentStatistics({ stats }: AccidentStatisticsProps) {
                         <div className="inline-flex items-center gap-2 mb-4">
                             <AlertTriangle className="h-8 w-8 text-orange-500" />
                             <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
-                                {stats.city} Accident Statistics
+                                {stats.city} Traffic Safety Estimate
                             </h2>
                         </div>
                         <p className="text-gray-600 max-w-2xl mx-auto">
-                            Understanding local accident trends can help you stay safe and know what to expect
-                            if you're injured in {stats.city}, {stats.stateAbbr}.
+                            Understanding local traffic risk patterns can help you stay safe and know what to
+                            expect if you're injured in {stats.city}, {stats.stateAbbr}.
                         </p>
+                        {stats.isEstimated && (
+                            <div className="inline-flex items-center gap-1.5 mt-4 px-3 py-1 rounded-full bg-gray-100 border border-gray-200 text-xs font-medium text-gray-600">
+                                <Info className="h-3.5 w-3.5" />
+                                Modeled estimate — not official crash records
+                            </div>
+                        )}
                     </div>
                 </FadeIn>
 
@@ -80,12 +87,12 @@ export function AccidentStatistics({ stats }: AccidentStatisticsProps) {
                                     <Car className="h-8 w-8 mx-auto mb-3 text-red-500" />
                                 </GlowEffect>
                                 <div className="text-3xl font-bold text-gray-900 mb-1">
-                                    <AnimatedNumber value={stats.annualAccidents} suffix="+" />
+                                    ~<AnimatedNumber value={stats.annualAccidents} />
                                 </div>
-                                <p className="text-sm text-gray-600">Annual Accidents</p>
+                                <p className="text-sm text-gray-600">Est. Annual Accidents</p>
                                 <div className={`flex items-center justify-center gap-1 mt-2 text-xs ${getTrendColor()}`}>
                                     {getTrendIcon()}
-                                    <span>{Math.abs(stats.yearOverYearChange)}% vs last year</span>
+                                    <span>{Math.abs(stats.yearOverYearChange)}% vs last year (modeled)</span>
                                 </div>
                             </CardContent>
                         </Card>
@@ -98,10 +105,10 @@ export function AccidentStatistics({ stats }: AccidentStatisticsProps) {
                                     <Activity className="h-8 w-8 mx-auto mb-3 text-amber-500" />
                                 </GlowEffect>
                                 <div className="text-3xl font-bold text-gray-900 mb-1">
-                                    <AnimatedNumber value={stats.annualInjuries} suffix="+" />
+                                    ~<AnimatedNumber value={stats.annualInjuries} />
                                 </div>
-                                <p className="text-sm text-gray-600">Injuries Reported</p>
-                                <p className="text-xs text-gray-500 mt-2">Per year average</p>
+                                <p className="text-sm text-gray-600">Est. Injuries Reported</p>
+                                <p className="text-xs text-gray-500 mt-2">Modeled per-year average</p>
                             </CardContent>
                         </Card>
                     </StaggerItem>
@@ -113,10 +120,10 @@ export function AccidentStatistics({ stats }: AccidentStatisticsProps) {
                                     <AlertTriangle className="h-8 w-8 mx-auto mb-3 text-gray-600" />
                                 </GlowEffect>
                                 <div className="text-3xl font-bold text-gray-900 mb-1">
-                                    <AnimatedNumber value={stats.annualFatalities} />
+                                    ~<AnimatedNumber value={stats.annualFatalities} />
                                 </div>
-                                <p className="text-sm text-gray-600">Fatalities</p>
-                                <p className="text-xs text-gray-500 mt-2">Annual average</p>
+                                <p className="text-sm text-gray-600">Est. Fatalities</p>
+                                <p className="text-xs text-gray-500 mt-2">Modeled annual average</p>
                             </CardContent>
                         </Card>
                     </StaggerItem>
@@ -128,9 +135,9 @@ export function AccidentStatistics({ stats }: AccidentStatisticsProps) {
                                     <MapPin className="h-8 w-8 mx-auto mb-3 text-blue-500" />
                                 </GlowEffect>
                                 <div className="text-3xl font-bold text-gray-900 mb-1">
-                                    <AnimatedNumber value={stats.accidentRate} />
+                                    ~<AnimatedNumber value={stats.accidentRate} />
                                 </div>
-                                <p className="text-sm text-gray-600">Per 100K Residents</p>
+                                <p className="text-sm text-gray-600">Est. Per 100K Residents</p>
                                 <div className="mt-2">
                                     {getComparisonBadge()}
                                 </div>
@@ -147,7 +154,7 @@ export function AccidentStatistics({ stats }: AccidentStatisticsProps) {
                             <CardContent className="p-6">
                                 <h3 className="text-lg font-bold text-gray-900 mb-4 flex items-center gap-2">
                                     <Car className="h-5 w-5 text-orange-500" />
-                                    Most Common Accident Types
+                                    Most Common Accident Types (Modeled)
                                 </h3>
                                 <div className="space-y-3">
                                     {stats.topAccidentTypes.map((type, index) => (
@@ -156,7 +163,7 @@ export function AccidentStatistics({ stats }: AccidentStatisticsProps) {
                                             <div className="flex-1">
                                                 <div className="flex justify-between items-center mb-1">
                                                     <span className="text-sm font-medium text-gray-700">{type.type}</span>
-                                                    <span className="text-sm font-bold text-gray-900">{type.percentage}%</span>
+                                                    <span className="text-sm font-bold text-gray-900">~{type.percentage}%</span>
                                                 </div>
                                                 <div className="h-2 bg-gray-200 rounded-full overflow-hidden">
                                                     <div
@@ -181,7 +188,7 @@ export function AccidentStatistics({ stats }: AccidentStatisticsProps) {
                                     <div>
                                         <h3 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
                                             <MapPin className="h-5 w-5 text-red-500" />
-                                            High-Risk Areas in {stats.city}
+                                            Nearby High-Traffic Roads in {stats.city}
                                         </h3>
                                         <ul className="space-y-2">
                                             {stats.dangerousRoads.map((road, index) => (
@@ -197,7 +204,7 @@ export function AccidentStatistics({ stats }: AccidentStatisticsProps) {
                                     <div>
                                         <h3 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
                                             <Clock className="h-5 w-5 text-amber-500" />
-                                            Peak Accident Times
+                                            Typical Peak Risk Times (Modeled)
                                         </h3>
                                         <ul className="space-y-2">
                                             {stats.peakAccidentTimes.map((time, index) => (
@@ -214,13 +221,20 @@ export function AccidentStatistics({ stats }: AccidentStatisticsProps) {
                     </FadeIn>
                 </div>
 
-                {/* Disclaimer */}
+                {/* Disclaimer — sourced from the data layer itself, never hardcoded here.
+                    This is intentionally NOT tiny/buried gray text: it sits in its own
+                    labeled callout so it reads as a real caveat, not legal filler. */}
                 <FadeIn direction="up" delay={0.5}>
-                    <p className="text-xs text-gray-500 text-center mt-8 max-w-2xl mx-auto">
-                        Statistics are estimates based on historical data from NHTSA, {stats.stateAbbr} DOT,
-                        and local law enforcement reports. Actual figures may vary. Data is for informational
-                        purposes only and should not be used as the sole basis for legal decisions.
-                    </p>
+                    <div className="mt-8 max-w-2xl mx-auto rounded-lg border border-gray-200 bg-white/70 px-5 py-4">
+                        <p className="text-sm text-gray-700 flex items-start gap-2">
+                            <Info className="h-4 w-4 text-gray-400 mt-0.5 flex-shrink-0" />
+                            <span>{stats.disclaimer}</span>
+                        </p>
+                        <p className="text-xs text-gray-500 mt-2 pl-6">
+                            {stats.methodologyNote} Actual figures may vary and should not be used as the
+                            sole basis for legal or safety decisions.
+                        </p>
+                    </div>
                 </FadeIn>
             </div>
         </section>
