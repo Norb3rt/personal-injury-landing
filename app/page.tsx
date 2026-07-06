@@ -11,6 +11,7 @@ import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
 import { NationwideMapWrapper } from "@/components/nationwide-map-wrapper"
 import { StateDataLoader } from "@/lib/data/state-loader"
 import { orgSchema, websiteSchema } from "@/lib/seo"
+import { getHomepageConfig } from "@/lib/page-content"
 
 // Import animation components
 import {
@@ -25,25 +26,23 @@ import {
   ScrollProgress,
 } from "@/components/animations"
 
-export const metadata: Metadata = {
-  title: "Personal Injury Lawyers | Nationwide Legal Help | Free Consultation",
-  description: "Connect with top personal injury attorneys across the USA. No win, no fee. Get the settlement you deserve. Find a lawyer near you today.",
-  alternates: {
-    canonical: process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com',
-  },
+export async function generateMetadata(): Promise<Metadata> {
+  const config = await getHomepageConfig();
+  return {
+    title: config.seo.metaTitle,
+    description: config.seo.metaDescription,
+    alternates: {
+      canonical: process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com',
+    },
+  };
 }
 
 export default async function HomePage() {
-  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
+  const config = await getHomepageConfig()
   const schemas = [orgSchema(), websiteSchema()]
 
   // Fetch ALL active states for the map
   const states = await StateDataLoader.getAllStates()
-
-  // Prepare state data for the map (we need lat/lng for each state)
-  // Since StateDataLoader doesn't provide lat/lng directly for states, we'll use a helper or static list for now, 
-  // but ideally we'd have this in our data. For this implementation, I'll map the available states to coordinates.
-  // If a state isn't in my coordinate list, I'll skip it to avoid errors, or use a default.
 
   // Map using slug keys (lowercase with hyphens) to match getAllStates() output
   const stateCoordinates: Record<string, { name: string, lat: number, lng: number }> = {
@@ -90,7 +89,7 @@ export default async function HomePage() {
     "south-dakota": { name: "South Dakota", lat: 44.2998, lng: -99.4388 },
     "tennessee": { name: "Tennessee", lat: 35.7478, lng: -86.6923 },
     "texas": { name: "Texas", lat: 31.0545, lng: -97.5635 },
-    "utah": { name: "Utah", lat: 40.1500, lng: -111.8624 },
+    "utah": { name: "Utah", lat: 39.3055, lng: -111.6703 },
     "vermont": { name: "Vermont", lat: 44.0459, lng: -72.7107 },
     "virginia": { name: "Virginia", lat: 37.7693, lng: -78.1700 },
     "washington": { name: "Washington", lat: 47.4009, lng: -121.4905 },
@@ -108,60 +107,9 @@ export default async function HomePage() {
       lng: stateCoordinates[stateSlug].lng
     }))
 
-  const services = [
-    { name: "Car Accidents", slug: "car-accident", icon: "🚗", description: "Get compensation for vehicle collisions and injuries" },
-    { name: "Slip & Fall", slug: "slip-and-fall", icon: "⚠️", description: "Property owner negligence claims" },
-    { name: "Medical Malpractice", slug: "medical-malpractice", icon: "🏥", description: "Healthcare provider negligence cases" },
-    { name: "Workplace Injuries", slug: "workplace-injury", icon: "🏗️", description: "On-the-job accident compensation" },
-    { name: "Product Liability", slug: "product-liability", icon: "📦", description: "Defective product injury claims" },
-    { name: "Wrongful Death", slug: "wrongful-death", icon: "💔", description: "Justice for families who lost loved ones" },
-  ]
-
-  const testimonials = [
-    {
-      name: "Sarah M.",
-      location: "California",
-      case: "Beta",
-      settlement: "Tester",
-      quote: "I didn't know where to start after my accident, but this site helped me get in touch with a lawyer who could help.",
-      rating: 5,
-    },
-    {
-      name: "Michael R.",
-      location: "Texas",
-      case: "Beta",
-      settlement: "Tester",
-      quote: "The process was fast and simple. I got a free consultation the same day I submitted my info.",
-      rating: 5,
-    },
-    {
-      name: "Jennifer L.",
-      location: "Florida",
-      case: "Beta",
-      settlement: "Tester",
-      quote: "Highly recommended. Connected me with a local attorney who really fought for me.",
-      rating: 5,
-    },
-  ]
-
-  const faqItems = [
-    {
-      question: "How much does it cost to hire a personal injury lawyer?",
-      answer: "Nothing upfront. Our partner attorneys work on a contingency fee basis, meaning they only get paid when they win your case. You'll never pay out of pocket.",
-    },
-    {
-      question: "How long will my case take?",
-      answer: "It depends on the specifics of your case, but your attorney will aim to settle quickly and fairly. Most cases resolve within 6-18 months.",
-    },
-    {
-      question: "What types of compensation can I receive?",
-      answer: "You may be entitled to medical expenses, lost wages, pain and suffering, property damage, and in some cases, punitive damages.",
-    },
-    {
-      question: "How quickly should I contact an attorney?",
-      answer: "The sooner the better. Evidence can disappear, witnesses' memories fade, and there are legal deadlines (statutes of limitations) that must be met.",
-    },
-  ]
+  const services = config.services.items
+  const testimonials = config.testimonials.items
+  const faqItems = config.faq.items
 
   return (
     <AnalyticsProvider>
@@ -199,20 +147,12 @@ export default async function HomePage() {
 
           <div className="relative max-w-6xl mx-auto text-center mt-8">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-              <span className="inline-block mr-2">Injured in an Accident?</span>
-              <br />
-              <span className="inline-block" style={{ color: '#e06e00' }}>
-                Get the Settlement
-              </span>
-              <span className="block mt-2">
-                You Deserve.
-              </span>
+              {config.hero.h1}
             </h1>
 
             <FadeIn direction="up" delay={0.3}>
               <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-4xl mx-auto">
-                Connect with top personal injury attorneys across the nation.
-                No recovery, no fee. Available 24/7 to help you fight for your rights.
+                {config.hero.subtitle}
               </p>
             </FadeIn>
 
@@ -225,7 +165,7 @@ export default async function HomePage() {
                       className="text-white font-bold text-lg px-8 py-4 mb-8 shadow-2xl hover:opacity-90"
                       style={{ backgroundColor: '#e06e00' }}
                     >
-                      Get a Free Case Review
+                      {config.hero.ctaText}
                     </Button>
                   }
                   source="hero-home"
@@ -269,7 +209,7 @@ export default async function HomePage() {
           <div className="max-w-6xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-                Our Practice Areas
+                {config.services.title || "Our Practice Areas"}
               </h2>
             </FadeIn>
 
@@ -290,16 +230,6 @@ export default async function HomePage() {
 
                       <h3 className="text-xl font-semibold mb-2 text-gray-900 group-hover:text-teal-600 transition-colors">{service.name}</h3>
                       <p className="text-gray-600 mb-4 flex-grow">{service.description}</p>
-
-                      {/* <AnimatedButton magneticStrength={0.15} hoverScale={1.02}>
-                        <Button
-                          variant="outline"
-                          size="sm"
-                          className="w-full bg-transparent service-button"
-                        >
-                          Learn More →
-                        </Button>
-                      </AnimatedButton> */}
                     </CardContent>
                   </Card>
                 </StaggerItem>
@@ -340,39 +270,19 @@ export default async function HomePage() {
           <div className="max-w-4xl mx-auto text-center">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold mb-8 text-red-800">
-                Insurance Companies Hope You&apos;ll Settle for Less.
+                {config.painPoints.title}
               </h2>
             </FadeIn>
 
             <StaggerContainer staggerDelay={0.05} className="grid md:grid-cols-2 gap-6 text-left mb-8">
-              <div className="space-y-4">
-                <StaggerItem>
+              {config.painPoints.items.map((item, index) => (
+                <StaggerItem key={index}>
                   <div className="flex items-start gap-3 p-4 rounded-lg bg-white/50 backdrop-blur-sm hover:bg-white/70 transition-all duration-300">
                     <div className="w-3 h-3 bg-red-500 rounded-full mt-2 animate-pulse"></div>
-                    <p className="text-lg font-medium">Medical bills stacking up?</p>
+                    <p className="text-lg font-medium">{item}</p>
                   </div>
                 </StaggerItem>
-                <StaggerItem>
-                  <div className="flex items-start gap-3 p-4 rounded-lg bg-white/50 backdrop-blur-sm hover:bg-white/70 transition-all duration-300">
-                    <div className="w-3 h-3 bg-red-500 rounded-full mt-2 animate-pulse"></div>
-                    <p className="text-lg font-medium">Missed work and lost paychecks?</p>
-                  </div>
-                </StaggerItem>
-              </div>
-              <div className="space-y-4">
-                <StaggerItem>
-                  <div className="flex items-start gap-3 p-4 rounded-lg bg-white/50 backdrop-blur-sm hover:bg-white/70 transition-all duration-300">
-                    <div className="w-3 h-3 bg-red-500 rounded-full mt-2 animate-pulse"></div>
-                    <p className="text-lg font-medium">Emotional stress on top of physical pain?</p>
-                  </div>
-                </StaggerItem>
-                <StaggerItem>
-                  <div className="flex items-start gap-3 p-4 rounded-lg bg-white/50 backdrop-blur-sm hover:bg-white/70 transition-all duration-300">
-                    <div className="w-3 h-3 bg-red-500 rounded-full mt-2 animate-pulse"></div>
-                    <p className="text-lg font-medium">Insurance adjusters pushing low offers?</p>
-                  </div>
-                </StaggerItem>
-              </div>
+              ))}
             </StaggerContainer>
 
             <FadeIn direction="up" delay={0.3}>
@@ -380,7 +290,7 @@ export default async function HomePage() {
                 <TwoStepLeadModal
                   trigger={
                     <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#e06e00' }}>
-                      Don&apos;t Let Them Win - Get Help Now
+                      {config.painPoints.ctaText}
                     </Button>
                   }
                   source="pain-points-home"
@@ -398,47 +308,29 @@ export default async function HomePage() {
             <div className="text-center mb-12">
               <FadeIn direction="up" delay={0.1}>
                 <h2 className="text-3xl md:text-4xl font-bold mb-6 text-green-800">
-                  We Make It Simple to Find the Right Personal Injury Lawyer.
+                  {config.valueProp.title}
                 </h2>
               </FadeIn>
               <FadeIn direction="up" delay={0.2}>
                 <p className="text-xl mb-8 text-gray-700 max-w-4xl mx-auto">
-                  Connect with personal injury lawyers serving all 50 states. No attorney&apos;s fee unless your case results in a recovery. Court costs and case expenses may apply.
+                  {config.valueProp.subtitle}
                 </p>
               </FadeIn>
             </div>
 
             {/* Statistics Section */}
             <StaggerContainer staggerDelay={0.1} className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
-              <StaggerItem>
-                <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
-                  <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={95} suffix="%" />
+              {config.valueProp.stats.map((stat, index) => (
+                <StaggerItem key={index}>
+                  <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
+                    <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
+                      <AnimatedNumber value={stat.value} suffix={stat.suffix} />
+                    </div>
+                    <p className="text-gray-700 font-semibold">{stat.label}</p>
+                    <p className="text-sm text-gray-600 mt-1">{stat.desc}</p>
                   </div>
-                  <p className="text-gray-700 font-semibold">Of Injury Cases Settle Out of Court</p>
-                  <p className="text-sm text-gray-600 mt-1">Most injury claims are resolved through negotiation rather than a courtroom trial.</p>
-                </div>
-              </StaggerItem>
-
-              <StaggerItem>
-                <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
-                  <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={73} suffix="%" />
-                  </div>
-                  <p className="text-gray-700 font-semibold">Accept the First Insurance Offer</p>
-                  <p className="text-sm text-gray-600 mt-1">First offers are often 40 to 60% lower than a claim&apos;s full value.</p>
-                </div>
-              </StaggerItem>
-
-              <StaggerItem>
-                <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
-                  <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={72} suffix=" Hours" />
-                  </div>
-                  <p className="text-gray-700 font-semibold">Critical Window to Preserve Evidence</p>
-                  <p className="text-sm text-gray-600 mt-1">Surveillance footage, witness statements, and scene details can disappear within days.</p>
-                </div>
-              </StaggerItem>
+                </StaggerItem>
+              ))}
             </StaggerContainer>
 
             <div className="text-center">
@@ -447,7 +339,7 @@ export default async function HomePage() {
                   <TwoStepLeadModal
                     trigger={
                       <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#0B6B65' }}>
-                        Find Out What Your Case is Worth
+                        {config.valueProp.ctaText}
                       </Button>
                     }
                     source="value-prop-home"
@@ -465,7 +357,7 @@ export default async function HomePage() {
           <div className="max-w-4xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-                Only Three Steps to Your Peace of Mind.
+                {config.howItWorks.title}
               </h2>
             </FadeIn>
 
@@ -473,41 +365,19 @@ export default async function HomePage() {
               {/* Connecting Lines */}
               <div className="hidden md:block absolute top-8 left-1/6 right-1/6 h-0.5" style={{ background: 'linear-gradient(to right, rgba(11, 107, 101, 0.3), #0B6B65, rgba(11, 107, 101, 0.3))' }}></div>
 
-              <StaggerItem>
-                <div className="text-center relative">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110" style={{ background: 'linear-gradient(to bottom right, #0B6B65, #0B6B65)' }}>
-                      <AnimatedNumber value={1} />
-                    </div>
-                  </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Tell Us About Your Accident</h3>
-                  <p className="text-gray-600">Free, no-obligation case evaluation.</p>
-                </div>
-              </StaggerItem>
-
-              <StaggerItem>
-                <div className="text-center relative">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110" style={{ background: 'linear-gradient(to bottom right, #0B6B65, #0B6B65)' }}>
-                      <AnimatedNumber value={2} />
-                    </div>
-                  </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Connect with a local attorney</h3>
-                  <p className="text-gray-600">Quickly connect with a local personal injury lawyer.</p>
-                </div>
-              </StaggerItem>
-
-              <StaggerItem>
-                <div className="text-center relative">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110" style={{ background: 'linear-gradient(to bottom right, #0B6B65, #0B6B65)' }}>
-                      <AnimatedNumber value={3} />
-                    </div>
-                  </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Resolve Your Claim</h3>
-                  <p className="text-gray-600">No attorney&apos;s fee unless there&apos;s a recovery. Court costs and case expenses may apply.</p>
-                </div>
-              </StaggerItem>
+              {config.howItWorks.steps.map((step, index) => (
+                <StaggerItem key={index}>
+                  <div className="text-center relative">
+                    <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
+                      <div className="w-16 h-16 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110" style={{ background: 'linear-gradient(to bottom right, #0B6B65, #0B6B65)' }}>
+                        <AnimatedNumber value={index + 1} />
+                      </div>
+                    </GlowEffect>
+                    <h3 className="text-xl font-semibold mb-2 text-gray-900">{step.title}</h3>
+                    <p className="text-gray-600">{step.desc}</p>
+                  </div>
+                </StaggerItem>
+              ))}
             </StaggerContainer>
 
             <div className="text-center mt-8">
@@ -516,7 +386,7 @@ export default async function HomePage() {
                   <TwoStepLeadModal
                     trigger={
                       <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#0B6B65' }}>
-                        Start Step 1 Now
+                        {config.howItWorks.ctaText}
                       </Button>
                     }
                     source="how-it-works-home"
@@ -534,7 +404,7 @@ export default async function HomePage() {
           <div className="max-w-6xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-                What People Are Saying
+                {config.testimonials.title}
               </h2>
             </FadeIn>
 
@@ -578,7 +448,7 @@ export default async function HomePage() {
           <div className="max-w-4xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-slate-800">
-                Frequently Asked Questions
+                {config.faq.title}
               </h2>
             </FadeIn>
 
@@ -608,7 +478,9 @@ export default async function HomePage() {
         <section className="py-16 px-4 bg-white">
           <div className="max-w-4xl mx-auto text-center">
             <FadeIn direction="up" delay={0.1}>
-              <h2 className="text-3xl md:text-4xl font-bold mb-8 text-slate-800">Ready to Get Started?</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-8 text-slate-800">
+                {config.reassurance.title || "Ready to Get Started?"}
+              </h2>
             </FadeIn>
 
             <FadeIn direction="up" delay={0.2}>
@@ -616,7 +488,7 @@ export default async function HomePage() {
                 <TwoStepLeadModal
                   trigger={
                     <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#e06e00' }}>
-                      Get Your Free Case Review
+                      {config.reassurance.ctaText || "Get Your Free Case Review"}
                     </Button>
                   }
                   source="footer-cta-home"

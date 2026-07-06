@@ -14,6 +14,7 @@ import { TwoStepLeadModal } from "@/components/two-step-lead-modal"
 import { StateDataLoader } from "@/lib/data/state-loader"
 import { PRACTICE_AREAS, getPracticeAreaBySlug, getAllPracticeAreaSlugs } from "@/lib/data/practice-areas-config"
 import { orgSchema, websiteSchema, serviceSchema } from "@/lib/seo"
+import { getMergedPageConfig } from "@/lib/page-content"
 
 // Import animation components
 import {
@@ -41,45 +42,25 @@ interface PageProps {
   }>
 }
 
-// Generate metadata for SEO
+// Generate metadata for SEO using Supabase templates and overrides
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { state, city, practice } = await params;
-  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
-
-  const practiceArea = getPracticeAreaBySlug(practice)
-  if (!practiceArea) {
-    return {
-      title: 'Practice Area Not Found',
-      description: 'The requested practice area could not be found.'
-    }
-  }
-
-  const cityName = city
-    .split('-')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ')
-
-  const stateName = state
-    .split('-')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ')
-
-  const title = `${practiceArea.name} Lawyer in ${cityName}, ${stateName} | Free Consultation`
-  const description = `Injured in a ${practiceArea.name.toLowerCase()} in ${cityName}? Get the settlement you deserve. Connect with experienced ${practiceArea.name.toLowerCase()} attorneys. No win, no fee. Free case evaluation.`
+  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com';
+  const config = await getMergedPageConfig(state, city, practice);
+  const canonicalUrl = `${baseUrl}/personal-injury-lawyer/${state}/${city}/${practice}`;
 
   return {
-    title,
-    description,
-    keywords: [
-      ...practiceArea.keywords,
-      `${cityName} ${practiceArea.name.toLowerCase()}`,
-      `${cityName} personal injury lawyer`,
-      `${stateName} ${practiceArea.name.toLowerCase()} attorney`
-    ].join(', '),
+    title: config.seo.metaTitle,
+    description: config.seo.metaDescription,
+    keywords: `personal injury lawyer ${city}, accident attorney ${city}`,
+    metadataBase: new URL(baseUrl),
+    alternates: {
+      canonical: canonicalUrl,
+    },
     openGraph: {
-      title,
-      description,
-      url: `${baseUrl}/personal-injury-lawyer/${state}/${city}/${practice}`,
+      title: config.seo.metaTitle,
+      description: config.seo.metaDescription,
+      url: canonicalUrl,
       siteName: 'LawProactive',
       locale: 'en_US',
       type: 'website',
@@ -88,7 +69,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       index: true,
       follow: true,
     },
-  }
+  };
 }
 
 export default async function PracticeAreaPage({ params }: PageProps) {
@@ -122,6 +103,9 @@ export default async function PracticeAreaPage({ params }: PageProps) {
   // ── Fetch lawyer assigned to this territory ──
   const assignedLawyer = await getLawyerForTerritory(paramState, paramCity)
 
+  // Load dynamic page configuration
+  const config = await getMergedPageConfig(paramState, paramCity, practice);
+
   // Get other practice areas for internal linking (sibling pages)
   const otherPracticeAreas = PRACTICE_AREAS.filter(area => area.slug !== practice)
 
@@ -138,7 +122,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    "mainEntity": practiceArea.faqItems.map(item => ({
+    "mainEntity": config.faq.items.map(item => ({
       "@type": "Question",
       "name": item.question,
       "acceptedAnswer": {
@@ -221,12 +205,12 @@ export default async function PracticeAreaPage({ params }: PageProps) {
               </FadeIn>
 
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-                {practiceArea.name} Lawyer in {city}, {state}
+                {config.hero.h1}
               </h1>
 
               <FadeIn direction="up" delay={0.4}>
                 <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-4xl mx-auto">
-                  {practiceArea.description}. Get the compensation you deserve with experienced legal representation.
+                  {config.hero.subtitle}
                 </p>
               </FadeIn>
 
@@ -239,7 +223,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                         className="text-white font-bold text-lg px-8 py-4 mb-8 shadow-2xl hover:opacity-90"
                         style={{ backgroundColor: '#e06e00' }}
                       >
-                        Get a Free Case Review
+                        {config.hero.ctaText}
                       </Button>
                     }
                     
@@ -406,13 +390,13 @@ export default async function PracticeAreaPage({ params }: PageProps) {
           <div className="max-w-4xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-                Frequently Asked Questions About {practiceArea.name}
+                {config.faq.title}
               </h2>
             </FadeIn>
 
             <FadeIn direction="up" delay={0.2}>
               <Accordion type="single" collapsible className="space-y-4">
-                {practiceArea.faqItems.map((faq, index) => (
+                {config.faq.items.map((faq, index) => (
                   <AccordionItem key={index} value={`item-${index}`} className="border rounded-lg px-6 bg-gray-50">
                     <AccordionTrigger className="text-left font-semibold text-gray-900 hover:text-teal-600">
                       {faq.question}

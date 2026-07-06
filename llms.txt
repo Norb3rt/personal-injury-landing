@@ -34,12 +34,19 @@ All city and practice pages are generated statically using Next.js Static Site G
   - `data/states/florida-cities.json`
   - `data/states/new-york-cities.json`
 
+### 3. CMS & Dynamic Content System (`lib/page-content.ts` & `/app/admin/seo-settings/`)
+- **Supabase-Backed Settings Panel**: A secure, reactive admin page allowing users to configure landing pages across four levels: Homepage (`homepage`), Default City Template (`default`), State Overrides, and City Overrides.
+- **Smart Cascade Fallback (`deepMerge`)**: The page content resolver (`getMergedPageConfig`) pulls data in hierarchical order (Fallback Copy -> Default Template -> State Override -> City Override).
+- **Index-by-Index Array Merging**: `deepMerge` performs recursive named key merging for objects and index-by-index recursive merging for arrays (e.g., stats metrics, testimonials, and process steps). This ensures that any `null` or empty fields (`""` / `[]`) in the database automatically fall back to the original hardcoded template copy, preventing empty cards or rendering bugs.
+- **Stateful JWT Prevention**: Supabase operations use `createSupabaseServerClient()` in Server Actions to instantiate fresh un-mutated clients per request. This prevents admin token headers from mutating the global singleton client and triggering Row-Level Security (RLS) policy violations.
+- **Dynamic Revalidation**: Updates instantly flush Next.js caches on targeted routes via `revalidatePath` to apply database changes live in production without triggering a full project rebuild.
+
 ---
 
 ## Key Features & Components
 
 - **Geographic Distance-Based "Nearby Cities" Linking** (`components/nearby-cities.tsx`):
-  Sorts other cities in the state based on physical proximity calculated using the **Haversine formula** on city coordinates (`latitude`, `longitude`). If coordinates are unavailable, falls back to a deterministic string hash selection for SSG page stability.
+  Sorts other cities in the state based on physical proximity calculated using the **Haversine formula on city coordinates (`latitude`, `longitude`). If coordinates are unavailable, falls back to a deterministic string hash selection for SSG page stability.
 - **Lawyer Assignment**: Dynamically resolves lawyers assigned to specific state/city territories via `/lib/get-lawyer-for-territory.ts`.
 - **Local Accident Statistics** (`components/accident-statistics.tsx`): Formats local statistics dynamically based on city metadata and state averages.
 - **Local News Aggregator** (`components/local-news.tsx`): Fetches localized Google News server-side using RSS feeds.

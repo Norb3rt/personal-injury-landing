@@ -15,6 +15,7 @@ import { DynamicCitySpotlight } from "@/components/dynamic-city-spotlight"
 import { generateCityMetadata, orgSchema, websiteSchema, citySchema, datasetSchema, newsArticleSchema } from "@/lib/seo"
 // Import new data loading system
 import { StateDataLoader } from "@/lib/data/state-loader"
+import { getMergedPageConfig } from "@/lib/page-content"
 import { fetchGoogleNewsRSS, generateFallbackNews } from "@/lib/news"
 import { practiceAreaNameToSlug } from "@/lib/data/practice-areas-config"
 
@@ -58,13 +59,48 @@ interface PageProps {
   }>
 }
 
-// Generate metadata for SEO - use same system as legacy for consistency
+// Generate metadata for SEO using Supabase templates and overrides
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { state, city } = await params;
-  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
+  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com';
+  const config = await getMergedPageConfig(state, city);
+  const canonicalUrl = `${baseUrl}/personal-injury-lawyer/${state}/${city}`;
 
-  // Use the same metadata generation as legacy pages
-  return generateCityMetadata(city, baseUrl, state)
+  return {
+    title: config.seo.metaTitle,
+    description: config.seo.metaDescription,
+    keywords: `personal injury lawyer ${city}, accident attorney ${city}`,
+    metadataBase: new URL(baseUrl),
+    alternates: {
+      canonical: canonicalUrl,
+    },
+    openGraph: {
+      title: config.seo.metaTitle,
+      description: config.seo.metaDescription,
+      url: canonicalUrl,
+      siteName: 'LawProactive',
+      images: [
+        {
+          url: `${baseUrl}/images/logo-favicon.jpg`,
+          width: 1200,
+          height: 630,
+          alt: `${city} Personal Injury Lawyer`,
+        },
+      ],
+      locale: 'en_US',
+      type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: config.seo.metaTitle,
+      description: config.seo.metaDescription,
+      images: [`${baseUrl}/images/logo-favicon.jpg`],
+    },
+    robots: {
+      index: true,
+      follow: true,
+    },
+  };
 }
 
 export default async function PersonalInjuryLanding({ params }: PageProps) {
@@ -135,7 +171,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     }
   }
 
-  // Use static data for reliable deployment (same as legacy) but enriched with real data if available
+  // Load configuration from Supabase (Template + Overrides)
+  const config = await getMergedPageConfig(paramState, paramCity);
+
   const cityData = {
     name: city,
     practiceAreas: [],
@@ -143,81 +181,9 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
     localStats: generateDynamicStats(city, cityLocation?.population)
   }
 
-  const defaultTestimonials = [
-    {
-      name: "",
-      location: `${city}, ${state}`,
-      case: "Beta",
-      settlement: "Tester",
-      quote:
-        `This platform made it easy to find a personal injury lawyer near ${cityLocation?.landmark || 'me'}. I was contacted within minutes.`,
-      rating: 5,
-    },
-    {
-      name: "",
-      location: `${city}, ${state}`,
-      case: "Beta",
-      settlement: "Tester",
-      quote:
-        "I didn't know where to start after my accident, but this site helped me get in touch with a lawyer who could help",
-      rating: 5,
-    },
-    {
-      name: "",
-      location: `${city}, ${state}`,
-      case: "Beta",
-      settlement: "Tester",
-      quote:
-        "The process was fast and simple. I got a free consultation the same day I submitted my info.",
-      rating: 5,
-    },
-  ]
-
-  const testimonials = cityData.testimonials.length > 0 ? cityData.testimonials : defaultTestimonials
-
-  // EDITAR AQUÍ
-  // Puedes modificar los servicios que se ofrecen en esta sección.
-  // - name: El título del servicio que verá el usuario.
-  // - slug: La parte de la URL para este servicio. DEBE ser en minúsculas y usar guiones en lugar de espacios (ej. "nuevo-servicio").
-  // - icon: El emoji que representa el servicio.
-  // - description: Una breve descripción del servicio.
-  const services = [
-    { name: "Car Accidents", slug: "car-accident", icon: "🚗", description: "Get compensation for vehicle collisions and injuries" },
-    { name: "Slip & Fall", slug: "slip-and-fall", icon: "⚠️", description: "Property owner negligence claims" },
-    { name: "Medical Malpractice", slug: "medical-malpractice", icon: "🏥", description: "Healthcare provider negligence cases" },
-    { name: "Workplace Injuries", slug: "workplace-injury", icon: "🏗️", description: "On-the-job accident compensation" },
-    { name: "Product Liability", slug: "product-liability", icon: "📦", description: "Defective product injury claims" },
-    { name: "Wrongful Death", slug: "wrongful-death", icon: "💔", description: "Justice for families who lost loved ones" },
-    // Para agregar un nuevo servicio, copia una de las líneas de arriba y pégala aquí, modificando los valores.
-  ]
-
-  const faqItems = [
-    {
-      question: `How much does it cost to hire a personal injury lawyer in ${city}?`,
-      answer:
-        "Nothing upfront. Our partner attorneys work on a contingency fee basis, meaning they only get paid when they win your case. You'll never pay out of pocket.",
-    },
-    {
-      question: "How long will my case take?",
-      answer:
-        "It depends on the specifics of your case, but your attorney will aim to settle quickly and fairly. Most cases resolve within 6-18 months, though complex cases may take longer.",
-    },
-    {
-      question: "What if I already got an insurance offer?",
-      answer:
-        "That initial offer is often much lower than what you deserve. An experienced attorney can negotiate for significantly more compensation based on the true value of your injuries and damages.",
-    },
-    {
-      question: "What types of compensation can I receive?",
-      answer:
-        "You may be entitled to medical expenses, lost wages, pain and suffering, property damage, and in some cases, punitive damages.",
-    },
-    {
-      question: "How quickly should I contact an attorney after my accident?",
-      answer:
-        "The sooner the better. Evidence can disappear, witnesses' memories fade, and there are legal deadlines (statutes of limitations) that must be met.",
-    },
-  ]
+  const testimonials = config.testimonials.items;
+  const services = config.services.items;
+  const faqItems = config.faq.items;
   // --- Enhanced SEO Structured Data ---
   const pageUrl = `${baseUrl}/personal-injury-lawyer/${paramState}/${paramCity}`;
 
@@ -323,24 +289,14 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           <div className="absolute inset-0 bg-black/20"></div>
 
           <div className="relative max-w-6xl mx-auto text-center">
-            {/* EDITAR AQUÍ - Este es el título principal (H1) de la página. */}
+            {/* Título principal (H1) dinámico y optimizado para SEO */}
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-              {/* Static text for LCP optimization */}
-              <span className="inline-block mr-2">Injured in</span>
-              <span className="inline-block" style={{ color: '#e06e00' }}>
-                {city}
-              </span>
-              <span style={{ color: '#e06e00' }}>?</span>
-              <br />
-              <span className="block mt-2">
-                Get the Settlement You Deserve.
-              </span>
+              {config.hero.h1}
             </h1>
 
             <FadeIn direction="up" delay={0.3}>
               <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-4xl mx-auto">
-                Your Search for a Personal Injury Attorney in {city} Ends Here.
-                We provide legal support for accident claims, injuries, and more — proudly serving {cityData.localStats.population ? `the ${cityData.localStats.population} residents of` : 'all of'} {city}.
+                {config.hero.subtitle}
               </p>
             </FadeIn>
             <FadeIn direction="up" delay={0.4}>
@@ -352,7 +308,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       className="text-white font-bold text-lg px-8 py-4 mb-8 shadow-2xl hover:opacity-90"
                       style={{ backgroundColor: '#e06e00' }}
                     >
-                      Get a Free Case Review
+                      {config.hero.ctaText}
                     </Button>
                   }
                   source="hero-primary"
@@ -416,7 +372,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           <div className="max-w-6xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-                Personal Injury Services in {city}
+                {config.services.title}
               </h2>
             </FadeIn>
 
@@ -481,39 +437,19 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           <div className="max-w-4xl mx-auto text-center">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold mb-8 text-red-800">
-                Insurance Companies Hope You&apos;ll Settle for Less.
+                {config.painPoints.title}
               </h2>
             </FadeIn>
 
             <StaggerContainer staggerDelay={0.05} className="grid md:grid-cols-2 gap-6 text-left mb-8">
-              <div className="space-y-4">
-                <StaggerItem>
+              {config.painPoints.items.map((painPoint, index) => (
+                <StaggerItem key={index}>
                   <div className="flex items-start gap-3 p-4 rounded-lg bg-white/50 backdrop-blur-sm hover:bg-white/70 transition-all duration-300">
                     <div className="w-3 h-3 bg-red-500 rounded-full mt-2 animate-pulse"></div>
-                    <p className="text-lg font-medium">Medical bills stacking up?</p>
+                    <p className="text-lg font-medium">{painPoint}</p>
                   </div>
                 </StaggerItem>
-                <StaggerItem>
-                  <div className="flex items-start gap-3 p-4 rounded-lg bg-white/50 backdrop-blur-sm hover:bg-white/70 transition-all duration-300">
-                    <div className="w-3 h-3 bg-red-500 rounded-full mt-2 animate-pulse"></div>
-                    <p className="text-lg font-medium">Missed work and lost paychecks?</p>
-                  </div>
-                </StaggerItem>
-              </div>
-              <div className="space-y-4">
-                <StaggerItem>
-                  <div className="flex items-start gap-3 p-4 rounded-lg bg-white/50 backdrop-blur-sm hover:bg-white/70 transition-all duration-300">
-                    <div className="w-3 h-3 bg-red-500 rounded-full mt-2 animate-pulse"></div>
-                    <p className="text-lg font-medium">Emotional stress on top of physical pain?</p>
-                  </div>
-                </StaggerItem>
-                <StaggerItem>
-                  <div className="flex items-start gap-3 p-4 rounded-lg bg-white/50 backdrop-blur-sm hover:bg-white/70 transition-all duration-300">
-                    <div className="w-3 h-3 bg-red-500 rounded-full mt-2 animate-pulse"></div>
-                    <p className="text-lg font-medium">Insurance adjusters pushing low offers?</p>
-                  </div>
-                </StaggerItem>
-              </div>
+              ))}
             </StaggerContainer>
 
             <FadeIn direction="up" delay={0.3}>
@@ -521,7 +457,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                 <TwoStepLeadModal
                   trigger={
                     <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#e06e00' }}>
-                      Don&apos;t Let Them Win - Get Help Now
+                      {config.painPoints.ctaText}
                     </Button>
                   }
                   source="pain-points"
@@ -539,48 +475,29 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             <div className="text-center mb-12">
               <FadeIn direction="up" delay={0.1}>
                 <h2 className="text-3xl md:text-4xl font-bold mb-6 text-green-800">
-                  We Make It Simple to Find the Right Personal Injury Lawyer.
+                  {config.valueProp.title}
                 </h2>
               </FadeIn>
               <FadeIn direction="up" delay={0.2}>
                 <p className="text-xl mb-8 text-gray-700 max-w-4xl mx-auto">
-                  Connect with personal injury lawyers serving {city}.
-                  No attorney&apos;s fee unless your case results in a recovery. Court costs and case expenses may apply.
+                  {config.valueProp.subtitle}
                 </p>
               </FadeIn>
             </div>
 
             {/* Statistics Section */}
             <StaggerContainer staggerDelay={0.1} className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
-              <StaggerItem>
-                <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
-                  <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={95} suffix="%" />
+              {config.valueProp.stats.map((stat, index) => (
+                <StaggerItem key={index}>
+                  <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
+                    <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
+                      <AnimatedNumber value={stat.value} suffix={stat.suffix} />
+                    </div>
+                    <p className="text-gray-700 font-semibold">{stat.label}</p>
+                    <p className="text-sm text-gray-600 mt-1">{stat.desc}</p>
                   </div>
-                  <p className="text-gray-700 font-semibold">Of Injury Cases Settle Out of Court</p>
-                  <p className="text-sm text-gray-600 mt-1">Most injury claims are resolved through negotiation rather than a courtroom trial.</p>
-                </div>
-              </StaggerItem>
-
-              <StaggerItem>
-                <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
-                  <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={73} suffix="%" />
-                  </div>
-                  <p className="text-gray-700 font-semibold">Accept the First Insurance Offer</p>
-                  <p className="text-sm text-gray-600 mt-1">First offers are often 40 to 60% lower than a claim&apos;s full value.</p>
-                </div>
-              </StaggerItem>
-
-              <StaggerItem>
-                <div className="text-center p-6 bg-white/70 backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col justify-center min-h-[140px]">
-                  <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">
-                    <AnimatedNumber value={72} suffix=" Hours" />
-                  </div>
-                  <p className="text-gray-700 font-semibold">Critical Window to Preserve Evidence</p>
-                  <p className="text-sm text-gray-600 mt-1">Surveillance footage, witness statements, and scene details can disappear within days.</p>
-                </div>
-              </StaggerItem>
+                </StaggerItem>
+              ))}
             </StaggerContainer>
 
             <div className="text-center">
@@ -589,7 +506,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   <TwoStepLeadModal
                     trigger={
                       <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#0B6B65' }}>
-                        Find Out What Your Case is Worth
+                        {config.valueProp.ctaText}
                       </Button>
                     }
                     source="value-prop"
@@ -607,7 +524,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           <div className="max-w-4xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-                Only Three Steps to Your Peace of Mind.
+                {config.howItWorks.title}
               </h2>
             </FadeIn>
 
@@ -615,41 +532,19 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
               {/* Connecting Lines */}
               <div className="hidden md:block absolute top-8 left-1/6 right-1/6 h-0.5" style={{ background: 'linear-gradient(to right, rgba(11, 107, 101, 0.3), #0B6B65, rgba(11, 107, 101, 0.3))' }}></div>
 
-              <StaggerItem>
-                <div className="text-center relative">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110" style={{ background: 'linear-gradient(to bottom right, #0B6B65, #0B6B65)' }}>
-                      <AnimatedNumber value={1} />
-                    </div>
-                  </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Tell Us About Your Accident</h3>
-                  <p className="text-gray-600">Free, no-obligation case evaluation.</p>
-                </div>
-              </StaggerItem>
-
-              <StaggerItem>
-                <div className="text-center relative">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110" style={{ background: 'linear-gradient(to bottom right, #0B6B65, #0B6B65)' }}>
-                      <AnimatedNumber value={2} />
-                    </div>
-                  </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Connect with a local attorney</h3>
-                  <p className="text-gray-600">Quickly connect with a local personal injury lawyer.</p>
-                </div>
-              </StaggerItem>
-
-              <StaggerItem>
-                <div className="text-center relative">
-                  <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
-                    <div className="w-16 h-16 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110" style={{ background: 'linear-gradient(to bottom right, #0B6B65, #0B6B65)' }}>
-                      <AnimatedNumber value={3} />
-                    </div>
-                  </GlowEffect>
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">Resolve Your Claim</h3>
-                  <p className="text-gray-600">No attorney&apos;s fee unless there&apos;s a recovery. Court costs and case expenses may apply.</p>
-                </div>
-              </StaggerItem>
+              {config.howItWorks.steps.map((step, index) => (
+                <StaggerItem key={index}>
+                  <div className="text-center relative">
+                    <GlowEffect glowColor="rgba(59, 130, 246, 0.4)" intensity={1.2}>
+                      <div className="w-16 h-16 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110" style={{ background: 'linear-gradient(to bottom right, #0B6B65, #0B6B65)' }}>
+                        <AnimatedNumber value={index + 1} />
+                      </div>
+                    </GlowEffect>
+                    <h3 className="text-xl font-semibold mb-2 text-gray-900">{step.title}</h3>
+                    <p className="text-gray-600">{step.desc}</p>
+                  </div>
+                </StaggerItem>
+              ))}
             </StaggerContainer>
 
             <div className="text-center mt-8">
@@ -658,7 +553,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                   <TwoStepLeadModal
                     trigger={
                       <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#0B6B65' }}>
-                        Start Step 1 Now
+                        {config.howItWorks.ctaText}
                       </Button>
                     }
                     source="how-it-works"
@@ -677,17 +572,17 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold mb-6 text-yellow-800">
                 <GlowEffect glowColor="rgba(234, 179, 8, 0.3)">
-                  No Recovery, No Attorney&apos;s Fee.
+                  {config.riskReversal.title}
                 </GlowEffect>
               </h2>
             </FadeIn>
 
             <FadeIn direction="up" delay={0.2}>
               <p className="text-xl text-gray-700 mb-4">
-                There&apos;s no upfront attorney&apos;s fee. Participating attorneys are paid only from any recovery obtained in your case.
+                {config.riskReversal.desc}
               </p>
               <p className="text-xs text-gray-700 mb-8 italic">
-                *No attorney&apos;s fee unless there is a recovery. The client may be responsible for court costs and case expenses.
+                {config.riskReversal.disclaimer}
               </p>
             </FadeIn>
 
@@ -696,7 +591,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                 <TwoStepLeadModal
                   trigger={
                     <Button size="lg" className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90" style={{ backgroundColor: '#e06e00' }}>
-                      Free Case Review
+                      {config.riskReversal.ctaText}
                     </Button>
                   }
                   source="risk-reversal"
@@ -713,7 +608,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           <div className="max-w-6xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-                What People Are Saying
+                {config.testimonials.title}
               </h2>
             </FadeIn>
 
@@ -760,7 +655,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                         variant="outline"
                         className="bg-transparent shadow-lg hover:shadow-xl transition-all duration-300 service-button"
                       >
-                        Get Your Success Story Started
+                        {config.testimonials.ctaText}
                       </Button>
                     }
                     source="testimonials"
@@ -781,13 +676,12 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
 
           <div className="max-w-4xl mx-auto text-center relative">
             <FadeIn direction="up" delay={0.1}>
-              <h2 className="text-3xl md:text-4xl font-bold mb-6 text-slate-800">Still Weighing Your Options?</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6 text-slate-800">{config.reassurance.title}</h2>
             </FadeIn>
 
             <FadeIn direction="up" delay={0.2}>
               <p className="text-xl mb-8 text-slate-700">
-                If you&apos;re not ready yet, that&apos;s perfectly fine. Explore your options, and when you&apos;re ready to take
-                action, we&apos;ll be here — prepared to fight for your full compensation.
+                {config.reassurance.desc}
               </p>
             </FadeIn>
 
@@ -800,7 +694,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                       variant="outline"
                       className="border-teal-600 text-teal-600 hover:bg-teal-600 hover:text-white font-bold text-lg px-8 py-4 bg-transparent shadow-lg hover:shadow-xl transition-all duration-300"
                     >
-                      Get Your Free Case Review When Ready
+                      {config.reassurance.ctaText}
                     </Button>
                   }
                   source="reassurance"
@@ -817,7 +711,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           <div className="max-w-4xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-slate-800">
-                Frequently Asked Questions
+                {config.faq.title}
               </h2>
             </FadeIn>
 
@@ -851,7 +745,7 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
                         variant="outline"
                         className="border-slate-600 text-slate-600 hover:bg-slate-600 hover:text-white bg-transparent shadow-lg hover:shadow-xl transition-all duration-300"
                       >
-                        Still Have Questions? Get Answers Now
+                        {config.faq.ctaText}
                       </Button>
                     }
                     source="faq"
