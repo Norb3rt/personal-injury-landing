@@ -30,7 +30,6 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
   const searchParams = useSearchParams()
   const [isPending, startTransition] = useTransition()
   const [toastMsg, setToastMsg] = useState<{ type: "success" | "error"; text: string } | null>(null)
-  const [formKey, setFormKey] = useState(0)
 
   // Auth States
   const [email, setEmail] = useState("")
@@ -147,7 +146,6 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
       if (res.success) {
         setToastMsg({ type: "success", text: "Configuration saved successfully!" })
         router.refresh()
-        setFormKey(prev => prev + 1)
         setTimeout(() => setToastMsg(null), 4000)
       } else {
         setToastMsg({ type: "error", text: res.error || "Failed to save configuration." })
@@ -363,7 +361,7 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
         </div>
 
         {/* Dynamic Landing Page Form */}
-        <form key={`${editLevel}-${selectedState}-${selectedCity}-${formKey}`} onSubmit={handleSave} className="space-y-8">
+        <form key={JSON.stringify(currentConfig)} onSubmit={handleSave} className="space-y-8">
           {/* Tab buttons */}
           <div className="flex border-b border-slate-800 gap-1 overflow-x-auto pb-px">
             {[
@@ -938,7 +936,6 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
                     if (res.success) {
                       setToastMsg({ type: "success", text: isTemplateMode ? "Template configuration reset to default successfully!" : "Customization reset to default template successfully!" })
                       router.refresh()
-                      setFormKey(prev => prev + 1)
                       setTimeout(() => setToastMsg(null), 4000)
                     } else {
                       setToastMsg({ type: "error", text: res.error || "Failed to reset configuration." })
