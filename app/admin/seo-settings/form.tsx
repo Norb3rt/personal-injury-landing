@@ -30,6 +30,7 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
   const searchParams = useSearchParams()
   const [isPending, startTransition] = useTransition()
   const [toastMsg, setToastMsg] = useState<{ type: "success" | "error"; text: string } | null>(null)
+  const [formKey, setFormKey] = useState(0)
 
   // Auth States
   const [email, setEmail] = useState("")
@@ -146,6 +147,7 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
       if (res.success) {
         setToastMsg({ type: "success", text: "Configuration saved successfully!" })
         router.refresh()
+        setFormKey(prev => prev + 1)
         setTimeout(() => setToastMsg(null), 4000)
       } else {
         setToastMsg({ type: "error", text: res.error || "Failed to save configuration." })
@@ -361,7 +363,7 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
         </div>
 
         {/* Dynamic Landing Page Form */}
-        <form onSubmit={handleSave} className="space-y-8">
+        <form key={`${editLevel}-${selectedState}-${selectedCity}-${formKey}`} onSubmit={handleSave} className="space-y-8">
           {/* Tab buttons */}
           <div className="flex border-b border-slate-800 gap-1 overflow-x-auto pb-px">
             {[
@@ -391,12 +393,12 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
           <Card className="border-slate-800 bg-slate-900/40 backdrop-blur-sm">
             <CardContent className="p-6 md:p-8 space-y-6">
               {/* TAB: SEO & HERO */}
-              {activeTab === "hero" && (
+              <div className={activeTab === "hero" ? "" : "hidden"}>
                 <div className="space-y-6">
                   <div className="border-b border-slate-800 pb-4 mb-4">
                     <h3 className="text-lg font-bold text-teal-400 flex items-center gap-2">
                       <FileText className="h-5 w-5" />
-                      <span>SEO Metadata Settings (English Only)</span>
+                      <span>SEO Metadata Settings</span>
                     </h3>
                     <p className="text-xs text-slate-400 mt-1">
                       You can write custom static text or insert <code className="text-teal-400 font-mono">{"{city}"}</code> and <code className="text-teal-400 font-mono">{"{state}"}</code> placeholders to keep it dynamically localized.
@@ -463,10 +465,10 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
                     </div>
                   </div>
                 </div>
-              )}
+              </div>
 
               {/* TAB: SERVICES */}
-              {activeTab === "services" && (
+              <div className={activeTab === "services" ? "" : "hidden"}>
                 <div className="space-y-6">
                   <div className="border-b border-slate-800 pb-4 mb-4">
                     <h3 className="text-lg font-bold text-teal-400">Services Layout</h3>
@@ -534,10 +536,10 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
                     })}
                   </div>
                 </div>
-              )}
+              </div>
 
               {/* TAB: PAIN POINTS */}
-              {activeTab === "painPoints" && (
+              <div className={activeTab === "painPoints" ? "" : "hidden"}>
                 <div className="space-y-6">
                   <div className="border-b border-slate-800 pb-4 mb-4">
                     <h3 className="text-lg font-bold text-teal-400">Pain Points Section</h3>
@@ -581,10 +583,10 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
                     </div>
                   </div>
                 </div>
-              )}
+              </div>
 
               {/* TAB: VALUE PROP */}
-              {activeTab === "valueProp" && (
+              <div className={activeTab === "valueProp" ? "" : "hidden"}>
                 <div className="space-y-6">
                   <div className="border-b border-slate-800 pb-4 mb-4">
                     <h3 className="text-lg font-bold text-teal-400">Value Proposition & Metrics</h3>
@@ -677,10 +679,10 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
                     </div>
                   </div>
                 </div>
-              )}
+              </div>
 
               {/* TAB: HOW IT WORKS */}
-              {activeTab === "howItWorks" && (
+              <div className={activeTab === "howItWorks" ? "" : "hidden"}>
                 <div className="space-y-6">
                   <div className="border-b border-slate-800 pb-4 mb-4">
                     <h3 className="text-lg font-bold text-teal-400">Process Steps</h3>
@@ -741,10 +743,10 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
                     </div>
                   </div>
                 </div>
-              )}
+              </div>
 
               {/* TAB: TESTIMONIALS */}
-              {activeTab === "testimonials" && (
+              <div className={activeTab === "testimonials" ? "" : "hidden"}>
                 <div className="space-y-6">
                   <div className="border-b border-slate-800 pb-4 mb-4">
                     <h3 className="text-lg font-bold text-teal-400">Customer Reviews</h3>
@@ -846,10 +848,10 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
                     </div>
                   </div>
                 </div>
-              )}
+              </div>
 
               {/* TAB: FAQs */}
-              {activeTab === "faq" && (
+              <div className={activeTab === "faq" ? "" : "hidden"}>
                 <div className="space-y-6">
                   <div className="border-b border-slate-800 pb-4 mb-4">
                     <h3 className="text-lg font-bold text-teal-400">Frequently Asked Questions (FAQ)</h3>
@@ -908,7 +910,7 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
                     </div>
                   </div>
                 </div>
-              )}
+              </div>
             </CardContent>
           </Card>
 
@@ -936,6 +938,7 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
                     if (res.success) {
                       setToastMsg({ type: "success", text: isTemplateMode ? "Template configuration reset to default successfully!" : "Customization reset to default template successfully!" })
                       router.refresh()
+                      setFormKey(prev => prev + 1)
                       setTimeout(() => setToastMsg(null), 4000)
                     } else {
                       setToastMsg({ type: "error", text: res.error || "Failed to reset configuration." })
