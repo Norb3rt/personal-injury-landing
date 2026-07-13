@@ -85,6 +85,11 @@ export function StateLegalInfo({ lawInfo, cityName }: StateLegalInfoProps) {
                         </CardContent>
                     </Card>
                 </FadeIn>
+                <FadeIn direction="up" delay={0.6}>
+                    <p className="text-xs text-gray-600 mt-8 mb-6 italic max-w-lg mx-auto text-center">
+                        Disclaimer: This is general legal information, not legal advice. Statutes of limitations vary by case and exceptions may apply — consult a licensed attorney about your specific deadline.
+                    </p>
+                </FadeIn>
             </div>
         </section>
     )

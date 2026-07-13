@@ -311,7 +311,7 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
                 <option value="global">🏙️ Default City Template (All Cities Fallback)</option>
                 <option value="state">🏢 State Override (All Cities in State)</option>
                 {/* Ocultado temporalmente para pruebas */}
-                {/* <option value="city">📍 City Override (Specific City)</option> */}
+                <option value="city">📍 City Override (Specific City)</option>
               </select>
             </div>
 

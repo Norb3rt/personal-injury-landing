@@ -142,7 +142,7 @@ export function LocalNews({ city, state, citySlug, stateSlug, initialNews, initi
                                     className="text-white font-bold px-8 shadow-lg hover:opacity-90"
                                     style={{ backgroundColor: '#e06e00' }}
                                 >
-                                    Get Free Legal Help Now
+                                    Get A Free Case Review
                                 </Button>
                             }
                             source="local-news"
