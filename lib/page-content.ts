@@ -89,9 +89,9 @@ export function replaceTokensInObject(
   if (typeof obj === 'string') {
     let text = obj.replace(/{city}/g, city).replace(/{state}/g, state);
     if (population) {
-      text = text.replace(/{population}/g, `the ${population} residents of`);
+      text = text.replace(/{population}/g, population);
     } else {
-      text = text.replace(/{population}/g, 'all of');
+      text = text.replace(/{population}/g, 'many');
     }
     text = text.replace(/{landmark}/g, landmark || 'me');
     return text;
@@ -406,7 +406,7 @@ export function getHardcodedFallbackConfig() {
     },
     hero: {
       h1: "Injured in {city}? Get the Settlement You Deserve.",
-      subtitle: "Your Search for a Personal Injury Attorney in {city} Ends Here. We provide legal support for accident claims, injuries, and more — proudly serving {population} {city}.",
+      subtitle: "Your Search for a Personal Injury Attorney in {city} Ends Here. We provide legal support for accident claims, injuries, and more — proudly serving the {population} residents of {city}.",
       ctaText: "Get a Free Case Review"
     },
     services: {
