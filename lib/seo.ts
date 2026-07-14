@@ -1,26 +1,11 @@
 // SEO utilities for programmatic SEO optimization
 // Updated to support new multi-state architecture with legacy compatibility
-// SAFETY UPDATE 1: Removed aggregateRating to comply with Google's spam policies.
-// SAFETY UPDATE 2: Removed telephone numbers entirely (Lead Gen / Digital-First model).
+// SAFETY: Removed aggregateRating to comply with Google's spam policies.
+// Organization schema uses the verified contact phone number (Lead Gen / Digital-First model).
 
 import { Metadata } from 'next'
 import { buildAbsoluteCityUrl } from './url'
 import { StateDataLoader } from '@/lib/data/state-loader'
-
-export interface CityCoordinates {
-  lat: number
-  lng: number
-}
-
-export interface CityMetadata {
-  name: string
-  slug: string
-  state: string
-  coordinates: CityCoordinates
-  population?: number
-  keywords: string[]
-  localKeywords: string[]
-}
 
 // Generate comprehensive metadata for city pages
 export async function generateCityMetadata(
@@ -303,10 +288,4 @@ export function newsArticleSchema(city: string, url: string, headline: string, d
       "@id": `${BASE}/personal-injury-lawyer/${city.toLowerCase()}/#service`,
     },
   };
-}
-
-// Validate if a city slug exists
-export async function isValidCitySlug(stateSlug: string, citySlug: string): Promise<boolean> {
-  const location = await StateDataLoader.findLocation(stateSlug, citySlug)
-  return !!location
 }
