@@ -25,7 +25,6 @@ import { StateLegalInfo } from "@/components/state-legal-info"
 import { LocalResources } from "@/components/local-resources"
 import { AccidentStatistics } from "@/components/accident-statistics"
 import { LocalNews } from "@/components/local-news"
-import { CompensationCalculator } from "@/components/compensation-calculator"
 import { CityGoogleMap } from "@/components/city-google-map"
 // Import territory / lawyer cards
 import { LawyerTerritoryCard } from "@/components/lawyers/lawyer-territory-card"
@@ -41,8 +40,6 @@ import {
   StaggerItem,
   AnimatedNumber,
   AnimatedButton,
-  TypingEffect,
-  AnimatedText,
   FloatingParticles,
   GlowEffect,
   ParallaxScroll,
@@ -424,13 +421,6 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           initialNews={newsItems}
           initialIsFallback={isNewsFallback}
         />
-
-        {/* Compensation Calculator */}
-        {/* <CompensationCalculator
-          city={city}
-          state={state}
-          stateSlug={paramState}
-        /> */}
 
         {/* Pain Points Section */}
         <section className="py-16 px-4 bg-red-50 relative overflow-hidden">

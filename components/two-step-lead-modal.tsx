@@ -13,7 +13,6 @@ import { Checkbox } from "@/components/ui/checkbox"
 import { useForm } from "react-hook-form"
 import { zodResolver } from "@hookform/resolvers/zod"
 import { z } from "zod"
-// import { submitLead } from "@/lib/actions"
 import { useToast } from "@/hooks/use-toast"
 import { Loader2, ArrowRight, ArrowLeft, CheckCircle, User, FileText, Shield, Clock } from "lucide-react"
 
@@ -115,8 +114,6 @@ export function TwoStepLeadModal({ trigger, source, city, state, caseType, onOpe
         source: "Personal Injury", // Always use "Landing Page" for CRM constraint
         timestamp: new Date().toISOString(),
       }
-
-      // const result = await submitLead(fullData)
 
       const result = await submitLeadToAPI(fullData)
 
