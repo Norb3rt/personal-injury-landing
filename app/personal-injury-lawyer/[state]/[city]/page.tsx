@@ -645,6 +645,10 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
               ))}
             </StaggerContainer>
 
+            <p className="text-xs text-gray-500 text-center mt-8 max-w-3xl mx-auto italic">
+              Testimonials do not constitute a guarantee, warranty, or prediction regarding the outcome of your legal matter. Past results do not guarantee future outcomes.
+            </p>
+
             <div className="text-center mt-8">
               <FadeIn direction="up" delay={0.3}>
                 <AnimatedButton magneticStrength={0.15} hoverScale={1.05}>
