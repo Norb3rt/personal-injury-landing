@@ -201,6 +201,8 @@ export async function updatePageContentConfig(
           { question: formData.get("faq.item.0.question") as string, answer: formData.get("faq.item.0.answer") as string },
           { question: formData.get("faq.item.1.question") as string, answer: formData.get("faq.item.1.answer") as string },
           { question: formData.get("faq.item.2.question") as string, answer: formData.get("faq.item.2.answer") as string },
+          { question: formData.get("faq.item.3.question") as string, answer: formData.get("faq.item.3.answer") as string },
+          { question: formData.get("faq.item.4.question") as string, answer: formData.get("faq.item.4.answer") as string },
         ].filter(f => f.question && f.answer),
       }
     }

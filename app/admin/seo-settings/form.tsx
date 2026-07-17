@@ -879,7 +879,7 @@ export default function AdminSeoForm({ adminUser, currentConfig, allLocations }:
                     </div>
 
                     <div className="space-y-4 pt-2">
-                      {[...Array(3)].map((_, i) => {
+                      {[...Array(5)].map((_, i) => {
                         const f = currentConfig.faq?.items?.[i] || {}
                         return (
                           <div key={i} className="p-4 bg-slate-950/60 border border-slate-800/80 rounded-xl space-y-3">
