@@ -20,6 +20,46 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+
+  /* Vertical infinite marquee for the "Top US Cities" section */
+  @keyframes marquee-vertical {
+    from {
+      transform: translateY(0);
+    }
+    to {
+      transform: translateY(-50%);
+    }
+  }
+  .animate-marquee-vertical {
+    animation: marquee-vertical var(--marquee-duration, 40s) linear infinite;
+  }
+  /* Fade top/bottom edges so cards drift in and out of view */
+  .marquee-mask {
+    -webkit-mask-image: linear-gradient(
+      to bottom,
+      transparent,
+      black 12%,
+      black 88%,
+      transparent
+    );
+    mask-image: linear-gradient(
+      to bottom,
+      transparent,
+      black 12%,
+      black 88%,
+      transparent
+    );
+  }
+  /* Pause the marquee when hovering a column so links are easy to click */
+  .marquee-pause-hover:hover .animate-marquee-vertical {
+    animation-play-state: paused;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-marquee-vertical {
+    animation: none;
+  }
 }
 
 @layer components {
