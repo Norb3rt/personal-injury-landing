@@ -4,6 +4,7 @@ import { Badge } from "@/components/ui/badge"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 import { Phone, Mail, MapPin, Star, Shield, Clock, DollarSign, FileText, Users, Scale, Handshake } from "lucide-react"
 import { StickyFooterCTA } from "@/components/sticky-footer-cta"
+import { TopCitiesGrid } from "@/components/top-cities-grid"
 import type { Metadata } from "next"
 
 import { AnalyticsProvider } from "@/components/analytics-provider"
@@ -106,6 +107,33 @@ export default async function HomePage() {
       lat: stateCoordinates[stateSlug].lat,
       lng: stateCoordinates[stateSlug].lng
     }))
+
+  // Load top cities for the indexable "Popular Locations" section.
+  // Filters to the curated majorCities of each state, then ranks by population.
+  const allLocations = await StateDataLoader.getAllProcessedLocations()
+  const topCities = await Promise.all(
+    allLocations.map(async (loc) => {
+      const stateConfig = await StateDataLoader.getStateConfig(loc.stateSlug).catch(() => null)
+      return { loc, stateConfig }
+    })
+  ).then((entries) =>
+    entries
+      .filter(({ loc, stateConfig }) => {
+        if (!stateConfig?.majorCities) return false
+        return stateConfig.majorCities.some(
+          (mc) => mc.toLowerCase() === loc.city.toLowerCase()
+        )
+      })
+      .sort((a, b) => (b.loc.population || 0) - (a.loc.population || 0))
+      .slice(0, 18)
+      .map(({ loc, stateConfig }) => ({
+        name: loc.city,
+        citySlug: loc.citySlug,
+        stateSlug: loc.stateSlug,
+        stateName: stateConfig?.name || loc.state,
+        stateAbbreviation: stateConfig?.abbreviation || loc.stateSlug.toUpperCase().slice(0, 2),
+      }))
+  )
 
   const services = config.services.items
   const testimonials = config.testimonials.items
@@ -264,6 +292,9 @@ export default async function HomePage() {
             </FadeIn>
           </div>
         </section>
+
+        {/* Popular Cities — server-rendered indexable links (SEO) */}
+        <TopCitiesGrid cities={topCities} />
 
         {/* Pain Points Section */}
         <section className="py-16 px-4 bg-red-50 relative overflow-hidden">
