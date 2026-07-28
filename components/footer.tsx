@@ -1,9 +1,16 @@
 "use client"
 
 import Link from "next/link"
+import { usePathname } from "next/navigation"
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
 
 export function Footer() {
+  const pathname = usePathname()
+
+  if (pathname?.startsWith("/admin")) {
+    return null
+  }
+
   return (
     <footer className="bg-gray-900 text-white py-8 px-4 pb-20">
       <div className="max-w-6xl mx-auto text-center">

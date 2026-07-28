@@ -201,7 +201,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
 
             <div className="text-center">
               <FadeIn direction="up" delay={0.2}>
-                <div className="text-6xl mb-6">{practiceArea.icon}</div>
+                <div className="text-6xl mb-6">{config.hero.icon || practiceArea.icon}</div>
               </FadeIn>
 
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
@@ -230,7 +230,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                     source={`hero-${practice}`}
                     city={city}
                     state={state}
-                    caseType={practiceArea.name}
+                    caseType={config.meta?.name || practiceArea.name}
                   />
                 </AnimatedButton>
               </FadeIn>
@@ -277,21 +277,21 @@ export default async function PracticeAreaPage({ params }: PageProps) {
           <div className="max-w-4xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-8 text-gray-900">
-                About {practiceArea.name} Cases in {city}
+                About {config.meta?.name || practiceArea.name} Cases in {city}
               </h2>
             </FadeIn>
 
             <FadeIn direction="up" delay={0.2}>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                {practiceArea.longDescription}
+                {config.about?.longDescription || practiceArea.longDescription}
               </p>
             </FadeIn>
 
             <FadeIn direction="up" delay={0.3}>
               <div className="bg-gradient-to-br from-blue-50 to-teal-50 rounded-lg p-8 border border-blue-100">
-                <h3 className="text-2xl font-bold mb-4 text-gray-900">Common Injuries in {practiceArea.name} Cases</h3>
+                <h3 className="text-2xl font-bold mb-4 text-gray-900">Common Injuries in {config.meta?.name || practiceArea.name} Cases</h3>
                 <ul className="grid md:grid-cols-2 gap-3">
-                  {practiceArea.commonInjuries.map((injury, index) => (
+                  {(config.about?.commonInjuries && config.about.commonInjuries.length > 0 ? config.about.commonInjuries : practiceArea.commonInjuries).map((injury, index) => (
                     <li key={index} className="flex items-start">
                       <CheckCircle2 className="h-5 w-5 text-teal-600 mr-2 mt-0.5 flex-shrink-0" />
                       <span className="text-gray-700">{injury}</span>
@@ -311,7 +311,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
                         className="text-white font-bold text-lg px-8 py-4 shadow-xl hover:opacity-90"
                         style={{ backgroundColor: '#0B6B65' }}
                       >
-                        Discuss Your {practiceArea.name} Case
+                        {config.about?.ctaText || `Discuss Your ${practiceArea.name} Case`}
                       </Button>
                     }
                     source={`about-${practice}`}
@@ -330,57 +330,43 @@ export default async function PracticeAreaPage({ params }: PageProps) {
           <div className="max-w-6xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-                Why Choose Our {practiceArea.name} Attorneys in {city}
+                {config.whyChoose?.title || `Why Choose Our ${config.meta?.name || practiceArea.name} Attorneys in ${city}`}
               </h2>
             </FadeIn>
             <StaggerContainer staggerDelay={0.1} className="grid md:grid-cols-3 gap-8">
-              <StaggerItem>
-                <Card className="h-full border-0 shadow-lg hover:shadow-xl transition-all duration-300">
-                  <CardContent className="p-6 text-center">
-                    <GlowEffect glowColor="rgba(59, 130, 246, 0.3)" intensity={0.8} className="mb-4">
-                      <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-teal-500 rounded-full flex items-center justify-center mx-auto">
-                        <Scale className="h-8 w-8 text-white" />
-                      </div>
-                    </GlowEffect>
-                    <h3 className="text-xl font-semibold mb-3 text-gray-900">Proven Track Record</h3>
-                    <p className="text-gray-600">
-                      We bring experience and dedication to every {practiceArea.name.toLowerCase()} case we handle, fighting to pursue the compensation our clients deserve.
-                    </p>
-                  </CardContent>
-                </Card>
-              </StaggerItem>
-
-              <StaggerItem>
-                <Card className="h-full border-0 shadow-lg hover:shadow-xl transition-all duration-300">
-                  <CardContent className="p-6 text-center">
-                    <GlowEffect glowColor="rgba(59, 130, 246, 0.3)" intensity={0.8} className="mb-4">
-                      <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-teal-500 rounded-full flex items-center justify-center mx-auto">
-                        <Users className="h-8 w-8 text-white" />
-                      </div>
-                    </GlowEffect>
-                    <h3 className="text-xl font-semibold mb-3 text-gray-900">Personalized Attention</h3>
-                    <p className="text-gray-600">
-                      Every case is unique. Our attorneys provide personalized strategies tailored to your specific {practiceArea.name.toLowerCase()} situation.
-                    </p>
-                  </CardContent>
-                </Card>
-              </StaggerItem>
-
-              <StaggerItem>
-                <Card className="h-full border-0 shadow-lg hover:shadow-xl transition-all duration-300">
-                  <CardContent className="p-6 text-center">
-                    <GlowEffect glowColor="rgba(59, 130, 246, 0.3)" intensity={0.8} className="mb-4">
-                      <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-teal-500 rounded-full flex items-center justify-center mx-auto">
-                        <FileText className="h-8 w-8 text-white" />
-                      </div>
-                    </GlowEffect>
-                    <h3 className="text-xl font-semibold mb-3 text-gray-900">No Upfront Costs</h3>
-                    <p className="text-gray-600">
-                      We work on a contingency fee basis — no attorney's fees unless we recover compensation for your case.
-                    </p>
-                  </CardContent>
-                </Card>
-              </StaggerItem>
+              {((config.whyChoose?.items && config.whyChoose.items.length > 0) ? config.whyChoose.items : [
+                {
+                  title: "Proven Track Record",
+                  desc: `We bring experience and dedication to every ${(config.meta?.name || practiceArea.name).toLowerCase()} case we handle, fighting to pursue the compensation our clients deserve.`
+                },
+                {
+                  title: "Personalized Attention",
+                  desc: `Every case is unique. Our attorneys provide personalized strategies tailored to your specific ${(config.meta?.name || practiceArea.name).toLowerCase()} situation.`
+                },
+                {
+                  title: "No Upfront Costs",
+                  desc: "We work on a contingency fee basis — no attorney's fees unless we recover compensation for your case."
+                }
+              ]).map((item, idx) => {
+                const CardIcon = idx === 0 ? Scale : idx === 1 ? Users : FileText
+                return (
+                  <StaggerItem key={idx}>
+                    <Card className="h-full border-0 shadow-lg hover:shadow-xl transition-all duration-300">
+                      <CardContent className="p-6 text-center">
+                        <GlowEffect glowColor="rgba(59, 130, 246, 0.3)" intensity={0.8} className="mb-4">
+                          <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-teal-500 rounded-full flex items-center justify-center mx-auto">
+                            <CardIcon className="h-8 w-8 text-white" />
+                          </div>
+                        </GlowEffect>
+                        <h3 className="text-xl font-semibold mb-3 text-gray-900">{item.title}</h3>
+                        <p className="text-gray-600">
+                          {item.desc}
+                        </p>
+                      </CardContent>
+                    </Card>
+                  </StaggerItem>
+                )
+              })}
             </StaggerContainer>
           </div>
         </section>

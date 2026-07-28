@@ -11,6 +11,24 @@ export interface PageContent {
     h1: string;
     subtitle: string;
     ctaText: string;
+    icon?: string;
+  };
+  about?: {
+    longDescription?: string;
+    commonInjuries?: string[];
+    ctaText?: string;
+  };
+  meta?: {
+    name?: string;
+    description?: string;
+    keywords?: string[];
+  };
+  whyChoose?: {
+    title?: string;
+    items?: Array<{
+      title: string;
+      desc: string;
+    }>;
   };
   services: {
     title: string;
@@ -214,41 +232,66 @@ export async function getMergedPageConfig(
   let mergedSections = baseSections ? deepMerge(fallback, baseSections) : fallback;
 
   try {
-    // 3. Query State-Level Override (where city_slug is null/empty)
-    const { data: stateOverride } = await supabaseServer
+    // 3. Query State-Level General Override (where city_slug and practice_slug are null)
+    const { data: stateGeneralOverride } = await supabaseServer
       .from('location_page_configs')
       .select('sections')
       .eq('state_slug', stateSlug)
       .is('city_slug', null)
+      .is('practice_slug', null)
       .maybeSingle();
 
-    if (stateOverride && stateOverride.sections) {
-      mergedSections = deepMerge(mergedSections, stateOverride.sections);
+    if (stateGeneralOverride && stateGeneralOverride.sections) {
+      mergedSections = deepMerge(mergedSections, stateGeneralOverride.sections);
     }
 
-    // 4. Query City-Level Override (specific state and city)
-    let cityQuery = supabaseServer
+    // 4. Query State-Level Practice Override (where city_slug is null, matching practice_slug)
+    if (practiceSlug) {
+      const { data: statePracticeOverride } = await supabaseServer
+        .from('location_page_configs')
+        .select('sections')
+        .eq('state_slug', stateSlug)
+        .is('city_slug', null)
+        .eq('practice_slug', practiceSlug)
+        .maybeSingle();
+
+      if (statePracticeOverride && statePracticeOverride.sections) {
+        mergedSections = deepMerge(mergedSections, statePracticeOverride.sections);
+      }
+    }
+
+    // 5. Query City-Level General Override (specific state and city, practice_slug null)
+    const { data: cityGeneralOverride } = await supabaseServer
       .from('location_page_configs')
       .select('sections')
       .eq('state_slug', stateSlug)
-      .eq('city_slug', citySlug);
+      .eq('city_slug', citySlug)
+      .is('practice_slug', null)
+      .maybeSingle();
 
-    if (practiceSlug) {
-      cityQuery = cityQuery.eq('practice_slug', practiceSlug);
-    } else {
-      cityQuery = cityQuery.is('practice_slug', null);
+    if (cityGeneralOverride && cityGeneralOverride.sections) {
+      mergedSections = deepMerge(mergedSections, cityGeneralOverride.sections);
     }
 
-    const { data: cityOverride } = await cityQuery.maybeSingle();
+    // 6. Query City-Level Practice Override (specific state, city, and matching practice_slug)
+    if (practiceSlug) {
+      const { data: cityPracticeOverride } = await supabaseServer
+        .from('location_page_configs')
+        .select('sections')
+        .eq('state_slug', stateSlug)
+        .eq('city_slug', citySlug)
+        .eq('practice_slug', practiceSlug)
+        .maybeSingle();
 
-    if (cityOverride && cityOverride.sections) {
-      mergedSections = deepMerge(mergedSections, cityOverride.sections);
+      if (cityPracticeOverride && cityPracticeOverride.sections) {
+        mergedSections = deepMerge(mergedSections, cityPracticeOverride.sections);
+      }
     }
   } catch (err) {
     console.error('Error fetching location overrides from Supabase:', err);
   }
 
-  // 5. Replace {city}, {state}, {population}, and {landmark} recursively in the final merged object
+  // 7. Replace {city}, {state}, {population}, and {landmark} recursively in the final merged object
   return replaceTokensInObject(mergedSections, city, state, resolvedPopulation, resolvedLandmark) as PageContent;
 }
 
@@ -265,13 +308,20 @@ export async function getRawPageConfig(
 
   try {
     if (stateSlug) {
-      // 1. Merge State-Level Override (where city_slug is null)
-      const { data: stateOverride } = await supabaseServer
+      // 1. Merge State-Level Override
+      let stateQuery = supabaseServer
         .from('location_page_configs')
         .select('sections')
         .eq('state_slug', stateSlug)
-        .is('city_slug', null)
-        .maybeSingle();
+        .is('city_slug', null);
+
+      if (practiceSlug) {
+        stateQuery = stateQuery.eq('practice_slug', practiceSlug);
+      } else {
+        stateQuery = stateQuery.is('practice_slug', null);
+      }
+
+      const { data: stateOverride } = await stateQuery.maybeSingle();
 
       if (stateOverride && stateOverride.sections) {
         mergedSections = deepMerge(mergedSections, stateOverride.sections);
@@ -407,7 +457,35 @@ export function getHardcodedFallbackConfig() {
     hero: {
       h1: "Injured in {city}? Get the Settlement You Deserve.",
       subtitle: "Your Search for a Personal Injury Attorney in {city} Ends Here. We provide legal support for accident claims, injuries, and more — proudly serving the {population} residents of {city}.",
-      ctaText: "Get a Free Case Review"
+      ctaText: "Get a Free Case Review",
+      icon: ""
+    },
+    about: {
+      longDescription: "",
+      commonInjuries: [],
+      ctaText: "Discuss Your Case"
+    },
+    meta: {
+      name: "",
+      description: "",
+      keywords: []
+    },
+    whyChoose: {
+      title: "Why Choose Our Attorneys in {city}",
+      items: [
+        {
+          title: "Proven Track Record",
+          desc: "We bring experience and dedication to every case we handle, fighting to pursue the compensation our clients deserve."
+        },
+        {
+          title: "Personalized Attention",
+          desc: "Every case is unique. Our attorneys provide personalized strategies tailored to your specific situation."
+        },
+        {
+          title: "No Upfront Costs",
+          desc: "We work on a contingency fee basis — no attorney's fees unless we recover compensation for your case."
+        }
+      ]
     },
     services: {
       title: "Personal Injury Services in {city}",
