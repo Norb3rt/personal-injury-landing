@@ -14,7 +14,9 @@ export interface PageContent {
     icon?: string;
   };
   about?: {
+    title?: string;
     longDescription?: string;
+    commonInjuriesTitle?: string;
     commonInjuries?: string[];
     ctaText?: string;
   };
@@ -102,7 +104,8 @@ export function replaceTokensInObject(
   city: string,
   state: string,
   population?: string | null,
-  landmark?: string | null
+  landmark?: string | null,
+  practiceName?: string | null
 ): any {
   if (typeof obj === 'string') {
     let text = obj.replace(/{city}/g, city).replace(/{state}/g, state);
@@ -112,15 +115,18 @@ export function replaceTokensInObject(
       text = text.replace(/{population}/g, 'many');
     }
     text = text.replace(/{landmark}/g, landmark || 'me');
+    if (practiceName) {
+      text = text.replace(/{practiceName}/g, practiceName).replace(/{practice}/g, practiceName);
+    }
     return text;
   }
   if (Array.isArray(obj)) {
-    return obj.map(item => replaceTokensInObject(item, city, state, population, landmark));
+    return obj.map(item => replaceTokensInObject(item, city, state, population, landmark, practiceName));
   }
   if (typeof obj === 'object' && obj !== null) {
     const result: any = {};
     for (const key in obj) {
-      result[key] = replaceTokensInObject(obj[key], city, state, population, landmark);
+      result[key] = replaceTokensInObject(obj[key], city, state, population, landmark, practiceName);
     }
     return result;
   }
@@ -291,8 +297,9 @@ export async function getMergedPageConfig(
     console.error('Error fetching location overrides from Supabase:', err);
   }
 
-  // 7. Replace {city}, {state}, {population}, and {landmark} recursively in the final merged object
-  return replaceTokensInObject(mergedSections, city, state, resolvedPopulation, resolvedLandmark) as PageContent;
+  // 7. Replace {city}, {state}, {population}, {landmark}, and {practiceName} recursively in the final merged object
+  const resolvedPracticeName = mergedSections?.meta?.name || (practiceSlug ? toTitleCase(practiceSlug) : '');
+  return replaceTokensInObject(mergedSections, city, state, resolvedPopulation, resolvedLandmark, resolvedPracticeName) as PageContent;
 }
 
 // Fetch the raw configuration for the dashboard (keeps placeholders intact)
@@ -461,7 +468,9 @@ export function getHardcodedFallbackConfig() {
       icon: ""
     },
     about: {
+      title: "About {practiceName} Cases in {city}",
       longDescription: "",
+      commonInjuriesTitle: "Common Injuries in {practiceName} Cases",
       commonInjuries: [],
       ctaText: "Discuss Your Case"
     },

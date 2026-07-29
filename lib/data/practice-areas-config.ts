@@ -249,34 +249,11 @@ export const PRACTICE_AREAS: PracticeArea[] = [
   }
 ]
 
-import { supabaseServer } from "@/lib/supabase-server"
-
 /**
  * Get practice area by slug (Sync - fallback to static)
  */
 export function getPracticeAreaBySlug(slug: string): PracticeArea | undefined {
   return PRACTICE_AREAS.find(area => area.slug === slug)
-}
-
-/**
- * Get practice area by slug (Async - fetches DB overrides if present)
- */
-export async function getPracticeAreaBySlugAsync(slug: string): Promise<PracticeArea | undefined> {
-  try {
-    const { data } = await supabaseServer
-      .from("page_config_templates")
-      .select("sections")
-      .eq("page_key", "practice_areas_meta")
-      .maybeSingle()
-
-    if (data?.sections?.items && Array.isArray(data.sections.items)) {
-      const found = data.sections.items.find((item: PracticeArea) => item.slug === slug)
-      if (found) return found
-    }
-  } catch (err) {
-    console.error("Error fetching dynamic practice area by slug:", err)
-  }
-  return getPracticeAreaBySlug(slug)
 }
 
 /**

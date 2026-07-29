@@ -277,7 +277,7 @@ export default async function PracticeAreaPage({ params }: PageProps) {
           <div className="max-w-4xl mx-auto">
             <FadeIn direction="up" delay={0.1}>
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-8 text-gray-900">
-                About {config.meta?.name || practiceArea.name} Cases in {city}
+                {config.about?.title || `About ${config.meta?.name || practiceArea.name} Cases in ${city}`}
               </h2>
             </FadeIn>
 
@@ -289,7 +289,9 @@ export default async function PracticeAreaPage({ params }: PageProps) {
 
             <FadeIn direction="up" delay={0.3}>
               <div className="bg-gradient-to-br from-blue-50 to-teal-50 rounded-lg p-8 border border-blue-100">
-                <h3 className="text-2xl font-bold mb-4 text-gray-900">Common Injuries in {config.meta?.name || practiceArea.name} Cases</h3>
+                <h3 className="text-2xl font-bold mb-4 text-gray-900">
+                  {config.about?.commonInjuriesTitle || `Common Injuries in ${config.meta?.name || practiceArea.name} Cases`}
+                </h3>
                 <ul className="grid md:grid-cols-2 gap-3">
                   {(config.about?.commonInjuries && config.about.commonInjuries.length > 0 ? config.about.commonInjuries : practiceArea.commonInjuries).map((injury, index) => (
                     <li key={index} className="flex items-start">

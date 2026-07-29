@@ -130,7 +130,9 @@ export async function updatePracticePageConfig(
         icon: (formData.get("hero.icon") as string) || fallback.hero.icon || "⚖️",
       },
       about: {
+        title: (formData.get("about.title") as string) || fallback.about?.title || "",
         longDescription: (formData.get("about.longDescription") as string) || "",
+        commonInjuriesTitle: (formData.get("about.commonInjuriesTitle") as string) || fallback.about?.commonInjuriesTitle || "",
         commonInjuries: injuries,
         ctaText: (formData.get("about.ctaText") as string) || fallback.about?.ctaText || "Discuss Your Case",
       },

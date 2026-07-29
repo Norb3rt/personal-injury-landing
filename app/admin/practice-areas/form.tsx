@@ -35,7 +35,7 @@ function cleanSingleEmoji(icon: string): string {
   const tokens = trimmed.split(/\s+/)
   return tokens[0] || trimmed
 }
-import { PracticeArea } from "@/lib/data/practice-areas-config"
+import { PracticeArea, PRACTICE_AREAS } from "@/lib/data/practice-areas-config"
 import {
   Shield,
   LayoutDashboard,
@@ -132,15 +132,28 @@ export default function AdminPracticeAreasForm({
       commonInjuries: [],
       faqItems: []
     }
+    const factoryMeta = PRACTICE_AREAS.find(p => p.slug === selectedPractice)
+
+    const resolvedLongDesc = (currentConfig?.about?.longDescription && currentConfig.about.longDescription.trim() !== "")
+      ? currentConfig.about.longDescription
+      : (meta.longDescription && meta.longDescription.trim() !== "")
+        ? meta.longDescription
+        : (factoryMeta?.longDescription || "")
+
+    const resolvedInjuries = (currentConfig?.about?.commonInjuries && currentConfig.about.commonInjuries.length > 0)
+      ? currentConfig.about.commonInjuries
+      : (meta.commonInjuries && meta.commonInjuries.length > 0)
+        ? meta.commonInjuries
+        : (factoryMeta?.commonInjuries || [])
 
     setMetaForm({
       ...meta,
       name: currentConfig?.meta?.name || meta.name,
       icon: cleanSingleEmoji(currentConfig?.hero?.icon || meta.icon),
       description: currentConfig?.meta?.description || meta.description,
-      longDescription: currentConfig?.about?.longDescription !== undefined ? currentConfig.about.longDescription : meta.longDescription,
-      commonInjuries: (currentConfig?.about?.commonInjuries && currentConfig.about.commonInjuries.length > 0) ? currentConfig.about.commonInjuries : meta.commonInjuries,
-      keywords: currentConfig?.meta?.keywords !== undefined ? currentConfig.meta.keywords : meta.keywords,
+      longDescription: resolvedLongDesc,
+      commonInjuries: resolvedInjuries,
+      keywords: (currentConfig?.meta?.keywords && currentConfig.meta.keywords.length > 0) ? currentConfig.meta.keywords : meta.keywords,
     })
   }, [selectedPractice, practiceAreas, currentConfig])
 
@@ -538,7 +551,7 @@ export default function AdminPracticeAreasForm({
         </div>
 
         {/* Streamlined Practice Area Editor Form */}
-        <form key={JSON.stringify(currentConfig) + JSON.stringify(metaForm) + editLevel + selectedState + selectedCity} onSubmit={handleSave} className="space-y-8">
+        <form key={JSON.stringify(currentConfig) + editLevel + selectedState + selectedCity} onSubmit={handleSave} className="space-y-8">
           {/* Practice Area Page Specific Tabs */}
           <div className="flex border-b border-slate-800 gap-1 overflow-x-auto pb-px">
             {[
@@ -689,6 +702,17 @@ export default function AdminPracticeAreasForm({
                   </div>
 
                   <div className="space-y-2">
+                    <Label className="text-slate-300">About Section Main Title</Label>
+                    <Input
+                      name="about.title"
+                      defaultValue={currentConfig.about?.title || `About ${practiceName} Cases in {city}`}
+                      placeholder={`About ${practiceName} Cases in {city}`}
+                      className="bg-slate-950 border-slate-800 text-white"
+                    />
+                    <p className="text-xs text-slate-500">Main section header (e.g. &quot;About Car &amp; Truck Accident Cases in {"{city}"}&quot;).</p>
+                  </div>
+
+                  <div className="space-y-2">
                     <Label className="text-slate-300">About Section Long Description Paragraph</Label>
                     <Textarea
                       name="about.longDescription"
@@ -697,7 +721,7 @@ export default function AdminPracticeAreasForm({
                       placeholder="Car accidents can result in serious injuries, property damage, and financial hardship..."
                       className="bg-slate-950 border-slate-800 text-white min-h-[160px]"
                     />
-                    <p className="text-xs text-slate-500">This text appears directly on the live page under &quot;About {practiceName} Cases in {"{city}"}&quot;.</p>
+                    <p className="text-xs text-slate-500">This text appears directly on the live page under the About title.</p>
                   </div>
 
                   <div className="space-y-2 pt-2">
@@ -709,6 +733,16 @@ export default function AdminPracticeAreasForm({
                       className="bg-slate-950 border-slate-800 text-white max-w-md"
                     />
                     <p className="text-xs text-slate-500">The CTA button text rendered at the bottom of the About section.</p>
+                  </div>
+
+                  <div className="space-y-2 pt-2">
+                    <Label className="text-slate-300">Common Injuries Box Title</Label>
+                    <Input
+                      name="about.commonInjuriesTitle"
+                      defaultValue={currentConfig.about?.commonInjuriesTitle || `Common Injuries in ${practiceName} Cases`}
+                      placeholder={`Common Injuries in ${practiceName} Cases`}
+                      className="bg-slate-950 border-slate-800 text-white"
+                    />
                   </div>
 
                   {/* Common Injuries List */}
