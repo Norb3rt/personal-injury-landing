@@ -135,15 +135,30 @@ export function replaceTokensInObject(
 
 // Deep merging helper that merges arrays index-by-index and maps object keys
 export function deepMerge(target: any, source: any): any {
-  // If target is an array and source is an array, merge them index-by-index
+  // If target is an array and source is an array
   if (Array.isArray(target) && Array.isArray(source)) {
-    return target.map((targetItem, idx) => {
+    if (source.length === 0) return target;
+    // If array of primitives (strings, numbers), the source array overrides the target array
+    if (source.every(item => typeof item !== 'object' || item === null)) {
+      return source;
+    }
+    // If array of objects (like FAQ or whyChoose items), merge index-by-index
+    const maxLen = Math.max(target.length, source.length);
+    const result = [];
+    for (let idx = 0; idx < maxLen; idx++) {
+      const targetItem = target[idx];
       const sourceItem = source[idx];
-      if (sourceItem === undefined || sourceItem === null || sourceItem === "") {
-        return targetItem;
+      if (sourceItem !== undefined && sourceItem !== null && sourceItem !== "") {
+        if (targetItem !== undefined && typeof targetItem === 'object' && targetItem !== null && typeof sourceItem === 'object') {
+          result.push(deepMerge(targetItem, sourceItem));
+        } else {
+          result.push(sourceItem);
+        }
+      } else if (targetItem !== undefined) {
+        result.push(targetItem);
       }
-      return deepMerge(targetItem, sourceItem);
-    });
+    }
+    return result;
   }
 
   // If they are objects, merge their keys recursively
