@@ -9,7 +9,7 @@ import { Footer } from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
-const imageUrl = `${baseUrl}/images/logo-favicon.jpg`
+const imageUrl = `${baseUrl}/images/logo.png`
 
 export const metadata: Metadata = {
   title: "Personal Injury Lawyers | Nationwide Legal Help | Free Consultation",
@@ -40,13 +40,15 @@ export const metadata: Metadata = {
     images: [imageUrl],
   },
   icons: {
-    icon: imageUrl,
-    shortcut: imageUrl,
-    apple: imageUrl,
-    other: {
-      rel: 'apple-touch-icon-precomposed',
-      url: imageUrl,
-    },
+    icon: [
+      { url: '/favicon.ico', sizes: 'any', type: 'image/x-icon' },
+      { url: '/favicon-48x48.png', sizes: '48x48', type: 'image/png' },
+      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/icon-192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/icon-512.png', sizes: '512x512', type: 'image/png' },
+    ],
+    shortcut: [{ url: '/favicon.ico', type: 'image/x-icon' }],
+    apple: [{ url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }],
   },
   robots: {
     index: true,

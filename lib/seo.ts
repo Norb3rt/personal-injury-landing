@@ -44,7 +44,7 @@ export async function generateCityMetadata(
         siteName: 'LawProactive',
         images: [
           {
-            url: `${baseUrl}/images/logo-favicon.jpg`,
+            url: `${baseUrl}/images/logo.png`,
             width: 1200,
             height: 630,
             alt: `${cityName} Personal Injury Lawyer`,
@@ -57,7 +57,7 @@ export async function generateCityMetadata(
         card: 'summary_large_image',
         title: `${cityName} Personal Injury Lawyer | Free Consultation`,
         description: `Injured in ${cityName}, ${cityData.state}? Get maximum compensation with our experienced personal injury attorneys. No win, no fee.`,
-        images: [`${baseUrl}/images/logo-favicon.jpg`],
+        images: [`${baseUrl}/images/logo.png`],
       },
       robots: {
         index: true,
@@ -125,7 +125,7 @@ export const CONFIG = {
     name: "LawProactive",
     legalName: "LawProactive, Inc.",
     url: BASE,
-    logo: `${BASE}/images/logo.jpg`.trim(),
+    logo: `${BASE}/images/logo.png`.trim(),
     phone: "+1-213-394-5867".trim(),
     email: "lawproactive@gmail.com".trim(),
     address: {
@@ -188,6 +188,7 @@ export function websiteSchema() {
     "@id": `${BASE}/#website`,
     url: BASE,
     name: CONFIG.org.name,
+    alternateName: ["Law Proactive", "LawProactive Personal Injury Lawyers"],
     publisher: { "@id": `${BASE}/#org` },
   };
 }
