@@ -30,7 +30,7 @@ import {
 export async function generateMetadata(): Promise<Metadata> {
   const config = await getHomepageConfig();
   const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com';
-  const imageUrl = `${baseUrl}/images/logo.png`;
+  const ogImageUrl = `${baseUrl}/images/og-image.jpg`;
 
   return {
     title: config.seo.metaTitle,
@@ -45,7 +45,9 @@ export async function generateMetadata(): Promise<Metadata> {
       siteName: 'LawProactive',
       images: [
         {
-          url: imageUrl,
+          url: ogImageUrl,
+          secureUrl: ogImageUrl,
+          type: 'image/jpeg',
           width: 1200,
           height: 630,
           alt: 'LawProactive Personal Injury Lawyers',
@@ -58,7 +60,7 @@ export async function generateMetadata(): Promise<Metadata> {
       card: 'summary_large_image',
       title: config.seo.metaTitle,
       description: config.seo.metaDescription,
-      images: [imageUrl],
+      images: [ogImageUrl],
     },
   };
 }

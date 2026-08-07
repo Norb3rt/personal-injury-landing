@@ -9,7 +9,7 @@ import { Footer } from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com'
-const imageUrl = `${baseUrl}/images/logo.png`
+const ogImageUrl = `${baseUrl}/images/og-image.jpg`
 
 export const metadata: Metadata = {
   title: "Personal Injury Lawyers | Nationwide Legal Help | Free Consultation",
@@ -24,7 +24,9 @@ export const metadata: Metadata = {
     siteName: 'LawProactive',
     images: [
       {
-        url: imageUrl,
+        url: ogImageUrl,
+        secureUrl: ogImageUrl,
+        type: 'image/jpeg',
         width: 1200,
         height: 630,
         alt: 'Nationwide Personal Injury Lawyers',
@@ -37,7 +39,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "Personal Injury Lawyers | Nationwide Legal Help | Free Consultation",
     description: "Connect with top personal injury attorneys across the USA. No win, no fee. Get the settlement you deserve.",
-    images: [imageUrl],
+    images: [ogImageUrl],
   },
   icons: {
     icon: [
