@@ -29,11 +29,36 @@ import {
 
 export async function generateMetadata(): Promise<Metadata> {
   const config = await getHomepageConfig();
+  const baseUrl = process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com';
+  const imageUrl = `${baseUrl}/images/logo.png`;
+
   return {
     title: config.seo.metaTitle,
     description: config.seo.metaDescription,
     alternates: {
-      canonical: process.env.NEXT_PUBLIC_DOMAIN || 'https://personalinjury.lawproactive.com',
+      canonical: baseUrl,
+    },
+    openGraph: {
+      title: config.seo.metaTitle,
+      description: config.seo.metaDescription,
+      url: baseUrl,
+      siteName: 'LawProactive',
+      images: [
+        {
+          url: imageUrl,
+          width: 1200,
+          height: 630,
+          alt: 'LawProactive Personal Injury Lawyers',
+        },
+      ],
+      locale: 'en_US',
+      type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: config.seo.metaTitle,
+      description: config.seo.metaDescription,
+      images: [imageUrl],
     },
   };
 }

@@ -78,7 +78,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       siteName: 'LawProactive',
       images: [
         {
-          url: `${baseUrl}/images/logo-favicon.jpg`,
+          url: `${baseUrl}/images/logo.png`,
           width: 1200,
           height: 630,
           alt: `${city} Personal Injury Lawyer`,
@@ -91,7 +91,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       card: 'summary_large_image',
       title: config.seo.metaTitle,
       description: config.seo.metaDescription,
-      images: [`${baseUrl}/images/logo-favicon.jpg`],
+      images: [`${baseUrl}/images/logo.png`],
     },
     robots: {
       index: true,

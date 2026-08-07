@@ -62,8 +62,22 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description: config.seo.metaDescription,
       url: canonicalUrl,
       siteName: 'LawProactive',
+      images: [
+        {
+          url: `${baseUrl}/images/logo.png`,
+          width: 1200,
+          height: 630,
+          alt: `${city} Personal Injury Lawyer`,
+        },
+      ],
       locale: 'en_US',
       type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: config.seo.metaTitle,
+      description: config.seo.metaDescription,
+      images: [`${baseUrl}/images/logo.png`],
     },
     robots: {
       index: true,
