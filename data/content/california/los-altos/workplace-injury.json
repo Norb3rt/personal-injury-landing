@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "los-altos workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Altos Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Los Altos? Get connected free with an independent attorney who understands third-party and workers' comp claims in Santa Clara County."
+  },
+  "hero": {
+    "subtitle": "If a job injury happened on a Los Altos worksite, delivery route, or job site near Foothill Expwy or El Camino Real, LawProactive can connect you with an independent attorney familiar with Santa Clara County workplace claims — free of charge."
+  },
+  "about": {
+    "title": "Los Altos Workplace Injury Claims",
+    "longDescription": "Los Altos may feel like a quiet corner of Santa Clara County, but its mix of tech offices, retail corridors along El Camino Real, and construction sites still generates its share of workplace injuries — falls, equipment accidents, vehicle-related incidents on routes like Foothill Expwy or near I-280. Most of the time, California workers' compensation is the only path against an employer, no matter who was at fault. But when a subcontractor, property owner, equipment manufacturer, or another driver contributed to the injury, a separate third-party claim may be possible alongside comp benefits. LawProactive doesn't practice law or handle claims directly — we simply connect injured Los Altos workers with an independent attorney who can look at the full picture, sort out what applies, and explain options without pressure or cost to start.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Repetitive strain and overexertion injuries",
+      "Struck-by or caught-in equipment accidents",
+      "Vehicle collisions during work-related driving",
+      "Slip-and-fall injuries on client or third-party property",
+      "Injuries from defective tools or machinery"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — no cost to start."
+  },
+  "whyChoose": {
+    "title": "Why Los Altos Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Beyond Workers' Comp",
+        "desc": "When someone other than your employer — like a subcontractor, equipment maker, or another driver — contributed to your injury, a separate claim outside the workers' comp system may be available."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to punish you for reporting a workplace injury, and understanding this protection matters before deciding how to move forward."
+      },
+      {
+        "title": "Clarity on Deadlines That Matter",
+        "desc": "Employer injury reports are generally due within 30 days, while a third-party injury claim typically carries a 2-year filing deadline — an attorney can help you track both."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a construction site near Foothill Expwy — can I sue the property owner instead of just filing workers' comp?",
+        "answer": "Possibly. If a property owner, contractor, or other party besides your employer contributed to the unsafe conditions, you may be able to pursue a third-party claim in addition to standard workers' compensation. An independent attorney can review the site details and determine who else might share responsibility."
+      },
+      {
+        "question": "How soon do I need to report a workplace injury in Los Altos?",
+        "answer": "California generally requires injury reports to your employer within 30 days. Missing that window can complicate your workers' comp claim, so it's worth reporting promptly even if the injury seems minor at first."
+      },
+      {
+        "question": "Can my employer fire me for filing a workers' comp claim?",
+        "answer": "No — retaliation for reporting a workplace injury or filing a claim is illegal under California law. If you believe you've faced retaliation, an attorney can help you understand your options alongside your injury claim."
+      }
+    ]
+  }
+}

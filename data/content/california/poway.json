@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "poway city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Poway, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Poway? Connect free with an independent San Diego County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Pomerado Road or a fall somewhere around town, we'll connect you free with an independent attorney serving San Diego County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Poway, California",
+    "longDescription": "Poway sits at a crossroads of daily commuter traffic, with Rt 67, Poway Road, Pomerado Road, and Twin Peaks Road carrying residents through town every day. In the most recent full year on record, Poway saw 70 injury collisions, 95 people injured, and 5 traffic deaths — with reports tending to cluster on Wednesday evenings between 5 and 7 p.m., a time when commuters and school pickups overlap. Numbers like these are public record, not a verdict on any particular stretch of road, but they show that collisions happen here often enough that residents should know their options afterward. If you or someone in your family was hurt in a crash, a fall, or another accident caused by someone else's carelessness, LawProactive can help. We are a free service — not a law firm — that connects injured people in Poway with an independent personal injury attorney who can review the details of what happened. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and doesn't obligate you to anything.",
+    "commonInjuriesTitle": "Common Injuries We See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection with an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Poway Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have Limited Time to Act",
+        "desc": "California generally gives injured people two years from the date of an accident to file a claim, though claims against a government entity can require notice in as little as six months. Waiting too long can mean losing the right to recover anything at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Stop You",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still recover damages — just reduced by your share of fault. An attorney can help sort out how fault gets divided."
+      },
+      {
+        "title": "No Cap on What You Can Recover for Pain and Suffering",
+        "desc": "Unlike some states, California doesn't cap non-economic damages like pain and suffering in typical injury cases. That means your recovery isn't artificially limited by a statutory ceiling."
+      },
+      {
+        "title": "No Fee Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so you don't pay out of pocket to have your case reviewed or pursued. Legal fees only come out of money actually recovered on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing whether the insurance company's offer is fair",
+      "Fearing that being partly at fault means losing everything",
+      "Feeling overwhelmed trying to find the right attorney to call"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no upfront cost or obligation to move forward."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Poway?",
+        "answer": "In most California injury cases, you have two years from the date of the accident to file a lawsuit. If a government entity is involved, such as a city road crew or public bus, that window can shrink to as little as six months, so it's best to act quickly."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some blame. Your total recovery is simply reduced by your percentage of fault, rather than being barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Poway?",
+        "answer": "Public crash records show that reported collisions in Poway tend to occur more often along corridors like Rt 67, Poway Road, Pomerado Road, and Twin Peaks Road, with a noticeable pattern around Wednesdays between 5 and 7 p.m. These are simply counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in standard personal injury cases. This differs from some other states and can matter significantly depending on the severity of your injuries."
+      }
+    ]
+  }
+}

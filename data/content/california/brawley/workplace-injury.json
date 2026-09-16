@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "brawley workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Brawley Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Brawley? Free help connecting you with an independent attorney for workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Whether you work the fields near Rt 111, a warehouse off Old Highway 111, or a shop along Main Street, a workplace injury in Brawley can leave you unsure what comes next. We connect you, free of charge, with an independent attorney who can sort through your options."
+  },
+  "about": {
+    "title": "Brawley Workplace Injury Claims",
+    "longDescription": "Brawley's economy runs on agriculture, trucking, and small industry, and that work carries real risk — equipment failures, falls, vehicle collisions on corridors like Rt 86 and Main Street, and repetitive strain from long shifts. Imperial County crash records show dozens of injury collisions each year on local roads, some involving delivery drivers, field crews, or maintenance workers hurt while on the clock. In California, workers' compensation is typically your path to medical care and wage replacement, but it isn't always the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may also have a separate claim outside the workers' comp system. LawProactive doesn't practice law — we're a free service that connects injured workers in Brawley with an independent attorney who can look at the details of your situation and explain what applies to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from farm or heavy equipment malfunctions",
+      "Vehicle collisions while driving for work along Rt 111 or Old Highway 111",
+      "Repetitive strain and overexertion injuries",
+      "Burns or chemical exposure incidents",
+      "Struck-by injuries from forklifts or moving machinery"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Brawley Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Automatically Off the Table",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party like a subcontractor or another driver can still be liable. We help connect you with an attorney who can evaluate whether that applies to your case."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days, and separate third-party claims carry a 2-year deadline. Missing either window can limit your options, so timing matters."
+      },
+      {
+        "title": "Retaliation Protections Exist Under California Law",
+        "desc": "You're legally protected from retaliation for reporting a workplace injury or pursuing a claim. If you're worried about your job, an independent attorney can explain your rights before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near Rt 86 in Brawley — do I file workers' comp or a claim against the other driver?",
+        "answer": "Possibly both. Workers' compensation usually covers your medical bills and lost wages regardless of fault, while a separate claim against the other driver may be available if they were negligent. An independent attorney can look at the crash details and explain how the two might work together."
+      },
+      {
+        "question": "What if my employer says I can't file a claim because I was a seasonal or agricultural worker?",
+        "answer": "Most employees in California, including seasonal agricultural workers, are covered by workers' compensation regardless of what an employer claims. If you've been told otherwise, it's worth having an independent attorney review your specific work arrangement. LawProactive can connect you with someone who handles these situations."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim in Brawley?",
+        "answer": "California generally requires reporting a workplace injury to your employer within 30 days, and any separate third-party injury claim typically carries a 2-year deadline. Waiting too long can limit what an attorney is able to do for you, so it helps to act sooner rather than later."
+      }
+    ]
+  }
+}

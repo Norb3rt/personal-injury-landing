@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "santa-clara product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Clara Product Liability Attorney Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Santa Clara, CA? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product fails in Santa Clara, California law usually asks whether it was defective, not whether someone was careless. LawProactive connects you, at no cost, with an independent attorney who handles these claims on contingency."
+  },
+  "about": {
+    "title": "Santa Clara Product Liability Claims",
+    "longDescription": "A defective product rarely announces itself. In Santa Clara it might be a battery pack that overheats on a charger overnight, a ladder that buckles during a weekend repair, or a vehicle component that gives out somewhere along El Camino Real or San Tomas Expressway. The city logged 367 injury collisions in 2025, with 496 people hurt and 4 lives lost. When a failed part plays a role in a crash like one of those, the claim looks very different from an ordinary driver-versus-driver case. California generally applies strict liability to product injuries. You typically do not need to prove the manufacturer was negligent, only that the item carried a design, manufacturing, or warning defect and that the defect caused your harm. Responsibility can reach beyond the maker to the distributor and the Santa Clara retailer that sold it. LawProactive is a free connection service, not a law firm. We match Santa Clara County residents with an independent attorney who takes product cases on contingency, meaning no fee unless there is a recovery. Keep the product, its packaging, and any receipts. They are frequently the heart of the case.",
+    "commonInjuriesTitle": "Injuries Commonly Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries or appliances",
+      "Lacerations from tools or blades that fail in use",
+      "Crush injuries from collapsing furniture or equipment",
+      "Head trauma when a helmet or restraint underperforms",
+      "Toxic exposure from mislabeled household chemicals",
+      "Fractures from failed ladders, e-bikes, or scooters"
+    ],
+    "ctaText": "Talk through what happened and get connected with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Santa Clara Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Changes the Question",
+        "desc": "Under California law you generally show the product was defective and caused your injury, not that the company was careless. The attorney you are connected with can help frame the claim around that standard from the start."
+      },
+      {
+        "title": "Preserving the Evidence That Matters",
+        "desc": "The product itself is often the single most important piece of a defect case. An independent attorney can advise you on keeping it intact, unrepaired, and documented before anyone else handles it."
+      },
+      {
+        "title": "Looking at the Whole Supply Chain",
+        "desc": "Manufacturers, distributors, and retailers may each be responsible in a California product claim. A network attorney works to identify every party in the chain rather than stopping at the brand name on the box."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the manufacturer was negligent in California?",
+        "answer": "Usually not. California product liability often runs on strict liability, which means the focus is on whether the product had a design, manufacturing, or warning defect and whether that defect caused your injury. Proving carelessness on the company's part is generally not required. An attorney can explain how this applies to your specific situation."
+      },
+      {
+        "question": "A part on my car failed near Lafayette Street and I crashed. Is that a product case or a car accident case?",
+        "answer": "It can be both. Santa Clara sees hundreds of injury collisions each year, and when a defective component contributes to one, the manufacturer and sellers of that part may be responsible alongside anyone else at fault. Do not have the vehicle repaired or scrapped before an attorney can arrange to preserve the failed part. LawProactive can connect you with someone who handles this overlap."
+      },
+      {
+        "question": "I bought the product at a store in Santa Clara. Can the retailer be held responsible too?",
+        "answer": "Yes, in many cases. California law allows claims against manufacturers, distributors, and retailers in the chain of sale, not just the company that built the item. Keep your receipt or order confirmation, since it helps establish where and when the product was purchased. The attorney you are matched with can sort out which parties belong in the claim."
+      }
+    ]
+  }
+}

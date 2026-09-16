@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "hayward workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hayward Workplace Injury Claims | Free Attorney Match",
+    "metaDescription": "Hurt at work in Hayward? See how workers' comp and third-party claims fit together in California, then connect free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in Hayward? Workers' compensation may not be your only option, and a free conversation with an independent attorney can help you understand what else applies."
+  },
+  "about": {
+    "title": "Hayward Workplace Injury Claims",
+    "longDescription": "Hayward's workforce spans warehouses and distribution yards off I-880, food processing plants, hospitals, construction sites, and the storefronts lining Mission Boulevard. When a shift ends in an injury, the first question is usually simple: who pays? In California, workers' compensation is normally the exclusive remedy against your employer, and it applies no matter who was at fault. That system covers medical care and a portion of lost wages, but it does not compensate for pain or the full impact on your life. That is where a third-party claim can matter. If a subcontractor, a property owner, an equipment manufacturer, or another driver caused your injury, you may have a separate case alongside your comp benefits. Driving is part of many Hayward jobs, and public records show 474 injury collisions here in 2025, with 658 people hurt, so a work-related crash is not a rare event. LawProactive is a free service, not a law firm. We connect you with an independent attorney who can sort out which paths apply to you, with no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Hayward Workplace Cases",
+    "commonInjuries": [
+      "Back and spinal injuries from lifting or falls",
+      "Crush and amputation injuries from machinery",
+      "Fractures from ladder and scaffold falls",
+      "Burns and chemical exposure injuries",
+      "Head injuries from struck-by incidents",
+      "Crash injuries while driving for work"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Hayward Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Comp Is Not Always the Whole Story",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but a negligent third party like a subcontractor, property owner, or equipment maker can support a separate claim. An attorney can tell you whether both apply."
+      },
+      {
+        "title": "Deadlines Are Different for Each Path",
+        "desc": "You should report a work injury to your employer within 30 days, while a third-party injury claim in California generally carries a 2-year deadline. Knowing which clock you are on matters early."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "California law prohibits employers from punishing you for reporting an injury or filing a claim. If you are worried about your job, that concern is worth raising with the attorney you are connected to."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on I-880 while driving for my Hayward employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. A crash during work duties is typically covered by workers' compensation regardless of fault, and if another driver caused the collision, you may also have a third-party claim against that driver. The two claims interact, so it helps to have an attorney look at the full picture before you accept anything from either side."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most situations, no. Workers' compensation is the exclusive remedy against your employer, meaning you generally receive benefits through that system instead of a lawsuit. The exceptions are narrow, but a claim against a negligent third party is a separate matter and remains available."
+      },
+      {
+        "question": "What if I waited a few weeks to report my injury?",
+        "answer": "California asks you to report a work injury to your employer within 30 days, so if you are still inside that window, do it in writing now. Missing the window can complicate comp benefits, though it does not always end the claim. A third-party injury claim runs on its own 2-year deadline, so late reporting to your employer does not necessarily affect that path."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "montague workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Montague CA Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Montague, CA? Get connected free to an independent attorney who can review your workers' comp or third-party options."
+  },
+  "hero": {
+    "subtitle": "If you've been injured at work in Montague, the paperwork and rules around Siskiyou County job sites can feel like a maze on their own. We connect you, free of charge, with an independent attorney who can help sort through your options."
+  },
+  "about": {
+    "title": "Montague Workplace Injury Claims",
+    "longDescription": "Montague's economy runs on a mix of rail, agriculture, small manufacturing, and roadside operations near corridors like State Route 3 and Big Springs Road — work that carries real physical risk. When someone gets hurt on the job here, California's workers' compensation system usually becomes the main path to medical care and wage replacement, regardless of who caused the accident. But that's not always the full picture. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate claim against that third party may be possible alongside a workers' comp filing. Because Montague is a small community with limited local legal resources, workers here often don't know where to start after an injury. LawProactive exists to close that gap — we're not a law firm, but we can connect injured workers with an independent attorney who reviews the details and explains what avenues might apply, at no upfront cost.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Crush injuries from machinery or heavy equipment",
+      "Falls from ladders, platforms, or uneven ground",
+      "Vehicle-related injuries on job sites or rural roads",
+      "Burns or chemical exposure incidents",
+      "Repetitive stress and joint injuries from manual labor"
+    ],
+    "ctaText": "Talk with an independent attorney about your workplace injury — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Injured Workers in Montague Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Exclusive Remedy Rule",
+        "desc": "California generally limits an injured worker's claim against their employer to workers' compensation, no matter who was at fault. An attorney can explain how that rule applies to your specific situation before you decide anything."
+      },
+      {
+        "title": "Spotting Third-Party Liability",
+        "desc": "If a subcontractor, landowner, or equipment maker played a role in your injury, a separate claim outside workers' comp may be possible. This distinction matters and is easy to miss without legal guidance."
+      },
+      {
+        "title": "Protecting You From Retaliation",
+        "desc": "Reporting a workplace injury within 30 days is required, and California law makes it illegal for an employer to punish you for doing so. An independent attorney can help make sure your rights are respected throughout the process."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job site near Big Springs Road — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' comp is the first and exclusive path against your employer, so that claim typically gets filed regardless of fault. If a third party, like a contractor or equipment supplier, contributed to the accident, a separate claim against them may also be worth exploring. An attorney can help identify which applies to your specific incident."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer in Montague?",
+        "answer": "California law generally requires you to report a workplace injury to your employer within 30 days. Missing this window can complicate your workers' comp claim, so it's best to report as soon as possible after the incident."
+      },
+      {
+        "question": "What if my employer retaliates after I report an injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law, regardless of the size of the employer or the community. If you believe you've faced retaliation, an independent attorney can review what happened and discuss what protections may apply to you."
+      }
+    ]
+  }
+}

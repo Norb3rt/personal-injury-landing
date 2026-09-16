@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "imperial city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Imperial, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Imperial County? Get connected free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, fall, or another accident around Imperial, we'll connect you at no cost with an independent attorney serving Imperial County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Imperial, California",
+    "longDescription": "Imperial is a small community, but its roads still see their share of collisions. Public records show 1 injury collision in the most recent final crash year, with 2 people hurt and, thankfully, no traffic deaths reported. Local corridors like Rt 86, Aten Road, 2nd Street, and Clark Road show up repeatedly in collision counts, and reports tend to bunch up on Friday afternoons between noon and 2 p.m., when traffic mixes with people running weekend errands. If you were injured on one of these roads, or anywhere else in Imperial County, sorting out medical bills, missed work, and insurance calls can feel like a lot to handle alone. LawProactive is a free service, not a law firm — we simply connect injured people with an independent personal injury attorney who can look at what happened and explain your options. Any attorney you're connected with through us works on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and doesn't commit you to anything.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Clock",
+        "desc": "You generally have two years from the date of injury to file a personal injury claim in California, though claims against a government agency can require notice in as little as six months. Waiting too long can close the door on your options."
+      },
+      {
+        "title": "Fault Doesn't Have to Be Perfect",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In an ordinary injury case, California places no cap on non-economic damages like pain and suffering, so your compensation isn't artificially limited by a statutory ceiling."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no retainer and no hourly bill to worry about."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Will I be able to pay my medical bills?",
+      "Is the insurance company going to lowball me?",
+      "Can I still get help if I was partly at fault?",
+      "How much time do I actually have to act?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "Most personal injury claims have a two-year statute of limitations from the date of the incident. If your claim involves a government entity or agency, the notice period can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some responsibility. Your total recovery would simply be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Imperial?",
+        "answer": "Based on public collision records, corridors such as Rt 86, Aten Road, 2nd Street, and Clark Road show up frequently in reported crash counts, and Friday afternoons between noon and 2 p.m. see more reports than other times. These are simply patterns in public data, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We are not a law firm, and there's no cost to you for using our connection service."
+      },
+      {
+        "question": "How much can I expect to recover?",
+        "answer": "There's no way to predict an outcome or dollar amount, since every case depends on its own facts and evidence. An independent attorney can review the details of what happened and talk through what might be possible in your situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "susanville city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Susanville, CA Injury Lawyer Connection | Free Review",
+    "metaDescription": "Injured in Lassen County? Get connected free with an independent Susanville attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a fender-bender on Main Street or a more serious injury from a crash on Rt 36, we can connect you free of charge with an independent attorney serving Lassen County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Susanville, California",
+    "longDescription": "Susanville is a small city, but its roads carry a steady flow of daily traffic, and collisions still happen. In the most recent reporting year, Lassen County recorded 14 injury collisions in and around the city, leaving 18 people hurt. Public records show these crashes tend to cluster on corridors like Rt 36, Main Street, Paul Bunyan Road, and Skyline Road, with Tuesday afternoons between 2 and 4 p.m. showing up more often than other times. If you were hurt in one of these collisions, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — we are not a law firm — that connects injured people in Susanville with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk with someone, and attorneys in our network only get paid if you recover compensation. You don't have to figure this out on your own or negotiate with an insurance adjuster without guidance. Reaching out costs nothing and can help you understand where you stand before deadlines start to matter.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "A Filing Clock Is Running",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, though claims against a government entity can require action in as little as six months. Getting informed early helps protect your options."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover compensation even if you share some blame for the crash — your recovery is simply reduced by your percentage of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In an ordinary injury case, California places no limit on non-economic damages like pain and suffering, so your compensation isn't automatically boxed in by a statutory ceiling."
+      },
+      {
+        "title": "Attorneys Work on Contingency",
+        "desc": "Independent attorneys in our network only get paid if you recover money, which means there's generally no upfront legal fee to speak with someone about your situation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Not knowing if waiting too long will cost you your right to file",
+      "Wondering if being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Susanville?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If your claim involves a government entity, such as a public road issue, the window can be as short as six months, so it's worth getting informed sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California follows a pure comparative fault rule, meaning you can still recover compensation even if you were partly at fault. Your total recovery would simply be reduced by your share of responsibility, not eliminated."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. In a typical personal injury case in California, there is no statutory cap on non-economic damages like pain and suffering. Compensation is instead based on the specifics of your injury and how it affected your life."
+      },
+      {
+        "question": "Where do injury crashes tend to cluster in Susanville?",
+        "answer": "Public crash records for Susanville show that reported collisions occur more often along Rt 36, Main Street, Paul Bunyan Road, and Skyline Road, with a noticeable pattern around Tuesday afternoons between 2 and 4 p.m. These are simply public-record counts, not a judgment about any road being unsafe."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and there's no charge to be connected with an independent attorney. Attorneys in the network work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

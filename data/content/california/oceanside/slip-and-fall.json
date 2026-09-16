@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "oceanside slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oceanside Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell at an Oceanside store, pier or rental? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Hurt in a fall on someone else's property in Oceanside? We connect you, at no cost, with an independent attorney who handles San Diego County premises liability claims."
+  },
+  "about": {
+    "title": "Oceanside Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You get up, brush yourself off, and only realize hours later that a wrist, knee or hip is not right. In Oceanside, that moment might come on a freshly mopped grocery aisle along Oceanside Boulevard, a broken walkway outside an apartment complex near Mission Avenue, or a poorly lit stairwell at a vacation rental a few blocks from the coast. California premises law asks a pointed question: did the property owner know, or reasonably should they have known, about the hazard and still fail to repair it or warn you? That notice element is where these claims are usually decided, which is why the photos, names and reports you gather in the first few days carry so much weight. LawProactive is not a law firm. We are a free service that connects Oceanside residents with an independent personal injury attorney who takes premises cases on contingency, so there is no fee unless something is recovered. Tell us what happened and we will make the introduction.",
+    "commonInjuriesTitle": "Injuries Often Seen After an Oceanside Fall",
+    "commonInjuries": [
+      "Wrist, elbow and shoulder fractures from bracing a fall",
+      "Hip fractures, particularly among older residents",
+      "Knee ligament and meniscus tears",
+      "Concussions and other head injuries from striking the ground",
+      "Tailbone and lower back injuries",
+      "Cuts, deep bruising and torn skin from rough surfaces"
+    ],
+    "ctaText": "Get connected with an Oceanside premises attorney at no cost"
+  },
+  "whyChoose": {
+    "title": "What an Independent Attorney Brings to an Oceanside Fall Case",
+    "items": [
+      {
+        "title": "Building the notice case early",
+        "desc": "Owners in Oceanside frequently argue they had no idea a hazard existed. An attorney can move quickly to request inspection logs, maintenance records and prior complaints that show how long the condition was there."
+      },
+      {
+        "title": "Watching the clock, especially on public property",
+        "desc": "California allows two years for most premises claims, but a fall on city, county or state property triggers a far shorter government claim window. Knowing which deadline applies from day one avoids a preventable loss of rights."
+      },
+      {
+        "title": "Preserving video before it disappears",
+        "desc": "Many Oceanside businesses and apartment buildings overwrite surveillance footage within days or weeks. A prompt preservation letter can lock down the recording that shows the spill, the missing sign or the broken step."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a public sidewalk or beach access stairway in Oceanside. Is that handled differently?",
+        "answer": "Yes, and the difference matters. When the property belongs to the City of Oceanside, San Diego County or another public entity, California requires a written government claim first, and that window is often as short as six months rather than the usual two years. An attorney can help identify who actually controls the property and get the claim filed in time."
+      },
+      {
+        "question": "The store says I should have been watching where I was going. Does that end my claim?",
+        "answer": "Not under California law. The state uses pure comparative fault, meaning your recovery is reduced by whatever percentage of blame is assigned to you, but it is not wiped out. If a jury found you 30 percent responsible for not noticing a wet floor, you could still recover the remaining 70 percent of your damages."
+      },
+      {
+        "question": "What should I do in the first 48 hours after a fall at an Oceanside business?",
+        "answer": "Photograph the hazard, the surrounding area and your injuries before anything is cleaned or repaired. Ask for an incident report and the names of any employees or witnesses, then get medical care even if you feel mostly fine. Reaching out early also lets an attorney send a preservation request for surveillance video before it is recorded over."
+      }
+    ]
+  }
+}

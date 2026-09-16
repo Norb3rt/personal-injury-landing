@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "palo-alto city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Palo Alto, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Santa Clara County? Free connection to an independent Palo Alto injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, bike collision, or fall in Palo Alto, we'll connect you free of charge with an independent attorney serving Santa Clara County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Palo Alto, California",
+    "longDescription": "Palo Alto's roughly 67,000 residents share the road with heavy commuter traffic along US-101, Middlefield Road, Embarcadero Road, and Alma Street, corridors that show up repeatedly in the city's public collision counts. In the most recent full year on record, Palo Alto logged 84 injury collisions, 106 people hurt, and 3 traffic deaths, with reports tending to cluster on Thursday afternoons between 5 and 7 p.m. as commuters, cyclists, and Caltrain riders converge near downtown and the university corridor. Behind each of those numbers is someone dealing with medical bills, missed work, and an insurance company that doesn't have their best interest at heart. LawProactive is a free service that connects injured people with an independent personal injury attorney - we are not a law firm and we don't decide your case. If you're matched with an attorney, they typically work on contingency, meaning there's no fee unless you recover compensation. Our goal is simply to make that first connection fast and free, so you can focus on getting better while someone else looks at the legal side.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and soft tissue injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord and back injuries",
+      "Cuts, bruises, and lacerations",
+      "Injuries from bicycle and pedestrian collisions"
+    ],
+    "ctaText": "Tell us what happened - it's free to connect with an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window can shrink to as little as six months if a government entity is involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover damages reduced by your share of fault. An attorney can help make sure your percentage of fault is argued fairly."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages like pain and suffering in ordinary injury cases. That means your full experience of the harm can be part of the conversation, not just medical bills."
+      },
+      {
+        "title": "You Don't Pay Upfront",
+        "desc": "Attorneys in our network typically work on contingency, so there's no fee unless there's a recovery. That structure exists so cost isn't the reason you go without legal help."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Not knowing if you waited too long to take action",
+      "Fear that being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Palo Alto?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If a government agency, like the city or a public transit operator, was involved, that deadline can be as short as six months. It's worth getting a case reviewed sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your recovery would simply be reduced by your percentage of fault, not eliminated entirely."
+      },
+      {
+        "question": "Where do collisions tend to cluster in Palo Alto?",
+        "answer": "Public collision records show higher counts along US-101, Middlefield Road, Embarcadero Road, and Alma Street, with reports tending to peak on Thursdays between 5 and 7 p.m. These are simply where reported incidents have been recorded most often, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys in their area. We don't represent you directly or handle your case - we simply make the introduction."
+      },
+      {
+        "question": "Will I owe anything upfront if I'm connected with an attorney?",
+        "answer": "Attorneys in our network generally work on contingency, meaning they only get paid if you receive a settlement or award. Connecting with LawProactive itself is always free."
+      }
+    ]
+  }
+}

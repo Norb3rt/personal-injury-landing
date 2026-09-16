@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "marina city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Marina, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Marina? Connect free with an independent Monterey County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Marina, we'll connect you free with an independent personal injury attorney serving Monterey County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Marina, California",
+    "longDescription": "Marina sits along stretches of roadway that carry steady daily traffic, and public records show the pattern: in the most recent reporting year, 66 injury collisions left 88 people hurt and resulted in 1 traffic death. Corridors like Reservation Road, Imjin Parkway, and Del Monte Boulevard see the highest volume of reported collisions in town, and crash reports tend to cluster on Wednesday evenings between 5 and 7 p.m. — a window when commuters, students, and errands all converge at once. If you were hurt in one of these incidents, or in a fall, workplace accident, or other injury-causing event, sorting out medical bills and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — that connects injured Marina residents with an independent personal injury attorney who can review the details of what happened. There's no cost to get connected, and attorneys in the network work on contingency, meaning there's no fee unless you recover compensation. You focus on healing; let someone with the right background look at your situation.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Get connected with an independent attorney today — it costs nothing to ask."
+  },
+  "whyChoose": {
+    "title": "Why Marina Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have a Limited Window to Act",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can require notice in as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, meaning even if you're found partially responsible for what happened, you can still recover compensation reduced by your share of fault. An attorney can help explain how this might apply to your situation."
+      },
+      {
+        "title": "No Cap on Pain and Suffering Damages",
+        "desc": "In ordinary personal injury cases, California places no limit on non-economic damages like pain and suffering. That means your compensation isn't automatically capped just because your physical injuries are hard to put a price tag on."
+      },
+      {
+        "title": "No Fee Unless You Recover Something",
+        "desc": "Attorneys connected through LawProactive work on contingency, so there's no upfront cost to you. They only get paid if you receive a settlement or award, which keeps the process accessible regardless of your financial situation right now."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Fearing the insurance company will offer far less than you deserve",
+      "Not knowing if you waited too long or missed a filing deadline",
+      "Feeling unsure whether being partly at fault ruins your chance at compensation"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Marina?",
+        "answer": "California law generally allows two years from the date of injury to file most personal injury claims. If your claim involves a government agency, such as a crash involving a city vehicle, that window can shrink to as little as six months, so it's worth having your situation reviewed sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you were partially at fault. Your total recovery would simply be reduced by your percentage of responsibility, rather than being barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Marina?",
+        "answer": "Public collision records show that Reservation Road, Imjin Parkway, and Del Monte Boulevard have the highest reported collision counts in Marina, with reports also tending to peak on Wednesdays between 5 and 7 p.m. These are neutral, publicly reported counts and not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "No — in ordinary personal injury cases, California does not cap non-economic damages such as pain and suffering. This is different from some medical malpractice cases, which can involve separate rules."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney through LawProactive?",
+        "answer": "No, connecting with an attorney through LawProactive is free, and LawProactive itself is not a law firm — it's a service that helps match you with an independent attorney. Attorneys in the network work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

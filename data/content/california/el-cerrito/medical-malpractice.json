@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "el-cerrito medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Cerrito Medical Malpractice Attorney Help | LawProactive",
+    "metaDescription": "Free connection to an independent El Cerrito medical malpractice attorney. Understand MICRA deadlines and get matched fast. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or procedure in El Cerrito left you worse off, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's MICRA rules.  There's no cost to find out where you stand."
+  },
+  "about": {
+    "title": "El Cerrito Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases are different from most personal injury matters, and El Cerrito residents dealing with a suspected error at a local clinic, urgent care, or a hospital elsewhere in Contra Costa County often aren't sure where to start. California's MICRA law sets strict rules for these claims, including short filing windows and a required 90-day notice before a lawsuit can even be filed. A bad medical outcome isn't automatically malpractice — proving a claim usually requires a qualified medical expert who can show the care fell below an accepted standard. LawProactive doesn't practice law or take cases directly; we're a free service that connects El Cerrito residents with independent attorneys who evaluate these situations regularly. If you're unsure whether what happened to you or a family member qualifies, a quick conversation with an attorney in our network can help you understand your options before any deadline passes.",
+    "commonInjuriesTitle": "Situations We Commonly Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or complications",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia-related harm",
+      "Failure to monitor or follow up on results"
+    ],
+    "ctaText": "Find out if you have a claim — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Unforgiving",
+        "desc": "California generally gives you one year from discovering the harm and no more than three years from the injury itself, plus a required 90-day pre-suit notice. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "Damages Caps Change Yearly",
+        "desc": "MICRA places a statutory cap on non-economic damages that rises each year, which affects how a claim is valued and negotiated. An attorney familiar with the current figures can explain how this applies to your situation."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a poor outcome alone isn't proof of malpractice, these claims almost always need a qualified medical expert to establish that care fell below the accepted standard. Attorneys in our network know how to secure that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in California?",
+        "answer": "Generally, it's one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it occurred, whichever comes first. There are limited exceptions, so it's worth confirming your specific timeline with an attorney rather than assuming. California also requires a 90-day notice before a lawsuit can be filed."
+      },
+      {
+        "question": "Is it malpractice if my treatment at an El Cerrito clinic didn't work out?",
+        "answer": "Not necessarily — a bad outcome by itself doesn't mean malpractice occurred. Claims typically require showing the provider's care fell below what a similarly qualified professional would have done, which is usually established through a medical expert. An attorney can help you sort out whether your situation meets that standard."
+      },
+      {
+        "question": "What does LawProactive actually do for me?",
+        "answer": "We're a free service that reviews what happened and connects you with an independent attorney in our network who handles medical malpractice cases, including those involving Contra Costa County providers. We don't charge you, and the attorneys we connect you with typically work on contingency, meaning no fee unless you recover."
+      }
+    ]
+  }
+}

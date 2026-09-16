@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "san-jose medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Lawyer in San Jose, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Jose? LawProactive connects you, free, with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis was missed or a procedure went wrong at a San Jose hospital or clinic, you deserve a clear answer about what happened. LawProactive connects Santa Clara County patients with an independent malpractice attorney at no cost to you."
+  },
+  "about": {
+    "title": "San Jose Medical Malpractice Claims",
+    "longDescription": "More than a million people live in San Jose, and most will sit in a clinic, urgent care, or hospital room at some point this year. Nearly all of those visits go the way they should. When one doesn't—when a scan is misread, a medication is mixed up, or a warning sign is charted and then ignored—the person left dealing with the fallout is usually the patient and their family. California treats these cases differently from an ordinary injury claim. The MICRA framework sets its own clock: generally one year from when you discovered the harm, and never more than three years from the injury itself, with a 90-day notice sent to the provider before any lawsuit is filed. A qualified medical expert is nearly always needed to explain what the standard of care required and how it was missed. LawProactive is a free service, not a law firm. We connect San Jose patients with an independent attorney who handles malpractice claims on contingency.",
+    "commonInjuriesTitle": "Harm Commonly Tied to Medical Negligence",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors and retained instruments",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from lapses in sterile care"
+    ],
+    "ctaText": "Ask a Santa Clara County malpractice attorney to review your records—free."
+  },
+  "whyChoose": {
+    "title": "Why San Jose Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "The MICRA clock is short and easy to miss",
+        "desc": "You generally have one year from discovering the harm, and no more than three years from the injury, plus a 90-day notice must go to the provider before suit. An attorney in our network can map those dates against your timeline right away."
+      },
+      {
+        "title": "Experts decide whether it's malpractice",
+        "desc": "A poor outcome by itself is not a claim under California law; a qualified medical expert almost always has to show the standard of care was breached. The attorneys we connect you with know how to line up that review before filing."
+      },
+      {
+        "title": "Damage caps change every year",
+        "desc": "California limits non-economic damages in malpractice cases, and that cap rises annually under MICRA. Working with an attorney who tracks the current figure matters when valuing what your claim may be worth—though no attorney can predict an exact number in advance."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My surgery at a San Jose hospital didn't turn out well. Is that malpractice?",
+        "answer": "Not necessarily. California law is clear that a bad result on its own is not negligence—medicine carries real risk even when everything is done correctly. What matters is whether the provider fell below the accepted standard of care, and that question is usually answered by a qualified medical expert reviewing your records. An independent attorney can arrange that review at no upfront cost to you."
+      },
+      {
+        "question": "How long do I have to file a malpractice claim in Santa Clara County?",
+        "answer": "Under MICRA, the general rule is one year from the date you discovered, or reasonably should have discovered, the injury, and never more than three years from when it actually occurred. Before a lawsuit is filed, a 90-day notice of intent must be sent to the provider. Because those windows overlap in ways that trip people up, it's wise to speak with an attorney sooner rather than later."
+      },
+      {
+        "question": "Does LawProactive charge me anything, and who actually handles my case?",
+        "answer": "LawProactive is free to use and is not a law firm. We connect you with an independent personal injury attorney who focuses on medical negligence claims in the San Jose area. That attorney works on contingency, which means no fee unless there is a recovery, and you decide whether to move forward after your first conversation."
+      }
+    ]
+  }
+}

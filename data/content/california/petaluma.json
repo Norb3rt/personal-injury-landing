@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "petaluma city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Petaluma, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Petaluma? Sonoma County residents have 2 years to file. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end collision or a broken bone from a fall, we connect Petaluma residents with an independent attorney at no cost, serving all of Sonoma County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Petaluma, California",
+    "longDescription": "Petaluma sees its share of everyday traffic trouble, with public records showing 193 injury collisions and 252 people hurt in the most recent full year, plus 3 traffic deaths. Corridors like E Washington Street, N McDowell Boulevard, S McDowell Boulevard, and the US-101 stretch through town carry heavy volume, and reports tend to bunch up on Friday afternoons between 3 and 5 p.m. when commuters and weekend traffic overlap. If you were hurt in one of these incidents, or in a fall, dog bite, or other accident somewhere else in Sonoma County, you don't have to sort out the legal side alone. LawProactive is a free service — we are not a law firm — that connects injured people with an independent personal injury attorney who can review what happened and explain your options. There's no cost to get connected, and any attorney you work with through our network handles cases on contingency, meaning no fee unless there's a recovery. Reaching out costs you nothing and starts the process of understanding where you stand.",
+    "commonInjuriesTitle": "Common Injuries We See Connections For",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection with an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Petaluma Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require notice in as little as six months. Acting sooner helps preserve evidence while memories and records are fresh."
+      },
+      {
+        "title": "Shared Fault Doesn't End Your Case",
+        "desc": "California follows pure comparative fault, meaning even if you're partly responsible for what happened, you can still recover damages reduced by your share of fault. This applies whether the accident happened on N McDowell Boulevard or anywhere else."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means compensation discussions aren't artificially limited by a statutory ceiling."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless there's a recovery. That structure lets you focus on recovering instead of worrying about legal bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the insurance company's settlement offer is fair",
+      "Feeling unsure whether you were partly at fault and if that ends your case",
+      "Running out of time to file a claim without realizing a deadline exists"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Petaluma?",
+        "answer": "California generally allows two years from the date of the injury to file a claim. If your claim involves a government entity or vehicle, that window can shrink to as little as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "Where do injury collisions tend to cluster in Petaluma?",
+        "answer": "Public crash records show higher collision counts along E Washington Street, N McDowell Boulevard, S McDowell Boulevard, and the US-101 corridor. These are simply areas with higher reported volume, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so being partly responsible doesn't bar you from recovering compensation. Your recovery would just be reduced by your percentage of fault."
+      },
+      {
+        "question": "Will I owe money upfront to talk to an attorney?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network work on contingency, meaning they only get paid if there's a recovery in your case."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We're a free connection service that helps injured people in Petaluma and throughout Sonoma County get in touch with an independent personal injury attorney."
+      }
+    ]
+  }
+}

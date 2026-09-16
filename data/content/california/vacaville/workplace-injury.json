@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "vacaville workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Attorney in Vacaville, CA | LawProactive",
+    "metaDescription": "Hurt on the job in Vacaville? Learn how workers' comp and third-party injury claims differ in California, and get connected to an attorney at no cost."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Vacaville, whether on a job site, in a warehouse, or driving I-80 for your employer? We connect you, for free, with an independent attorney who can explain what California allows beyond workers' comp."
+  },
+  "about": {
+    "title": "Vacaville Workplace Injury Claims",
+    "longDescription": "Work in Vacaville happens in a lot of places: loading docks, construction sites, storefronts along Nut Tree Road, and behind the wheel on I-80, Peabody Road, and Alamo Drive. When something goes wrong on the clock, California sorts the aftermath into two separate tracks. Workers' compensation pays for medical treatment and a portion of lost wages through your employer, and it applies no matter who was at fault. In exchange, you generally cannot sue your employer directly. The second track opens only when someone outside your company shares responsibility, such as a subcontractor who left a hazard, a property owner who skipped repairs, a manufacturer whose equipment failed, or another driver who hit your work vehicle. Solano County recorded 335 injury collisions in Vacaville during 2025, with 463 people hurt, and for anyone driving as part of the job, a crash like that can raise both kinds of claims at once. LawProactive is a free service that connects Vacaville workers with an independent attorney who works on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Vacaville Workplace Cases",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive loading",
+      "Fractures from falls off ladders, scaffolds, or docks",
+      "Crush and amputation injuries from machinery",
+      "Head trauma from falling objects or vehicle collisions",
+      "Burns and chemical exposure",
+      "Knee and shoulder tears from slips on wet or uneven surfaces"
+    ],
+    "ctaText": "Get connected with a Vacaville attorney at no cost"
+  },
+  "whyChoose": {
+    "title": "Why Vacaville Workers Use LawProactive",
+    "items": [
+      {
+        "title": "Two Claims, Clearly Separated",
+        "desc": "Workers' comp is usually your only remedy against the employer, but a negligent third party can be held accountable separately. An attorney can tell you whether your Vacaville injury involves one path or both."
+      },
+      {
+        "title": "Deadlines That Actually Matter",
+        "desc": "You should report a work injury to your employer within 30 days, and any third-party claim in California carries a two-year filing deadline. Getting connected early protects both."
+      },
+      {
+        "title": "Protection From Retaliation",
+        "desc": "California law makes it illegal for an employer to punish you for reporting an injury or filing a claim. If pressure follows your report, that is something an attorney needs to hear about."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on I-80 while driving a company vehicle near Vacaville. Is that workers' comp or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical care and part of your wages regardless of fault. If another driver caused the collision, you may also have a separate injury claim against that driver, and that claim follows California's two-year deadline. An attorney can coordinate the two so one does not undercut the other."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most situations, no. Workers' compensation is designed as the exclusive remedy against the employer, even when the employer made mistakes. The exceptions are narrow, which is why third parties, such as subcontractors, property owners, or equipment manufacturers, matter so much in these cases."
+      },
+      {
+        "question": "What happens if I missed the 30-day window to report my injury to my employer?",
+        "answer": "Report it as soon as you can anyway. Late reporting can complicate a comp claim, but it does not automatically end it, and there are circumstances where the delay is excused. A third-party claim runs on its own two-year clock, so a late employer report does not erase that option either."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "marysville workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Marysville Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Marysville? Get connected free to an independent attorney who can review your workers' comp and third-party options."
+  },
+  "hero": {
+    "subtitle": "Marysville's warehouses, ag operations, and roadside job sites along 10th Street and B Street see their share of on-the-job injuries. LawProactive can connect you, at no cost, with an independent attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "Marysville Workplace Injury Claims",
+    "longDescription": "Yuba County's economy runs on distribution centers, farming operations, and small manufacturing shops scattered around Marysville, and with that work comes real risk — forklift accidents, falls from loading docks, repetitive strain, and equipment injuries are common calls we hear about. If you were hurt while working, California law usually routes your claim through workers' compensation regardless of fault, but that's not always the end of the story. When a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury — say, a delivery mishap near 5th Street or E Street — you may have a separate claim against that third party on top of any comp benefits. LawProactive doesn't practice law; we simply connect injured workers with an independent attorney who can look at both angles of your case, free of charge, so you understand what options are actually available to you before deadlines pass.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, docks, or scaffolding",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Machinery entanglement or crush injuries",
+      "Job-site vehicle collisions",
+      "Chemical exposure or burns"
+    ],
+    "ctaText": "Get matched with an independent attorney at no cost — no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Workers Turn to LawProactive in Marysville",
+    "items": [
+      {
+        "title": "We Untangle Comp vs. Third-Party Claims",
+        "desc": "California workers' comp is usually your only remedy against your employer, but a negligent third party — a contractor, equipment maker, or another driver — can open a separate claim. An independent attorney can help sort out which path, or both, apply to your situation."
+      },
+      {
+        "title": "We Understand the 30-Day Reporting Clock",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and missing that window can complicate your benefits. We connect you quickly so an attorney can help you act before that deadline slips by."
+      },
+      {
+        "title": "We Know Retaliation Is Illegal — and We Take It Seriously",
+        "desc": "If you're worried about reporting an injury because of how your employer might react, know that retaliation for filing a claim is against California law. An independent attorney can advise you on protecting your job while pursuing what you're owed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job site near 10th Street — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' comp is your primary remedy against your employer regardless of fault. But if a third party — like a subcontractor, delivery driver, or equipment manufacturer — contributed to the accident, you may also have a separate injury claim. An independent attorney can review the specifics and explain which options apply to you."
+      },
+      {
+        "question": "How long do I have to report my injury and to file a claim?",
+        "answer": "California generally requires you to report a workplace injury to your employer within 30 days. If a third-party claim is involved, that claim typically carries a two-year deadline from the date of injury. Missing either window can limit your options, so it helps to move quickly."
+      },
+      {
+        "question": "Will LawProactive charge me anything to get connected?",
+        "answer": "No. LawProactive is a free service — we're not a law firm and we don't charge for connecting you with an independent attorney. Attorneys in our network typically work on contingency, meaning there's no fee unless they recover something for you."
+      }
+    ]
+  }
+}

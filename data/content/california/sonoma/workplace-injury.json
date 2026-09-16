@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "sonoma workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sonoma Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Sonoma, CA? Get connected free to an independent attorney who handles work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If a job site injury has upended your work in Sonoma, we can connect you at no cost with an independent attorney who understands both workers' comp and third-party claims tied to local vineyards, hospitality venues, and small businesses."
+  },
+  "about": {
+    "title": "Sonoma Workplace Injury Claims",
+    "longDescription": "Sonoma's economy runs on vineyards, wineries, tasting rooms, restaurants, and the small crews that keep them running, and that mix of physical labor, machinery, and foot traffic near Broadway, 5th Street W, and W Napa Street creates real opportunity for on-the-job injuries. California generally requires injured workers to go through workers' compensation rather than sue their employer directly, but that's not always the whole story. When a subcontractor, equipment manufacturer, delivery driver, or property owner outside your employer contributed to the accident, a separate third-party claim may be available alongside your comp benefits. Sorting out which path applies, and doing it within the right deadlines, matters. LawProactive doesn't practice law ourselves; we simply connect people hurt at work in Sonoma with an independent attorney, free of charge, who can look at the facts and explain your options plainly.",
+    "commonInjuriesTitle": "Injuries We See Reported",
+    "commonInjuries": [
+      "Falls from ladders or scaffolding",
+      "Repetitive strain from harvest or cellar work",
+      "Crush or caught-in-machinery injuries",
+      "Vehicle-related injuries during work travel",
+      "Chemical or pesticide exposure incidents",
+      "Back and shoulder injuries from heavy lifting"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney First",
+    "items": [
+      {
+        "title": "Comp Isn't Always the Only Door",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker may still be liable, and an attorney can spot that distinction."
+      },
+      {
+        "title": "Reporting Deadlines Are Short",
+        "desc": "California generally expects injuries reported to an employer within 30 days, so waiting even a few weeks can complicate a claim."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "You can't legally be punished or fired for reporting a workplace injury, and an attorney can help if that happens anyway."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work at a Sonoma winery and got hurt during harvest. Do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' comp is your primary path against your employer regardless of fault. But if outside equipment, a contractor, or another company's negligence contributed to the injury, a separate third-party claim could also apply. An attorney can review the specifics of your harvest-season incident and tell you which routes are open."
+      },
+      {
+        "question": "How long do I have to bring a third-party claim in California?",
+        "answer": "Third-party injury claims generally carry a two-year deadline from the date of injury. Workers' comp reporting has its own much shorter window, typically 30 days, so it's worth addressing both promptly rather than waiting."
+      },
+      {
+        "question": "Can my employer fire me for reporting an injury on a Sonoma job site?",
+        "answer": "No. Retaliation for reporting a workplace injury is illegal in California. If you believe you faced retaliation after an injury near Broadway, W Napa Street, or elsewhere in Sonoma, an independent attorney can help you understand your options."
+      }
+    ]
+  }
+}

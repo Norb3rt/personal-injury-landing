@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "st-helena medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Help in St. Helena, CA | LawProactive",
+    "metaDescription": "Free help connecting St. Helena, CA medical malpractice patients with an independent attorney. No fee unless you recover. MICRA deadlines apply."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or treatment in St. Helena left you worse off, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's specific rules for this kind of case."
+  },
+  "about": {
+    "title": "St. Helena Medical Malpractice Claims",
+    "longDescription": "St. Helena is a small Napa County community, and many residents rely on nearby clinics, urgent care, and regional hospitals for treatment, including care related to injuries from the 24 collisions recorded on local roads in the most recent reporting year. When a diagnosis is missed, a treatment goes wrong, or a surgical error causes harm, sorting out whether it was an unfortunate outcome or a deviation from accepted medical standards takes a qualified medical expert's review, not just a hunch. California's MICRA law adds specific wrinkles to these claims: a shortened filing window, a mandatory 90-day pre-suit notice to the provider, and a cap on non-economic damages that adjusts annually. LawProactive doesn't practice law or evaluate your case ourselves. We simply connect you, at no cost, with an independent attorney in our network who can review the medical records, consult with experts if needed, and explain whether your situation may support a claim under California's malpractice standards.",
+    "commonInjuriesTitle": "Types of Cases We Help Connect",
+    "commonInjuries": [
+      "Missed or delayed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injury or obstetric complications",
+      "Anesthesia errors",
+      "Hospital-acquired infections from inadequate care"
+    ],
+    "ctaText": "Get connected with an independent malpractice attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why St. Helena Patients Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the Clock Is Ticking",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim, plus a required 90-day notice before suit. An attorney can help track these dates so a valid claim doesn't get closed off by time."
+      },
+      {
+        "title": "Expert Review Matters, Not Assumptions",
+        "desc": "A poor result from treatment isn't automatically malpractice under California law; a qualified medical expert is almost always needed to show the care fell below accepted standards. We connect you with attorneys who know how to arrange that kind of review."
+      },
+      {
+        "title": "No Upfront Cost, No Risk to You",
+        "desc": "Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you, and MICRA's damages cap on non-economic losses is something they can walk you through honestly before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in St. Helena?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discover (or reasonably should have discovered) the injury, but never more than three years from the date it happened. There's also a 90-day notice you must send the provider before filing suit. Because these deadlines can be tricky to calculate, it helps to talk to an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "St. Helena is a small town — does that affect where my case would be handled?",
+        "answer": "Not necessarily. Medical malpractice claims are usually filed in the county where the care was provided, which for many St. Helena residents means Napa County, but treatment at a regional facility elsewhere could shift that. An independent attorney can confirm the right venue once they know where your care took place."
+      },
+      {
+        "question": "Is a bad medical result automatically malpractice?",
+        "answer": "No. California law recognizes that medicine involves risk, and a poor outcome alone doesn't prove negligence. A malpractice claim generally requires showing that a qualified medical expert believes the provider's care fell below the accepted standard, which is why expert review is such a central part of these cases."
+      }
+    ]
+  }
+}

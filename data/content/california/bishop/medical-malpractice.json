@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "bishop medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bishop Medical Malpractice Attorney Connection | LawProactive",
+    "metaDescription": "Hurt by a medical error in Bishop, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment at a Bishop-area medical facility goes wrong, the aftermath can leave you with more questions than answers. LawProactive can connect you at no cost with an independent attorney who understands the strict rules that govern California medical malpractice claims."
+  },
+  "about": {
+    "title": "Bishop Medical Malpractice Claims",
+    "longDescription": "Bishop residents rely on a small number of medical providers serving Inyo County, and when something goes wrong in a hospital room, urgent care visit, or specialist referral, the effects can ripple through a family for years. Because Bishop's medical resources are limited compared to larger California cities, patients are sometimes transferred to facilities in Reno or the Los Angeles area for complex care, and errors can occur at any point along that chain. Medical malpractice claims are different from typical injury cases: California's MICRA law imposes short notice deadlines, a mandatory 90-day pre-suit notice period, and a requirement that a qualified medical expert review the case before it can move forward. LawProactive doesn't practice law or promise any outcome. We simply listen to what happened, gather the basic facts, and connect you with an independent attorney in our network who handles malpractice matters and can evaluate whether your situation may qualify for a claim.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to properly monitor a patient's condition"
+    ],
+    "ctaText": "Tell us what happened — it's free, and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Bishop Families Use LawProactive",
+    "items": [
+      {
+        "title": "We Understand the MICRA Clock Is Unforgiving",
+        "desc": "California generally gives patients one year from discovering an injury, and never more than three years from the date it occurred, to act — plus a 90-day pre-suit notice requirement. We help you move quickly toward an attorney who can evaluate your timeline before it closes."
+      },
+      {
+        "title": "A Qualified Medical Expert Is Almost Always Required",
+        "desc": "California law requires expert review to support a malpractice claim, since a bad outcome by itself isn't proof of negligence. The independent attorneys in our network work with the kind of medical experts these cases demand."
+      },
+      {
+        "title": "No Upfront Cost, No Fee Unless There's a Recovery",
+        "desc": "Attorneys in our network handle malpractice matters on contingency, so you don't pay out of pocket to have your case reviewed. LawProactive's connection service is always free, whether or not a claim moves forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date the error occurred. There's also a required 90-day pre-suit notice before a lawsuit can be filed. Because these deadlines can overlap in confusing ways, it helps to talk to an attorney sooner rather than later."
+      },
+      {
+        "question": "I was treated in Bishop but transferred to a larger hospital elsewhere — does that affect my claim?",
+        "answer": "Not necessarily. If the error occurred at the Bishop facility, that's typically where the claim is evaluated, even if you were later transferred for specialized care. An independent attorney can look at the full chain of treatment to understand where things may have gone wrong."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No — California law is clear that a poor result alone doesn't establish negligence. A claim generally requires showing the provider's care fell below the accepted medical standard, and this typically needs a qualified medical expert's review. That's part of why connecting with an attorney experienced in these cases matters."
+      }
+    ]
+  }
+}

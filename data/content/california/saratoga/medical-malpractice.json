@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "saratoga medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Saratoga Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Saratoga, CA? LawProactive connects you free with an independent attorney familiar with MICRA rules and deadlines."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or treatment went wrong at a Saratoga-area clinic or hospital, LawProactive can connect you with an independent attorney who understands California's medical malpractice rules at no cost to you."
+  },
+  "about": {
+    "title": "Saratoga Medical Malpractice Claims",
+    "longDescription": "Saratoga residents rely on nearby Santa Clara County medical facilities for everything from routine checkups to major surgery, and most visits go as expected. But when a provider misses a diagnosis, makes a surgical error, or mismanages medication, the consequences can follow a patient for years. California law treats these cases differently than a typical injury claim — there's a shorter notice window, a required expert review, and specific rules under MICRA that shape how a case moves forward. LawProactive doesn't practice law or take on cases directly; instead, we connect Saratoga residents with independent attorneys in our network who evaluate medical negligence claims and explain, in plain terms, whether a case may be worth pursuing. The goal is simply to help you get informed guidance quickly, without cost or obligation, so you're not trying to sort through medical and legal complexity alone while also recovering physically.",
+    "commonInjuriesTitle": "Common Types of Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your situation, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Saratoga Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the MICRA Timeline",
+        "desc": "California medical malpractice claims generally must be filed within one year of discovering the harm, and no later than three years from the injury itself, with a required 90-day pre-suit notice. We help connect you with an attorney quickly so these deadlines aren't missed."
+      },
+      {
+        "title": "Cases Require Qualified Medical Review",
+        "desc": "Because a poor outcome alone doesn't prove malpractice, California requires a qualified medical expert to support most claims. The attorneys in our network work with the right resources to determine whether the standard of care was actually breached."
+      },
+      {
+        "title": "No-Cost, No-Obligation Connection",
+        "desc": "LawProactive doesn't charge for connecting you with an attorney, and the attorneys we work with typically handle these claims on contingency, meaning no fee unless there's a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim after treatment in Saratoga?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discover the harm, but no more than three years from the date of the injury itself, whichever comes first. A 90-day pre-suit notice to the provider is also typically required before filing. Because these deadlines can be affected by specific facts, it helps to have an attorney review your timeline early."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No — California law requires showing that a provider failed to meet the accepted standard of care, and that this failure caused harm. A poor result on its own, even after a difficult surgery or complicated diagnosis, isn't enough. A qualified medical expert typically has to review the case to determine whether negligence actually occurred."
+      },
+      {
+        "question": "Does LawProactive handle malpractice cases from Saratoga hospitals or clinics directly?",
+        "answer": "No, LawProactive is a free connection service, not a law firm, so we don't handle or litigate cases ourselves. Instead, we connect Saratoga residents with independent attorneys in our network who evaluate medical malpractice claims tied to local providers. There's no cost or obligation to see whether your situation qualifies for further review."
+      }
+    ]
+  }
+}

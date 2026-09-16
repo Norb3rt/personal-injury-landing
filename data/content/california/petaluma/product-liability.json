@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "petaluma product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Petaluma Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Petaluma? Get free, no-obligation help connecting with an independent injury attorney. Contingency fee only."
+  },
+  "hero": {
+    "subtitle": "If a defective product hurt you or someone you love in Petaluma, LawProactive can connect you with an independent attorney who handles these claims on contingency, at no cost to reach out."
+  },
+  "about": {
+    "title": "Petaluma Product Liability Claims",
+    "longDescription": "Petaluma households rely on everyday products — kitchen appliances, power tools, vehicle parts, children's gear, medical devices — and most work as expected. But when a product leaves the factory with a design flaw, a manufacturing error, or an inadequate warning, the person who gets hurt is often left with medical bills and questions about who's responsible. California generally applies strict liability in these cases, meaning an injured person usually doesn't have to prove anyone was careless, only that the product was defective and that the defect caused the harm. Manufacturers, distributors, and sometimes retailers can all share responsibility. If you were hurt by a product anywhere in Sonoma County, including here in Petaluma, LawProactive can connect you with an independent attorney familiar with these claims, free of charge and with no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or electronics",
+      "Lacerations or amputations from defective power tools",
+      "Injuries from failed vehicle components or airbags",
+      "Harm from mislabeled or contaminated household products",
+      "Injuries to children from unsafe toys or gear",
+      "Complications from defective medical devices"
+    ],
+    "ctaText": "Reach out today for a free, no-pressure connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Understanding Strict Liability Matters",
+    "items": [
+      {
+        "title": "You Don't Have to Prove Negligence",
+        "desc": "California's strict liability standard generally means you only need to show the product was defective and that it caused your injury, not that the manufacturer was careless."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, which may widen the pool of parties an attorney can pursue on your behalf."
+      },
+      {
+        "title": "Preserving the Product Is Critical",
+        "desc": "Keeping the defective product, its packaging, and any related receipts intact can matter a great deal to how a claim gets evaluated later."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Try not to throw it away, alter it, or attempt repairs. Store it somewhere safe along with any packaging, manuals, or receipts, since the physical product itself is often central to evaluating a defect claim."
+      },
+      {
+        "question": "Do I need to prove the manufacturer knew about the defect?",
+        "answer": "Not necessarily. Under California's strict liability approach, the focus is generally on whether the product was defective and caused harm, rather than on what the manufacturer knew or intended."
+      },
+      {
+        "question": "I was hurt near S Mcdowell Boulevard by a defective vehicle part, not a crash. Does that matter?",
+        "answer": "It can. If a part failure rather than driver error contributed to what happened, that shifts the claim toward product liability rather than a typical traffic case. An independent attorney can help sort out which legal path fits your situation."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free connection service, and attorneys in the network typically work on contingency, meaning there's no fee unless there's a recovery."
+      }
+    ]
+  }
+}

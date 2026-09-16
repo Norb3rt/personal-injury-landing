@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "fort-bragg car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fort Bragg Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Fort Bragg car accident? Get connected free to an independent CA attorney. No fee unless you recover. Call today."
+  },
+  "hero": {
+    "subtitle": "If a crash on Highway 1 or along Oak Street left you hurt, LawProactive can connect you with an independent Fort Bragg-area attorney at no cost to you."
+  },
+  "about": {
+    "title": "Fort Bragg Car Accident Claims",
+    "longDescription": "Fort Bragg's collisions often cluster where Highway 1 meets local streets like Oak, Main, and Franklin — corridors that carry both coastal traffic and everyday local errands. Recent public records show five injury collisions and nine injured people in the most recent final year, with Friday afternoons between 3 and 5 p.m. showing up often in reports. Whether you were rear-ended near downtown or sideswiped on Highway 1 heading toward the coast, the aftermath can mean medical bills, missed work, and a lot of unanswered questions. LawProactive isn't a law firm — we're a free service that connects people hurt in these crashes with an independent personal injury attorney working on contingency, meaning there's no fee unless there's a recovery. Our role is simply to help you find someone who can look at your situation and explain your options, without any pressure or upfront cost to you.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head injuries",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Shoulder and knee damage",
+      "Cuts, bruises, and soft-tissue trauma"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Acting Early Matters in California",
+    "items": [
+      {
+        "title": "The Clock Starts Running",
+        "desc": "California generally gives you two years from the crash date to file a personal injury claim, but that window can shrink to as little as six months if a government entity — like a city road crew — was involved. Waiting too long can close the door on your claim entirely."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California uses pure comparative fault, meaning even if you're found partly responsible, you can still recover damages reduced by your share of fault. Insurers know this and often push hard early on to shift blame onto you before you've spoken with anyone."
+      },
+      {
+        "title": "Recorded Statements Can Be Risky",
+        "desc": "The other driver's insurance company may ask for a recorded statement soon after the crash — before evidence like skid marks near Oak Street or witness memories fade. An independent attorney can advise you on what, if anything, to share, so nothing you say is later used against your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and the independent attorneys in our network work on contingency, which means they only get paid if you recover compensation. There's no upfront cost or obligation to move forward."
+      },
+      {
+        "question": "What if my accident happened on Highway 1 outside city limits?",
+        "answer": "That's fine — Highway 1 runs through and around Fort Bragg, and collisions on state highways are handled similarly to those on city streets like Franklin or Main. An attorney can review the specific location and circumstances to determine how California law applies to your situation."
+      },
+      {
+        "question": "Is there really no cap on what I can recover for pain and suffering in California?",
+        "answer": "Correct — California does not cap non-economic damages, such as pain and suffering, in most personal injury cases. That said, every case is different, and no outcome is guaranteed; an attorney can walk you through what factors might affect your specific claim."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "del-mar medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Del Mar Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Del Mar? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When medical care in Del Mar falls short of what a patient was owed, the aftermath can be confusing and isolating. LawProactive connects you, at no cost, with an independent attorney who understands how California's malpractice rules apply to cases like yours."
+  },
+  "about": {
+    "title": "Del Mar Medical Malpractice Claims",
+    "longDescription": "Del Mar is a small coastal community in San Diego County, and many residents travel to nearby hospitals and clinics for specialized care. When that care goes wrong — a delayed diagnosis, a surgical mistake, a medication error — patients are often left trying to sort out what happened while still recovering. California's medical malpractice law is different from an ordinary injury claim: it moves on shorter deadlines, requires early notice to the provider, and generally calls for a qualified medical expert to establish that the care fell below an accepted standard. A bad result by itself doesn't prove malpractice; what matters is whether the provider's conduct deviated from what a reasonably careful practitioner would have done. LawProactive doesn't practice law itself. We simply listen to what happened, then connect you with an independent attorney in our network who can evaluate your situation and explain your options — free of charge to start, and with no fee owed unless there's a recovery.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up after treatment"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney."
+  },
+  "whyChoose": {
+    "title": "Why Timing and Guidance Matter in Del Mar",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives one year from when you discover the harm, but never more than three years from the injury itself. Missing either boundary can end a claim before it starts, so early advice matters."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before filing suit, California law usually requires sending the provider a 90-day notice of intent. An attorney familiar with this step can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "Because a poor outcome alone doesn't establish malpractice, a qualified medical expert typically has to review the case and confirm the care fell below accepted standards — something an experienced attorney knows how to arrange."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery near Del Mar — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law requires showing that a provider's care fell below what a reasonably careful practitioner would have done, not just that the result was disappointing. An independent attorney can review the medical records and determine whether the standard of care was actually breached."
+      },
+      {
+        "question": "How long do I have to bring a claim if I live in Del Mar?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discover the injury, and no more than three years from the date it occurred, whichever comes first. There's also a 90-day notice period before filing suit, so it helps to start the process well before any deadline approaches."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "California caps non-economic damages in medical malpractice cases, though that cap rises each year under current law. Economic damages, like medical bills and lost income, are generally handled separately and aren't subject to that same cap."
+      }
+    ]
+  }
+}

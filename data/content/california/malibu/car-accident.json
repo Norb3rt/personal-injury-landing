@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "malibu car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Malibu Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Malibu car accident? LawProactive connects you free with an independent attorney near PCH. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Pacific Coast Highway or Malibu Canyon Road left you hurt, LawProactive can connect you with an independent Malibu attorney at no cost to you."
+  },
+  "about": {
+    "title": "Malibu Car Accident Claims",
+    "longDescription": "Malibu's stretch of Rt 1, better known as Pacific Coast Highway, carries a steady mix of commuters, tourists, and cyclists past Malibu Canyon Road and the coastline's blind curves. Los Angeles County records show 75 injury collisions here in the most recent final year, with 115 people hurt and one traffic death — and Sunday afternoons between 3 and 5 p.m. see a noticeable spike, likely tied to weekend beach traffic. When a crash happens on these roads, the physical damage is often just the start. Insurance adjusters move fast, sometimes calling before you've even seen a doctor, hoping to lock in a statement while you're still shaken. LawProactive doesn't practice law — we simply connect injured Malibu residents and visitors with an independent personal injury attorney who can look at what happened, explain your options, and help you avoid early missteps. There's no charge to get connected, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries After Malibu Car Accidents",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head trauma",
+      "Fractured ribs or limbs",
+      "Spinal disc injuries",
+      "Cuts from broken glass or debris",
+      "Soft tissue and joint damage"
+    ],
+    "ctaText": "Get connected with a Malibu car accident attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Ticking",
+        "desc": "You generally have two years from the crash date to file a personal injury claim in California, but if a government entity like Caltrans is involved (say, road conditions on PCH), that window can shrink to as little as six months. An attorney can help you figure out which deadline applies before it passes."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California uses pure comparative fault, meaning even if you're partly blamed for the crash, you can still recover damages — just reduced by your share of fault. Insurers know this and often push drivers to admit more fault than is fair, so having someone review the facts on your side matters."
+      },
+      {
+        "title": "No Cap Doesn't Mean No Fight",
+        "desc": "California places no cap on non-economic damages like pain and suffering, but that doesn't mean insurers offer them freely. An independent attorney working on contingency — no fee unless you recover — can push back on lowball offers without costing you anything upfront."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurers often use these statements to find inconsistencies or get you to downplay your injuries. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "Is Pacific Coast Highway in Malibu a particularly risky place to drive?",
+        "answer": "Public crash data shows Rt 1 and Malibu Canyon Road have consistent collision counts, with Sunday afternoons between 3 and 5 p.m. seeing more reported crashes than other times. That's simply a pattern in the record, not a judgment about any specific stretch of road."
+      },
+      {
+        "question": "What if the crash happened on a road maintained by the city or state?",
+        "answer": "Claims involving government-maintained roads, like sections of PCH, can carry a much shorter filing deadline than the standard two years — sometimes just six months. It's important to act quickly and preserve evidence like photos, witness contact info, and any dashcam footage."
+      }
+    ]
+  }
+}

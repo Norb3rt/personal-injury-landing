@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "cupertino workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Cupertino Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Cupertino? Get connected free with an independent attorney who understands workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "When a workday in Cupertino ends in an injury, the paperwork and rules can feel like a second job. LawProactive connects you, at no cost, with an independent attorney familiar with Santa Clara County workplace claims."
+  },
+  "about": {
+    "title": "Cupertino Workplace Injury Claims",
+    "longDescription": "Cupertino's mix of tech campuses, retail centers, and busy job sites along corridors like De Anza Boulevard and Stevens Creek Boulevard means workplace injuries can happen in offices, warehouses, or out on the road during work duties. In most cases, California law channels an injured worker's claim through workers' compensation, regardless of who was at fault. But that's not always the end of the story — if a subcontractor, property owner, equipment manufacturer, or another driver contributed to the accident, a separate third-party claim may be possible alongside your comp benefits. Sorting out which path applies, and meeting the deadlines tied to each, takes careful attention. LawProactive doesn't practice law itself; we simply connect injured workers in Cupertino with an independent attorney who can look at the details of your situation and explain your options, free of charge and without any obligation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Repetitive strain and overuse injuries",
+      "Injuries from malfunctioning equipment or machinery",
+      "Vehicle collisions while on work-related travel",
+      "Struck-by or caught-in-between accidents on job sites",
+      "Burns or exposure incidents on commercial properties"
+    ],
+    "ctaText": "Find out where your claim stands — connect with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Cupertino Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "While workers' compensation is usually the exclusive remedy against an employer, a negligent third party like a subcontractor or equipment maker may still owe you a separate claim."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "California requires injuries to be reported to an employer within 30 days, so waiting to get informed can limit your options later."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to punish you for reporting a workplace injury, and an attorney can help you understand what those protections mean for your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a work errand near I-280 — does workers' comp still apply?",
+        "answer": "Generally, injuries that happen while performing work duties, including driving for work purposes on routes like I-280, fall under workers' compensation. If another driver caused the crash, you may also have a separate third-party claim worth exploring. An independent attorney can review the specifics and explain how both pieces might fit together."
+      },
+      {
+        "question": "Can I get in trouble for reporting my injury to my employer?",
+        "answer": "No. California law makes it illegal for an employer to retaliate against you for reporting a workplace injury. If you're worried about how your employer might respond, an attorney can walk you through your rights before you take the next step."
+      },
+      {
+        "question": "What if equipment or a contractor caused my injury, not my employer directly?",
+        "answer": "That's exactly the kind of situation where a third-party claim may apply, separate from workers' compensation. These claims carry a 2-year deadline in California, so it helps to get informed sooner rather than later. LawProactive can connect you with an attorney who can sort out who may be responsible."
+      }
+    ]
+  }
+}

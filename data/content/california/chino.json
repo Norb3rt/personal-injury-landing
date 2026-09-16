@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "chino city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Chino, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Chino or elsewhere in San Bernardino County? You have 2 years to file. Get connected free to an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on the 60, knocked off a bike on Central Avenue, or hurt in a fall at a local business, LawProactive connects you with an independent injury attorney at no cost. We serve Chino and all of San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Chino, California",
+    "longDescription": "Chino sits where the 60 freeway meets a grid of long surface streets, and a lot of daily life here happens behind the wheel. The Pomona Freeway carries commuters through town, while Central Avenue, Riverside Drive, and Euclid Avenue move people between neighborhoods, workplaces, and schools. In 2025, public records list 400 injury collisions inside city limits, with 571 people hurt and 7 lives lost. Those reports show a pattern many locals will recognize: crashes climb on Friday evenings, roughly between 5 and 7 p.m., as the work week winds down.\n\nIf one of those numbers now includes you, the weeks that follow can feel disorganized. Medical appointments stack up, an adjuster calls before you have had time to think, and paperwork arrives that nobody explained. LawProactive exists to take one task off that list. We are a free service, not a law firm. We connect people in Chino and across San Bernardino County with an independent personal injury attorney who can review what happened and explain the options. There is no charge to reach out, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. You describe your situation; the attorney takes it from there.",
+    "commonInjuriesTitle": "Injuries We See Most Often in Chino",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway stop-and-go collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back injuries, including herniated discs",
+      "Road rash and fractures from motorcycle or bicycle crashes",
+      "Knee and hip injuries from slip-and-fall incidents"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Chino Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, the deadline to file a claim can be as short as six months, so timing matters."
+      },
+      {
+        "title": "Partial blame does not close the door",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share of fault but not eliminated."
+      },
+      {
+        "title": "No fixed cap on pain and suffering",
+        "desc": "In an ordinary injury case, California does not cap non-economic damages such as pain, disruption to daily life, and emotional distress."
+      },
+      {
+        "title": "Fees only come out of a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay nothing up front, and there is no fee unless the case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work right now and the bills are already arriving.",
+      "I might have been partly at fault — does that mean I get nothing?",
+      "I don't want to hire a lawyer if it costs money I don't have."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Chino tend to happen?",
+        "answer": "Public collision records for Chino show the highest counts along SR-60, the Pomona Freeway, followed by Central Avenue, Riverside Drive, and Euclid Avenue. Those figures reflect traffic volume and reporting, not a judgment about any particular road. Citywide, 2025 records show 400 injury collisions, with reports peaking on Fridays between 5 and 7 p.m."
+      },
+      {
+        "question": "How long do I have to bring an injury claim in California?",
+        "answer": "For most injury claims, the deadline is two years from the date you were hurt. When a government entity is involved — a city vehicle, a public road defect, a county facility — a formal claim may need to be filed within six months. Speaking with an attorney early helps make sure no deadline slips by."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match people in Chino and San Bernardino County with an independent personal injury attorney, and that attorney handles your case directly. We do not give legal advice or represent you."
+      },
+      {
+        "question": "What will it cost me to work with an attorney?",
+        "answer": "There is no charge to be connected through LawProactive. Attorneys in our network take injury cases on contingency, which means their fee is a percentage of any recovery and nothing if there is no recovery. Fee terms are explained to you before you agree to anything."
+      },
+      {
+        "question": "I was partly at fault. Can I still recover anything?",
+        "answer": "Yes, in most situations. California uses pure comparative fault, so a person who shares some blame can still recover, with the amount reduced by their percentage of responsibility. An attorney can look at the facts of your crash and explain how that might apply."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "mill-valley product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mill Valley Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Mill Valley? Get connected free with an independent CA product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a defective product injures someone in Mill Valley, California's strict liability rules can shift the legal burden away from the injured person. LawProactive connects Mill Valley residents with an independent attorney to review what happened, at no cost to you."
+  },
+  "about": {
+    "title": "Mill Valley Product Liability Claims",
+    "longDescription": "A defective product doesn't always fail on a factory line — sometimes it's a faulty bike component on Camino Alto, a malfunctioning e-bike battery, a poorly designed ladder used on a hillside property, or a kitchen appliance that overheats in a home near downtown Mill Valley. Marin County's mix of outdoor recreation, home renovation, and daily commuting along corridors like Miller Avenue and E Blithedale Avenue means residents encounter all kinds of consumer, recreational, and household products regularly. Under California law, injured people generally don't need to prove a manufacturer was careless — only that the product itself was defective and that the defect caused harm. That said, these cases often involve technical evidence, retained products, and multiple parties along the supply chain. LawProactive doesn't replace legal advice; we simply connect Mill Valley residents who've been hurt by a product with an independent attorney who can evaluate the specifics, preserve evidence, and explain what comes next.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating appliances or batteries",
+      "Lacerations from malfunctioning tools or blades",
+      "Fractures from failed ladders, furniture, or sporting gear",
+      "Head injuries from defective bike or e-bike components",
+      "Crush injuries from faulty equipment or machinery",
+      "Chemical burns or respiratory harm from inadequate warnings"
+    ],
+    "ctaText": "Talk to an independent attorney about your product injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Strict Liability Matters for Mill Valley Residents",
+    "items": [
+      {
+        "title": "You Don't Have to Prove Negligence",
+        "desc": "California's strict liability standard means an injured person generally only needs to show the product was defective and that it caused harm — not that the manufacturer was careless."
+      },
+      {
+        "title": "Multiple Parties Can Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, which matters when a defective product passed through several hands before reaching a Mill Valley home or trail."
+      },
+      {
+        "title": "Design, Manufacturing, or Warning Defects Can Qualify",
+        "desc": "Whether the flaw was in how a product was designed, how it was built, or the warnings it lacked, each type of defect can support a claim under California law."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What should I do with the product that injured me?",
+        "answer": "Keep it exactly as it was at the time of the injury — don't repair, discard, or alter it. The product itself is often the most important piece of evidence in a strict liability claim, so preserving it (and any packaging or manuals) helps an attorney evaluate the defect."
+      },
+      {
+        "question": "Do I need to prove the manufacturer was negligent?",
+        "answer": "No. Under California's strict liability approach, you generally need to show the product was defective and that the defect caused your injury, not that the company was careless in making it. This standard applies to manufacturers, distributors, and sometimes retailers."
+      },
+      {
+        "question": "Does it matter that I live in Mill Valley specifically?",
+        "answer": "California product liability law applies statewide, but local details still matter — where the product was purchased, used, or maintained, and whether it was involved in an incident near local roads like Miller Avenue or Camino Alto, can all factor into how a claim is built. An independent attorney can walk through your specific situation."
+      }
+    ]
+  }
+}

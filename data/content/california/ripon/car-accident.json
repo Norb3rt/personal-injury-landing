@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "ripon car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ripon Car Accident Help | LawProactive",
+    "metaDescription": "Hurt in a Ripon car accident? Get connected free to an independent attorney near San Joaquin County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a collision on SR-99, N Jack Tone Road, or W Main Street left you injured, LawProactive can connect you with an independent Ripon-area attorney at no cost to you."
+  },
+  "about": {
+    "title": "Ripon Car Accident Claims",
+    "longDescription": "Ripon is a small city, but its traffic corridors carry a steady flow of commuters and through-traffic connecting to State Route 99. Public records show 49 injury collisions and 64 injured people in the most recent final crash year, with reported crashes tending to cluster on Fridays between 4 and 6 p.m., likely tied to end-of-week commute and weekend travel patterns. Whether your crash happened at a Main Street intersection or along the Jack Tone Road corridor, the days after a collision matter. Insurance adjusters often move quickly to gather statements before you've had a chance to understand your injuries or talk with someone who can look out for your interests. LawProactive doesn't practice law or charge you anything — we simply connect injured Ripon residents with an independent personal injury attorney who can review the details of what happened and explain your options.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Back and spinal disc injuries",
+      "Broken bones and fractures",
+      "Shoulder and knee ligament tears",
+      "Soft tissue bruising and lacerations"
+    ],
+    "ctaText": "Get connected with a Ripon-area attorney today, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Ticking",
+        "desc": "You generally have two years from the crash date to file a personal injury lawsuit in California, but that window can shrink to as little as six months if a government entity — like a city road crew or county vehicle — was involved. Waiting too long to get advice can quietly cost you options."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California uses pure comparative fault, meaning your compensation can be reduced by whatever percentage of blame you're assigned, even if you were mostly not at fault. What you say to the other driver's insurer in a recorded statement can be used to inflate that percentage before you've even had legal guidance."
+      },
+      {
+        "title": "No Cap on What You've Actually Lost",
+        "desc": "California places no cap on non-economic damages like pain and suffering in most car accident cases, so accurately documenting how the crash has affected your daily life matters. An attorney working on contingency has an incentive to help preserve that evidence early, and you owe nothing unless there's a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to give a recorded statement to the other driver's insurance company?",
+        "answer": "No, you're not required to give a recorded statement to the other driver's insurer, and it's often better to speak with an attorney before you do. Insurance adjusters are trained to ask questions in ways that can shift fault onto you, which matters under California's comparative fault rules. An independent attorney can help you understand what you actually need to say, if anything."
+      },
+      {
+        "question": "My crash happened near the SR-99 and Main Street area in Ripon — does that change anything?",
+        "answer": "Not necessarily, but corridors like SR-99 and W Main Street see steady traffic, and pinpointing exactly how and where a collision happened can matter for the claim. Physical evidence at these locations, like skid marks or traffic camera footage, can disappear quickly, so acting early to preserve it is helpful. An attorney can advise on what records or evidence should be requested for your specific location."
+      },
+      {
+        "question": "How much does it cost to talk with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and the independent attorneys in our network typically work on a contingency basis, meaning there's no fee unless you recover compensation. You can ask questions and get a sense of your options before deciding whether to move forward."
+      }
+    ]
+  }
+}

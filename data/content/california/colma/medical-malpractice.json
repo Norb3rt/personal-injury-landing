@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "colma medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colma Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Colma? Get connected free with an independent CA medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnostic mistake, surgical error, or delayed treatment at a Colma-area medical facility left you injured, LawProactive can connect you with an independent attorney who handles California medical malpractice claims — free of charge to you."
+  },
+  "about": {
+    "title": "Colma Medical Malpractice Claims",
+    "longDescription": "Colma is a small San Mateo County community, and most residents rely on nearby hospitals and clinics along El Camino Real or in surrounding cities for care. When that care falls short — a missed diagnosis, a surgical slip, a medication mix-up — the aftermath can be confusing, especially layered on top of an existing health problem. California law gives injured patients a path forward, but medical malpractice cases carry their own rules: short filing windows, a required pre-suit notice, and the need for a qualified medical expert to weigh in on what went wrong. LawProactive doesn't practice law or decide your case's merits. We simply listen to what happened, then connect you with an independent California attorney from our network who reviews malpractice claims on a contingency basis, so you're not paying out of pocket to find out where you stand. If you or a family member believe a Colma-area provider's error caused harm, reaching out costs nothing and starts the clock working for you, not against you.",
+    "commonInjuriesTitle": "Common Injuries We See in Malpractice Claims",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-operative complications"
+    ],
+    "ctaText": "Tell us what happened — get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "MICRA's Timeline Is Tight",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to act. Waiting to sort things out on your own can quietly cost you your claim."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can even be filed in California, the law requires a 90-day notice to the provider. An attorney can help make sure this step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California malpractice claims typically need a qualified medical expert to confirm the care fell below the accepted standard. A bad outcome by itself isn't enough — an attorney connected through our network can help arrange the right kind of medical review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Colma but was treated at a hospital outside the city — can I still get help?",
+        "answer": "Yes. Colma residents commonly receive care at facilities throughout San Mateo County and beyond, and where the treatment happened doesn't prevent you from seeking help. An independent attorney can review the details regardless of which facility was involved."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it occurred. There's also a required 90-day notice before filing suit. These deadlines are strict, so it helps to get a review sooner rather than later."
+      },
+      {
+        "question": "Does a poor medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law recognizes that not every bad result is the provider's fault — medicine involves risk even with proper care. A malpractice claim requires showing the provider's conduct fell below the accepted standard of care, which is why a qualified medical expert's review is almost always part of the process."
+      }
+    ]
+  }
+}

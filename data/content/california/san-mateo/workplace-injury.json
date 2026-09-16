@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "san-mateo workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Mateo Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in San Mateo? Learn how workers' comp and third-party claims differ, and get connected free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured while working in San Mateo? Workers' comp may not be your only option — if a third party played a role, a separate claim could be available, and we can connect you with an independent attorney for free."
+  },
+  "about": {
+    "title": "San Mateo Workplace Injury Claims",
+    "longDescription": "A workday in San Mateo can put you on a loading dock off S El Camino Real, behind the wheel on US-101, or on a scaffold above a job site near SR-92. When something goes wrong, most people assume workers' compensation is the whole story. Often it is: California makes comp the usual exclusive remedy against your employer, and fault does not matter. Comp covers medical care and part of lost wages. If someone outside your company caused the harm — a subcontractor, the owner of the property where you were working, the maker of a tool that failed, or another driver who hit your work vehicle — a separate third-party injury claim may be open to you. That claim can address losses comp never touches. In San Mateo County, the two paths run side by side, and the timing matters: tell your employer within 30 days, and third-party claims carry a two-year deadline. LawProactive is not a law firm. We connect you, at no cost, with an independent attorney who handles these cases on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See From San Mateo Workplaces",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and roofs",
+      "Back and spine strain from lifting or repetitive work",
+      "Crush and pinch injuries from machinery or equipment failure",
+      "Collisions while driving a work vehicle",
+      "Burns and chemical exposure",
+      "Struck-by injuries from falling tools or materials"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why San Mateo Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We help you see past workers' comp",
+        "desc": "Comp is usually the only claim against your employer, regardless of fault. An attorney can look at whether a subcontractor, property owner, equipment maker, or another driver also bears responsibility."
+      },
+      {
+        "title": "Deadlines are watched from day one",
+        "desc": "You have 30 days to report the injury to your employer, and a third-party claim in California must be filed within two years. Getting connected early keeps both clocks in view."
+      },
+      {
+        "title": "Retaliation is illegal, and you won't face it alone",
+        "desc": "California law forbids employers from punishing you for reporting an injury or filing a claim. The independent attorneys we connect you with work on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I drive for work on US-101 through San Mateo and another driver hit me. Do I have one claim or two?",
+        "answer": "Possibly two. Because you were on the job, workers' compensation should cover your medical care and part of your wages no matter who was at fault. Because another driver caused the crash, you may also have a separate third-party injury claim against that driver. San Mateo recorded 386 injury collisions in 2025, and work trips make up a share of them, so this situation is not unusual."
+      },
+      {
+        "question": "My employer says I can only file for workers' comp. Is that true?",
+        "answer": "Against your employer, comp is generally the exclusive remedy in California, so in that narrow sense they are right. But the rule protects the employer, not outside parties. If a subcontractor, property owner, or equipment manufacturer contributed to your injury, a third-party claim may still be available. An attorney can sort out which is which."
+      },
+      {
+        "question": "I was hurt on a job site near SR-92 but waited to report it. Is it too late?",
+        "answer": "Report it now. California asks you to notify your employer within 30 days, and a prompt written report keeps your comp claim on solid footing. A third-party claim carries a separate two-year deadline, so even a delayed start does not necessarily close that door. Talking with an attorney soon helps clarify where you stand."
+      }
+    ]
+  }
+}

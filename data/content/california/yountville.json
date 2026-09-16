@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "yountville city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Yountville, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Napa County? Connect free with an independent Yountville injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car wreck on Rt 29 or a fall while visiting the valley, we'll connect you with an independent attorney at no cost. Free, no-obligation help for people injured throughout Napa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Yountville, California",
+    "longDescription": "Yountville may be small, with just over 3,000 residents, but its roads carry a steady mix of locals, wine-country visitors, and through-traffic on Rt 29, SR-29, Washington Street, and California Drive. Public records show 3 injury collisions in the most recent year, leaving 4 people hurt — a reminder that even a quiet town sees its share of crashes. If you were hurt in one of these collisions, or in a fall, bike accident, or other mishap around town, sorting out medical bills and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — we are not a law firm — that connects injured people in Yountville with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk, no obligation to move forward, and attorneys in our network only get paid if you recover compensation. You focus on healing; let someone else sort out the legal questions and deadlines that come with a claim in California.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Neck and back strains from car collisions",
+      "Broken bones from vehicle or bicycle crashes",
+      "Traumatic brain injuries from falls or impacts",
+      "Cuts and bruises from pedestrian incidents",
+      "Shoulder and knee injuries from slip-and-falls",
+      "Soft tissue injuries requiring ongoing treatment"
+    ],
+    "ctaText": "Talk to someone free about what happened — there's no pressure to move forward."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "A Clock Is Already Running",
+        "desc": "California law generally gives you two years from the date of an injury to file a claim, though claims against a government entity can require notice in as little as six months. An attorney can help you understand which deadline applies to your situation."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Case",
+        "desc": "California follows pure comparative fault, meaning you can still recover compensation even if you were partly responsible for what happened — your share of fault simply reduces the amount, it doesn't erase it."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages, like pain and suffering, in a typical injury case. That matters when an injury affects your daily life beyond just medical bills."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no retainer, no hourly billing, and no financial risk to finding out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while unable to work",
+      "Wondering if the insurance company's settlement offer is fair",
+      "Feeling unsure whether being partly at fault ruins the claim",
+      "Not knowing how much time is left to take legal action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Yountville?",
+        "answer": "In most California personal injury cases, you have two years from the date of the injury to file a lawsuit. If your claim involves a government entity, such as a public road issue, the notice deadline can be as short as six months. An attorney can confirm exactly which timeline applies to your situation."
+      },
+      {
+        "question": "Where do crashes tend to happen in Yountville?",
+        "answer": "Public collision records show activity concentrated along corridors like Rt 29, SR-29, Washington Street, and California Drive, with reports tending to cluster on Wednesday afternoons between 2 and 4 p.m. These are simply public-record patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly at fault doesn't prevent you from recovering compensation. Your recovery amount would be reduced by your percentage of fault, but you're not automatically barred from a claim."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people with an independent attorney who can evaluate their situation at no cost."
+      },
+      {
+        "question": "What if my injury turns out to be more serious than I first thought?",
+        "answer": "This is common, especially with soft tissue or head injuries that don't show symptoms right away. Speaking with an attorney early — while evidence and witness memories are still fresh — can help protect your ability to pursue a claim as your medical picture becomes clearer."
+      }
+    ]
+  }
+}

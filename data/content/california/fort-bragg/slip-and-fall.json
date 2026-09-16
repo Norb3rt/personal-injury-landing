@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "fort-bragg slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fort Bragg Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Fort Bragg? Get connected free to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall on a wet floor, broken sidewalk, or poorly lit stairwell along Main Street or Franklin Street can leave you dealing with pain, missed work, and confusing questions about who's responsible. LawProactive connects Fort Bragg residents with an independent attorney who can help sort through what happened, free of charge."
+  },
+  "about": {
+    "title": "Fort Bragg Slip & Fall & Premises Liability Claims",
+    "longDescription": "Fort Bragg's mix of older storefronts along Main and Franklin Streets, coastal fog, and busy weekend foot traffic near Oak Street can create the kind of hazards that lead to serious falls — uneven pavement, slick entryways, poor lighting in parking areas, or spills left unattended in local shops and restaurants. Under California law, a property owner or business isn't automatically responsible just because someone got hurt on their premises; the injured person generally has to show the owner knew, or reasonably should have known, about the hazard and didn't fix it or warn people about it. That's why documentation matters so much in these cases. Photos of the hazard, witness names, and store surveillance footage can disappear or get overwritten within days. LawProactive doesn't handle claims directly, but we can connect you with an independent attorney in Mendocino County who understands how to build a premises liability case and who works on contingency, meaning there's no fee unless you recover.",
+    "commonInjuriesTitle": "Injuries Commonly Linked to Falls on Property",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures",
+      "Head injuries and concussions",
+      "Torn ligaments or meniscus damage",
+      "Herniated discs and back injuries",
+      "Shoulder dislocations or rotator cuff tears"
+    ],
+    "ctaText": "Get connected with an attorney who handles Fort Bragg premises liability claims — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Matters in a Fort Bragg Premises Case",
+    "items": [
+      {
+        "title": "Proving the Owner Had Notice",
+        "desc": "California requires showing the property owner knew or reasonably should have known about the hazard and failed to address it. An attorney can help gather evidence — like prior complaints or maintenance logs — to establish that notice."
+      },
+      {
+        "title": "Racing Against a Short Video Window",
+        "desc": "Many businesses overwrite surveillance footage within days or weeks. Acting quickly to request preservation of that video can make a real difference in a Fort Bragg premises claim."
+      },
+      {
+        "title": "Understanding Comparative Fault",
+        "desc": "California uses pure comparative fault, so even if you're found partly responsible for a fall, you may still recover a reduced amount. An attorney can help present your case in a way that accounts for this rule."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Fort Bragg?",
+        "answer": "In most cases, California gives you two years from the date of the injury to file a lawsuit. If the property involved is owned by a government entity, such as a city building or public sidewalk, the deadline is much shorter and requires a separate claims process. Talking to an attorney early helps make sure you don't miss a critical date."
+      },
+      {
+        "question": "What if I was partly at fault for my fall?",
+        "answer": "California's pure comparative fault rule means you can still pursue compensation even if you share some blame for the accident, though your recovery may be reduced by your percentage of fault. This is common in fall cases involving distracted walking or unclear warning signs. An attorney can help evaluate how fault might be allocated in your situation."
+      },
+      {
+        "question": "Does it matter that Fort Bragg is a smaller town with fewer big retailers?",
+        "answer": "Not really — premises liability law applies the same way whether the property is a small local shop on Main Street or a larger chain store. What matters is whether the owner or occupier knew, or should have known, about the hazard. Smaller businesses may have less formal documentation, which makes early evidence gathering even more important."
+      }
+    ]
+  }
+}

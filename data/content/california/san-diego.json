@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard (plain-spoken, victim-first)",
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-09-11",
+    "note": "San Diego city page."
+  },
+  "seo": {
+    "metaTitle": "San Diego Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in San Diego? Connect free with a personal injury attorney serving San Diego County. 2 years to file under California law — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Hurt in a crash on the 5 or 805, in a fall, or on the job in San Diego? We connect you — free — with an independent personal injury attorney who handles San Diego County claims. No fee unless you recover."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Diego, California",
+    "longDescription": "San Diego blends dense coastal traffic, a busy border region and long commuter runs on the I-5 and I-805, and with all of that movement comes real risk. Public records show more than 5,800 injury collisions across the city in 2025, leaving nearly 7,800 people hurt, with reported crashes tending to peak on Friday evenings. Beyond the freeways, corridors like El Cajon Boulevard and University Avenue see steady pedestrian and bicycle traffic year-round. Whether you were injured in a wreck, in a fall at a business, in a workplace incident, or by a defective product, California law gives you rights — and a limited window to use them. LawProactive is a free service that connects injured people in San Diego with an independent personal injury attorney who understands how San Diego County claims and courts work. We are not a law firm; we simply match you with counsel. There is never a fee unless your case recovers compensation.",
+    "commonInjuriesTitle": "Injuries we help San Diego residents pursue claims for",
+    "commonInjuries": [
+      "Whiplash, neck and back injuries from highway and surface-street crashes",
+      "Traumatic brain injuries and concussions",
+      "Fractures, broken bones and crush injuries",
+      "Spinal cord and disc injuries",
+      "Pedestrian and bicyclist impact injuries",
+      "Serious lacerations, burns and scarring"
+    ],
+    "ctaText": "See if you have a case — free"
+  },
+  "whyChoose": {
+    "title": "What San Diego injury victims should know",
+    "items": [
+      {
+        "title": "The deadline is usually 2 years",
+        "desc": "California generally gives you two years from the date of injury to file suit. Evidence along corridors like the I-5 and I-805 fades fast, so the sooner you talk to an attorney, the stronger your claim tends to be."
+      },
+      {
+        "title": "Being partly at fault is not the end",
+        "desc": "California uses pure comparative fault. Even if you shared blame for a collision, you can still recover — your compensation is reduced by your share, not wiped out."
+      },
+      {
+        "title": "No cap on non-economic damages",
+        "desc": "In most California injury cases there is no cap on pain and suffering, so the human toll of your injury can be part of your claim."
+      },
+      {
+        "title": "Local San Diego County experience",
+        "desc": "Your claim runs through the San Diego County court system and the insurers active here. We connect you with an attorney who works these cases locally."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Adjusters pushing you to settle before you know the full damage",
+      "Medical bills and missed paychecks stacking up",
+      "A quick offer that ignores your long-term costs",
+      "Uncertainty about whether you even have a case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in San Diego?",
+        "answer": "Most California injury claims must be filed within two years of the date of injury. Claims involving a government entity can have far shorter deadlines — sometimes six months — so it's best to speak with an attorney promptly."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "You can still recover. Under California's pure comparative fault rule, your damages are reduced by your percentage of responsibility rather than eliminated, even if you were mostly at fault."
+      },
+      {
+        "question": "What does a case review cost?",
+        "answer": "Nothing. The review is free and the attorneys in our network work on contingency, so there's no attorney fee unless they recover compensation for you."
+      },
+      {
+        "question": "Where do injury crashes cluster in San Diego?",
+        "answer": "Reported-collision records for recent years point to the I-5 and I-805 freeways and busy corridors like El Cajon Boulevard and University Avenue, with reported crashes peaking on Friday evenings. These are public-record counts, not a verdict about any location."
+      },
+      {
+        "question": "Will my case go to trial?",
+        "answer": "Usually not. The large majority of injury claims settle. Your attorney negotiates with the insurer and only takes the case to court if a fair resolution can't be reached."
+      }
+    ]
+  }
+}

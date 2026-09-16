@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "dos-palos city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dos Palos, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Dos Palos? Merced County residents have 2 years to file. Connect free with an attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident near Dos Palos, we'll connect you with an independent attorney at no cost to you, serving people throughout Merced County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Dos Palos, California",
+    "longDescription": "Dos Palos is a small farming community, but its roads still see real traffic risk. In the most recent full year on record, the city logged 4 injury collisions, resulting in 5 people hurt and 1 traffic death. Local corridors like Rt 33, Frank Avenue, Elgin Avenue, and SR-33 carry a steady mix of local and pass-through traffic, and these routes account for a good share of the reported crash activity in town. If you or someone you love was hurt in one of these collisions, you may be dealing with medical bills, missed work, and a lot of uncertainty about what comes next. LawProactive is a free service — we are not a law firm — that helps injured people in Dos Palos get connected with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk with us, and attorneys in our network only get paid if you recover compensation. You don't have to figure this out alone or guess at next steps while trying to heal.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Find out if you have a case — connect free with an attorney today."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you 2 years from the date of injury to file a claim, but that window can shrink to as little as 6 months if a government entity is involved. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and loss of enjoyment of life. That means your recovery isn't artificially capped just because your losses aren't purely financial."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That lets you get legal help without worrying about hourly bills while you're already dealing with recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about who will pay the medical bills piling up",
+      "Feeling unsure whether the insurance company's offer is fair",
+      "Losing income while you're unable to work",
+      "Not knowing whether you waited too long to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Dos Palos?",
+        "answer": "In most cases, California law gives you 2 years from the date of the injury to file a claim. If a government agency or vehicle was involved, that deadline can be as short as 6 months, so it's worth checking your situation early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so being partly responsible doesn't bar you from recovering compensation. Your total recovery is reduced by your percentage of fault, but you can still pursue a claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Dos Palos?",
+        "answer": "Based on public-record collision counts, Rt 33, Frank Avenue, Elgin Avenue, and SR-33 show higher volumes of reported collisions than other local streets. Reported crashes also tend to peak on Mondays between 6 and 8 p.m. This is neutral traffic data, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I owe anything if I talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in the network work on contingency, meaning they only get paid if you recover compensation."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In a typical California personal injury case, there's no cap on non-economic damages such as pain and suffering. This is different from some other types of claims, so it's worth discussing your specific losses with an attorney."
+      }
+    ]
+  }
+}

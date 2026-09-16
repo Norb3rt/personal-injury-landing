@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "el-monte workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Monte Workplace Injury Claims | Free Attorney Match",
+    "metaDescription": "Hurt at work in El Monte? See how workers' comp and third-party claims differ, then get matched free with an independent California injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in El Monte? LawProactive is a free service that connects you with an independent attorney who can sort out whether workers' compensation, a third-party claim, or both apply to what happened to you."
+  },
+  "about": {
+    "title": "El Monte Workplace Injury Claims",
+    "longDescription": "El Monte, in Los Angeles County, is a working city where Valley Boulevard storefronts, industrial yards, and the I-10 San Bernardino Freeway keep people moving all day. Many residents earn a living with their hands or behind the wheel, and a work injury can arrive without warning: a fall from scaffolding on a Peck Road job site, a forklift incident inside a building off Lower Azusa Road, or a crash while making deliveries in the Friday 5-to-7 p.m. rush, when collision reports here tend to peak. In 2025 alone, El Monte logged 539 injury collisions and 753 people hurt. California law handles work injuries in two lanes. Workers' compensation covers medical care and partial wage replacement through your employer no matter who was at fault. Separately, if a subcontractor, property owner, equipment manufacturer, or another driver caused the harm, you may have a third-party injury claim with its own two-year deadline. LawProactive helps El Monte workers understand both paths and connects them, at no cost, with an independent attorney who works on contingency.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See in El Monte",
+    "commonInjuries": [
+      "Falls from ladders, roofs, and scaffolding",
+      "Back and spine injuries from lifting or repetitive strain",
+      "Crush and amputation injuries from machinery or forklifts",
+      "Vehicle collisions while driving for work",
+      "Burns, chemical exposure, and electrical shock",
+      "Head and neck trauma from falling objects"
+    ],
+    "ctaText": "Tell us what happened at work and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why El Monte Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We know where workers' comp ends and a lawsuit begins",
+        "desc": "Workers' compensation is usually your only remedy against your employer, regardless of fault. But if a subcontractor, property owner, equipment maker, or another driver caused your injury, the attorney we connect you with can evaluate a separate third-party claim."
+      },
+      {
+        "title": "Deadlines are handled, not missed",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and third-party claims generally carry a two-year filing deadline. An attorney can keep both clocks straight while you focus on recovering."
+      },
+      {
+        "title": "Your job is protected by law",
+        "desc": "Retaliating against a worker for reporting an injury or filing a claim is illegal in California. If your hours were cut or your position changed after you got hurt, that is something to raise with your attorney right away."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on the I-10 while driving a company van through El Monte. Is that just a workers' comp case?",
+        "answer": "Not necessarily. Because you were working, workers' compensation should cover your medical bills and part of your lost wages no matter who caused the crash. If another driver was at fault, though, you may also bring a third-party injury claim against that driver, and that claim can cover losses workers' comp does not. Both routes can move forward at the same time."
+      },
+      {
+        "question": "Do I need a lawyer if my employer already accepted my workers' comp claim?",
+        "answer": "Many El Monte workers do fine with a straightforward workers' comp claim. Where an attorney becomes valuable is when a third party shares blame, when benefits are delayed or denied, or when your employer starts treating you differently after you reported the injury. A free conversation can help you figure out which situation you are in."
+      },
+      {
+        "question": "What happens if I waited more than 30 days to report my injury?",
+        "answer": "Reporting within 30 days is the rule in California, and delay can complicate a workers' comp claim, but it does not always end it, especially if the employer already knew about the incident or the injury developed over time. The two-year deadline for a third-party claim is separate and runs on its own schedule. Talk to an attorney as soon as you can so nothing else slips."
+      }
+    ]
+  }
+}

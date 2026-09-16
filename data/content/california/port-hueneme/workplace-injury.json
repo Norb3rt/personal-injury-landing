@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "port-hueneme workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Port Hueneme Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Port Hueneme? Get connected free to an independent attorney who handles workers' comp and third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working near the harbor, the base, or anywhere else in Port Hueneme, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims at no cost to you."
+  },
+  "about": {
+    "title": "Port Hueneme Workplace Injury Claims",
+    "longDescription": "Port Hueneme's economy runs on a mix of naval facilities, port operations, warehousing, and small businesses tucked along corridors like Channel Islands Boulevard and Ventura Road. Workers in these settings face real risks — from equipment accidents to slip-and-falls to repetitive strain injuries. In California, workers' compensation is generally your exclusive path against your employer, no matter who was at fault, but that's not always the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate claim against that third party. LawProactive doesn't practice law — we simply connect injured workers in Port Hueneme with an independent attorney who can look at both the workers' comp side and any third-party angle, so you understand your full range of options after a workplace injury.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from defective tools or machinery",
+      "Chemical exposure or respiratory injuries",
+      "Vehicle collisions during work-related driving"
+    ],
+    "ctaText": "Get connected with an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Port Hueneme Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Your Exclusive Remedy",
+        "desc": "California generally limits your claim against your employer to workers' compensation, regardless of fault. An attorney can help make sure that process is handled correctly from the start."
+      },
+      {
+        "title": "Spotting Third-Party Liability",
+        "desc": "If a subcontractor, equipment maker, or another driver played a role in your injury, you may have a separate claim outside the workers' comp system. That claim carries its own two-year deadline, so timing matters."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law prohibits employers from retaliating against workers who report an injury or file a claim. If you report within 30 days and experience pushback anyway, an attorney can help you understand your options."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at work in Port Hueneme — do I file a workers' comp claim or a lawsuit?",
+        "answer": "In most cases, workers' compensation is your exclusive remedy against your employer, meaning a lawsuit against them typically isn't available. However, if someone other than your employer — like a subcontractor or equipment manufacturer — contributed to your injury, you may have a separate third-party claim. An independent attorney can help sort out which paths apply to your situation."
+      },
+      {
+        "question": "How long do I have to report a workplace injury in California?",
+        "answer": "You generally need to notify your employer within 30 days of the injury to protect your workers' comp rights. Waiting too long can complicate your claim, so it's worth reporting as soon as you're able. If a third party is also involved, that separate claim carries its own two-year filing deadline."
+      },
+      {
+        "question": "Does Port Hueneme's port and warehouse work create different injury risks than other jobs?",
+        "answer": "Port and logistics work often involves heavy equipment, loading docks, and vehicle traffic, which can raise the chances of falls, strain injuries, or equipment-related accidents. Whatever the setting, the same basic rules apply — workers' comp usually covers workplace injuries, while a negligent third party may open the door to an additional claim. An attorney can review the specifics of your job and incident to explain your options."
+      }
+    ]
+  }
+}

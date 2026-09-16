@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "san-diego slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Diego Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in San Diego? LawProactive connects you, free, with an independent premises liability attorney. Contingency fee only."
+  },
+  "hero": {
+    "subtitle": "A wet grocery aisle in Mission Valley, a broken step in North Park, an unlit parking structure downtown. If a property owner's neglect put you on the ground in San Diego, we can connect you with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "San Diego Slip & Fall and Premises Liability Claims",
+    "longDescription": "San Diego is home to nearly 1.4 million people, and most of us spend our days on property someone else controls: apartment stairwells, hotel lobbies near the bay, storefronts lining El Cajon Boulevard and University Avenue, big-box parking lots, and the shared walkways of countless condo complexes across San Diego County. When a floor is left slick, a handrail is left loose, or a walkway is left dark, the person who falls is often the one who pays for it. California premises liability law offers a path forward, but it comes with a specific hurdle. You generally need to show that the owner or manager knew about the hazard, or reasonably should have known, and did nothing to fix it or warn you. That question of notice is where these cases are won or lost, and the evidence that answers it tends to disappear quickly. LawProactive is a free service, not a law firm. We connect injured San Diegans with an independent attorney who handles these claims on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in San Diego",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and elbow fractures from bracing",
+      "Concussions and other head trauma",
+      "Knee ligament and meniscus tears",
+      "Herniated discs and lower back injuries",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why San Diego Fall Victims Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Attorneys who focus on the notice question",
+        "desc": "Under California law, the owner's knowledge of the hazard is the heart of a premises case. The independent attorneys in our network know how to look for inspection logs, prior complaints, and maintenance records that show what the property owner knew and when."
+      },
+      {
+        "title": "Fast action to preserve video",
+        "desc": "Most San Diego retailers, hotels, and apartment communities run surveillance cameras, and footage is routinely overwritten within days or weeks. Getting an attorney involved early means a preservation letter can go out before the recording of your fall is gone."
+      },
+      {
+        "title": "Clear guidance on deadlines and shared fault",
+        "desc": "California allows two years for most premises claims, but far less time when a city, county, or other public entity owns the property. Because the state uses pure comparative fault, an attorney can also help you respond if the owner tries to shift blame onto you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a City of San Diego sidewalk or at a public beach access. Is the deadline different?",
+        "answer": "Yes, and this catches many people off guard. When the property belongs to a public entity such as the City of San Diego, San Diego County, or a port or park district, California requires a formal government claim within a much shorter window than the standard two years, often measured in months rather than years. Missing that step can end the case before it starts, so it is worth speaking with an attorney quickly if a public agency may be involved."
+      },
+      {
+        "question": "The store says nobody reported the spill before I fell. Does that end my claim?",
+        "answer": "Not necessarily. California law asks whether the owner knew or should have known about the hazard, and an owner cannot avoid responsibility simply by never checking. Evidence of how long the spill sat there, how often staff inspected the area, and whether the condition was recurring can all establish constructive notice. An attorney can request the records that answer those questions."
+      },
+      {
+        "question": "I was wearing flip-flops and looking at my phone. Can I still recover anything?",
+        "answer": "California follows pure comparative fault, which means your own share of blame reduces your recovery but does not automatically eliminate it. If a jury decided you were partly responsible, your compensation would be lowered by that percentage. Property owners often lean hard on this argument, so having someone document the hazard itself and gather the surveillance footage early helps keep the focus where it belongs."
+      }
+    ]
+  }
+}

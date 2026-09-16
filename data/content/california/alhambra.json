@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "alhambra city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Alhambra, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Alhambra? LawProactive connects Los Angeles County residents with an independent injury attorney free. 2 years to file; no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From a rear-end collision on Valley Boulevard to a fall at a Main Street storefront, LawProactive connects injured people in Alhambra and across Los Angeles County with an independent personal injury attorney at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in Alhambra, California",
+    "longDescription": "Alhambra sits where the 10 meets the daily flow of Main Street, Valley Boulevard, and Mission Road, and that traffic leaves a record. In 2025, the most recent final reporting year, the city logged 301 injury collisions. Those crashes injured 418 people, and two lives were lost. Public records also show reports peaking on Fridays between 5 p.m. and 7 p.m., when commuters on the San Bernardino Freeway and shoppers along Main Street share the same stretch of pavement. Behind each of those numbers is someone facing an ambulance bill, a missed paycheck, or a phone call from an adjuster who wants a recorded statement before the bruises fade. That is where LawProactive fits in. We are a free service, not a law firm. We do not give legal advice or handle claims ourselves. What we do is connect you with an independent personal injury attorney who takes cases in Los Angeles County, so you are not sorting through directories while you heal. The attorneys in our network work on contingency, meaning no fee unless there is a recovery. Whether you were rear-ended on Valley Boulevard, struck while crossing Mission Road, or hurt in a fall on private property, reaching out costs nothing and commits you to nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly See From Alhambra Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end crashes",
+      "Broken wrists, arms, and collarbones",
+      "Concussions and other head injuries",
+      "Knee and hip injuries from pedestrian impacts",
+      "Back injuries and herniated discs",
+      "Cuts, road rash, and scarring from motorcycle or bike crashes"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Alhambra Claim",
+    "items": [
+      {
+        "title": "The two-year clock is real",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, the deadline to file a claim can shrink to just six months."
+      },
+      {
+        "title": "Being partly at fault doesn't shut you out",
+        "desc": "California follows pure comparative fault. If you share some blame, your recovery is reduced by your percentage of fault, but you are not barred from recovering."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California places no ceiling on non-economic damages like pain, lost enjoyment of life, and emotional distress. What a case is worth depends on its facts, not a statutory limit."
+      },
+      {
+        "title": "Contingency fees, so no upfront cost",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay nothing out of pocket, and there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I'm out of work and the medical bills are already stacking up.",
+      "My car is totaled and I still need to get to appointments.",
+      "I think I might have been partly at fault. Does that end my case?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes in Alhambra tend to happen?",
+        "answer": "Public collision records for Alhambra show the highest counts along I-10 (the San Bernardino Freeway), Main Street, Valley Boulevard, and Mission Road. These are simply the corridors with the most reported incidents, which tracks with how much traffic they carry. Reports also cluster on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We link you with an independent personal injury attorney who handles cases in Los Angeles County, and that attorney, not us, represents you and gives legal advice."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "For most injury claims, California gives you two years from the date you were hurt. If your claim involves a government entity, such as a crash with a city vehicle or a fall on public property, you may have only six months to file a claim. Waiting can cost you the right to recover, so it helps to speak with an attorney early."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses pure comparative fault. Your recovery is reduced by your share of the blame, but you can still recover the rest. An attorney can help sort out how fault is assigned rather than letting an insurer decide it for you."
+      },
+      {
+        "question": "What will it cost me to hire an attorney through LawProactive?",
+        "answer": "Our service is free. The attorneys in our network work on contingency, which means no fee unless there is a recovery in your case. You won't be asked for a retainer or hourly payments."
+      }
+    ]
+  }
+}

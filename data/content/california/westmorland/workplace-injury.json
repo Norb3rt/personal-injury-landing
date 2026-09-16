@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "westmorland workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Westmorland Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Westmorland, CA? Get connected free to an independent attorney who handles work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Whether you work the fields near Rt 85 or a shop off W Main Street, a workplace injury in Westmorland can leave you sorting through confusing rules about who pays. LawProactive can connect you, at no cost, with an independent attorney who can look at what actually happened."
+  },
+  "about": {
+    "title": "Westmorland Workplace Injury Claims",
+    "longDescription": "Westmorland is a small Imperial County community, and many residents work in agriculture, trucking, and small commercial operations along corridors like Rt 85, 6th Street, 8th Street, and W Main Street. When someone is hurt on the job here, California's workers' compensation system is usually the first path forward, covering medical care and partial wage loss regardless of who was at fault. But that system typically doesn't let you sue your employer directly, even if the injury was preventable. What often gets missed is that a third party — a subcontractor, a property owner, an equipment manufacturer, or another driver, especially on farm equipment routes or delivery roads — may bear separate legal responsibility. If a piece of machinery failed, a delivery truck caused a crash, or a non-employer's negligence played a role, a distinct injury claim may exist alongside any workers' comp benefits. LawProactive helps injured Westmorland workers get connected, free of charge, with an independent attorney who can sort out which path, or both, may apply to their situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries",
+    "commonInjuries": [
+      "Falls from ladders, trucks, or loading docks",
+      "Machinery and equipment-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work travel or delivery routes",
+      "Heat-related illness from outdoor agricultural work",
+      "Struck-by injuries involving tools, loads, or vehicles"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Westmorland Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Beyond Workers' Comp",
+        "desc": "If someone other than your employer contributed to your injury, such as a contractor or vehicle driver near Rt 85 or 8th Street, a separate claim may be possible even while you receive workers' comp benefits."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires you to report a workplace injury to your employer within 30 days, and missing that window can complicate your ability to claim benefits later."
+      },
+      {
+        "title": "Retaliation Is Not Allowed",
+        "desc": "Employers cannot legally punish you for reporting an injury or pursuing a claim, and an independent attorney can help you understand your rights if that happens."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I sue my employer if I'm hurt on the job in Westmorland?",
+        "answer": "In most cases, California workers' compensation is your exclusive remedy against your employer, meaning you generally can't file a separate lawsuit against them regardless of fault. However, if a third party, like an equipment manufacturer or another driver, contributed to the injury, a separate claim against that party may still be possible."
+      },
+      {
+        "question": "What if my injury happened while driving for work near 6th Street or W Main Street?",
+        "answer": "Workplace vehicle injuries can involve both a workers' comp claim and, if another driver was negligent, a separate third-party injury claim. Given that Westmorland's reported crashes have skewed toward late-night Monday hours, a work-related trip during those windows could raise both possibilities. An independent attorney can review the details specific to your situation."
+      },
+      {
+        "question": "How long do I have to file a third-party claim after a workplace injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the injury. This is separate from the shorter window for reporting an injury to your employer, so it helps to act on both fronts without delay."
+      }
+    ]
+  }
+}

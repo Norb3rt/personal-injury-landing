@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "east-palo-alto city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "East Palo Alto, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in East Palo Alto? San Mateo County residents get 2 years to file. Free attorney connection, no fee unless you win. Get help now."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash, a fall, or another type of accident, we'll connect you with an independent attorney at no cost, serving families throughout San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in East Palo Alto, California",
+    "longDescription": "East Palo Alto sees real traffic on University Avenue, US-101, E Bayshore Road, and Bay Road — corridors that carry commuters, delivery trucks, and local families every day. In the most recent full year on record, the city logged 112 injury collisions, with 163 people hurt and 3 lives lost. Numbers like these represent neighbors, coworkers, and parents caught in circumstances they didn't choose. If you've been injured in a crash, a slip-and-fall, or another accident within city limits, sorting out medical bills, missed paychecks, and insurance calls can feel like a second job on top of recovering physically. LawProactive exists to make one part of that easier: we are a free service, not a law firm, that connects injured people with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk to us, and any attorney you're connected with works on contingency, meaning there's no fee unless your case results in a recovery. You focus on healing — we'll help you find someone who can focus on the rest.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Deep cuts and lacerations",
+      "Torn ligaments or joint damage"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why This Matters Under California Law",
+    "items": [
+      {
+        "title": "A Filing Clock That Doesn't Wait",
+        "desc": "California generally gives you 2 years from the date of injury to file a personal injury claim, but claims against a government agency can require notice in as little as 6 months. Waiting to sort out your options can quietly cost you your case."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still pursue compensation — it's simply reduced by your share of fault. An attorney can help sort out how fault is likely to be assessed."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "Unlike some states, California places no cap on non-economic damages — like pain, suffering, and loss of enjoyment of life — in a typical injury case. That matters when injuries affect daily living long after the bills stop coming."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront legal fee. If there's no recovery, you typically owe nothing for the attorney's work."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying medical bills will pile up faster than I can pay them",
+      "Not knowing if I can still get help because I might have been partly at fault",
+      "Fearing I've already waited too long to do anything about this",
+      "Feeling unsure whether I can even afford to talk to a lawyer"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in East Palo Alto?",
+        "answer": "In most cases, California law gives you 2 years from the date of the injury to file a lawsuit. If a government entity — like a city or county vehicle — was involved, that window can shrink to as little as 6 months for a claim notice, so it's worth getting information sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you bear some responsibility. Your recovery would simply be reduced by your percentage of fault, rather than being blocked entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in East Palo Alto?",
+        "answer": "Public collision records show higher volumes along corridors like University Avenue, US-101, E Bayshore Road, and Bay Road, with reported crashes peaking on Fridays between roughly 6 and 8 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "No — in a typical personal injury case, California does not cap non-economic damages such as pain, suffering, or loss of enjoyment of life. Caps do apply in specific situations, like medical malpractice, but not in most ordinary injury claims."
+      },
+      {
+        "question": "Does it cost anything to talk to LawProactive or an attorney?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in the network typically work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "beaumont medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Beaumont, CA Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Beaumont? Get connected free with an independent CA medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or procedure in Beaumont left you worse off than before, we can connect you with an independent attorney who understands California's medical malpractice rules.  There's no cost to you unless your case results in a recovery."
+  },
+  "about": {
+    "title": "Beaumont Medical Malpractice Claims",
+    "longDescription": "Beaumont residents rely on a mix of local clinics and larger Riverside County medical centers for everything from urgent care to surgery. When a diagnosis is missed, a medication is dosed incorrectly, or a surgical step is rushed, the harm can follow a patient for years. California law treats these cases differently from a typical injury claim — there are strict notice periods, a requirement for qualified medical expert review, and a cap on certain damages that changes annually under MICRA. Because Beaumont's population has grown quickly, more families here are navigating unfamiliar territory with new providers and busier facilities. LawProactive doesn't practice law or take a fee itself; we simply connect you, at no cost, with an independent attorney in our network who handles medical malpractice matters and can explain whether your situation fits California's legal standard for a claim.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor post-operative patients"
+    ],
+    "ctaText": "Talk to an independent attorney about your Beaumont medical care experience — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Understanding California's Malpractice Rules Matters",
+    "items": [
+      {
+        "title": "Strict Deadlines Apply",
+        "desc": "California generally requires malpractice claims within one year of discovering the harm, and no more than three years from the injury itself — plus a 90-day pre-suit notice to the provider. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "A qualified medical expert typically must confirm that a provider's care fell below the accepted standard. An independent attorney can help arrange this kind of review as part of evaluating your situation."
+      },
+      {
+        "title": "Damages Caps Change Every Year",
+        "desc": "MICRA sets a cap on non-economic damages that rises annually, so the numbers differ depending on when the injury occurred. An attorney familiar with the current figures can walk you through what applies to your timeline."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery near Beaumont — is that automatically malpractice?",
+        "answer": "Not necessarily. California law requires showing that a provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney can help determine whether the facts suggest a deviation from that standard."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it happened. There's also a required 90-day notice to the provider before filing suit. These deadlines are strict, so it helps to get guidance early."
+      },
+      {
+        "question": "Does LawProactive handle my case directly?",
+        "answer": "No — LawProactive is a free connection service, not a law firm. We simply match you with an independent attorney in our network who handles medical malpractice cases, and they work on a contingency basis, meaning no fee unless there's a recovery."
+      }
+    ]
+  }
+}

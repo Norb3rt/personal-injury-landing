@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "holtville medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Holtville Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to independent attorneys for Holtville medical malpractice cases. Learn MICRA deadlines and get matched with legal help at no cost."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or treatment at a Holtville or Imperial County medical facility goes wrong, understanding your legal options matters. LawProactive helps Holtville residents connect with an independent attorney who handles medical malpractice claims, free of charge."
+  },
+  "about": {
+    "title": "Holtville Medical Malpractice Claims",
+    "longDescription": "Holtville is a small agricultural community in Imperial County, and many residents rely on nearby clinics, urgent care centers, or regional hospitals for treatment. When a provider misses a diagnosis, mishandles a procedure, or fails to properly monitor a patient, the consequences can affect a family for years. Medical malpractice cases are different from typical injury claims — California law requires a qualified medical expert to review the case and confirm that the care fell below an accepted standard. A poor result on its own isn't enough to prove malpractice; the law looks at whether the provider acted reasonably given the circumstances. Because Holtville has a limited number of local medical facilities, some claims may involve providers outside the immediate area. LawProactive connects residents with an independent attorney who can evaluate the medical records, consult with experts, and explain the applicable deadlines. There's no cost to get matched, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Malpractice-Related Harms",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or complications",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia-related complications",
+      "Failure to monitor a patient's condition"
+    ],
+    "ctaText": "Get connected with an independent attorney to discuss your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What to Know Before Moving Forward",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the injury, and no later than three years from when it occurred. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before filing suit, California law requires sending the provider a 90-day notice of intent. An attorney familiar with this process can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Required",
+        "desc": "Because a bad medical outcome alone isn't proof of malpractice, a qualified medical expert must typically review the case to confirm the standard of care was violated."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Holtville?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discover the injury, but no more than three years from the date it happened. Because these deadlines can be strict and fact-specific, it helps to have an attorney review your timeline early."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "Yes, California law places a cap on non-economic damages like pain and suffering, and that cap rises each year under current law. Economic damages, such as medical bills and lost income, are handled separately and are not subject to the same cap."
+      },
+      {
+        "question": "I received treatment outside of Holtville — can I still get help?",
+        "answer": "Yes. Since Holtville has limited local medical facilities, many residents are treated in nearby Imperial County communities or beyond. An independent attorney can still review your case regardless of where the treatment occurred."
+      }
+    ]
+  }
+}

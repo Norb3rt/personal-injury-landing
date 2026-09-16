@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "lindsay workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lindsay Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Lindsay, CA? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Lindsay, whether on a Rt 65 delivery route or on a packinghouse floor near Hermosa, LawProactive can connect you with an independent attorney at no cost to sort out what comes next."
+  },
+  "about": {
+    "title": "Lindsay Workplace Injury Claims",
+    "longDescription": "Lindsay's economy leans heavily on citrus packing, agriculture, and the trucking that keeps goods moving along Rt 65 and Tulare Road. Those jobs carry real physical risk, from repetitive strain in packing sheds to collisions involving delivery vehicles near Mirage Avenue. When someone is injured at work in California, workers' compensation is usually the only path against the employer, no matter who was at fault. But if a third party caused or contributed to the injury, like a subcontractor, equipment manufacturer, or another driver on the road, a separate injury claim may also be possible. LawProactive doesn't practice law; we simply connect injured workers in Lindsay with an independent attorney who can look at the details of the job, the injury, and any third parties involved. There's no cost to find out where you stand, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Repetitive strain from packing or sorting produce",
+      "Falls from ladders, platforms, or loading docks",
+      "Forklift and heavy equipment accidents",
+      "Vehicle collisions during work-related driving",
+      "Machinery entanglement or crush injuries",
+      "Chemical or pesticide exposure incidents"
+    ],
+    "ctaText": "Find out if you have a third-party claim, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "California workers' comp is usually the exclusive remedy against your employer, but a negligent third party, like a contractor, equipment maker, or another driver, can still be held separately liable. An attorney can help identify whether that applies to your situation."
+      },
+      {
+        "title": "Deadlines Work Differently",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, while a third-party injury claim carries its own 2-year deadline under California law. Missing either window can limit your options, so timing matters."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury or pursuing a claim. If you're worried about your job, an independent attorney can explain your protections before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near Rt 65 or Tulare Road. Is that a workers' comp case or something else?",
+        "answer": "It could be both. Workers' comp generally covers your employer's responsibility regardless of fault, but if another driver caused the crash, that's a separate third-party claim with its own 2-year deadline. An attorney can review the crash details and sort out which paths apply."
+      },
+      {
+        "question": "Do I have to report my injury right away?",
+        "answer": "Yes, California generally requires you to notify your employer within 30 days of a workplace injury. Waiting too long can complicate your claim, so it's best to report it as soon as you're able."
+      },
+      {
+        "question": "Can my employer fire me for filing a workers' comp claim?",
+        "answer": "No, retaliation for reporting an injury or filing a claim is illegal under California law. If you're facing pressure or pushback at work, that's worth discussing with an independent attorney."
+      }
+    ]
+  }
+}

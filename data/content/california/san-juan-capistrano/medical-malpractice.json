@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "san-juan-capistrano medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Juan Capistrano Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Juan Capistrano? Get free help connecting with an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in San Juan Capistrano goes wrong, the rules around medical malpractice claims are strict and time-sensitive. LawProactive can connect you with an independent attorney who understands California's malpractice framework."
+  },
+  "about": {
+    "title": "San Juan Capistrano Medical Malpractice Claims",
+    "longDescription": "San Juan Capistrano residents rely on a mix of local clinics and nearby Orange County hospitals and specialty centers for everything from urgent care to major surgery. Most visits go as expected, but when a provider misses a clear warning sign, mishandles a procedure, or gives the wrong medication, the physical and financial fallout can follow a patient for years. California treats medical malpractice differently from a typical injury claim: there are shorter notice windows, a requirement for qualified medical expert review, and specific caps on certain damages. Because of this, patients in San Juan Capistrano often don't know whether what happened to them even qualifies as malpractice, or how much time they actually have left to act. LawProactive doesn't practice law or evaluate your case ourselves. We simply connect you with an independent attorney in our network who can review the medical records, explain your options in plain language, and help you understand whether pursuing a claim makes sense for your situation.",
+    "commonInjuriesTitle": "Situations We Commonly Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer and stroke diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition post-treatment"
+    ],
+    "ctaText": "Talk to an independent attorney about what happened, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "What Makes Medical Malpractice Claims Different in California",
+    "items": [
+      {
+        "title": "Strict Filing Windows Apply",
+        "desc": "California generally gives patients one year from discovering the harm, and no more than three years from the injury itself, to bring a claim. An independent attorney can help determine which deadline applies to your situation before it passes."
+      },
+      {
+        "title": "A 90-Day Notice Is Required First",
+        "desc": "Before filing suit, California law typically requires sending the healthcare provider a 90-day notice of intent. Missing this step or getting it wrong can delay or derail a claim, so early legal guidance matters."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "Because a poor medical outcome alone isn't proof of malpractice, California cases usually require review by a qualified medical expert who can speak to whether the standard of care was actually breached."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment near San Juan Capistrano. Does that automatically mean malpractice occurred?",
+        "answer": "No. California law recognizes that medicine involves risk, so a disappointing or even harmful result isn't enough on its own. What matters is whether the provider deviated from the accepted standard of care, which typically requires a qualified medical expert to evaluate."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered, or reasonably should have discovered, the injury, but no more than three years from the date it happened. There are limited exceptions, so it's worth getting a records review sooner rather than later."
+      },
+      {
+        "question": "Are damages capped in a California medical malpractice case?",
+        "answer": "California places a statutory cap on non-economic damages, such as pain and suffering, and that cap rises each year under current law. Economic damages, like medical bills and lost income, are generally handled separately and are not subject to the same cap."
+      }
+    ]
+  }
+}

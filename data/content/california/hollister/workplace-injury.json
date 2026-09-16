@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "hollister workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hollister Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Hollister? Get connected free to an independent attorney who handles third-party workplace injury claims in San Benito County."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Hollister, workers' comp may only tell part of the story. LawProactive can connect you, at no cost, with an independent attorney who can check whether a third party shares fault."
+  },
+  "about": {
+    "title": "Hollister Workplace Injury Claims",
+    "longDescription": "Hollister's mix of agriculture, warehousing, construction, and small manufacturing means job-site injuries happen in a lot of different settings across San Benito County. In most cases, California workers' compensation is the only path against your employer, no matter who was at fault on the job. But sometimes the injury involves someone outside the employment relationship — a subcontractor working alongside you, a property owner who controlled the site, or the maker of a defective tool or machine. When that happens, a separate injury claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law; we simply connect injured workers in Hollister with an independent attorney who can look at the facts of your incident, figure out whether a third party may be involved, and explain your options. There's no cost to find out where you stand, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from defective tools or machinery",
+      "Vehicle or forklift collisions on job sites",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from unsafe conditions on a third party's property",
+      "Electrocution or equipment-related burns"
+    ],
+    "ctaText": "Find out if a third party may be responsible — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney About Your Hollister Work Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "Because workers' comp is usually the exclusive remedy against your employer, it can feel like the only option — but a negligent third party, like a subcontractor or equipment manufacturer, may still owe you separately."
+      },
+      {
+        "title": "Reporting Deadlines Matter Early",
+        "desc": "California requires you to report a workplace injury to your employer within 30 days, and missing that window can complicate both your comp claim and any related third-party case."
+      },
+      {
+        "title": "Two Different Clocks Are Running",
+        "desc": "A third-party injury claim generally carries a 2-year deadline, separate from workers' comp timelines, so it helps to have both reviewed together before time runs short."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I already filed for workers' comp in Hollister — can I still pursue anything else?",
+        "answer": "Possibly. Workers' comp usually replaces a lawsuit against your employer, but it doesn't prevent a separate claim against a third party who contributed to the accident. An independent attorney can review your situation and let you know if that applies."
+      },
+      {
+        "question": "What if my injury happened on a job site along San Felipe Road or Rt 25?",
+        "answer": "Where the injury happened matters less than who was involved and what caused it. If a subcontractor, property owner, or equipment maker played a role, that could open the door to a third-party claim regardless of the road or site location."
+      },
+      {
+        "question": "Can my employer retaliate against me for reporting an injury?",
+        "answer": "No — retaliation for reporting a workplace injury is illegal under California law. If you're worried about how reporting might be received, an attorney can walk you through your rights before you take that step."
+      },
+      {
+        "question": "Is there any cost to talk with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free connection service, and attorneys in our network typically work on contingency, meaning there's no fee unless your case results in a recovery. There's no obligation after your initial conversation."
+      }
+    ]
+  }
+}

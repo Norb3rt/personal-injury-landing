@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "artesia car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Artesia Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a car accident in Artesia? LawProactive connects you free with an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Pioneer Boulevard, South Street, or the SR-91 corridor left you hurt, LawProactive can connect you with an independent Artesia-area attorney at no cost to start."
+  },
+  "about": {
+    "title": "Artesia Car Accident Claims",
+    "longDescription": "Artesia's mix of local streets and freeway access means collisions happen in different ways — a rear-end wait at a Pioneer Boulevard light, a merge issue near the SR-91 interchange, or a weekend evening crash along South Street. Public records show 75 injury collisions and 106 injured people in the most recent final year, with reported crashes clustering on Saturday evenings between 5 and 7 p.m. Whatever the corridor or the time of day, the aftermath usually looks the same: medical appointments, missed work, and calls from an insurance adjuster who wants a quick statement. LawProactive is a free connection service, not a law firm, and we don't charge you anything to be matched with an independent personal injury attorney who works in the Artesia area. The attorney can review your situation, explain your options under California law, and handle communication with insurers so you can focus on recovering. Attorneys in the network take cases on contingency, meaning there's no fee unless you recover.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Back and spinal disc injuries",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Torn ligaments or knee injuries",
+      "Cuts, bruises, and soft-tissue damage"
+    ],
+    "ctaText": "Get connected with an Artesia-area attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash to file a lawsuit, but that window can shrink to as little as six months if a government entity — like a city road crew — was involved. An attorney can help figure out which deadline applies to your situation before it passes."
+      },
+      {
+        "title": "Comparative Fault Can Cut Your Recovery",
+        "desc": "California allows you to recover damages even if you're partly at fault, but your share of fault reduces what you can collect. Speaking with an attorney before giving a recorded statement helps make sure you're not talking yourself into a bigger share of blame than you deserve."
+      },
+      {
+        "title": "No Cap Means Full Value Matters",
+        "desc": "California doesn't cap non-economic damages like pain and suffering in most car accident cases, so how your claim is documented and presented can genuinely affect its value. An attorney can help preserve evidence early, while it's still available."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and attorneys in the network work on contingency — meaning they only get paid if you recover money. There's no upfront cost to have your situation reviewed."
+      },
+      {
+        "question": "Should I give the other driver's insurance company a recorded statement?",
+        "answer": "It's usually best to hold off. Insurance adjusters are trained to ask questions that can be used to reduce or deny your claim, and once you've said something, it's hard to walk it back. An attorney can talk to the insurer on your behalf instead."
+      },
+      {
+        "question": "Is there anything specific about crashes in Artesia I should know?",
+        "answer": "Public crash records show that reported collisions in Artesia tend to cluster on Saturdays between 5 and 7 p.m., with corridors like Pioneer Boulevard, South Street, and the SR-91 freeway showing higher collision counts. That doesn't mean any of these roads are unsafe generally — it just reflects where and when more traffic volume and reported crashes happen to overlap."
+      },
+      {
+        "question": "What if the crash happened on the freeway versus a city street?",
+        "answer": "The legal process for a freeway crash on SR-91 versus a local street like South Street is generally similar, though jurisdiction and which agencies were involved can matter, especially if a government vehicle or road condition played a role. An attorney can sort out those details and identify any shortened deadlines that might apply."
+      }
+    ]
+  }
+}

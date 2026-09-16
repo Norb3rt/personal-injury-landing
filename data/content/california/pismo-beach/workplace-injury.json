@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "pismo-beach workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pismo Beach Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Pismo Beach? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Pismo Beach, from a hotel or restaurant along Dolliver Street to a job site near US-101, LawProactive can connect you at no cost with an independent attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "Pismo Beach Workplace Injury Claims",
+    "longDescription": "Pismo Beach's economy leans heavily on tourism, hospitality, and the small businesses that line Dolliver Street and the areas near US-101, which means workplace injuries here often happen in kitchens, hotels, retail shops, and on delivery routes through town. California generally requires injured workers to go through workers' compensation regardless of fault, but that's not always the end of the story. When a subcontractor, property owner, equipment manufacturer, or another driver contributed to the accident, a separate third-party injury claim may be possible alongside your workers' comp benefits. Navigating both systems at once can be confusing, especially while you're trying to recover and worried about lost income. LawProactive doesn't charge anything to connect you with an independent attorney familiar with San Luis Obispo County workplace injury cases. That attorney can review what happened, explain your options clearly, and help you understand whether a third-party claim applies to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Slip-and-fall injuries in kitchens or hotel back-of-house areas",
+      "Repetitive strain and overexertion injuries from lifting or housekeeping",
+      "Vehicle collisions during deliveries or work travel on US-101",
+      "Equipment or machinery-related injuries at job sites",
+      "Falls from ladders or elevated surfaces during maintenance work",
+      "Burns or chemical exposure in restaurant or cleaning environments"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "California treats workers' comp as the usual remedy against an employer, but a negligent third party like a subcontractor or equipment maker may still owe you separately. An attorney can help sort out whether that applies to your case."
+      },
+      {
+        "title": "Deadlines Move Fast",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and any third-party claim carries its own two-year filing deadline. Waiting too long can limit your options, so early guidance matters."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "California law prohibits employers from retaliating against workers who report injuries or file claims. If you're worried about your job, an attorney can explain your rights before you make a decision."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working at a hotel near the beach in Pismo Beach. Do I have to use workers' comp only?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer regardless of fault. But if a contractor, property owner, or equipment maker outside your employer contributed to the injury, you may be able to pursue a separate third-party claim. An independent attorney can review the details and let you know what applies."
+      },
+      {
+        "question": "What if my injury happened while delivering something along US-101?",
+        "answer": "If another driver caused or contributed to the collision while you were working, that could open the door to a third-party injury claim in addition to workers' comp. These cases often involve overlapping rules, so it helps to have someone look at the specifics of the crash and your job duties."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury?",
+        "answer": "No. California law makes it illegal for an employer to retaliate against a worker for reporting an injury or filing a claim. If you believe that's happening to you, it's worth discussing with an attorney as soon as possible."
+      }
+    ]
+  }
+}

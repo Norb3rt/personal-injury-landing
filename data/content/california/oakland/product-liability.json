@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "oakland product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oakland Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Oakland? LawProactive connects you, free, with an independent Alameda County product liability attorney. Contingency fees."
+  },
+  "hero": {
+    "subtitle": "When a product sold or used in Oakland fails and someone gets hurt, California law puts the burden on the defect, not on proving anyone was careless. LawProactive connects you at no cost with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Oakland Product Liability Claims",
+    "longDescription": "A product that fails during normal use shouldn't be a cost you absorb alone. In Oakland, that might mean a space heater in an Oakland apartment that overheats, a power tool bought along International Boulevard that loses its guard, a child's car seat that comes loose, or a tire that separates on I-880 during the Friday evening rush. Under strict liability, you generally do not have to prove the manufacturer was careless. You need to show the product had a defect, whether in its design, in how that particular unit was made, or in the warnings that came with it, and that the defect caused your injury. Everyone in the chain of sale may share responsibility, from the company that built it to the Alameda County store that sold it. LawProactive is a free service, not a law firm. We connect Oakland residents with an independent attorney who handles product cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, chargers, or appliances",
+      "Lacerations and amputations from tools without working guards",
+      "Head and neck trauma when airbags or seat belts fail",
+      "Poisoning or organ damage from contaminated food or medication",
+      "Fractures from collapsing furniture, ladders, or e-bike frames",
+      "Choking and suffocation injuries to children from unsafe toys or cribs"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent Oakland attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Oakland Residents Use LawProactive for Product Claims",
+    "items": [
+      {
+        "title": "Strict liability, explained plainly",
+        "desc": "California generally lets an injured person recover by proving the product was defective and caused harm, without proving the maker was negligent. The attorney we connect you with can explain which defect theory fits your situation."
+      },
+      {
+        "title": "The whole chain of sale is on the table",
+        "desc": "Manufacturers, distributors, and the Oakland retailer that sold the item may all be responsible. That matters when the maker is overseas or hard to reach."
+      },
+      {
+        "title": "Guidance on saving the evidence",
+        "desc": "The product itself is usually the heart of the case, so keeping it, along with packaging and receipts, can make a real difference. An independent attorney can tell you what to hold onto right away."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag didn't deploy in a crash on I-880. Is that a car accident case or a product case?",
+        "answer": "It can be both. Oakland recorded 2,054 injury collisions in 2025, and in some of them a vehicle part did not perform the way it was designed to. If a defective airbag, seat belt, or tire made your injuries worse, the manufacturer may be liable alongside any driver at fault. An attorney will want the vehicle preserved before it is repaired or scrapped."
+      },
+      {
+        "question": "Do I have to prove the company was careless?",
+        "answer": "Usually not. California product liability often runs on strict liability, which means you generally need to show the product had a design, manufacturing, or warning defect and that it caused your injury. Whether the company was negligent is a separate question that may not need to be answered."
+      },
+      {
+        "question": "I bought the item at a store in Oakland but it was made in another country. Who is responsible?",
+        "answer": "Under California law, the retailer and any distributor can share liability with the manufacturer. That means an Alameda County store that sold the product may be a proper defendant even if the factory is overseas. Keep the receipt, the packaging, and the product itself so the attorney can trace where it came from."
+      }
+    ]
+  }
+}

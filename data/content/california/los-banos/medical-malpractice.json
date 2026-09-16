@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "los-banos medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Banos Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Los Banos? Get connected free with an independent malpractice attorney serving Merced County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Los Banos medical provider makes a mistake, the aftermath can be confusing and isolating. We connect Merced County patients and families with an independent attorney who can help sort out what happened next."
+  },
+  "about": {
+    "title": "Los Banos Medical Malpractice Claims",
+    "longDescription": "Los Banos residents rely on a limited number of local clinics and hospitals, and many families travel toward Merced or beyond for specialized treatment. When something goes wrong during that care — a missed diagnosis, a surgical slip, a medication mix-up — patients are often left with more questions than answers. California's medical malpractice rules are technical: strict notice periods, expert review requirements, and damages limits all apply, and a poor result by itself doesn't automatically mean malpractice occurred. LawProactive doesn't practice law or evaluate your medical records ourselves. Instead, we're a free connection service that puts you in touch with an independent attorney in our network who handles these cases and can review your situation directly. If you or someone you love was hurt after receiving care in the Los Banos area, reaching out costs nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Situations We Help Connect",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or complications",
+      "Medication or dosage mistakes",
+      "Birth injury to mother or newborn",
+      "Anesthesia-related harm",
+      "Hospital-acquired infections from negligence"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Matters in a California Malpractice Claim",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally requires a malpractice claim within one year of discovering the injury, and never more than three years from when it occurred. A 90-day pre-suit notice to the provider is also required before filing, so timing matters early."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a bad medical outcome alone doesn't prove malpractice, California cases almost always need a qualified medical expert to establish that the standard of care was breached. An attorney familiar with this process can help arrange that review."
+      },
+      {
+        "title": "Understanding the Damages Cap",
+        "desc": "California places a statutory cap on non-economic damages in malpractice cases, though that cap rises each year under current law. An independent attorney can explain how this may apply to your specific circumstances."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Los Banos?",
+        "answer": "Generally, California law gives you one year from when you discovered (or reasonably should have discovered) the injury, with an outer limit of three years from the date it happened. There's also a required 90-day notice to the healthcare provider before a lawsuit can be filed. Because these deadlines are easy to miscalculate, it's worth speaking with an attorney sooner rather than later."
+      },
+      {
+        "question": "Does a bad result from treatment automatically mean malpractice happened?",
+        "answer": "No. Medicine involves uncertainty, and an unfavorable outcome doesn't by itself establish negligence. California requires showing that a provider's care fell below the accepted standard, which is why a qualified medical expert typically needs to review the case. An attorney can help determine whether your situation shows signs of a breach in that standard."
+      },
+      {
+        "question": "I live in Los Banos but was treated at a facility outside Merced County — can I still get help?",
+        "answer": "Yes. Many Los Banos residents travel to Merced, Fresno, or other nearby areas for specialized care, and where the treatment occurred doesn't prevent you from being connected with an attorney through LawProactive. What matters is where the care was provided and when the harm was discovered. We can still help connect you regardless of the specific facility involved."
+      }
+    ]
+  }
+}

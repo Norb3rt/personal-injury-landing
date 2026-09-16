@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "menlo-park car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Menlo Park Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Menlo Park car crash? Get connected free to an independent CA attorney. No fee unless you recover. Contingency-based, no obligation."
+  },
+  "hero": {
+    "subtitle": "If a crash on US-101, Willow Road, El Camino Real, or Marsh Road left you hurt, LawProactive can connect you with an independent Menlo Park attorney at no cost to start. You focus on healing — we'll help you find someone to sort out the rest."
+  },
+  "about": {
+    "title": "Menlo Park Car Accident Claims",
+    "longDescription": "Menlo Park's roads carry a steady mix of commuters, cyclists, and local traffic, and public records show 203 injury collisions and 273 injured people in the most recent final crash year, with Wednesday mornings between 8 and 10 a.m. seeing a noticeable share. Corridors like US-101, Willow Road, El Camino Real, and Marsh Road see a lot of that volume simply because so many people rely on them daily. When a crash happens on one of these roads, the days afterward can feel disorienting — medical visits, insurance calls, missed work. LawProactive doesn't practice law ourselves; we're a free service that connects injured Menlo Park residents with an independent personal injury attorney who can review what happened, explain your options under California law, and handle communications with insurers so you're not doing it alone. There's no upfront cost, and no obligation to move forward if you're not ready.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Back and spinal disc injuries",
+      "Broken bones and fractures",
+      "Shoulder and knee ligament tears",
+      "Cuts, bruising, and soft tissue damage"
+    ],
+    "ctaText": "See if you qualify for a free attorney connection — no pressure, no cost to start."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash to file a car accident claim in California, but that window shrinks to as little as six months if a government entity — like a city vehicle or a road defect — is involved. Waiting too long can quietly close doors you didn't know were open."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California uses pure comparative fault, meaning you can still recover compensation even if you were partly responsible for the crash. An attorney can help make sure your share of fault isn't inflated by an insurer trying to reduce what they owe."
+      },
+      {
+        "title": "Watch What You Say to the Other Insurer",
+        "desc": "Recorded statements requested by the other driver's insurance company are rarely in your favor, and California law doesn't cap non-economic damages like pain and suffering — so getting that number right matters. An attorney can speak for you and help preserve evidence like photos, dashcam footage, or witness contact before it disappears."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What should I do first after a crash on Willow Road or El Camino Real?",
+        "answer": "Get medical attention even if you feel okay, since some injuries don't show symptoms right away. Try to document the scene with photos and get contact information for any witnesses, and avoid giving a recorded statement to the other driver's insurer until you've spoken with someone about your options."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and attorneys in our network typically work on contingency, meaning they only get paid if you recover compensation. There's no obligation to hire anyone after your initial conversation."
+      },
+      {
+        "question": "What if my crash happened at a Menlo Park intersection with a city traffic signal?",
+        "answer": "If a government entity — like the City of Menlo Park or Caltrans — is potentially involved, California law requires a much shorter deadline, sometimes just six months, to file a claim. It's worth having an attorney review the details quickly so you don't miss that narrower window."
+      }
+    ]
+  }
+}

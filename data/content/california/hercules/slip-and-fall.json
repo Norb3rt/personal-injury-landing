@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "hercules slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hercules Slip & Fall Attorney Referral | LawProactive",
+    "metaDescription": "Hurt in a fall in Hercules, CA? Get connected free to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A wet grocery aisle, a broken step outside a San Pablo Avenue storefront, a poorly lit stairwell near I-80 — falls like these send Hercules residents to the ER every year. LawProactive can connect you, at no cost, with an independent attorney who handles Contra Costa County premises cases."
+  },
+  "about": {
+    "title": "Hercules Slip & Fall Claims",
+    "longDescription": "Hercules is a small city, but its shopping centers, apartment complexes, and public walkways along San Pablo Avenue and near the I-80 corridor see steady foot traffic every day. When a property owner lets a spill sit, ignores a cracked walkway, or ships a store with dim lighting near stairs, the result can be a serious fall injury. California law doesn't automatically make an owner pay just because someone got hurt on their property — the injured person generally has to show the owner knew, or reasonably should have known, about the hazard and didn't fix it or warn people. That's why documenting exactly what caused the fall, and how long it had been there, matters so much. LawProactive doesn't practice law itself; we're a free connection service that puts injured Hercules residents in touch with an independent attorney who can evaluate the notice question, request surveillance footage, and explain what comes next.",
+    "commonInjuriesTitle": "Common Injuries From Falls",
+    "commonInjuries": [
+      "Hip fractures",
+      "Wrist and arm fractures",
+      "Head injuries and concussions",
+      "Herniated discs and spinal injuries",
+      "Torn ligaments and knee injuries",
+      "Shoulder dislocations"
+    ],
+    "ctaText": "Get connected with an attorney who can look into your fall — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Notice and Evidence Early",
+    "items": [
+      {
+        "title": "Proving the Owner Knew (or Should Have Known)",
+        "desc": "California premises liability hinges on notice — an attorney can help gather receipts, photos, and complaint records showing the hazard existed long enough that it should have been addressed."
+      },
+      {
+        "title": "Surveillance Video Disappears Fast",
+        "desc": "Many Hercules stores and apartment buildings overwrite security footage within days or weeks, so an attorney can send a preservation request before that evidence is gone."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, Your Claim",
+        "desc": "Even if you're found partly at fault for not seeing a hazard, California's pure comparative fault rule still lets you recover a reduced amount rather than nothing at all."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell at a store near San Pablo Avenue and didn't take photos. Is my claim over?",
+        "answer": "No, but photos and prompt documentation help a lot. An attorney can still request the store's incident report, ask for surveillance footage, and track down witnesses who may have seen the hazard. The sooner you reach out, the better the chances that evidence still exists."
+      },
+      {
+        "question": "How long do I have to file a slip-and-fall claim in Hercules?",
+        "answer": "Generally you have two years from the date of the fall under California law, though claims against a public entity, like a city-owned sidewalk, involve a much shorter deadline. Because Hercules has both private businesses and public property along its corridors, it's worth having an attorney confirm which timeline applies to your situation quickly."
+      },
+      {
+        "question": "What if the store says the spill had only been there a few minutes?",
+        "answer": "That's often exactly the dispute in these cases — whether the owner had enough time to discover and fix the hazard. An attorney can investigate cleaning logs, employee schedules, and video timestamps to challenge that claim. This is a core part of what 'notice' means under California premises law."
+      }
+    ]
+  }
+}

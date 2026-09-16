@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "bishop city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bishop, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in a Bishop, Inyo County crash? Connect free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on N Main Street or injured as a pedestrian near US-395, we can connect you at no cost with an independent personal injury attorney serving Inyo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Bishop, California",
+    "longDescription": "Bishop sits along a handful of well-traveled corridors — Rt 395, N Main Street, US-395, and N Fowler Street — that carry both local traffic and travelers passing through the Eastern Sierra. Public records show 14 injury collisions in the most recent final crash year, with 16 people injured and 1 traffic death. For a town of under 4,000 residents, even a small number of crashes can upend a family's routine, finances, and peace of mind. If you or someone you love was hurt in one of these collisions, you likely have questions about medical bills, missed work, and what comes next. LawProactive is a free service — not a law firm — that helps injured people in Bishop connect with an independent personal injury attorney who can review the details of what happened. There's no cost to reach out, and attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. You don't have to sort through California's legal deadlines and fault rules on your own. Reaching out costs nothing and can help you understand your options sooner rather than later.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from pedestrian or bicycle collisions"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "You Have a Limited Window to Act",
+        "desc": "California generally gives injury victims two years from the date of the crash to file a claim, though claims against a government entity can require notice in as little as six months. Waiting too long can close the door on compensation, so it helps to understand your timeline early."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, meaning even if you share some blame for the crash, you can still recover damages — reduced by your percentage of fault, but not eliminated."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no limit on the amount you can seek for pain, suffering, and other non-economic losses tied to your injury."
+      },
+      {
+        "title": "You Pay Nothing Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront fee. They only get paid if you receive a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while unable to work",
+      "Not knowing if the other driver's insurance will cover everything",
+      "Fear that admitting partial fault will end any chance of compensation",
+      "Confusion over legal deadlines and paperwork after a crash"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Bishop?",
+        "answer": "California generally allows two years from the date of the incident to file a personal injury claim. If your claim involves a government entity, such as a city or county road issue, the notice deadline can be as short as six months. It's wise to act early so you don't lose the ability to pursue compensation."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Bishop?",
+        "answer": "Public collision records point to higher volumes along Rt 395, N Main Street, US-395, and N Fowler Street, with reports peaking on Thursdays around midday. These are simply public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "Under California's pure comparative fault rule, you can still recover damages even if you were partly at fault. Your compensation would be reduced by your share of responsibility, but it isn't barred entirely."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, such as pain and suffering, in typical personal injury cases. The amount depends on the specifics of your situation and injuries."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm ourselves. Attorneys in our network work on contingency, so there's no fee unless you receive a recovery."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "parlier medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Parlier Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to independent medical malpractice attorneys serving Parlier, Fresno County. No fee unless you recover. Strict deadlines apply."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit, diagnosis, or treatment in Parlier left you worse off, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's MICRA rules — free of charge to you."
+  },
+  "about": {
+    "title": "Parlier Medical Malpractice Claims",
+    "longDescription": "Parlier residents rely on a small network of local clinics and nearby Fresno County hospitals for everything from routine checkups to emergency care. When a provider misses a clear warning sign, misreads a test, or makes an error during treatment, the harm can follow a patient for years. California's MICRA law shapes how these cases move forward: a qualified medical expert typically has to review the case, and strict notice and filing deadlines apply from the moment the injury is discovered. LawProactive doesn't practice law — we're a free service that connects Parlier residents with an independent attorney who can look at the medical records, explain whether the case meets California's malpractice standard, and walk through next steps. A poor outcome by itself isn't proof of malpractice, so an early review matters. If you or a family member were harmed by a provider's error, reaching out sooner rather than later can help preserve your options.",
+    "commonInjuriesTitle": "Types of Harm We Commonly See",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to treat a worsening condition"
+    ],
+    "ctaText": "Get connected with an independent malpractice attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Parlier Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand MICRA's Tight Clock",
+        "desc": "California generally gives you one year from discovering the injury, and no more than three years from when it happened, plus a required 90-day pre-suit notice. Missing these windows can end a claim before it starts, so we move to connect you with an attorney quickly."
+      },
+      {
+        "title": "Expert Review Is Built Into the Process",
+        "desc": "Because California almost always requires a qualified medical expert to support a malpractice claim, the attorneys in our network know how to line up that review early rather than waiting until it's too late to matter."
+      },
+      {
+        "title": "No Upfront Cost, No Risk to You",
+        "desc": "Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. That connection through LawProactive costs nothing, regardless of how your case turns out."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim after treatment in Parlier?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered or reasonably should have discovered the injury, but no more than three years from the date it occurred. There's also a required 90-day notice period before a lawsuit can be filed. Because these deadlines are easy to miscalculate, it helps to have an attorney review your specific timeline as soon as possible."
+      },
+      {
+        "question": "My treatment in Parlier just didn't go the way I hoped — is that automatically malpractice?",
+        "answer": "Not necessarily. California law requires more than a bad outcome; it generally requires showing a provider's care fell below the accepted medical standard and caused the harm. A qualified medical expert typically needs to weigh in on that question, which is part of why an independent attorney review matters."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes. California's MICRA law places a cap on non-economic damages — things like pain and suffering — though that cap rises each year under current law. Economic damages, such as medical bills and lost income, are generally handled separately and aren't subject to that same cap."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "hillsborough city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hillsborough, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Hillsborough, San Mateo County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Hillsborough, we'll connect you with an independent attorney at no cost. Free consultations for residents throughout San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Hillsborough, California",
+    "longDescription": "Hillsborough is a quiet, tree-lined community, but its residents still travel busy connectors like I-280, the I-280 northbound approach, Skyline Boulevard, and Crystal Springs Road to get to work, school, and errands. Public records show 5 injury collisions in the most recent final crash year, with 7 people hurt and no traffic deaths reported — modest numbers for a town this size, but each one represents a real person dealing with pain, medical bills, and missed work. Reports also show crashes tend to cluster on Thursday afternoons between 1 and 3 p.m., a pattern worth knowing if you're piecing together what happened. LawProactive is a free service that helps injured people in Hillsborough connect with an independent personal injury attorney. We are not a law firm, and we don't represent you directly — we simply make the introduction. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. If you were hurt in a crash on one of these local corridors, or anywhere else in town, reaching out costs nothing and may help you understand your options.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a claim. If a government entity is involved, that window can shrink to as little as six months, so it helps to act early."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for the accident, you may still recover damages — reduced by your share of fault, not eliminated by it."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering, unlike some other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That means the initial consultation and case review cost you nothing."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if you're partly at fault and whether that ruins your claim",
+      "Feeling pressured by an insurance adjuster's quick settlement offer",
+      "Uncertainty about how much time you have left to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Hillsborough?",
+        "answer": "California generally allows two years from the date of the accident to file a personal injury lawsuit. If your injury involved a government vehicle or public property, that deadline can be as short as six months. It's wise to speak with an attorney promptly to avoid missing a filing window."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly responsible doesn't bar you from recovering compensation. Your recovery is simply reduced by your percentage of fault. An attorney can help evaluate how fault might be shared in your specific situation."
+      },
+      {
+        "question": "Where do crashes tend to happen in Hillsborough?",
+        "answer": "Public collision records show higher volumes along corridors like I-280, the I-280 northbound stretch, Skyline Boulevard, and Crystal Springs Road, with reported crashes tending to cluster on Thursday afternoons between 1 and 3 p.m. These are simply counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people find an independent personal injury attorney. We don't provide legal representation ourselves — we make the introduction, and the attorney you're connected with handles your case."
+      },
+      {
+        "question": "Will I owe money upfront to speak with an attorney?",
+        "answer": "No. Attorneys in our network work on contingency, which means they only get paid if you recover compensation. The initial conversation and case evaluation are free, with no obligation to move forward."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "belmont medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Help in Belmont, CA | LawProactive",
+    "metaDescription": "Free help finding an independent medical malpractice attorney in Belmont, CA. No fee unless you recover. MICRA deadlines apply—reach out promptly."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or treatment in Belmont left you worse off instead of better, you deserve straight answers about what happened. LawProactive can connect you with an independent attorney who handles medical malpractice claims across San Mateo County."
+  },
+  "about": {
+    "title": "Belmont Medical Malpractice Claims",
+    "longDescription": "Belmont residents rely on a mix of local clinics and larger San Mateo County medical centers for everything from routine care to emergency treatment. When that care falls below the accepted standard, patients can be left with complications no one warned them about. Medical malpractice cases are different from most injury claims: California's MICRA law requires a qualified medical expert to review the case, sets a 90-day pre-suit notice period, and caps non-economic damages, though that cap rises annually. Because Belmont sits close to several regional hospital systems, questions about which facility or provider is responsible can get complicated fast. LawProactive doesn't practice law or promise any result—we simply connect you, free of charge, with an independent attorney who can review your medical records, explain your options, and tell you honestly whether your situation looks like malpractice or an unfortunate but non-actionable outcome.",
+    "commonInjuriesTitle": "Situations We Commonly Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or incorrect dosing",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up after treatment"
+    ],
+    "ctaText": "Talk with an independent attorney about your care—free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Belmont Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Deadlines Are Explained Upfront",
+        "desc": "MICRA generally allows one year from when you discovered the harm, and never more than three years from the injury itself. An attorney can help map out where your case falls before that window closes."
+      },
+      {
+        "title": "The 90-Day Notice Requirement Is Handled Correctly",
+        "desc": "California law requires a formal 90-day notice to the provider before a malpractice lawsuit can be filed. Missing this step can delay or jeopardize a claim, so it needs to be done right the first time."
+      },
+      {
+        "title": "Expert Review Comes Built In",
+        "desc": "Because a qualified medical expert is almost always required to support a malpractice claim, the attorneys in our network work with reviewers who can assess whether your care fell below the accepted standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it occurred. These deadlines are strict, so it's worth having a case reviewed sooner rather than later."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice?",
+        "answer": "No. Medicine involves risk, and an unfavorable result on its own isn't proof of malpractice. An attorney working with a medical expert can help determine whether your provider's care fell below the accepted standard."
+      },
+      {
+        "question": "I was treated at a facility outside Belmont but I live here—can I still get help?",
+        "answer": "Yes. Many Belmont residents receive care at larger hospital systems throughout San Mateo County, and LawProactive can connect you with an attorney regardless of exactly which facility was involved. What matters is where the care fell short, not just where you live."
+      },
+      {
+        "question": "Is there a cap on what I can recover in a malpractice case?",
+        "answer": "California's MICRA law places a cap on non-economic damages (like pain and suffering), though that cap increases each year under current law. Economic damages, such as medical bills and lost income, generally aren't subject to that same cap."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "millbrae city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Millbrae, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Millbrae? Free connection to a San Mateo County injury attorney. 2-year filing deadline applies. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, pedestrian collision, or fall in Millbrae, we can connect you with an independent attorney at no cost. Free, no-obligation connection service serving San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Millbrae, California",
+    "longDescription": "Millbrae sits along some of the Peninsula's busiest travel corridors, and the traffic reflects it. In the most recent full year on record, the city logged 71 injury collisions and 98 people hurt, with no reported traffic deaths. Public crash data show reports clustering on Thursday afternoons between 3 and 5 p.m., and the corridors carrying the most reported collisions include El Camino Real, US-101, E Millbrae Avenue, and SR-82. Whether someone was rear-ended near the 101 interchange, sideswiped on El Camino Real, or hit while crossing E Millbrae Avenue, the aftermath is often the same: medical bills piling up, missed work, and a lot of unanswered questions. LawProactive is a free service that helps injured people in Millbrae connect with an independent personal injury attorney — we are not a law firm, and attorneys in our network work on contingency, meaning there's no fee unless there's a recovery. Reaching out costs nothing and starts the process of understanding your options while evidence and memories are still fresh.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and soft-tissue neck injuries",
+      "Broken bones and fractures",
+      "Concussions and other head injuries",
+      "Herniated discs and back injuries",
+      "Torn ligaments and joint injuries",
+      "Cuts, bruises, and scarring from impact"
+    ],
+    "ctaText": "Find out where you stand — the call is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury lawsuit. If a government entity like a city or transit agency is involved, that window can shrink to as little as six months, so early guidance matters."
+      },
+      {
+        "title": "Partial Fault Doesn't Erase Your Claim",
+        "desc": "California follows pure comparative fault, meaning even if you're found partly responsible for a crash, you can still recover damages — just reduced by your share of fault. An attorney can help make sure your fault isn't overstated by an insurer."
+      },
+      {
+        "title": "No Cap on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California doesn't limit non-economic damages like pain and suffering, so these losses can be fully considered and valued."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys connected through LawProactive work on contingency, which means they only get paid if you recover money. There's no retainer and no bill just for asking questions."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are arriving faster than I can process them",
+      "I can't work and don't know how I'll cover rent or groceries",
+      "The insurance adjuster keeps calling and I'm afraid of saying the wrong thing",
+      "I don't know if what happened to me is even worth pursuing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and attorneys in our network work on contingency, so they only get paid if you recover compensation. There's no fee to connect and no obligation to move forward."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people in Millbrae reach an independent personal injury attorney. Any legal advice or representation comes directly from that attorney, not from LawProactive."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "For most personal injury cases, California law allows two years from the date of the injury to file a lawsuit. If your claim involves a government entity, that deadline can be much shorter — sometimes just six months — so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to be reported in Millbrae?",
+        "answer": "Public collision records show reported crashes clustering along El Camino Real, US-101, E Millbrae Avenue, and SR-82, with reports peaking on Thursday afternoons between 3 and 5 p.m. These are simply public-record counts and not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "Under California's pure comparative fault rule, you can still recover damages even if you share some responsibility for the crash. Your recovery would be reduced by your percentage of fault, but it isn't automatically barred."
+      }
+    ]
+  }
+}

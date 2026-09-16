@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "los-altos product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Altos Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Los Altos? LawProactive connects you free with an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a defective product hurt you or someone you love in Los Altos, LawProactive can connect you at no cost with an independent attorney familiar with California product liability claims."
+  },
+  "about": {
+    "title": "Los Altos Product Liability Claims",
+    "longDescription": "A defective product doesn't announce itself before it fails — a faulty ladder rung, a malfunctioning kitchen appliance, a car part that gives out on El Camino Real or the Foothill Expwy. Los Altos households rely on countless everyday products, and when one is designed poorly, manufactured incorrectly, or sold without adequate warnings, the people who trusted it can end up seriously hurt. California law lets injured residents pursue claims against manufacturers, distributors, and retailers without having to prove anyone was careless — the defect itself, combined with the harm it caused, can be enough. LawProactive doesn't practice law, but we understand how disorienting it is to sort through medical bills and a broken product at the same time. We connect Los Altos residents, free of charge, with independent attorneys who evaluate these cases and can advise on preserving evidence and pursuing compensation. There's no upfront cost, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries From Defective Products",
+    "commonInjuries": [
+      "Burns from faulty electronics or appliances",
+      "Lacerations from broken or sharp components",
+      "Traumatic brain injuries from equipment failures",
+      "Broken bones from collapsing furniture or tools",
+      "Crush injuries from malfunctioning machinery",
+      "Poisoning or chemical exposure from mislabeled products"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Los Altos Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Case",
+        "desc": "California often applies strict liability to defective products, meaning you may not need to prove the manufacturer was negligent — just that the defect caused your injury."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, which may widen the paths available for pursuing compensation."
+      },
+      {
+        "title": "Guidance on Preserving the Product",
+        "desc": "An independent attorney can advise you early on how to properly preserve the defective item itself, since it's often central evidence in these claims."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I need to prove the manufacturer was careless?",
+        "answer": "Not necessarily. Under California's strict liability framework, you generally need to show the product was defective and that the defect caused your injury, rather than proving negligence. An independent attorney can review your situation to explain how this applies to your specific claim."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Try to keep the item exactly as it was at the time of the incident, including packaging, instructions, or receipts if you have them. Don't attempt repairs or throw it away, since it may serve as key evidence. An attorney can advise on safe storage until it's been evaluated."
+      },
+      {
+        "question": "Are certain products more likely to cause injuries in Los Altos?",
+        "answer": "We don't track specific product trends by city, but Los Altos households use the same range of vehicles, tools, and appliances found throughout Santa Clara County. Any defective product — whether purchased locally or online — can potentially lead to a claim. What matters is the defect and the injury it caused, not where the product was bought."
+      },
+      {
+        "question": "Is there a cost to get connected with an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network typically work on contingency, meaning there's no fee unless you recover compensation. You're never obligated to proceed after speaking with an attorney."
+      }
+    ]
+  }
+}

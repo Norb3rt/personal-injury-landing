@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "portola-valley city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Portola Valley, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Portola Valley? Free connection to a San Mateo County injury attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you or someone you love was hurt in a car crash, bike collision, or fall in Portola Valley, we can connect you with an independent attorney at no cost. This connection service is free and covers all of San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Portola Valley, California",
+    "longDescription": "Portola Valley is a small, quiet community, but it isn't immune to serious collisions. In the most recent recorded year, the town saw 11 injury collisions and 13 people hurt, with no traffic deaths reported. Local roads like Alpine Road, Portola Road, Westridge Drive, and Arastradero Road account for a good share of the town's reported crash activity, and public records show collisions tend to cluster on Saturday afternoons between 1 and 3 p.m. If you were hurt on one of these roads, or anywhere else in town, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service that helps injured people in Portola Valley connect with an independent personal injury attorney who can review what happened and explain your options. We are not a law firm, and we don't decide claims or promise outcomes — we simply make the introduction. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and puts you in touch with someone who can look at the specifics of your situation.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee injuries from impact"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Portola Valley Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California law generally gives you two years from the date of injury to file a personal injury claim. That window shrinks dramatically — sometimes to just six months — if a government entity was involved, so it helps to act early."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows a pure comparative fault rule, meaning even if you were partly responsible for what happened, you can still recover compensation. Your share of fault simply reduces the amount, it doesn't eliminate your claim."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Unlike some states, California doesn't cap non-economic damages — like pain and suffering — in ordinary injury cases. An attorney can help you understand what that might mean for your situation."
+      },
+      {
+        "title": "No Upfront Cost to Get Answers",
+        "desc": "Attorneys in our network work on contingency, so you pay nothing unless they recover money for you. That means getting informed about your rights doesn't require any financial risk on your part."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while you're out of work",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you waited too long or have enough time left to act",
+      "Fearing that being partly at fault means you can't get help at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Portola Valley?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If your injury involved a government agency or public road maintenance issue, that deadline can shrink to as little as six months, so it's worth checking your specific situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some blame. Your fault percentage reduces your recovery rather than blocking it entirely, so it's still worth having your case reviewed."
+      },
+      {
+        "question": "Where do collisions tend to happen in Portola Valley?",
+        "answer": "Public crash records show that Alpine Road, Portola Road, Westridge Drive, and Arastradero Road are among the higher-volume corridors for reported collisions in town, with activity often clustering on Saturday afternoons between 1 and 3 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — California does not cap non-economic damages, such as pain and suffering, in typical personal injury cases. This is different from some other states, and an attorney can help explain how it might apply to your circumstances."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves — we simply help connect you with an independent attorney. Attorneys in our network work on contingency, so there's no fee unless they win or settle your case."
+      }
+    ]
+  }
+}

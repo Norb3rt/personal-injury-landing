@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "fresno product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fresno Product Liability Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt by a defective product in Fresno? LawProactive connects you free with an independent attorney. California strict liability rules may apply."
+  },
+  "hero": {
+    "subtitle": "A product that fails in your Fresno home, garage, or on SR-99 can change your life in a moment. LawProactive is a free service that connects you with an independent California attorney who handles defective-product claims on contingency."
+  },
+  "about": {
+    "title": "Fresno Product Liability Claims",
+    "longDescription": "A faulty product does not care where you bought it. In Fresno, that might mean a space heater from a store along Blackstone Avenue, an e-bike battery ordered online, or a replacement brake part installed before a commute down SR-41. When something you trusted fails and hurts you, the question is rarely whether you were careless. California product liability claims usually rest on strict liability: you generally need to show the item had a design, manufacturing, or warning defect and that the defect caused your injury. Proving the manufacturer was negligent is typically not required. That matters because everyone in the chain, from the maker to the distributor to the Fresno retailer, may share responsibility. Fresno recorded 2,186 people injured in traffic collisions in 2025, and some collisions anywhere trace back to a failed part rather than a driver's mistake. LawProactive is a free service that connects you with an independent attorney who handles these claims on contingency, meaning no fee unless there is a recovery. Keep the product and the receipt.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries or appliances",
+      "Deep cuts from shattered or broken components",
+      "Crush and amputation injuries from power tools or machinery",
+      "Head and neck trauma from airbag or seatbelt failures",
+      "Poisoning or chemical burns from mislabeled goods",
+      "Choking or suffocation from unsafe children's products"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Fresno Residents Use LawProactive for Product Claims",
+    "items": [
+      {
+        "title": "Strict Liability, Explained Plainly",
+        "desc": "California generally does not require you to prove the maker was careless, only that the product was defective and that the defect caused your injury. The attorney we connect you with can walk through which type of defect fits your situation."
+      },
+      {
+        "title": "Every Link in the Chain",
+        "desc": "Manufacturers, distributors, and the Fresno store that sold the item may each be held responsible. An independent attorney can sort out who belongs in the claim."
+      },
+      {
+        "title": "Evidence Handled Early",
+        "desc": "The product itself is the heart of the case, so preserving it matters from day one. Your attorney can arrange proper storage and testing before anything is lost or altered."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My car's part failed on SR-99 near Fresno and caused a crash. Is that a car accident claim or a product claim?",
+        "answer": "It can be both. If a component such as a tire, brake, or steering part failed because of a defect, a product liability claim may run alongside any claim tied to the collision itself. Have the vehicle towed somewhere it will not be repaired or scrapped until an attorney has a chance to inspect the failed part."
+      },
+      {
+        "question": "Do I have to prove the manufacturer was negligent?",
+        "answer": "Usually not. California product liability often operates under strict liability, which focuses on whether the product had a design, manufacturing, or warning defect and whether that defect caused your injury. The company's level of care is generally beside the point in these claims."
+      },
+      {
+        "question": "Should I throw away the product that hurt me?",
+        "answer": "Please do not. The product, its packaging, instructions, and receipt are the core evidence in a defective-product case, and once they are gone they cannot be recreated. Store everything as-is and let the attorney LawProactive connects you with decide how it should be examined."
+      }
+    ]
+  }
+}

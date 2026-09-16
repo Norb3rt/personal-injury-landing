@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "guadalupe medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Guadalupe Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Guadalupe, CA? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a Guadalupe hospital visit or clinic appointment left you worse off than before, LawProactive can connect you with an independent attorney who handles medical malpractice claims across Santa Barbara County — at no cost to you."
+  },
+  "about": {
+    "title": "Guadalupe Medical Malpractice Claims",
+    "longDescription": "Guadalupe residents often travel outside the immediate area for hospital-level care, which means a misdiagnosis, delayed treatment, or surgical mistake can happen locally or during a referral to a larger facility nearby. Either way, sorting out what went wrong medically and what qualifies as malpractice under California law takes more than a hunch that something felt off. LawProactive is a free service — we're not a law firm — that connects Guadalupe residents with independent attorneys who evaluate these claims and work with qualified medical experts to determine whether a provider fell below the accepted standard of care. Not every bad outcome is malpractice, and California's rules around medical claims are stricter and faster-moving than typical injury cases. If you or a family member were harmed during treatment in or around Guadalupe, getting a knowledgeable set of eyes on the medical records early can matter, and there's no obligation to move forward after that first conversation.",
+    "commonInjuriesTitle": "Types of Harm We Help Connect",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Delayed or missed cancer/condition diagnosis",
+      "Medication or dosage errors",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Hospital-acquired infections from neglect"
+    ],
+    "ctaText": "Talk to an independent attorney about your case — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Guadalupe Families Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Unforgiving",
+        "desc": "California generally gives you one year from discovering the harm, and never more than three years from the injury itself, plus a required 90-day notice before filing suit. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Isn't Optional",
+        "desc": "California law almost always requires a qualified medical expert to establish that a provider's care fell below the accepted standard. An independent attorney can arrange this kind of review rather than leaving you to guess."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "California's statutory cap on non-economic damages increases annually, so the numbers involved shift year to year. An attorney familiar with the current cap can explain what it means for your specific claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Guadalupe but was treated at a hospital outside the city. Can I still get help?",
+        "answer": "Yes. Where the treatment happened matters more than where you live, and California's malpractice rules apply regardless of which facility provided care. LawProactive can connect you with an attorney who handles claims tied to treatment received anywhere in the region, including facilities Guadalupe residents commonly use."
+      },
+      {
+        "question": "How long do I have to act on a possible malpractice claim?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the harm, but never more than three years from the date of the injury. There's also a mandatory 90-day notice period before a lawsuit can be filed, so earlier review is usually better than later."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No — a poor result alone doesn't establish malpractice under California law. A claim typically requires showing the provider's care fell below an accepted medical standard, which is why a qualified medical expert almost always needs to review the records. An independent attorney can help determine whether that threshold might be met."
+      }
+    ]
+  }
+}

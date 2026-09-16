@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "mountain-view slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mountain View Slip & Fall Attorney Help | LawProactive",
+    "metaDescription": "Hurt in a fall at a Mountain View store, office, or apartment complex? LawProactive connects you free with an independent premises liability attorney."
+  },
+  "hero": {
+    "subtitle": "A wet floor at an El Camino Real shopping center or a dark stairwell in a Shoreline Boulevard parking structure can change your year in a second. LawProactive connects Mountain View fall victims with an independent premises liability attorney, at no cost to you."
+  },
+  "about": {
+    "title": "Mountain View Slip & Fall Claims",
+    "longDescription": "Mountain View sits in the heart of Santa Clara County, and its 80,435 residents share sidewalks, parking garages, and store aisles with a steady flow of commuters and visitors. Shopping centers along El Camino Real, office parks near Shoreline Boulevard, and apartment communities off SR-85 all depend on someone keeping floors dry, stairs lit, and walkways clear. When that upkeep slips, a fall can leave you with a fracture or head injury that reshapes the months ahead. California law does not hold property owners responsible for every fall. You generally need to show the owner knew about the hazard, or should have known, and failed to fix it or warn you. So the first days matter: photograph the spill or broken step, ask for an incident report, and request that surveillance footage be preserved before it is overwritten. LawProactive is free. We connect Mountain View fall victims with an independent premises liability attorney who works on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Mountain View",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and forearm fractures from bracing a fall",
+      "Concussions and other traumatic brain injuries",
+      "Herniated discs and lower back injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Mountain View Fall Victims Turn to LawProactive",
+    "items": [
+      {
+        "title": "Attorneys who understand the notice requirement",
+        "desc": "In California, a fall claim usually rises or falls on whether the owner knew, or reasonably should have known, about the hazard. The attorneys in our network know how to look for inspection logs, prior complaints, and maintenance records that speak to that question."
+      },
+      {
+        "title": "Help with deadlines that vary by property owner",
+        "desc": "Most California premises claims carry a two-year filing window, but if you fell on property controlled by a city, county, or other public entity, the deadline is far shorter. Getting connected early keeps those clocks from running out on you."
+      },
+      {
+        "title": "Evidence preserved before it disappears",
+        "desc": "Store and garage cameras in Mountain View often overwrite footage within days. An attorney can send a preservation demand quickly and document the hazard while the scene still looks the way it did when you fell, which also matters under California's pure comparative fault rule."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell in a store parking lot off El Camino Real in Mountain View. Who is actually responsible?",
+        "answer": "It depends on who controlled the area where you fell. Many shopping centers along El Camino Real have a property owner, a management company, and individual tenants, each with different maintenance duties under their leases. An attorney can sort out which party had responsibility for the pavement, lighting, or drainage that caused your fall, and whether they knew or should have known about it."
+      },
+      {
+        "question": "What if I tripped on a public sidewalk or in a city-owned facility in Mountain View?",
+        "answer": "Claims against a public entity follow different rules than claims against a private business. Instead of the usual two-year window, you generally must file a formal government claim within six months of the injury before you can sue. Missing that step can end the case, so it is worth speaking with an attorney soon after a fall on public property."
+      },
+      {
+        "question": "I was looking at my phone when I slipped. Can I still bring a claim?",
+        "answer": "Possibly. California uses pure comparative fault, which means your recovery is reduced by your share of responsibility rather than eliminated. If a jury decided you were 30 percent at fault for not watching your step, you could still recover 70 percent of your damages. Documenting the hazard clearly helps show how much of the blame belongs to the property owner."
+      }
+    ]
+  }
+}

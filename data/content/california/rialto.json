@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "rialto city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rialto, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Rialto or elsewhere in San Bernardino County? You have 2 years to file most claims. Connect free with an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a car crash on Riverside Avenue, a fall at a store, or a bicycle collision left you injured, LawProactive connects you at no cost with an independent personal injury attorney serving Rialto and San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Rialto, California",
+    "longDescription": "Rialto sits where Riverside Avenue, Baseline Road and Foothill Boulevard cross paths with SR-210, and that mix of local streets and freeway traffic shows up in the public record. In 2025, the most recent final reporting year, the city logged 432 injury collisions. Those crashes left 637 people hurt and took 10 lives. Reports also tend to bunch up on Friday afternoons between 3 and 5 p.m., when commuters and weekend errands overlap. If one of those numbers now describes you or someone in your family, the paperwork, insurance calls and medical bills can feel like a second injury. LawProactive exists to make one part of that easier. We are a free service, not a law firm. Tell us what happened, and we connect you with an independent personal injury attorney who handles cases in San Bernardino County. That attorney reviews your situation, explains your options under California law, and works on contingency, meaning no fee unless there is a recovery. There is no charge for the connection and no obligation to hire anyone. Whether you were rear-ended on Baseline Road, hit while walking near Riverside Avenue, or hurt in a fall at a local business, understanding your rights early keeps more options open.",
+    "commonInjuriesTitle": "Injuries People in Rialto Ask About Most",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken arms, wrists and collarbones",
+      "Concussions and other head injuries",
+      "Back and spinal disc damage",
+      "Knee and hip injuries from falls",
+      "Cuts, burns and lasting scarring"
+    ],
+    "ctaText": "Get connected with an attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Rialto Claim",
+    "items": [
+      {
+        "title": "Two years is the usual deadline",
+        "desc": "Most California injury claims must be filed within two years of the incident. Claims against a city, county or state agency can require a formal claim in as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not shut you out",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not barred from pursuing a claim."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California places no fixed limit on non-economic damages such as pain, lost enjoyment of life and emotional distress."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in our network work on contingency. You pay nothing out of pocket, and there is no attorney fee unless your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I missed work and the bills are stacking up faster than the checks.",
+      "My car is wrecked and I can't get to my doctor's appointments.",
+      "I might have been a little at fault — does that mean I get nothing?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Rialto show up most often in the public record?",
+        "answer": "Public collision counts for Rialto show the highest volumes along Riverside Avenue, Baseline Road, SR-210 and Foothill Boulevard. These are simply the corridors that carry the most traffic and therefore record the most incidents. Reports also cluster on Fridays between roughly 3 p.m. and 5 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date you were hurt. If a government entity is involved, such as a claim over a city vehicle or a public sidewalk, you may need to file a formal claim within six months. An attorney can pin down the exact date that applies to you."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free connection service, not a law firm. We match you with an independent attorney, and that attorney works on contingency, so there is no fee unless there is a recovery in your case."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault. Your compensation is reduced by whatever percentage of fault is assigned to you, but you are still allowed to recover the rest. Being partly responsible does not end your claim."
+      },
+      {
+        "question": "Should I talk to the other driver's insurance company first?",
+        "answer": "You are not required to give a recorded statement to the other side's insurer. Anything you say can be used to lower or deny your claim. Many people choose to speak with an attorney before responding so they understand what they are agreeing to."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "lancaster medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Lawyer in Lancaster, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Lancaster, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care in Lancaster falls short of what it should have been, the questions pile up fast. We connect you, at no cost, with an independent attorney who can tell you whether what happened meets California's standard for medical malpractice."
+  },
+  "about": {
+    "title": "Lancaster Medical Malpractice Claims",
+    "longDescription": "Lancaster sits at the northern edge of Los Angeles County, home to roughly 161,000 people who rely on local clinics, urgent care, and hospital emergency departments when something goes wrong. A missed diagnosis, a medication error, or a surgical mistake can turn a routine visit into months of recovery, and it is hard to know whether what happened to you was simply a bad result or a breach of the standard of care. California draws that line under MICRA. A poor outcome is not malpractice; you generally need a qualified medical expert to show that a provider fell below what a reasonably careful professional would have done. Deadlines are short too, often one year from the date you discovered the harm and never more than three years from the injury, with a 90-day notice sent before any lawsuit. LawProactive is not a law firm. We are a free service that connects Lancaster residents with an independent attorney who handles these cases on contingency, so you can find out where you stand without paying anything up front.",
+    "commonInjuriesTitle": "Harm Commonly Tied to Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained objects",
+      "Medication and dosage mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Emergency room discharge before a serious condition was identified"
+    ],
+    "ctaText": "Ask a Lancaster malpractice attorney to review your records, free."
+  },
+  "whyChoose": {
+    "title": "Why Lancaster Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA's clock is shorter than most people expect",
+        "desc": "California generally allows one year from discovery and never more than three years from the injury, plus a 90-day notice before filing. Getting connected early keeps those windows open."
+      },
+      {
+        "title": "Expert review, not guesswork",
+        "desc": "A qualified medical expert is almost always required to show a provider breached the standard of care. The attorneys in our network know how to line that up before the deadline runs."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "MICRA caps non-economic damages at a figure that rises each year, so every case needs careful valuation. Your attorney works on contingency, and our connection service costs you nothing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on Avenue K and the hospital missed a fracture. Is that malpractice?",
+        "answer": "It might be, but the answer depends on more than the missed injury. Lancaster recorded 1,723 people injured in collisions in 2025, and many passed through emergency care, where some conditions are genuinely hard to spot. The question is whether a reasonably careful provider, with the same information, would have caught it. A qualified medical expert has to make that call, which is exactly what an attorney will arrange."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice claim in Lancaster?",
+        "answer": "Under MICRA, you generally have one year from when you discovered the injury, and in no case more than three years from when it happened. Before any lawsuit, a 90-day notice must go to the provider. Because those two limits interact, it is wise to speak with an attorney well before either one is close."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering in California?",
+        "answer": "Yes. MICRA sets a cap on non-economic damages, meaning things like pain, suffering, and loss of enjoyment of life, and that cap increases each year under current law. Economic losses such as medical bills and lost income are handled separately. An attorney can explain how the current figures apply to your situation."
+      }
+    ]
+  }
+}

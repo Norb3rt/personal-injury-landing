@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "maricopa city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Maricopa, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Maricopa, Kern County? Get connected free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end collision or a broken bone from a fall, we'll connect you free of charge with an independent attorney serving Kern County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Maricopa, California",
+    "longDescription": "Maricopa is a small community, but its residents still travel California Street and Route 166 daily for work, errands, and everything in between. The most recent final crash-year data available shows zero recorded injury collisions and zero traffic deaths for Maricopa in 2018 — a reflection of the town's low traffic volume compared to larger Kern County cities. Still, when a collision or fall does happen here, the effects on a person's life, work, and finances can be significant, even in a small town. LawProactive is a free service — we are not a law firm. We simply help connect injured people in Maricopa with an independent personal injury attorney who can review their situation. Attorneys in our network work on contingency, meaning there's no fee unless there's a recovery. If you were hurt in a car crash, a workplace accident, or a slip-and-fall anywhere near Maricopa's local roads, reaching out costs nothing and puts you in touch with someone who can explain your options under California law.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from vehicle or fall accidents",
+      "Back and spinal injuries",
+      "Concussions and other head injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries from impact or twisting"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Act Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Two-Year Filing Window",
+        "desc": "Under California law, you generally have two years from the date of injury to file a personal injury claim. That window can shrink to as little as six months if a government entity was involved, so timing matters."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you may still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no limit on compensation for pain, suffering, and other non-economic losses, unlike some other states."
+      },
+      {
+        "title": "No Fee Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency. That means you don't pay out of pocket, and legal fees only come from money recovered on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the crash was partly your fault and whether that matters",
+      "Feeling unsure how much time you actually have to take action",
+      "Wondering if you can even afford a lawyer right now"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Maricopa?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If a government agency was involved — for example, a poorly maintained road — that deadline can be as short as six months, so it's wise to look into your situation promptly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your total recovery would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Maricopa?",
+        "answer": "Public crash-count records point to California Street and Route 166 as the higher-volume corridors in town, with reported incidents tending to peak on Wednesdays between 7 and 9 a.m. These are neutral collision counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We help injured people in Maricopa get in touch with an independent personal injury attorney; we don't represent clients ourselves."
+      },
+      {
+        "question": "Will I have to pay anything upfront?",
+        "answer": "No. Attorneys in our network work on a contingency basis, meaning they only get paid if you recover compensation. There's no cost to you for being connected through LawProactive."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "monterey-park city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Monterey Park, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Monterey Park, LA County? 2 years to file. Free, no-obligation connection to an attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end collision or a broken bone from a fall, we can connect you with an independent attorney at no cost. Serving injured residents throughout Los Angeles County, including Monterey Park."
+  },
+  "about": {
+    "title": "Personal Injury Help in Monterey Park, California",
+    "longDescription": "Monterey Park sees a steady flow of traffic along Garfield Avenue, Atlantic Boulevard, Garvey Avenue, and where SR-60 cuts through town, and that traffic comes with real consequences. In the most recent full year on record, the city logged 248 injury collisions and 327 people hurt — figures drawn from public records, not speculation. Collisions here have tended to cluster on Wednesday afternoons between 3 and 5 p.m., a pattern worth knowing if you travel these corridors regularly. If you or someone you love was hurt in a crash, a fall, or another type of accident in Monterey Park, you don't have to sort out the next steps on your own. LawProactive is a free service — we are not a law firm — that connects injured people with independent personal injury attorneys who work on contingency, meaning there's no fee unless they recover money for you. We simply help you get in touch with someone who can review what happened and explain your options. There's no obligation to move forward, and reaching out costs nothing.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Cuts, bruises, and soft-tissue injuries",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Reach out today for a free, no-pressure connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why People in Monterey Park Turn to This Service",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. Claims against a government agency can require notice in as little as six months, so it helps to move sooner rather than later."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, meaning you can still recover compensation even if you were partly responsible for what happened — your share of fault simply reduces the amount, it doesn't eliminate your claim."
+      },
+      {
+        "title": "No Artificial Ceiling on Pain and Suffering",
+        "desc": "In ordinary personal injury cases, California does not cap non-economic damages like pain, suffering, and loss of enjoyment of life, so your claim isn't automatically limited to medical bills and lost wages."
+      },
+      {
+        "title": "You Pay Nothing Unless There's a Recovery",
+        "desc": "Attorneys in this network work on contingency, meaning legal fees only come out of money actually recovered on your behalf — there's no upfront cost to you."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if the insurance company's offer is fair",
+      "Fearing you'll be blamed even though you weren't fully at fault",
+      "Feeling overwhelmed trying to find the right attorney"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Monterey Park?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a lawsuit. If your claim involves a government entity, such as a city vehicle, that window can shrink to as little as six months, so it's wise to act promptly."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some blame. Your total recovery is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Monterey Park?",
+        "answer": "Public collision records show higher volumes along corridors like Garfield Avenue, Atlantic Boulevard, Garvey Avenue, and SR-60. These are simply reported counts, not a judgment about any road's safety, and crashes can happen anywhere."
+      },
+      {
+        "question": "Does LawProactive charge anything upfront?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in the network work on contingency, so there's no fee unless they recover money for you."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In a typical California personal injury case, there is no cap on non-economic damages such as pain and suffering. The amount depends on the specifics of your case, which an attorney can help evaluate."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "yorba-linda city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Yorba Linda, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Yorba Linda? Connect free with an Orange County injury attorney. California gives you 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end collision on Imperial Highway or a fall in a shopping center left you injured, LawProactive connects you at no cost with an independent personal injury attorney serving Yorba Linda and all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Yorba Linda, California",
+    "longDescription": "Yorba Linda is a quieter corner of Orange County, but its roads still see their share of collisions. In 2025, the most recent final reporting year, the city logged 91 injury collisions that left 116 people hurt. No one died in traffic that year. Public-record counts show the heaviest volume along Yorba Linda Boulevard, Imperial Highway, Bastanchury Road, and La Palma Avenue, with reported crashes tending to peak on Fridays between 5 p.m. and 7 p.m., as the weekend commute builds. If you were one of those 116 people, or you were hurt some other way — a fall at a store, a dog bite on a neighborhood walk, a collision on your bike — you probably have questions about medical bills, lost wages, and what the other side's insurer is really offering. LawProactive exists to answer the first one: who should I talk to? We are a free service, not a law firm. We connect you with an independent personal injury attorney who handles cases in Yorba Linda and across Orange County. You pay nothing to be connected, and the attorneys in our network work on contingency, meaning there is no fee unless your case ends in a recovery. California gives most injury claims two years to file, so reaching out sooner keeps more options open.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Yorba Linda Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back injuries, including herniated discs",
+      "Knee and shoulder damage from falls",
+      "Cuts and bruising from bicycle or pedestrian collisions"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney — free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Yorba Linda Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial fault doesn't shut the door",
+        "desc": "California follows pure comparative fault. Even if you were partly responsible, you can still recover — your share of the blame reduces the amount rather than eliminating it."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California places no statutory ceiling on non-economic damages like pain, distress, and loss of enjoyment of life. An attorney can help document what the injury has actually cost you beyond the receipts."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in our network work on contingency. They are paid only if your case results in a recovery, so you don't need savings to get representation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster keeps calling and I don't know what to say",
+      "My car is totaled and I still can't afford the ER bill",
+      "I missed shifts at work and my paycheck shows it",
+      "I'm not sure the pain in my neck is going to go away"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do most collisions in Yorba Linda happen?",
+        "answer": "Public collision records for Yorba Linda show the highest counts along Yorba Linda Boulevard, Imperial Highway, Bastanchury Road, and La Palma Avenue. These are simply the corridors that carry the most traffic and therefore report the most incidents. Reports also tend to cluster on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match you with an independent personal injury attorney who practices in Orange County; that attorney, not LawProactive, handles your case."
+      },
+      {
+        "question": "How long do I have to bring an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of injury. Claims against a government entity, such as a crash involving a city vehicle or a fall on public property, can require a written claim within six months. Because these deadlines are strict, it's wise to speak with an attorney early."
+      },
+      {
+        "question": "What if the insurance company says I was partly at fault?",
+        "answer": "California uses pure comparative fault, so being partly to blame does not prevent you from recovering. Your compensation is reduced by your percentage of fault but not eliminated. Insurers sometimes overstate a claimant's share, which is one reason people choose to have an attorney review the facts."
+      },
+      {
+        "question": "What does it cost to hire an attorney through LawProactive?",
+        "answer": "The connection itself is free. The attorneys in our network work on contingency, which means they take a percentage only if your case results in a recovery. If there is no recovery, you owe no attorney fee."
+      }
+    ]
+  }
+}

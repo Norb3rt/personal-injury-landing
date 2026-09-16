@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "san-marcos workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Marcos Workplace Injury Lawyer Match | LawProactive",
+    "metaDescription": "Hurt on the job in San Marcos, CA? LawProactive connects you free with an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Injured at work in San Marcos? Workers' comp may not be your only option, and a free connection to an independent attorney can help you understand what else the law allows."
+  },
+  "about": {
+    "title": "San Marcos Workplace Injury Claims",
+    "longDescription": "Work in San Marcos takes many shapes. Some people spend the day on construction sites off N Twin Oaks Valley Road, others stock shelves or run kitchens along W San Marcos Boulevard, and plenty drive for a living on SR-78 and S Rancho Santa Fe Road. When a shift ends in an injury, fault is usually not the first question. California workers' compensation generally covers you no matter who caused the accident, and it is normally the only claim you can bring against your own employer. If a subcontractor, a property owner, a defective machine, or another motorist played a role, though, a separate third-party injury claim may be available alongside comp. San Marcos logged 270 injury collisions in 2025, with 386 people hurt; for anyone driving as part of the job, a crash can raise both kinds of claims at once. LawProactive is a free service, not a law firm. We connect you with an independent attorney who can sort out which paths apply to you.",
+    "commonInjuriesTitle": "Injuries We Commonly See in San Marcos Workplace Cases",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and loading docks",
+      "Back and shoulder injuries from lifting or repetitive motion",
+      "Crush and pinch injuries from machinery or forklifts",
+      "Burns and chemical exposure in kitchens, labs, and shops",
+      "Collisions while driving a work vehicle or making deliveries",
+      "Head and neck trauma from falling objects or struck-by incidents"
+    ],
+    "ctaText": "Tell us what happened at work and we will connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why San Marcos Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Comp is the floor, not always the ceiling",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but a negligent third party can be held separately responsible. The attorney you are matched with will look for both."
+      },
+      {
+        "title": "Timelines that matter",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and third-party claims carry a two-year deadline. An early connection helps make sure neither window closes on you."
+      },
+      {
+        "title": "Protection from pushback",
+        "desc": "Retaliating against a worker for reporting an injury or filing a claim is illegal in California. Your attorney can address any pressure you feel from an employer while your claim moves forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on SR-78 while making deliveries for my San Marcos employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were on the job, workers' compensation should cover your medical care and part of your lost wages regardless of fault. Separately, the driver who hit you is a third party, so you may also have a personal injury claim against that driver and their insurer, subject to California's two-year deadline."
+      },
+      {
+        "question": "What if I did not report my injury right away because I thought it was minor?",
+        "answer": "California asks workers to notify their employer within 30 days of a job injury, so report it as soon as you realize it is a problem. A delay does not automatically end your rights, but it can complicate things. Put the report in writing and keep a copy, then talk with an attorney about where you stand."
+      },
+      {
+        "question": "Does LawProactive charge me anything, and do I have to hire the attorney you suggest?",
+        "answer": "Our connection service is free, and there is no obligation to move forward with the attorney we introduce. The independent attorneys in our network handle personal injury matters on contingency, which means no fee unless there is a recovery. You decide whether the fit is right for you."
+      }
+    ]
+  }
+}

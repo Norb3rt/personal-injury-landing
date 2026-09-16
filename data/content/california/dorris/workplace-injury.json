@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "dorris workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dorris Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Dorris, CA? Get connected free to an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working near 1st Street, Rt 97, or anywhere else in Dorris, LawProactive can connect you with an independent attorney at no cost to sort out your options."
+  },
+  "about": {
+    "title": "Dorris Workplace Injury Claims",
+    "longDescription": "Dorris is a small Siskiyou County community, but workplace injuries still happen here — on farms, at local shops along N Main Street, in warehouses off Rt 97, or on job sites near 4th Street. When a work injury occurs, California generally routes the claim through workers' compensation, which pays medical care and partial wages regardless of who caused the accident. But workers' comp isn't the whole story: if a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may also have a separate third-party claim worth pursuing. Because Dorris is a rural area with fewer nearby specialists, getting timely medical documentation and understanding your reporting deadlines matters even more. LawProactive doesn't practice law — we simply connect you, free of charge, with an independent attorney who can review what happened and explain which paths might apply to your specific situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Equipment and machinery-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions while on the job (delivery, farm routes)",
+      "Burns or chemical exposure incidents",
+      "Struck-by or caught-in-between accidents"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Dorris Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Your Exclusive Remedy Rights",
+        "desc": "California workers' comp is usually the exclusive remedy against your employer, but an independent attorney can help determine whether a negligent third party is also on the hook."
+      },
+      {
+        "title": "Meeting Your Reporting Deadline",
+        "desc": "You generally have 30 days to report a workplace injury to your employer — missing that window can complicate your claim, so timely guidance matters."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a claim, and an attorney can help you understand what protections apply."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I still file a claim if my injury happened outside city limits, like on Rt 97?",
+        "answer": "Yes — where the injury happened matters less than who was responsible and whether it occurred during your work duties. If a third party, such as another driver or a contractor, contributed to the crash, that could support a separate claim beyond workers' comp. An independent attorney can look at the specifics and explain your options."
+      },
+      {
+        "question": "What if my employer says my injury doesn't count because Dorris had so few reported injury collisions this year?",
+        "answer": "Crash statistics for the whole city don't determine whether your individual claim is valid. Workers' comp eligibility depends on whether the injury occurred in the course of your employment, not on area-wide collision counts. An attorney can help you push back if your employer is using unrelated numbers to dispute your claim."
+      },
+      {
+        "question": "Is there a deadline if I think a third party caused my injury, not just my employer?",
+        "answer": "Yes, third-party injury claims in California generally carry a two-year deadline from the date of the injury. This is separate from your workers' comp reporting window, so it's worth having both timelines reviewed together. LawProactive can connect you with an attorney who can map out what applies to your case."
+      }
+    ]
+  }
+}

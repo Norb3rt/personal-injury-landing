@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "lodi workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lodi Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Lodi? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Whether you were injured on a Lodi warehouse floor, at a Cherokee Lane distribution site, or driving for work along SR-99, we can connect you with an attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "Lodi Workplace Injury Claims",
+    "longDescription": "Lodi's economy runs on agriculture, food processing, trucking, and warehousing, much of it clustered near SR-99, Kettleman Lane, and the rail and distribution hubs around Cherokee Lane. Workers in these industries face real risks: falls from loading docks, equipment injuries, repetitive strain, and vehicle collisions while making deliveries. In California, workers' compensation is generally the exclusive path against your employer no matter who was at fault, but that's not the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate claim against that third party. LawProactive is a free connection service, not a law firm — we don't handle your case ourselves. Instead, we match you with an independent attorney in our network who can sort out whether workers' comp, a third-party claim, or both apply to your situation, and who typically works on contingency.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See in Lodi",
+    "commonInjuries": [
+      "Falls from loading docks or warehouse platforms",
+      "Forklift and heavy equipment injuries",
+      "Repetitive strain from packing or processing lines",
+      "Vehicle collisions while driving for work along SR-99 or Kettleman Lane",
+      "Machinery entanglement in food processing or agricultural settings",
+      "Falling object or crush injuries in storage and distribution facilities"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney who can review your options."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Lodi Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "While workers' comp is usually the exclusive remedy against your employer, a negligent third party like a subcontractor or equipment maker may still owe you a separate claim."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires reporting a workplace injury to your employer within 30 days, and an attorney can help make sure that step — and any related paperwork — is handled correctly."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "You have the legal right to report an injury and pursue a claim without fear of being punished or let go for doing so."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near Kettleman Lane. Do I file workers' comp or a lawsuit?",
+        "answer": "Possibly both. Workers' comp generally covers your medical bills and lost wages regardless of fault, but if another driver caused the crash, you may also have a third-party claim against them. An attorney can look at the details and explain which paths apply."
+      },
+      {
+        "question": "What if my employer says my injury doesn't qualify for workers' comp?",
+        "answer": "Employers and insurers sometimes dispute claims, but that doesn't mean you have no options. An independent attorney can review the denial and help you understand next steps."
+      },
+      {
+        "question": "How long do I have to act on a third-party claim from a Lodi warehouse accident?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of injury. It's best not to wait, since gathering evidence and records takes time."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "lakewood city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lakewood, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Lakewood, Los Angeles County? Most California claims allow 2 years to file. Get connected free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end crash on Del Amo Boulevard, a fall at a store, or a bicycle collision left you hurting, LawProactive connects you with an independent personal injury attorney at no cost. We serve Lakewood and all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Lakewood, California",
+    "longDescription": "Lakewood is a city of about 81,600 people tucked into southeast Los Angeles County, and its wide, gridded streets carry a steady flow of neighbors, shoppers, and commuters every day. In 2025, the most recent year with final figures, public records logged 308 injury collisions here. Those crashes left 441 people hurt and took one life. Del Amo Boulevard, South Street, Woodruff Avenue, and Carson Street account for the highest collision counts in the city, and reports tend to bunch up on Friday evenings between 5 and 7 p.m. as the workweek winds down. If one of those numbers now describes you or someone in your household, the paperwork that follows can feel heavier than the injury itself. That is where LawProactive comes in. We are a free service that connects injured people in Lakewood with an independent personal injury attorney. We are not a law firm, and we do not give legal advice ourselves. What we do is make the first step simple: you tell us what happened, and we put you in touch with a lawyer who handles cases like yours. The attorneys in our network work on contingency, so there is no fee unless there is a recovery. California gives most injury claims a two-year window, so reaching out sooner keeps your options open.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Lakewood Residents",
+    "commonInjuries": [
+      "Neck and back strain from rear-end collisions",
+      "Fractured wrists, arms, and ankles",
+      "Concussions and other head injuries",
+      "Knee and shoulder damage from falls",
+      "Cuts and road rash from bicycle or scooter crashes",
+      "Soft-tissue injuries that show up days later"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Lakewood Claim",
+    "items": [
+      {
+        "title": "Two years is the usual deadline",
+        "desc": "California gives most injury claims two years from the date of harm. Claims involving a city, county, or state agency can require a formal notice in as little as six months, which is why timing matters."
+      },
+      {
+        "title": "Being partly at fault does not shut you out",
+        "desc": "California follows pure comparative fault. If you share some of the blame, your recovery is reduced by your percentage, but you are not barred from pursuing a claim."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California places no statutory ceiling on non-economic damages. Sleepless nights, lost hobbies, and lingering pain can all be part of what a claim accounts for."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in our network are paid only from a recovery. If there is no recovery, there is no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say.",
+      "My car is totaled and I still have to get to work in Long Beach.",
+      "I'm missing shifts and the bills haven't stopped.",
+      "The other driver says it was my fault too — does that end my case?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do most crashes in Lakewood happen?",
+        "answer": "Public collision records for Lakewood show the highest counts along Del Amo Boulevard, South Street, Woodruff Avenue, and Carson Street. These are simply the corridors that carry the most traffic and therefore log the most reports. Records also show that crashes are most frequently reported on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not provide legal advice. We match you with an independent personal injury attorney who then handles your case directly."
+      },
+      {
+        "question": "How long do I have to act after an injury in Lakewood?",
+        "answer": "For most personal injury claims in California, the statute of limitations is two years from the date of injury. If a government entity is involved — for example, a city vehicle or a hazard on public property — a formal claim may need to be filed within six months. An attorney can pin down which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partially responsible for the accident?",
+        "answer": "California uses pure comparative fault. Your recovery is reduced by whatever share of fault is assigned to you, but even a large share does not eliminate your right to bring a claim. Insurance companies sometimes overstate your fault, so it helps to have someone review the facts."
+      },
+      {
+        "question": "What will it cost me to hire an attorney through LawProactive?",
+        "answer": "Our service is free, and the attorneys we connect you with work on contingency. That means they are paid a percentage of any recovery rather than an hourly rate, and if there is no recovery there is no fee. You should always confirm the exact fee terms directly with the attorney before signing anything."
+      }
+    ]
+  }
+}

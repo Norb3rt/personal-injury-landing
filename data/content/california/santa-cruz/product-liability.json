@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "santa-cruz product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Cruz Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Santa Cruz? Get connected free to an independent product liability attorney working on contingency."
+  },
+  "hero": {
+    "subtitle": "If a defective product left you hurt in Santa Cruz — from a faulty vehicle part on Ocean Street to a malfunctioning appliance at home — we can connect you with an attorney who handles these cases for free, no upfront cost."
+  },
+  "about": {
+    "title": "Santa Cruz Product Liability Claims",
+    "longDescription": "Santa Cruz sees plenty of everyday products in motion — surf gear, bikes, e-scooters weaving along Water Street and Soquel Avenue, and vehicles moving through busy corridors like Rt 1. When one of those products fails because of a design flaw, a manufacturing error, or a missing warning, the person who gets hurt is often left with medical bills and no clear idea who's responsible. California law gives injured people a real advantage here: claims against manufacturers, distributors, and retailers can often proceed under strict liability, meaning you don't have to prove anyone was careless — just that the product was defective and caused your injury. That said, these cases depend heavily on evidence, especially the product itself. LawProactive doesn't practice law; we connect you, free of charge, with an independent attorney in our network who can look at what happened and explain your options without any pressure or obligation.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or electronics",
+      "Traumatic injuries from defective vehicle parts or airbags",
+      "Lacerations or fractures from failed sporting or surf equipment",
+      "Injuries from tools or machinery with inadequate safety guards",
+      "Poisoning or chemical burns from mislabeled products",
+      "Head or spinal injuries from collapsing furniture or structures"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Defective Product",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Case",
+        "desc": "California often doesn't require proof of negligence in product cases — showing the product was defective and caused harm may be enough. An attorney can help determine if this standard applies to your situation."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable for a defective product. An attorney can help identify every party connected to what caused your injury."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "Because the physical product is often the central piece of evidence, how it's stored and documented can affect the claim. An attorney can advise you early on how to protect it."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I need to prove the manufacturer was negligent?",
+        "answer": "Not necessarily. California product liability claims often rely on strict liability, which focuses on whether the product itself was defective — in design, manufacturing, or warning — rather than on proving carelessness. An attorney can evaluate which legal theory best fits your case."
+      },
+      {
+        "question": "I was hurt by defective bike or surf gear near the Santa Cruz coastline — does that count?",
+        "answer": "Yes, defective sporting and recreational equipment can fall under product liability law just like vehicles or appliances. If a flaw in the gear caused your injury, an attorney can help you understand whether the manufacturer, retailer, or distributor may be responsible."
+      },
+      {
+        "question": "What if I already threw away the broken product?",
+        "answer": "It's still worth speaking with an attorney, though preserving the product going forward is important since it's often key evidence. Photos, receipts, or packaging can also help support a claim even without the item itself."
+      }
+    ]
+  }
+}

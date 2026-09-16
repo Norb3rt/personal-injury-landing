@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "roseville workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Help in Roseville, CA | LawProactive",
+    "metaDescription": "Hurt at work in Roseville? See how workers' comp and third-party claims differ in Placer County, then connect free with an independent attorney."
+  },
+  "hero": {
+    "subtitle": "Injured on a Roseville job site, in a warehouse off I-80, or behind the wheel for work? LawProactive connects you, free, with an independent Placer County attorney who can tell you whether workers' comp is your only option or someone else may owe you more."
+  },
+  "about": {
+    "title": "Roseville Workplace Injury Claims",
+    "longDescription": "Roseville's economy runs on people who work with their hands, drive for a living, or spend long shifts on their feet — warehouse crews near I-80, retail and restaurant staff along Douglas Boulevard, delivery drivers threading Pleasant Grove Boulevard and Cirby Way, and construction teams across Placer County. When one of those workdays ends in an injury, the path forward is rarely one form. Workers' compensation covers most on-the-job injuries in California no matter who was at fault, and it is generally your only claim against your employer. But many Roseville injuries involve someone outside the company: a subcontractor on a shared job site, a property owner who let a hazard sit, a manufacturer whose equipment failed, or another motorist. Roseville logged 808 injury collisions in 2025, with 1,156 people hurt, and workers driving for their jobs are part of that count. Those third-party situations can open a separate injury claim alongside your comp benefits. LawProactive connects you, at no cost, with an independent attorney who can sort out which applies to you.",
+    "commonInjuriesTitle": "Injuries We See in Roseville Workplace Claims",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and loading docks",
+      "Back and shoulder strains from lifting and repetitive motion",
+      "Crush and pinch injuries from machinery or forklifts",
+      "Crashes while driving for work on I-80 or Douglas Boulevard",
+      "Burns, chemical exposure, and electrical shock",
+      "Head injuries from falling tools or materials"
+    ],
+    "ctaText": "Tell us what happened at work — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Roseville Workers Start With LawProactive",
+    "items": [
+      {
+        "title": "We know where comp stops and a claim begins",
+        "desc": "Workers' compensation is usually your exclusive remedy against your employer, regardless of fault. The attorneys we connect you with look for a negligent third party — a subcontractor, property owner, equipment maker, or another driver — who may be separately responsible."
+      },
+      {
+        "title": "Deadlines get watched from day one",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and a third-party injury claim generally carries a two-year filing deadline. Getting connected early keeps both clocks in view."
+      },
+      {
+        "title": "Free to connect, no fee unless there is a recovery",
+        "desc": "LawProactive is a free service, not a law firm. The independent attorneys in our network work on contingency, so you are not paying out of pocket while you are off work and healing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on I-80 while driving a company vehicle in Roseville. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of who caused the crash. If another driver was negligent, you may also have a separate third-party injury claim against that driver, which can cover losses comp does not. An attorney can coordinate the two so one does not undercut the other."
+      },
+      {
+        "question": "Can my Roseville employer fire me for reporting an injury or filing a claim?",
+        "answer": "No. Retaliating against a worker for reporting an injury or pursuing workers' compensation is illegal in California. Report the injury to your employer within 30 days to protect your benefits, and keep a copy of what you submitted. If you are demoted, cut from the schedule, or let go afterward, tell the attorney you are connected with right away."
+      },
+      {
+        "question": "A subcontractor's crew left a hazard on our Placer County job site and I got hurt. Who do I go after?",
+        "answer": "Your own employer is generally shielded by workers' comp, but a separate company on the same site is not. If the subcontractor's negligence caused your injury, you may be able to bring a third-party claim against that business in addition to collecting comp benefits. These claims carry a two-year deadline, so it helps to have someone evaluate the facts early."
+      }
+    ]
+  }
+}

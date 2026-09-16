@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "el-cajon medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Cajon Medical Malpractice Lawyer | LawProactive",
+    "metaDescription": "Hurt by a medical error in El Cajon? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a doctor, nurse, or facility in El Cajon made a preventable error that left you worse off, we can connect you—at no cost—with an independent attorney who handles California medical negligence claims."
+  },
+  "about": {
+    "title": "El Cajon Medical Malpractice Claims",
+    "longDescription": "A hospital stay or a routine appointment should leave you better off, not worse. When care in El Cajon falls short of what a careful provider would have done, the harm can follow you for years, and sorting out what actually happened is rarely simple. That is where LawProactive fits in. We are not a law firm. We are a free service that connects people in El Cajon and the surrounding parts of San Diego County with an independent attorney who handles medical negligence cases. California treats these claims differently from other injury matters. Under MICRA, you generally have one year from the date you discovered the injury, and never more than three years from when it occurred. A 90-day notice must go to the provider before a suit is filed, and a qualified medical expert nearly always has to confirm that the standard of care was breached. Assembling those pieces takes time, so an early conversation helps. Network attorneys work on contingency: no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm Often Tied to Medical Negligence",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or respond to worsening symptoms"
+    ],
+    "ctaText": "Ask about your El Cajon medical negligence case"
+  },
+  "whyChoose": {
+    "title": "Why El Cajon Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are short and layered",
+        "desc": "One year from discovery, capped at three years from the injury, plus a mandatory 90-day pre-suit notice—these clocks run whether or not you feel ready. Connecting early gives an attorney room to work within them."
+      },
+      {
+        "title": "Expert review is not optional",
+        "desc": "California courts almost always require a qualified medical expert to support a malpractice claim. The attorneys in our network know how to arrange that review and what it needs to say."
+      },
+      {
+        "title": "An honest read on whether it was malpractice",
+        "desc": "A poor result by itself does not make a claim; the question is whether the provider departed from accepted standards. An independent attorney can tell you candidly where your situation stands."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does it matter that I was treated in El Cajon rather than at a larger downtown San Diego facility?",
+        "answer": "Not for the law that applies—MICRA governs medical negligence claims everywhere in California, whether the care happened along Fletcher Parkway or across the county. What can differ is where records are kept and which court hears the case. An attorney familiar with San Diego County can sort out those practical details for you."
+      },
+      {
+        "question": "I was injured in a crash on I-8 and the follow-up treatment went wrong. Is that malpractice or a car accident case?",
+        "answer": "It can be both. In 2025, El Cajon recorded 619 injury collisions, and many of the 891 people hurt in them passed through emergency and follow-up care. If a provider's error made your injuries worse, that may be a separate negligence claim alongside the crash claim, and an attorney can evaluate each on its own facts."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California places a statutory cap on non-economic damages, such as pain and suffering, and that cap increases every year under MICRA. Economic losses like medical bills and lost income are handled differently. An attorney can explain how these categories apply to your situation without guessing at any figure."
+      }
+    ]
+  }
+}

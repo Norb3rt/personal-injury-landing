@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "galt city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Galt, CA Personal Injury Help | Free Attorney Connection",
+    "metaDescription": "Injured in Galt? Free connection to an independent Sacramento County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Galt, we'll connect you with an independent personal injury attorney at no cost — serving families throughout Sacramento County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Galt, California",
+    "longDescription": "Galt sits along SR-99, a corridor that carries a steady mix of local and through traffic, alongside A Street, Twin Cities Road, and C Street — routes that see their share of everyday travel to schools, farms, and local businesses. In the most recent year on record, Galt logged 53 injury collisions and 78 people injured. Behind each of those numbers is someone dealing with medical bills, missed work, and a lot of uncertainty about what comes next. LawProactive is a free service that helps injured people in Galt get connected with an independent personal injury attorney — we are not a law firm, and we don't charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Whether your injury happened on SR-99, at a residential intersection, or somewhere else around town, getting informed early matters, since California law gives you a limited window to act. Reaching out costs nothing and puts no obligation on you.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Find out if you have a case — it costs nothing to ask."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California Gives You Two Years — Not Forever",
+        "desc": "Most personal injury claims in California must be filed within two years of the accident. That window can shrink to as little as six months if a government entity, like a city road department, is involved."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover compensation even if you were partly responsible for the accident. Your recovery is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering Damages",
+        "desc": "Unlike some states, California doesn't limit non-economic damages — like pain and suffering — in standard injury cases. That means your compensation isn't artificially capped before your claim is even evaluated."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to hire one. They only get paid if they win or settle your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Fear that admitting any fault means losing your right to compensation",
+      "Feeling overwhelmed about where to even start after an accident"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Galt?",
+        "answer": "In California, you generally have two years from the date of the accident to file a personal injury lawsuit. If a government entity is involved — such as a claim tied to a public road — that deadline can be as short as six months, so it's worth checking your situation early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly at fault doesn't bar you from recovering compensation. Your total recovery is reduced by your percentage of fault, but you're not shut out entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Galt?",
+        "answer": "Public crash records show collision counts concentrated along corridors like SR-99, A Street, Twin Cities Road, and C Street, with reported crashes tending to peak on Fridays between 3 and 5 p.m. These are neutral, publicly reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people in Galt with an independent attorney who can evaluate their situation."
+      },
+      {
+        "question": "Will I owe money if my case doesn't win?",
+        "answer": "Attorneys in our network work on contingency, which means they only get paid if they recover compensation for you. If there's no recovery, you typically owe no attorney fees."
+      }
+    ]
+  }
+}

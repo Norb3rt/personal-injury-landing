@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "chino product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Chino Product Liability Claims | LawProactive",
+    "metaDescription": "Injured by a defective product in Chino? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product sold or used in Chino fails and hurts someone, California's strict liability rules can put the focus on the defect itself rather than on proving carelessness. LawProactive connects you, at no cost, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Chino Product Liability Claims",
+    "longDescription": "A product that fails does not care whether it came from a store off Central Avenue or was delivered to a doorstep near Riverside Drive. Across Chino, a San Bernardino County city of about 85,600 people, defective goods turn up in garages, kitchens, warehouses, and on the road. Some claims begin behind the wheel. Chino logged 400 injury collisions in 2025, and when a crash on SR-60 or Euclid Avenue involves an airbag that never deployed or a tire that came apart, the case may be as much about the product as the driver. Other claims involve a space heater, a power tool, a child seat, or a medication label that left something out. California treats these situations under strict liability, so the central question is usually whether the product was defective and whether that defect caused your injury, not whether a company meant harm. LawProactive is not a law firm. We are a free service that connects Chino residents with an independent attorney who works on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from appliances, batteries, or heaters",
+      "Lacerations and amputations from power tools",
+      "Crash injuries linked to airbag, brake, or tire failures",
+      "Head and spinal injuries from collapsing furniture or ladders",
+      "Internal harm from contaminated food or mislabeled medication",
+      "Choking or strangulation injuries from children's products"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Chino Residents Use LawProactive for Product Claims",
+    "items": [
+      {
+        "title": "Strict Liability Shapes the Case",
+        "desc": "Under California law you generally need to show the product had a design, manufacturing, or warning defect and that it caused your injury, not that the maker was negligent. The attorneys in our network build claims around that standard from day one."
+      },
+      {
+        "title": "The Product Is the Evidence",
+        "desc": "Keeping the failed item, its packaging, and any receipts can matter more in these cases than almost anything else. We connect you quickly so preservation can start before something gets thrown away or repaired."
+      },
+      {
+        "title": "Every Link in the Chain Counts",
+        "desc": "Manufacturers, distributors, and the retailer that sold the item in or around Chino may each carry liability. An independent attorney can sort out who belongs in the claim rather than leaving that to guesswork."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag did not go off in a collision on the 60 through Chino. Could that be a product claim?",
+        "answer": "It might be. Even when another driver caused the crash, a restraint system that failed to perform as designed can support a separate claim against the vehicle or component maker. Try to keep the car from being scrapped or repaired until an attorney has had a chance to look at it, since the airbag module and sensor data often tell the story."
+      },
+      {
+        "question": "Do I have to prove the company was careless?",
+        "answer": "Usually not. California product liability commonly runs on strict liability, so the focus is on whether the product was defective in its design, manufacture, or warnings and whether that defect injured you. That said, the details of each case differ, which is why talking with an attorney early is helpful."
+      },
+      {
+        "question": "What does it cost to get connected through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, not a law firm, and we simply connect you with an independent attorney. The attorneys in our network handle product liability cases on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "soledad car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Soledad Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Soledad car accident? Get connected free to an independent CA attorney. No fee unless you recover. Monterey County coverage."
+  },
+  "hero": {
+    "subtitle": "If a crash on Front Street, Monterey Street, or Metz Road left you hurt, LawProactive can connect you with an independent Soledad-area attorney at no cost to you."
+  },
+  "about": {
+    "title": "Soledad Car Accident Claims",
+    "longDescription": "Soledad may be a smaller Monterey County city, but its collisions are no less disruptive to the people involved. Public crash records show 12 injury collisions and 19 injured people in the most recent final reporting year, with weekend afternoons — especially Saturdays between 4 and 6 p.m. — showing up often. Corridors like Front Street, Monterey Street, Metz Road, and Gabilan Drive see a steady share of this traffic, whether from local errands, agricultural traffic, or travelers passing through on their way along the Salinas Valley. If you were hurt in one of these collisions, LawProactive can connect you with an independent personal injury attorney who takes your case on contingency, meaning there's no fee unless you recover. We're not a law firm — we simply help you find someone who can evaluate your situation and explain your options.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Shoulder and knee damage",
+      "Cuts, bruises, and soft-tissue injuries"
+    ],
+    "ctaText": "Get connected with a local attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Other Insurer",
+    "items": [
+      {
+        "title": "California's Filing Deadline Is Tighter Than You Think",
+        "desc": "You generally have two years from the crash date to file a personal injury lawsuit in California, but that window can shrink to as little as six months if a government entity — like a city road or Caltrans route — was involved. Waiting too long to talk to someone can close off options before you even know they exist."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You Fast",
+        "desc": "California uses pure comparative fault, which means even if you're partly blamed for the crash, you can still recover a reduced amount — but insurers often try to shift blame onto you early. An independent attorney can help make sure your side of the story is documented before that narrative gets set."
+      },
+      {
+        "title": "No Cap Means Your Full Losses Matter",
+        "desc": "California doesn't cap non-economic damages like pain and suffering in most car accident cases, so a thorough evaluation of what you've been through — not just medical bills — can matter for your claim. Skipping legal advice may mean settling for less than what your situation actually reflects."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's usually best to avoid giving a recorded statement until you've spoken with an attorney. Insurance adjusters are trained to ask questions that can be used to minimize your claim later. An independent attorney can advise you on what, if anything, you should say."
+      },
+      {
+        "question": "What if my crash happened on a road maintained by the city or Caltrans?",
+        "answer": "Claims involving government-maintained roads, including some stretches near Front Street or Metz Road, often carry a much shorter filing deadline — sometimes just six months. It's important to get this checked quickly so you don't lose the ability to file at all."
+      },
+      {
+        "question": "How does LawProactive work, exactly?",
+        "answer": "LawProactive is a free connection service, not a law firm. We help match you with an independent personal injury attorney in the Monterey County area who works on contingency, meaning they only get paid if you recover money. There's no cost or obligation to see if it's a fit."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "san-mateo product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Product Liability Lawyer in San Mateo, CA | LawProactive",
+    "metaDescription": "Hurt by a defective product in San Mateo? LawProactive is a free service that connects you with an independent California product liability attorney."
+  },
+  "hero": {
+    "subtitle": "When a product fails in San Mateo, California's strict liability rules can put the burden on the maker, not on you. We connect you, at no cost, with an independent attorney who handles defective product claims."
+  },
+  "about": {
+    "title": "San Mateo Product Liability Claims",
+    "longDescription": "Defective products rarely announce themselves. A car seat latch gives way on S El Camino Real, a lithium battery overheats on a nightstand, a pressure cooker lid releases early, or an airbag deploys wrong during a rear-end collision on SR-92. When that happens in San Mateo, the injured person is usually left holding both the damaged item and a stack of medical bills. California law treats these cases differently from ordinary negligence claims. Under strict liability, you generally do not have to prove the manufacturer was careless. What matters is whether the product had a design, manufacturing, or warning defect and whether that defect caused your injury. Responsibility can reach the maker, the distributor, and the store in San Mateo County that sold it. LawProactive is not a law firm. We are a free service that connects San Mateo residents with an independent personal injury attorney who handles product cases on contingency, so there is no fee unless there is a recovery. The first step is simple: keep the product, keep the packaging, and reach out.",
+    "commonInjuriesTitle": "Injuries Commonly Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, chargers, and appliances",
+      "Deep cuts and lacerations from tools or shattered components",
+      "Crush injuries and amputations from machinery guard failures",
+      "Head and spinal injuries when helmets, seats, or restraints fail",
+      "Poisoning or chemical exposure from mislabeled household goods",
+      "Choking and internal injuries from defective children's products"
+    ],
+    "ctaText": "Keep the product. Let us connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why San Mateo Residents Use LawProactive for Product Claims",
+    "items": [
+      {
+        "title": "Strict liability works in your favor",
+        "desc": "In California you generally only need to show the product was defective and that the defect caused your injury. The attorney you are connected with knows how to frame a design, manufacturing, or warning defect claim without proving the company was negligent."
+      },
+      {
+        "title": "Every link in the chain can be accountable",
+        "desc": "Manufacturers, distributors, and the San Mateo retailer that sold the item may all share responsibility. An independent attorney can sort out who belongs in the claim instead of leaving you to guess."
+      },
+      {
+        "title": "Evidence preservation from day one",
+        "desc": "The product itself is often the single most important piece of evidence, and it is easy to lose or throw away. We connect you quickly so an attorney can advise on keeping the item, the packaging, and any receipts before anything disappears."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag or seatbelt failed in a crash on US-101 in San Mateo. Is that a car accident case or a product case?",
+        "answer": "It can be both. San Mateo recorded 386 injury collisions in 2025, and in some of them a safety component did not perform as designed, which opens a separate strict liability claim against the manufacturer alongside any claim against the other driver. Do not let the vehicle be scrapped or repaired until an attorney has had a chance to look at it."
+      },
+      {
+        "question": "Do I have to prove the company was careless?",
+        "answer": "Generally, no. California product liability often runs on strict liability, meaning the focus is on whether the product had a design, manufacturing, or warning defect and whether that defect caused your injury. Negligence can still be pleaded, but it is not the only path."
+      },
+      {
+        "question": "I bought the product at a store in San Mateo, not from the manufacturer. Can I still bring a claim?",
+        "answer": "Yes. In California, retailers and distributors can be held liable for a defective product along with the company that made it. Keep your receipt or order confirmation if you have it, and hold onto the product so an attorney can evaluate the full chain of sale."
+      }
+    ]
+  }
+}

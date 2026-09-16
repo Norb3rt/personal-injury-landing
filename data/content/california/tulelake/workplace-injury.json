@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "tulelake workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tulelake Workplace Injury Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt on the job in Tulelake, CA? LawProactive connects you free with an independent injury attorney to review workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Injured at work in Tulelake? We connect you, at no cost, with an independent attorney who can explain what workers' compensation covers and whether a separate claim against a third party exists."
+  },
+  "about": {
+    "title": "Tulelake Workplace Injury Claims",
+    "longDescription": "Tulelake is a town of about 950 people in Siskiyou County, and much of the work here is physical. A bad day on the job can mean a fall from farm equipment, a back injury from lifting, or a wreck while driving for work along South Main Street or Ridgeview Street. California handles these situations in two lanes. Workers' compensation covers medical care and part of lost wages no matter who was at fault, and in most cases it is the only claim you can bring against your employer. The second lane opens when someone other than your employer contributed to the harm: a subcontractor on the same site, the owner of the property, the company that built a defective machine, or another driver. That kind of third-party claim is separate, and it carries California's two-year filing deadline. Sorting out which lane fits your situation is where an attorney helps. LawProactive is not a law firm. We are a free service that connects Tulelake workers with an independent personal injury attorney who takes these cases on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Tulelake Workplace Cases",
+    "commonInjuries": [
+      "Back and spinal strains from lifting or repetitive labor",
+      "Crush and amputation injuries from machinery",
+      "Falls from ladders, loading docks, or equipment",
+      "Heat illness and dehydration during outdoor work",
+      "Injuries from work-related vehicle collisions",
+      "Chemical exposure and respiratory harm"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for a free case review."
+  },
+  "whyChoose": {
+    "title": "Why Tulelake Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Claims, Not One",
+        "desc": "Workers' comp is usually your only remedy against the employer, but a negligent third party can still be held responsible. An attorney in our network can look at both paths together so nothing is left on the table."
+      },
+      {
+        "title": "Deadlines Kept in View",
+        "desc": "You have 30 days to report an injury to your employer and two years to file a third-party injury claim. We help you get connected quickly so those windows don't slip by."
+      },
+      {
+        "title": "Protection From Retaliation",
+        "desc": "California law makes it illegal for an employer to punish you for reporting an injury or filing for benefits. If that is happening, an independent attorney can advise you on your options."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working a seasonal job at the Tulelake Fairgrounds but I'm not a fairgrounds employee. Who is responsible?",
+        "answer": "That depends on who employed you and who controlled the conditions where you were hurt. Your own employer's workers' comp policy typically covers your medical care regardless of fault, while a different entity, such as a property owner or another contractor working the same event, may face a separate third-party claim if its negligence caused the injury. An attorney can sort out the layers, which matters in small-town settings where several parties share one space."
+      },
+      {
+        "question": "Do I still have a case if my crash on South Main Street happened while I was on the clock?",
+        "answer": "Often, yes. Being injured while driving for work usually puts you inside workers' compensation for your medical bills and wage loss. If another driver caused the collision, you may also have a personal injury claim against that driver, and the two-year deadline applies to it. Because Tulelake recorded zero injury collisions in 2022, these cases are uncommon locally, but the rules are the same."
+      },
+      {
+        "question": "My employer told me not to report the injury. What should I do?",
+        "answer": "Report it anyway, in writing, and do it within 30 days. California prohibits employers from retaliating against workers who report injuries or seek benefits, so being told to stay quiet is a warning sign, not a rule you have to follow. Then reach out to us; LawProactive can connect you free with an independent attorney who works on contingency."
+      }
+    ]
+  }
+}

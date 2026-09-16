@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "san-marcos city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Marcos, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in San Marcos? Get connected free to an independent injury attorney serving San Diego County. 2 years to file in California. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on SR-78, hit while walking, or hurt in a fall on someone else's property, LawProactive will connect you with an independent personal injury attorney at no cost. We serve San Marcos and the rest of San Diego County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Marcos, California",
+    "longDescription": "San Marcos sits along SR-78, and a lot of daily life here happens in the lanes and turn pockets that branch off it: W San Marcos Boulevard, S Rancho Santa Fe Road, N Twin Oaks Valley Road. Those four corridors also appear most often in public collision records for the city. In 2025, the most recent final reporting year, San Marcos logged 270 injury collisions. Those crashes left 386 people injured, and 3 people died. Reports tend to bunch up on Friday evenings, roughly between 5 and 7 p.m., when commuters and weekend traffic overlap. If one of those collisions was yours, the weeks afterward can feel like a second job: medical appointments, insurance calls, a car that may not be drivable, paychecks that stop arriving. LawProactive exists to take one task off that list. We are a free service, not a law firm. We connect people injured in San Marcos with an independent personal injury attorney who handles cases in San Diego County. There is no charge for the connection, and the attorneys in our network work on contingency, so you pay no fee unless your case produces a recovery. You describe what happened; we help you reach someone who can evaluate it. Whether to move forward is entirely your call.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From San Marcos Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway stop-and-go collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back and spinal disc injuries",
+      "Knee, hip, and ankle damage from pedestrian or bicycle impacts",
+      "Scarring and soft-tissue injuries from slips, falls, and dog bites"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your San Marcos Claim",
+    "items": [
+      {
+        "title": "You generally have two years, but not always",
+        "desc": "California gives most injury claims a two-year filing window from the date of the injury. If a city, county, or state agency may be responsible, that window can shrink to as little as six months, which is one reason to talk to an attorney early."
+      },
+      {
+        "title": "Sharing some blame doesn't end your claim",
+        "desc": "California follows pure comparative fault. If you were partly responsible for a crash on W San Marcos Boulevard, your recovery may be reduced by your share, but it isn't wiped out."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages in ordinary cases",
+        "desc": "For a typical injury claim in California, there is no statutory ceiling on non-economic damages like pain, suffering, and loss of enjoyment of life. An attorney can help document what the injury has actually cost you beyond the bills."
+      },
+      {
+        "title": "Contingency means no upfront legal fees",
+        "desc": "Attorneys in the LawProactive network take injury cases on contingency. You pay nothing to start, and no attorney fee is owed unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what I'm supposed to say.",
+      "My car is totaled and I still have to get to work in Escondido every morning.",
+      "The ER bill came, and I'm not sure who is actually responsible for paying it.",
+      "I'm scared that talking to a lawyer will cost money I don't have right now."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in San Marcos tend to happen, according to public records?",
+        "answer": "Public-record collision counts for San Marcos are highest along SR-78, W San Marcos Boulevard, S Rancho Santa Fe Road, and N Twin Oaks Valley Road. These are simply the corridors with the most reported crashes, which tracks with how much traffic they carry. Reports also cluster on Fridays between roughly 5 and 7 p.m. If your crash happened somewhere else in town, that has no bearing on whether you can pursue a claim."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We link people injured in San Marcos with an independent personal injury attorney who practices in San Diego County. The attorney you speak with, not LawProactive, provides legal advice and handles your case."
+      },
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "For most injury claims, California allows two years from the date of the injury to file a lawsuit. Claims against a government entity, such as a city bus or a poorly maintained public roadway, often require a formal claim within six months. Because those deadlines are strict, it's worth getting your situation reviewed sooner rather than later."
+      },
+      {
+        "question": "What if the police report says I was partly at fault?",
+        "answer": "California uses pure comparative fault, so partial responsibility reduces your recovery rather than eliminating it. If you are found 30 percent at fault, for example, your compensation would be reduced by that 30 percent. A police report is also not the final word; an attorney can gather evidence that may tell a fuller story."
+      },
+      {
+        "question": "What will it cost me to get connected and talk to an attorney?",
+        "answer": "Nothing. LawProactive's connection is free, and the attorneys in our network work on contingency. That means you pay no attorney fee unless your case results in a recovery, and the fee terms are explained to you in writing before you agree to anything."
+      }
+    ]
+  }
+}

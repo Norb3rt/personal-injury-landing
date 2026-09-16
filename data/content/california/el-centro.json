@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "el-centro city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Centro, CA Injury Lawyer Connection | Free Review",
+    "metaDescription": "Hurt in Imperial County? Get connected free to an independent El Centro injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Imperial Avenue or injured in a fall or workplace accident, we can connect you free of charge with an independent attorney serving Imperial County."
+  },
+  "about": {
+    "title": "Personal Injury Help in El Centro, California",
+    "longDescription": "El Centro sits at the center of Imperial County, and like any city of its size, its roads see their share of collisions. In the most recent full year on record, El Centro logged 63 injury collisions, with 83 people hurt and 2 lives lost in traffic crashes. Public crash records show reports tend to cluster on Fridays between 1 and 3 p.m., and corridors like Imperial Avenue, 4th Street, Main Street, and La Brucherie Road show up repeatedly in these counts — not because any one of them is inherently unsafe, but simply because they carry heavy daily traffic. If you were hurt in a crash on one of these roads, or in any other kind of accident around El Centro, you may be dealing with medical bills, lost income, and a lot of uncertainty about what happens next. LawProactive is a free service that helps injured people in El Centro get connected with an independent personal injury attorney. We are not a law firm, we don't provide legal advice, and we never charge a fee to make the connection. Attorneys in our network work on contingency, meaning there's no fee unless they recover money on your behalf. Reaching out costs nothing and starts with a conversation about what happened to you.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken or fractured bones",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip and fall accidents"
+    ],
+    "ctaText": "Tell us what happened — it's free to connect with an attorney."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity is involved, that window can shrink to as little as six months, so it's worth finding out where you stand sooner rather than later."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Claim",
+        "desc": "California follows a pure comparative fault rule, meaning even if you were partly responsible for what happened, you may still be able to recover compensation — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering, so your recovery isn't artificially limited to medical bills and lost wages alone."
+      },
+      {
+        "title": "You Don't Pay Unless You Recover",
+        "desc": "Attorneys connected through LawProactive work on contingency, which means legal fees only apply if there's a settlement or award in your favor. There's no upfront cost to get advice about your situation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling overwhelmed about how much time is left to take action",
+      "Wondering if being partly at fault means giving up on a claim"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in El Centro?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If your injury involved a government entity or vehicle, that deadline can be much shorter, sometimes just six months, so it helps to get information early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means being partially responsible doesn't automatically bar you from recovering compensation. Your recovery may simply be reduced by the percentage of fault assigned to you."
+      },
+      {
+        "question": "Where do crashes tend to cluster in El Centro?",
+        "answer": "Public crash records show that reported collisions in El Centro tend to occur most often on Fridays between 1 and 3 p.m., with counts concentrated along Imperial Avenue, 4th Street, Main Street, and La Brucherie Road. These are simply where collision reports have been recorded most frequently, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't provide legal representation ourselves, and there's no cost to use our service to find an attorney."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "There's no cost to connect with an attorney through our service, and attorneys in our network work on contingency. That means they only get paid if you recover compensation, so there's no upfront fee to worry about."
+      }
+    ]
+  }
+}

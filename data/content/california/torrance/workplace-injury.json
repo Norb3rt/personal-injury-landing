@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "torrance workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Torrance Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Torrance? LawProactive is a free service that connects you with an independent workplace injury attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A work injury in Torrance can leave you sorting out workers' comp, medical bills, and questions about who else might be responsible. LawProactive connects you, at no cost, with an independent attorney who handles workplace injury claims in Los Angeles County."
+  },
+  "about": {
+    "title": "Torrance Workplace Injury Claims",
+    "longDescription": "Work in Torrance looks different from block to block. Some people spend their shifts at a desk near Hawthorne Boulevard; others operate equipment, climb ladders, or spend the day behind the wheel on I-405, Crenshaw Boulevard, or Pacific Coast Highway making deliveries or traveling between job sites. When something goes wrong, most workers assume workers' compensation is the whole story. Often it is, since California treats it as the usual remedy against your employer no matter who was at fault. Yet a separate injury claim may exist when a negligent third party is involved: a subcontractor on a shared site, the owner of the property where you were working, the maker of a defective tool, or another driver. That distinction matters in a city that recorded 329 injury collisions and 490 people injured in 2025, because a crash during work hours can raise both kinds of claims at once. LawProactive is not a law firm. We simply connect you with an independent attorney who can review what happened and explain your options.",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, or loading docks",
+      "Back, shoulder, and lifting injuries",
+      "Crush and machinery injuries",
+      "Burns and chemical exposure",
+      "Collisions while driving for work",
+      "Repetitive strain and overuse injuries"
+    ],
+    "ctaText": "Talk through your Torrance work injury with an independent attorney"
+  },
+  "whyChoose": {
+    "title": "Why Torrance Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Someone looks past the comp claim",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but a subcontractor, property owner, equipment manufacturer, or another driver may owe you separately. The attorney you're connected with can check whether a third-party claim applies to your situation."
+      },
+      {
+        "title": "Deadlines get tracked early",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and any third-party injury claim carries a two-year deadline. Getting connected sooner leaves room to gather records and preserve evidence."
+      },
+      {
+        "title": "No cost to you, and protection from retaliation",
+        "desc": "Our connection service is free, and network attorneys work on contingency, so there is no fee unless there is a recovery. Retaliating against a worker for reporting an injury is illegal in California, and an attorney can explain what to do if your employer pushes back."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on Hawthorne Boulevard while driving for my job. Is that workers' comp or a car accident claim?",
+        "answer": "It can be both. If you were on the clock, workers' compensation generally covers your medical care and part of your lost wages regardless of fault. If another driver caused the collision, that driver is a third party, which may support a separate injury claim with a two-year deadline. An attorney can help you understand how the two interact so one doesn't undercut the other."
+      },
+      {
+        "question": "Do I have to tell my employer about the injury right away?",
+        "answer": "California asks you to report a work injury to your employer within 30 days. Doing it in writing and keeping a copy helps protect your claim. If your employer treats you differently afterward, that kind of retaliation is illegal, and it is worth mentioning to the attorney you're connected with."
+      },
+      {
+        "question": "Is LawProactive a law firm in Torrance?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. The attorney evaluates your case directly, and network attorneys work on contingency, meaning no fee unless there is a recovery."
+      }
+    ]
+  }
+}

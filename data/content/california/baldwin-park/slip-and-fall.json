@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "baldwin-park slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Baldwin Park Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on someone else's property in Baldwin Park? LawProactive connects you, free, with an independent premises liability attorney."
+  },
+  "hero": {
+    "subtitle": "A wet grocery aisle, a broken step, a dim parking lot off Ramona Boulevard — if a property hazard put you on the ground in Baldwin Park, we can connect you with an independent attorney at no cost to you."
+  },
+  "about": {
+    "title": "Baldwin Park Slip & Fall and Premises Liability Claims",
+    "longDescription": "Falls rarely feel like a legal matter in the moment. You get up embarrassed, brush off the concern of the people around you, and only later realize the wrist or hip is not going to settle down on its own. In Baldwin Park, with its stores and restaurants lining Baldwin Park Boulevard, Ramona Boulevard and Francisquito Avenue, plenty of these injuries happen on property someone else was responsible for maintaining. California premises liability turns on a question of notice: did the owner or business know about the hazard, or should they have known, and did they fail to fix it or warn people? Answering that takes evidence. Photos of the spill or defect, the names of witnesses, your own written account, and, above all, the property's surveillance footage, which is often recorded over within days. LawProactive is a free connection service, not a law firm. We put Baldwin Park residents in touch with an independent attorney who handles premises cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Common in Baldwin Park Premises Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow and shoulder fractures",
+      "Concussions and head trauma",
+      "Herniated discs and lower back injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Ankle sprains and fractures"
+    ],
+    "ctaText": "Tell us what happened. It's free, and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Baldwin Park Residents Use LawProactive",
+    "items": [
+      {
+        "title": "Notice is the whole case, and it needs proof",
+        "desc": "Because you generally must show the owner knew or should have known about the hazard, the attorney we connect you with will focus early on records like inspection logs, prior complaints and how long the condition had been there."
+      },
+      {
+        "title": "Video disappears fast",
+        "desc": "Most Baldwin Park businesses run cameras, but footage is commonly overwritten on a short cycle. Getting a preservation demand out quickly can be the difference between a documented fall and a he-said, she-said."
+      },
+      {
+        "title": "Deadlines vary, and shared blame doesn't end a claim",
+        "desc": "California gives most fall victims two years to file, but claims against a public entity move on a much shorter clock. And under pure comparative fault, being partly responsible reduces a recovery rather than eliminating it."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a lifted sidewalk in Baldwin Park. Is the city responsible?",
+        "answer": "It depends on who owns and maintains that stretch and whether the defect was significant enough that the responsible party should have addressed it. If a public entity such as the City of Baldwin Park or Los Angeles County is involved, you generally have to file a formal government claim within six months, far sooner than the standard two-year deadline. Photographing the sidewalk with something for scale and noting the exact location right away helps an attorney sort out ownership quickly."
+      },
+      {
+        "question": "The store says I wasn't watching where I was going. Do I still have a case?",
+        "answer": "Possibly. California uses pure comparative fault, meaning a court or insurer assigns percentages of responsibility rather than treating the claim as all or nothing. If you were partly at fault, your compensation is reduced by that share, not wiped out. The key question remains whether the store knew or should have known about the hazard and failed to correct it or warn you."
+      },
+      {
+        "question": "What should I do in the first few days after a fall?",
+        "answer": "Get medical care and describe exactly how you fell so the record ties the injury to the incident. Report the fall to the property owner or manager and ask for a copy of any incident report. Write down what caused the fall, take photos if you can, collect witness contact information, and keep the shoes you were wearing. Then reach out, and we can connect you with an independent attorney who can request the surveillance video before it is erased."
+      }
+    ]
+  }
+}

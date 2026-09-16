@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "susanville product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Susanville Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Susanville? Free connection to an independent product liability attorney in Lassen County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a faulty product injures someone in Susanville, the path to answers shouldn't be complicated. LawProactive can connect you with an independent Lassen County attorney who handles defective product claims, at no cost to start."
+  },
+  "about": {
+    "title": "Susanville Product Liability Claims",
+    "longDescription": "A defective product can turn an ordinary day in Susanville into a trip to the hospital, whether it's a malfunctioning tool used on Paul Bunyan Road job sites, a faulty appliance in a home near Main Street, or unsafe farm equipment out toward Skyline Road. California law generally allows injured people to pursue a strict liability claim, meaning the focus is on whether the product itself was defective, not on proving the manufacturer was careless. That distinction matters in a smaller community like Susanville, where getting timely medical care and understanding your options can feel overwhelming without local guidance. LawProactive doesn't practice law; we simply connect you with an independent attorney in the network who reviews defective product cases and can explain what preserving the product and documenting your injury might mean for your situation. There's no cost to get connected, and attorneys work on contingency, so you owe nothing unless there's a recovery.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or electronics",
+      "Lacerations or amputations from faulty power tools",
+      "Injuries from collapsing furniture or unstable equipment",
+      "Chemical exposure from mislabeled or unsafe products",
+      "Crush injuries from defective machinery or farm equipment",
+      "Fractures from products that failed under normal use"
+    ],
+    "ctaText": "Get connected with an independent attorney today, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Strict Liability Can Work in Your Favor",
+    "items": [
+      {
+        "title": "No Need to Prove Negligence",
+        "desc": "Under California's strict liability approach, you generally don't have to show the manufacturer was careless, just that the product was defective and caused harm."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, which may widen the paths available to you."
+      },
+      {
+        "title": "The Product Itself Is Evidence",
+        "desc": "Keeping the defective item intact, rather than discarding or repairing it, can be important since it may serve as central proof of a design, manufacturing, or warning defect."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the manufacturer was negligent?",
+        "answer": "Not necessarily. California's strict liability standard generally focuses on whether the product itself was defective in design, manufacturing, or warnings, and whether that defect caused your injury. An independent attorney can review your specific facts to see how this standard applies."
+      },
+      {
+        "question": "What should I do with the product that injured me?",
+        "answer": "Try to preserve it exactly as it was at the time of the injury, including packaging, instructions, and any remaining parts. This can be valuable evidence, so avoid repairing or discarding it before speaking with an attorney."
+      },
+      {
+        "question": "Is a defective product claim different in a smaller area like Susanville?",
+        "answer": "The legal standards are the same statewide, but local factors like where the product was purchased, used, or repaired in Lassen County can matter. An independent attorney familiar with the area can help sort out those details."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney in our network. Attorneys work on contingency, meaning there's no fee unless you receive a recovery."
+      }
+    ]
+  }
+}

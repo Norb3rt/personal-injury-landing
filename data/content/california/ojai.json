@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "ojai city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ojai, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Ojai, Ventura County? Get connected free to an independent attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Ojai Avenue or injured elsewhere in town, we connect you free of charge with an independent attorney serving Ventura County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Ojai, California",
+    "longDescription": "Ojai's small-town feel doesn't mean its roads are free of risk. In the most recent full year on record, Ojai saw 32 injury collisions and 42 people hurt, with no traffic deaths reported. Corridors like Rt 150, Grand Avenue, Ojai Avenue, and Cuyama Road carry the town's steady flow of local and visitor traffic, and public crash records show these are among the higher-volume roads for reported collisions. Weekend afternoons, especially Saturdays between 3 and 5 p.m., tend to see more reported crashes than other times, likely tied to errands, outings, and tourist traffic through the valley. If you were hurt in a wreck anywhere in Ojai, it helps to understand your options before time limits or insurance pressure make the decision for you. LawProactive is a free service that connects injured people with an independent personal injury attorney in the area — we are not a law firm ourselves, and attorneys in our network only get paid if you recover compensation. There's no cost to find out where you stand.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Deep cuts and lacerations",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out your options with a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity was involved, that window can shrink to as little as six months, so it pays to act early."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on What You've Lost Emotionally",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means your claim isn't artificially limited just because your losses go beyond medical bills."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront fee to get advice or representation. They only get paid if you win or settle your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling like the crash was partly your fault and you have no options",
+      "Running out of time to file before a deadline you didn't know existed"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Ojai?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If your injury involved a government agency or vehicle, that deadline can be as short as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover damages even if you contributed to the crash. Your total compensation is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to happen in Ojai?",
+        "answer": "Public collision records show that Rt 150, Grand Avenue, Ojai Avenue, and Cuyama Road are among the higher-volume corridors for reported crashes in Ojai. Reports also cluster on Saturday afternoons between 3 and 5 p.m., though these are simply neutral counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency. That means they only collect a fee if you actually recover compensation."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In typical personal injury cases in California, there's no cap on non-economic damages such as pain and suffering. This can matter a lot if your injuries have affected your daily life beyond just medical costs."
+      }
+    ]
+  }
+}

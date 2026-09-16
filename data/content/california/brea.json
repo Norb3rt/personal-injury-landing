@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "brea city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Brea, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Brea? Free service connects you with an independent Orange County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash on SR-57 or suffered a fall or injury elsewhere in Brea, we'll connect you with an independent attorney at no cost, serving people throughout Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Brea, California",
+    "longDescription": "Brea sits along the SR-57 corridor, where traffic moving through Imperial Highway and Lambert Road creates a steady flow of commuters, shoppers, and local drivers every day. In the most recent full year on record, Brea saw 211 injury collisions, 304 people injured, and 3 traffic deaths — numbers that reflect how often ordinary trips around this city of roughly 41,944 residents can turn into something far more serious. If you were hurt in a crash, a fall, or another type of accident in Brea, it helps to understand your options quickly, since California generally gives you two years to file a personal injury claim — though claims against a government entity can require action in as little as six months. LawProactive is a free service, not a law firm. We don't handle your case ourselves; instead, we connect you with an independent personal injury attorney who can review what happened and explain your choices. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. There's no obligation to move forward, and reaching out costs nothing.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Act Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline Is Firm",
+        "desc": "You generally have two years from the date of injury to file a personal injury claim in California. Claims involving a government agency can require notice in as little as six months, so timing matters."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Bar You",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you may still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Certain Damages",
+        "desc": "In most ordinary injury cases, California places no cap on non-economic damages such as pain and suffering, unlike some other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no fee owed out of pocket to get started."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if you waited too long to take action",
+      "Fearing that being partly at fault means you get nothing",
+      "Feeling unsure whether an attorney will even take your case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Brea?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a claim. If your claim involves a government entity, such as a public road hazard, that window can shrink to as little as six months, so it's wise to act promptly."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you were partially at fault. Your recovery would simply be reduced by your percentage of responsibility."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Brea?",
+        "answer": "Public-record collision counts show higher volumes along corridors like SR-57 Southbound, Imperial Highway, and Lambert Road. These are simply areas with more reported collision activity, not a judgment about any particular road or location."
+      },
+      {
+        "question": "Does LawProactive charge any fees?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney. We are not a law firm, and there's no cost to you for using our service to find legal help."
+      },
+      {
+        "question": "Will I have to pay the attorney upfront?",
+        "answer": "Attorneys in our network work on a contingency basis, meaning they only collect a fee if you receive a settlement or award. There's no upfront payment required to have your case reviewed."
+      }
+    ]
+  }
+}

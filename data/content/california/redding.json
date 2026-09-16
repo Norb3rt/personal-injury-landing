@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "redding city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Redding, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Redding or Shasta County? Most injury claims give you 2 years to file. Connect free with an independent attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end crash on Hilltop Drive, a fall at a store, or a dog bite has left you hurt, LawProactive will connect you at no cost with an independent injury attorney. We serve Redding and all of Shasta County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Redding, California",
+    "longDescription": "Redding moves the way it always has: across Hilltop Drive to the shopping centers, down Churn Creek Road toward the south side, along Route 273 through the older commercial stretch, and over Hartnell Avenue between neighborhoods. Public records for 2025, the most recent final year, list 401 injury collisions in the city, 531 people hurt, and 7 traffic deaths. Those same records show reports rising on Friday evenings between 5 and 7 p.m., and they place Churn Creek Road, Route 273, Hilltop Drive, and Hartnell Avenue at the top of the collision counts. In a town of about 91,500 people spread out along the Sacramento River, most residents depend on a car to reach work, the doctor, or a walk across the Sundial Bridge. A wreck, a fall, or a bite can take that independence away overnight. LawProactive is a free service, not a law firm. We connect people in Redding and the rest of Shasta County with an independent personal injury attorney who can review what happened and explain where things stand. There is no charge to be connected, and the attorneys in our network work on contingency, meaning you owe no fee unless there is a recovery. California gives most claimants two years to act, though claims against a public agency can require notice in as little as six months.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Redding",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken wrists, ankles, and collarbones",
+      "Concussions and other head injuries",
+      "Back injuries and herniated discs",
+      "Dog bite wounds and scarring",
+      "Knee and shoulder damage from slips and falls"
+    ],
+    "ctaText": "Talk through your situation with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Redding Claim",
+    "items": [
+      {
+        "title": "Two Years to File, Usually",
+        "desc": "Most personal injury claims in California must be filed within two years of the injury. If a city, county, or state agency is involved, the deadline to give notice can be as short as six months."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Claim",
+        "desc": "California follows pure comparative fault, so being partly to blame reduces your recovery in proportion but does not wipe it out. Even a driver who was 40 percent responsible can still pursue the other 60 percent."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California does not limit non-economic damages such as pain, lost enjoyment, and emotional distress. The value rests on the facts of your case, not a statutory ceiling."
+      },
+      {
+        "title": "Contingency Fees Only",
+        "desc": "Attorneys in the LawProactive network are paid a percentage only if there is a recovery. If nothing is recovered, you owe no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work while my arm heals and the bills are piling up.",
+      "They're saying the crash was partly my fault.",
+      "I don't have money up front to hire anyone."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions cluster in Redding?",
+        "answer": "According to public-record collision counts, Churn Creek Road, Route 273, Hilltop Drive, and Hartnell Avenue carry the highest volumes in the city. The same records show reported crashes peaking on Fridays between roughly 5 p.m. and 7 p.m. These are simply counts of where and when incidents were reported; they describe traffic patterns, not blame."
+      },
+      {
+        "question": "How long do I have to bring an injury claim in Shasta County?",
+        "answer": "For most injury claims in California, the statute of limitations is two years from the date of the injury. If your claim is against a government entity, such as a city vehicle or a poorly maintained public property, you may need to file a claim within six months. An attorney can pin down the deadline that applies to you."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not charge you to be matched with an independent attorney. The attorneys we connect you with work on contingency, so there is no fee unless there is a recovery."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses pure comparative fault. Your recovery is reduced by your share of responsibility but is not eliminated, even if you were mostly at fault. An attorney can help sort out how fault is likely to be assigned in your situation."
+      },
+      {
+        "question": "What should I do in the first few days after getting hurt?",
+        "answer": "Get medical care and keep every record, including discharge papers, prescriptions, and bills. Photograph the scene, your injuries, and any property damage if you can, and write down the names of witnesses. Consider speaking with an attorney before giving a recorded statement to an insurance adjuster."
+      }
+    ]
+  }
+}

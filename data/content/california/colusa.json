@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "colusa city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colusa, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Colusa County? Get connected free with an independent injury attorney. 2 years to file in CA. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Rt 20 or injured elsewhere in town, we'll connect you free with an independent attorney serving Colusa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Colusa, California",
+    "longDescription": "Colusa is a small city, but its streets still see their share of collisions. In the most recent full year on record, 6 injury collisions left 7 people hurt on local roads, with no traffic deaths reported. Rt 20, Fremont Street, Bridge Street, and Market Street see the most reported crash activity, and Fridays around midday tend to bring more incidents than other times of the week. If you were hurt in one of these collisions, or in any other kind of accident around Colusa, sorting out what comes next can feel overwhelming — medical visits, missed work, and insurance calls all at once. LawProactive is a free service that connects injured people with an independent personal injury attorney. We are not a law firm and we don't handle your case ourselves; we simply help you get in touch with an attorney who can review what happened and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. There's no obligation to move forward, and reaching out costs you nothing.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Colusa Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have Limited Time to Act",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity is involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still pursue compensation. Your recovery is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Your Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages like pain and suffering in a standard injury case. That means your compensation isn't artificially limited by state law."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That structure lets you focus on healing instead of worrying about legal bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while you're unable to work",
+      "Fearing an insurance adjuster will pressure you into a lowball offer",
+      "Not knowing if you waited too long to take action",
+      "Feeling like partial fault means you have no case at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much time do I have to file a claim in California?",
+        "answer": "In most personal injury cases, California law gives you two years from the date of the accident to file a lawsuit. If a government entity is involved, that deadline can shrink to as little as six months, so it's important to act promptly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some blame. Your total recovery is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Colusa?",
+        "answer": "Public crash records show that Rt 20, Fremont Street, Bridge Street, and Market Street have the highest reported collision counts in Colusa. Reported crashes also tend to peak on Fridays between roughly noon and 2 p.m. These are neutral public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no upfront cost or obligation to move forward."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We're a free connection service that helps injured people in Colusa get in touch with an independent personal injury attorney who can evaluate their situation."
+      }
+    ]
+  }
+}

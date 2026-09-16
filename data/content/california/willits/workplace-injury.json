@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "willits workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Willits Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Willits? Get connected free with an independent CA attorney who handles workers' comp and third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working near Rt 101, Rt 20, or anywhere else in Willits, LawProactive can connect you at no cost with an independent attorney who understands both workers' comp and third-party claims under California law."
+  },
+  "about": {
+    "title": "Willits Workplace Injury Claims",
+    "longDescription": "Willits sits along a stretch of Mendocino County where logging, agriculture, warehousing, and roadside commerce along Rt 101 and Rt 20 keep the local economy moving — and workers exposed to real physical risk. When someone gets hurt on the job here, the path forward usually starts with workers' compensation, since California generally treats that system as the exclusive remedy against an employer regardless of who was at fault. But that's not always the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate third-party claim may be possible alongside the workers' comp process. LawProactive doesn't practice law or handle claims directly — we simply connect injured workers in Willits with an independent, contingency-based attorney who can look at the details and explain what options actually apply to their situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or hauling",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Machinery and equipment-related injuries",
+      "Repetitive motion and joint damage",
+      "Vehicle collisions during work-related driving",
+      "Burns or chemical exposure on job sites"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Willits Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Always Obvious",
+        "desc": "California workers' comp usually bars suing your employer, but a negligent third party like a subcontractor or driver can still be held separately accountable. An attorney can help sort out whether that applies to your case."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California workers generally have 30 days to report a workplace injury to their employer, and missing that window can complicate a claim. Getting matched with an attorney early helps protect that timeline."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against a worker for reporting an injury or filing a claim. If that's happened to you, an independent attorney can explain what recourse California law provides."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I already filed a workers' comp claim in Willits — can I still talk to an attorney?",
+        "answer": "Yes. Workers' comp and a third-party injury claim aren't mutually exclusive; they run on separate tracks. An independent attorney can review your situation and tell you whether a third party, like an equipment maker or another driver, may share responsibility."
+      },
+      {
+        "question": "What if my injury happened on Rt 101 or Rt 20 while working?",
+        "answer": "Work-related crashes on corridors like Rt 101 or Rt 20 can involve a driving third party, which may open up a claim beyond workers' comp. Given that Willits' recorded collisions tend to cluster around Thursday afternoons, timing and witness details can matter, so it's worth getting the facts documented early."
+      },
+      {
+        "question": "How long do I have to bring a third-party claim after a workplace injury?",
+        "answer": "In California, third-party injury claims generally carry a two-year deadline from the date of the injury. That's separate from the 30-day window for reporting the injury to your employer for workers' comp purposes, so it helps to understand both timelines."
+      }
+    ]
+  }
+}

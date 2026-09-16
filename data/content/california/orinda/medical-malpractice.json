@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "orinda medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Orinda Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Orinda, CA? Get connected free with an independent Contra Costa County medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Orinda went wrong, LawProactive can connect you with an independent Contra Costa County attorney who handles medical malpractice claims — free of charge to you."
+  },
+  "about": {
+    "title": "Orinda Medical Malpractice Claims",
+    "longDescription": "Orinda residents rely on a mix of local clinics and the larger hospital systems throughout Contra Costa County for everything from routine checkups to major surgery. Most visits go fine. But when a physician, surgeon, nurse, or hospital deviates from the accepted standard of care, the result can be a life-altering injury rather than a healed one. Because Orinda is a smaller community of roughly 19,000 people, many patients here are referred out to nearby Contra Costa or Alameda County facilities for specialized treatment, which can make sorting out where an error occurred more complicated. Medical malpractice cases in California are governed by strict rules — including tight deadlines and a required expert review — so patients often benefit from having someone who understands both the medical and legal sides of a claim look into what happened. LawProactive doesn't practice law itself; we simply connect you, at no cost, with an independent attorney in our network who can review your situation and explain your options.",
+    "commonInjuriesTitle": "Types of Medical Errors We See Referred",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors, including wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to treat or monitor a known condition"
+    ],
+    "ctaText": "Ask about your situation — connecting with an attorney is free and confidential."
+  },
+  "whyChoose": {
+    "title": "What Orinda Patients Should Know About MICRA",
+    "items": [
+      {
+        "title": "Strict, Unforgiving Deadlines",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to bring a claim. Missing that window can end a valid case before it starts, so early review matters."
+      },
+      {
+        "title": "A Required 90-Day Notice",
+        "desc": "Before filing suit, California law requires sending the healthcare provider a 90-day notice of intent. An attorney familiar with this step can help make sure it's done correctly and on time."
+      },
+      {
+        "title": "A Rising Damages Cap and Expert Requirement",
+        "desc": "California caps non-economic damages, though that cap increases annually under current law, and cases almost always need a qualified medical expert to establish that care fell below the accepted standard. This is not a case type most people can piece together alone."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How do I know if what happened to me was actually malpractice?",
+        "answer": "A bad outcome by itself isn't proof of malpractice — the question is whether the provider deviated from the accepted standard of care and that deviation caused your injury. This usually requires a qualified medical expert to review the records. An attorney can help arrange that kind of review before you decide whether to move forward."
+      },
+      {
+        "question": "I live in Orinda but was treated at a hospital outside the city — does that matter?",
+        "answer": "Not for whether you can bring a claim. Because many Orinda residents are referred to larger facilities elsewhere in Contra Costa or neighboring counties, your case may simply need to be filed based on where the provider or facility is located. An attorney can sort out the right venue and provider details for you."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney in our network, and attorneys who take these cases typically work on contingency, meaning there's no fee unless you recover compensation. There's no obligation to move forward after speaking with someone."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "hayward city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hayward, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Hayward or elsewhere in Alameda County? You have 2 years to file. LawProactive connects you free with an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a freeway pileup left you with a back injury or a fall on someone's property broke a bone, we connect you with an independent personal injury attorney at no cost. Serving Hayward and all of Alameda County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Hayward, California",
+    "longDescription": "Hayward sits where the Nimitz Freeway, Mission Boulevard, and a dense grid of neighborhood streets carry roughly 158,000 residents through their daily routines. In 2025, the most recent finalized year on record, the city logged 474 injury collisions. Those crashes left 658 people hurt and took 6 lives. Public collision counts run highest along I-880 in both directions and along Mission Boulevard, and reports tend to cluster on Tuesdays between 5 p.m. and 7 p.m., when the evening commute is at its heaviest. A crash near Cal State East Bay or a fall in a shop along B Street can upend everything: medical bills, missed shifts, and calls from an insurer. LawProactive exists to take one task off your plate. We are not a law firm, and we do not give legal advice. We are a free service that connects you with an independent personal injury attorney who takes Alameda County cases. There is no charge for the connection, and the attorneys in our network work on contingency, which means no fee unless there is a recovery. Whether you were rear-ended on the freeway, hit while crossing Mission, or injured on someone else's property, you can find out where you stand without spending a dollar.",
+    "commonInjuriesTitle": "Injuries Hayward Residents Often Ask About",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end crashes",
+      "Concussions and other head trauma",
+      "Fractures from falls or pedestrian impacts",
+      "Knee and shoulder damage from motorcycle and bike collisions",
+      "Herniated discs and lower back injuries",
+      "Soft-tissue injuries that show up days later"
+    ],
+    "ctaText": "Tell us what happened and get connected with an attorney — free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Hayward Claim",
+    "items": [
+      {
+        "title": "The clock runs two years",
+        "desc": "California gives most injured people two years from the date of injury to file a lawsuit. If a city, county, or state agency is involved, that window can shrink to six months, so acting early matters."
+      },
+      {
+        "title": "Partial blame does not end your case",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not shut out entirely."
+      },
+      {
+        "title": "No ceiling on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages such as pain, lost enjoyment of life, and emotional distress."
+      },
+      {
+        "title": "You pay nothing up front",
+        "desc": "Attorneys in our network work on contingency. Their fee comes from any recovery, and if there is none, you owe them nothing for their work."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The ER bill arrived before I could even drive again.",
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I was partly at fault — does that mean I get nothing?",
+      "I can't afford a lawyer, and I don't know who to trust."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Hayward tend to happen?",
+        "answer": "Based on public collision records, the highest counts in Hayward are on I-880 (both northbound and southbound) and on Mission Boulevard. These are simply the corridors with the most reported crashes, largely because they carry the most traffic. Records also show reports peaking on Tuesdays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file after a Hayward accident?",
+        "answer": "For most personal injury claims in California, you have two years from the date you were hurt. If your claim involves a government entity, such as a crash with a city vehicle or a fall on public property, you may have only six months to file a claim. Talking to an attorney early keeps every option open."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match you with an independent personal injury attorney who handles cases in Alameda County, and that attorney, not us, represents you and gives you legal advice."
+      },
+      {
+        "question": "What does it cost to hire an attorney through your network?",
+        "answer": "Nothing out of pocket. The attorneys we connect you with work on contingency, meaning their fee is a percentage of any recovery. If your case does not result in a recovery, you do not owe an attorney fee."
+      },
+      {
+        "question": "The insurer says I was partly to blame. Should I give up?",
+        "answer": "Not necessarily. California uses pure comparative fault, so being partly responsible reduces what you can recover rather than eliminating it. An attorney can review the facts and explain how fault might be divided in your situation."
+      }
+    ]
+  }
+}

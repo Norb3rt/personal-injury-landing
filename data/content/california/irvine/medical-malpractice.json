@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "irvine medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Irvine Medical Malpractice Lawyer | LawProactive",
+    "metaDescription": "Hurt by a medical error in Irvine? Our free service connects Orange County patients with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a doctor, hospital, or clinic in Irvine made a preventable mistake that left you worse off, LawProactive can put you in touch with an independent attorney who reviews medical negligence claims under California's MICRA rules."
+  },
+  "about": {
+    "title": "Irvine Medical Malpractice Claims",
+    "longDescription": "Irvine is home to roughly 257,000 people, and a large share of them visit doctors, surgical centers, and specialty clinics in Orange County. Most of those visits go the way they should. When one does not — a scan that was read too quickly, a medication mixed up at discharge, a diagnosis that came months too late — the harm can be lasting, and the path forward is rarely obvious. California treats these claims differently from other injury cases. Under MICRA, you generally have one year from the date you discovered the harm, and no more than three years from the injury, to act. A 90-day notice must go to the provider before a lawsuit is filed. And a qualified medical expert is almost always needed to show that care fell below the accepted standard, because a poor outcome by itself is not malpractice. LawProactive is a free service, not a law firm. We connect Irvine patients and families with an independent attorney who handles these cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm We Commonly See in Irvine Malpractice Claims",
+    "commonInjuries": [
+      "Delayed or missed cancer and stroke diagnoses",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Infections tied to lapses in hospital care"
+    ],
+    "ctaText": "Ask a free question about your Irvine medical care"
+  },
+  "whyChoose": {
+    "title": "Why Irvine Patients Reach Out Through LawProactive",
+    "items": [
+      {
+        "title": "MICRA's Clock Runs Quietly",
+        "desc": "You generally have one year from discovering the harm, and never more than three years from the injury, so an early conversation protects your options while records are still fresh."
+      },
+      {
+        "title": "Notice and Expert Requirements Handled Early",
+        "desc": "California requires a 90-day pre-suit notice and, in nearly every case, a qualified medical expert; the attorneys we connect you with plan for both from the first review."
+      },
+      {
+        "title": "An Honest Read on Whether It's Malpractice",
+        "desc": "A bad result alone is not negligence under California law. An independent attorney can tell you plainly whether the care you received actually fell below the standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My surgery was at an Irvine clinic, but the complications were treated at a hospital elsewhere in Orange County. Who is responsible?",
+        "answer": "It is common for Irvine patients to move between a local outpatient center and a larger hospital across the county. Responsibility depends on where the standard of care was breached, and sometimes more than one provider shares in it. An attorney will gather records from every facility involved and have a medical expert sort out which decisions caused the harm. Because each provider must receive a 90-day notice, identifying all of them early matters."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "MICRA places a cap on non-economic damages such as pain and loss of enjoyment of life, and that cap increases every year under current law. Economic losses like medical bills, future care, and lost income are not subject to that cap. An attorney can explain how the cap applies to the year your claim is resolved. No one can promise a specific result."
+      },
+      {
+        "question": "I only recently learned my diagnosis was missed years ago. Is it too late?",
+        "answer": "Not necessarily. California's discovery rule generally gives you one year from the date you learned, or reasonably should have learned, of the injury and its likely cause. There is also an outer limit of three years from the injury itself, with narrow exceptions. Talking with an attorney soon is the only reliable way to know where your dates fall."
+      }
+    ]
+  }
+}

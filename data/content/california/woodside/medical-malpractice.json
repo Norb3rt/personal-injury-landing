@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "woodside medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Woodside Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for Woodside, CA patients and families navigating California's MICRA rules."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or medical procedure in Woodside left you or a loved one worse off, LawProactive can connect you with an independent attorney who handles California medical malpractice claims at no upfront cost."
+  },
+  "about": {
+    "title": "Woodside Medical Malpractice Claims",
+    "longDescription": "Woodside is a small, close-knit community in San Mateo County, and most residents drive into surrounding cities for hospital care, specialist visits, or surgery. When that care goes wrong — a delayed diagnosis, a surgical error, a medication mix-up — the aftermath can be confusing, especially with California's specific rules for these cases. Medical malpractice claims are handled differently than a typical injury case: California's MICRA law sets strict notice periods, expert requirements, and caps on certain damages. LawProactive is not a law firm, but we connect Woodside residents with independent attorneys who understand these rules and can review what happened at no cost to you. A poor medical result isn't automatically malpractice, but if a provider deviated from accepted medical standards, it's worth having someone knowledgeable look at your records. We help make that first connection so you can find out where you stand.",
+    "commonInjuriesTitle": "Types of Cases We Help Connect",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or baby",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your medical care."
+  },
+  "whyChoose": {
+    "title": "Why California's Malpractice Rules Matter",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to file. Missing that window can end a claim before it starts, so timing matters from day one."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before a lawsuit can be filed, California law requires sending the healthcare provider a formal notice at least 90 days in advance. An attorney familiar with this step can help make sure it's done correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a bad outcome alone isn't proof of malpractice, California cases almost always need a qualified medical expert to establish that the standard of care was breached. Connecting with an attorney early helps get that review process moving."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad medical outcome the same as malpractice?",
+        "answer": "No. Medicine involves risk, and not every complication or disappointing result means a provider was negligent. Malpractice requires showing the provider deviated from the accepted standard of care and that deviation caused harm, which is typically established through expert medical review."
+      },
+      {
+        "question": "How long do I have to bring a claim after care received in or near Woodside?",
+        "answer": "California generally requires filing within one year of discovering the injury, and no later than three years from when it occurred, whichever comes first. Because Woodside residents often receive care at hospitals outside the immediate area, it's worth confirming exactly where and when the treatment took place so the timeline is calculated correctly."
+      },
+      {
+        "question": "Are there limits on what I can recover in California?",
+        "answer": "California law caps certain non-economic damages, such as compensation for pain and suffering, and that cap adjusts upward each year under current law. Economic damages, like past and future medical costs or lost income, are generally not subject to that same cap."
+      },
+      {
+        "question": "Does LawProactive charge anything for this service?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and independent attorneys in the network typically work on contingency, meaning there's no fee unless there's a recovery."
+      }
+    ]
+  }
+}

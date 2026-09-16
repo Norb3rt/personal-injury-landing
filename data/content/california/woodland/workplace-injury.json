@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "woodland workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Woodland Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Woodland, CA? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Woodland, we can connect you at no cost with an independent attorney who understands both workers' compensation and third-party claims. Whether you work in the fields around Yolo County, a warehouse near I-5, or a shop off East Street, there are options worth understanding."
+  },
+  "about": {
+    "title": "Woodland Workplace Injury Claims",
+    "longDescription": "Woodland's economy runs on agriculture, food processing, warehousing, and the businesses that line E Main Street and Main Street, and workplace injuries here range from equipment accidents to repetitive strain to falls on job sites. In California, workers' compensation is generally the exclusive path against your employer no matter who was at fault, but that's not always the end of the story. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, a separate third-party claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law and isn't a law firm, but we can connect you, free of charge, with an independent attorney who can look at the details of your Woodland workplace injury and explain what avenues might apply. Getting the right information early matters, especially with deadlines involved.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Warehouse and forklift accidents",
+      "Agricultural equipment injuries",
+      "Falls from heights or ladders",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions while on the job near I-5 or Main Street",
+      "Machinery and equipment malfunctions"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "While workers' compensation is usually the exclusive remedy against your employer, a negligent third party like a subcontractor or equipment maker may still owe you a separate claim. An attorney can help sort out whether that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires injured workers to report the injury to their employer within 30 days, and missing that window can complicate your benefits. An independent attorney can help make sure the right steps are taken on time."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. If you're worried about your job because you got hurt, that's exactly the kind of concern an attorney can help you understand."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if my injury happened on a job site near I-5 or East Street in Woodland?",
+        "answer": "Possibly. If the injury happened while driving or working near these corridors and a third party, such as another driver or contractor, contributed to the accident, you may have a separate claim beyond workers' compensation. An independent attorney can review the specifics of what happened."
+      },
+      {
+        "question": "What if my employer says I can't sue them for my injury?",
+        "answer": "In California, workers' compensation is generally the exclusive remedy against your employer, so that part is usually accurate. But that doesn't rule out a claim against a third party whose negligence contributed to your injury, which is separate from your employer relationship."
+      },
+      {
+        "question": "How long do I have to bring a third-party claim after a workplace injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of injury. It's worth talking to an attorney sooner rather than later so nothing gets missed, especially if evidence needs to be gathered."
+      }
+    ]
+  }
+}

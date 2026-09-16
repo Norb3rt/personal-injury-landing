@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "newport-beach city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Newport Beach, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Newport Beach? Orange County injury victims have 2 years to file. LawProactive connects you free with an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Rear-ended on Jamboree Road, knocked off your bike along Coast Highway, or hurt in a fall at a harbor-side business — whatever happened, LawProactive connects you at no cost with an independent injury attorney serving Newport Beach and all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Newport Beach, California",
+    "longDescription": "Newport Beach is home to about 87,000 people, yet its streets carry far more than residents. Beachgoers, boaters headed for the harbor, and shoppers bound for Newport Center all share the same handful of arteries: Jamboree Road, MacArthur Boulevard, and Route 1, including the West Coast Highway stretch. Public collision records show these corridors post the highest crash counts in the city. In 2025, the most recent final reporting year, Newport Beach recorded 419 injury collisions. Those crashes left 583 people hurt and claimed 2 lives. The timing in the data is fairly steady, too — reported crashes tend to peak on Saturdays between 5 p.m. and 7 p.m., right as the beach empties out and dinner traffic builds. If one of those numbers describes your afternoon, here is what LawProactive is and isn't. We are not a law firm, and nobody here will represent you. We are a free service that connects injured people in Newport Beach with an independent personal injury attorney who handles Orange County cases. Being connected costs you nothing, and the attorney you speak with works on contingency, meaning no fee unless there is a recovery. Whether a driver hit you on MacArthur or you were hurt on someone else's property, that first conversation is free and commits you to nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly Help Newport Beach Residents With",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken wrists, collarbones, and ankles",
+      "Concussions and other head trauma",
+      "Road rash and fractures from bicycle and scooter crashes",
+      "Back and spinal disc injuries",
+      "Soft-tissue tears requiring physical therapy"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Newport Beach Claim",
+    "items": [
+      {
+        "title": "The two-year clock is real",
+        "desc": "Most California injury claims must be filed within 2 years of the incident. If a city, county, or state agency is involved, that window can shrink to as little as 6 months, so early action matters."
+      },
+      {
+        "title": "Partial fault doesn't shut the door",
+        "desc": "California follows pure comparative fault. Even if you were partly to blame, you can still recover; your share of fault simply reduces the amount rather than eliminating it."
+      },
+      {
+        "title": "No ceiling on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, lost enjoyment of life, and emotional distress. What that means for you depends on your specific facts."
+      },
+      {
+        "title": "You don't pay out of pocket",
+        "desc": "Attorneys in our network work on contingency. There is no fee unless there is a recovery, and LawProactive's connection service is free from start to finish."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "My car is totaled and I can't get to work or my doctor.",
+      "The ER bill arrived before I even finished treatment.",
+      "I think I was partly at fault — does that mean I get nothing?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes tend to happen in Newport Beach?",
+        "answer": "According to public collision records, the corridors with the highest counts are Jamboree Road, MacArthur Boulevard, and Route 1, including the West Coast Highway segment. These figures reflect traffic volume and reporting, not a judgment about any particular road. In 2025 the city recorded 419 injury collisions overall, with reported crashes peaking on Saturdays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We link injured people in Newport Beach with an independent personal injury attorney, and that attorney — not LawProactive — handles your case."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California gives you 2 years from the date of the injury. If your claim is against a government entity, such as a city or a public transit agency, the deadline can be as short as 6 months. Talking to an attorney early helps you avoid missing either one."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses pure comparative fault. You can still pursue a claim even if you share some blame; your recovery is reduced by your percentage of fault rather than wiped out. An attorney can review the facts and explain how that rule might apply to your situation."
+      },
+      {
+        "question": "What will an attorney cost me?",
+        "answer": "The attorneys in our network work on contingency, so there is no fee unless there is a recovery. The connection through LawProactive is free as well. You can ask any attorney you speak with to walk you through the fee agreement before you sign anything."
+      }
+    ]
+  }
+}

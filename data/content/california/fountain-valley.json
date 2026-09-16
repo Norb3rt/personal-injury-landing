@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "fountain-valley city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fountain Valley, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Fountain Valley, Orange County? Get connected free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on Brookhurst or a sideswipe near I-405, we can connect you free of charge with an independent attorney serving Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Fountain Valley, California",
+    "longDescription": "Fountain Valley sees steady traffic through corridors like Brookhurst, Euclid, Edinger, and the I-405 interchange, all of which carry heavy commuter and shopping traffic. In the most recent year on record, the city logged 60 injury collisions, 87 injured people, and 2 traffic deaths, with reports tending to cluster on Friday evenings between 5 and 7 p.m. If you were hurt in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of physical recovery. LawProactive is a free service — not a law firm — that connects injured people in Fountain Valley with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk, and any attorney in the network works on contingency, meaning there's no fee unless they recover money on your behalf. You don't have to figure out the next steps alone or guess at deadlines. A short conversation can help you understand where you stand and what to do next, without any pressure or commitment.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Torn ligaments and soft tissue damage",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before You Wait",
+    "items": [
+      {
+        "title": "Your Filing Window Is Limited",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government agency can require notice in as little as six months. Talking to someone early helps make sure you don't miss a deadline."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, so even if you share some responsibility for what happened, you can still pursue compensation reduced by your share of fault. It's not all-or-nothing."
+      },
+      {
+        "title": "No Cap on What You Can Recover for Pain and Suffering",
+        "desc": "In ordinary injury cases, California doesn't cap non-economic damages like pain and suffering, so your losses beyond medical bills can still matter to your claim."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in the network work on contingency, meaning fees come only from a settlement or award — not out of your pocket up front."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying medical bills will pile up faster than you can pay them",
+      "Feeling pressured by insurance adjusters calling before you've even healed",
+      "Not knowing if you waited too long or missed some deadline",
+      "Wondering if being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim in Fountain Valley?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a personal injury claim. If a government entity was involved, the window can be much shorter, sometimes just six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses pure comparative fault, meaning your compensation is reduced by your percentage of fault rather than eliminated entirely. Even if you think you contributed to what happened, you may still have a valid claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Fountain Valley?",
+        "answer": "Public collision records show higher volumes along corridors like Brookhurst, Euclid, Edinger, and near the I-405, with reports tending to peak Fridays between 5 and 7 p.m. These are simply where recorded collision counts are higher, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney, and we are not a law firm ourselves. Any attorney you're connected with works on contingency, so there's no fee unless they recover money for you."
+      },
+      {
+        "question": "What kinds of injuries can I get help with?",
+        "answer": "People reach out about a wide range of injuries, from whiplash and fractures to concussions and spinal injuries following collisions. If you were hurt in an incident in Fountain Valley, a quick conversation can help clarify your options."
+      }
+    ]
+  }
+}

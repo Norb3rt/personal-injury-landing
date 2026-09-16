@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "hidden-hills medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hidden Hills Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to independent medical malpractice attorneys serving Hidden Hills, CA. No fee unless you recover. Learn your rights under California law."
+  },
+  "hero": {
+    "subtitle": "If a medical error harmed you or a loved one in Hidden Hills, LawProactive can connect you with an independent attorney who handles California medical malpractice claims at no upfront cost."
+  },
+  "about": {
+    "title": "Hidden Hills Medical Malpractice Claims",
+    "longDescription": "Hidden Hills is a small, gated community in Los Angeles County with just under 2,000 residents, and most who need hospital care or specialist treatment travel outside the city to get it. That means a malpractice claim connected to a Hidden Hills resident often involves a hospital, surgical center, or physician's office located elsewhere in the county, which can add layers to how a case is investigated. LawProactive helps residents sort through what happened after a bad medical outcome by connecting them, free of charge, with an independent California attorney who understands the strict rules governing these claims. California's MICRA law requires a qualified medical expert to review the case, a 90-day pre-suit notice before filing, and a claim brought within specific time limits. Because these cases require records review and expert testimony, having someone evaluate the details early matters. A connection through LawProactive costs nothing, and any attorney you're matched with only gets paid if your case results in a recovery.",
+    "commonInjuriesTitle": "Situations That May Warrant a Closer Look",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition properly"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What Hidden Hills Families Should Know About These Claims",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines Apply",
+        "desc": "California generally requires a malpractice claim within one year of discovering the harm, and no more than three years from the date it happened. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can be filed, California law requires sending the healthcare provider a 90-day notice of intent to sue, which affects how a case timeline is planned from the beginning."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A qualified medical expert typically has to confirm that the care fell below an acceptable standard. A poor outcome by itself isn't enough — the law separates unfortunate results from actual negligence."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Hidden Hills but was treated at a hospital in another city. Does that change anything?",
+        "answer": "Not for the connection process — LawProactive can still help you find an independent attorney regardless of where the treatment occurred. What matters more is where the care was given and which laws apply, both of which an attorney can sort out with you. Your Hidden Hills residence doesn't limit your options here."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the injury, but no more than three years from the date it happened. There are limited exceptions, so it's worth having someone review the specific timeline of your case. Waiting too long can mean losing the right to pursue a claim at all."
+      },
+      {
+        "question": "Is every bad medical outcome considered malpractice?",
+        "answer": "No. California law requires showing that a provider's care fell below an accepted medical standard, not just that the result was disappointing or unexpected. That's why a qualified medical expert is almost always needed to evaluate the case. An independent attorney can help you understand whether your situation meets that bar."
+      }
+    ]
+  }
+}

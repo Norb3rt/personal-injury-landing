@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "concord city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Concord, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Concord or elsewhere in Contra Costa County? California gives you 2 years to file. Get connected free to an attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From a rear-end collision on Clayton Road to a slip on a wet store floor, LawProactive connects you with an independent personal injury attorney at no cost. We serve Concord and all of Contra Costa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Concord, California",
+    "longDescription": "Concord is home to roughly 128,667 people, and its streets carry the traffic to prove it. In 2025, the most recent final reporting year, the city logged 481 injury collisions. Those crashes hurt 611 people and took 10 lives. Public collision records show the heaviest counts along Clayton Road and Willow Pass Road, plus the SR-242 and SR-4 corridors that funnel commuters through town. Reported crashes tend to peak on Tuesdays between 5 p.m. and 7 p.m., squarely in the evening drive home. If one of those numbers is you, the paperwork can feel heavier than the injury itself. That is where LawProactive fits. We are a free service, not a law firm. Our job is simple: listen to what happened, then connect you with an independent personal injury attorney who handles cases like yours in Contra Costa County. You pay nothing for the connection, and the attorneys in our network work on contingency, so there is no fee unless your case ends in a recovery. Whether you were rear-ended on Clayton Road, hit while crossing near Todos Santos Plaza, or hurt in a fall at a local business, a conversation costs you nothing. California's two-year filing window is generous, but it moves faster than most people expect.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Concord",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back injuries, including herniated discs",
+      "Road rash and fractures from bicycle or motorcycle crashes",
+      "Knee and hip injuries from falls on someone else's property"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Concord Claim",
+    "items": [
+      {
+        "title": "Two years, but sometimes only six months",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, the deadline to file a claim can shrink to six months, so timing matters more than people assume."
+      },
+      {
+        "title": "Partial fault does not shut the door",
+        "desc": "California uses pure comparative fault. If you were partly responsible, your recovery is reduced by your share of the blame rather than eliminated altogether."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In an ordinary personal injury case, California does not limit non-economic damages such as pain, lost enjoyment of life, or emotional distress."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "The independent attorneys in our network take injury cases on contingency. You owe no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "My medical bills are arriving faster than any insurance payment.",
+      "I can't work right now and I don't know how long that will last.",
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I think I might have been partly at fault and I'm scared that ruins everything."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match injured people in Concord and the rest of Contra Costa County with an independent personal injury attorney. The attorney you speak with handles your case; we simply make the introduction at no charge."
+      },
+      {
+        "question": "Where do crashes in Concord tend to happen?",
+        "answer": "According to public collision records, the highest counts in Concord fall along Clayton Road, Willow Pass Road, SR-242, and SR-4. Reported crashes also tend to peak on Tuesdays between 5 p.m. and 7 p.m. These are neutral record counts, not judgments about any particular road; a crash anywhere in the city can support a claim."
+      },
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "For most injury claims, California allows two years from the date of the injury. If a government entity is involved, such as a city vehicle or a hazard on public property, you may have as little as six months to file a claim. Speaking with an attorney early helps you understand which deadline applies."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California follows pure comparative fault. Your recovery is reduced by whatever percentage of fault is assigned to you, but you are not barred from recovering just because you shared some blame. An attorney can help you understand how fault might be divided in your situation."
+      },
+      {
+        "question": "What does it cost to hire an attorney through LawProactive?",
+        "answer": "Our connection is free, and the attorneys in our network work on contingency. That means no attorney fee unless your case results in a recovery. You can discuss any other case costs directly with the attorney before you agree to anything."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "irwindale medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Irwindale Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free help connecting Irwindale, CA medical malpractice victims with an independent attorney. No fee unless you recover. MICRA deadlines apply."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or medical procedure in Irwindale left you worse off, LawProactive can connect you with an independent attorney who handles California medical malpractice claims at no upfront cost."
+  },
+  "about": {
+    "title": "Irwindale Medical Malpractice Claims",
+    "longDescription": "Irwindale is a small Los Angeles County city, and most residents travel outside city limits for hospital care, specialist visits, or surgery. When that care goes wrong — a missed diagnosis, a surgical mistake, a medication error — the aftermath can be confusing, especially if you're unsure whether what happened was simply a bad outcome or something that crossed the line into malpractice. California law sets specific rules for these cases, including strict notice requirements and filing deadlines under MICRA. LawProactive doesn't practice law or make that determination for you; instead, we connect Irwindale residents with an independent attorney who can review medical records, consult with a qualified expert, and explain whether a claim may be worth pursuing. The process starts with a conversation, not a commitment, and there's no cost to find out where you stand.",
+    "commonInjuriesTitle": "Common Types of Medical Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on care"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your case — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Time Runs Out",
+    "items": [
+      {
+        "title": "MICRA's Strict Clock",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to file. Missing that window can end a claim regardless of its merits."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before a lawsuit can even be filed, California law usually requires 90 days' advance written notice to the provider. An attorney can help make sure this step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad outcome alone isn't proof of malpractice, a qualified medical expert typically has to weigh in on whether the standard of care was actually breached. An independent attorney can help arrange that review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery near Irwindale — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law recognizes that medicine involves risk, so a poor result by itself isn't evidence of malpractice. What matters is whether the provider deviated from the accepted standard of care, which is typically established through a qualified medical expert's opinion."
+      },
+      {
+        "question": "How much time do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the injury, and no more than three years from the date it occurred. There are limited exceptions, so it's worth getting a claim reviewed as soon as possible."
+      },
+      {
+        "question": "Is there a limit on what I can recover for a medical malpractice claim?",
+        "answer": "California caps non-economic damages, like pain and suffering, under MICRA, though that cap rises each year by statute. Economic damages, such as medical bills and lost income, are generally not subject to that same cap."
+      },
+      {
+        "question": "I live in Irwindale but was treated at a facility in another city. Can LawProactive still help?",
+        "answer": "Yes. Because Irwindale is a small city, most residents receive medical care elsewhere in Los Angeles County, and that doesn't change your right to pursue a claim. LawProactive can connect you with an independent attorney regardless of which facility provided the care."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "san-clemente workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Clemente Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in San Clemente? LawProactive connects you free with an independent attorney to review your workplace injury options."
+  },
+  "hero": {
+    "subtitle": "San Clemente workers who get hurt on the job — whether at a jobsite near I-5, a shop off Avenida Pico, or a delivery route through town — often have more than one path to recovery. We can connect you with an independent attorney who looks at the whole picture, not just workers' comp."
+  },
+  "about": {
+    "title": "San Clemente Workplace Injury Claims",
+    "longDescription": "San Clemente's mix of construction, retail, hospitality, and coastal commercial activity means workplace injuries here can look very different from case to case — a fall on a wet floor near El Camino Real, a delivery driver injured near the I-5 interchange, or an equipment accident on a job site. In most cases, California's workers' compensation system is the exclusive way to seek benefits from your employer, regardless of who was at fault. But when a third party contributed to the accident — a subcontractor, equipment manufacturer, property owner, or another driver — a separate injury claim may be possible alongside your workers' comp benefits. LawProactive doesn't handle claims directly; we're a free service that connects injured workers in San Clemente with an independent attorney who can explain which options might apply to your specific situation, at no upfront cost.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven flooring",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Injuries from defective tools or machinery",
+      "Burns or chemical exposure on the job",
+      "Slip-and-fall accidents on commercial property"
+    ],
+    "ctaText": "Get connected with an independent attorney to talk through your options."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney About Your Case",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "Workers' compensation is usually your exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can support a separate claim outside that system."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires reporting a workplace injury to your employer within 30 days, and separate third-party injury claims carry a 2-year deadline, so timing can affect what options remain open."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "Employers cannot legally punish you for reporting an injury or pursuing benefits, and an attorney can help you understand your protections if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at work near the I-5 corridor while making deliveries — does that change anything?",
+        "answer": "It might. If your injury happened while driving for work and another driver was involved, that could open the door to a third-party claim in addition to your workers' comp benefits. An independent attorney can review the details of what happened on the road to see if that applies."
+      },
+      {
+        "question": "Can I still get workers' comp if I was partly at fault?",
+        "answer": "Generally yes — California's workers' compensation system usually doesn't require proving fault to receive benefits from your employer. That's different from a third-party claim, where negligence has to be shown."
+      },
+      {
+        "question": "What if my employer discourages me from reporting my injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law. If you're facing pressure not to report, it's worth speaking with an independent attorney who can explain your rights and the reporting timeline."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, the connection service is free. Attorneys in the network generally work on contingency, meaning there's no fee unless there's a recovery."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "artesia workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Artesia Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Artesia? Learn how workers' comp and third-party claims work. Free, no-obligation attorney connection through LawProactive."
+  },
+  "hero": {
+    "subtitle": "Workplace injuries near Pioneer Boulevard and the industrial pockets off SR-91 in Artesia can leave you juggling medical bills and missed paychecks. LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims in Los Angeles County."
+  },
+  "about": {
+    "title": "Artesia Workplace Injury Claims",
+    "longDescription": "Artesia's mix of small manufacturers, warehouses, and retail spaces along corridors like Pioneer Boulevard and South Street means workplace injuries happen in forklift bays, loading docks, and storage aisles just as often as offices. If you're hurt on the job, California generally routes your claim through workers' compensation, regardless of who was at fault. But when a subcontractor, equipment manufacturer, property owner, or another company's employee contributed to the accident, a separate third-party injury claim may also apply. That second path can matter, since workers' comp alone often doesn't cover the full scope of what you've lost. LawProactive doesn't practice law or handle your case directly; we're a free connection service that can match you with an independent attorney who reviews the facts, explains your options, and helps you understand whether a third-party claim exists alongside your comp benefits, all without any upfront cost to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Forklift and loading dock accidents",
+      "Falls from ladders or elevated platforms",
+      "Machinery and equipment entanglement",
+      "Repetitive strain and lifting injuries",
+      "Chemical or fume exposure incidents",
+      "Struck-by injuries from falling materials"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Artesia Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the Exclusive Remedy Rule",
+        "desc": "California generally limits your claim against your employer to workers' compensation regardless of fault, but that doesn't close every door. If a third party like a subcontractor or equipment maker contributed to your injury, a separate claim may still be possible."
+      },
+      {
+        "title": "We Know the Reporting Clock Matters",
+        "desc": "You typically have 30 days to report a workplace injury to your employer, and missing that window can complicate your benefits. An attorney in our network can help you understand what documentation and timing protect your claim."
+      },
+      {
+        "title": "We Take Retaliation Seriously",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury or filing a comp claim. If you're worried about your job while dealing with an injury, an independent attorney can walk you through your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a warehouse near SR-91 in Artesia — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is your primary path against your employer, regardless of fault. However, if equipment failure, a subcontractor, or another company's negligence played a role, a separate third-party claim may run alongside your comp benefits. An attorney can review the specifics of your incident to sort out which paths apply."
+      },
+      {
+        "question": "What if my employer retaliates after I report my injury?",
+        "answer": "California law makes it illegal for an employer to fire, demote, or otherwise punish you for reporting a workplace injury or filing a comp claim. If you believe you've faced retaliation, documenting the timeline and any communications can help. An independent attorney can advise you on next steps."
+      },
+      {
+        "question": "How long do I have to bring a third-party injury claim in California?",
+        "answer": "Third-party claims, separate from workers' compensation, generally carry a two-year deadline from the date of injury under California law. Waiting can make it harder to gather evidence, especially with equipment or subcontractor involvement. It's worth having a claim reviewed sooner rather than later."
+      }
+    ]
+  }
+}

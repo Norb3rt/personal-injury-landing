@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "wildomar workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Wildomar Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Wildomar? Free connection to an independent attorney who can review your workers' comp or third-party claim options."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working near Bundy Canyon Road, Clinton Keith Road, or one of Wildomar's warehouses and job sites, figuring out your options can feel like a second job. We connect you with an independent attorney who can look at whether workers' comp, a third-party claim, or both may apply."
+  },
+  "about": {
+    "title": "Wildomar Workplace Injury Claims",
+    "longDescription": "Wildomar's mix of agricultural operations, construction sites, and businesses along corridors like Clinton Keith Road and Palomar Street means workplace injuries here range from equipment accidents to vehicle collisions during work duties. Under California law, workers' compensation is generally the only path against your employer regardless of fault, but that's not always the end of the story. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, a separate third-party claim may be possible alongside your comp benefits. LawProactive doesn't practice law or handle claims directly — we're a free service that connects injured workers with an independent attorney who can sort out which paths apply to your situation. Given the two-year deadline on third-party claims and the 30-day window to report an injury to your employer, getting clarity early matters. We aim to make that first step simple.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or elevated platforms",
+      "Injuries from heavy machinery or agricultural equipment",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions while driving for work purposes",
+      "Injuries from falling objects or unsecured loads",
+      "Burns, electrocution, or chemical exposure incidents"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Wildomar Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help You See the Full Picture",
+        "desc": "Workers' comp is usually exclusive against your employer, but a negligent third party — like a subcontractor or equipment maker — may still owe you a separate claim. An independent attorney can evaluate both angles for you."
+      },
+      {
+        "title": "Retaliation Concerns Taken Seriously",
+        "desc": "California law prohibits employers from retaliating against workers who report an injury or file a claim. If you're worried about your job, the attorney we connect you with can address that concern directly."
+      },
+      {
+        "title": "Deadlines Don't Wait",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and any third-party claim carries a two-year deadline. We help you move quickly so those windows don't close on you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near I-15. Does workers' comp cover that, or is it a separate claim?",
+        "answer": "It can be both. Workers' comp likely applies since you were performing work duties, but if another driver caused the crash, you may also have a separate claim against that driver. An independent attorney can review the details and explain how the two interact."
+      },
+      {
+        "question": "My employer in Wildomar said to just use workers' comp and drop it. Is that my only option?",
+        "answer": "Not necessarily. Workers' comp is usually the exclusive remedy against your employer, but it doesn't rule out a claim against a third party who contributed to your injury, like a property owner or equipment manufacturer. It's worth having an independent attorney look at whether a third party was involved before you close the door on other options."
+      },
+      {
+        "question": "What if I'm afraid my employer will retaliate if I report my injury?",
+        "answer": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury or filing a workers' comp claim. If that happens, it can be its own legal issue separate from your injury claim. Bring it up with the attorney we connect you with so it can be addressed properly."
+      }
+    ]
+  }
+}

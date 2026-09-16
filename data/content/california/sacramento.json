@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "voice": "brand-standard (plain-spoken, victim-first)",
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-09-11",
+    "source": "accident-hub + state-laws + city facts",
+    "note": "Sacramento city page."
+  },
+  "seo": {
+    "metaTitle": "Sacramento Personal Injury Lawyer | Free Review",
+    "metaDescription": "Injured in Sacramento? Connect free with a personal injury attorney serving Sacramento County. 2 years to file — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Hurt in a crash on US-50 or Highway 99, in a fall, or on the job in Sacramento? We connect you — free — with an independent personal injury attorney who handles Sacramento County claims. No fee unless you recover."
+  },
+  "about": {
+    "title": "Personal Injury Help in Sacramento, California",
+    "longDescription": "California's capital is a crossroads: US-50, Highway 99 and Interstate 5 funnel commuters through the city while surface routes like Fruitridge and Florin Roads carry heavy local traffic. Public records show roughly 3,400 injury collisions in Sacramento in 2025, leaving nearly 4,900 people hurt, with reported crashes tending to peak on Friday evenings. The region's rivers, bridges and long causeway commutes add their own hazards year-round. Whether you were injured in a wreck, in a fall at a business, in a workplace incident, or by a defective product, California law gives you rights and a limited window to act. LawProactive is a free service that connects injured people in Sacramento with an independent personal injury attorney who understands how Sacramento County claims and courts operate. We are not a law firm; we match you with counsel. There is never a fee unless your case recovers compensation.",
+    "commonInjuriesTitle": "Injuries we help Sacramento residents pursue claims for",
+    "commonInjuries": [
+      "Whiplash, neck and back injuries from freeway and arterial crashes",
+      "Traumatic brain injuries and concussions",
+      "Fractures and crush injuries",
+      "Spinal cord and disc injuries",
+      "Pedestrian and bicyclist impact injuries",
+      "Serious burns, lacerations and scarring"
+    ],
+    "ctaText": "See if you have a case — free"
+  },
+  "whyChoose": {
+    "title": "What Sacramento injury victims should know",
+    "items": [
+      {
+        "title": "The deadline is usually 2 years",
+        "desc": "California generally gives you two years from the date of injury to file suit. Evidence on corridors like US-50 and Highway 99 fades quickly, so the sooner you act, the stronger your claim."
+      },
+      {
+        "title": "Being partly at fault is not the end",
+        "desc": "California uses pure comparative fault, so you can recover even if you shared blame; your compensation is reduced by your share, not wiped out."
+      },
+      {
+        "title": "Claims against public agencies move fast",
+        "desc": "With so many state and local agencies here, a claim involving a government vehicle or road can carry a deadline as short as six months."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "Most California injury cases place no limit on non-economic damages, so pain, suffering and diminished quality of life can be part of your claim."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Adjusters contacting you before you've finished treatment",
+      "Medical bills and lost income mounting during recovery",
+      "A rushed offer that falls short of your real costs",
+      "Not knowing whether your case is worth pursuing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Sacramento?",
+        "answer": "In most California cases the deadline is two years from the date of injury. If a public entity — a state or city vehicle, or a hazardous public road — is involved, the deadline can be as short as six months, so act quickly."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "You can still recover. California's pure comparative fault rule reduces your compensation by your percentage of fault rather than barring it."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney?",
+        "answer": "The case review is free, and personal injury attorneys in our network work on contingency — no fee unless they recover compensation for you."
+      },
+      {
+        "question": "Where do injury crashes cluster in Sacramento?",
+        "answer": "Reported-collision records for recent years point to US-50, Highway 99 and busy roads like Fruitridge and Florin, with crashes peaking on Friday evenings. These are public-record counts, not a judgment about any route."
+      },
+      {
+        "question": "Will my case go to trial?",
+        "answer": "Usually not. Most injury claims settle. Your attorney negotiates with the insurer and only goes to court if a fair settlement can't be reached."
+      }
+    ]
+  }
+}

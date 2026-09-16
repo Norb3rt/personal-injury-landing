@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "folsom medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Folsom Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a missed diagnosis or surgical error in Folsom, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When medical care in Folsom leaves you worse off than before, understanding whether negligence played a part shouldn't cost you anything. LawProactive connects Folsom patients with an independent attorney who reviews these cases on contingency."
+  },
+  "about": {
+    "title": "Folsom Medical Malpractice Claims",
+    "longDescription": "Folsom sits at the eastern edge of Sacramento County, and its 76,375 residents rely on local clinics, surgical centers, and hospital emergency departments for everything from routine checkups to trauma care. Most of that care goes well. When it doesn't—when a diagnosis is missed, a medication is mixed up, or a surgeon operates on the wrong site—the harm can follow a family for years. California handles these claims under MICRA, which gives you one year from the date you discovered the injury, and never more than three years from the date it happened, to file. A 90-day notice to each provider must go out before any lawsuit. A qualified medical expert nearly always has to review the records and explain what a careful provider would have done differently, because an unwanted outcome by itself is not malpractice. LawProactive is a free service, not a law firm. We connect Folsom residents with an independent attorney who handles medical negligence cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries in Folsom",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors and retained instruments",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Infections from unsanitary procedures"
+    ],
+    "ctaText": "Ask about your Folsom care—free and confidential"
+  },
+  "whyChoose": {
+    "title": "Why Folsom Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are short",
+        "desc": "You generally have one year from discovering the injury and never more than three years from when it occurred. An attorney can pin down which date applies to you before time runs out."
+      },
+      {
+        "title": "The 90-day notice is handled properly",
+        "desc": "California requires written notice to each provider at least 90 days before suing. Getting that step right protects your ability to file."
+      },
+      {
+        "title": "Expert review comes first",
+        "desc": "Because a qualified medical expert is almost always required, the attorneys in our network evaluate records early to see whether the standard of care was actually breached."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "After a crash on E Bidwell Street, the ER missed my fracture. Is that malpractice?",
+        "answer": "It might be, but a bad result on its own is not enough. The question is whether a reasonably careful emergency physician, given the same X-rays and symptoms, would have caught it. A medical expert would need to review the imaging and chart. Folsom recorded 113 people injured in collisions in 2025, so emergency departments here see plenty of trauma—an attorney can help sort out whether your care fell short."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages such as pain and suffering, and that cap increases every year under MICRA. Economic losses like medical bills and lost wages are not subject to the same cap. An attorney can explain how the current figures apply to your situation."
+      },
+      {
+        "question": "What does it cost to speak with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, not a law firm. The independent attorneys in our network take medical malpractice cases on contingency, meaning they are paid only if there is a recovery."
+      }
+    ]
+  }
+}

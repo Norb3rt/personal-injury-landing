@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "novato city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Novato, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Novato, Marin County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident around Novato, we can connect you with an independent attorney at no cost. Serving Marin County residents free of charge."
+  },
+  "about": {
+    "title": "Personal Injury Help in Novato, California",
+    "longDescription": "Novato sits along the US-101 corridor, with Redwood Boulevard, Novato Boulevard, and San Marin Drive carrying much of the city's daily traffic. In the most recent full year on record, Novato saw 153 injury collisions, resulting in 198 people injured and 2 traffic deaths. Behind those numbers are real people dealing with medical bills, missed work, and the stress of figuring out what comes next. LawProactive is a free service — not a law firm — that connects injured people in Novato with an independent personal injury attorney who can review what happened and explain your options. We don't charge you anything to make that connection, and the attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Whether the injury happened on one of Novato's busier roads, in a parking lot, or somewhere else in Marin County, you don't have to sort through insurance calls and paperwork by yourself. Reaching out costs nothing and starts with a simple conversation about what you're dealing with.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts requiring stitches or surgery",
+      "Torn ligaments and joint damage"
+    ],
+    "ctaText": "Find out if you have a case — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can be limited to as little as six months. Waiting too long can close the door on your options entirely."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Stop You",
+        "desc": "California follows pure comparative fault, so even if you share some blame for what happened, you can still recover damages — just reduced by your percentage of fault. An attorney can help sort out how fault is being assigned."
+      },
+      {
+        "title": "No Cap on What You've Suffered",
+        "desc": "In most ordinary injury cases, California places no limit on non-economic damages like pain and suffering. That matters when an injury affects your daily life well beyond medical bills."
+      },
+      {
+        "title": "You Don't Pay Unless They Win",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no upfront cost to find out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and the insurance company isn't responding",
+      "I can't work right now and don't know how to cover rent or bills",
+      "I'm not sure if what happened was partly my fault and if that matters",
+      "I don't know how much time I have left to do anything about this"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and there's no cost to have that first conversation. Attorneys in the network work on contingency, so they only get paid if you recover money."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "For most personal injury claims, California law gives you two years from the date of the injury. If your claim involves a government entity, such as a city road department, that window can be as short as six months, so it's worth acting sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover damages even if you were partly at fault. Your compensation would simply be reduced by your share of responsibility, so it's worth having someone review the details."
+      },
+      {
+        "question": "Where do crashes tend to happen in Novato?",
+        "answer": "Public crash records show reported collisions concentrated along corridors like US-101, Redwood Boulevard, Novato Boulevard, and San Marin Drive, with reports peaking on Thursdays between 4 and 6 p.m. These are simply where collision counts are highest on record, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people in Novato and across Marin County get in touch with an independent personal injury attorney. We don't represent you directly — the attorney you're connected with handles your case."
+      }
+    ]
+  }
+}

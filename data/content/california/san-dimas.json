@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "san-dimas city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Dimas, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in San Dimas, LA County? Connect free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you or someone you love was hurt in a car crash, fall, or other accident in San Dimas, we'll connect you free with an independent personal injury attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Dimas, California",
+    "longDescription": "San Dimas sees its share of everyday traffic — commuters merging onto SR-57 and SR-210, drivers cutting across Arrow Highway to reach the foothills or the fairgrounds. In the most recent year on record, the city logged 139 injury collisions and 204 people hurt, along with 3 traffic deaths. Numbers like that represent real people dealing with medical bills, missed work, and a lot of uncertainty about what comes next. LawProactive is a free service — we are not a law firm. We connect people who've been injured in San Dimas with an independent attorney who can look at what happened and explain your options under California law. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. California generally gives you two years from the date of injury to file a claim, though claims against a government agency can require action in as little as six months, so it helps to move sooner rather than later. If a crash near SR-57, SR-210, or Arrow Highway has upended your routine, you don't have to sort through the legal side alone.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally allows two years from the date of an injury to file a claim, but claims against a government entity can require notice in as little as six months. Waiting too long can cost you the chance to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you're partly responsible for what happened, you may still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "In ordinary injury cases, California doesn't cap non-economic damages like pain and suffering, unlike some other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling overwhelmed trying to handle paperwork while recovering",
+      "Fearing you waited too long or missed a filing deadline"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in San Dimas?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If your claim involves a government entity, such as a city road or public vehicle, the deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Where do injury collisions tend to cluster in San Dimas?",
+        "answer": "Public-record collision counts show activity concentrated along SR-57, SR-210, and Arrow Highway, with reported crashes tending to peak on Fridays between 5 and 7 p.m. These are simply reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, meaning you can still recover compensation even if you share some responsibility. Your recovery would be reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Will I owe money upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency — they only collect a fee if you recover compensation. There's no cost to you just to get information about your options."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We're a free service that connects people who've been injured with an independent, licensed personal injury attorney who can evaluate their situation."
+      }
+    ]
+  }
+}

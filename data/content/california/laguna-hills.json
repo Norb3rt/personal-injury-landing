@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "laguna-hills city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Laguna Hills, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Laguna Hills, Orange County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with a car crash injury, a broken bone, or a soft tissue injury after a collision, you can connect with an independent attorney at no cost. We serve people throughout Orange County, including Laguna Hills."
+  },
+  "about": {
+    "title": "Personal Injury Help in Laguna Hills, California",
+    "longDescription": "Laguna Hills sees its share of everyday traffic risk, like most Orange County communities built around busy commuter corridors. In the most recent full year on record, the city logged 140 injury collisions, resulting in 208 people injured and 2 traffic deaths. Much of that traffic funnels through I-5 (San Diego Freeway), Alicia Parkway, Paseo De Valencia, and Moulton Parkway — corridors that carry heavy volume throughout the week, with reported crashes tending to cluster on Wednesday afternoons between 3 and 5 p.m. If you were hurt in one of these collisions, or in any other kind of accident around town, LawProactive can help. We're a free service — not a law firm — that connects injured people in Laguna Hills with an independent personal injury attorney who can review what happened. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. You focus on healing; let someone else sort through the claim details. Reaching out costs nothing and doesn't commit you to anything.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Connect free with an independent attorney to talk through what happened."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government agency can require notice in as little as six months. Waiting too long can close the door on your case entirely."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages such as pain, suffering, and loss of enjoyment of life. That means your claim isn't automatically capped just because your injuries are hard to put a price on."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys connected through LawProactive work on contingency, so there's no fee unless they recover money on your behalf. That structure lets you get legal help without paying anything out of pocket first."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're out of work",
+      "Not knowing if the insurance company's settlement offer is fair",
+      "Fear that admitting any fault means losing your entire claim",
+      "Feeling overwhelmed about where to even start after the accident"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Laguna Hills?",
+        "answer": "California generally allows two years from the date of injury to file a personal injury lawsuit. If a government entity, like a city or county vehicle, was involved, the deadline to file a claim can be as short as six months. It's worth getting your situation reviewed sooner rather than later so you don't miss a filing window."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Laguna Hills?",
+        "answer": "Based on public crash records, higher volumes of reported collisions occur along I-5 (San Diego Freeway), Alicia Parkway, Paseo De Valencia, and Moulton Parkway. Reported crashes also tend to peak on Wednesdays between roughly 3 and 5 p.m. These are simply counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, meaning you can still recover compensation even if you share some blame for the crash. Your total recovery would be reduced by your percentage of fault, but it isn't barred outright. An attorney can help sort out how fault might be allocated in your specific case."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people with an independent personal injury attorney who can evaluate their situation."
+      },
+      {
+        "question": "Will I owe money if my case doesn't result in a settlement?",
+        "answer": "Attorneys in our network generally work on contingency, which means they only get paid if they recover money for you. If there's no settlement or award, you typically don't owe attorney fees for the work done on your claim."
+      }
+    ]
+  }
+}

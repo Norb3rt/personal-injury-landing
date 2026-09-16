@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "mendota city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mendota, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Mendota, Fresno County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Rt-180 or suffered a fall injury elsewhere in Mendota, we'll connect you with an independent attorney at no cost, serving families throughout Fresno County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Mendota, California",
+    "longDescription": "Mendota is a small farming community in Fresno County, but its roads still carry real risk. In the most recent reporting year, the city recorded 12 injury collisions and 16 people hurt — thankfully with zero traffic deaths. Public crash records show activity concentrated along Oller Street, Derrick Avenue, Rt 33, and Rt-180, with Sunday evenings between 6 and 8 p.m. showing up more often than other times in the record. If you were hurt in one of these collisions, or in any other kind of accident around town, you likely have questions about medical bills, lost wages, and what comes next. LawProactive is a free service — we are not a law firm, and we don't provide legal advice ourselves. What we do is listen to what happened, then connect you with an independent personal injury attorney who can review your situation. Attorneys in our network work on contingency, meaning there's no fee unless they recover money on your behalf. Reaching out costs nothing and doesn't obligate you to anything. Given how quickly evidence can fade and deadlines can approach, it often helps to talk to someone sooner rather than later.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring physical therapy"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and only takes a few minutes."
+  },
+  "whyChoose": {
+    "title": "Why Reach Out Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "You generally have two years from the date of injury to file a personal injury claim in California, though claims against a government agency can require notice in as little as six months. Missing these windows can end your ability to recover anything."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply adjusted to reflect your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. This means the full extent of how an injury has affected your life can be considered."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. That structure lets injured people get legal help without worrying about hourly rates."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about who pays the medical bills piling up",
+      "Losing income while unable to work after the injury",
+      "Not knowing whether the insurance company's offer is fair",
+      "Feeling unsure if it's too late to do anything about it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and we are not a law firm ourselves. If you're matched with an attorney, they typically work on contingency, so there's no fee unless they secure a recovery for you."
+      },
+      {
+        "question": "How long do I have to file a claim after an injury in Mendota?",
+        "answer": "California generally allows two years from the date of the injury to file a personal injury lawsuit. If your claim involves a government entity, the notice period can be much shorter, sometimes just six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some responsibility. Your recovery amount would simply be reduced by your percentage of fault, not blocked entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Mendota?",
+        "answer": "Public collision records show higher counts along corridors like Oller Street, Derrick Avenue, Rt 33, and Rt-180, with Sunday evenings between 6 and 8 p.m. appearing more frequently in the data. These are simply reported counts, not a judgment about any road's safety."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In standard personal injury cases in California, there is no cap on non-economic damages such as pain and suffering. This allows compensation to reflect the actual impact an injury has had on someone's daily life and wellbeing."
+      }
+    ]
+  }
+}

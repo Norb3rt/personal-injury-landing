@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "encinitas medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Encinitas Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney serving Encinitas, CA. No fee unless there's a recovery."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or treatment in Encinitas left you worse off, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California law."
+  },
+  "about": {
+    "title": "Encinitas Medical Malpractice Claims",
+    "longDescription": "Encinitas residents rely on a mix of local clinics, urgent care centers, and San Diego County hospitals for everything from routine care to emergency treatment. When something goes wrong during diagnosis, surgery, or aftercare, families are often left with more questions than answers. California's medical malpractice rules, governed by MICRA, are notoriously technical: strict notice periods, tight filing deadlines, and a requirement for qualified medical expert review before a claim can move forward. A bad outcome by itself doesn't prove malpractice occurred — the law requires showing a departure from the accepted standard of care. LawProactive doesn't practice law or evaluate your medical records. We simply connect Encinitas residents with an independent attorney who can review what happened, explain the MICRA timeline that applies, and help determine whether pursuing a claim makes sense. The conversation and case review are free, and there's no fee unless the attorney recovers on your behalf.",
+    "commonInjuriesTitle": "Situations We See Referred",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Delayed or missed cancer diagnosis",
+      "Medication or dosage errors",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-operative patients"
+    ],
+    "ctaText": "Start your free, no-obligation case review today."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Starts Early",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim. An attorney can help pin down which deadline applies to your situation."
+      },
+      {
+        "title": "Pre-Suit Notice Is Required",
+        "desc": "Before filing suit, California law requires a 90-day notice to the healthcare provider — missing this step can delay or derail a claim, so early attorney involvement matters."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "A qualified medical expert typically must confirm that the standard of care was breached; an independent attorney can help arrange this review as part of evaluating your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Encinitas — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law requires showing that a provider departed from the accepted standard of care, not just that the result was disappointing or unexpected. An attorney reviewing your records with a qualified medical expert can help determine whether that standard was met."
+      },
+      {
+        "question": "How much time do I have to act on a malpractice claim in Encinitas?",
+        "answer": "Generally, California gives you one year from when you discover the injury, and no more than three years from the date it occurred, though exceptions can apply. Because these deadlines are strict and there's also a 90-day pre-suit notice requirement, it helps to speak with an attorney sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I could recover for pain and suffering?",
+        "answer": "Yes — California's MICRA law places a cap on non-economic damages, though that cap rises each year under current law. Economic damages, like medical bills and lost income, are generally not subject to this cap. An independent attorney can walk you through how this applies to your specific case."
+      }
+    ]
+  }
+}

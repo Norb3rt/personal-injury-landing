@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "morro-bay car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Morro Bay Car Accident Help | LawProactive",
+    "metaDescription": "Hurt in a Morro Bay crash? Get connected free to an independent injury attorney. No fee unless you recover. Serving San Luis Obispo County."
+  },
+  "hero": {
+    "subtitle": "If a crash on Rt 1, Main Street, or South Bay Boulevard left you hurt, LawProactive can connect you with an independent Morro Bay attorney at no cost to you."
+  },
+  "about": {
+    "title": "Morro Bay Car Accident Claims",
+    "longDescription": "Morro Bay's compact street grid carries a steady mix of Highway 1 through-traffic, harbor visitors, and local commuters, and that mix shows up in the numbers: San Luis Obispo County recorded 26 injury collisions in Morro Bay in the most recent final crash year, hurting 30 people. Weekend afternoons, especially Saturdays between 3 and 5 p.m., see more reported crashes than other times, likely tied to tourist and beach traffic along Rt 1, Main Street, South Bay Boulevard, and Atascadero Road. Whether you were rear-ended near the Embarcadero or sideswiped merging onto South Bay Boulevard, the aftermath can mean medical bills, missed work, and calls from an insurance adjuster before you've even seen a doctor. LawProactive doesn't practice law; we're a free service that connects injured people with an independent personal injury attorney who can evaluate your situation and explain your options, all on a contingency basis, so there's no upfront cost to you.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head injuries",
+      "Broken bones and fractures",
+      "Back and spinal disc injuries",
+      "Shoulder and knee ligament tears",
+      "Cuts, bruises, and soft-tissue damage"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney who can help."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Ticking",
+        "desc": "You generally have two years from the crash to file a claim, but if a government entity (like a city road crew or public bus) was involved, that window can shrink to as little as six months. An attorney can help you figure out which deadline applies to your situation."
+      },
+      {
+        "title": "Comparative Fault Can Cut Your Recovery",
+        "desc": "California lets you recover damages even if you're partly at fault, but your share of blame reduces what you can collect. How fault gets assigned early on can matter a lot, so it helps to have someone reviewing evidence on your side."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in the network work on contingency, meaning you don't pay out of pocket and there's no fee unless there's a recovery. That structure lets you focus on healing instead of legal bills while your claim moves forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurance adjusters are trained to ask questions that can be used to minimize your claim later. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if my accident happened near the Morro Bay harbor or on a city street, not the highway?",
+        "answer": "Whether the crash happened on Rt 1, Main Street, or a smaller city street affects which agency's records apply and, if a public entity was involved, how much time you have to act. Preserving photos, witness names, and any available surveillance footage early is especially important in a small city like Morro Bay where evidence can disappear quickly."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and the independent attorneys in our network work on contingency, so there's no fee unless you recover money. You can ask questions and get a sense of your options before deciding how to move forward."
+      }
+    ]
+  }
+}

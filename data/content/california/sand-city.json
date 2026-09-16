@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "sand-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sand City, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Sand City, Monterey County? Free, no-obligation attorney connection. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Sand City, we can connect you with an independent personal injury attorney at no cost. We serve people throughout Monterey County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Sand City, California",
+    "longDescription": "Sand City is a small coastal community in Monterey County, with SR-1 running directly through town alongside California Avenue and the SR-1 southbound connector — the roads that see the most reported traffic activity here. The most recent final public-record crash data for Sand City shows no reported injury collisions, injuries, or traffic deaths for that year, which reflects the city's small population and low traffic volume rather than any indication about future safety. Still, accidents happen — on these corridors, in parking areas along Highway 1, or elsewhere in town — and when they do, sorting out medical bills, missed work, and insurance calls can feel overwhelming. LawProactive is a free service that connects injured people with an independent personal injury attorney; we are not a law firm and do not provide legal advice ourselves. The attorneys in our network handle these matters on contingency, meaning there's no fee unless you recover compensation. If you were hurt in Sand City, reaching out costs nothing and can help you understand what options may be available to you.",
+    "commonInjuriesTitle": "Common Injuries We Help Connect People About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Find out if you have a case — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney After an Accident in Sand City",
+    "items": [
+      {
+        "title": "You have a limited window to act",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, but if a government entity (like a city road authority) is involved, that window can shrink to as little as six months. Waiting too long can cost you the right to pursue compensation at all."
+      },
+      {
+        "title": "Shared fault doesn't shut you out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your recovery is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "There's no ceiling on pain-and-suffering damages",
+        "desc": "In most ordinary injury cases, California places no cap on non-economic damages like pain, suffering, or loss of enjoyment of life. An attorney can help you understand what that might mean for your specific situation."
+      },
+      {
+        "title": "You don't pay unless you recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to get advice or representation. Fees only come out of a settlement or award, not out of your pocket up front."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know how I'll pay them",
+      "The insurance adjuster keeps calling and I'm not sure what to tell them",
+      "I can't work right now and I'm worried about lost income",
+      "I don't know if I even have a valid claim or where to start"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have a case if the crash happened on SR-1 or California Avenue in Sand City?",
+        "answer": "It depends on the details of what happened, who was involved, and how the accident occurred. Public crash-count records show SR-1, California Avenue, and the SR-1 southbound stretch as the corridors with the most reported activity in Sand City, but that's simply where more incidents get recorded — it doesn't tell you whether you have a claim. An independent attorney can review your specific situation for free."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Sand City?",
+        "answer": "In most California personal injury cases, you generally have two years from the date of the injury to file a lawsuit. If your accident involved a government vehicle or a hazard on government-owned property, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California's pure comparative fault rule means you can still pursue compensation even if you share some blame for the accident. Your final recovery would be reduced by your percentage of fault, but it wouldn't bar you from recovering altogether."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves — we simply help connect injured people in Sand City with an independent attorney. The attorneys we connect you with typically work on contingency, so you don't pay unless they recover money for you."
+      },
+      {
+        "question": "When do most reported crashes happen in Sand City?",
+        "answer": "Public records indicate reported crashes in this area tend to cluster on Wednesdays between roughly 8 and 10 a.m. This is simply a pattern drawn from neutral collision-count data, not a safety judgment about any particular road or time."
+      }
+    ]
+  }
+}

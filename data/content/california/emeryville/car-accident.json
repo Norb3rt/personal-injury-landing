@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "emeryville car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Emeryville Car Accident Help | LawProactive",
+    "metaDescription": "Free connection to an independent car accident attorney in Emeryville, CA. No fee unless you recover. Contact LawProactive today."
+  },
+  "hero": {
+    "subtitle": "After a car accident on I-80, Powell Street, or Hollis Street in Emeryville, you deserve straight answers, not insurance runaround. LawProactive connects you with an independent attorney who works for you, not the insurance company."
+  },
+  "about": {
+    "title": "Emeryville Car Accident Claims",
+    "longDescription": "Emeryville's compact street grid puts a lot of traffic through a small footprint, and it shows in the numbers: 135 injury collisions and 187 people hurt in the most recent reporting year, with three lives lost. Corridors like I-80, Powell Street, Hollis Street, and 40th Street carry heavy commuter and shopping-center traffic, and crashes here tend to cluster on Wednesday evenings between 6 and 8 p.m. If you were hurt in one of these collisions, the period right after matters. Insurance adjusters move fast, and they don't work for you. LawProactive isn't a law firm — we're a free service that connects injured Emeryville residents with an independent personal injury attorney who can evaluate your situation, explain your options under California law, and help you avoid the common missteps that weaken a claim before it even gets started.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Emeryville Car Accidents",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Herniated or bulging discs",
+      "Concussions and traumatic brain injury",
+      "Broken bones and fractures",
+      "Torn ligaments requiring surgery",
+      "Lingering soft-tissue and back pain"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer Calls Back",
+    "items": [
+      {
+        "title": "California's Clock Is Ticking",
+        "desc": "You generally have two years from the crash date to file a car accident claim in California, but that window can shrink to as little as six months if a government vehicle or roadway defect was involved — relevant on a public corridor like Powell Street. An attorney can help identify which deadline applies to your case early."
+      },
+      {
+        "title": "Comparative Fault Cuts Both Ways",
+        "desc": "California uses pure comparative fault, meaning you can still recover damages even if you're partly at fault — your compensation is simply reduced by your share of responsibility. Insurers often try to inflate your share of blame, so having someone push back on that math matters."
+      },
+      {
+        "title": "Recorded Statements Aren't Required — And Often Backfire",
+        "desc": "The other driver's insurer may ask for a recorded statement soon after the crash; you're not obligated to give one, and early statements are frequently used to minimize claims later. An attorney can speak on your behalf and help preserve evidence like traffic camera footage or witness contact info before it disappears."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What should I do right after a car accident on I-80 or Hollis Street in Emeryville?",
+        "answer": "Seek medical attention even if injuries seem minor, since some symptoms show up hours or days later. Document the scene with photos if you're able, get contact information from witnesses, and avoid giving a recorded statement to any insurance company until you've spoken with an attorney. LawProactive can connect you with someone quickly if you're unsure where to start."
+      },
+      {
+        "question": "How long do I have to file a claim after a crash in Alameda County?",
+        "answer": "In most California car accident cases, you have two years from the date of the crash to file a lawsuit. That deadline can be much shorter, sometimes six months, if a government entity or public roadway defect contributed to the crash, so it's worth having a professional review the specifics of your accident promptly."
+      },
+      {
+        "question": "Will I still be able to recover damages if I was partly at fault?",
+        "answer": "Yes. California follows a pure comparative fault rule, so you can recover compensation even if you were partially responsible for the accident. Your total recovery is adjusted to reflect your percentage of fault, which is why it helps to have someone advocating that percentage is calculated fairly."
+      }
+    ]
+  }
+}

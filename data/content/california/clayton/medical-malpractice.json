@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "clayton medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Clayton Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Clayton, CA? Get connected free to an independent malpractice attorney serving Contra Costa County."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Clayton went wrong, LawProactive can connect you with an independent attorney who handles California medical malpractice claims at no upfront cost to you."
+  },
+  "about": {
+    "title": "Clayton Medical Malpractice Claims",
+    "longDescription": "Clayton is a small Contra Costa County community, and many residents drive to larger facilities in Concord, Walnut Creek, or beyond for hospital care, surgery, or specialist treatment. When something goes wrong during that care — a missed diagnosis, a surgical error, a medication mistake — the aftermath can be confusing on top of being painful. California law puts real structure around these claims: strict notice requirements, filing deadlines, and a requirement that a qualified medical expert review the case before it can move forward. LawProactive doesn't practice law or take a fee from you directly; we simply connect Clayton residents with an independent attorney who screens the facts, checks the timeline against California's rules, and explains whether a claim looks worth pursuing. There's no obligation to move forward after that conversation, and consultations through our network don't cost you anything upfront.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect You About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Talk to an independent attorney about your medical care in Clayton — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Timing and Evidence Matter in Clayton Malpractice Cases",
+    "items": [
+      {
+        "title": "MICRA's Clock Is Unforgiving",
+        "desc": "California generally gives you one year from when you discovered the harm, and never more than three years from the injury itself, to file. Waiting to sort things out on your own can quietly cost you the right to any claim at all."
+      },
+      {
+        "title": "A 90-Day Notice Almost Always Comes First",
+        "desc": "Before a lawsuit can even be filed, California requires a 90-day written notice to the provider. An attorney familiar with this process can make sure the notice is sent correctly and on time."
+      },
+      {
+        "title": "Expert Review Isn't Optional",
+        "desc": "A bad medical outcome by itself isn't proof of malpractice — California requires a qualified medical expert to weigh in on whether the care fell below the accepted standard. Connecting early with an attorney who can line up that review matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Clayton but was treated at a hospital in another city — does that matter?",
+        "answer": "Not for purposes of getting connected with an attorney. What matters is where the care happened and when, since that determines which facility and providers may be involved and how the notice and filing deadlines apply. LawProactive can connect Clayton residents with attorneys regardless of which nearby hospital or clinic was involved."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from the date you discovered — or reasonably should have discovered — the injury, but no more than three years from the date it occurred, with limited exceptions. There's also a required 90-day pre-suit notice to the provider before a case can be filed. Because these deadlines run quickly, it helps to have an attorney review your timeline as soon as possible."
+      },
+      {
+        "question": "Is there a cap on what I can recover in a California malpractice case?",
+        "answer": "California law caps non-economic damages, like pain and suffering, in these cases, and that cap increases each year under current law. Economic damages, such as documented medical bills and lost income, are handled separately. An attorney can walk through how these categories apply to your specific situation."
+      }
+    ]
+  }
+}

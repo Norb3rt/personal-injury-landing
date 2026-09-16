@@ -24,6 +24,7 @@ import { NearbyCities } from "@/components/nearby-cities"
 import { StateLegalInfo } from "@/components/state-legal-info"
 import { LocalResources } from "@/components/local-resources"
 import { AccidentStatistics } from "@/components/accident-statistics"
+import { AccidentDataHub } from "@/components/accident-data-hub"
 import { LocalNews } from "@/components/local-news"
 import { CityGoogleMap } from "@/components/city-google-map"
 // Import territory / lawyer cards
@@ -32,6 +33,7 @@ import { TerritoryAvailableCard } from "@/components/lawyers/territory-available
 import { getLawyerForTerritory } from "@/lib/get-lawyer-for-territory"
 import { getStateLawInfo } from "@/data/state-laws"
 import { generateAccidentStats } from "@/data/accident-stats"
+import { getAccidentData } from "@/lib/get-accident-data"
 
 // Import animation components
 import {
@@ -137,7 +139,11 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
   // Get state-specific legal information
   const stateLawInfo = getStateLawInfo(paramState)
 
-  // Generate accident statistics for this city
+  // Fetch real SWITRS crash data for this city (California-only, where loaded).
+  // Falls back to the modeled estimate below when no real data exists.
+  const accidentData = await getAccidentData(city, paramState, paramCity)
+
+  // Generate accident statistics for this city (fallback when no real data)
   const accidentStats = generateAccidentStats(city, state, paramState, cityLocation?.population, cityLocation?.coordinates)
 
   // Fetch news articles server-side for rendering and schema generation
@@ -411,8 +417,73 @@ export default async function PersonalInjuryLanding({ params }: PageProps) {
           </div>
         </section>
 
-        {/* Accident Statistics Section */}
-        <AccidentStatistics stats={accidentStats} />
+        {/* Accident Statistics Section — real SWITRS data where available,
+            modeled estimate as fallback */}
+        {accidentData ? (
+          <AccidentDataHub data={accidentData} cityLabel={city} />
+        ) : (
+          <AccidentStatistics stats={accidentStats} />
+        )}
+
+        {/* Local Context Section — unique per-city prose. Renders ONLY when a
+            generated (or CMS) override supplied about.longDescription, so cities
+            without unique content stay clean and avoid duplicate-content risk. */}
+        {config.about?.longDescription ? (
+          <section className="py-16 px-4 bg-white" id="local-context">
+            <div className="max-w-4xl mx-auto">
+              <FadeIn direction="up" delay={0.1}>
+                <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
+                  {config.about.title}
+                </h2>
+              </FadeIn>
+              <FadeIn direction="up" delay={0.2}>
+                <p className="text-lg text-gray-700 leading-relaxed mb-8 whitespace-pre-line">
+                  {config.about.longDescription}
+                </p>
+              </FadeIn>
+
+              {config.about.commonInjuries && config.about.commonInjuries.length > 0 && (
+                <FadeIn direction="up" delay={0.25}>
+                  <div className="mb-10">
+                    <h3 className="text-xl font-semibold mb-4 text-gray-900">
+                      {config.about.commonInjuriesTitle}
+                    </h3>
+                    <ul className="grid sm:grid-cols-2 gap-3">
+                      {config.about.commonInjuries.map((injury, i) => (
+                        <li key={i} className="flex items-start gap-3">
+                          <span className="w-2 h-2 rounded-full mt-2 flex-shrink-0" style={{ backgroundColor: '#0B6B65' }}></span>
+                          <span className="text-gray-700">{injury}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                </FadeIn>
+              )}
+
+              {config.whyChoose?.items && config.whyChoose.items.length > 0 && (
+                <div>
+                  <FadeIn direction="up" delay={0.3}>
+                    <h3 className="text-2xl font-bold mb-6 text-gray-900">
+                      {config.whyChoose.title}
+                    </h3>
+                  </FadeIn>
+                  <StaggerContainer staggerDelay={0.08} className="grid md:grid-cols-2 gap-6">
+                    {config.whyChoose.items.map((item, i) => (
+                      <StaggerItem key={i}>
+                        <Card className="h-full border-0 shadow-md bg-white/80">
+                          <CardContent className="p-6">
+                            <h4 className="text-lg font-semibold mb-2 text-gray-900">{item.title}</h4>
+                            <p className="text-gray-600 leading-relaxed">{item.desc}</p>
+                          </CardContent>
+                        </Card>
+                      </StaggerItem>
+                    ))}
+                  </StaggerContainer>
+                </div>
+              )}
+            </div>
+          </section>
+        ) : null}
 
         {/* Local News Section */}
         <LocalNews

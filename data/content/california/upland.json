@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "upland city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Upland, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Upland or elsewhere in San Bernardino County? You have 2 years to file. Get connected free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on Foothill Boulevard, bitten by a dog, or hurt in a fall at a store, LawProactive connects you at no cost with an independent injury attorney serving Upland and San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Upland, California",
+    "longDescription": "Upland sits where the foothills meet the western edge of San Bernardino County, and the roads that carry its 76,443 residents also carry a lot of pass-through traffic. SR-210 (the Foothill Freeway) runs across the north side of town. Euclid Avenue and Mountain Avenue move people north and south, and Foothill Boulevard cuts east to west through the retail core. In public collision records, those four corridors log the highest counts in the city. The 2025 numbers, the most recent final year, show 430 injury collisions in Upland, 628 people injured, and 2 lives lost. Reports tend to rise late on Friday afternoons, roughly 5 to 7 p.m., when commuters and weekend errands overlap.\n\nIf one of those collisions — or a fall, a dog bite, or a workplace accident — has left you hurt, the first steps can feel muddled. LawProactive exists to simplify one of them. We are a free service, not a law firm. We do not give legal advice or handle cases ourselves. What we do is connect you with an independent personal injury attorney who takes Upland cases, and who works on contingency, meaning no fee unless there is a recovery. You describe what happened; the attorney tells you what your options look like. It costs nothing to ask.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Upland",
+    "commonInjuries": [
+      "Neck and back strain after freeway or surface-street collisions",
+      "Broken bones from motorcycle and bicycle crashes",
+      "Concussions and other head injuries",
+      "Pedestrian injuries in crosswalks and parking lots",
+      "Slip, trip, and fall injuries on private property",
+      "Dog bites and animal-related wounds"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Upland Claim",
+    "items": [
+      {
+        "title": "Two years, and sometimes far less",
+        "desc": "California gives most injury claims a two-year filing window. If a city, county, or state agency is involved, a claim may be due in as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "Under California's pure comparative fault rule, being partly responsible reduces your recovery in proportion to your share but does not eliminate it."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California places no statutory ceiling on non-economic damages, so the human cost of an injury can be fully considered."
+      },
+      {
+        "title": "Contingency fees, not hourly bills",
+        "desc": "Attorneys in our network work on contingency. You owe no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say.",
+      "I missed work and the bills are piling up faster than I can read them.",
+      "I might have been partly at fault — does that mean I get nothing?",
+      "I can't afford a lawyer and don't want to be charged just to ask a question."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not provide legal advice. We put you in touch with an independent personal injury attorney who handles cases in Upland and the surrounding area. Any attorney-client relationship is between you and that attorney."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Upland?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date of injury. Claims against a government entity, such as a city or county, can carry a much shorter window — sometimes just six months. Speaking with an attorney early helps make sure no deadline slips past."
+      },
+      {
+        "question": "Where do crashes in Upland tend to happen?",
+        "answer": "Based on public collision records, the corridors with the highest counts are SR-210 (the Foothill Freeway), Euclid Avenue, Mountain Avenue, and Foothill Boulevard. These are neutral counts that reflect traffic volume, not a judgment about any particular road. Reports also tend to peak on Fridays between about 5 and 7 p.m."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California follows a pure comparative fault rule. Your recovery is reduced by your percentage of fault, but you are not barred from recovering even if you shared some of the blame. An attorney can help sort out how fault might be assigned in your situation."
+      },
+      {
+        "question": "What does it cost to get connected and talk to an attorney?",
+        "answer": "Nothing to get connected through LawProactive. The attorneys in our network work on contingency, which means there is no attorney fee unless there is a recovery in your case. You can ask questions and learn your options before making any decision."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "millbrae workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Millbrae Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Millbrae? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working near El Camino Real, at a warehouse off US-101, or anywhere in Millbrae, LawProactive can connect you with an independent attorney who knows how workplace injury claims work in San Mateo County."
+  },
+  "about": {
+    "title": "Millbrae Workplace Injury Claims",
+    "longDescription": "Millbrae's economy sits close to major transit corridors and commercial stretches along El Camino Real and E Millbrae Avenue, where delivery workers, contractors, hotel staff, and retail employees move through busy traffic every day. When a workplace injury happens here, California law usually routes the claim through workers' compensation, regardless of who was at fault. But that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver on US-101 contributed to your injury, you may have a separate claim against that third party outside the workers' comp system. Understanding which path applies — or whether both do — can be confusing while you're also trying to recover. LawProactive doesn't practice law ourselves; we simply connect injured workers in Millbrae with an independent attorney who can look at the details of your incident and explain your options, at no upfront cost to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connections For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Repetitive strain and overexertion injuries",
+      "Struck-by or caught-in machinery incidents",
+      "Vehicle-related injuries during work travel or deliveries",
+      "Burns or chemical exposure on job sites",
+      "Slip-and-fall injuries in retail or hospitality settings"
+    ],
+    "ctaText": "Get connected with an independent attorney about your Millbrae workplace injury."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "Clarity Between Comp and Third-Party Claims",
+        "desc": "California generally treats workers' comp as the exclusive remedy against your employer, but a negligent third party — like a subcontractor or another driver — can open a separate claim. An attorney can help sort out which applies to your situation."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Reporting a workplace injury within 30 days is required, and California law prohibits employer retaliation for doing so. An independent attorney can advise you if you feel you're being pushed out or punished for filing."
+      },
+      {
+        "title": "Awareness of the Two-Year Window",
+        "desc": "Any third-party injury claim connected to your workplace accident carries a two-year deadline in California. Connecting early gives an attorney time to evaluate evidence before that window closes."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a delivery route along El Camino Real — is that a workers' comp claim or something else?",
+        "answer": "It could be both, depending on the details. Workers' comp typically covers on-the-job injuries regardless of fault, but if another driver caused the crash, you may also have a separate third-party claim against that driver. An independent attorney can review the specifics and explain how the two might work together."
+      },
+      {
+        "question": "How long do I have to report a workplace injury in Millbrae?",
+        "answer": "California generally requires you to report a workplace injury to your employer within 30 days. Missing that window can complicate your workers' comp claim, so it's worth reporting as soon as you're able, even if the injury seems minor at first."
+      },
+      {
+        "question": "Can my employer fire me for filing a workers' comp claim?",
+        "answer": "No — retaliation for reporting a workplace injury or filing a workers' comp claim is illegal in California. If you believe you're facing retaliation, an independent attorney can help you understand your options and protections."
+      }
+    ]
+  }
+}

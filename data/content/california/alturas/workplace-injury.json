@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "alturas workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Alturas Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Alturas? Get connected free with an independent attorney who can look at your workers' comp and third-party options."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Alturas or elsewhere in Modoc County, we can connect you free of charge with an independent attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "Alturas Workplace Injury Claims",
+    "longDescription": "Alturas sits at the center of a ranching and agricultural economy, and a lot of the work here happens on farms, ranches, county roads, and small job sites rather than in office towers. That means workplace injuries often involve heavy equipment, livestock handling, vehicles, or falls on uneven ground rather than a typical desk job. Under California law, workers' compensation is usually the only path against your employer, no matter who was at fault, but that's not always the full story. If a piece of equipment failed, a subcontractor was careless, or another driver caused a job-site collision, you may also have a separate claim against that third party. LawProactive doesn't practice law ourselves; we simply connect injured workers in Alturas with an independent attorney who can look at the facts, sort out which path applies, and explain your options in plain language.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, trucks, or uneven ground",
+      "Injuries from farm or ranch equipment",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Crush or caught-between injuries from machinery",
+      "Burns or chemical exposure on the job"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Signing Anything",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Always Obvious",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent equipment maker, subcontractor, or other driver can still be separately liable. An attorney can help figure out if that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires injured workers to notify their employer within 30 days of a workplace injury. Missing that window can complicate your claim, so it's worth getting guidance early."
+      },
+      {
+        "title": "Retaliation Is Illegal, But Workers Still Worry",
+        "desc": "It's against California law for an employer to retaliate against you for reporting an injury or filing a claim. An independent attorney can advise you on your rights if you're concerned about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a ranch job outside Alturas. Does workers' comp still apply?",
+        "answer": "In most cases, yes, if you were working for that employer at the time of the injury. Workers' comp is generally the exclusive remedy against your employer regardless of fault. If a third party, like an equipment manufacturer or another driver, contributed to the accident, you may also have a separate claim worth discussing with an attorney."
+      },
+      {
+        "question": "What if my injury happened while driving for work on County Road 1 or 4th Street?",
+        "answer": "If another driver caused the crash while you were on the job, you may have both a workers' comp claim and a separate third-party claim against that driver. These are two different paths, and an attorney can help you understand how they interact."
+      },
+      {
+        "question": "How long do I have to bring a claim if a third party caused my injury?",
+        "answer": "California generally allows two years from the date of injury to file a third-party personal injury claim. Workers' comp reporting has its own 30-day window to notify your employer, so it helps to get information early rather than waiting."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "jurupa-valley city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Jurupa Valley, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Jurupa Valley? Free connection to an independent Riverside County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car wreck on Limonite Avenue or suffered a fall or workplace injury elsewhere in town, we'll connect you with an independent attorney serving Riverside County at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in Jurupa Valley, California",
+    "longDescription": "Jurupa Valley sits at the crossroads of Riverside County traffic, and its main corridors — Limonite Avenue, SR-60, Mission Boulevard, and Van Buren Boulevard — carry a steady flow of daily commuters, delivery trucks, and local drivers. In the most recent full year on record, the city logged 604 injury collisions, with 848 people injured and 13 traffic deaths. Behind each number is someone dealing with medical bills, missed work, and an insurance company that wants to settle fast and cheap. LawProactive is a free service that connects injured people in Jurupa Valley with an independent personal injury attorney — we are not a law firm, and we never charge you anything to make that connection. If an attorney takes your case, they typically work on contingency, meaning there's no fee unless you actually recover money. Beyond crashes on the city's busy corridors, people get hurt in slip-and-falls, dog bites, and workplace accidents too. You don't need to figure out the legal side alone or guess at deadlines — getting matched with someone who knows California injury law can help you understand your options before you talk to any insurance adjuster.",
+    "commonInjuriesTitle": "Common Injuries We See Connections For",
+    "commonInjuries": [
+      "Whiplash and neck injuries from rear-end collisions",
+      "Broken bones from vehicle or pedestrian crashes",
+      "Traumatic brain injuries from falls or crashes",
+      "Herniated discs and back injuries",
+      "Soft tissue and ligament damage",
+      "Cuts, bruises, and lacerations requiring treatment"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Getting Connected Quickly Matters",
+    "items": [
+      {
+        "title": "California Gives You Two Years — But It Passes Fast",
+        "desc": "Under California's statute of limitations, you generally have two years from the date of injury to file a claim, though claims against a government agency can require notice in as little as six months. Waiting to get organized can cost you the chance to recover anything at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Claim",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault. An independent attorney can help you understand how that percentage might apply to your situation."
+      },
+      {
+        "title": "No Cap on What You Can Recover for Pain and Suffering",
+        "desc": "In ordinary injury cases, California doesn't limit non-economic damages like pain, suffering, or loss of enjoyment of life. That means your recovery isn't artificially capped just because your injuries are hard to put a price tag on."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to hire one. They only get paid if you win or settle, which means their incentive is aligned with getting you a fair outcome."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know how I'll pay them",
+      "The insurance adjuster keeps calling and I don't know what to say",
+      "I missed work and I'm worried about losing my income",
+      "I'm not sure if I even have a case or if it's too late to do anything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and we're not a law firm — we simply connect you with an independent personal injury attorney in Riverside County. If that attorney takes your case, they typically work on contingency, so you don't pay unless there's a recovery."
+      },
+      {
+        "question": "How long do I have to file a personal injury claim in Jurupa Valley?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If your injury involves a government entity or public road, the window can be much shorter, sometimes just six months, so it's worth getting information sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover damages even if you share some of the blame. Your total recovery would just be reduced by your percentage of fault, rather than being blocked entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Jurupa Valley?",
+        "answer": "Public crash records show higher collision counts along corridors like Limonite Avenue, SR-60, Mission Boulevard, and Van Buren Boulevard, with reports tending to peak on Fridays between roughly 2 and 4 p.m. These are simply the areas with the most recorded activity, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — in ordinary personal injury cases, California does not cap non-economic damages such as pain and suffering. This is different from some other states, and it's one reason talking to an attorney familiar with California law can matter."
+      }
+    ]
+  }
+}

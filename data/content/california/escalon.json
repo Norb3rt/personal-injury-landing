@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "escalon city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Escalon, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Escalon, San Joaquin County? Free connection to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident around Escalon, we can connect you free of charge with an independent attorney serving San Joaquin County. There's no cost to find out where you stand."
+  },
+  "about": {
+    "title": "Personal Injury Help in Escalon, California",
+    "longDescription": "Escalon is a small, tight-knit community, but its roads still carry real risk. Public records show 17 injury collisions in the most recent final crash year, with 23 people hurt and 1 traffic death. Crashes tend to cluster on Thursday afternoons between 3 and 5 p.m., and the corridors that see the most reported activity include Rt 120, McHenry Avenue, Escalon Avenue, and Main Street — routes that carry a mix of local traffic, farm equipment, and through-drivers heading between Highway 99 and the valley's smaller towns. When a crash happens on one of these roads, the aftermath can be disorienting: medical visits, missed work, insurance calls, and uncertainty about what comes next. LawProactive is a free service that helps injured people in Escalon connect with an independent personal injury attorney who can look at the specifics of what happened. We are not a law firm, and we don't decide claims or handle cases ourselves — we simply make the introduction. Attorneys in our network work on contingency, meaning there's no fee unless there's a recovery. If you're trying to figure out your options after an injury in Escalon, reaching out costs nothing and commits you to nothing.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring physical therapy or surgery"
+    ],
+    "ctaText": "Find out your options — free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "The Filing Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government entity can require notice in as little as six months. Missing that window can end your case before it starts."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages — like pain and suffering — in ordinary injury cases. That distinction can matter a lot when injuries affect daily life."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, which means they only get paid if you receive a settlement or award. There's no hourly bill and no retainer required to get started."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Not knowing if the other driver's insurance will actually cover everything",
+      "Wondering if it's already too late to do anything about it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Escalon?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If a government vehicle or entity was involved, that window can shrink to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses a pure comparative fault rule, which means being partly at fault doesn't bar you from recovering compensation. Your final award is simply adjusted to reflect your percentage of responsibility."
+      },
+      {
+        "question": "Where do crashes tend to happen in Escalon?",
+        "answer": "Public crash records show higher collision counts along corridors like Rt 120, McHenry Avenue, Escalon Avenue, and Main Street, with activity often peaking on Thursday afternoons between 3 and 5 p.m. These are neutral record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — California does not cap non-economic damages, such as pain and suffering, in typical personal injury cases. That's different from some other states and can be an important factor in your claim."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney, and we are not a law firm ourselves. Attorneys in the network work on contingency, so there's no fee unless you actually recover money."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "williams workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Williams Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Williams, CA? Get connected free with an independent attorney who handles workers' comp and third-party workplace claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Williams — whether in the fields, a warehouse near I-5, or a shop off 8th Street — LawProactive can connect you with an independent attorney at no cost to you."
+  },
+  "about": {
+    "title": "Williams Workplace Injury Claims",
+    "longDescription": "Williams sits along the I-5 corridor in Colusa County, where agriculture, trucking, and small commercial operations make up much of the local workforce. When someone gets hurt on the job here, California's workers' compensation system usually handles medical bills and lost wages, regardless of who was at fault. But that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate third-party claim may be possible alongside a comp claim. LawProactive doesn't practice law — we're a free service that connects injured workers in Williams with independent attorneys who can sort out which path, or combination of paths, applies. Whether the injury happened during a shift near Rt 20, on a farm outside town, or in a delivery accident on E Street, getting the right information early can matter. There's no cost to find out what options exist.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from heavy farm or industrial machinery",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Chemical or pesticide exposure incidents",
+      "Crush or caught-between injuries with equipment"
+    ],
+    "ctaText": "Find out your options — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Workplace Injury",
+    "items": [
+      {
+        "title": "Comp Isn't Always the Whole Picture",
+        "desc": "Workers' comp is typically the exclusive remedy against an employer, but a negligent third party — like a subcontractor or equipment maker — can still be pursued separately."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires injuries be reported to the employer within 30 days, so waiting too long can complicate a claim before it even starts."
+      },
+      {
+        "title": "You're Protected From Retaliation",
+        "desc": "It's illegal for an employer to punish a worker for reporting an injury or filing a claim, and an attorney can help address it if that happens."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I already filed a workers' comp claim in Williams — can I still talk to an attorney?",
+        "answer": "Yes. Workers' comp and a third-party claim aren't mutually exclusive, so it's worth having an independent attorney review whether another party contributed to the accident. LawProactive can connect you at no cost, even if a comp claim is already underway."
+      },
+      {
+        "question": "What if I was injured on a farm or in a field outside Williams?",
+        "answer": "Agricultural work carries its own risks, from equipment to vehicle accidents on rural roads like Rt 20. Workers' comp generally applies the same way it would for any other job, but if outside equipment or a contractor was involved, a separate claim may also be possible."
+      },
+      {
+        "question": "How long do I have to bring a third-party injury claim in California?",
+        "answer": "Third-party claims generally carry a two-year deadline from the date of the injury. Workers' comp reporting has its own separate 30-day window with the employer, so it helps to move on both fronts without delay."
+      }
+    ]
+  }
+}

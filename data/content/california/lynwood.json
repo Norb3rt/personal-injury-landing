@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "lynwood city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lynwood, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Lynwood? Connect free with an independent injury attorney serving Los Angeles County. Most claims allow 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a car crash on Long Beach Boulevard, a pedestrian collision, or a fall on someone else's property left you hurting, LawProactive connects you free of charge with an independent personal injury attorney serving Lynwood and Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Lynwood, California",
+    "longDescription": "Lynwood sits where Long Beach Boulevard, Imperial Highway and Atlantic Avenue meet the I-105 Glenn Anderson Freeway, and that mix of surface streets and freeway ramps shapes how people here get hurt. In 2025, the most recent final reporting year, Lynwood recorded 304 injury collisions. Those crashes left 398 people injured and took 3 lives in a city of just under 72,000 residents. Public records also show the busiest window of the week falls on Friday afternoons between 3 and 5 p.m., when school pickups, commutes and weekend errands overlap. LawProactive exists for the people behind those numbers. We are a free service, not a law firm, and we do not give legal advice ourselves. What we do is listen to what happened and connect you with an independent personal injury attorney who handles cases in Los Angeles County. There is no charge for the connection, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. Whether you were rear-ended on Imperial Highway, knocked off a bike near Atlantic Avenue, or hurt in a fall at a Lynwood business, you deserve a clear explanation of your options. Reaching out costs nothing and commits you to nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Lynwood Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end crashes",
+      "Fractured arms, wrists and collarbones",
+      "Concussions and other head trauma",
+      "Back and spinal disc injuries",
+      "Road rash and deep lacerations from bike or scooter falls",
+      "Knee and hip injuries from slips and pedestrian collisions"
+    ],
+    "ctaText": "Tell us what happened. The connection is free and there is no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Lynwood Claim",
+    "items": [
+      {
+        "title": "The clock is real: two years, sometimes six months",
+        "desc": "California gives most injury victims two years to file a lawsuit, but claims against a city, county or other government entity can require a notice within six months. An attorney can sort out which deadline applies to your situation."
+      },
+      {
+        "title": "Partial fault does not shut the door",
+        "desc": "Under California's pure comparative fault rule, being partly responsible reduces your recovery by your share of blame rather than eliminating it. You can still pursue a claim even if you think you made a mistake."
+      },
+      {
+        "title": "No statutory cap on pain-and-suffering damages",
+        "desc": "In ordinary personal injury cases, California does not cap non-economic damages such as pain, anxiety and loss of enjoyment of life. Those losses count, not just your medical bills."
+      },
+      {
+        "title": "Contingency fees keep the door open",
+        "desc": "Attorneys in the LawProactive network work on contingency, so you pay no attorney fee unless there is a recovery. You do not need savings to get a lawyer looking at your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I missed shifts after the crash and rent is coming due.",
+      "My doctor wants follow-up visits I can't afford right now.",
+      "I was partly at fault, so I assume I have no case."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes tend to happen in Lynwood?",
+        "answer": "Public collision records list Long Beach Boulevard, the I-105 Glenn Anderson Freeway, Imperial Highway and Atlantic Avenue as the corridors with the highest counts. These are simply the streets and freeway segments carrying the most traffic through the city. Records also show reported crashes peaking on Fridays between 3 p.m. and 5 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "Most personal injury lawsuits must be filed within two years of the injury. If a government agency may be responsible, such as for a road defect or a city vehicle, a claim notice may be required within six months. Talking with an attorney early helps make sure no deadline slips past."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free connection service and not a law firm. We match you with an independent attorney, and the attorneys we work with take cases on contingency, so there is no attorney fee unless there is a recovery."
+      },
+      {
+        "question": "What if the police report says I share some of the blame?",
+        "answer": "California follows pure comparative fault, which means your compensation is reduced by your percentage of responsibility rather than denied outright. Even someone found mostly at fault can still recover something. An attorney can review whether the fault assessment in your case is fair."
+      },
+      {
+        "question": "Should I talk to the insurance adjuster before I speak with an attorney?",
+        "answer": "You are generally not required to give a recorded statement to the other party's insurer right away. Adjusters may ask questions designed to minimize what the company pays. Many people find it helpful to understand their rights first, which is exactly what a free connection through LawProactive is for."
+      }
+    ]
+  }
+}

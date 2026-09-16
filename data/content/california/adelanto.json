@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "adelanto city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Adelanto, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Adelanto? Connect free with an independent San Bernardino County attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or workplace accident in Adelanto, we can connect you with an independent attorney free of charge. LawProactive serves injured residents throughout San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Adelanto, California",
+    "longDescription": "Adelanto is a growing High Desert community of roughly 33,166 residents, and like many fast-growing towns, its roads carry a mix of local traffic and regional commuters passing through on Rt 395, Bellflower Street, Palmdale Road, and Air Expwy. Public records show 59 injury collisions in the most recent final reporting year, with 92 people injured and 5 traffic deaths — and reported crashes tend to cluster on Fridays between 5 and 7 p.m., often tied to end-of-week commute patterns. If you or someone you love was hurt in one of these incidents, or in a fall, workplace accident, or other injury event, sorting out next steps can feel overwhelming while you're also trying to heal. LawProactive is a free service that connects injured people in Adelanto with an independent personal injury attorney — we are not a law firm, and we don't decide your case or charge you anything. Attorneys in our network work on contingency, meaning there's no fee unless they recover compensation for you. Reaching out costs nothing and starts with a simple conversation about what happened.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from falls or workplace incidents"
+    ],
+    "ctaText": "Find out if you have a case — the call is free."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "Time Limits Apply",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government agency can require notice in as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the incident — your share of fault simply reduces the amount, it doesn't eliminate it."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering, which can matter a great deal depending on the severity of what you've been through."
+      },
+      {
+        "title": "You Pay Nothing Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost or hourly bill — fees only come out of a settlement or award if one is obtained."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know how to keep up",
+      "I'm worried I waited too long to do anything about this",
+      "I was partly at fault, so I assume I can't get help",
+      "I can't afford a lawyer right now"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no upfront cost to have a conversation about what happened."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Adelanto?",
+        "answer": "In most California personal injury cases, you have two years from the date of the incident to file a lawsuit. If your injury involved a government entity or public property, that window can shrink to as little as six months, so it's worth acting sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still pursue compensation even if you share some blame. Your recovery would be reduced by your percentage of fault, but it isn't automatically barred."
+      },
+      {
+        "question": "Are certain roads in Adelanto more likely to see crashes?",
+        "answer": "Public collision records show that Rt 395, Bellflower Street, Palmdale Road, and Air Expwy are among the higher-volume corridors for reported injury collisions in Adelanto, and crash reports also tend to cluster on Fridays between 5 and 7 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent, licensed attorneys in their area. We don't represent clients directly or charge any fees ourselves — we simply help you get connected."
+      }
+    ]
+  }
+}

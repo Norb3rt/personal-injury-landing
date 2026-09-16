@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "fillmore city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fillmore, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Fillmore, Ventura County? Get connected free to an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a crash on Fillmore's roads left you with whiplash, a broken bone, or something more serious, we can connect you free of charge with an independent attorney serving Ventura County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Fillmore, California",
+    "longDescription": "Fillmore sits along Rt 126, where local traffic on Ventura Street and A Street mixes with drivers passing through the Santa Clara River Valley. In the most recent full year on record, Fillmore saw 58 injury collisions, with 90 people hurt and 2 lives lost — public-record counts that reflect how much can happen on even a small town's streets. Many of these crashes cluster on Fridays between 5 and 7 p.m., when weekend traffic builds along the SR-126 corridor. If you were hurt in one of these collisions, sorting out medical bills, missed work, and insurance calls can feel like a full-time job on top of recovering. LawProactive is a free service — we are not a law firm — that connects injured people in Fillmore with an independent personal injury attorney who works on contingency, meaning there's no fee unless you recover compensation. We don't practice law or handle your case ourselves; we simply help you get in front of someone who can evaluate what happened and explain your options, without cost or obligation to you.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney costs you nothing."
+  },
+  "whyChoose": {
+    "title": "What Matters Under California Law",
+    "items": [
+      {
+        "title": "A Filing Deadline That Doesn't Wait",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government agency can require action in as little as six months. Waiting too long can close the door on your case entirely."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for a crash, you can still pursue compensation — it's simply reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "For ordinary injury cases, California places no cap on non-economic damages like pain, suffering, and emotional distress, unlike some other states."
+      },
+      {
+        "title": "You Pay Nothing Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning legal fees only come out of a settlement or award — never out of pocket up front."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Feeling pressured by insurance adjusters to accept a quick, low settlement",
+      "Not knowing if you waited too long to take action",
+      "Fear that being partly at fault means you have no case at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Fillmore?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a claim. If a government entity, like a city or county vehicle, was involved, that window can shrink to as little as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "Where do injury crashes tend to cluster in Fillmore?",
+        "answer": "Public crash records show that collisions in Fillmore concentrate along corridors like Rt 126, Ventura Street, and A Street, with a noticeable rise in reports on Fridays between 5 and 7 p.m. These are simply neutral collision counts, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California's pure comparative fault rule means you can still recover compensation even if you share some responsibility. Your total recovery would just be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Is there a cost to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney — we are not a law firm and don't charge you anything to make that connection."
+      },
+      {
+        "question": "Do I have to pay the attorney upfront?",
+        "answer": "Attorneys in our network work on a contingency basis, meaning they only get paid if you recover compensation. There's no upfront legal fee to worry about while you focus on recovering."
+      }
+    ]
+  }
+}

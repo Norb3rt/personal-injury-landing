@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "ridgecrest slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ridgecrest Slip & Fall Attorney Help | LawProactive",
+    "metaDescription": "Hurt in a fall in Ridgecrest? Get connected free with an independent premises liability attorney. No fee unless you recover. Kern County coverage."
+  },
+  "hero": {
+    "subtitle": "A fall at a Ridgecrest store, apartment complex, or public building can leave you with medical bills and questions about who's responsible. LawProactive connects you with an independent attorney who handles premises liability cases across Kern County at no upfront cost."
+  },
+  "about": {
+    "title": "Ridgecrest Slip & Fall Claims",
+    "longDescription": "Ridgecrest's mix of desert climate, high foot traffic near China Lake-area businesses, and older commercial buildings along corridors like S China Lake Boulevard and E Ridgecrest Boulevard can create conditions ripe for falls — uneven pavement, spilled products, wet floors, or poor lighting in parking areas. When a property owner knows about a hazard and doesn't fix it or warn visitors, California law may hold them accountable. But these claims often hinge on proof: what the surface looked like, how long the hazard existed, and whether it was documented before it disappeared. LawProactive helps injured Ridgecrest residents get matched with an independent attorney familiar with local businesses and property types, from grocery stores to rental housing. There's no cost to get connected, and any attorney in the network works on contingency, meaning you owe nothing unless your claim results in a recovery. The sooner a hazard is documented, the stronger a claim tends to be.",
+    "commonInjuriesTitle": "Injuries We See in Fall Cases",
+    "commonInjuries": [
+      "Fractured wrists, hips, or ankles",
+      "Torn ligaments and sprains",
+      "Head injuries from impact with flooring or fixtures",
+      "Back and spinal injuries",
+      "Shoulder dislocations from bracing a fall",
+      "Cuts or lacerations from broken surfaces or glass"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Documentation Matters in a Ridgecrest Fall Case",
+    "items": [
+      {
+        "title": "Notice Is the Core Issue",
+        "desc": "California requires showing the property owner knew or reasonably should have known about the hazard and failed to address it. An attorney can help gather maintenance logs, prior complaints, and inspection records to establish this."
+      },
+      {
+        "title": "Video Disappears Fast",
+        "desc": "Many Ridgecrest businesses and complexes overwrite surveillance footage within days or weeks. Acting quickly to request preservation of video can make the difference in proving how long a hazard existed."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, Your Claim",
+        "desc": "Even if you're found partly responsible for a fall, California's pure comparative fault rule means you may still recover a reduced amount rather than being barred entirely."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Ridgecrest?",
+        "answer": "Generally you have two years from the date of the fall under California law, though claims against a public entity — such as a city-owned sidewalk or building — often carry a much shorter deadline. Because Ridgecrest includes public facilities and private businesses along corridors like N China Lake Boulevard, it's worth having an attorney confirm which timeline applies to your situation."
+      },
+      {
+        "question": "What if the store or property owner says I wasn't paying attention?",
+        "answer": "Property owners and their insurers often raise this defense, but under California's comparative fault rules, being partly at fault doesn't automatically block your claim. Your recovery may be reduced by your share of fault, but you can still pursue compensation for the rest."
+      },
+      {
+        "question": "Do I need proof the hazard existed before my fall?",
+        "answer": "Yes — proving the owner had notice of the hazard is central to a premises liability claim. Photos of the scene, witness names, incident reports, and any available surveillance footage from the location can all help establish how long the condition existed before you were hurt."
+      }
+    ]
+  }
+}

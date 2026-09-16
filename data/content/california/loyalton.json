@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "loyalton city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Loyalton, CA Injury Claim Help | Free Case Review",
+    "metaDescription": "Hurt in Loyalton, Sierra County? Get connected free to an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, fall, or other accident around Loyalton, we can connect you with an independent attorney at no cost. We serve people throughout Sierra County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Loyalton, California",
+    "longDescription": "Loyalton is a small community, and its roads reflect that — Rt 49, Beckwith Road, Church Street, and Courthouse Square see the most reported collision activity in the area, based on public records. The most recently finalized full year of data shows zero recorded injury collisions and zero traffic deaths in Loyalton, and reports tend to cluster on Tuesdays between 5 and 7 p.m. Even one crash, though, can turn a person's week upside down — medical visits, missed work, a car that needs repairs. LawProactive is a free service that helps people in Loyalton and across Sierra County connect with an independent personal injury attorney. We are not a law firm, and we don't handle your case ourselves — we simply make the introduction. Any attorney you're matched with works on contingency, meaning there's no fee unless they recover money for you. If something happened to you on one of these roads, or anywhere in town, it costs nothing to find out where you stand and what your options might be.",
+    "commonInjuriesTitle": "Injuries People Report After Accidents in Loyalton",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones or fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft-tissue damage",
+      "Torn ligaments or joint injuries"
+    ],
+    "ctaText": "See if you qualify for a free attorney connection — no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Generally Have Two Years",
+        "desc": "California law gives most injury victims two years from the date of the accident to file a claim. If a government entity was involved, that window can shrink to as little as six months, so it helps to act early."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly at fault. Your share of fault simply reduces the amount, rather than eliminating your claim entirely."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary personal injury cases, California doesn't limit how much you can recover for non-economic harm like pain and suffering. Every case is different, but the law doesn't put an artificial ceiling on it."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you get paid. That structure is designed to let you pursue a claim without paying money upfront."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the at-fault driver's insurance will actually cover the damage",
+      "Feeling unsure whether being partly at fault means giving up on a claim",
+      "Running out of time to act while trying to recover physically"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have a case if the crash happened outside city limits but near Loyalton?",
+        "answer": "Location matters less than the facts of what happened. An independent attorney can review the details regardless of exactly where along the road the incident occurred."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Generally, you have two years from the date of the accident under California's statute of limitations. If a government agency or vehicle was involved, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to get reported most in Loyalton?",
+        "answer": "Based on public collision records, Rt 49, Beckwith Road, Church Street, and Courthouse Square show the highest reported counts, with Tuesday evenings between 5 and 7 p.m. showing more activity than other times. This is simply a pattern in the public data, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means partial responsibility reduces your potential recovery but doesn't automatically bar you from claiming anything. An attorney can help sort out how fault might apply in your situation."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves — we simply help connect you with an independent attorney. If you move forward, that attorney typically works on contingency, meaning they only get paid if you recover money."
+      }
+    ]
+  }
+}

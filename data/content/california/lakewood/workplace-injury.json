@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "lakewood workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lakewood Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Lakewood, CA? Learn how workers' comp and third-party claims differ, and get connected free to an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Lakewood? Workers' comp may not be your only option, and a free connection to an independent attorney can help you see the full picture."
+  },
+  "about": {
+    "title": "Lakewood Workplace Injury Claims",
+    "longDescription": "Lakewood is home to just over 81,000 people in Los Angeles County, and much of its workday happens in motion: delivery vans along Del Amo Boulevard, service technicians moving between calls on South Street, retail and warehouse crews near Woodruff Avenue and Carson Street. When someone is hurt while working here, the first question is usually simple. Who pays? Under California law, workers' compensation covers your medical care and part of your lost wages no matter who caused the injury, and it is normally the only claim you can bring against your own employer. That is not always the end of the story. If a subcontractor, a property owner, a defective piece of equipment, or another driver played a role, a separate injury claim against that third party may be available alongside workers' comp. Lakewood's public collision records logged 308 injury crashes and 441 people hurt in 2025, and some of those people were on the clock. LawProactive is a free service that connects you with an independent attorney who can sort out which paths apply to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Lakewood",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Falls from ladders, loading docks, or wet floors",
+      "Crush and pinch injuries from machinery or equipment",
+      "Collision injuries while driving for work",
+      "Burns and electrical injuries on job sites",
+      "Head and shoulder trauma from falling objects"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Lakewood Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We help you see past workers' comp alone",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but a negligent third party can support a separate claim. An independent attorney can check whether both apply to you."
+      },
+      {
+        "title": "Deadlines are handled with care",
+        "desc": "You generally need to report a work injury to your employer within 30 days, and third-party injury claims carry a two-year deadline in California. A quick, free connection keeps those dates from slipping."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in our network work on contingency, and LawProactive itself is free. It is also illegal for an employer to retaliate against you for reporting an injury."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on Del Amo Boulevard while making deliveries for my Lakewood employer. Is that workers' comp or a car accident claim?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical treatment and part of your lost wages regardless of fault. The other driver is a third party, so you may also have a separate injury claim against them. Reported crashes in Lakewood tend to peak on Fridays between 5 and 7 p.m., which is exactly when many delivery routes are wrapping up, so this situation is more common than people think."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most cases, no. Workers' compensation is the exclusive remedy against your employer, meaning you receive benefits without proving fault but give up the right to sue them. The exceptions are narrow. Where a separate claim usually exists is against someone other than your employer, such as a subcontractor, a property owner, or an equipment manufacturer."
+      },
+      {
+        "question": "How soon do I need to report an injury, and can my employer punish me for it?",
+        "answer": "Report the injury to your employer within 30 days to protect your workers' comp rights, and do it in writing if you can. Retaliation for reporting a work injury is illegal in California. If a third party was involved, keep in mind that injury claims against them generally must be filed within two years."
+      }
+    ]
+  }
+}

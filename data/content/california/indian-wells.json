@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "indian-wells city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Indian Wells, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Indian Wells? Free connection to an independent Riverside County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Highway 111 or injured as a pedestrian near Fred Waring Drive, we can connect you with an independent attorney at no cost, serving Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Indian Wells, California",
+    "longDescription": "Indian Wells is a small desert city, but its roadways still see a steady flow of traffic moving through and around the resort corridor. Public records from the most recent final crash year show 33 injury collisions and 50 people hurt on local roads, with no traffic deaths reported. Corridors like Highway 111, Fred Waring Drive, Rt 111, and Washington Street carry much of that volume, and reported crashes tend to cluster on Fridays between 3 and 5 p.m., a time when commuters, visitors, and golf-cart traffic often overlap. If you were hurt in one of these collisions, sorting out medical care, insurance paperwork, and lost income can feel overwhelming on top of recovering physically. LawProactive is a free service that helps injured people in Indian Wells connect with an independent personal injury attorney who can review what happened. We are not a law firm, and we don't charge anything to make the connection. Attorneys in our network work on contingency, meaning there's no fee unless you recover money. Reaching out costs nothing and puts you in touch with someone who can explain your options.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord and back injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from pedestrian or golf-cart collisions"
+    ],
+    "ctaText": "Find out your options — the call is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "You Have a Limited Window",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government entity can require notice in as little as six months. Missing that window can end your right to recover."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the crash. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in ordinary injury cases. That means your recovery isn't limited to medical bills and lost wages alone."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That removes the financial barrier to getting legal advice after a crash."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worried medical bills will pile up before insurance pays anything",
+      "Unsure if the other driver's insurance will try to blame you for the crash",
+      "Afraid the statute of limitations will run out before you understand your options",
+      "Concerned that hiring a lawyer means paying money you don't have"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Indian Wells?",
+        "answer": "Under California law, most personal injury claims must be filed within two years of the date of injury. If your claim involves a government entity, such as a city road defect, the deadline can be as short as six months, so it's worth checking your specific situation early."
+      },
+      {
+        "question": "Where do crashes tend to happen in Indian Wells?",
+        "answer": "Public crash records show that collisions are most commonly reported along Highway 111, Fred Waring Drive, Rt 111, and Washington Street. These are simply the roads with the highest recorded collision counts, not a judgment about the safety of any particular stretch."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some responsibility for the accident. Your total recovery would be reduced by your percentage of fault, but it wouldn't be barred entirely."
+      },
+      {
+        "question": "Will I have to pay anything to talk to an attorney?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and there's no cost to you for that connection. Attorneys in our network work on a contingency basis, meaning they only get paid if you recover compensation."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "California does not cap non-economic damages, like pain and suffering, in typical personal injury cases. This is different from some other states, and it means your potential recovery isn't automatically limited to medical expenses and lost wages."
+      }
+    ]
+  }
+}

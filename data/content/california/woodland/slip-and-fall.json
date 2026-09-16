@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "woodland slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Woodland Slip & Fall Attorney Referral | LawProactive",
+    "metaDescription": "Hurt in a fall in Woodland, CA? Get connected free to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Woodland store, apartment complex, or public building can leave you with real injuries and a stack of questions. We connect you, at no cost, with an independent attorney who handles premises liability cases in Yolo County."
+  },
+  "about": {
+    "title": "Woodland Slip & Fall Claims",
+    "longDescription": "Falls happen fast, but the aftermath can drag on for months. Whether it happened on a wet floor near E Main Street, a cracked walkway off Main Street, or a poorly lit stairwell in a Woodland apartment complex, the question that decides most cases is the same: did the property owner know, or should they have known, about the hazard, and did they fail to fix it or warn you? California law puts that burden on the injured person to prove, which is why documenting the scene matters so much. Photos of the hazard, witness names, and store surveillance footage can disappear or get overwritten within days. LawProactive doesn't practice law ourselves; we're a free referral service that connects Woodland residents with an independent local attorney who can evaluate what happened, look at the notice question, and explain your options under a contingency arrangement, meaning there's no fee unless you recover.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvis fractures",
+      "Wrist and arm fractures",
+      "Traumatic brain injuries",
+      "Spinal disc injuries",
+      "Torn ligaments or knee injuries",
+      "Shoulder dislocations"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Notice and Evidence Matter in a Woodland Fall Case",
+    "items": [
+      {
+        "title": "Proving the Owner Knew or Should Have Known",
+        "desc": "California premises liability hinges on notice — showing the property owner was aware of the hazard or failed to catch it through reasonable inspection. An attorney can help gather the maintenance logs, complaint history, or inspection records that speak to this."
+      },
+      {
+        "title": "Surveillance Video Disappears Fast",
+        "desc": "Many Woodland businesses overwrite security footage within days or weeks. Getting a preservation request out quickly can be the difference between having video evidence and having none."
+      },
+      {
+        "title": "Comparative Fault Doesn't Bar You From Recovering",
+        "desc": "Even if a property owner argues you weren't watching where you stepped, California's pure comparative fault rule allows you to recover a share of damages reduced by your percentage of fault, rather than being shut out entirely."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Woodland?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit against a private property owner. If the fall happened on public property, such as a Yolo County building or a City of Woodland sidewalk, the deadline is much shorter and involves an earlier claim filing requirement. It's worth having an attorney look at the timeline as soon as possible."
+      },
+      {
+        "question": "What if the store or landlord says they didn't know about the hazard?",
+        "answer": "That's often the central dispute in these cases. An attorney can investigate whether the hazard existed long enough that a reasonable inspection routine should have caught it, using things like cleaning schedules, prior complaints, or how long a substance had been on the floor."
+      },
+      {
+        "question": "Does it matter that my fall happened on a Friday afternoon?",
+        "answer": "Not for legal purposes, though it's worth noting that reported collisions in Woodland tend to cluster on Friday afternoons, which can mean higher foot traffic and more distracted staff at busy retail locations during that window. That context can sometimes support an argument about foreseeable conditions, but the core notice question still applies."
+      }
+    ]
+  }
+}

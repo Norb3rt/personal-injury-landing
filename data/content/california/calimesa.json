@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "calimesa city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calimesa, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in a Calimesa crash? Free connection to an independent Riverside County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on I-10 or a fall close to home, we can connect you, free of charge, with an independent personal injury attorney serving Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Calimesa, California",
+    "longDescription": "Calimesa is a small community, but its stretch of Interstate 10 carries a steady flow of traffic that passes through daily, along with local routes like Calimesa Boulevard and County Line Road. Public records show 59 injury collisions in the most recent final crash year, leaving 94 people injured. Those numbers touch real families — drivers commuting to work, students heading to school, neighbors running errands. If you were hurt in one of these crashes, or in any kind of accident around town, sorting out medical bills, insurance calls, and missed work can feel like too much to handle alone. LawProactive is a free service that helps injured people in Calimesa get connected with an independent personal injury attorney. We are not a law firm, and we do not provide legal advice ourselves. The attorneys in our network work on contingency, which means there's no fee unless they recover money for you. Reaching out costs nothing and doesn't obligate you to anything. It's simply a way to find out, from someone who knows California injury law, what options might be available to you.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck injuries from rear-end collisions",
+      "Broken bones from car or motorcycle crashes",
+      "Traumatic brain injuries from impact accidents",
+      "Back and spinal injuries from vehicle collisions",
+      "Cuts, bruises, and soft-tissue injuries from falls",
+      "Injuries from pedestrian or bicycle accidents"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an attorney who can look at your situation."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, though claims against a government agency can require action in as little as six months. An attorney can help you understand which deadline applies to your situation."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, meaning you can still pursue compensation even if you were partly responsible for the accident. Your recovery is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Unlike some states, California places no cap on non-economic damages, such as pain and suffering, in most ordinary injury cases. This matters when an injury affects your daily life well beyond medical bills."
+      },
+      {
+        "title": "No Upfront Cost to Get Legal Help",
+        "desc": "Attorneys in our network work on contingency, so they only get paid if they recover money on your behalf. That means you can explore your options without worrying about hourly fees or retainers."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while unable to work",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing whether you waited too long to take action",
+      "Wondering if being partly at fault means you have no case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and there's no obligation to move forward after connecting with an attorney. Attorneys in our network work on contingency, so they only collect a fee if they recover compensation for you."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Calimesa?",
+        "answer": "In most California injury cases, you generally have two years from the date of the accident to file a lawsuit. If your claim involves a government entity, such as a public road agency, that window can be as short as six months, so it's worth getting guidance early."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some blame. Your total recovery would simply be reduced by the percentage of fault assigned to you, not eliminated entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Calimesa?",
+        "answer": "Public collision records show higher counts along corridors like I-10, Interstate 10 Eastbound, Calimesa Boulevard, and County Line Road, with reported crashes tending to peak on Thursday mornings between 7 and 9 a.m. These are neutral collision counts from public records, not a judgment about any road's safety."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people find an independent personal injury attorney. We don't provide legal representation or advice ourselves; that comes from the attorney you're connected with."
+      }
+    ]
+  }
+}

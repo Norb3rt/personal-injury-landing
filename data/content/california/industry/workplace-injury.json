@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "industry workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "City of Industry Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in City of Industry? Connect free with an independent attorney about workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "City of Industry's mix of warehouses, distribution centers, and manufacturing plants means workplace injuries happen often, from forklift accidents to loading dock falls. LawProactive connects you free with an independent attorney who can sort out your workers' comp options and any separate claim against a negligent third party."
+  },
+  "about": {
+    "title": "City of Industry Workplace Injury Claims",
+    "longDescription": "City of Industry runs on its warehouses, freight yards, and industrial parks near Valley Boulevard, Gale Avenue, Azusa Avenue, and Hacienda Boulevard. Workers here face real risks: heavy machinery, forklifts, pallet jacks, and constant truck traffic moving through loading zones. When someone gets hurt, California's workers' compensation system usually covers medical care and lost wages regardless of fault, but that's often just one piece of the picture. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the accident, a separate third-party injury claim may be available on top of workers' comp benefits. LawProactive doesn't practice law or promise outcomes. We simply connect injured workers with an independent attorney, at no cost, who can review the details of a specific incident and explain what options might exist under both the workers' comp system and any potential third-party claim.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Forklift and pallet jack collisions",
+      "Falls from loading docks or racking",
+      "Crush injuries from heavy machinery",
+      "Repetitive strain and back injuries",
+      "Chemical exposure and burns",
+      "Struck-by-vehicle incidents in yards"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California generally treats workers' comp as the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker may still be liable separately. An attorney can help identify whether that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "Workplace injuries generally need to be reported to your employer within 30 days to preserve your workers' comp rights. Missing that window can complicate an otherwise valid claim."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "Employers cannot legally punish you for reporting a workplace injury or filing a claim. If you're worried about your job, an independent attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a warehouse near Gale Avenue by equipment owned by another company. Can I file a claim beyond workers' comp?",
+        "answer": "Possibly. If a company other than your employer, like an equipment supplier or subcontractor, contributed to the accident, you may have a separate third-party injury claim in addition to workers' compensation. That third-party claim generally carries a two-year deadline in California, so it helps to have it reviewed early. An independent attorney can look at the specifics and let you know what applies."
+      },
+      {
+        "question": "How long do I have to report a workplace injury in City of Industry?",
+        "answer": "California generally requires you to report a workplace injury to your employer within 30 days to protect your workers' comp rights. Waiting longer can create problems even if your claim is otherwise legitimate. It's best to report as soon as reasonably possible after the incident."
+      },
+      {
+        "question": "Can my employer fire me for reporting an injury?",
+        "answer": "No, retaliation for reporting a workplace injury or filing a workers' comp claim is illegal in California. If you believe you've faced retaliation, that's a separate concern worth discussing with an independent attorney. LawProactive can help connect you with one at no cost."
+      }
+    ]
+  }
+}

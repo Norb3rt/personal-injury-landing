@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "san-carlos workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Carlos Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in San Carlos? Get connected free to an independent attorney who handles workplace and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Whether you were injured at a job site near El Camino Real or delivering along US-101 through San Carlos, workplace injuries often involve more than just a workers' comp form. LawProactive can connect you with an independent attorney to review whether a third party shares responsibility."
+  },
+  "about": {
+    "title": "San Carlos Workplace Injury Claims",
+    "longDescription": "San Carlos sits at a busy crossroads of Peninsula commerce, with warehouses, retail centers, and job sites clustered along El Camino Real and near Holly Street. Workers commuting or performing duties on these corridors, or on US-101, face real injury risks — from equipment accidents to vehicle collisions while on the clock. In California, workers' compensation usually pays medical bills and lost wages regardless of fault, but it typically bars a lawsuit against your employer. That said, if a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, you may have a separate third-party claim worth exploring. LawProactive is a free service, not a law firm, that connects injured workers in San Carlos with independent attorneys who can review the details of an incident and explain available options. Contingency-based representation means there's no upfront cost, and no fee unless a recovery is made. We just make the connection — the rest is between you and the attorney.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connect With",
+    "commonInjuries": [
+      "Falls from heights or ladders",
+      "Repetitive strain and overexertion injuries",
+      "Struck-by or caught-in equipment injuries",
+      "Vehicle collisions during work-related driving",
+      "Burns or chemical exposure incidents",
+      "Slip-and-fall injuries on job sites"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why San Carlos Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Third-Party Angle",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent subcontractor, property owner, or equipment maker can still be liable. An independent attorney can help sort out whether a separate claim applies to your situation."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law prohibits employer retaliation against workers who report injuries or file claims. If you're worried about your job security after reporting an incident, an attorney can explain your rights."
+      },
+      {
+        "title": "Awareness of Reporting Deadlines",
+        "desc": "Workplace injuries generally must be reported to your employer within 30 days, while a separate third-party injury claim carries a two-year filing deadline. Missing either window can limit your options, so timing matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near El Camino Real. Is that a workers' comp case or something else?",
+        "answer": "It could be both. Workers' comp may cover your medical bills and lost wages regardless of fault, but if another driver caused the crash, that driver's negligence could support a separate third-party claim. An independent attorney connected through LawProactive can review the details and explain which paths apply."
+      },
+      {
+        "question": "What if I already reported my injury to my employer but nothing happened?",
+        "answer": "California law requires injury reports within 30 days, and retaliation against workers who report injuries is illegal. If you feel your report was ignored or you faced pushback, it's worth having an independent attorney review the situation."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, LawProactive is a free connection service. Attorneys in the network typically work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

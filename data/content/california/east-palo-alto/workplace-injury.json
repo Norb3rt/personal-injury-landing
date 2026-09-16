@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "east-palo-alto workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "East Palo Alto Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in East Palo Alto? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt working in East Palo Alto — whether on a job site near University Avenue or delivering along US-101 and Bay Road — we can connect you with an independent attorney familiar with San Mateo County workplace claims."
+  },
+  "about": {
+    "title": "East Palo Alto Workplace Injury Claims",
+    "longDescription": "East Palo Alto's mix of warehouses, retail corridors, and logistics operations near US-101 and E Bayshore Road means workers face a range of on-the-job risks, from equipment accidents to injuries suffered while making deliveries through busy intersections. In California, workers' compensation is generally the exclusive path against your employer, no matter who was at fault, which means you typically can't sue your employer directly for a workplace injury. But if a subcontractor, property owner, or equipment manufacturer contributed to what happened, a separate third-party claim may be possible alongside your workers' comp benefits. LawProactive is a free connection service — not a law firm — that can match you with an independent attorney who understands how these overlapping claims work in San Mateo County. There's no cost to get connected, and no obligation to move forward. Our goal is simply to help you understand your options after a workplace injury in East Palo Alto.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Help Connect",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and warehouse equipment accidents",
+      "Injuries from delivery or transport work on local roads",
+      "Repetitive strain and overexertion injuries",
+      "Struck-by or caught-in-machinery incidents",
+      "Injuries from defective tools or equipment"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why East Palo Alto Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the Exclusive Remedy Rule",
+        "desc": "Because workers' comp is usually your only claim against an employer, it matters to have someone who can spot when a third party, not just the employer, played a role in your injury."
+      },
+      {
+        "title": "Third-Party Claims Have Their Own Clock",
+        "desc": "If someone outside your employer contributed to your injury, California generally gives you two years to file that separate claim, so timing matters."
+      },
+      {
+        "title": "Retaliation Protections Matter",
+        "desc": "California law prohibits employers from retaliating against workers who report injuries, and an attorney can help you understand those protections if concerns come up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I sue my employer directly if I'm hurt on the job in East Palo Alto?",
+        "answer": "In most cases, no — California's workers' compensation system is the exclusive remedy against your employer regardless of fault. However, if a third party like a subcontractor, property owner, or equipment maker contributed to your injury, a separate claim against that party may be possible. An independent attorney can help sort out which path applies to your situation."
+      },
+      {
+        "question": "How soon do I need to report a workplace injury?",
+        "answer": "California generally requires you to report a workplace injury to your employer within 30 days. Reporting promptly helps protect your ability to receive workers' compensation benefits. If you're unsure how to document what happened, an attorney can walk you through it."
+      },
+      {
+        "question": "Does East Palo Alto's location near US-101 and busy corridors affect workplace injury claims?",
+        "answer": "Many local workplace injuries happen during deliveries or transport along routes like US-101, E Bayshore Road, and Bay Road, which can involve vehicles owned or operated by companies other than your employer. That opens the door to potential third-party claims in addition to workers' comp. An attorney familiar with these overlapping issues can help evaluate your specific circumstances."
+      },
+      {
+        "question": "What if my employer retaliates after I report an injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law. If you believe you've faced negative treatment after an injury report, it's worth discussing the details with an independent attorney who can review what happened."
+      }
+    ]
+  }
+}

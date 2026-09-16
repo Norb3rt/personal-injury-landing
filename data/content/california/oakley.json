@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "oakley city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oakley, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Oakley, Contra Costa County? Free, no-obligation attorney connection. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on Main Street or a fall that wasn't your fault, we'll connect you with an independent attorney serving Contra Costa County — free of charge."
+  },
+  "about": {
+    "title": "Personal Injury Help in Oakley, California",
+    "longDescription": "Oakley sits along the busy corridors of Main Street, Laurel Road, E Cypress Road, and Empire Avenue — routes that carry commuters, farm equipment, and delivery traffic through this growing Contra Costa County city of nearly 40,000 residents. Public records show 65 injury collisions in the most recent final crash year, leaving 79 people hurt and 3 people dead. Many of these reported crashes cluster on Saturday afternoons between 3 and 5 p.m., when weekend traffic and errands overlap on local streets. If you or someone you love was hurt in one of these incidents — or in a fall, dog bite, or other accident caused by someone else's carelessness — you don't have to sort out the legal side alone. LawProactive is a free service, not a law firm. We simply connect injured people in Oakley with an independent personal injury attorney who can review the details of what happened and explain your options. There's no cost to reach out, and any attorney you're connected with works on contingency, meaning there's no fee unless there's a recovery. Reaching out early gives you more time to gather evidence and protect your rights under California law.",
+    "commonInjuriesTitle": "Common Injuries We Help Connect People About",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from falls or dog bites"
+    ],
+    "ctaText": "Reach out today for a free, no-pressure connection with an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "You Have Two Years — But Don't Wait",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government agency can require notice in as little as six months. Reaching out sooner preserves evidence and options."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Stop You",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In an ordinary injury case, California places no limit on non-economic damages like pain and suffering, so your losses beyond medical bills can still be part of the conversation."
+      },
+      {
+        "title": "No Fee Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, meaning you pay nothing upfront and owe no attorney fee unless money is recovered on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worried about mounting medical bills with no income coming in",
+      "Unsure if the crash was partly your fault and whether that ruins your claim",
+      "Confused about how much time you actually have to take action",
+      "Nervous about talking to insurance adjusters who keep calling"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Oakley?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a personal injury lawsuit. If your claim involves a government entity, such as a public road defect, the notice period can be as short as six months, so it's worth acting quickly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some blame. Your total recovery is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Oakley?",
+        "answer": "Public collision records show higher counts along corridors like Main Street, Laurel Road, E Cypress Road, and Empire Avenue, with reported crashes tending to peak on Saturdays between roughly 3 and 5 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that puts injured people in touch with an independent personal injury attorney. We don't provide legal representation ourselves, and there's no obligation to move forward after connecting."
+      },
+      {
+        "question": "Will I owe money upfront to talk to an attorney?",
+        "answer": "No. Attorneys in our network work on a contingency basis, meaning there's no fee unless they recover compensation for you. The initial connection through LawProactive is also free."
+      }
+    ]
+  }
+}

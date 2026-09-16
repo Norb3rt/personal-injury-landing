@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "pasadena slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pasadena Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Pasadena? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Hurt by a wet floor, broken step, or unlit walkway somewhere in Pasadena? We connect you, at no cost, with an independent attorney who handles premises liability claims across Los Angeles County."
+  },
+  "about": {
+    "title": "Pasadena Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You're on the ground outside a storefront on Colorado Boulevard or in a parking structure near Fair Oaks Avenue, embarrassed, checking whether anything is broken. Only later, once the wrist is in a cast or the back won't loosen up, does the question surface: was that floor or walkway supposed to be like that? In California, property owners and the businesses occupying their buildings owe visitors reasonable care. That doesn't make them responsible for every stumble in Pasadena. It does mean that when an owner knew about a spill, a loose handrail, or a dark stairwell, or should have discovered it with ordinary attention, and did nothing to fix or flag it, the injured person may have a claim. Proving that notice is the heart of most premises cases in Los Angeles County. LawProactive is not a law firm. We're a free service that connects you with an independent attorney who takes these claims on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Pasadena",
+    "commonInjuries": [
+      "Wrist and forearm fractures from bracing a fall",
+      "Hip fractures, especially among older adults",
+      "Knee ligament tears and kneecap injuries",
+      "Concussions and other head injuries from striking the ground",
+      "Herniated discs and lower back strain",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and where. We'll connect you with an independent Pasadena-area attorney for a free case review."
+  },
+  "whyChoose": {
+    "title": "Why Pasadena Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys who know how to prove notice",
+        "desc": "California requires showing the owner knew or should have known about the hazard and failed to fix or warn about it. The attorneys in our network build that case from inspection logs, prior complaints, and how long the condition existed."
+      },
+      {
+        "title": "Deadlines tracked from day one",
+        "desc": "Most California premises claims carry a two-year filing deadline, but claims against a public entity, such as the City of Pasadena, move on a much shorter clock. Getting connected early helps keep every option open."
+      },
+      {
+        "title": "Fast action on surveillance video",
+        "desc": "Stores, garages, and apartment buildings often overwrite footage within days or weeks. The attorney you're matched with can send a preservation demand right away so the recording of your fall isn't lost."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Pasadena. Is that different from falling inside a store?",
+        "answer": "It can be, because the sidewalk may be maintained by the City of Pasadena or another public agency rather than a private owner. Claims against a government entity in California must start with a formal claim filed on a much shorter timeline than the usual two years, sometimes only months after the injury. Photograph the exact spot, note the nearest address or cross street, and get connected with an attorney promptly so the right party is identified in time."
+      },
+      {
+        "question": "The store says I wasn't watching where I was walking. Does that end my claim?",
+        "answer": "Not under California law. The state uses pure comparative fault, which means your recovery is reduced by whatever percentage of blame is assigned to you rather than eliminated. If a spill sat on the floor without a cone or a mop for a long stretch, the owner's share of responsibility still matters even if you were looking at your phone."
+      },
+      {
+        "question": "What should I do in the first few days after a fall on someone else's property?",
+        "answer": "Get medical care and keep every record, because gaps in treatment are often used against injured people. Photograph the hazard, your footwear, and the surrounding area, and write down the names of any witnesses or employees you spoke with. Ask the business in writing to preserve any camera footage, then reach out so an independent attorney can take over the evidence work while you focus on healing."
+      }
+    ]
+  }
+}

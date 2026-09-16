@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "avenal city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Avenal, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Avenal, Kings County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash or other accident near Avenal, we'll connect you with an independent attorney at no cost, serving families throughout Kings County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Avenal, California",
+    "longDescription": "Avenal sits along a handful of key corridors — Rt 269, Rt 33, San Joaquin Street, and Skyline Boulevard — that carry most of the town's daily traffic. Public records show 2 injury collisions and 2 people injured in the most recent final crash year, with reported crashes tending to cluster on Saturday afternoons between 4 and 6 p.m. Even a small number of collisions can upend a life: medical bills pile up, work gets missed, and it's hard to know where to turn next. LawProactive is a free service — we are not a law firm, and we don't provide legal advice. What we do is connect people who've been hurt with an independent personal injury attorney who can review the details of what happened and explain the options. Attorneys in our network work on contingency, meaning there's no fee unless there's a recovery. If you or someone you love was hurt on one of Avenal's roads or anywhere else in Kings County, reaching out costs nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Head and concussion injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Torn ligaments or joint injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you 2 years from the date of an injury to file a claim, though claims against a government entity can require notice in as little as 6 months. Waiting too long can mean losing the right to seek compensation at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still recover compensation — it's simply reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, and loss of enjoyment of life, unlike some other states."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, meaning legal fees only come out of a settlement or award — never out of pocket up front."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how medical bills will get paid",
+      "Fear of missing work while trying to recover",
+      "Not knowing if the insurance company's offer is fair",
+      "Uncertainty about whether it's too late to do anything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney?",
+        "answer": "Nothing. LawProactive is a free service, and attorneys in our network work on contingency — meaning they only get paid if you receive a settlement or award. There's no upfront cost or obligation to move forward."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is not a law firm and does not provide legal advice. We simply connect people who've been injured with an independent personal injury attorney who can evaluate their situation."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Generally, California law gives you 2 years from the date of injury to file a personal injury claim. If the claim involves a government entity, the deadline can be much shorter, sometimes as little as 6 months, so it's worth acting sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to occur in Avenal?",
+        "answer": "Public records show that Avenal's higher collision counts are associated with Rt 269, Rt 33, San Joaquin Street, and Skyline Boulevard, with reported crashes tending to peak on Saturdays between 4 and 6 p.m. These are neutral collision counts, not a judgment about any road's safety."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still seek compensation even if you were partly responsible. Your recovery would simply be reduced by the percentage of fault attributed to you."
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "voice": "brand-standard (plain-spoken, victim-first)",
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-09-11",
+    "source": "accident-hub + state-laws + city facts",
+    "note": "San Francisco city page."
+  },
+  "seo": {
+    "metaTitle": "San Francisco Personal Injury Lawyer | Free Review",
+    "metaDescription": "Injured in San Francisco? Connect free with a personal injury attorney serving the city and county. 2 years to file — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Hurt as a pedestrian, cyclist, passenger or driver in San Francisco? We connect you — free — with an independent personal injury attorney who handles city and county claims. No fee unless you recover."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Francisco, California",
+    "longDescription": "San Francisco packs dense traffic, steep streets and heavy foot and bike traffic into just seven square miles, and the mix takes a toll. Public records show roughly 3,500 injury collisions in the city in 2025, leaving about 4,400 people hurt, with reported crashes tending to peak on Friday evenings. Corridors like Mission Street and the approaches to the I-80 Bay Bridge and US-101 stay busy well past rush hour, and pedestrians and cyclists make up a larger share of the injured here than in most California cities. Whether you were hurt in a crosswalk, on Muni, in a rideshare, or in a fall, California law gives you rights and a limited window to use them. LawProactive is a free service that connects injured people in San Francisco with an independent personal injury attorney who knows how city and county claims and courts work. We are not a law firm; we simply match you with counsel. There is never a fee unless your case recovers compensation.",
+    "commonInjuriesTitle": "Injuries we help San Francisco residents pursue claims for",
+    "commonInjuries": [
+      "Pedestrian and crosswalk impact injuries",
+      "Bicycle and scooter crash injuries",
+      "Whiplash, neck and back injuries",
+      "Traumatic brain injuries and concussions",
+      "Fractures and crush injuries",
+      "Serious lacerations, burns and scarring"
+    ],
+    "ctaText": "See if you have a case — free"
+  },
+  "whyChoose": {
+    "title": "What San Francisco injury victims should know",
+    "items": [
+      {
+        "title": "Usually a 2-year deadline",
+        "desc": "California generally gives you two years from the date of injury to file suit. In a transit-dense city, camera and vehicle-data evidence can be overwritten within days, so acting early protects your claim."
+      },
+      {
+        "title": "Partial fault won't bar recovery",
+        "desc": "California uses pure comparative fault, so a pedestrian or cyclist can recover even if partly at fault — compensation is reduced by your share, not eliminated."
+      },
+      {
+        "title": "Claims against the city are different",
+        "desc": "If a Muni vehicle or a hazardous public street is involved, a much shorter claim deadline — sometimes six months — can apply. Move quickly."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "Most California injury cases place no limit on non-economic damages, so the human toll of your injury can be part of your claim."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Adjusters calling before you've finished treatment",
+      "Medical bills and lost wages piling up while you heal",
+      "A quick offer that ignores your long-term costs",
+      "Not knowing whether a claim against a public agency is even possible"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in San Francisco?",
+        "answer": "Most California injury claims must be filed within two years. But if a public entity like Muni or the city is involved, you may have as little as six months to file a claim, so speak with an attorney promptly."
+      },
+      {
+        "question": "I was a pedestrian and may have been partly at fault. Can I still recover?",
+        "answer": "Yes. California's pure comparative fault rule lets you recover even if you shared blame; your compensation is reduced by your percentage of fault rather than eliminated."
+      },
+      {
+        "question": "What does a case review cost?",
+        "answer": "Nothing. The review is free and the attorneys in our network work on contingency, so there's no attorney fee unless they recover compensation for you."
+      },
+      {
+        "question": "Where do injury crashes cluster in San Francisco?",
+        "answer": "Reported-collision records for recent years point to Mission Street and the US-101 and I-80 corridors, with reported crashes peaking on Friday evenings. These are public-record counts, not a verdict about any street."
+      },
+      {
+        "question": "Will my case go to trial?",
+        "answer": "Usually not. Most injury claims settle. Your attorney negotiates with the insurer and only litigates if a fair resolution can't be reached."
+      }
+    ]
+  }
+}

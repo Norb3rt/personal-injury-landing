@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "biggs medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Biggs Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Biggs, CA? Get connected free with an independent Butte County medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or medication error causes harm in Biggs, the rules around proving medical malpractice are strict and time-sensitive. LawProactive connects Biggs residents with an independent California attorney who can review what happened, free of charge."
+  },
+  "about": {
+    "title": "Biggs Medical Malpractice Claims",
+    "longDescription": "Biggs is a small Butte County community, and residents here often travel to Chico, Oroville, or Sacramento-area facilities for specialized care. That travel and the fewer local provider options don't change the legal standard: California law requires proof that a healthcare provider's care fell below an accepted medical standard, and that this failure directly caused harm. A poor result by itself isn't enough — that's a hard line under California's MICRA framework, which also caps non-economic damages, requires a 90-day pre-suit notice to the provider, and imposes a short window to act (generally one year from discovering the harm, and no more than three years from when it occurred). If you or a family member in Biggs were harmed during treatment, diagnosis, or a procedure, LawProactive can connect you with an independent attorney who understands how to build a MICRA-compliant case, at no upfront cost to you.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect Cases For",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your Biggs medical malpractice case — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Early",
+    "items": [
+      {
+        "title": "Strict Filing Windows",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to file. A 90-day notice to the provider is also required before a lawsuit can proceed."
+      },
+      {
+        "title": "Expert Review Is Required",
+        "desc": "Nearly every medical malpractice claim in California needs a qualified medical expert to confirm the care fell below the accepted standard. An attorney can help arrange that review early, while records and details are still fresh."
+      },
+      {
+        "title": "Damages Caps Apply",
+        "desc": "California law caps non-economic damages in these cases, though the cap amount rises each year under MICRA. Understanding how that cap interacts with your specific losses matters for how a claim is evaluated."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law is clear that an unfavorable result alone doesn't prove malpractice. You have to show the provider's care fell below the accepted medical standard and that this specific failure caused the harm."
+      },
+      {
+        "question": "Are there fewer options for medical care review since Biggs is a small town?",
+        "answer": "Biggs residents often receive care at facilities outside the immediate area, but the malpractice claim process doesn't change based on city size. An attorney can review records from any provider or hospital involved, wherever the care took place."
+      },
+      {
+        "question": "How much time do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the harm, and no more than three years from the date of the injury. There's also a required 90-day notice period before filing suit, so it's worth having a case reviewed sooner rather than later."
+      }
+    ]
+  }
+}

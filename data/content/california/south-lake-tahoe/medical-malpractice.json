@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "south-lake-tahoe medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "South Lake Tahoe Medical Malpractice Lawyer Connection",
+    "metaDescription": "Hurt by a medical error in South Lake Tahoe? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines apply—act early."
+  },
+  "hero": {
+    "subtitle": "When treatment in South Lake Tahoe leaves you worse off than you should be, the questions start piling up. We connect you, at no cost, with an independent attorney who can sort out whether a provider fell short of the standard of care."
+  },
+  "about": {
+    "title": "South Lake Tahoe Medical Malpractice Claims",
+    "longDescription": "Medical care in a mountain town of roughly 21,700 people looks different than it does in a big city. South Lake Tahoe residents often rely on a small number of local providers, and when something goes wrong—a missed diagnosis, a medication mix-up, a surgical error—the people involved may be neighbors. Speaking up can feel awkward, but it matters. California handles these cases under a law called MICRA. You generally have one year from the date you discovered the harm, and no more than three years from the injury itself, to file. A 90-day notice must go to the provider before suit. Almost every case also needs a qualified medical expert to explain what a careful provider would have done differently. And a disappointing result is not malpractice by itself; the question is whether care fell below the accepted standard. LawProactive is not a law firm. We are a free service that connects El Dorado County residents with an independent attorney who handles medical negligence claims on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm That Can Result From Medical Negligence",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained objects",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to order tests or follow up on abnormal results"
+    ],
+    "ctaText": "Ask a free question about your care in South Lake Tahoe."
+  },
+  "whyChoose": {
+    "title": "Why South Lake Tahoe Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA's clock is short",
+        "desc": "California generally allows one year from discovery of the harm and never more than three years from the injury. Getting connected early leaves room for the mandatory 90-day pre-suit notice."
+      },
+      {
+        "title": "Expert review is built in",
+        "desc": "A qualified medical expert is almost always required to show the standard of care was breached. The attorneys in our network know how to arrange that review before a claim is filed."
+      },
+      {
+        "title": "Honest screening, no pressure",
+        "desc": "A bad outcome alone does not mean malpractice occurred. An independent attorney can tell you plainly whether the facts point to negligence, and there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in South Lake Tahoe and then transferred to a hospital out of the area. Where would my claim be handled?",
+        "answer": "Transfers over the pass or across the state line are common for serious cases in this part of El Dorado County. Which law applies can depend on where the care in question actually happened, and Nevada rules differ from California's MICRA. An attorney can review the records from each facility and sort out where responsibility may lie."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "MICRA places a cap on non-economic damages such as pain and suffering, and that cap increases each year under current law. Economic losses like medical bills and lost income are treated separately. An attorney can explain how the cap that applies in your year affects your situation."
+      },
+      {
+        "question": "How do I know if my situation is actually malpractice or just an unlucky result?",
+        "answer": "Medicine carries risk, and a poor outcome on its own is not negligence. The real test is whether the provider did something a reasonably careful professional would not have done, or failed to do something they should have. That judgment nearly always requires a medical expert, which is why an early attorney consultation is useful."
+      }
+    ]
+  }
+}

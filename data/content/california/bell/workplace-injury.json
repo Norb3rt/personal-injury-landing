@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "bell workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bell, CA Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Bell? Get connected free to an independent attorney who understands workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Bell's mix of warehouses, auto shops, and businesses along Florence and Gage Avenues means workplace injuries happen more often than people expect. If you were hurt on the job here, we can connect you with an independent attorney who can look at whether workers' comp, a third-party claim, or both apply to your situation."
+  },
+  "about": {
+    "title": "Bell Workplace Injury Claims",
+    "longDescription": "Bell sits in a busy pocket of Los Angeles County where industrial yards, delivery routes, and small manufacturing shops line corridors like Florence Avenue and Gage Avenue. Workers here face real risks — from forklift accidents to falls on loading docks to injuries near I-710 traffic during deliveries. In most cases, California law channels job injuries through workers' compensation, regardless of who was at fault. But when a subcontractor, equipment manufacturer, property owner, or another driver contributed to the harm, a separate third-party claim may be possible alongside your workers' comp benefits. Sorting out which path — or both — applies to your case isn't something you should have to figure out alone. LawProactive doesn't practice law; we simply connect injured Bell workers with an independent attorney who can review the details, explain your options plainly, and help you understand what comes next, all without any upfront cost to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Forklift and machinery-related injuries",
+      "Falls from ladders, docks, or uneven surfaces",
+      "Crush or laceration injuries from equipment",
+      "Burns or chemical exposure in industrial settings",
+      "Injuries from work-related vehicle collisions on nearby roads"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Bell Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help You See the Full Picture",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can open a separate claim. We connect you with someone who can sort out which routes actually apply."
+      },
+      {
+        "title": "Deadlines Matter, and We Keep That in Mind",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and any third-party claim carries its own 2-year filing deadline. Waiting too long can limit your options, so we move quickly to get you connected."
+      },
+      {
+        "title": "Retaliation Is Illegal — You Have Protection",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury or pursuing a claim. An independent attorney can help you understand those protections if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I still file a claim if my injury happened near I-710 while making a delivery for work?",
+        "answer": "Possibly — work-related vehicle collisions can trigger both a workers' comp claim and, if another driver was at fault, a separate third-party injury claim. This is common along busy routes like I-710 and Florence Avenue where delivery traffic runs through Bell. An independent attorney can review the details and explain which claims might apply."
+      },
+      {
+        "question": "Do I have to choose between workers' comp and suing my employer?",
+        "answer": "In most cases, workers' compensation is your exclusive remedy against your employer, meaning you generally can't sue them separately even if they were careless. However, if someone other than your employer contributed to your injury — a contractor, a manufacturer, another driver — you may be able to pursue a separate claim against that party. This isn't something you have to figure out alone."
+      },
+      {
+        "question": "What if I'm afraid my employer will retaliate if I report my injury?",
+        "answer": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. If you're facing pressure or fear losing your job over this, an independent attorney can walk you through your rights and options. Reporting within 30 days is important, so it helps to get guidance early."
+      }
+    ]
+  }
+}

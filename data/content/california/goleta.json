@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "goleta city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Goleta, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Goleta or Santa Barbara County? Get connected free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with a car crash injury, a fall, or a dog bite, we'll connect you free of charge with an independent attorney serving Santa Barbara County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Goleta, California",
+    "longDescription": "Goleta may feel like a quieter stretch of Santa Barbara County, but public records show the roads here see real impact. In the most recent reporting year, Goleta logged 129 injury collisions, 169 people hurt, and 1 traffic death. Corridors like Hollister Avenue, Calle Real, Storke Road, and Cathedral Oaks Road carry heavy local traffic, and reports show crashes tend to bunch up on Wednesday evenings between 5 and 7 p.m., likely tied to commute and school-pickup patterns near these routes. If you were hurt in a collision, a slip-and-fall, or another type of accident anywhere in Goleta, it helps to understand your options before time runs out. LawProactive is a free service — not a law firm — that connects injured people with an independent personal injury attorney in the area. We don't charge you anything to make that connection, and the attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and starts the process of finding out where you stand.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injury or concussion",
+      "Back and spinal cord injury",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from dog bites or falls"
+    ],
+    "ctaText": "Find out where you stand — reach out for a free connection today."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but if a government entity is involved, that window can shrink to as little as six months. Acting sooner protects your options."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you're partly responsible for what happened, you can still pursue compensation — it's just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no cap on non-economic damages like pain and suffering, so what you're owed isn't artificially limited."
+      },
+      {
+        "title": "You Don't Pay Unless You Win",
+        "desc": "Attorneys connected through LawProactive work on contingency. That means their fee only comes out of a recovery — if there's no win, there's no fee owed to them."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Wondering if the insurance company is offering a fair amount",
+      "Fear that admitting any fault means losing your claim entirely",
+      "Not knowing how much time is left to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Goleta?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If your claim involves a government entity — for example, a poorly maintained public road — that deadline can be as short as six months, so it's worth checking your situation early."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault system, so being partially at fault doesn't bar you from recovering compensation. Your total recovery would simply be reduced by your percentage of responsibility."
+      },
+      {
+        "question": "Where do crashes tend to happen in Goleta?",
+        "answer": "Public collision records show higher volumes along corridors like Hollister Avenue, Calle Real, Storke Road, and Cathedral Oaks Road, with reported crashes clustering on Wednesdays between 5 and 7 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. In ordinary personal injury cases, California does not cap non-economic damages such as pain and suffering, unlike some other states."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, not a law firm, and there's no cost to be connected with an independent attorney in our network. If you move forward with that attorney, they typically work on contingency, so you don't pay a fee unless you recover compensation."
+      }
+    ]
+  }
+}

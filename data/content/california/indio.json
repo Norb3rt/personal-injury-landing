@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "indio city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Indio, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Indio? Connect free with an independent injury attorney serving Riverside County. 2 years to file in California. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end crash on Route 111 or a fall at a local business left you hurt, LawProactive connects you at no cost with an independent personal injury attorney serving Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Indio, California",
+    "longDescription": "Indio is home to roughly 87,500 people, and its streets stay busy all year. In 2025, the most recent year with final figures, the city recorded 201 injury collisions. Those crashes left 266 people injured and took 5 lives. Public collision records show the heaviest counts along Monroe Street, Indio Boulevard, Jackson Street, and Route 111, with reports tending to peak on Tuesdays between 2 p.m. and 4 p.m. These are simply the corridors Indio residents rely on every day. If a wreck, a fall, or a dog bite somewhere in the Coachella Valley has left you hurting, you may be juggling medical bills, missed shifts, and calls from an insurance adjuster all at once. LawProactive exists to take one item off that list. We are a free service, not a law firm. Tell us what happened, and we connect you with an independent personal injury attorney who handles cases in Riverside County. Being connected costs nothing, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. California allows two years to file most injury claims, and claims involving a government entity can carry a window as short as six months, so reaching out early keeps your options open.",
+    "commonInjuriesTitle": "Injuries Indio Residents Often Ask About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Broken arms, legs, and ribs",
+      "Back and spinal disc injuries",
+      "Cuts, burns, and road rash",
+      "Knee and shoulder tears"
+    ],
+    "ctaText": "Tell us what happened and get connected for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Indio Claim",
+    "items": [
+      {
+        "title": "Two years to file, less against the government",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, the deadline can shrink to six months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not shut the door",
+        "desc": "California follows pure comparative fault. If you share some blame for what happened, your recovery is reduced by your percentage, not eliminated."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For a typical injury claim in California, there is no statutory ceiling on non-economic damages like pain, distress, or lost enjoyment of life."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster keeps calling and I don't know what to say.",
+      "My car is totaled and I can't get to work.",
+      "The ER bills arrived before I even finished treatment.",
+      "I was partly at fault, so I assumed I had no case."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Indio tend to be reported?",
+        "answer": "Public collision records for Indio show the highest counts along Monroe Street, Indio Boulevard, Jackson Street, and Route 111. Reports also tend to peak on Tuesdays between 2 p.m. and 4 p.m. These are neutral public-record figures, and they largely reflect where and when people in Indio drive most."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of injury. If your claim involves a government entity, such as a crash with a city vehicle or a fall on public property, the deadline may be as short as six months. Because those windows differ, it helps to get your situation reviewed promptly."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not give legal advice or represent you; the attorney you are matched with handles your case directly."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses pure comparative fault. That means your compensation is reduced in proportion to your share of responsibility, but you are not barred from recovering. An attorney can help sort out how fault is likely to be assigned in your situation."
+      },
+      {
+        "question": "How does the attorney get paid?",
+        "answer": "Attorneys in our network work on a contingency basis. There is no fee unless there is a recovery, and the connection through LawProactive costs you nothing. Fee details are agreed between you and the attorney before any work begins."
+      }
+    ]
+  }
+}

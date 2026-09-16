@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "claremont city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Claremont, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Claremont? Free connection to an LA County injury attorney. 2 years to file, pure comparative fault, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or dog bite around Claremont, we can connect you with an independent attorney at no cost. Free, no-obligation connections for injured residents throughout Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Claremont, California",
+    "longDescription": "Claremont is a walkable college town, but its streets still carry real traffic risk. In the most recent reporting year, the city logged 192 injury collisions, 272 people injured, and 7 traffic deaths — public-record numbers that reflect how much is riding on daily commutes through town. Corridors like Indian Hill Boulevard, the SR-210/Foothill Freeway, Baseline Road, and Foothill Boulevard carry the heaviest volume of reported collisions, and Friday evenings between 5 and 7 p.m. see the most reports. None of that means any one road or intersection is inherently unsafe — it simply shows where traffic and reported crashes concentrate. If you were hurt in one of these incidents, or in a fall, bike crash, or dog bite anywhere in Claremont, LawProactive can help. We're a free service that connects injured people with an independent personal injury attorney — we are not a law firm, we don't represent you directly, and there's no cost to find out if you have a case. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Torn ligaments and joint damage",
+      "Cuts, bruises, and soft-tissue injuries"
+    ],
+    "ctaText": "Find out for free if an attorney can help with your claim."
+  },
+  "whyChoose": {
+    "title": "Why Claremont Residents Reach Out to Us",
+    "items": [
+      {
+        "title": "You Have a Limited Window",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. That window can shrink to as little as six months if a government entity — like a city or county — was involved, so it helps to act sooner rather than later."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the incident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on What You Can Recover for Pain and Suffering",
+        "desc": "Unlike some states, California doesn't limit non-economic damages — like pain, suffering, and emotional distress — in an ordinary injury case. That matters when an injury changes your daily life, not just your finances."
+      },
+      {
+        "title": "You Pay Nothing Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront fee to hire help. They only get paid if you win or settle your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and you don't know how to keep up",
+      "You're worried the insurance company won't take your injury seriously",
+      "You're not sure if you waited too long to do anything about it",
+      "You're afraid admitting any fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Claremont?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If your injury involved a government entity, such as a city road crew or public bus, that deadline can be as short as six months, so it's worth checking your situation early."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your recovery is reduced by your percentage of fault, but it isn't barred outright."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Claremont?",
+        "answer": "Public collision records show higher reported crash counts along Indian Hill Boulevard, the SR-210 Foothill Freeway, Baseline Road, and Foothill Boulevard, with Friday evenings between 5 and 7 p.m. seeing the most reports. These are simply where volume and reports concentrate, not a judgment about any location's safety."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in a typical personal injury case. That's different from some other states and can matter a lot depending on how the injury has affected your life."
+      },
+      {
+        "question": "Does it cost anything to talk to LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we're not a law firm and don't charge for the connection. If an attorney takes your case, they work on contingency, so there's no fee unless you recover money."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "cotati workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Cotati Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Cotati? Get connected free with an independent attorney who can look at third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Cotati, there may be more to your case than workers' comp alone. We connect you at no cost with an independent attorney who can review whether a third party shares responsibility."
+  },
+  "about": {
+    "title": "Cotati Workplace Injury Claims",
+    "longDescription": "Cotati's economy runs on a mix of small businesses, construction, retail, and light industry clustered near Old Redwood Highway and E Cotati Avenue. Workers here get hurt the same way workers do everywhere: falls, equipment failures, vehicle collisions on the job, and repetitive strain. Under California law, workers' compensation is typically your only path against your employer, no matter who was at fault. But that's not the whole story — if a subcontractor, property owner, delivery driver, or equipment manufacturer contributed to your injury, you may have a separate claim against that third party outside the workers' comp system. LawProactive doesn't practice law or handle claims directly. We simply connect injured Cotati workers with an independent attorney, at no cost to you, who can look at the facts and explain what options actually exist. There's no obligation to move forward, and no fee unless your attorney recovers something for you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Injuries from malfunctioning tools or machinery",
+      "Vehicle collisions while driving for work",
+      "Repetitive strain and overexertion injuries",
+      "Injuries caused by falling objects or debris",
+      "Burns or chemical exposure on job sites"
+    ],
+    "ctaText": "Find out if a third party shares responsibility for your injury — talk to an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Only Path",
+        "desc": "California generally limits your claim against your employer to workers' compensation regardless of fault. But a negligent third party — a subcontractor, property owner, or equipment maker — can still be held separately liable, and an attorney can help sort out which applies to you."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and missing that window can complicate your claim. An attorney can help you understand what's still possible even if time has passed."
+      },
+      {
+        "title": "Retaliation Is Illegal, and Third-Party Claims Have Their Own Clock",
+        "desc": "Your employer cannot legally punish you for reporting an injury. If a third party contributed to what happened, that separate claim generally carries a 2-year deadline, so getting informed early matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site in Cotati near Old Redwood Highway. Can I still sue someone?",
+        "answer": "Possibly, but not your employer directly in most cases — that typically goes through workers' compensation. If a subcontractor, delivery driver, or property owner played a role in the accident, a separate claim against them may be possible. An independent attorney can review the specifics of your situation for free."
+      },
+      {
+        "question": "What if my employer doesn't have workers' comp insurance?",
+        "answer": "That's a serious issue and can open up other legal options beyond the standard workers' comp process. An attorney can explain what applies given your employer's specific situation. LawProactive can connect you with someone who handles these cases."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury?",
+        "answer": "No, retaliation for reporting a job injury is illegal in California. If you believe you've faced retaliation after an injury in Cotati, an independent attorney can talk through what protections and options you may have, at no cost to you."
+      }
+    ]
+  }
+}

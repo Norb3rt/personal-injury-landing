@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "victorville city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Victorville, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Victorville? Connect free with an independent San Bernardino County injury attorney. 2 years to file in California. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end collision on Bear Valley Road or a fall at a local store left you hurting, LawProactive connects you at no cost with an independent personal injury attorney serving Victorville and San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Victorville, California",
+    "longDescription": "Victorville is a city of roughly 122,000 people, and its main roads carry a steady mix of commuters, shoppers, and through traffic. In 2025, the most recent final reporting year, the city recorded 522 injury collisions. Those crashes left 753 people hurt and took 23 lives. Public records show the highest collision volumes along Bear Valley Road, Amargosa Road, Mojave Drive, and Route 395, and reported crashes tend to peak on Fridays between 3 p.m. and 5 p.m. Behind each of those counts is a person trying to get back to work, back to school, or simply back to a normal night's sleep. That is where LawProactive comes in. We are a free service, not a law firm. We do not give legal advice and we do not take cases ourselves. What we do is connect people injured in Victorville and across San Bernardino County with an independent personal injury attorney who handles claims like theirs. The attorneys in our network work on contingency, which means there is no fee unless there is a recovery. If you were hurt in a crash, a fall, or another incident someone else caused, you do not have to sort out the insurance calls on your own. Reach out, tell us what happened, and we will make the connection.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Victorville Claims",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken arms, wrists, and collarbones",
+      "Concussions and other head injuries",
+      "Back injuries, including herniated discs",
+      "Knee and hip damage from falls",
+      "Cuts, bruising, and soft-tissue trauma"
+    ],
+    "ctaText": "Tell us what happened and get connected free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Victorville Claim",
+    "items": [
+      {
+        "title": "Two years to act, sometimes far less",
+        "desc": "California gives most injury claims a two-year filing window, but a claim against a city, county, or other government entity can require notice in as little as six months. Knowing which clock applies to you matters early."
+      },
+      {
+        "title": "Partial fault does not shut you out",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but it is not eliminated."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "In ordinary injury cases, California places no legal ceiling on non-economic damages such as pain, lost enjoyment, and emotional distress. Your claim is evaluated on what actually happened to you."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster keeps calling and I don't know what to say.",
+      "I can't work right now and the bills are piling up.",
+      "I might have been partly at fault, so is it even worth pursuing?",
+      "How do I find a lawyer without paying money I don't have?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes in Victorville tend to happen?",
+        "answer": "According to public collision records, the corridors with the highest counts in Victorville are Bear Valley Road, Amargosa Road, Mojave Drive, and Route 395. Reported crashes also tend to peak on Fridays between 3 p.m. and 5 p.m. These are neutral counts drawn from public data, not a judgment about any particular street."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of injury. If a government entity is involved, such as a city vehicle or a public roadway defect, the deadline to give notice can be as short as six months. An attorney can help pin down which timeline applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault, so being partly responsible does not bar you from recovering. Your compensation is reduced by your percentage of fault. For example, if you were found 30 percent at fault, you could still recover the remaining 70 percent of your damages."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney; we are not a law firm and we do not handle cases. The attorneys in our network work on contingency, meaning there is no attorney fee unless there is a recovery."
+      },
+      {
+        "question": "Should I talk to the other driver's insurance company first?",
+        "answer": "You are not required to give a recorded statement to another party's insurer, and many people choose to speak with an attorney before doing so. Insurance adjusters work for their company, not for you. Getting connected with an attorney early can help you understand your options before you commit to anything."
+      }
+    ]
+  }
+}

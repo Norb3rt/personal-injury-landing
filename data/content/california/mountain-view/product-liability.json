@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "mountain-view product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mountain View Product Liability Attorney Connection",
+    "metaDescription": "Hurt by a defective product in Mountain View? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product sold or used in Mountain View fails and someone gets hurt, California's strict liability rules may put the burden on the maker rather than on you. LawProactive connects you, at no cost, with an independent attorney who handles defective product claims."
+  },
+  "about": {
+    "title": "Mountain View Product Liability Claims",
+    "longDescription": "A product that fails in ordinary use can change a life in seconds. In Mountain View, a Santa Clara County city of about 80,435 people, that might mean a lithium battery that overheats on a desk, a power tool whose guard gives way, a child's seat that does not latch as advertised, or an airbag that fails to deploy in a collision on US-101 or El Camino Real. California treats these cases differently from most injury claims. Under strict liability, you generally do not have to prove the manufacturer was careless. You need to show the product had a design, manufacturing, or warning defect and that the defect caused your harm. Responsibility can reach beyond the maker to the distributor and the store where the item was purchased. What matters most early on is keeping the product exactly as it is, along with packaging, receipts, and photos. LawProactive is a free connection service, not a law firm. We match Mountain View residents with an independent attorney who takes product cases on contingency, so there is no fee unless you recover.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries or appliances",
+      "Lacerations and amputations from power tools",
+      "Crush injuries from collapsing furniture or equipment",
+      "Head and spinal injuries from failed restraints or helmets",
+      "Poisoning or illness from contaminated consumables",
+      "Fractures from ladders, chairs, or scooters that give way"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent product liability attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Mountain View Residents Use LawProactive for Product Cases",
+    "items": [
+      {
+        "title": "Strict liability changes the question",
+        "desc": "In California you usually don't have to show the company was negligent, only that the product was defective and that the defect injured you. An attorney who knows this framework can focus your claim where it belongs."
+      },
+      {
+        "title": "Every link in the supply chain can be accountable",
+        "desc": "Manufacturers, distributors, and the retailer that sold the item may all share responsibility under California law. The attorney we connect you with can identify each party rather than stopping at the brand name."
+      },
+      {
+        "title": "Preserving the product is step one",
+        "desc": "The item itself, still in its post-incident condition, is often the heart of a defect case. We connect you quickly so an attorney can help you secure it, along with packaging and records, before anything is lost."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag didn't deploy in a crash on Shoreline Boulevard. Is that a car accident claim or a product claim?",
+        "answer": "It may be both. Mountain View recorded 422 injury collisions in 2025, and in some of them a vehicle component fails to work as designed. If a restraint, airbag, or brake system had a defect that added to your injuries, a strict liability claim against the manufacturer can run alongside a claim tied to the collision itself. Keep the vehicle from being repaired or scrapped until an attorney has looked at it."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was unsafe?",
+        "answer": "Generally, no. California strict liability asks whether the product had a design, manufacturing, or warning defect and whether that defect caused your injury. The maker's state of mind is usually not the issue. Your attorney will still gather evidence, but the standard is different from an ordinary negligence case."
+      },
+      {
+        "question": "I bought the item at a Mountain View store, but it was made overseas. Who can I actually pursue?",
+        "answer": "California allows claims against parties in the chain of distribution, which can include the retailer and any domestic distributor as well as the manufacturer. That often gives an injured person a reachable defendant even when the maker is abroad. An independent attorney can sort out which entities handled the product and how to bring them into the claim."
+      }
+    ]
+  }
+}

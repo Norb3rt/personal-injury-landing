@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "glendale slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Glendale Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Glendale, CA? LawProactive connects you, free, with an independent premises liability attorney. Contingency fee."
+  },
+  "hero": {
+    "subtitle": "A wet floor, a broken step, a dim parking structure off Brand Boulevard: when a property owner in Glendale ignores a hazard, you should not carry the cost alone. LawProactive connects you at no charge with an independent premises liability attorney."
+  },
+  "about": {
+    "title": "Glendale Slip & Fall and Premises Liability Claims",
+    "longDescription": "Glendale packs more than 201,000 residents into a stretch of Los Angeles County where retail, restaurants and apartment buildings sit shoulder to shoulder. People fall in these places every week, and most of those falls never become a claim. The ones that do share a common thread: the owner or tenant knew about the hazard, or reasonably should have, and did nothing to fix it or warn about it. That element, called notice, is what a California premises case turns on. It is also why the hours right after a fall matter so much. Photograph the spill, the torn carpet or the missing handrail before anyone cleans it up. Ask for the incident report. Get names of anyone who saw what happened. And request in writing that the business preserve its surveillance footage, because many systems overwrite themselves within days. LawProactive is a free service, not a law firm. We connect Glendale residents with an independent attorney who handles premises liability on contingency, so there is no fee unless your case results in a recovery.",
+    "commonInjuriesTitle": "Injuries Often Seen After Falls in Glendale",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and forearm breaks from bracing",
+      "Concussions and other head trauma",
+      "Knee ligament tears",
+      "Herniated discs and lower back strain",
+      "Shoulder dislocations and rotator cuff damage"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Work With an Attorney on Your Glendale Fall Claim",
+    "items": [
+      {
+        "title": "Build the notice evidence",
+        "desc": "California requires proof that the owner knew or should have known about the hazard. An attorney can pursue inspection logs, maintenance records and prior complaints that show how long the condition existed."
+      },
+      {
+        "title": "Protect the deadline",
+        "desc": "You generally have two years to file, but if the property belongs to a public entity the window is far shorter. Getting connected early keeps that clock from deciding your case for you."
+      },
+      {
+        "title": "Answer the comparative fault argument",
+        "desc": "Owners often say the injured person was not paying attention. Under California's pure comparative fault rule, a share of blame reduces recovery rather than eliminating it, and video and photos help keep that share honest."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Glendale. Is that different from falling inside a store?",
+        "answer": "It can be, because sidewalks and other public property are often controlled by a city or county rather than a private business. Claims against a public entity in California follow a much shorter deadline than the standard two years, and missing it can end the case. An attorney can help determine who actually controls the spot where you fell, whether that is the City of Glendale, Los Angeles County or an adjacent property owner."
+      },
+      {
+        "question": "The store told me the security camera footage is gone. What now?",
+        "answer": "Many retail systems record over themselves in a matter of days, which is why a written preservation request should go out as soon as possible. If footage was erased after the business knew you were hurt, that fact itself can matter in your claim. Your own photos, witness contacts and the incident report become more important when video is missing."
+      },
+      {
+        "question": "I was looking at my phone when I fell. Do I still have a claim?",
+        "answer": "Possibly. California uses pure comparative fault, so if a jury decided you were partly responsible, your compensation would be reduced by that percentage rather than denied outright. The owner still has to answer for a hazard they knew about, or should have known about, and failed to address."
+      }
+    ]
+  }
+}

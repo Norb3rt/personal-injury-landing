@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "sausalito medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sausalito Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Sausalito? Get connected free to an independent Marin County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong in Sausalito, the road to answers can feel isolating. LawProactive connects you at no cost with an independent attorney who understands Marin County medical malpractice claims."
+  },
+  "about": {
+    "title": "Sausalito Medical Malpractice Claims",
+    "longDescription": "Sausalito's small size and tight-knit community mean many residents rely on nearby Marin County hospitals and clinics for care, often traveling short distances along Bridgeway or US-101 for appointments and treatment. When that care falls below the accepted standard, the effects ripple through a household fast. Medical malpractice claims are different from typical injury cases: California's MICRA law imposes specific deadlines, a mandatory 90-day pre-suit notice, and a requirement for qualified medical expert review before a case can move forward. A bad outcome by itself doesn't establish malpractice; what matters is whether the care given fell short of what a reasonably careful provider would have done. LawProactive doesn't practice law or charge fees. We simply listen to what happened, then connect you with an independent attorney in our network who handles these claims and can explain, plainly, what your options may look like given the medical facts and the calendar.",
+    "commonInjuriesTitle": "Situations We Commonly Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or respond to changing symptoms"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Early",
+    "items": [
+      {
+        "title": "Deadlines Run Faster Than You Think",
+        "desc": "California generally gives one year from when the harm was discovered, and no more than three years from the injury itself, to bring a claim. Waiting to sort out what happened can quietly shrink the time left to act."
+      },
+      {
+        "title": "The 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can even be filed, California law requires a 90-day notice to the provider. Getting this step handled correctly and on time matters, and an attorney can help make sure it's done right."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad medical outcome alone isn't proof of malpractice, a qualified medical expert typically has to weigh in on whether the care fell below the accepted standard. An attorney connected through LawProactive can help arrange that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Sausalito?",
+        "answer": "Under California's MICRA rules, it's generally one year from when you discovered (or reasonably should have discovered) the harm, but never more than three years from the date of the injury. There are limited exceptions, so it's worth getting a timeline reviewed sooner rather than later. Missing these windows can end a claim before it starts."
+      },
+      {
+        "question": "Does Sausalito being a small city affect where my care happened or my claim?",
+        "answer": "Many Sausalito residents receive treatment at facilities elsewhere in Marin County, and that's fine — your claim follows the provider and location of care, not your home address. What matters is documenting the treatment and where it fell short of accepted standards. An attorney can help sort out the right venue and providers involved."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "Yes. California law caps non-economic damages — things like pain and suffering — in medical malpractice cases, though that cap rises each year under current law. Economic damages, such as medical bills and lost income, aren't subject to this same cap. An attorney can walk you through how this applies to your specific situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "campbell workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Campbell Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Campbell, CA? Get connected free with an independent attorney who handles workers' comp gaps and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Campbell, the path to compensation isn't always a straight line through workers' comp. LawProactive can connect you with an independent attorney who looks at whether a third party — not just your employer — shares responsibility."
+  },
+  "about": {
+    "title": "Campbell Workplace Injury Claims",
+    "longDescription": "Campbell's mix of retail centers, light industrial spaces near San Tomas Expressway, and office parks along Hamilton Avenue means workplace injuries here range from warehouse falls to delivery-vehicle collisions on SR-17 during a work errand. California generally routes on-the-job injuries through workers' compensation, which pays medical care and partial wages regardless of fault but usually blocks a lawsuit against your employer. What often gets missed is a third party — a subcontractor, a property owner, a defective piece of equipment, or another driver — who might owe you a separate claim beyond comp benefits. LawProactive doesn't practice law; we simply connect Campbell workers with an independent attorney who can sort out whether your case involves more than a standard comp filing, and whether a second claim is worth pursuing alongside it. There's no cost to find out where you stand.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Repetitive strain and overexertion injuries",
+      "Forklift and heavy machinery accidents",
+      "Vehicle collisions during work-related driving",
+      "Injuries from defective tools or equipment",
+      "Chemical exposure or burns on the job"
+    ],
+    "ctaText": "Find out if your Campbell workplace injury involves more than a comp claim — connect with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Assuming It's 'Just Comp'",
+    "items": [
+      {
+        "title": "Comp Isn't Always the Whole Story",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment manufacturer — can still be separately liable. An attorney can help identify whether that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "California requires injuries be reported to your employer within 30 days, and missing that window can complicate your comp claim. Getting guidance early helps protect your rights on both fronts."
+      },
+      {
+        "title": "Retaliation Is Illegal, But It Happens",
+        "desc": "Employers can't legally punish you for reporting an injury or filing a claim. If you're worried about your job, an independent attorney can explain your protections before you decide how to proceed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near SR-17 in Campbell. Is that workers' comp or something else?",
+        "answer": "It could be both. Workers' comp likely covers your medical care and lost wages, but if another driver caused the crash, you may also have a separate third-party claim against them. An attorney can review the details and explain how the two claims interact."
+      },
+      {
+        "question": "Does workers' comp mean I can't sue my employer at all?",
+        "answer": "In most California cases, workers' comp is the exclusive remedy against your employer, meaning you generally can't sue them separately even if they were careless. However, this doesn't close the door on claims against other responsible parties, like a subcontractor or equipment maker."
+      },
+      {
+        "question": "What if my employer says I waited too long to report my injury?",
+        "answer": "California generally requires injuries be reported within 30 days, and missing that deadline can create problems for your comp claim. An attorney can look at your specific timeline and advise whether options remain, including any third-party claim, which carries its own two-year deadline."
+      }
+    ]
+  }
+}

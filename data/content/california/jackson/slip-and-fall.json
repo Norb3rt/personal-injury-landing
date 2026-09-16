@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "jackson slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Jackson Slip & Fall Attorney Help | LawProactive",
+    "metaDescription": "Hurt in a fall in Jackson, CA? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall in a Jackson store, parking lot, or apartment complex can leave you with bills and questions about who's responsible. LawProactive connects you free with an independent attorney who handles premises liability cases in Amador County."
+  },
+  "about": {
+    "title": "Jackson Slip & Fall Claims",
+    "longDescription": "Jackson's small-town footprint along Highway 49 and Highway 88 means many falls happen in familiar places — a grocery store on Main Street, a motel near the highway junction, or a business lot uneven with age. Under California law, a property owner isn't automatically at fault just because someone fell; you generally have to show the owner knew or reasonably should have known about the hazard and didn't fix it or warn about it. That's why what happens right after a fall matters so much: photos of the spill, ice, or broken step, names of witnesses, and a request that any surveillance footage be preserved before it's erased. LawProactive doesn't practice law ourselves — we're a free service that connects you with an independent attorney in our network who can evaluate your fall, help gather evidence, and explain your options in plain terms, all on a contingency basis so there's no upfront cost.",
+    "commonInjuriesTitle": "Injuries We See From Falls",
+    "commonInjuries": [
+      "Hip and pelvis fractures",
+      "Wrist and arm fractures",
+      "Torn ligaments or meniscus damage",
+      "Traumatic brain injury from head impact",
+      "Spinal disc injuries and herniations",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us about your fall — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Fall",
+    "items": [
+      {
+        "title": "Notice Is the Whole Case",
+        "desc": "California requires proof the property owner knew or should have known about the hazard. An attorney can help identify evidence — cleaning logs, prior complaints, or inspection records — that speaks to notice."
+      },
+      {
+        "title": "Video Disappears Fast",
+        "desc": "Many stores and complexes overwrite surveillance footage within days or weeks. Acting quickly to send a preservation request can be the difference between having proof and having none."
+      },
+      {
+        "title": "Comparative Fault Doesn't End Your Claim",
+        "desc": "California follows pure comparative fault, so even if you're found partly responsible for not seeing a hazard, you may still recover a reduced amount. An attorney can help present your side clearly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Jackson?",
+        "answer": "California generally gives you two years from the date of the fall to file a lawsuit. If a government-owned property in Amador County is involved, the deadline can be much shorter, sometimes just months, so it's worth checking early."
+      },
+      {
+        "question": "What if I fell at a business along Highway 49 or Highway 88?",
+        "answer": "Businesses along Jackson's main corridors still owe visitors the same duty to address known hazards. The evidence often centers on whether staff knew about a spill, ice, or uneven pavement and had a reasonable chance to fix or warn about it."
+      },
+      {
+        "question": "Will I have to prove the owner was careless?",
+        "answer": "You'll generally need to show the owner knew or should have known about the dangerous condition and failed to address it. This is different from just proving you fell — documentation and witness accounts help build that connection."
+      }
+    ]
+  }
+}

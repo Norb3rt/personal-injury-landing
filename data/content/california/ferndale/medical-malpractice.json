@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "ferndale medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ferndale Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent attorney for Ferndale, CA medical malpractice cases. No fee unless you recover. Learn your options under California law."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, treatment, or hospital stay in or near Ferndale went wrong, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California law — at no cost to you unless you recover."
+  },
+  "about": {
+    "title": "Ferndale Medical Malpractice Claims",
+    "longDescription": "Ferndale is a small Humboldt County community of around 1,369 residents, which means many patients here rely on a limited number of local clinics or travel to larger facilities elsewhere in the county for specialized care. When that care falls short of the accepted medical standard — through a missed diagnosis, a medication error, or a surgical mistake — the effects can be serious, especially in a town where healthcare options are already limited. LawProactive helps Ferndale residents connect with an independent attorney who understands California's medical malpractice rules, including the short notice window and expert-review requirements that make these cases different from an ordinary injury claim. We don't practice law ourselves, and we never guarantee an outcome. What we do is make it simple to reach someone who can evaluate what happened, explain your options, and take on your case with no upfront fee. A bad medical result isn't automatically malpractice, but you deserve a clear answer about whether the care you received met the standard it should have.",
+    "commonInjuriesTitle": "Common Situations We See",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition properly"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Timing and Documentation Matter in Ferndale",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to bring a medical malpractice claim. Missing either deadline can end your case before it starts."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before filing suit, California law requires giving the healthcare provider 90 days' written notice of your intent to sue. An attorney can help make sure this step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a bad outcome alone isn't proof of malpractice, California cases almost always need a qualified medical expert to establish that the standard of care was violated. Connecting with an attorney early helps get that review started."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad medical outcome the same as malpractice?",
+        "answer": "No. Medicine involves risk, and not every complication or disappointing result means a provider was negligent. Malpractice requires showing the provider's care fell below the accepted medical standard and that this caused your harm. A qualified medical expert typically has to confirm that standard was violated."
+      },
+      {
+        "question": "What if my care happened at a clinic outside Ferndale?",
+        "answer": "That's common, since Ferndale's small size means many residents receive treatment at facilities elsewhere in Humboldt County. The location of the care doesn't change your rights — California's malpractice rules apply based on where the treatment occurred and where you live. An independent attorney can look at the full picture regardless of which facility was involved."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and attorneys in our network typically work on contingency, meaning there's no fee unless you recover. There's no obligation to move forward after speaking with someone."
+      }
+    ]
+  }
+}

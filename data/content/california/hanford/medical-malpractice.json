@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "hanford medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hanford Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free help connecting Hanford, CA medical malpractice victims with an independent attorney. No fee unless you recover. Contact LawProactive today."
+  },
+  "hero": {
+    "subtitle": "When a Kings County hospital or clinic visit in Hanford leaves you worse off, sorting out what went wrong can feel overwhelming. LawProactive connects you with an independent attorney who can review your care and explain your options."
+  },
+  "about": {
+    "title": "Hanford Medical Malpractice Claims",
+    "longDescription": "Hanford residents rely on a small number of local hospitals and clinics for care, and most visits go as expected. But when a diagnosis is missed, a surgery goes wrong, or medication is mismanaged, the harm can be lasting. California treats these claims differently than a typical injury case — MICRA sets specific rules, including tighter notice requirements and a cap on certain damages, and a qualified medical expert almost always has to weigh in on whether the care fell below an acceptable standard. A bad medical outcome by itself isn't proof of malpractice; the law requires a closer look at what a provider did or failed to do. LawProactive doesn't practice law or evaluate your medical records directly. Instead, we connect Hanford residents with an independent attorney who can review the details, explain the MICRA timeline that applies to your situation, and help you understand what steps, if any, make sense next — all without any upfront cost.",
+    "commonInjuriesTitle": "Situations We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your situation."
+  },
+  "whyChoose": {
+    "title": "Why Hanford Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Timelines Are Strict",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, plus a required 90-day pre-suit notice. An attorney can help track these deadlines before they close a door."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a qualified medical expert almost always has to weigh in on whether care fell below an accepted standard, having an attorney who works with such experts matters. This isn't a case you can size up on gut feeling alone."
+      },
+      {
+        "title": "Damages Rules Are Specific",
+        "desc": "California's cap on non-economic damages rises each year under MICRA, and understanding how it applies to your circumstances takes someone familiar with the current figures and the law's structure."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from when it happened. There's also a 90-day pre-suit notice requirement that has to be sent to the provider before a lawsuit can move forward. Because these rules are unforgiving, it helps to talk with an attorney sooner rather than later."
+      },
+      {
+        "question": "Is a bad outcome from a Hanford clinic or hospital automatically malpractice?",
+        "answer": "No. Medicine involves risk, and not every complication or disappointing result means a provider was negligent. California law requires showing that the care fell below what a reasonably careful provider would have done, which is typically established through a qualified medical expert's review."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, our service is free to use. Attorneys in our network generally work on contingency, meaning there's no fee unless you recover something. We simply help Hanford residents get connected to someone who can look at their situation."
+      }
+    ]
+  }
+}

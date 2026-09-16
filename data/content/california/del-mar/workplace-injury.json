@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "del-mar workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Del Mar Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Del Mar? Get connected free to an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Del Mar — whether on a job site near Camino Del Mar or at a business off Via De La Valle — LawProactive can connect you at no cost with an independent attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "Del Mar Workplace Injury Claims",
+    "longDescription": "Del Mar is a small coastal city, but its mix of retail, hospitality, construction, and service jobs still produces workplace injuries every year. Workers' compensation is generally the only path against an employer here, no matter who caused the accident, but that's not always the full picture. If a subcontractor, equipment manufacturer, property owner, or even another driver contributed to what happened, a separate claim against that third party may be possible alongside your workers' comp benefits. San Diego County workplaces vary widely, from beachside restaurants to office parks along Del Mar Heights Road, and each situation calls for a careful look at who else might bear responsibility. LawProactive doesn't practice law or take a fee itself; we simply connect injured workers with an independent attorney who can review the details and explain what options might apply. There's no cost to find out where you stand.",
+    "commonInjuriesTitle": "Injuries We See in Workplace Claims",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or falls",
+      "Fractures from ladder or scaffolding accidents",
+      "Repetitive stress injuries from equipment use",
+      "Burns or chemical exposure on job sites",
+      "Head injuries from falling objects or collisions",
+      "Crush injuries involving machinery or vehicles"
+    ],
+    "ctaText": "Find out if you have a workplace injury claim — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California treats workers' comp as the usual remedy against an employer, but a negligent third party like a subcontractor or equipment maker can open a separate injury claim."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "Employees generally need to report a workplace injury to their employer within 30 days, and missing that window can complicate benefits."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury or filing a claim, and an attorney can help if that happens."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job site off Camino Del Mar — can I still sue my employer?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer regardless of fault, so a lawsuit against them usually isn't available. However, if a third party like a subcontractor, equipment supplier, or another driver contributed to the accident, a separate claim against that party may be possible. An independent attorney can review the specifics of your situation to see what applies."
+      },
+      {
+        "question": "What if my injury involved a vehicle, like near Via De La Valle or Del Mar Heights Road?",
+        "answer": "If you were injured on the job in a vehicle-related incident on a corridor like Via De La Valle, you may have both a workers' comp claim and a separate third-party claim against another driver. These two paths can run alongside each other, and an attorney can help sort out how they interact."
+      },
+      {
+        "question": "How long do I have to bring a third-party claim after a workplace injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of injury. Workers' comp reporting deadlines are separate and typically require notifying your employer within 30 days, so it's worth acting on both fronts promptly."
+      }
+    ]
+  }
+}

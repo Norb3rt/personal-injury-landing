@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "malibu workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Malibu Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Malibu? Get connected free to an independent attorney who handles workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "From Pacific Coast Highway job sites to hillside properties along Malibu Canyon Road, workplace injuries here often involve more than one responsible party. We connect injured workers with an independent attorney who can sort out what workers' comp covers and where else a claim might be possible."
+  },
+  "about": {
+    "title": "Malibu Workplace Injury Claims",
+    "longDescription": "Malibu's workforce spans beachfront restaurants, hillside estates, film production crews, and contractors traveling Rt 1 and Malibu Canyon Road between job sites. When a worker gets hurt, California's workers' compensation system is typically the first stop regardless of fault — but it isn't always the only one. If a subcontractor, property owner, equipment manufacturer, or another driver on a busy corridor like Pacific Coast Highway contributed to the injury, a separate third-party claim may be available alongside workers' comp benefits. Given that Los Angeles County recorded 75 injury collisions and 115 injured people in the most recent year, some workplace injuries in Malibu happen on the road itself, not just at a fixed job site. LawProactive is a free service — we don't practice law ourselves. We simply connect injured workers with an independent attorney who can review the details, explain reporting deadlines, and identify whether a third-party claim applies to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or hillside terrain",
+      "Vehicle collisions while driving for work on PCH or Malibu Canyon Road",
+      "Equipment and machinery accidents",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from unsafe property conditions at job sites",
+      "Struck-by incidents involving falling objects or debris"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Malibu Workplace Injury",
+    "items": [
+      {
+        "title": "Third-Party Claims Can Exist Alongside Workers' Comp",
+        "desc": "Even though workers' comp is usually the exclusive remedy against your employer, a negligent third party — like a subcontractor, property owner, or another driver — can still be pursued separately. An attorney can help identify whether that applies to your case."
+      },
+      {
+        "title": "Reporting Deadlines Matter Early On",
+        "desc": "California generally requires reporting a workplace injury to your employer within 30 days, and missing that window can complicate your benefits. An attorney can help make sure the reporting and claims process stays on track."
+      },
+      {
+        "title": "Retaliation Protections Exist, But Workers Still Worry",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a claim. An independent attorney can explain your rights and help you understand what protections apply if you're concerned about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work on Pacific Coast Highway — is that still a workers' comp case?",
+        "answer": "Often yes, since injuries during work-related driving are typically covered by workers' compensation regardless of fault. But if another driver caused the crash, a separate third-party claim against that driver may also be possible. An attorney can look at the details of what happened on PCH and explain both angles."
+      },
+      {
+        "question": "Can I sue my employer directly for my injury?",
+        "answer": "In most California cases, workers' compensation is the exclusive remedy against your employer, meaning you generally can't sue them directly even if they were careless. However, claims against third parties — like equipment manufacturers, subcontractors, or property owners — aren't blocked by that rule. An attorney can help sort out which path applies to your situation."
+      },
+      {
+        "question": "What if my injury happened at a private Malibu property I was working on?",
+        "answer": "If a property owner's unsafe condition contributed to your injury, that may support a third-party claim separate from your workers' comp benefits. This comes up often with hillside or coastal properties where terrain and maintenance issues play a role. An attorney can evaluate the property conditions involved and explain your options."
+      }
+    ]
+  }
+}

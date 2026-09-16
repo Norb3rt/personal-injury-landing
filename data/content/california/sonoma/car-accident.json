@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "sonoma car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sonoma, CA Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Sonoma car accident? LawProactive connects you free with an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Broadway, W Napa Street, or Rt 12 has left you hurt, LawProactive can connect you with an independent Sonoma-area attorney at no cost to you."
+  },
+  "about": {
+    "title": "Sonoma Car Accident Claims",
+    "longDescription": "Sonoma's crash data shows a familiar pattern: dozens of injury collisions each year, with Friday afternoons between 3 and 5 p.m. seeing more reported crashes than other times, likely tied to end-of-week traffic on Broadway, 5th Street W, W Napa Street, and Rt 12. Whether your collision happened at a downtown intersection or out along Rt 12, the aftermath is the same — medical appointments, missed work, and an insurance adjuster who may call before you've had time to think. LawProactive doesn't practice law; we simply connect you with an independent personal injury attorney in California who can evaluate what happened and explain your options. Early steps matter: photos, witness names, and medical records tend to fade or disappear if not preserved quickly. There's no upfront cost to speak with an attorney through our network, and no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Shoulder and knee soft-tissue damage",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Get connected with a Sonoma-area attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to the Insurer",
+    "items": [
+      {
+        "title": "California's Time Limits Are Firm",
+        "desc": "You generally have two years from the crash date to file a personal injury claim, but if a government vehicle or road defect was involved, that window can shrink to as little as six months. Waiting to sort out fault can quietly cost you your case."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California uses pure comparative fault, meaning you can still recover damages even if you were partly responsible, but your compensation is reduced by your share of fault. What you say to an adjuster early on can be used to inflate that percentage."
+      },
+      {
+        "title": "Contingency Fees Mean No Upfront Cost",
+        "desc": "Attorneys in the LawProactive network work on contingency, so there's no fee unless there's a recovery. That removes the financial barrier to at least having your situation reviewed by someone who isn't working for the insurance company."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurers sometimes use these statements to find inconsistencies or minimize your claim later. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "Are Broadway or Rt 12 particularly risky for crashes in Sonoma?",
+        "answer": "Public crash records show these corridors, along with 5th Street W and W Napa Street, have higher reported collision counts than other Sonoma roads, and Friday afternoons between 3 and 5 p.m. see more reports than other times. That's simply where and when more collisions get recorded — it doesn't mean any one route is inherently unsafe."
+      },
+      {
+        "question": "How long do I have to file a claim after a car accident in Sonoma?",
+        "answer": "In most cases, California gives you two years from the date of the crash to file a personal injury lawsuit. That window can be much shorter — sometimes six months — if a government entity, like a city vehicle or a poorly maintained public road, was involved. Because these deadlines vary, it's worth having an attorney review your situation sooner rather than later."
+      }
+    ]
+  }
+}

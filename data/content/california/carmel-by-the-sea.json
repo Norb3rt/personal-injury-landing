@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "carmel-by-the-sea city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Carmel, CA Personal Injury Help | Free Attorney Match",
+    "metaDescription": "Hurt in Carmel, CA? Get connected free with an independent injury attorney. 2 years to file in most cases. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident in Carmel, we can connect you with an independent personal injury attorney at no cost, serving Null County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Carmel, California",
+    "longDescription": "Carmel is a small, walkable town, but its streets still see their share of collisions. In the most recent reporting year, public records show 7 injury collisions and 7 people hurt on local roads, with no traffic deaths recorded. Reported crashes tend to bunch up on Friday afternoons between noon and 2 p.m., often along Ocean Avenue, San Carlos Street, Junipero Avenue, and the southbound stretch of SR-1 (Cabrillo Highway) — corridors that carry heavy foot and vehicle traffic through the village and coastal areas. If you were injured in one of these collisions, sorting out medical bills, insurance calls, and next steps can feel like a lot to carry alone. LawProactive is a free service, not a law firm — we simply connect injured people in Carmel with an independent personal injury attorney who can review what happened and explain your options. There's no cost to reach out, and any attorney you're matched with works on contingency, meaning there's no fee unless there's a recovery. You don't have to figure this out by yourself.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Pedestrian and bicycle collision injuries"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation attorney connection."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but that window can shrink to as little as six months if a government entity is involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Erase Your Claim",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault. An attorney can help make sure your percentage of blame isn't overstated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and emotional distress. That means your recovery isn't artificially capped the way it is in some other states."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, so you pay nothing out of pocket and owe no fee unless there's a recovery. That lets you focus on healing instead of worrying about legal bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Wondering how medical bills will get paid while you're out of work",
+      "Feeling pressured by insurance adjusters calling before you've even healed",
+      "Not knowing if what happened was partly your fault and whether that matters",
+      "Worrying that hiring a lawyer means paying money you don't have right now"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Carmel?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If a government agency or public entity was involved, that deadline can be as short as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some blame. Your total recovery is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do collisions tend to cluster in Carmel?",
+        "answer": "Public crash records show reported collisions concentrated along Ocean Avenue, San Carlos Street, Junipero Avenue, and the southbound side of SR-1 (Cabrillo Highway), with activity peaking on Friday afternoons between noon and 2 p.m. This reflects neutral public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We are not a law firm, and there's no cost to you for the connection itself."
+      },
+      {
+        "question": "Will I have to pay legal fees out of pocket?",
+        "answer": "Attorneys in our network work on a contingency basis, meaning they only get paid if you receive a settlement or award. There's no upfront fee, so there's no financial risk in simply asking questions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "manteca city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Manteca, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Manteca or elsewhere in San Joaquin County? California gives you 2 years to file. Connect free with an injury attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a collision on SR-120, a fall at a local business, or a bicycle crash on a neighborhood street, LawProactive connects you at no cost with an independent personal injury attorney serving Manteca and San Joaquin County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Manteca, California",
+    "longDescription": "Manteca sits where SR-120 meets SR-99, and a lot of daily life here happens along those two routes and the surface streets that feed them—Yosemite Avenue and Main Street especially. Public records for 2025, the most recent final year, list 283 injury collisions inside the city, with 411 people hurt and 2 lives lost. Those same records show the four corridors above carrying the highest collision counts, and they show crashes clustering on Friday evenings between 5 and 7 p.m., when commuters are heading home. Maybe you were rear-ended on Yosemite Avenue on the way to pick up your kids. Maybe a dog got loose in your neighborhood, or a spill on a store floor put you in the emergency room. Whatever happened, you probably have questions you'd rather ask a professional than a search engine. That's where LawProactive comes in. We are a free service, not a law firm. We connect Manteca residents with an independent personal injury attorney who can review what happened and explain your options under California law. The attorneys in our network work on contingency, so there is no fee unless your case results in a recovery. Reaching out costs nothing and commits you to nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Manteca Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back and spinal injuries",
+      "Road rash and deep cuts from motorcycle or bike crashes",
+      "Sprains and fractures from slip-and-fall incidents"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney—free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Manteca Claim",
+    "items": [
+      {
+        "title": "The clock is shorter than most people think",
+        "desc": "California allows two years to file most injury claims, but if a city, county, or state agency is involved, you may have only six months to submit a formal claim. Talking to an attorney early protects that window."
+      },
+      {
+        "title": "Partial fault doesn't shut the door",
+        "desc": "Under California's pure comparative fault rule, being partly responsible reduces your recovery in proportion to your share of blame—it doesn't erase your right to compensation."
+      },
+      {
+        "title": "No statutory cap on pain and suffering",
+        "desc": "In ordinary personal injury cases, California does not limit non-economic damages such as pain, emotional distress, or loss of enjoyment of life."
+      },
+      {
+        "title": "You pay nothing up front",
+        "desc": "Attorneys in the LawProactive network work on contingency. Their fee comes out of a recovery, and if there is no recovery, there is no fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say",
+      "I missed shifts at work and the bills are already stacking up",
+      "The ER visit was expensive and I'm not sure who's supposed to pay",
+      "I might have been partly at fault—does that mean I get nothing?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match people injured in Manteca with an independent personal injury attorney who is licensed in California, and that attorney—not LawProactive—handles your case from there."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California's statute of limitations is two years from the date of injury. If your claim involves a government entity—say, a city vehicle or a poorly maintained public road—you may need to file a formal claim within six months. Because the deadlines differ, it helps to have an attorney review your situation soon after the incident."
+      },
+      {
+        "question": "Where do crashes cluster in Manteca?",
+        "answer": "Public collision records for 2025 show the highest counts along SR-120, Yosemite Avenue, SR-99, and Main Street. The same records show reported crashes peaking on Fridays between 5 p.m. and 7 p.m. These are simply counts of where and when collisions were recorded, reflecting where traffic volume is heaviest."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California follows pure comparative fault. If you're found 20 percent responsible, your compensation is reduced by 20 percent, but you can still recover the remaining 80 percent. Even a person found mostly at fault may still recover something under this rule."
+      },
+      {
+        "question": "What will it cost me to work with an attorney?",
+        "answer": "The LawProactive connection is free, and the attorneys in our network work on contingency. That means their fee is a percentage of any recovery, and if there is no recovery, you owe no attorney fee. Your initial consultation with the attorney is also free."
+      }
+    ]
+  }
+}

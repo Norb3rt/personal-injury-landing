@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "fairfax product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fairfax Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Fairfax, CA? Free connection to an independent attorney who handles product liability claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a defective product hurt you or someone you love in Fairfax, you don't have to figure out the legal side alone. LawProactive connects you, free of charge, with an independent attorney who handles product liability claims across Marin County."
+  },
+  "about": {
+    "title": "Fairfax Product Liability Claims",
+    "longDescription": "Fairfax is a small, walkable town wedged against the hills of west Marin, and residents here rely on everyday products just like anyone else — kitchen appliances, tools, car parts, children's gear, outdoor equipment for the trails near Bolinas Road. When one of those products fails because of a defect, the injury can be sudden and serious. California law gives injured people an important advantage: product liability claims often proceed under strict liability, meaning you generally don't have to prove the manufacturer was careless, only that the product was defective and that the defect caused harm. LawProactive is not a law firm — we're a free service that connects Fairfax residents with an independent attorney who understands how these claims work locally and statewide. If you were hurt by a product, keep it, document what happened, and let us help you find someone who can evaluate your situation without any upfront cost to you.",
+    "commonInjuriesTitle": "Injuries We See From Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or batteries",
+      "Lacerations from faulty tools or machinery",
+      "Traumatic brain injury from defective helmets or safety gear",
+      "Broken bones from collapsing furniture or equipment",
+      "Crush injuries from defective vehicle or bike parts",
+      "Poisoning or chemical injury from mislabeled products"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Fairfax Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Case",
+        "desc": "California often allows product liability claims to proceed under strict liability, so the focus can be on the defect and the harm it caused rather than proving carelessness."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, which may give your case more than one avenue toward accountability."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, meaning there's no fee unless there's a recovery, so getting help doesn't add financial pressure while you're already dealing with an injury."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the manufacturer was negligent?",
+        "answer": "Not necessarily. California product liability claims often rely on strict liability, which generally means you need to show the product was defective and that it caused your injury — not that anyone acted carelessly. An attorney can help determine which legal theory fits your situation best."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Keep it, and avoid altering, repairing, or throwing it away. The product itself is often the most important piece of evidence in these claims, and preserving it in its post-incident condition can matter a great deal later."
+      },
+      {
+        "question": "Does it matter that Fairfax is a small town for finding help?",
+        "answer": "Not at all. Product liability claims involving Fairfax residents can involve manufacturers or retailers based anywhere, and LawProactive connects you with an independent attorney regardless of where the product was made or sold. Local roads like Sir Francis Drake Boulevard or Bolinas Road have nothing to do with where your claim can be filed."
+      },
+      {
+        "question": "Is there a cost to get connected through LawProactive?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network typically work on contingency, meaning they only get paid if you recover something. There's no obligation to move forward after speaking with an attorney."
+      }
+    ]
+  }
+}

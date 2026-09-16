@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "orange slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Orange Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Orange, CA? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A wet floor, a broken step, or an unlit parking lot in Orange can change your week in a second. LawProactive connects you, at no cost, with an independent attorney who handles premises liability claims in Orange County."
+  },
+  "about": {
+    "title": "Orange Slip & Fall and Premises Liability Claims",
+    "longDescription": "Falls rarely make headlines the way collisions do, yet in a city of roughly 141,000 people they happen every day in grocery aisles, apartment stairwells, and the parking lots that line Tustin Street and Chapman Avenue. When you are hurt on property someone else controls, California law asks a specific question: did the owner know about the hazard, or should they have known, and did they fail to fix it or warn you? That element, called notice, is where most premises cases in Orange are won or lost. Photos of the spill, the torn carpet, or the missing handrail matter. So does the store's surveillance footage, which many businesses overwrite within days unless someone asks them in writing to keep it. You generally have two years to file, and far less if the property belongs to the City of Orange, the county, or another public agency. LawProactive is not a law firm. We simply connect you, free, with an independent Orange County attorney who takes these cases on contingency, so there is no fee unless you recover.",
+    "commonInjuriesTitle": "Injuries Common in Orange Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and forearm breaks from catching a fall",
+      "Concussions and other head trauma",
+      "Torn knee ligaments and meniscus damage",
+      "Herniated discs and lower back strain",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Orange Residents Turn to LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole fight",
+        "desc": "California requires proof that the owner knew or should have known about the hazard. An attorney in our network will look for inspection logs, prior complaints, and how long the condition existed before you fell."
+      },
+      {
+        "title": "Video disappears quickly",
+        "desc": "Surveillance systems at Orange stores and apartment complexes often loop over within a week. Getting a preservation demand out early can be the difference between a clear record and a dispute over what happened."
+      },
+      {
+        "title": "Shared blame does not end your claim",
+        "desc": "Under pure comparative fault, being partly responsible reduces your recovery rather than eliminating it. The attorney you are matched with can push back when a property owner tries to pin everything on you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a cracked sidewalk in Orange. Is the city responsible?",
+        "answer": "It depends on who owns and maintains that stretch of sidewalk, which in Orange can be the city, the county, or an adjacent property owner. If a public entity is involved, California requires a formal claim within six months, a much shorter window than the two years that applies to private owners. Photographing the exact spot and noting the nearest cross street right away helps an attorney sort out who is responsible."
+      },
+      {
+        "question": "The store manager wrote up an incident report. Do I still need a lawyer?",
+        "answer": "An incident report is the business's version of events, written by its own staff. It may not capture how long the hazard was there or whether anyone had reported it earlier. An independent attorney can request the surveillance video, maintenance records, and prior complaints before they are lost or discarded."
+      },
+      {
+        "question": "What if I was looking at my phone when I slipped?",
+        "answer": "California uses pure comparative fault, so distraction on your part lowers your recovery by your share of blame instead of barring the claim entirely. The property owner still had a duty to address or warn about a hazard they knew or should have known about. An attorney can evaluate how those factors interact in your situation."
+      }
+    ]
+  }
+}

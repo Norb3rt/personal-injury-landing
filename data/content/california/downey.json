@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "voice": "brand-standard (plain-spoken, victim-first)",
+    "model": "inline-prototype (Opus-class)",
+    "generatedAt": "2026-09-08",
+    "source": "accident-hub + state-laws + city facts",
+    "note": "PROTOTYPE — Downey city page. Attorney identity is auto-populated via territory assignment (SB-37); reviews are renter-owned and not generated."
+  },
+  "seo": {
+    "metaTitle": "Downey, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Downey? Connect free with a personal injury attorney serving Los Angeles County. 2 years to file in California — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Hurt in a crash, a fall, or on the job in Downey? We connect you — at no cost — with an independent personal injury attorney who handles Los Angeles County claims. No fee unless you recover."
+  },
+  "about": {
+    "title": "Personal Injury Help in Downey, California",
+    "longDescription": "Downey sits at the crossroads of some of southeast Los Angeles County's busiest surface streets — Lakewood Boulevard, Firestone Boulevard, Florence Avenue, Paramount Boulevard and the Imperial Highway — and with that traffic comes real risk. In 2025, city records logged 829 injury collisions here, leaving more than 1,200 people hurt, with reported crashes clustering on Friday afternoons between about 2 and 5 p.m. Whether you were injured in one of those wrecks, in a fall at a store near Stonewood Center, in a workplace incident, or by a defective product, you have rights under California law — and a limited window to act. LawProactive is a free service that connects injured people in Downey with an independent personal injury attorney who understands how Los Angeles County claims and courts actually work. We are not a law firm; we match you with counsel and stay out of your way. There is never a fee unless your case recovers compensation.",
+    "commonInjuriesTitle": "Injuries we help Downey residents pursue claims for",
+    "commonInjuries": [
+      "Whiplash, neck and back injuries from rear-end and intersection crashes",
+      "Traumatic brain injuries and concussions",
+      "Broken bones, fractures and crush injuries",
+      "Spinal cord and disc injuries",
+      "Soft-tissue damage and torn ligaments",
+      "Serious lacerations, burns and scarring"
+    ],
+    "ctaText": "See if you have a case — free"
+  },
+  "whyChoose": {
+    "title": "What Downey injury victims should know",
+    "items": [
+      {
+        "title": "The clock is 2 years in California",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury lawsuit. Evidence and witness memories fade long before that, so the sooner you talk to an attorney, the stronger your claim tends to be."
+      },
+      {
+        "title": "Being partly at fault doesn't end your claim",
+        "desc": "California follows pure comparative fault. Even if you were partly to blame for a crash on Lakewood or Firestone, you can still recover — your compensation is simply reduced by your share of fault."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages in most personal injury cases, so pain, suffering and loss of quality of life can be part of what you pursue."
+      },
+      {
+        "title": "Local Los Angeles County experience",
+        "desc": "Downey claims are handled in the Los Angeles County court system. We connect you with an attorney who works these cases and deals with the insurers involved every day."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Insurance adjusters calling before you've even seen a doctor",
+      "Medical bills and lost paychecks stacking up while you recover",
+      "A lowball settlement offer that won't cover your long-term costs",
+      "Not knowing whether you even have a case worth pursuing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Downey?",
+        "answer": "In most California personal injury cases you have two years from the date of the injury to file a lawsuit. Claims against a government entity can have much shorter deadlines — sometimes as little as six months — so it's best to speak with an attorney quickly."
+      },
+      {
+        "question": "What if the accident in Downey was partly my fault?",
+        "answer": "You can still recover. California uses pure comparative fault, which means you may collect damages even if you were mostly to blame; your award is reduced in proportion to your share of fault rather than eliminated."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney?",
+        "answer": "The case review is free, and personal injury attorneys in our network work on contingency — you pay no attorney fee unless they recover compensation for you."
+      },
+      {
+        "question": "Where do most injury crashes happen in Downey?",
+        "answer": "Based on reported-collision records for 2020–2025, the highest-volume corridors include Lakewood Boulevard, Firestone Boulevard, Florence Avenue and the Imperial Highway, and reported crashes tend to peak on Friday afternoons. These are counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Do I have to go to court?",
+        "answer": "Usually not. Most personal injury claims settle without a trial. Your attorney handles the negotiation with the insurer and only takes the case to court if a fair settlement can't be reached."
+      }
+    ]
+  }
+}

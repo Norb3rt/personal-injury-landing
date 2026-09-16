@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "san-mateo medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Help in San Mateo, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Mateo? LawProactive connects you, free, with an independent malpractice attorney who works on contingency."
+  },
+  "hero": {
+    "subtitle": "When care at a San Mateo hospital, clinic, or surgical center goes wrong, sorting out what happened should not fall on you alone. LawProactive connects you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "San Mateo Medical Malpractice Claims",
+    "longDescription": "San Mateo sits at the center of a busy Peninsula health network, with patients traveling along US-101, El Camino Real, and SR-92 to reach hospitals, specialists, and outpatient centers across San Mateo County. Most of that care is careful and competent. Some of it is not, and the difference matters a great deal under California law. A poor result on its own is not malpractice; what has to be shown is that a provider fell below the accepted standard of care and that the lapse caused real harm. That is why a qualified medical expert is almost always part of the case. Timing is tight, too. California's MICRA rules generally give one year from the date the injury was, or should have been, discovered, and never more than three years from the injury itself, with a 90-day notice required before suit is filed. LawProactive is not a law firm. We simply connect San Mateo residents, free of charge, with an independent attorney who can review the records and explain your options.",
+    "commonInjuriesTitle": "Medical Errors That Often Lead to Claims in San Mateo",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical mistakes, including wrong-site procedures and retained instruments",
+      "Medication and dosing errors",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Ask a San Mateo malpractice attorney to review your records — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why San Mateo Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are short and unforgiving",
+        "desc": "California generally allows one year from discovery of the harm and no more than three years from the injury, plus a 90-day pre-suit notice. Getting connected early protects the window."
+      },
+      {
+        "title": "A medical expert is nearly always required",
+        "desc": "Proving a provider fell below the standard of care takes qualified medical testimony, not just a bad outcome. Attorneys in our network know how to line that up."
+      },
+      {
+        "title": "Free to use, contingency-based representation",
+        "desc": "LawProactive charges you nothing to connect. The independent attorneys we work with take malpractice cases on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome at a hospital in San Mateo. Does that mean I have a malpractice case?",
+        "answer": "Not necessarily. California law is clear that a disappointing or even tragic result, by itself, is not malpractice. What matters is whether a provider departed from the accepted standard of care and whether that departure caused your injury. An attorney will usually need to have the records reviewed by a qualified medical expert before answering that question."
+      },
+      {
+        "question": "How much time do I have to act under California's MICRA rules?",
+        "answer": "Generally, you have one year from the date you discovered, or reasonably should have discovered, the injury, and in no event more than three years from the date of the injury itself. You must also give the provider 90 days' written notice before filing suit. Because these deadlines can overlap in confusing ways, it helps to speak with an attorney sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a San Mateo County malpractice claim?",
+        "answer": "California places a statutory cap on non-economic damages, such as pain and suffering, in medical malpractice cases, and that cap rises each year under current law. Economic losses like medical bills and lost income are treated separately. An attorney can explain how the cap applies to the facts of your situation without predicting any particular result."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "antioch medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Lawyer in Antioch, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Antioch? LawProactive connects you, for free, with an independent California malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care in Antioch or elsewhere in Contra Costa County falls short of what a careful provider would have done, you deserve straight answers. LawProactive connects you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Antioch Medical Malpractice Claims",
+    "longDescription": "Antioch is home to roughly 110,000 people, and most families here rely on a mix of local clinics, urgent care, and hospitals across Contra Costa County, often driving Highway 4 or Lone Tree Way to reach a specialist. Something going wrong during that care is unsettling, and the first question is usually whether it counts as malpractice. Under California law, a disappointing result by itself is not enough. The question is whether a provider departed from the accepted standard of care and whether that departure caused harm. Answering it almost always requires a qualified medical expert, which is why timing matters so much in these cases. California's MICRA rules generally give you one year from when you discovered the injury, and no more than three years from when it happened, along with a 90-day notice requirement before filing suit. LawProactive is not a law firm. We simply connect Antioch residents, for free, with an independent attorney who can review records and explain whether a claim is realistic.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of cancer, stroke, or heart attack",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosage mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Infections or complications from inadequate follow-up care"
+    ],
+    "ctaText": "Talk through your Antioch medical care concerns at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Antioch Residents Use LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Are Shorter Than People Expect",
+        "desc": "MICRA generally allows one year from discovery of the injury, capped at three years from the event, plus a 90-day pre-suit notice. Getting connected early keeps those windows open."
+      },
+      {
+        "title": "Expert Review Is Built In",
+        "desc": "California courts almost always require a qualified medical expert to support a malpractice claim. Attorneys in our network know how to arrange that review before deciding whether to move forward."
+      },
+      {
+        "title": "Free to You, Contingency for Them",
+        "desc": "LawProactive charges nothing to connect you, and network attorneys work on contingency, so there is no fee unless there is a recovery. The cap on non-economic damages rises each year, and your attorney can explain how it applies to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Antioch but the hospital that made the error is in another city. Does that matter?",
+        "answer": "Not for your ability to pursue a claim. Many Antioch residents receive care at facilities elsewhere in Contra Costa County or the wider Bay Area, and a California malpractice claim can be brought regardless of which city the provider is in. The attorney you are connected with will sort out where the case should be filed."
+      },
+      {
+        "question": "My surgery didn't go well. Is that automatically malpractice?",
+        "answer": "No. California law treats a bad outcome by itself as insufficient; there must be a departure from the standard of care that a reasonably careful provider would have followed. A qualified medical expert reviews the records to determine whether that happened. An attorney can arrange that review and tell you honestly what it shows."
+      },
+      {
+        "question": "How long do I have to act in California?",
+        "answer": "Under MICRA, you generally have one year from the date you discovered, or reasonably should have discovered, the injury, and never more than three years from the date the injury occurred. You also must give the provider 90 days' written notice before filing a lawsuit. Because these limits can overlap in confusing ways, it is wise to speak with an attorney as soon as you suspect a problem."
+      }
+    ]
+  }
+}

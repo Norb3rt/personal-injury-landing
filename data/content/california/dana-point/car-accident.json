@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "dana-point car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dana Point Car Accident Help | LawProactive",
+    "metaDescription": "Hurt in a car crash in Dana Point? Get connected free to an independent CA injury attorney. No fee unless you recover. Contingency-based."
+  },
+  "hero": {
+    "subtitle": "If a collision on Pacific Coast Highway or I-5 near Dana Point left you injured, we can connect you with an independent attorney who handles cases like yours at no upfront cost."
+  },
+  "about": {
+    "title": "Dana Point Car Accident Claims",
+    "longDescription": "Dana Point's harbor-town streets carry heavy weekend and commuter traffic where Pacific Coast Highway meets Stonehill Drive and the I-5 corridor, and public crash records show dozens of injury collisions here each year, with Friday afternoons between 3 and 5 p.m. showing the most reports. Whether you were rear-ended near the harbor exits, sideswiped merging onto the freeway, or hit at a Rt 1 intersection, the aftermath usually means medical appointments, missed work, and calls from an insurance adjuster who wants a quick recorded statement. LawProactive doesn't practice law — we simply connect you with an independent California personal injury attorney who can review your situation and explain your options. There's no charge to speak with someone, and the attorneys in our network only get paid if you recover compensation. Getting the right information early, before evidence disappears or memories fade, can matter more than people expect.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Herniated or bulging discs",
+      "Concussions and other head injuries",
+      "Broken bones (wrist, arm, collarbone)",
+      "Torn ligaments or knee injuries",
+      "Deep lacerations from broken glass or metal"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Ticking",
+        "desc": "You generally have two years from the crash date to file a personal injury lawsuit in California, but that window shrinks to as little as six months if a government entity — like a city road crew or public bus — was involved. An attorney can flag deadlines early so evidence isn't lost while you wait."
+      },
+      {
+        "title": "Comparative Fault Can Cut Your Recovery",
+        "desc": "California uses pure comparative fault, meaning even if you're found partly responsible, you can still recover damages reduced by your share of fault. Insurers often use recorded statements to inflate that percentage, which is why it helps to have guidance before you speak with them."
+      },
+      {
+        "title": "No Cap on Pain and Suffering, No Fee Unless You Recover",
+        "desc": "California places no cap on non-economic damages like pain and suffering in a typical car accident case, and attorneys in our network work on contingency — you owe nothing upfront and nothing at all unless there's a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit near the Stonehill Drive and PCH area — does it matter exactly where the crash happened?",
+        "answer": "Location can matter for identifying witnesses, traffic camera footage, or nearby businesses with security video, especially along busy corridors like Pacific Coast Highway or the I-5 interchange. An attorney can help figure out what evidence might still be available near the specific site of your crash. Acting sooner rather than later gives you a better shot at preserving that information."
+      },
+      {
+        "question": "The other driver's insurance company already called me — should I give them a recorded statement?",
+        "answer": "You're generally not required to give a recorded statement to the other driver's insurer, and doing so before speaking with an attorney can sometimes work against you. Adjusters may use your own words to shift blame under California's comparative fault rules. It's usually safer to speak with an independent attorney first."
+      },
+      {
+        "question": "What does it cost to get matched with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent personal injury attorney in California — we're not a law firm and don't charge for the connection. If you decide to move forward, attorneys in our network work on contingency, meaning they only get paid if your case results in a recovery."
+      }
+    ]
+  }
+}

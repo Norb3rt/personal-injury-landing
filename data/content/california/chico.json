@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "chico city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Chico, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Chico or elsewhere in Butte County? You have 2 years to file most claims. Connect free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a car crash on SR-99, a bicycle collision, or a fall at a local business left you injured, LawProactive connects you with an independent personal injury attorney at no cost. Serving Chico and all of Butte County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Chico, California",
+    "longDescription": "Chico moves at its own pace, but a collision on the Esplanade or a rear-end hit coming off SR-99 can upend that rhythm in a second. Public records for 2025, the most recent final year, list 209 injury collisions inside the city, with 258 people hurt and 3 lives lost. Cohasset Road and East Avenue also appear repeatedly in those counts, and the tallies tend to run highest on Thursdays between 5 p.m. and 7 p.m., when commuters, students, and shoppers share the same lanes.\n\nIf one of those numbers now describes your week, you probably have more questions than answers. That is where LawProactive fits in. We are a free service, not a law firm. We do not represent anyone, and no one on our end gives legal advice. What we do is listen to what happened and connect you with an independent personal injury attorney who handles cases in Butte County. Attorneys in the network work on contingency, so there is no fee unless there is a recovery.\n\nWhether you were struck while riding near Bidwell Park, injured in a fall at a store, or hurt in a crash on East Avenue, reaching out costs nothing, and every decision about what comes next stays with you.",
+    "commonInjuriesTitle": "Injuries Chico Residents Often Ask About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end crashes",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back and spinal disc injuries",
+      "Road rash and fractures from bicycle or pedestrian collisions",
+      "Knee and hip injuries from slips and falls"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Chico Claim",
+    "items": [
+      {
+        "title": "The clock is real: two years, sometimes six months",
+        "desc": "California gives most injury claims a 2-year filing window, but if a city, county, or state agency is involved, the deadline to file a claim can shrink to 6 months. Knowing which one applies early matters."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "Under California's pure comparative fault rule, being partly responsible reduces what you can recover but does not eliminate it. An attorney can help sort out how fault is being assigned."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For typical injury claims in California, there is no statutory limit on non-economic damages like pain, disruption, and loss of enjoyment. Every case is different, and nothing is promised."
+      },
+      {
+        "title": "You do not pay a fee unless you recover",
+        "desc": "Attorneys in our network work on contingency. Their fee comes out of a recovery, so there is no upfront bill and no fee at all if there is no recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work right now and the bills are already piling up.",
+      "I think I might have been partly at fault. Does that end it?",
+      "I don't know if my injuries are serious enough to bother a lawyer."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes tend to happen in Chico?",
+        "answer": "Public collision records for Chico show the highest counts along the Esplanade, SR-99, Cohasset Road, and East Avenue. Those are simply the corridors with the most reported incidents, which tracks with how heavily they are traveled. Records also show crashes peaking on Thursdays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We do not practice law, represent clients, or offer legal advice. We connect you with an independent personal injury attorney who serves Butte County, and any relationship you form is directly with that attorney."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "Most personal injury claims in California must be filed within 2 years of the injury. If a government entity is involved, such as a city vehicle or a hazard on public property, a claim may need to be filed within 6 months. Waiting can put your options at risk, so it helps to ask early."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault. Your recovery can be reduced by your share of responsibility, but you are not barred from recovering just because you contributed. How fault is divided is often disputed, and an attorney can review the facts with you."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. Our service is free, and attorneys in the network work on contingency, meaning they are paid a percentage only if there is a recovery. If there is no recovery, there is no fee. Any specific terms would be spelled out in a written agreement with the attorney before anything begins."
+      }
+    ]
+  }
+}

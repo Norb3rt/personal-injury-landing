@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "sacramento medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sacramento Medical Malpractice Lawyer | LawProactive",
+    "metaDescription": "Hurt by a medical error in Sacramento? LawProactive connects you, free, with an independent malpractice attorney who knows California's MICRA deadlines."
+  },
+  "hero": {
+    "subtitle": "If a Sacramento hospital, clinic, or provider made a mistake that changed your health, you deserve a clear explanation of what happened and what your options are. We connect you, at no cost, with an independent attorney who reviews medical malpractice claims in Sacramento County."
+  },
+  "about": {
+    "title": "Sacramento Medical Malpractice Claims",
+    "longDescription": "Medical care in Sacramento County reaches nearly half a million city residents, and the vast majority of appointments, surgeries and hospital stays go the way they should. When something goes wrong, though, patients are often left with more questions than answers. Was the delay in reading that scan a judgment call, or a departure from what a careful provider would have done? California draws that line sharply: a poor result by itself is not malpractice. The question is whether the standard of care was breached and whether that breach caused harm. Answering it almost always requires a qualified medical expert to review the records. It also has to happen on a clock. Under MICRA, most claims must be filed within one year of discovering the injury and no later than three years from when it happened, with a 90-day notice sent to the provider before suit. LawProactive is not a law firm. We simply connect Sacramento patients and families, at no cost, with an independent attorney who handles these cases on contingency.",
+    "commonInjuriesTitle": "Harm That Often Leads to a Malpractice Review",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Untreated infections or sepsis after discharge"
+    ],
+    "ctaText": "Ask a Sacramento malpractice attorney to review your records — free."
+  },
+  "whyChoose": {
+    "title": "Why Sacramento Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA's Deadlines Move Quickly",
+        "desc": "California generally gives you one year from the date you discovered the injury, and never more than three years from when it occurred. An attorney can also handle the 90-day pre-suit notice so the clock does not run out while you are still gathering records."
+      },
+      {
+        "title": "Expert Review Comes First",
+        "desc": "A qualified medical expert is almost always needed to show that care fell below the accepted standard. The attorneys we connect you with arrange that review before deciding whether a claim is worth pursuing."
+      },
+      {
+        "title": "No Fee Unless There Is a Recovery",
+        "desc": "Network attorneys work on contingency, and our matching service is free. Because MICRA caps non-economic damages at an amount that rises each year, having someone who tracks the current limit matters for planning your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at a Sacramento hospital and the outcome was bad. Is that automatically malpractice?",
+        "answer": "No. California law is clear that an unfortunate result, on its own, does not prove negligence. A claim requires showing that a provider departed from the standard of care that a reasonably careful professional in Sacramento County would have followed, and that the departure caused your injury. That usually takes a qualified medical expert reviewing your chart."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice claim in California?",
+        "answer": "Under MICRA, most claims must be filed within one year of when you discovered, or reasonably should have discovered, the injury. There is also an outer limit of three years from the date of the harm itself. Before filing, a 90-day notice of intent must be sent to each provider you plan to sue, so it helps to speak with an attorney early."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a Sacramento malpractice case?",
+        "answer": "California caps non-economic damages, such as pain and loss of enjoyment of life, and that cap increases each year under MICRA. Economic losses like medical bills, future care, and lost wages are handled separately and are not subject to the same limit. An attorney can explain how the current figures apply to your situation without anyone promising a particular result."
+      }
+    ]
+  }
+}

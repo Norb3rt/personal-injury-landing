@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "sebastopol city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sebastopol, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Sebastopol? Sonoma County claims have a 2-year filing window. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Sebastopol, we can connect you with an independent attorney at no cost. Free consultations for people across Sonoma County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Sebastopol, California",
+    "longDescription": "Sebastopol is a small city, but its roads still see their share of collisions. Public records show 8 injury collisions in the most recent final crash year, with 9 people hurt and no traffic deaths recorded. Corridors like Rt 116, Bodega Avenue, Rt 12, and Petaluma Avenue carry the highest reported volume of these incidents, and Thursday afternoons between 3 and 5 p.m. tend to show more activity than other times. Whether you were driving, biking, or walking near one of these routes, an unexpected injury can upend your routine fast — medical appointments, missed work, and insurance calls pile up quickly. LawProactive is a free service that helps injured people in Sebastopol get connected with an independent personal injury attorney who can look at what happened and explain your options. We are not a law firm, and we don't decide claims or represent you ourselves — we simply make the introduction. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Knee and joint injuries"
+    ],
+    "ctaText": "Find out if you have a case — free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Clock",
+        "desc": "Most injury claims in California must be filed within two years, but claims against a government entity can require notice in as little as six months. Waiting too long can close the door on your options."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California uses pure comparative fault, so even if you were partly responsible for what happened, you may still recover a share of damages. An attorney can help sort out how fault is allocated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California doesn't limit non-economic damages like pain and suffering. That matters when an injury affects your daily life beyond medical bills."
+      },
+      {
+        "title": "You Don't Pay Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost and no fee unless money is recovered on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worried medical bills will keep piling up",
+      "Not sure if the insurance company's offer is fair",
+      "Afraid waiting too long means losing the right to file",
+      "Unsure if being partly at fault ruins any chance of compensation"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Sebastopol?",
+        "answer": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity was involved, though, the window can shrink to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows pure comparative fault, which means partial responsibility reduces your recovery but doesn't eliminate it. An attorney can help evaluate how fault might be divided in your situation."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Sebastopol?",
+        "answer": "Public crash records point to Rt 116, Bodega Avenue, Rt 12, and Petaluma Avenue as the corridors with the highest reported collision counts. These are neutral public-record figures, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people with an independent attorney who can evaluate their situation."
+      },
+      {
+        "question": "Will I owe money if my case doesn't result in a payout?",
+        "answer": "Attorneys in our network typically work on contingency, meaning fees only apply if there's a recovery. If there's no settlement or award, you generally owe nothing in attorney fees."
+      }
+    ]
+  }
+}

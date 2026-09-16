@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "gilroy workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gilroy Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Gilroy? Free help connecting with an independent attorney to review workers' comp and third-party claim options."
+  },
+  "hero": {
+    "subtitle": "Gilroy's mix of agricultural, warehouse, and retail work along corridors like Monterey Highway and US-101 brings its own set of on-the-job hazards. If you were hurt at work, LawProactive can connect you with an independent attorney who can look at your options at no cost to you."
+  },
+  "about": {
+    "title": "Gilroy Workplace Injury Claims",
+    "longDescription": "Gilroy's economy runs on a blend of agriculture, food processing, distribution centers, and retail, and each of these jobs carries its own injury risks — from equipment accidents to repetitive strain to falls on uneven ground. In most cases, California law routes workplace injuries through the workers' compensation system rather than a lawsuit against your employer, regardless of who was at fault. But that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate claim against that third party outside the workers' comp system. Sorting out which path applies to your situation can be confusing, especially while you're recovering. LawProactive is a free service that connects injured workers in Gilroy with an independent attorney who can review the details and explain what options might be available. There's no cost to find out where you stand.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Machinery and equipment-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle or forklift accidents on work sites",
+      "Chemical or pesticide exposure incidents",
+      "Injuries from falling objects or improper storage"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury claim."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Understanding Your Reporting Window",
+        "desc": "California requires you to report a workplace injury to your employer within 30 days, and missing that window can complicate your claim. An attorney can help make sure the right steps are taken early."
+      },
+      {
+        "title": "Spotting Third-Party Liability",
+        "desc": "Workers' comp usually blocks a lawsuit against your employer, but a negligent third party like a subcontractor, property owner, or equipment maker may still be liable separately. An independent attorney can evaluate whether your case involves a party outside the comp system."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a workers' comp claim. If you're worried about your job status, an attorney can explain your rights and the protections in place."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while working near Monterey Highway during a delivery run. Can I still file a workers' comp claim?",
+        "answer": "Yes, most on-the-job injuries in Gilroy — including those that happen while driving for work along routes like Monterey Highway or US-101 — are generally covered by workers' compensation regardless of fault. If another driver caused the crash, you may also have a separate claim against them outside the workers' comp system. An independent attorney can help sort out which path applies."
+      },
+      {
+        "question": "Can I sue my employer directly for my injury?",
+        "answer": "In most cases, California law makes workers' compensation the exclusive remedy against your employer, meaning you generally can't sue them directly even if they were careless. However, if a third party contributed to your injury, that party may be pursued separately. An attorney can help identify whether a third-party claim exists in your situation."
+      },
+      {
+        "question": "What if my employer threatens to fire me for reporting my injury?",
+        "answer": "Retaliation for reporting a workplace injury or filing a workers' comp claim is illegal in California. If you're experiencing pressure or threats after an injury, it's worth speaking with an independent attorney who can explain your protections and next steps."
+      }
+    ]
+  }
+}

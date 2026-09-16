@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "palo-alto medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Palo Alto Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Palo Alto? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care at a Palo Alto clinic or hospital goes wrong, the aftermath can leave you with more questions than answers. We connect you free with an independent attorney who handles medical malpractice claims under California's MICRA rules."
+  },
+  "about": {
+    "title": "Palo Alto Medical Malpractice Claims",
+    "longDescription": "Palo Alto is home to major medical centers and a dense network of clinics and specialists serving Santa Clara County residents. With that concentration of care comes a steady stream of patients who trust their providers to catch problems, communicate clearly, and follow through on treatment plans. When that trust breaks down — through a delayed diagnosis, a surgical slip, or a medication mix-up — the consequences can follow a patient for years. California law sets a high bar for these claims: MICRA requires a qualified medical expert to weigh in, strict notice deadlines apply, and a bad result by itself isn't proof of malpractice. LawProactive doesn't practice law or make that determination for you. We simply listen to what happened, then connect you at no cost with an independent attorney in our network who can evaluate your situation and explain your options under California law.",
+    "commonInjuriesTitle": "Situations we see connected to malpractice claims",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Palo Alto Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the MICRA Clock",
+        "desc": "California generally gives you one year from discovering the injury and no more than three years from the date it happened, plus a required 90-day pre-suit notice. Missing these windows can end a claim before it starts, so timing matters."
+      },
+      {
+        "title": "Expert Review Is Required — We Help You Find It",
+        "desc": "Because a qualified medical expert almost always has to weigh in on a malpractice claim, we connect you with attorneys who know how to line up that kind of review early."
+      },
+      {
+        "title": "No Upfront Cost, Ever",
+        "desc": "Attorneys in our network work on contingency, meaning there's no fee unless you recover. That's true whether your case involves a Palo Alto clinic, a specialist's office, or a larger hospital system."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law is clear that a poor result alone doesn't prove malpractice occurred. An attorney typically needs a qualified medical expert to review the care and determine whether it fell below the accepted standard."
+      },
+      {
+        "question": "How much time do I have to file a claim in Palo Alto?",
+        "answer": "Generally, California gives you one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it occurred. There's also a 90-day pre-suit notice requirement, so it's worth having a claim reviewed sooner rather than later."
+      },
+      {
+        "question": "Does it matter that Palo Alto has several large medical institutions nearby?",
+        "answer": "It can affect how a case is investigated, since larger institutions often have their own internal review and record-keeping processes. An attorney familiar with these systems can help figure out what records to request and how to proceed."
+      },
+      {
+        "question": "What does LawProactive actually do?",
+        "answer": "We're a free connection service, not a law firm. We listen to your situation and, if it seems like a fit, connect you with an independent attorney in our network who can evaluate your case under California law."
+      }
+    ]
+  }
+}

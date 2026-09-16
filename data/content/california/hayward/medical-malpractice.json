@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "hayward medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hayward Medical Malpractice Attorney | LawProactive",
+    "metaDescription": "Hurt by a medical error in Hayward, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When care in Hayward goes wrong, the hardest part is often figuring out whether anyone is responsible. We connect you, at no cost, with an independent California medical malpractice attorney who can look at what happened."
+  },
+  "about": {
+    "title": "Hayward Medical Malpractice Claims",
+    "longDescription": "Hayward is home to roughly 158,000 people, and on any given day many of them are sitting in a waiting room, recovering from surgery, or picking up a prescription somewhere in Alameda County. Most of that care goes fine. Sometimes it does not, and the person left dealing with the consequences has no easy way to tell an unavoidable complication from a preventable mistake. That distinction matters under California law. A poor result by itself is not malpractice; there has to be a departure from the accepted standard of care, and a qualified medical expert almost always has to say so. California's MICRA rules also set a short clock, generally one year from when you discovered the harm and no more than three years from the injury, along with a 90-day notice to the provider before a lawsuit can be filed. LawProactive is not a law firm. We are a free service that connects Hayward residents with an independent attorney who handles these cases on contingency, so you only pay a fee if there is a recovery.",
+    "commonInjuriesTitle": "Harm We Commonly See in Hayward Malpractice Cases",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosage mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to order tests or follow up on abnormal results"
+    ],
+    "ctaText": "Ask a Hayward malpractice attorney to review your care"
+  },
+  "whyChoose": {
+    "title": "Why Hayward Residents Use LawProactive",
+    "items": [
+      {
+        "title": "The clock in these cases is short",
+        "desc": "MICRA generally allows one year from discovery of the harm and never more than three years from the injury, and a 90-day notice must go to the provider before suit. Getting connected early keeps those options open."
+      },
+      {
+        "title": "Expert review comes first, not last",
+        "desc": "California courts expect a qualified medical expert to support nearly every malpractice claim. Attorneys in our network know how to get records evaluated so you learn whether the standard of care was actually breached."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Every attorney we connect you with works on contingency, and our connection service is free. You can find out whether you have a case without paying anything up front."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated after a crash on I-880 in Hayward and my condition got worse in the hospital. Is that part of the crash claim or a separate malpractice case?",
+        "answer": "It can be both, and the two follow different rules. I-880 and Mission Boulevard see a large share of Hayward's collisions, and injured drivers often end up in emergency care where a second problem can arise. Whether the later harm came from the crash itself or from a treatment error is exactly the kind of question an attorney and a medical expert sort out together."
+      },
+      {
+        "question": "How do I know if what happened to me was malpractice or just bad luck?",
+        "answer": "Honestly, you usually cannot tell on your own, and neither can a lawyer without medical input. California requires proof that a provider fell below the accepted standard of care and that the lapse caused your injury. A disappointing outcome, on its own, does not meet that test, which is why an early records review is so useful."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "MICRA places a cap on non-economic damages such as pain and suffering, and that cap increases each year under current law. Economic losses like medical bills and lost income are handled separately. An attorney can explain how the cap that applies to your case date affects your specific situation."
+      }
+    ]
+  }
+}

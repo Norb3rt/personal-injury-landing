@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "napa product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Napa Product Liability Lawyer Match | LawProactive",
+    "metaDescription": "Hurt by a defective product in Napa? LawProactive connects you, free, with an independent injury attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When something you bought or used in Napa fails and hurts you, California's strict liability rules may put the burden on the maker, not on you. LawProactive is a free service that pairs you with an independent product liability attorney."
+  },
+  "about": {
+    "title": "Napa Product Liability Claims",
+    "longDescription": "A product does not have to be exotic to cause serious harm. In a city of about 80,000 people, the everyday items are the ones that matter most: a space heater in a Browns Valley home, a pressure washer at a tasting room off Rt 29, a space-saving e-bike ridden down Soscol Avenue, or a child's car seat on the way to school. When one of those fails because of how it was designed, how it was built, or how it was labeled, Napa County residents may have a claim under California product liability law. What sets these cases apart is strict liability. You generally do not have to prove the company was careless, only that the product was defective and that the defect caused your injury. Manufacturers, distributors, and the local retailer who sold it can all share responsibility. Keep the product, the packaging, and any receipts. LawProactive will connect you, at no cost, with an independent attorney who handles these claims on contingency.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from appliances, heaters, or lithium batteries",
+      "Lacerations and amputations from power tools",
+      "Crash injuries tied to faulty airbags, tires, or brakes",
+      "Poisoning or organ damage from contaminated food or drugs",
+      "Choking, strangulation, or falls involving children's products",
+      "Fractures from collapsing furniture, ladders, or e-bike components"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Napa Residents Use LawProactive for Defective Product Claims",
+    "items": [
+      {
+        "title": "Attorneys Who Work With Strict Liability",
+        "desc": "The network attorneys understand that California often lets you recover without proving negligence, focusing instead on whether the product was defective and caused your harm."
+      },
+      {
+        "title": "Every Link in the Chain Is Considered",
+        "desc": "A defect claim may reach the manufacturer, the distributor, and the store where you bought the item, and the attorney you are matched with can evaluate each one."
+      },
+      {
+        "title": "Evidence Preservation From Day One",
+        "desc": "Because the product itself is the heart of the case, your attorney will guide you on keeping it intact, unrepaired, and out of the trash before anything else moves forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt by a piece of winery or cellar equipment while working near Napa. Is that a product liability claim or a workers' comp claim?",
+        "answer": "It can be both. Workers' compensation typically covers on-the-job injuries regardless of fault, but if a pump, press, forklift, or other piece of equipment was defective, a separate product liability claim may exist against the company that made or sold it. An attorney can sort out how the two interact so nothing is left on the table."
+      },
+      {
+        "question": "Do I have to prove the manufacturer was negligent?",
+        "answer": "Usually not. California product liability often operates under strict liability, meaning you generally need to show the product had a design, manufacturing, or warning defect and that the defect caused your injury. Whether the company acted carelessly is typically not the central question."
+      },
+      {
+        "question": "What should I do with the product that injured me?",
+        "answer": "Keep it exactly as it is, along with the box, manual, and proof of purchase if you have them. Do not repair it, return it to the store, or throw it away, because the physical item is often the most important evidence in the case. Photograph it and the scene, then reach out so an attorney can advise on secure storage."
+      }
+    ]
+  }
+}

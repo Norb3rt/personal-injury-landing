@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "danville workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Danville Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Danville? Get connected free with an independent attorney who understands workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured working near I-680 or off Camino Tassajara in Danville, we can connect you with an independent attorney who understands both workers' comp rules and third-party claims at no cost to you."
+  },
+  "about": {
+    "title": "Danville Workplace Injury Claims",
+    "longDescription": "Danville sits along the I-680 corridor in Contra Costa County, where delivery drivers, contractors, utility crews, and retail workers face real on-the-job risks every day. When someone is hurt at work here, California's workers' compensation system usually applies regardless of fault, but that's not always the full picture. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate third-party claim may also be possible alongside a workers' comp filing. Sorting out which path applies, and whether both apply, takes someone who knows the difference. LawProactive doesn't practice law ourselves; we're a free service that connects injured Danville workers with an independent attorney who can review the details of the incident, explain your options honestly, and help you understand deadlines before they pass. There's no cost to get that conversation started.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from forklift or heavy equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Struck-by-vehicle incidents in parking lots or work zones",
+      "Burns or chemical exposure on job sites",
+      "Injuries from defective tools or machinery"
+    ],
+    "ctaText": "Find out if you have a third-party claim alongside workers' comp — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Danville Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle Overlapping Claims",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker may still owe a separate claim. An independent attorney can help identify whether that applies to your situation."
+      },
+      {
+        "title": "We Know the Reporting Clock Matters",
+        "desc": "California requires injured workers to report to their employer within 30 days, and missing that window can complicate a claim. We connect you quickly so you're not navigating that deadline alone."
+      },
+      {
+        "title": "Retaliation Protections Are Real",
+        "desc": "It's illegal for an employer to retaliate against you for reporting a workplace injury. If you're worried about your job, an independent attorney can explain your rights before you decide how to proceed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working near I-680 in Danville — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is your exclusive remedy against your employer regardless of fault. But if another driver, a subcontractor, or an equipment manufacturer contributed to the crash or injury, you may also have a separate third-party claim. An independent attorney can review the facts and tell you which paths apply."
+      },
+      {
+        "question": "What if my employer retaliates after I report an injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law. If you believe you're being punished, demoted, or pushed out for reporting an injury, that's a separate issue an attorney can help address alongside your injury claim."
+      },
+      {
+        "question": "How long do I have to act if a third party caused my injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of injury. That's separate from the 30-day window to report the injury to your employer, so it helps to get clarity on both timelines early."
+      }
+    ]
+  }
+}

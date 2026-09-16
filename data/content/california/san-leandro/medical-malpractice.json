@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "san-leandro medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Leandro Medical Malpractice Attorneys | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Leandro? LawProactive connects Alameda County patients with an independent malpractice attorney at no cost to you."
+  },
+  "hero": {
+    "subtitle": "If care you received in San Leandro left you with a preventable injury, you deserve a clear answer about what went wrong. LawProactive connects you, for free, with an independent attorney who handles California medical negligence claims."
+  },
+  "about": {
+    "title": "San Leandro Medical Malpractice Claims",
+    "longDescription": "When a hospital stay or clinic visit in San Leandro leaves you worse off than when you walked in, the first question is usually whether anyone did anything wrong. That question matters, because under California law a disappointing result by itself is not malpractice. What has to be shown is that a provider fell below the accepted standard of care and that the lapse caused real harm. Proving it almost always takes a qualified medical expert who can explain what should have happened instead. San Leandro patients also face MICRA's timing rules: generally one year from the date you discovered the injury, never more than three years from when it occurred, plus a 90-day notice that must go to the provider before a lawsuit is filed. Those windows close quietly. LawProactive is not a law firm. We are a free service that connects Alameda County residents with an independent attorney who handles medical negligence cases on contingency, so there is no fee unless there is a recovery. If something went wrong with your care, a conversation costs nothing.",
+    "commonInjuriesTitle": "Medical Errors That Lead to Claims in San Leandro",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical mistakes, including wrong-site procedures and retained instruments",
+      "Medication and dosing errors in hospitals, pharmacies, and care facilities",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications and monitoring lapses",
+      "Hospital-acquired infections tied to breakdowns in protocol"
+    ],
+    "ctaText": "Ask a San Leandro malpractice attorney to review what happened"
+  },
+  "whyChoose": {
+    "title": "Why San Leandro Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "Expert Review From the Start",
+        "desc": "California malpractice cases nearly always require a qualified medical expert to establish the standard of care. The attorneys we connect you with know how to line up that review before deadlines become a problem."
+      },
+      {
+        "title": "MICRA Deadlines Handled Correctly",
+        "desc": "The one-year discovery rule, the three-year outer limit, and the mandatory 90-day pre-suit notice each carry consequences if missed. An attorney tracks all three from your first conversation."
+      },
+      {
+        "title": "No Fee Unless There Is a Recovery",
+        "desc": "Attorneys in our network work on contingency, and our matching service is free. You can find out whether your San Leandro case has merit without paying anything up front."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My surgery in San Leandro did not turn out the way I hoped. Is that malpractice?",
+        "answer": "Not necessarily. California law distinguishes between an unfortunate outcome and negligent care, and only the latter supports a claim. An attorney will typically have a qualified medical expert examine your records to determine whether a provider departed from accepted practice and whether that departure caused your injury."
+      },
+      {
+        "question": "I live in San Leandro but was treated at a hospital in Oakland or elsewhere in Alameda County. Does that change anything?",
+        "answer": "Generally, no. Malpractice claims arising in Alameda County are usually handled in Alameda County Superior Court regardless of which city within the county the treatment occurred in. An attorney can confirm the proper venue based on where the care happened and who provided it."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California medical malpractice case?",
+        "answer": "Yes, but only for part of your claim. MICRA places a cap on non-economic damages such as pain and suffering, and that cap increases each year under current law. Economic losses like medical bills and lost income are not subject to the same cap, so an attorney will separate and document each category carefully."
+      }
+    ]
+  }
+}

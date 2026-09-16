@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "pleasanton medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Help in Pleasanton, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Pleasanton? LawProactive connects you, free, with an independent malpractice attorney. MICRA deadlines apply, so ask early."
+  },
+  "hero": {
+    "subtitle": "If a Pleasanton doctor, nurse, or facility made an avoidable error that left you worse off, you deserve a clear answer about whether it counts as malpractice under California law. LawProactive connects you, at no cost, with an independent attorney who can review what happened."
+  },
+  "about": {
+    "title": "Pleasanton Medical Malpractice Claims",
+    "longDescription": "When you go in for care in Pleasanton, you expect to come out at least no worse than you went in. Sometimes that does not happen, and the reason is a preventable mistake rather than bad luck. Sorting out which one you are dealing with is the heart of a California medical malpractice claim. Under MICRA, the state's malpractice framework, the question is whether a provider fell below the accepted standard of care and whether that lapse caused real harm. A poor result on its own is not enough. A qualified medical expert almost always has to review the records and say so. Timing matters here, too: you generally have one year from when you discovered the injury, and never more than three years from when it happened, plus a 90-day notice must go to the provider before a suit is filed. LawProactive is not a law firm. We are a free service that connects Pleasanton and Alameda County residents with an independent attorney who works on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained objects",
+      "Medication and dosing mistakes",
+      "Anesthesia complications",
+      "Birth injuries to mother or child",
+      "Failure to follow up on abnormal test or imaging results"
+    ],
+    "ctaText": "Ask whether your situation may qualify. The connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Pleasanton Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "The clock in these cases is short",
+        "desc": "MICRA gives you roughly one year from discovering the injury, capped at three years from when it occurred, and requires a 90-day notice before filing. Getting connected early keeps those windows open."
+      },
+      {
+        "title": "Expert review, not guesswork",
+        "desc": "California almost always requires a qualified medical expert to establish that care fell below the standard. The attorneys in our network know how to arrange that review before making any promises about your claim."
+      },
+      {
+        "title": "Honest talk about the damages cap",
+        "desc": "California caps non-economic damages in malpractice cases, and that cap rises every year. An independent attorney can explain what the current figure means for you, while economic losses like medical bills and lost income are handled separately."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a collision on I-580 in Pleasanton, and I think the treatment afterward made things worse. Is that a car accident case or a malpractice case?",
+        "answer": "It can be both, and they are handled differently. The crash itself is a personal injury claim against the at-fault driver, while a provider's error during your follow-up care would be evaluated under MICRA with its own deadlines and expert requirements. An attorney can look at both pieces together so nothing gets missed. Alameda County saw 447 people injured in Pleasanton collisions in 2025, so this overlap comes up more than people expect."
+      },
+      {
+        "question": "My surgery did not go the way the doctor said it would. Does that mean I have a malpractice claim?",
+        "answer": "Not necessarily. California law is clear that a bad outcome by itself is not malpractice; the question is whether the provider acted below the accepted standard of care and whether that caused your harm. Many procedures carry known risks that can occur even with careful treatment. A qualified medical expert reviewing your records is usually how that distinction gets made."
+      },
+      {
+        "question": "How does the 90-day notice work, and does it change my deadline?",
+        "answer": "Before a malpractice lawsuit is filed in California, the provider must receive written notice of the intent to sue at least 90 days ahead of time. If that notice goes out in the final 90 days of the limitations period, the deadline is extended so the notice period can run. This is one of several reasons attorneys prefer to hear from Pleasanton residents sooner rather than later."
+      }
+    ]
+  }
+}

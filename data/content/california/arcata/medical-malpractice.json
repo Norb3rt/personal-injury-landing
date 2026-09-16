@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "arcata medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Arcata Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Arcata, CA? Get connected free to an independent Humboldt County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay went wrong in Arcata, you deserve straight answers about what happened and what comes next. LawProactive can connect you, at no cost, with an independent attorney familiar with Humboldt County medical malpractice claims."
+  },
+  "about": {
+    "title": "Arcata Medical Malpractice Claims",
+    "longDescription": "Arcata is a small city of under 18,000 people, and many residents rely on a limited number of local clinics and hospital services for everything from routine care to emergency treatment. When something goes wrong during that care — a delayed diagnosis, a surgical mistake, or a medication error — it can be hard to know whether it was an unavoidable complication or an actual departure from accepted medical standards. California law sets a fairly narrow window to act on these claims and requires specific pre-suit steps before a lawsuit can even be filed. LawProactive doesn't practice law or evaluate your case ourselves; instead, we connect you free of charge with an independent attorney in the area who handles medical malpractice matters and can review your records, explain the MICRA rules that apply, and help you understand your options. There's no obligation, and any attorney you're connected with works on contingency, meaning there's no fee unless you recover.",
+    "commonInjuriesTitle": "Situations We Commonly See",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Birth injuries to mother or newborn",
+      "Medication or dosage errors",
+      "Anesthesia complications",
+      "Hospital-acquired infections from inadequate care"
+    ],
+    "ctaText": "Get connected with an independent Arcata malpractice attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Clock Runs Out",
+    "items": [
+      {
+        "title": "Strict, Unforgiving Deadlines",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to bring a claim. Missing either deadline can end your case regardless of its merits."
+      },
+      {
+        "title": "A Required 90-Day Notice Step",
+        "desc": "Before suing a healthcare provider in California, you must typically serve a 90-day notice of intent. An attorney familiar with this process can make sure it's done correctly and on time."
+      },
+      {
+        "title": "Understanding the Non-Economic Damages Cap",
+        "desc": "MICRA places a cap on non-economic damages that adjusts upward each year, and it takes an experienced eye to explain how that cap interacts with your specific losses."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law recognizes that medicine involves risk, and a poor result on its own isn't proof of negligence. A claim generally requires showing the provider departed from the accepted standard of care and that this departure caused harm, which is why a qualified medical expert is almost always required to support the case."
+      },
+      {
+        "question": "What if my care happened at a small clinic or was later transferred to a larger hospital outside Arcata?",
+        "answer": "That's common in Humboldt County, where residents sometimes start at a local clinic and get transferred elsewhere for specialized treatment. An attorney can still evaluate the full chain of care, no matter how many providers or locations were involved, to determine where things may have gone wrong."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and any independent attorney you're matched with typically works on a contingency basis, meaning they only get paid if you recover money. There's no cost or obligation just to have a conversation and learn where you stand."
+      }
+    ]
+  }
+}

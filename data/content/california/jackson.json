@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "jackson city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Jackson, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Jackson or Amador County? Connect free with an independent CA attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Jackson, we'll connect you free with an independent attorney serving Amador County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Jackson, California",
+    "longDescription": "Jackson sits along Rt 49 and Rt 88, with the Rt 49/88 junction and State Route 88 carrying much of the local traffic through this small Amador County community. Public records show 1 injury collision in 2024, resulting in 1 person injured and no traffic deaths — a small number, but it still represents someone's bad day, medical bills, and missed work. Whether you were hurt on one of these corridors, in a parking lot, or somewhere else in town, sorting out what comes next can feel overwhelming, especially while you're trying to heal. LawProactive is a free service — we are not a law firm and we don't practice law. What we do is connect people who've been injured in Jackson with an independent personal injury attorney who can review the details of what happened and explain your options. There's no cost to talk with us, and the attorneys in our network only get paid if they recover money for you. You don't have to figure this out alone or guess at your rights under California law. A short conversation can help you understand what to do next, without any pressure or obligation.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries requiring physical therapy or surgery"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window can shrink to as little as six months if a government entity was involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering. That means your compensation isn't artificially capped just because your losses go beyond medical bills."
+      },
+      {
+        "title": "No Fee Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so you pay nothing upfront and owe no attorney fee unless they secure a recovery for you. This lets you get legal help without adding financial stress on top of everything else."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling confused about what California law actually allows",
+      "Fear that waiting too long has already hurt their case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects people who've been injured with an independent personal injury attorney. We don't represent you directly or charge any fees ourselves."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. Our connection service is free, and attorneys in our network work on contingency, meaning they only get paid if they win or settle your case. There's no upfront cost or obligation."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Generally, you have two years from the date of the injury to file a personal injury claim in California. If a government entity is involved, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to happen in Jackson?",
+        "answer": "Based on public records, reported collisions in Jackson tend to occur along corridors like Rt 49, Rt 88, and the Rt 49/88 junction, with activity often peaking on Wednesdays between 1 and 3 p.m. These are simply neutral collision counts, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, so being partly responsible doesn't bar you from recovering compensation. Your recovery would just be reduced by your percentage of fault, which an attorney can help you understand in more detail."
+      }
+    ]
+  }
+}

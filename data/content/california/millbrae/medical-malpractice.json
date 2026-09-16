@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "millbrae medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Millbrae Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Millbrae? Get connected free to an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis error, surgical mistake, or medication mishap at a Millbrae-area clinic or hospital left you injured, LawProactive can connect you with an independent attorney familiar with California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Millbrae Medical Malpractice Claims",
+    "longDescription": "Millbrae residents rely on a mix of local clinics and larger San Mateo County medical centers for everything from routine checkups to emergency care. Most visits go fine, but when a provider misses a clear warning sign, mishandles a procedure, or gets a medication dose wrong, the harm can follow a patient for years. California treats these claims differently than a typical car crash case — there's a shorter window to act, a required 90-day notice before filing suit, and a cap on non-economic damages that shifts annually under MICRA. Because these cases almost always need a qualified medical expert to explain what went wrong, they take a different kind of preparation from day one. LawProactive doesn't practice law or take a cut of any settlement — we simply connect Millbrae residents with an independent attorney who handles malpractice claims, at no upfront cost, so you can focus on recovering while someone else sorts through the medical record.",
+    "commonInjuriesTitle": "Common Malpractice-Related Injuries",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to treat a worsening condition"
+    ],
+    "ctaText": "Get connected with an independent malpractice attorney today."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Clock Runs Out",
+    "items": [
+      {
+        "title": "MICRA's Timeline Is Unforgiving",
+        "desc": "California generally gives you one year from when you discover the harm, capped at three years from the injury itself — plus a mandatory 90-day pre-suit notice that has to go out before a lawsuit is filed."
+      },
+      {
+        "title": "Damages Caps Change Every Year",
+        "desc": "MICRA sets a statutory limit on non-economic damages that rises annually, so the numbers that applied to a case filed years ago may not match today's figures — an attorney can explain where things currently stand."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A bad outcome by itself isn't proof of malpractice; California cases typically need a qualified medical expert to establish that the care fell below the accepted standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Millbrae?",
+        "answer": "Under MICRA, you generally have one year from when you discover the injury, but no more than three years from the date it occurred, whichever comes first. A required 90-day notice to the provider must also be sent before a lawsuit can be filed. Because these deadlines can be tricky to calculate, it's worth having someone review your specific timeline early."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law requires showing that a provider's care fell below the accepted medical standard and that this failure caused the harm, not just that the result was disappointing. This usually requires a qualified medical expert to review the records and explain the gap in care. An independent attorney can help determine whether your situation meets that bar."
+      },
+      {
+        "question": "I was treated at a clinic near El Camino Real in Millbrae — does that change anything?",
+        "answer": "The location of care doesn't change the legal standard, but it can affect which hospital system's records and policies are involved, which matters for gathering evidence. Whether you were seen at a facility along El Camino Real, near US-101, or elsewhere in San Mateo County, an attorney can help identify the right records to request. LawProactive can connect you with someone who handles these details regardless of which Millbrae-area provider was involved."
+      }
+    ]
+  }
+}

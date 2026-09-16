@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "norco workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Norco Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Norco? Get connected free with an independent attorney who handles work injury and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Whether you were injured on a horse property, a Hamner Avenue jobsite, or hauling equipment near I-15, LawProactive can connect you with an independent attorney who understands Norco's mix of equestrian, agricultural, and industrial work."
+  },
+  "about": {
+    "title": "Norco Workplace Injury Claims",
+    "longDescription": "Norco's economy runs on a blend of equestrian facilities, small industrial operations, warehousing near I-15, and family-owned businesses along 6th Street and River Road. Workers in these settings face real risks - from equipment malfunctions to falls to vehicle collisions on the job. Under California law, workers' compensation is typically your only path against your employer, no matter who caused the accident, but if a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate third-party claim worth pursuing. Riverside County workplaces vary widely, and figuring out whether a third party bears responsibility can be complicated without help. LawProactive doesn't practice law - we connect injured workers in Norco with an independent attorney who can review the facts, explain your options honestly, and pursue a third-party claim if one exists, all while you focus on healing.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or equestrian platforms",
+      "Equipment and machinery-related injuries",
+      "Vehicle collisions during work duties on Hamner Ave or I-15",
+      "Repetitive strain and overexertion injuries",
+      "Burns or chemical exposure incidents",
+      "Struck-by or crush injuries from tools or livestock handling"
+    ],
+    "ctaText": "Get connected with an independent attorney - free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Norco Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help You Spot Third-Party Claims",
+        "desc": "Workers' comp usually blocks claims against your employer, but a negligent subcontractor, equipment maker, or other driver can still be held accountable separately. We connect you with an attorney who knows how to identify that opening."
+      },
+      {
+        "title": "Your Job Is Protected When You Report",
+        "desc": "California law requires reporting a workplace injury within 30 days, and retaliation against you for doing so is illegal. An independent attorney can help make sure your rights are respected throughout the process."
+      },
+      {
+        "title": "Clock Awareness on Third-Party Deadlines",
+        "desc": "Third-party injury claims in California carry a 2-year filing deadline. We help make sure you're connected with legal help before that window closes."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at work in Norco - can I sue my employer directly?",
+        "answer": "In most cases, California workers' compensation is your exclusive remedy against your employer, regardless of fault. However, if a third party like a subcontractor, property owner, or equipment manufacturer contributed to your injury, you may be able to file a separate claim against them. An independent attorney can help you sort out which path applies to your situation."
+      },
+      {
+        "question": "Does it matter that my injury happened near Hamner Avenue or I-15?",
+        "answer": "Location itself doesn't change your legal rights, but if your injury involved a vehicle collision while working near these corridors, it could open the door to a third-party claim against another driver. Norco's mix of equestrian, industrial, and commuter traffic on routes like Hamner and I-15 means these situations come up more than people expect. An attorney can review the specifics with you."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim?",
+        "answer": "You generally need to report a workplace injury to your employer within 30 days to protect your workers' comp rights. If a third party is involved, California law gives you 2 years from the date of injury to file that separate claim. Missing either deadline can limit your options, so it helps to get guidance early."
+      }
+    ]
+  }
+}

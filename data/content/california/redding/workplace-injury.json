@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "redding workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Redding Workplace Injury Attorney Match | LawProactive",
+    "metaDescription": "Hurt on the job in Redding? LawProactive connects you, at no cost, with an independent attorney to review workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Hurt at work in Redding, whether on a job site, in a warehouse, or behind the wheel on Rt 273? We connect you with an independent attorney who can explain what workers' compensation covers and whether someone besides your employer may owe you more."
+  },
+  "about": {
+    "title": "Redding Workplace Injury Claims",
+    "longDescription": "Work in Redding takes many shapes. Some people spend their shifts on construction sites or in warehouses, while others drive most of the day, running deliveries along Rt 273 or making service calls off Hilltop Drive, Hartnell Avenue and Churn Creek Road. When a shift ends with an injury, the next step is not always obvious. In California, workers' compensation is usually the exclusive remedy against your employer, and it applies no matter who was at fault. Comp is not always the whole picture, though. If someone outside your employer played a part, such as a subcontractor on the same job, the owner of the property where you were working, the maker of a tool that failed, or another driver who struck your work vehicle, a separate injury claim may be available. Redding recorded 401 injury collisions in 2025, with 531 people hurt, and some of those happened on the clock. LawProactive is a free service. We listen, then connect you with an independent attorney who can sort out which claims apply to you and which deadlines matter.",
+    "commonInjuriesTitle": "Injuries We Commonly See From Redding Workplaces",
+    "commonInjuries": [
+      "Falls from ladders, roofs and scaffolding",
+      "Back and shoulder injuries from lifting",
+      "Crush injuries from machinery or forklifts",
+      "Collisions while driving for work",
+      "Burns and electrical injuries",
+      "Repetitive strain and overuse injuries"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney to review your options."
+  },
+  "whyChoose": {
+    "title": "How LawProactive Helps After a Work Injury in Redding",
+    "items": [
+      {
+        "title": "We help you see past the comp claim",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but a negligent third party such as a subcontractor, equipment maker or another driver can support a separate claim. The attorney you're connected with can check whether that applies to you."
+      },
+      {
+        "title": "We keep the deadlines in view",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and third-party injury claims generally carry a two-year deadline. Getting connected early helps protect both."
+      },
+      {
+        "title": "No cost to you, and retaliation is not allowed",
+        "desc": "Our connection service is free, and network attorneys work on contingency, so there is no fee unless there is a recovery. It is also illegal for an employer to punish you for reporting an injury or seeking benefits."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I drive for work in Redding and was hit on Churn Creek Road. Is that just a workers' comp matter?",
+        "answer": "Not necessarily. Because you were working, workers' compensation would typically cover your medical care and part of your lost wages regardless of fault. Since another driver was involved, you may also have a separate injury claim against that driver, which is handled outside the comp system and carries a two-year deadline. An attorney can look at both tracks together."
+      },
+      {
+        "question": "Can I sue my employer if the injury was their fault?",
+        "answer": "In most cases, no. California law makes workers' compensation the exclusive remedy against your employer, even when the employer was careless. Claims against other parties, such as a property owner or equipment manufacturer, are a different matter and may still be possible."
+      },
+      {
+        "question": "What if my boss is upset that I reported the injury?",
+        "answer": "Report it anyway, and try to do so within 30 days of the injury. Retaliating against a worker for reporting an injury or filing a comp claim is illegal in California. If you are being pressured or punished, mention it when you speak with the attorney, because it can matter to your case."
+      }
+    ]
+  }
+}

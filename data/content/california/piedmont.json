@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "piedmont city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Piedmont, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Piedmont, Alameda County? Free connection to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a crash left you with a broken bone, whiplash, or worse on a Piedmont street, we can connect you with an independent attorney at no cost. Serving injured residents throughout Alameda County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Piedmont, California",
+    "longDescription": "Piedmont is a small, tree-lined city tucked inside Alameda County, but its streets aren't immune to collisions. Public records show 12 injury collisions in the most recent final crash year, leaving 13 people hurt, with no traffic deaths recorded. Corridors like Grand Avenue, Oakland Avenue, Highland Avenue, and the 100 block of Hampton Road show up most often in collision counts, and reports tend to cluster on Wednesdays between midnight and 2 a.m. Whether you were walking near Highland Avenue, driving through the Grand Avenue corridor, or caught in a late-night crash near Hampton Road, the aftermath is the same: pain, missed work, and a stack of questions about what happens next. LawProactive is a free service that connects injured people in Piedmont with an independent personal injury attorney. We are not a law firm, and we don't handle your case ourselves — we simply help you get in touch with someone who can review what happened and explain your options. There's no obligation, and if the attorney takes your case, you pay nothing unless there's a recovery.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Knee and shoulder injuries"
+    ],
+    "ctaText": "Reach out today for a free, no-pressure connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Doing Anything Else",
+    "items": [
+      {
+        "title": "The clock is already running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity is involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Being partly at fault doesn't shut the door",
+        "desc": "California follows pure comparative fault, meaning your compensation is reduced by your share of blame, not eliminated. Even if you think you contributed to the crash, you may still have a valid claim."
+      },
+      {
+        "title": "No cap on what you may recover for pain and suffering",
+        "desc": "In ordinary injury cases, California doesn't limit non-economic damages like pain, suffering, or loss of enjoyment of life. An attorney can help evaluate what your experience is worth."
+      },
+      {
+        "title": "You don't pay unless there's a recovery",
+        "desc": "Attorneys in our network work on contingency, meaning legal fees only come out of a settlement or verdict. If there's no recovery, you owe no attorney fees."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Wondering if you waited too long to do anything about the crash",
+      "Feeling unsure whether the other driver's insurance will even cover you",
+      "Fearing that being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a crash in Piedmont?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If a government agency or vehicle was involved, that window can shrink to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means your recovery is reduced by your percentage of fault rather than blocked entirely. Even if you were 30% or 50% at fault, you could still recover a portion of your damages."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect you with an independent attorney, and any legal fees are handled separately between you and that attorney, typically on a contingency basis."
+      },
+      {
+        "question": "Where do injury collisions tend to cluster in Piedmont?",
+        "answer": "Public collision records show higher counts along Grand Avenue, Oakland Avenue, Highland Avenue, and the 100 block of Hampton Road, with reports peaking on Wednesdays between midnight and 2 a.m. These are simply recorded counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In standard personal injury cases in California, there's no cap on non-economic damages such as pain and suffering. An independent attorney can walk you through how these damages are typically evaluated based on your specific situation."
+      }
+    ]
+  }
+}

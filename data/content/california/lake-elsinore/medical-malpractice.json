@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "lake-elsinore medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lake Elsinore Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Lake Elsinore? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or procedure in Lake Elsinore left you worse off instead of better, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's specific rules."
+  },
+  "about": {
+    "title": "Lake Elsinore Medical Malpractice Claims",
+    "longDescription": "Lake Elsinore residents rely on a mix of local clinics, urgent care centers, and hospitals in Riverside County for everything from emergency treatment after a crash on Railroad Canyon Road to routine surgeries and ongoing care. Most of the time, that care goes as expected. But sometimes a delayed diagnosis, a surgical mistake, or a medication error causes harm that goes beyond an unfortunate outcome. California law treats medical malpractice differently than other injury claims, with strict notice requirements and shortened filing windows. If you believe a provider's error, not just an unavoidable risk, caused your injury, LawProactive can connect you at no cost with an independent attorney who screens these cases and can explain whether your situation may qualify for a claim.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect Cases For",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries during labor and delivery",
+      "Anesthesia complications",
+      "Failure to monitor post-treatment condition"
+    ],
+    "ctaText": "Find out if your situation may qualify — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Pursue a Claim",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines Apply",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the injury, and no more than three years from when it occurred. Missing these windows can end a claim regardless of merit."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can be filed, California law requires sending the healthcare provider a 90-day notice of intent to sue. An attorney familiar with this process can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "A bad medical outcome by itself isn't proof of malpractice — California law generally requires a qualified medical expert to establish that the provider's care fell below the accepted standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery in Lake Elsinore — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law recognizes that medicine carries inherent risks, so a poor result alone doesn't establish malpractice. What matters is whether the provider's care fell below the accepted medical standard, which is why a qualified medical expert is generally required to review the case."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the injury, but no more than three years from the date it happened. These deadlines are strict, so it's worth having your situation reviewed sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "California law caps non-economic damages in medical malpractice cases, and that cap adjusts upward each year under current law. Economic damages, like medical bills and lost income, are generally not subject to that same cap."
+      }
+    ]
+  }
+}

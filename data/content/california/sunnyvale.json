@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "sunnyvale city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sunnyvale, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Sunnyvale or elsewhere in Santa Clara County? California gives you 2 years to file. Get connected free to an attorney - no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From car crashes on El Camino Real to slip-and-falls and pedestrian injuries, LawProactive connects Sunnyvale residents with an independent personal injury attorney at no cost. Serving all of Santa Clara County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Sunnyvale, California",
+    "longDescription": "Sunnyvale's streets carry commuters, cyclists, and families from early morning until well after dark. In 2025, the most recent final year on record, the city logged 457 injury collisions, with 603 people injured and 3 lives lost. Public collision counts run highest along El Camino Real, SR-237, Mathilda Avenue, and Fair Oaks Avenue, and reports tend to bunch up on Thursdays between 5 and 7 p.m., when the drive home is heaviest. Those are only numbers, but each one stands for a person whose ordinary day changed in an instant. If that person is you, here is what LawProactive does: we are a free service, not a law firm, and we connect you with an independent personal injury attorney who handles cases in Santa Clara County. There is no charge to reach out, no obligation to hire anyone, and the attorneys in our network work on contingency, so you owe no fee unless there is a recovery. Whether you were rear-ended on El Camino Real, struck while crossing Mathilda Avenue, hurt on a bike along Fair Oaks, or injured in a fall at a local business, the questions are the same: who pays for the medical bills, the missed work, the pain that lingers? Getting a clear answer early tends to matter.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Sunnyvale",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from pedestrian and bicycle crashes",
+      "Concussions and other head injuries",
+      "Back and spinal disc injuries",
+      "Knee, hip, and shoulder damage from falls",
+      "Cuts, bruising, and soft-tissue injuries"
+    ],
+    "ctaText": "Ask a question about your situation - it's free and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Sunnyvale Residents Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "The clock is real: two years in most cases",
+        "desc": "California generally gives you two years from the injury to file a claim, and as little as six months to give notice when a city, county, or state agency is involved. Knowing which deadline applies to you is one of the first things an attorney sorts out."
+      },
+      {
+        "title": "Partly at fault? You can still recover",
+        "desc": "California follows pure comparative fault. If you share some blame, your recovery is reduced by your percentage of fault, not wiped out."
+      },
+      {
+        "title": "No arbitrary ceiling on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages such as pain, lost enjoyment of life, and emotional distress. What you actually went through is part of the claim."
+      },
+      {
+        "title": "Nothing out of pocket to get started",
+        "desc": "Our connection is free, and the independent attorneys in our network work on contingency. You pay no attorney fee unless there is a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say",
+      "I'm missing shifts and the bills are stacking up",
+      "I was told the crash was partly my fault",
+      "I can't afford to hire a lawyer right now"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do injury crashes in Sunnyvale tend to happen?",
+        "answer": "According to public collision records, the highest counts in Sunnyvale come from El Camino Real, SR-237, Mathilda Avenue, and Fair Oaks Avenue. Reported crashes also cluster on Thursdays between 5 and 7 p.m. These are simply the corridors and times that show up most often in the record, reflecting how much traffic they carry."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date you were hurt. If a government entity is involved - a city vehicle, a public sidewalk, a county road - you may need to file a formal claim within six months. Because these deadlines can be strict, it helps to speak with an attorney sooner rather than later."
+      },
+      {
+        "question": "What if I was partially responsible for the crash?",
+        "answer": "California uses a pure comparative fault system. Your compensation is reduced by whatever share of fault is assigned to you, but you are not barred from recovering simply because you contributed. An attorney can review the facts and push back if the insurer overstates your share."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney who practices in Santa Clara County. We do not give legal advice or represent you; the attorney you connect with does that."
+      },
+      {
+        "question": "How much does it cost to hire an attorney through your network?",
+        "answer": "There is no cost to connect with us. The attorneys in our network work on a contingency basis, which means their fee comes out of any recovery rather than your pocket. If there is no recovery, you owe no attorney fee."
+      }
+    ]
+  }
+}

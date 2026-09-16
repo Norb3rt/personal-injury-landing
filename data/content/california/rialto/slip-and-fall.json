@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "rialto slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rialto Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on someone's property in Rialto? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A wet grocery aisle, a broken curb, a dim stairwell in Rialto can change your week in a second. LawProactive is a free service that puts you in touch with an independent premises liability attorney who serves San Bernardino County."
+  },
+  "about": {
+    "title": "Rialto Slip & Fall and Premises Liability Claims",
+    "longDescription": "Rialto is a working city of roughly 103,000 people, and most days are spent moving through places somebody else is responsible for keeping safe: the stores and parking lots along Riverside Avenue and Foothill Boulevard, apartment complexes off Baseline Road, warehouses near SR-210. When a floor is left slick or a walkway is left cracked and you go down hard, California law asks a specific question. Did the owner know about the hazard, or should they have known, and did they fail to fix it or warn you? That word, notice, is where most premises cases are won or lost. The clock matters too. You generally have two years to file, and considerably less if the property belongs to a public entity like the city or county. California also uses pure comparative fault, so even if you were partly distracted, a claim is not automatically off the table. LawProactive does not represent you. We are a free connection service, and the independent attorneys in our network work on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Often See After Falls in Rialto",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm and elbow breaks from catching a fall",
+      "Concussions and other head injuries",
+      "Knee ligament and meniscus tears",
+      "Lower back and tailbone injuries",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Rialto Fall Victims Reach Out Through LawProactive",
+    "items": [
+      {
+        "title": "Attorneys who understand the notice rule",
+        "desc": "The core of a California premises case is proving the owner knew or should have known about the hazard. The independent attorneys in our network know how to look for inspection logs, prior complaints and maintenance records that speak to that question."
+      },
+      {
+        "title": "Help preserving video before it disappears",
+        "desc": "Many Rialto businesses record their aisles and parking lots, but footage is often overwritten within days. An attorney can send a preservation letter early so the evidence that shows how long the hazard sat there is not lost."
+      },
+      {
+        "title": "No fee unless you recover, and no cost to connect",
+        "desc": "LawProactive is free to use, and network attorneys take premises cases on contingency. Because California applies pure comparative fault, a case can still be worth pursuing even if you think you share some of the blame."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped in a store on Riverside Avenue in Rialto. What should I do right now?",
+        "answer": "If you have not already, get medical care and ask that the visit be documented. Photograph the spot where you fell, including the substance, lighting and any missing warning signs, and ask the manager for an incident report. Write down names of anyone who saw it happen. Then reach out so an attorney can request the store's surveillance video before it is recorded over."
+      },
+      {
+        "question": "How long do I have to file a premises liability claim in California?",
+        "answer": "For most private property owners, the deadline is two years from the date of injury. If the property is owned by a public entity, such as a Rialto city sidewalk or a San Bernardino County building, the window to file a government claim is much shorter, often measured in months. Because the difference is so large, it is worth confirming who owns the property early."
+      },
+      {
+        "question": "The store says I should have been watching where I walked. Does that end my case?",
+        "answer": "Not in California. The state follows pure comparative fault, meaning any share of blame assigned to you reduces your recovery by that percentage rather than eliminating it. The owner still has to answer for whether they knew or should have known about the hazard and failed to address it. An attorney can evaluate how those two sides weigh against each other in your situation."
+      }
+    ]
+  }
+}

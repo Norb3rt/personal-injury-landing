@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "gridley workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gridley Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Gridley, CA? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt while working in Gridley, the rules around workers' compensation and outside-party claims can get confusing fast. LawProactive connects you, free of charge, with an independent attorney familiar with Butte County workplace injury cases."
+  },
+  "about": {
+    "title": "Gridley Workplace Injury Claims",
+    "longDescription": "Gridley's economy runs on agriculture, food processing, and the small businesses that line Spruce and Sycamore Streets, and workplace injuries here often happen on farms, in packing facilities, or on delivery routes along Rt 99 and Magnolia Street. Under California law, workers' compensation is typically your only path against your own employer, no matter who caused the accident. But when a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may also have a separate claim against that third party. Sorting out whether a claim belongs in the workers' comp system, in civil court, or both takes a careful look at the facts. LawProactive doesn't practice law or charge you anything; we simply connect injured Gridley workers with an independent attorney who can review the details and explain your options in plain terms, so you're not left guessing about deadlines or next steps.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Machinery and equipment entanglement injuries",
+      "Repetitive strain and overexertion from manual labor",
+      "Vehicle and forklift collisions on job sites",
+      "Chemical or pesticide exposure incidents",
+      "Crush injuries from heavy farm or processing equipment"
+    ],
+    "ctaText": "Find out where your case stands — connect with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Gridley Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Help You Spot Third-Party Claims",
+        "desc": "Workers' comp usually covers injuries from your employer, but if a subcontractor, property owner, or equipment maker played a role, a separate claim may be possible. An attorney can help you figure out which paths apply to your situation."
+      },
+      {
+        "title": "We Understand the 30-Day Reporting Window",
+        "desc": "California law generally requires notifying your employer of a workplace injury within 30 days to preserve your workers' comp rights. Missing that window can complicate things, so timing matters from day one."
+      },
+      {
+        "title": "Retaliation Protections Matter",
+        "desc": "It's illegal for an employer to punish you for reporting an injury or filing a claim. If you're worried about your job, an independent attorney can explain your protections before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site along Rt 99 in Gridley — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, injuries caused by your employer go through the workers' compensation system rather than a lawsuit. But if a delivery driver, contractor, or another company operating along Rt 99 contributed to the accident, you may also have a separate third-party claim. An attorney can look at the specifics and tell you which routes are open to you."
+      },
+      {
+        "question": "What if my employer tells me not to report the injury?",
+        "answer": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. You generally have 30 days to notify your employer, so waiting isn't in your interest. Speaking with an independent attorney can help you understand your rights before deciding how to proceed."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, LawProactive is a free service and we're not a law firm ourselves. If an attorney in our network takes your case, they typically work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

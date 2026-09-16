@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "poway workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Poway Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Poway? Get connected free with an independent attorney who understands work injury and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Workers hurt on job sites along Pomerado Road, Twin Peaks Road, or anywhere else in Poway face a maze of workers' comp rules and possible third-party claims. LawProactive can connect you free with an independent attorney who sorts out which path applies to your situation."
+  },
+  "about": {
+    "title": "Poway Workplace Injury Claims",
+    "longDescription": "Poway's mix of light industrial parks, retail centers along Poway Road, and busy commuter corridors like Rt 67 means workplace injuries here range from warehouse falls to vehicle collisions during work-related driving. California generally routes injured workers through workers' compensation regardless of fault, which limits what you can recover directly from your employer. But if a subcontractor, property owner, delivery driver, or equipment manufacturer contributed to your injury, you may have a separate third-party claim worth pursuing alongside your comp benefits. Sorting out which claims apply, and meeting the reporting and filing deadlines, matters. LawProactive doesn't practice law — we connect injured Poway workers, free of charge, with an independent attorney who can review the facts and explain realistic options. There's no obligation to move forward, and consultations cost nothing upfront.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Repetitive strain and overexertion injuries",
+      "Equipment or machinery-related injuries",
+      "Vehicle collisions during work-related driving",
+      "Struck-by or caught-between incidents on job sites",
+      "Chemical exposure or respiratory injuries"
+    ],
+    "ctaText": "Connect free with an independent attorney to review your workplace injury options."
+  },
+  "whyChoose": {
+    "title": "Why Poway Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Beyond Comp",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker can support a separate claim. An independent attorney can help identify whether that applies to your case."
+      },
+      {
+        "title": "Deadlines That Matter",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and third-party claims carry a 2-year deadline under California law. Missing either can close off options, so timely action counts."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law prohibits retaliation against workers who report injuries or file claims. If you're worried about job security after an injury, an attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near Rt 67 in Poway. Do I file workers' comp or a lawsuit?",
+        "answer": "Likely both could apply. Workers' comp typically covers your medical costs and lost wages regardless of fault, while a claim against the other driver, if they caused the crash, could proceed separately as a third-party claim. An independent attorney can review the crash details and explain which paths make sense for you."
+      },
+      {
+        "question": "What if my employer says my injury doesn't qualify because I was between job sites?",
+        "answer": "Coverage can depend on the specific circumstances of your travel and duties at the time of injury. This is a fact-specific question that benefits from a knowledgeable review rather than guesswork. LawProactive can connect you with an attorney who can look at the details free of charge."
+      },
+      {
+        "question": "Can I get in trouble for reporting my injury to my employer?",
+        "answer": "No — California law makes it illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. If you believe you've faced retaliation, that itself may be worth discussing with an attorney."
+      }
+    ]
+  }
+}

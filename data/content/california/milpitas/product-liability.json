@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "milpitas product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Milpitas Product Liability Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt by a defective product in Milpitas? LawProactive is a free service that connects you with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product bought or used in Milpitas fails and someone gets hurt, California's strict liability rules may put the burden on the maker, not on you. LawProactive connects you, free of charge, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Milpitas Product Liability Claims",
+    "longDescription": "Milpitas sits at the meeting point of I-880, I-680 and Route 237, and a lot of what moves through the city moves in boxes — components, consumer electronics, tools, and vehicles headed to homes and workplaces across Santa Clara County. When one of those products fails and someone gets hurt, California law takes a practical view. You usually do not have to prove the manufacturer was careless. If the design was flawed, a unit came off the line wrong, or the warnings left out a real risk, and that defect caused your injury, strict liability can apply. Responsibility may reach the maker, the distributor, and the store that sold it. The single most useful thing you can do is keep the product exactly as it is — do not repair it, return it, or throw it away. LawProactive is a free service, not a law firm. We connect Milpitas residents with an independent product liability attorney who works on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries or chargers",
+      "Lacerations from power tools or appliances that break apart",
+      "Crush injuries from collapsing furniture or equipment",
+      "Injuries when airbags, seatbelts or brakes fail in a crash",
+      "Illness from mislabeled food, supplements or medication",
+      "Choking or poisoning from children's products and household chemicals"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Milpitas Residents Use LawProactive for Product Claims",
+    "items": [
+      {
+        "title": "You Usually Don't Have to Prove Negligence",
+        "desc": "California product liability often runs on strict liability: showing a design, manufacturing or warning defect caused your injury is generally enough. The attorney we connect you with knows how to frame the claim that way."
+      },
+      {
+        "title": "Every Link in the Chain Can Be Examined",
+        "desc": "Manufacturers, distributors and retailers may all share responsibility for a defective product. An independent attorney can sort out who belongs in the claim rather than letting one company point at another."
+      },
+      {
+        "title": "Preserving the Evidence Comes First",
+        "desc": "The product itself is the heart of the case, and an attorney can arrange to have it stored and inspected properly. Our connection is free, and network attorneys work on contingency."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag didn't deploy in a crash on I-880 near Milpitas. Is that a car accident claim or a product claim?",
+        "answer": "It can be both. The other driver may be responsible for the collision, while the vehicle or airbag manufacturer may be responsible under strict liability if a defect made your injuries worse. Keep the car exactly as it is and do not authorize repairs or salvage until an attorney has looked at it. Public records show I-880, I-680 and Route 237 carry the largest share of collisions in the city, so this question comes up more than you might expect."
+      },
+      {
+        "question": "Do I need proof that the company knew the product was faulty?",
+        "answer": "Generally, no. Under California's strict liability approach, the focus is on whether the product had a design, manufacturing or warning defect and whether that defect caused your injury. What the company knew or intended is usually not something you have to establish. An attorney can explain how this applies to your specific product."
+      },
+      {
+        "question": "I already threw away the box and receipt. Does that end my claim?",
+        "answer": "Not necessarily, though it does make the product itself even more important to keep. Purchase history from a bank statement, online order, or store loyalty account can often stand in for a paper receipt. Photos of the product, the injury, and the scene help too. Bring whatever you have and let the attorney assess it."
+      }
+    ]
+  }
+}

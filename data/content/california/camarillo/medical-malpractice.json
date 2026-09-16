@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "camarillo medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Camarillo Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Camarillo? LawProactive connects you free with an independent attorney who understands MICRA deadlines and caps."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in Camarillo goes wrong, the medical and legal questions can feel overwhelming. LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's specific rules."
+  },
+  "about": {
+    "title": "Camarillo Medical Malpractice Claims",
+    "longDescription": "Camarillo residents trust local clinics, urgent care centers, and Ventura County hospitals with their health every day. Most of the time that trust is well placed, but sometimes a delayed diagnosis, a surgical mistake, or a medication error causes harm that goes beyond an unfortunate outcome. California law recognizes that not every bad result is negligence, which is why these claims require careful review by a qualified medical expert before they move forward. If you believe a provider's care fell below an acceptable standard, timing matters: California's MICRA framework generally allows one year from when the harm was discovered, but never more than three years from the injury itself, and a 90-day pre-suit notice is typically required before a case can proceed. LawProactive doesn't practice law directly, but we can connect you, at no cost, with an independent attorney who can review your medical records and explain whether you may have a claim worth pursuing.",
+    "commonInjuriesTitle": "Types of Harm We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Get connected with an independent attorney who can review your medical records."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Clock Runs Out",
+    "items": [
+      {
+        "title": "MICRA's Strict Timelines",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovery and no later than three years from the injury, and a 90-day pre-suit notice is usually required first. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "Damages Caps Change Every Year",
+        "desc": "California law places a cap on non-economic damages that rises annually, which affects how a claim is valued and negotiated. An attorney familiar with the current cap can help set realistic expectations."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor medical outcome alone isn't proof of malpractice, a qualified medical expert typically must confirm that care fell below the accepted standard. An independent attorney can help arrange that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery in Camarillo — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law is clear that an unfavorable result alone doesn't establish negligence. A qualified medical expert generally has to review the case and confirm the care fell below the accepted standard before a claim can move forward."
+      },
+      {
+        "question": "How much time do I have to bring a claim?",
+        "answer": "Under MICRA, you generally have one year from when you discovered the harm, but never more than three years from the date of the injury. A 90-day pre-suit notice is also typically required before filing, so it's best to look into this sooner rather than later."
+      },
+      {
+        "question": "Are there limits on what I could recover in Camarillo, Ventura County?",
+        "answer": "California caps non-economic damages in medical malpractice cases, and that cap rises each year under state law. An independent attorney can walk you through how the current cap applies and what other types of losses may be recoverable."
+      },
+      {
+        "question": "Does LawProactive represent me directly?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we don't provide legal advice. We simply help match you with an independent attorney in our network who can evaluate your situation and typically works on contingency, meaning no fee unless there's a recovery."
+      }
+    ]
+  }
+}

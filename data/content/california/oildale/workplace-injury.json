@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "oildale workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oildale Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Oildale? Get connected free to an independent attorney who handles workers' comp gaps and third-party claims in Kern County."
+  },
+  "hero": {
+    "subtitle": "Oildale's oilfield, ag, and industrial jobs come with real hazards, and getting hurt at work often means confusing paperwork on top of the pain. LawProactive can connect you at no cost with an independent attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "Oildale Workplace Injury Claims",
+    "longDescription": "Oildale sits at the edge of Kern County's oil and agricultural economy, and workers here face injury risks ranging from equipment accidents on drilling sites to falls on packing lines and warehouse floors. When an injury happens, California generally routes the claim through workers' compensation, which pays medical care and partial wage replacement regardless of fault but limits what you can recover directly from your employer. What many injured workers don't realize is that a third party — a contractor, equipment manufacturer, property owner, or another driver — may share responsibility, opening the door to a separate injury claim beyond comp benefits. Sorting out which path applies to your situation isn't always obvious, especially with reporting deadlines and retaliation concerns in the mix. LawProactive doesn't practice law itself; we simply connect Oildale workers with an independent attorney who can review the facts and explain the realistic options, free of charge and with no upfront fee.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, platforms, or uneven ground",
+      "Crush and caught-in injuries from oilfield or farm equipment",
+      "Repetitive strain from packing, sorting, or assembly work",
+      "Chemical or fume exposure incidents",
+      "Vehicle and forklift collisions on job sites",
+      "Burns from machinery, pipelines, or electrical equipment"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "Because comp is usually the exclusive remedy against your employer, an attorney can help identify whether a negligent third party — like an equipment maker or subcontractor — may owe you additional compensation."
+      },
+      {
+        "title": "Deadlines Move Fast",
+        "desc": "You generally have 30 days to report an injury to your employer, and any separate third-party claim carries its own 2-year filing deadline, so early guidance matters."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "California law prohibits employers from punishing you for reporting an injury or filing a claim, and an attorney can help you understand those protections if concerns come up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work in an Oildale oilfield job — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' comp is the exclusive remedy against your employer regardless of fault, so that's typically the first path. However, if equipment failure or a subcontractor's negligence contributed to your injury, a separate third-party claim may also be possible. An independent attorney can help sort out which applies to your situation."
+      },
+      {
+        "question": "What if I didn't report my injury right away?",
+        "answer": "California generally expects injuries to be reported to your employer within 30 days, though circumstances vary. Missing that window doesn't automatically end your options, but it can complicate things, so it's worth getting guidance sooner rather than later."
+      },
+      {
+        "question": "Can my employer fire me for filing a workers' comp claim?",
+        "answer": "No — retaliation for reporting a workplace injury or filing a claim is illegal under California law. If you're worried about your job status, an independent attorney can explain your protections and next steps."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "ukiah workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ukiah Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Ukiah? Get connected free with an independent attorney who handles work injury and third-party claims in Mendocino County."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Ukiah, LawProactive can connect you at no cost with an independent attorney who understands both workers' comp and third-party claims tied to Mendocino County job sites."
+  },
+  "about": {
+    "title": "Ukiah Workplace Injury Claims",
+    "longDescription": "Ukiah's economy runs on a mix of agriculture, healthcare, retail along N and S State Street, and services tied to Airport Park Boulevard's commercial corridor — and each of those settings carries its own injury risks, from vineyard equipment to delivery vehicle collisions near Talmage Road. When a workplace injury happens here, California law usually routes the claim through workers' compensation regardless of who was at fault. But that's not always the end of the story. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to what happened, you may have a separate legal path worth exploring. LawProactive doesn't practice law — we simply help injured workers in Ukiah connect quickly with an independent attorney who can look at the facts, explain workers' comp basics, and flag whether a third-party claim applies. There's no cost to find out, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Vehicle collisions during work travel or deliveries",
+      "Equipment and machinery-related injuries",
+      "Repetitive strain and back injuries from manual labor",
+      "Injuries from defective tools or protective gear",
+      "Struck-by incidents involving forklifts or heavy equipment"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Ukiah Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Automatic",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker can open a separate claim. An attorney can help sort out whether that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires injured workers to report the incident to their employer within 30 days, and missing that window can complicate a claim. Getting guidance early helps protect your options."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. If you're worried about your job, an independent attorney can explain your rights before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at work in Ukiah — do I sue my employer?",
+        "answer": "In most cases, California workers' compensation is the exclusive remedy against your employer, meaning a lawsuit against them typically isn't the path forward. However, if someone outside your employer — like a subcontractor, property owner, or equipment manufacturer — contributed to the injury, a separate third-party claim may be possible. An independent attorney can help you figure out which applies."
+      },
+      {
+        "question": "What if my injury happened while driving for work near Talmage Road or Airport Park Boulevard?",
+        "answer": "Work-related vehicle injuries can involve both workers' comp and a potential third-party claim if another driver caused the crash. Given that Ukiah's crash data shows real collision activity on corridors like Talmage Road and Airport Park Boulevard, it's worth having someone review the details. LawProactive can connect you with an attorney who handles exactly this kind of overlap."
+      },
+      {
+        "question": "How long do I have to bring a third-party injury claim in California?",
+        "answer": "Third-party injury claims generally carry a two-year deadline from the date of the injury. That's separate from the 30-day window for reporting the incident to your employer for workers' comp purposes. Because these timelines don't always line up, getting guidance sooner rather than later is usually a good idea."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "larkspur medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Larkspur Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent Marin County attorney for Larkspur medical malpractice cases. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or treatment went wrong in Larkspur or elsewhere in Marin County, LawProactive can connect you with an independent attorney who handles medical malpractice claims — at no cost to you upfront."
+  },
+  "about": {
+    "title": "Larkspur Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases are different from most personal injury matters, and Larkspur residents dealing with a harmful medical outcome often aren't sure where the line falls between a bad result and actual negligence. California's MICRA law adds extra layers — a shortened notice period, a required expert review, and a cap on certain damages — that make early guidance especially valuable. LawProactive doesn't practice law itself; we simply connect Larkspur residents with an independent attorney in our network who reviews medical malpractice claims on a contingency basis, meaning there's no fee unless the case results in a recovery. Whether the concern involves a hospital stay, an outpatient procedure, or ongoing care from a Marin County provider, getting your medical records looked at sooner rather than later matters, since California's malpractice deadlines are tighter than in many other injury cases. A short conversation can help clarify whether you have a viable claim worth pursuing.",
+    "commonInjuriesTitle": "Harm We Commonly See in Malpractice Claims",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosing or prescribing mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on abnormal results"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Larkspur Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Won't Miss California's Tight Windows",
+        "desc": "MICRA generally requires a claim within one year of discovering the harm, capped at three years from the injury itself, plus a 90-day pre-suit notice to the provider. An attorney can map these deadlines against your specific medical timeline before options close."
+      },
+      {
+        "title": "Expert Review Is Built Into the Process",
+        "desc": "California almost always requires a qualified medical expert to support a malpractice claim, since a poor outcome alone isn't proof of negligence. The attorneys in our network work with the expert evaluation process from the start rather than treating it as an afterthought."
+      },
+      {
+        "title": "No Upfront Cost, Even With a Rising Damages Cap",
+        "desc": "MICRA's cap on non-economic damages increases annually, and understanding how that affects your case takes legal knowledge most families don't have on hand. Attorneys in our network take malpractice cases on contingency, so there's no fee unless money is recovered."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date the injury occurred. There's also a mandatory 90-day notice period before a lawsuit can be filed against the provider. Because these rules interact, it's worth having a claim reviewed early."
+      },
+      {
+        "question": "Is a bad medical outcome the same as malpractice?",
+        "answer": "No — California law recognizes that not every complication or disappointing result stems from negligence. To move forward with a claim, you typically need a qualified medical expert who can show the provider's care fell below the accepted standard. An attorney can help determine whether your situation meets that bar."
+      },
+      {
+        "question": "Are there facilities near Larkspur where these claims commonly come from?",
+        "answer": "Larkspur residents often receive care through Marin County providers, and malpractice concerns can arise from any hospital, clinic, or specialist visit in the area. LawProactive doesn't investigate specific facilities, but the attorney we connect you with can request and review the relevant medical records regardless of where treatment occurred."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and the independent attorneys in our network handle medical malpractice cases on a contingency basis, meaning they only get paid if your case results in a recovery. There's no cost or obligation to have your situation reviewed."
+      }
+    ]
+  }
+}

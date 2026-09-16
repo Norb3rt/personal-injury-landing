@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "livingston medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Livingston Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Livingston, CA? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, treatment, or surgery goes wrong at a Livingston-area clinic or hospital, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's MICRA rules."
+  },
+  "about": {
+    "title": "Livingston Medical Malpractice Claims",
+    "longDescription": "Livingston residents rely on a small handful of local clinics and, for anything serious, hospitals in nearby Merced for care. When that care falls below the accepted standard — a missed diagnosis, a medication mix-up, a surgical error, or a delay in treating a serious condition — the harm can follow a patient for years. Medical malpractice cases in California are different from other injury claims: they run on strict timelines, they almost always need a qualified medical expert to establish what went wrong, and a poor outcome by itself doesn't mean there was negligence. If you or a family member in Livingston were harmed during medical treatment, LawProactive can connect you, free of charge, with an independent attorney experienced in these claims. The attorney will review the medical records, evaluate whether the care met the applicable standard, and explain your options — all on a contingency basis, meaning there's no fee unless you recover.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect Cases For",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or treat a known condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Livingston Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand MICRA's Strict Clock",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim — plus a required 90-day pre-suit notice. The attorney we connect you with can help make sure none of these deadlines slip by."
+      },
+      {
+        "title": "Expert Review Comes Built In",
+        "desc": "A qualified medical expert is almost always needed to show that a provider's care fell below the accepted standard. We connect you with attorneys who know how to line up that kind of review before filing."
+      },
+      {
+        "title": "No Upfront Cost, No Risk",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless you recover. That matters in malpractice cases, where the cost of medical expert review can otherwise be a barrier."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Livingston — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law is clear that a poor result alone isn't proof of negligence; the question is whether the provider's care fell below the accepted medical standard. An attorney can review your records to help determine whether that standard was met."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury and no more than three years from the date it occurred, whichever comes first. There's also a required 90-day notice to the provider before filing suit, so it's best to act as soon as you suspect something went wrong."
+      },
+      {
+        "question": "Where does care happen for people in Livingston, and does that affect my claim?",
+        "answer": "Many Livingston residents receive care locally or travel to facilities in Merced for more serious treatment, and either setting can be the basis of a claim if the standard of care wasn't met. The connecting attorney can help identify the right providers and records to review regardless of where treatment occurred."
+      },
+      {
+        "question": "Is there a limit on what I can recover?",
+        "answer": "California caps non-economic damages (like pain and suffering) in medical malpractice cases, though that cap rises each year under current law. Economic damages, such as medical costs and lost income, are generally not subject to that same cap."
+      }
+    ]
+  }
+}

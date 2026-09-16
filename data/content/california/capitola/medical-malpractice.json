@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "capitola medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Capitola Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Capitola? Get matched free with an independent CA medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Capitola medical visit leaves you worse off, sorting out what happened can feel overwhelming. LawProactive connects you at no cost with an independent attorney who understands Santa Cruz County medical malpractice claims."
+  },
+  "about": {
+    "title": "Capitola Medical Malpractice Claims",
+    "longDescription": "Capitola residents rely on a small cluster of local clinics and nearby Santa Cruz County hospitals for care, and most visits go fine. But when a diagnosis is missed, a medication is mismanaged, or a surgical step goes wrong, the effects can follow someone for months or years. California treats these cases differently than a typical injury claim — medical malpractice matters fall under MICRA, a body of law with its own notice requirements, timelines, and expert standards. That's a lot to untangle while you're also trying to recover physically. LawProactive doesn't practice law or represent clients directly; we simply listen to what happened and connect Capitola residents with an independent attorney in our network who handles these claims on a contingency basis, meaning there's no fee unless a recovery is obtained. A bad medical outcome by itself isn't automatically malpractice, which is why getting an informed opinion early matters.",
+    "commonInjuriesTitle": "Types of Harm We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical recovery"
+    ],
+    "ctaText": "Talk with an independent attorney about what happened — it costs nothing to ask."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Early",
+    "items": [
+      {
+        "title": "Notice Deadlines Move Fast",
+        "desc": "California generally requires a 90-day pre-suit notice to the provider before a malpractice claim can be filed, on top of a discovery-based filing deadline. Waiting too long to get advice can close doors you didn't know were closing."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad outcome alone doesn't prove malpractice, California cases generally need a qualified medical expert to establish that the care fell below the accepted standard. An attorney can help arrange that kind of review."
+      },
+      {
+        "title": "Damages Rules Are Different Here",
+        "desc": "MICRA sets a cap on non-economic damages that adjusts annually, which affects how a malpractice claim is valued and negotiated compared to other injury cases. Understanding that cap up front helps set realistic expectations."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date of the injury itself. There's also a required 90-day notice to the healthcare provider before filing suit. An attorney can help pin down exactly where your situation falls on that timeline."
+      },
+      {
+        "question": "I was treated at a clinic near 41st Avenue in Capitola — does that change anything?",
+        "answer": "Capitola's medical facilities near corridors like 41st Avenue and Bay Avenue fall under the same California malpractice rules as anywhere else in the state. What matters is the care you received and whether it fell below the accepted standard, not the specific address. An independent attorney can review the details regardless of which local provider was involved."
+      },
+      {
+        "question": "What if the outcome was just bad but everyone did their job?",
+        "answer": "California law is clear that a poor result alone doesn't equal malpractice — medicine carries inherent risk even with proper care. What matters is whether the treatment fell below the standard a reasonably careful provider would have followed. That's why a qualified medical expert typically has to weigh in before a claim can move forward."
+      }
+    ]
+  }
+}

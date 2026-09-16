@@ -1,0 +1,81 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "reedley city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Reedley, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Reedley? Free connection to an independent Fresno County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Manning Avenue or another kind of accident, we'll connect you free of charge with an independent attorney serving Fresno County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Reedley, California",
+    "longDescription": "Reedley sits along busy corridors like Manning Avenue, Dinuba Avenue, I Street, and Reed Avenue, where a good share of the city's traffic moves through daily. Public records show 38 injury collisions and 53 people injured in the most recent final crash year, with reports tending to cluster on Wednesday afternoons between 3 and 5 p.m. Those numbers represent neighbors, farmworkers, students, and families — real people dealing with medical bills, missed work, and the stress of figuring out what comes next. If you or someone you love was hurt in a crash or another type of accident in Reedley, LawProactive can help you take a first step. We are a free service that connects injured people with an independent personal injury attorney in the area — we are not a law firm, we don't handle your case ourselves, and we never charge you anything. The attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and puts you in touch with someone who can review what happened and explain your options under California law.",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Reach Out Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most injury claims in California must be filed within two years of the accident, but claims against a government entity can require notice in as little as six months. Waiting too long can close the door on compensation entirely."
+      },
+      {
+        "title": "Shared Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering, which can matter a great deal in serious injury claims."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no bill for a consultation and no fee unless there's a result."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while unable to work",
+      "Not knowing whether an insurance settlement offer is fair",
+      "Fearing that being partly at fault means getting nothing",
+      "Feeling overwhelmed trying to understand legal deadlines and paperwork"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Reedley?",
+        "answer": "Under California law, you generally have two years from the date of the accident to file a personal injury lawsuit. If a government entity, like a city vehicle, was involved, that window can shrink to as little as six months, so it's wise not to delay."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some responsibility. Your total recovery would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to happen most often in Reedley?",
+        "answer": "Public crash records show that corridors such as Manning Avenue, Dinuba Avenue, I Street, and Reed Avenue see the highest collision counts in the city, with reports clustering on Wednesday afternoons between 3 and 5 p.m. These are neutral, publicly reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Do I have to pay anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free connection service, and the independent attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no cost to you for a case review."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases in California, there is no cap on non-economic damages like pain and suffering. What you may recover depends on the specific facts of your case, which an attorney can help evaluate."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "hanford workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hanford Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Hanford, CA? Get connected free to an independent attorney who handles third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Hanford, Kings County, LawProactive can connect you at no cost with an independent attorney who understands both workers' comp limits and third-party claim options."
+  },
+  "about": {
+    "title": "Hanford Workplace Injury Claims",
+    "longDescription": "Hanford's mix of agriculture, food processing, warehousing, and light industry means workplace injuries here often involve heavy equipment, delivery vehicles, or contracted crews working alongside employees. In most cases, California law channels an injured worker's claim through workers' compensation regardless of who was at fault. But that's not always the end of the story. When a subcontractor, equipment manufacturer, property owner, or another driver on a road like N 11th Avenue or 12th Avenue contributed to the accident, a separate third-party injury claim may be available alongside workers' comp. LawProactive doesn't practice law or charge you anything — we simply help connect injured Hanford workers with an independent attorney who can look at the full picture, figure out whether a third-party claim applies, and explain your options in plain terms before any deadlines pass.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Forklift and heavy equipment accidents",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from defective tools or machinery",
+      "Vehicle collisions during work-related driving",
+      "Repetitive strain and overexertion injuries",
+      "Injuries caused by subcontractor negligence"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Hanford Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Automatic",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can still be pursued separately. An attorney can help sort out whether that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires reporting a workplace injury to your employer within 30 days, while a third-party claim carries its own 2-year deadline. Missing either window can limit your options, so early guidance helps."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or pursuing a claim. An independent attorney can help you understand these protections as you move forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site near N 10th Avenue in Hanford — do I have a case?",
+        "answer": "It depends on the circumstances. If your employer's workers' comp covers the injury, that's usually the exclusive path against them, but if a subcontractor, driver, or equipment maker contributed to the accident, a separate claim may be possible. An independent attorney can review the details and let you know your options at no cost to you."
+      },
+      {
+        "question": "Can I be fired for reporting a workplace injury in Hanford?",
+        "answer": "No — California law prohibits employer retaliation against workers who report injuries or file claims. If you believe you've faced retaliation, it's worth discussing with an attorney who can explain your rights specifically."
+      },
+      {
+        "question": "How does LawProactive work if I was injured at work?",
+        "answer": "We're not a law firm — we're a free service that connects injured workers with an independent attorney in our network. There's no cost to get connected, and attorneys typically work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

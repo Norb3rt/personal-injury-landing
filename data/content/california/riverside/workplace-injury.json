@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "riverside workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Riverside Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Riverside? Learn how workers' comp and third-party claims work in California, then get connected free with an independent attorney."
+  },
+  "hero": {
+    "subtitle": "Hurt at work in Riverside, whether on a warehouse floor, a job site, or behind the wheel on SR-91? We'll connect you, at no cost, with an independent attorney who can explain what workers' comp covers and whether a separate claim exists."
+  },
+  "about": {
+    "title": "Riverside Workplace Injury Claims",
+    "longDescription": "A shift in Riverside can look like many different things: a distribution center off the I-215, a landscaping crew along Van Buren Boulevard, a delivery route that spends its afternoons on SR-91. When any of those jobs ends with an injury, California generally routes the claim to workers' compensation first. That system pays for medical care and partial wages without asking who was at fault, and in exchange it is usually the only remedy you have against your own employer. Workers across Riverside County often never hear about the second chapter. If someone other than your employer contributed to the harm, such as a subcontractor, the owner of the property, the maker of a defective tool, or another driver, a separate injury claim may be possible alongside comp benefits. Driving is a real part of the picture here; the city recorded 1,995 injury collisions in 2025, and a share of those involved people who were on the clock. LawProactive is free. We listen to what happened and connect you with an independent attorney who can sort out which paths apply.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Riverside",
+    "commonInjuries": [
+      "Back and spinal strains from lifting or repetitive loading",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Crush and amputation injuries from machinery or forklifts",
+      "Heat illness on outdoor construction and agricultural jobs",
+      "Repetitive stress injuries to hands, wrists, and shoulders",
+      "Injuries from vehicle crashes while driving for work"
+    ],
+    "ctaText": "Tell us what happened at work. The connection is free, and network attorneys charge nothing unless there is a recovery."
+  },
+  "whyChoose": {
+    "title": "Why Riverside Workers Use LawProactive",
+    "items": [
+      {
+        "title": "Comp and Third-Party Claims Are Not the Same Thing",
+        "desc": "Workers' compensation is usually your only remedy against your employer, regardless of fault. A negligent subcontractor, property owner, equipment maker, or other driver, however, can be the basis for a separate injury claim, and the attorney you're connected with can evaluate both."
+      },
+      {
+        "title": "The 30-Day Report Matters, and So Does Your Job Security",
+        "desc": "California asks you to report a work injury to your employer within 30 days. It is illegal for an employer to retaliate against you for doing so, and an attorney can help if you're feeling pressure to stay quiet."
+      },
+      {
+        "title": "A Two-Year Clock on Third-Party Claims, With No Upfront Cost",
+        "desc": "Claims against a negligent third party generally carry a two-year deadline in California, so timing counts. Attorneys in our network work on contingency, meaning no fee unless there is a recovery, and our connection service is always free."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on SR-91 while driving for my job in Riverside. Is that workers' comp or a car accident claim?",
+        "answer": "It can be both. Because you were working, workers' compensation would typically cover your medical care and a portion of lost wages no matter who caused the crash. If the other driver was at fault, a separate injury claim against that driver may also be available, and it runs on California's two-year deadline. Riverside's collision counts peak on Fridays between 5 and 7 p.m., a window when many people are still finishing routes, so this situation comes up more than you might expect."
+      },
+      {
+        "question": "What happens if I didn't tell my employer right away?",
+        "answer": "California asks injured workers to report to their employer within 30 days, so the sooner you speak up, the cleaner your claim is likely to be. If some time has passed, don't assume the door is closed; report it now, in writing if possible, and keep a copy. An attorney can review what the delay means for your specific situation."
+      },
+      {
+        "question": "Can my employer fire me or cut my hours because I filed a claim?",
+        "answer": "No. Retaliating against a worker for reporting an injury or filing for workers' compensation is illegal in California. If you notice a sudden change in treatment after you report, write down what happened and when. The attorney you're connected with through LawProactive can explain your options."
+      }
+    ]
+  }
+}

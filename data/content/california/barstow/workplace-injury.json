@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "barstow workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Barstow Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Barstow? Get free help connecting with an independent attorney for workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Barstow's warehouses, rail yards, and I-15 logistics hubs bring real injury risk to workers every day. LawProactive can connect you with an independent attorney who understands both workers' compensation and third-party claims in San Bernardino County."
+  },
+  "about": {
+    "title": "Barstow Workplace Injury Claims",
+    "longDescription": "Barstow sits at a crossroads of freight, rail, and retail activity, with distribution centers off I-15 and businesses lining W Main Street and E Main Street employing a good share of the city's 23,692 residents. When a job injury happens here, most workers assume workers' compensation is their only option — and often it is, since California law generally makes comp the exclusive remedy against an employer, no matter who was at fault. But when a subcontractor, equipment manufacturer, property owner, or another company's driver contributed to the accident, a separate third-party injury claim may also be possible. LawProactive doesn't practice law or handle claims directly. Instead, we connect injured Barstow workers with an independent attorney who can look at both the workers' comp side and any third-party angle, at no upfront cost, so nothing gets left on the table.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Forklift and loading dock accidents",
+      "Falls from ladders, scaffolding, or platforms",
+      "Repetitive strain and back injuries from lifting",
+      "Injuries from defective machinery or tools",
+      "Vehicle collisions during work-related driving",
+      "Burns or chemical exposure incidents"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your options — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Barstow Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help You Understand the Third-Party Path",
+        "desc": "California workers' comp usually blocks a lawsuit against your employer, but a negligent contractor, equipment maker, or outside driver can still be held responsible. An attorney can help you sort out whether that applies to your situation."
+      },
+      {
+        "title": "We Know Reporting Deadlines Matter",
+        "desc": "California requires notifying your employer of a workplace injury within 30 days, and missing that window can jeopardize your comp claim. We move quickly to connect you with help before time runs short."
+      },
+      {
+        "title": "We Understand Your Legal Protections",
+        "desc": "Retaliation against workers for reporting an injury or filing a claim is illegal in California. If a third-party claim is involved, that separate case carries its own two-year deadline, and an attorney can help track both timelines."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work at a distribution center near I-15 — can I still file a claim if a delivery truck driver caused my injury?",
+        "answer": "Possibly, yes. If your injury happened because of a third party like an outside driver, contractor, or equipment supplier rather than solely your own employer's negligence, you may have a separate claim beyond workers' compensation. An independent attorney can review the details of your Barstow workplace incident to see if this applies."
+      },
+      {
+        "question": "Does workers' compensation cover all of my losses after a job injury?",
+        "answer": "Workers' comp generally covers medical treatment and a portion of lost wages, but it typically does not include compensation for pain and suffering. If a third party contributed to your injury, a separate claim might allow for broader recovery, which is why it's worth having both angles reviewed."
+      },
+      {
+        "question": "What happens if my employer retaliates after I report my injury?",
+        "answer": "Retaliation for reporting a workplace injury or filing a workers' comp claim is against California law. If you believe you've faced retaliation, an attorney can advise you on your options. LawProactive can help connect you with someone who handles these situations."
+      },
+      {
+        "question": "How long do I have to bring a claim against a third party in California?",
+        "answer": "Third-party injury claims generally must be filed within two years of the date of injury under California law. This is separate from the 30-day window for reporting your injury to your employer for workers' comp purposes, so it's important to keep both deadlines in mind."
+      }
+    ]
+  }
+}

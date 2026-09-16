@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "richmond medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Richmond CA Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical mistake in Richmond, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a provider in Richmond missed a diagnosis, botched a procedure, or gave the wrong medication, you deserve a clear answer about what went wrong. We connect you, at no cost, with an independent attorney who reviews medical malpractice claims under California's MICRA rules."
+  },
+  "about": {
+    "title": "Richmond Medical Malpractice Claims",
+    "longDescription": "A hospital stay or clinic visit in Richmond is supposed to leave you better off, not worse. When it doesn't, the hard part is knowing whether what happened was an unavoidable complication or a genuine breach of the standard of care. California law draws that line clearly: a bad result by itself is not malpractice. What matters is whether a reasonably careful provider would have acted differently, and proving that almost always takes a qualified medical expert reviewing your records. Richmond residents seeking care across Contra Costa County also face MICRA's timelines. In most cases you have one year from the day you discovered the harm, and never more than three years from the injury itself, with a 90-day notice sent to the provider before any suit is filed. Those windows close quietly. LawProactive is not a law firm. We are a free service that connects you with an independent attorney who handles malpractice matters on contingency, so the review costs you nothing up front and there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm Often Seen in Richmond Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed cancer and stroke diagnoses",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary equipment or poor follow-up"
+    ],
+    "ctaText": "Ask for a free, no-obligation review of what happened."
+  },
+  "whyChoose": {
+    "title": "Why Richmond Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are tracked from day one",
+        "desc": "The attorney you're matched with works backward from the one-year discovery rule and the three-year outer limit so the 90-day pre-suit notice goes out in time."
+      },
+      {
+        "title": "Expert review is built into the process",
+        "desc": "Because California nearly always requires a qualified medical expert to establish the standard of care, network attorneys arrange that evaluation early rather than guessing."
+      },
+      {
+        "title": "Honest about the cap on non-economic damages",
+        "desc": "MICRA limits pain-and-suffering awards, though that cap rises every year. You'll get a straight explanation of what that means for your claim, without inflated promises."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My injury was missed in a Richmond emergency room after a crash on I-80. Is that malpractice?",
+        "answer": "It can be, but not automatically. Richmond recorded 618 people injured in collisions in 2025, and many were treated in busy emergency settings where some conditions are hard to spot. The question is whether a reasonably careful ER provider would have caught it given the same information. An independent attorney can have a medical expert review the chart to answer that."
+      },
+      {
+        "question": "How long do I have to file a malpractice claim in California?",
+        "answer": "Under MICRA, you generally have one year from when you discovered, or reasonably should have discovered, the injury. There is also an outer limit of three years from the date of the injury itself, with narrow exceptions. Before filing, a 90-day notice of intent must be sent to the provider, so it's wise to start early."
+      },
+      {
+        "question": "Does LawProactive charge me anything to get connected?",
+        "answer": "No. LawProactive is a free connection service, not a law firm. The independent attorney you're introduced to works on contingency, meaning you pay no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

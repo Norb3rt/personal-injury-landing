@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "arvin city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Arvin, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Arvin, Kern County? Connect free with an independent CA attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car wreck or a fall, we'll connect you free of charge with an independent attorney serving Kern County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Arvin, California",
+    "longDescription": "Arvin sits along several busy corridors that carry a lot of daily traffic, including Bear Mountain Boulevard, Comanche Drive, Sycamore Road, and Tejon Highway. In the most recent full year on record, Kern County logged 27 injury collisions in Arvin, with 40 people hurt and no traffic deaths reported. Those are public numbers, not a judgment about any particular street — but they show that collisions here are common enough that many residents eventually need to sort out medical bills, lost wages, and insurance calls after getting hurt. If that's where you are right now, LawProactive can help. We're a free service that connects injured people in Arvin with an independent personal injury attorney who can review the details of what happened. We are not a law firm ourselves, and we don't charge you anything to make the connection. Attorneys in our network work on contingency, meaning there's no fee unless you actually recover money. If you were hurt in a crash, a slip-and-fall, or another kind of accident around Arvin, reaching out costs nothing and can help you understand what your options might be.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft-tissue injuries",
+      "Shoulder and knee joint damage"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talking to an Attorney Matters",
+    "items": [
+      {
+        "title": "You have a limited window to act",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can require action in as little as six months. Waiting too long can close the door on your case entirely."
+      },
+      {
+        "title": "Partial fault doesn't end your claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover compensation even if you were partly responsible for what happened. Your share of fault simply reduces the amount, rather than eliminating it."
+      },
+      {
+        "title": "No cap on your pain-and-suffering damages",
+        "desc": "For most ordinary injury cases in California, there's no legal ceiling on non-economic damages like pain and suffering. That means your compensation isn't artificially limited the way it is in some other states."
+      },
+      {
+        "title": "You don't pay unless there's a recovery",
+        "desc": "Attorneys connected through LawProactive work on contingency, so there's no upfront cost to you. Legal fees only come out of money recovered on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're still recovering",
+      "Feeling pressured by an insurance adjuster calling too soon",
+      "Not knowing if you waited too long to take action",
+      "Wondering whether being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and we're not a law firm ourselves — we simply connect you with an independent attorney. Attorneys in our network work on contingency, so they only get paid if you recover compensation."
+      },
+      {
+        "question": "How long do I have to file a claim after being hurt in Arvin?",
+        "answer": "In most California injury cases, you generally have two years from the date of the incident to file a claim. If your injury involved a government entity or public property, that window can be much shorter, sometimes just six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your fault percentage simply reduces your recovery rather than blocking it completely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Arvin?",
+        "answer": "Public collision records show higher volumes along Bear Mountain Boulevard, Comanche Drive, Sycamore Road, and Tejon Highway, with reported crashes tending to peak on Saturday evenings between 8 and 10 p.m. These are simply recorded counts, not a statement about any particular road being unsafe."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — in ordinary personal injury cases in California, there's no cap on non-economic damages like pain and suffering. This is different from some other states that impose such limits."
+      }
+    ]
+  }
+}

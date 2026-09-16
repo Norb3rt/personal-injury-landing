@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "palm-springs workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Palm Springs Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Palm Springs? Get connected free to an independent attorney who handles third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "Whether you were injured on a job site near Gene Autry Trail or hurt by faulty equipment somewhere else in Palm Springs, LawProactive can connect you with an independent attorney at no cost to explore every avenue of recovery."
+  },
+  "about": {
+    "title": "Palm Springs Workplace Injury Claims",
+    "longDescription": "Workplace injuries in Palm Springs touch every kind of job, from hospitality and resort maintenance crews to construction teams working near Ramon Road and Indian Canyon Drive N. In California, workers' compensation usually pays medical bills and lost wages regardless of who caused the accident, but it isn't the only path to recovery. When a subcontractor, property owner, equipment manufacturer, or another driver contributed to the injury, a separate third-party claim may be possible alongside a workers' comp case. Riverside County work sites, delivery routes, and traffic corridors all carry their own risks, and figuring out which claims apply to your situation can be confusing while you're trying to heal. LawProactive doesn't practice law or promise any result — we simply connect injured workers with an independent attorney who can review the facts and explain what options actually exist, free of charge and with no upfront cost.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Injuries from malfunctioning tools or heavy equipment",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Burns or heat-related illness from outdoor labor",
+      "Injuries caused by falling objects or debris"
+    ],
+    "ctaText": "Find out what options may apply to your situation — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Injured Workers in Palm Springs Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Beyond Workers' Comp",
+        "desc": "Because workers' comp is usually the exclusive remedy against an employer, a claim against a negligent third party like a subcontractor or equipment maker may be the only way to pursue full compensation. An independent attorney can help determine if that applies to your case."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against a worker for reporting an injury. Understanding this protection can make it easier to report promptly and pursue the claim you're entitled to."
+      },
+      {
+        "title": "Awareness of Reporting and Filing Deadlines",
+        "desc": "Workplace injuries generally must be reported to an employer within 30 days, while a separate third-party injury claim carries its own two-year deadline. Missing either window can limit your options, so timing matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working near Ramon Road — can I still file a workers' comp claim and sue someone else?",
+        "answer": "Possibly. Workers' compensation is generally the exclusive remedy against your employer, but if a third party, like another driver, a subcontractor, or an equipment maker, contributed to your injury, a separate claim may be available. An independent attorney can look at the specifics of what happened near Ramon Road and explain your options."
+      },
+      {
+        "question": "What happens if my employer retaliates after I report my injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal in California. If you believe you've faced retaliation, an independent attorney can help you understand what protections apply and what steps might follow."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim?",
+        "answer": "You generally need to notify your employer within 30 days of a workplace injury. If a third-party claim is involved, California law generally allows two years from the date of injury to file, so acting sooner rather than later helps preserve your options."
+      }
+    ]
+  }
+}

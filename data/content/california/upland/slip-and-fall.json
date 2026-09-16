@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "upland slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Upland Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on someone's property in Upland, CA? LawProactive connects you, free, with an independent premises liability attorney. Contingency fee."
+  },
+  "hero": {
+    "subtitle": "Slipped, tripped, or fell on a property in Upland that wasn't kept safe? LawProactive connects you at no cost with an independent premises liability attorney who serves San Bernardino County."
+  },
+  "about": {
+    "title": "Upland Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You're on the tile at a grocery store off Foothill Boulevard, or on a cracked walkway outside an apartment complex near Euclid Avenue, and your first thought is embarrassment, not evidence. Yet under California premises liability law, what happens in the next few hours matters a great deal. To recover, an injured person in Upland generally has to show that the property owner knew about the hazard, or reasonably should have known, and failed to fix it or warn about it. That is the notice requirement, and it is where many claims are won or lost. Photos of the spill, the loose mat, or the missing handrail, names of witnesses, and a prompt request that the business preserve its surveillance footage all help meet that burden. LawProactive is not a law firm. We are a free service that connects Upland residents with an independent attorney who handles premises cases in San Bernardino County, with no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Common in Upland Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and forearm breaks",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back strain",
+      "Torn knee ligaments and meniscus damage",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Upland Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole case",
+        "desc": "California asks whether the owner knew or should have known about the hazard. The attorney you're connected with can move quickly to gather inspection logs, prior complaints, and cleaning schedules before they disappear."
+      },
+      {
+        "title": "Video doesn't wait",
+        "desc": "Many Upland stores and complexes overwrite surveillance footage within days. A written preservation request sent early can keep the one recording that shows exactly how long the hazard sat there."
+      },
+      {
+        "title": "Deadlines that vary by defendant",
+        "desc": "You generally have two years to file against a private owner, but a claim involving the City of Upland, the county, or another public entity runs on a much shorter clock. Knowing which applies from day one protects your options."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Upland. Is the City responsible?",
+        "answer": "It depends on who owns and maintains that stretch of sidewalk, which in Upland can be the City, an adjacent property owner, or another public agency. If a government entity is involved, California requires a formal claim to be filed within six months, far sooner than the two-year deadline for private owners. An attorney can help pin down ownership and get the right paperwork moving before that window closes."
+      },
+      {
+        "question": "The store says I wasn't paying attention. Does that end my claim?",
+        "answer": "No. California uses pure comparative fault, which means your recovery can be reduced by your share of responsibility but is not wiped out entirely. If a hazard sat unaddressed long enough that the owner should have known about it, that failure still counts. The attorney you connect with can weigh how a fault argument might affect your specific situation."
+      },
+      {
+        "question": "What should I document right after a fall on someone else's property?",
+        "answer": "Photograph the exact spot, including what caused the fall, the lighting, and any missing signs or barriers, before it gets cleaned up or repaired. Get the names of anyone who saw it and ask the manager to write an incident report. Then request in writing that any surveillance video be preserved; footage from a shopping center along Mountain Avenue or Foothill Boulevard is often recorded over within a week or two."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "pacific-grove workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pacific Grove Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Pacific Grove? Get free help connecting with an independent attorney about workers' comp and possible third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt while working in Pacific Grove, from a Lighthouse Avenue delivery route to a job site near Forest Avenue, LawProactive can connect you with an independent attorney who handles work injury matters at no cost to you."
+  },
+  "about": {
+    "title": "Pacific Grove Workplace Injury Claims",
+    "longDescription": "Pacific Grove's economy runs on a mix of small businesses, hospitality, retail, and services clustered along corridors like Forest Avenue and Lighthouse Avenue, plus municipal and maintenance work near Ocean View Boulevard. Workers in these settings face real risks: delivery drivers navigating Sunset Drive traffic, kitchen staff handling hot equipment, or maintenance crews working at heights or with machinery. California generally requires injured workers to go through workers' compensation rather than sue their employer directly, but that's not always the end of the story. When a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, a separate third-party claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law ourselves; we simply help connect injured workers in Pacific Grove with an independent attorney who can review the details of what happened and explain what options might exist, all at no upfront cost to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Repetitive strain and overexertion injuries",
+      "Burns from kitchen or industrial equipment",
+      "Injuries from being struck by vehicles or machinery",
+      "Cuts and lacerations from tools or sharp equipment",
+      "Back and joint injuries from lifting or awkward positions"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Pacific Grove Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Third-Party Angle",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but if a subcontractor, property owner, or equipment maker played a role, a separate claim against them may still be available."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to punish you for reporting a workplace injury, and an attorney can help you understand your rights if you're worried about your job."
+      },
+      {
+        "title": "Awareness of Reporting and Filing Deadlines",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and any third-party claim carries a separate two-year deadline, so timing matters and an attorney can help you track both."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while making a delivery near Forest Avenue. Can I still file a workers' comp claim and go after the other driver?",
+        "answer": "Possibly, yes. Workers' compensation typically covers your medical care and lost wages regardless of fault on the job, but if another driver caused the crash, a separate third-party injury claim against them may also be available. An independent attorney can look at the specifics of your situation and explain how the two claims might work together."
+      },
+      {
+        "question": "My employer in Pacific Grove says I have to just accept workers' comp and can't do anything else. Is that true?",
+        "answer": "Workers' comp is usually the exclusive remedy against your employer directly, so that part is generally accurate. However, if someone other than your employer, such as a property owner, subcontractor, or equipment manufacturer, contributed to your injury, you may still have a separate claim against them. It's worth having an attorney review the facts before assuming your options are limited."
+      },
+      {
+        "question": "How soon do I need to report my injury and take action?",
+        "answer": "California generally requires you to report a workplace injury to your employer within 30 days, so it's best not to wait. If a third party may also be responsible, that claim typically has a two-year deadline. Speaking with an attorney early can help make sure neither deadline slips by."
+      }
+    ]
+  }
+}

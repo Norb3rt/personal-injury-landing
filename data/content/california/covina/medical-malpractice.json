@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "covina medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Covina Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Covina? LawProactive connects you free with an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Covina hospital visit or procedure goes wrong, sorting out what happened can feel overwhelming. LawProactive can connect you with an independent attorney familiar with California's medical malpractice rules, at no cost to you."
+  },
+  "about": {
+    "title": "Covina Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases look different from car crash claims, and Covina residents dealing with a hospital error, misdiagnosis, or surgical complication often aren't sure where to turn. Covina is served by several medical facilities in the San Gabriel Valley, and while most care meets a reasonable standard, mistakes do happen — a delayed diagnosis, a medication error, or a surgical complication that wasn't properly addressed. California law treats these claims differently than typical injury cases, with strict notice requirements and shorter windows to act than many people expect. LawProactive doesn't provide legal advice or represent clients directly; instead, we connect Covina residents who believe they were harmed by a medical error with an independent attorney who can review the medical records, determine whether the case meets California's standards, and explain the options. There's no cost to get connected, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Types of Medical Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or complications",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia errors",
+      "Failure to monitor or follow up on a condition"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Understanding the Rules Matters in Covina",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the injury, and no later than three years from when it occurred. Missing either deadline can end a claim before it's reviewed."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before filing a lawsuit, California law requires giving the healthcare provider 90 days' advance notice. An attorney familiar with this process can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "California malpractice cases generally require a qualified medical expert to support the claim. A bad medical outcome alone doesn't establish malpractice — the case has to show the provider fell below an accepted standard of care."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after a procedure in Covina — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law recognizes that medicine involves risk, and a poor result by itself isn't proof of malpractice. What matters is whether the provider's care fell below an accepted medical standard, which is why a qualified medical expert typically has to review the records."
+      },
+      {
+        "question": "How much time do I have to bring a claim in California?",
+        "answer": "Generally you have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it happened. There's also a required 90-day notice period before filing suit, so it's best not to wait to look into your options."
+      },
+      {
+        "question": "Are there limits on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages in malpractice cases, though that cap rises each year under current law. Economic damages, like medical bills and lost income, are generally handled separately. An independent attorney can walk through how these rules could apply to your specific situation."
+      }
+    ]
+  }
+}

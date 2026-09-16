@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "san-ramon product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Ramon Product Liability Attorney Connection | Free",
+    "metaDescription": "Hurt by a defective product in San Ramon, CA? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product fails and someone in San Ramon gets hurt, California's strict liability rules can work in your favor. LawProactive connects you, at no cost, with an independent attorney who handles defective product claims."
+  },
+  "about": {
+    "title": "San Ramon Product Liability Claims",
+    "longDescription": "Defective products rarely look defective until the moment they fail. For San Ramon residents, that moment might come from an appliance that overheats, a child's toy that breaks into sharp pieces, a medication with an incomplete warning label, or a tire or airbag that malfunctions on I-680 Southbound or Crow Canyon Road. San Ramon recorded 134 injury collisions in 2025, with 185 people hurt; when a vehicle component fails, a product liability claim can sit alongside an ordinary crash claim. California law treats these cases differently from most injury claims. Under strict liability, you generally do not have to prove the manufacturer was careless. Showing that the product had a design, manufacturing, or warning defect and that the defect caused your injury is usually enough. Responsibility can also reach beyond the maker to the distributor and the retailer that sold it in Contra Costa County. LawProactive is a free service, not a law firm. We connect you with an independent attorney who takes product cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns and electrical injuries from faulty appliances or chargers",
+      "Deep cuts from shattered glass, plastic, or metal parts",
+      "Choking or ingestion harm from children's products",
+      "Crush and amputation injuries from power tools and machinery",
+      "Adverse reactions to mislabeled or contaminated medications",
+      "Head, neck, and spinal injuries from airbag or seatbelt failures"
+    ],
+    "ctaText": "Ask a product liability attorney about your situation, free."
+  },
+  "whyChoose": {
+    "title": "Why San Ramon Residents Use LawProactive for Product Cases",
+    "items": [
+      {
+        "title": "Strict Liability Changes the Question",
+        "desc": "In California, a product case usually turns on whether the item was defective and caused your injury, not on whether the company was negligent. The attorneys we connect you with build claims around that standard."
+      },
+      {
+        "title": "The Product Is the Evidence",
+        "desc": "Keeping the actual item, its packaging, and any receipts can matter more than almost anything else. An independent attorney can help you preserve it properly before anyone asks for it back."
+      },
+      {
+        "title": "More Than One Responsible Party",
+        "desc": "Manufacturers, distributors, and the store or website that sold the product may each share liability. Sorting out who belongs in the claim is part of what a product liability attorney does."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the manufacturer did something wrong?",
+        "answer": "Usually not. California product liability often runs on strict liability, which means you generally need to show the product had a design, manufacturing, or warning defect and that the defect caused your injury. Whether the company was careful is typically not the deciding issue. An attorney can explain how this applies to your specific product."
+      },
+      {
+        "question": "My airbag did not deploy in a crash on Bollinger Canyon Road. Is that a product claim or a car accident claim?",
+        "answer": "It may be both. A collision claim against another driver and a product liability claim against the vehicle or component maker can proceed together. Keep the vehicle from being repaired or scrapped until an attorney has a chance to review it, because the airbag module itself is key evidence. LawProactive can connect you with someone who handles both kinds of cases."
+      },
+      {
+        "question": "I bought the product online from an out-of-state seller. Can I still bring a claim in Contra Costa County?",
+        "answer": "Often, yes. California law allows claims against manufacturers, distributors, and retailers, and where you were injured and where the product was delivered can matter. The details depend on who sold it and how it reached you. An independent attorney can look at your order records and tell you what options exist."
+      }
+    ]
+  }
+}

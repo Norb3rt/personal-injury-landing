@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "oceanside workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oceanside Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Oceanside? Learn how workers' comp and third-party claims work in San Diego County, then get connected free with an injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured at work in Oceanside? Workers' compensation may not be your only option, and LawProactive can connect you, free of charge, with an independent attorney who can sort out what applies to you."
+  },
+  "about": {
+    "title": "Oceanside Workplace Injury Claims",
+    "longDescription": "Getting hurt while working in Oceanside can feel like two problems at once: the injury itself, and the paperwork that follows. California workers' compensation typically covers medical care and a share of lost wages regardless of who was at fault, and in most cases it is the only claim you can bring against your employer. That is not always the whole story. When someone other than your employer contributed to the harm—a subcontractor on a job site, the owner of a property you were sent to, the maker of a tool that failed, or another driver who hit you while you were on the clock—a separate injury claim may be available. That matters in a city of about 175,000 people where work often means driving. In 2025, Oceanside recorded 835 injury collisions and 1,177 people injured, with the highest collision counts along Route 76, Oceanside Boulevard, College Boulevard and Mission Avenue. If you were working when a crash or fall happened here, LawProactive can connect you, at no cost, with an independent attorney who handles both sides of the picture.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Oceanside Workplace Cases",
+    "commonInjuries": [
+      "Back and spine injuries from lifting or falls",
+      "Fractures from ladders, scaffolds and elevated work",
+      "Crush and amputation injuries from machinery",
+      "Head injuries and concussions on job sites",
+      "Burns and chemical exposure injuries",
+      "Crash injuries while driving for work"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Oceanside Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We look past workers' comp",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer in California, but a negligent third party can open a separate claim. The attorneys we connect you with evaluate both paths, not just the obvious one."
+      },
+      {
+        "title": "Deadlines are watched closely",
+        "desc": "You generally have 30 days to report a work injury to your employer, and a third-party injury claim carries a two-year deadline in California. Reaching out early gives an attorney room to protect both."
+      },
+      {
+        "title": "No fee unless you recover, and our service is free",
+        "desc": "LawProactive is a free connection service, not a law firm. The independent attorneys in our network work on contingency, so you owe nothing unless there is a recovery in your case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver while making deliveries on Oceanside Boulevard. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of fault. Since the other driver is a third party rather than your employer, California law also allows a separate injury claim against them, which can address losses that workers' comp does not. An attorney can help coordinate the two so they do not work against each other."
+      },
+      {
+        "question": "Can my employer fire me for reporting an injury or filing a claim?",
+        "answer": "No. Retaliating against a worker for reporting an injury or pursuing workers' compensation is illegal in California. If you believe you were demoted, cut back, or let go because of a claim, tell the attorney you are connected with, since that may be a separate legal issue on top of your injury case."
+      },
+      {
+        "question": "How long do I have to act after a workplace injury in San Diego County?",
+        "answer": "Report the injury to your employer as soon as you can, and within 30 days at the latest, so your workers' comp rights stay protected. If a third party such as a subcontractor, property owner, or equipment maker played a role, that separate injury claim generally must be filed within two years. Those clocks run at the same time, which is one reason it helps to talk with someone early."
+      }
+    ]
+  }
+}

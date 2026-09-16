@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "montclair city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Montclair, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Montclair? San Bernardino County residents can connect free with an independent attorney. 2-year filing window. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Montclair, we'll connect you at no cost with an independent attorney serving San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Montclair, California",
+    "longDescription": "Montclair sits at a busy crossroads of San Bernardino County, where daily traffic on Central Avenue, Monte Vista Avenue, Holt Boulevard, and the I-10 freeway keeps the city moving — and occasionally leads to collisions. Public records show 234 injury collisions in the most recent final year, with 348 people hurt and 1 traffic death. Many of these crashes happen on Fridays between 5 and 7 p.m., when commuters and shoppers converge near the freeway on-ramps and shopping corridors. If you were injured in one of these incidents, or in a fall, workplace accident, or other mishap around town, you may be weighing medical bills, missed work, and an uncertain path forward. LawProactive is a free service — not a law firm — that connects injured Montclair residents with an independent personal injury attorney in our network. We don't charge you anything to make that connection, and the attorneys we work with take cases on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and puts you in touch with someone who can look at your specific situation.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Knee, shoulder, and joint injuries"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Montclair Residents Reach Out to Us",
+    "items": [
+      {
+        "title": "Your Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government entity can require notice in as little as six months. Waiting too long can close the door on your case entirely."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you're partly responsible for what happened, you may still recover a share of damages. An attorney can help sort out how fault is divided in your specific crash."
+      },
+      {
+        "title": "No Cap on What You've Suffered",
+        "desc": "For most ordinary injury cases in California, there's no cap on non-economic damages like pain and suffering. That means your compensation isn't artificially limited before your case is even evaluated."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. That structure lets you focus on recovery instead of worrying about legal bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know how to keep up",
+      "I can't work right now and I'm worried about lost income",
+      "The insurance company keeps calling and I'm not sure what to say",
+      "I don't know if I even have a case or how much time I have left"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Montclair?",
+        "answer": "California law generally allows two years from the date of the injury to file a claim. If your injury involved a government entity, such as a city vehicle or public property, that window can shrink to as little as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you were partly responsible. Your recovery is simply reduced by your percentage of fault rather than eliminated altogether."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Montclair?",
+        "answer": "Public collision records show higher volumes of reported crashes along Central Avenue, Monte Vista Avenue, Holt Boulevard, and near the I-10 freeway, with Friday evenings between 5 and 7 p.m. showing the most activity. These are simply neutral counts from public data, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I owe money if I contact LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney, and we don't charge for that connection. Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We're a free connection service that helps injured Montclair residents get in touch with an independent personal injury attorney who can evaluate their case directly."
+      }
+    ]
+  }
+}

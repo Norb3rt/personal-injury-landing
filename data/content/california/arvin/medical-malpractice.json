@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "arvin medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Arvin Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Arvin, CA? Get connected free to an independent malpractice attorney. No fee unless you recover. Strict deadlines apply."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or medication error leaves an Arvin family with new injuries, sorting out what happened at the clinic or hospital can feel overwhelming. LawProactive connects you, free of charge, with an independent attorney who can review the medical record and explain your options under California law."
+  },
+  "about": {
+    "title": "Arvin Medical Malpractice Claims",
+    "longDescription": "Arvin residents rely on a small network of local clinics and often travel into the broader Kern County medical system for specialty or hospital care. When that care falls below the accepted standard — a missed diagnosis, a surgical mistake, a medication mix-up — the resulting harm can be permanent and hard to untangle on your own. California's MICRA rules make these cases procedurally demanding: a qualified medical expert almost always has to review the case, a 90-day pre-suit notice is generally required before filing, and the filing window is short. A bad medical outcome by itself doesn't mean malpractice occurred; the question is whether the provider deviated from the accepted standard of care. LawProactive doesn't practice law or decide your case — we simply connect you, at no cost, with an independent attorney in our network who can evaluate the medical records, determine whether the standard of care was met, and explain what steps, and deadlines, apply to your situation.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect Cases For",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Speak with an independent attorney about your Arvin medical care — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Clock Runs Out",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines Under MICRA",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to bring a claim. An attorney can help you figure out where you stand on that timeline before options close."
+      },
+      {
+        "title": "A 90-Day Notice Almost Always Comes First",
+        "desc": "Before a malpractice lawsuit can even be filed in California, the provider typically must receive 90 days' written notice. Missing or mishandling this step can delay or jeopardize a claim, so early legal input matters."
+      },
+      {
+        "title": "Expert Review Is Required, Not Optional",
+        "desc": "California law generally requires a qualified medical expert to support a malpractice claim. An independent attorney can help arrange that review and assess whether the standard of care was actually violated."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Arvin — does that mean malpractice happened?",
+        "answer": "Not necessarily. California law requires proof that the provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney can review your records to help determine whether the standard of care was actually breached."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, and no more than three years from the date it occurred, whichever comes first. There's also typically a 90-day notice requirement before filing suit, so it's worth getting an evaluation sooner rather than later."
+      },
+      {
+        "question": "Does LawProactive handle my malpractice claim directly?",
+        "answer": "No — LawProactive is a free connection service, not a law firm, and we don't represent you or give legal advice. We connect you with an independent attorney in our network who works on contingency, meaning there's no fee unless you recover."
+      }
+    ]
+  }
+}

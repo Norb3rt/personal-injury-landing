@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "novato workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Novato Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Novato? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Whether you were injured on a job site near Redwood Boulevard or delivering along US-101 through Novato, a work injury can leave you with medical bills and questions about who's responsible. LawProactive connects you with an independent attorney who can help sort out your options at no cost to you."
+  },
+  "about": {
+    "title": "Novato Workplace Injury Claims",
+    "longDescription": "Novato's mix of light industrial parks, retail corridors, and commuter routes like US-101 and Novato Boulevard means workplace injuries here can involve delivery drivers, warehouse staff, construction crews, and office workers alike. When you're hurt on the job, California generally requires you to go through workers' compensation rather than sue your employer directly — but that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate claim against that third party, on top of any workers' comp benefits. Marin County's employers and insurers move fast to protect their interests, so understanding your full set of options matters. LawProactive doesn't practice law itself — we simply connect injured workers in Novato with an independent attorney who can review the details of your injury, explain your rights under both workers' comp and third-party law, and help you figure out a path forward, free of charge to start.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Injuries from defective tools or machinery",
+      "Struck-by or caught-in equipment accidents",
+      "Chemical exposure or respiratory injuries"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Novato Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Clarity on Workers' Comp vs. Third-Party Claims",
+        "desc": "Workers' comp is usually your only path against an employer, but a negligent third party like a subcontractor or equipment maker may still owe you compensation separately. An attorney can help identify if your case has that extra angle."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to punish you for reporting a workplace injury. If you're worried about your job after an injury, an attorney can explain your protections."
+      },
+      {
+        "title": "Attention to Reporting and Filing Deadlines",
+        "desc": "You generally need to report a workplace injury to your employer within 30 days, and any third-party claim carries a 2-year deadline. Missing either window can limit your options, so timing matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working near US-101 in Novato — can I still file a work injury claim?",
+        "answer": "Yes. Work-related driving injuries, including those along busy corridors like US-101 or Redwood Boulevard, are generally covered by workers' compensation. If another driver caused the collision, you may also have a separate third-party claim, since that driver isn't your employer. An independent attorney can look at both angles."
+      },
+      {
+        "question": "Can I sue my employer directly for my injury?",
+        "answer": "In most cases, California workers' compensation is your exclusive remedy against your employer, regardless of fault. However, if a third party — like a subcontractor, property owner, or equipment manufacturer — contributed to your injury, you may be able to pursue a separate claim against them."
+      },
+      {
+        "question": "What if I'm scared to report my injury because I might lose my job?",
+        "answer": "California law prohibits employer retaliation against workers who report a workplace injury in good faith. You have 30 days to report the injury to preserve your rights, and an attorney can advise you on how to document everything properly if you're concerned about your employer's response."
+      }
+    ]
+  }
+}

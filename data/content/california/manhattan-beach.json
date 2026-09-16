@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "manhattan-beach city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Manhattan Beach, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Manhattan Beach? Connect free with an LA County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Sepulveda or a fall near the pier, we'll connect you with an independent attorney at no cost, serving all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Manhattan Beach, California",
+    "longDescription": "Manhattan Beach may be known for its beaches and small-town feel, but its streets see real traffic every day. In the most recent reporting year, Los Angeles County recorded 102 injury collisions here, hurting 133 people. Corridors like Sepulveda Boulevard, Manhattan Beach Boulevard, Highland Avenue, and Rosecrans Avenue carry the heaviest reported collision counts in the city, and reports tend to cluster on Tuesday afternoons between 4 and 6 p.m., likely tied to commute and school-pickup traffic. If you were hurt in a crash, a fall, or another accident caused by someone else's carelessness, sorting out medical bills, insurance calls, and lost work can feel like a full-time job on top of recovering. LawProactive is a free service — not a law firm — that connects injured people in Manhattan Beach with an independent personal injury attorney who can evaluate what happened. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and starts the process of understanding your options while time limits are still on your side.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from car or bicycle crashes",
+      "Traumatic brain injuries from falls or collisions",
+      "Road rash and fractures from bike or pedestrian accidents",
+      "Shoulder and back injuries from sudden impacts",
+      "Cuts, bruises, and soft tissue injuries from slip-and-falls"
+    ],
+    "ctaText": "Tell us what happened — connecting is free and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Generally Have Two Years",
+        "desc": "California law gives most injury victims two years from the date of the incident to file a claim. That window shrinks to as little as six months if a government entity, like the City of Manhattan Beach, is involved, so timing matters."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still pursue compensation — it's simply reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering, so the value of a claim isn't artificially capped."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, which means they only get paid if you receive a settlement or award. There's no upfront cost to get answers."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if the time limit to file has already started ticking",
+      "Fear that being partly at fault means giving up entirely"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Manhattan Beach?",
+        "answer": "Under California law, you typically have two years from the date of the accident to file a personal injury lawsuit. If your claim involves a government entity, such as a city road defect, that deadline can shrink to as little as six months, so it's worth checking early."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some blame. Your recovery would simply be reduced by the percentage of fault assigned to you, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Manhattan Beach?",
+        "answer": "Public collision records show that Sepulveda Boulevard, Manhattan Beach Boulevard, Highland Avenue, and Rosecrans Avenue have the highest reported collision counts in the city. Reports also tend to peak on Tuesdays between 4 and 6 p.m. These are simply recorded counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in standard personal injury cases. This differs from some other states that limit these types of damages."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney through LawProactive?",
+        "answer": "No, connecting with an attorney through LawProactive is completely free. We are not a law firm ourselves — we simply help injured people in Manhattan Beach reach an independent attorney who works on contingency, meaning they only get paid if you win your case."
+      }
+    ]
+  }
+}

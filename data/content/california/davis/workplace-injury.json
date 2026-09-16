@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "davis workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Davis Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Davis, CA? Get connected free with an independent attorney about workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a workplace accident sidelined you in Davis, you may be juggling a comp claim and unanswered questions about who else bears responsibility. LawProactive can connect you, at no cost, with an independent attorney who handles Yolo County work-injury matters."
+  },
+  "about": {
+    "title": "Davis Workplace Injury Claims",
+    "longDescription": "Davis workplaces run the gamut from UC Davis-adjacent labs and agriculture operations to construction sites and small businesses along 5th Street and Russell Boulevard. When someone gets hurt on the job here, California's workers' compensation system usually pays medical costs and partial wage replacement regardless of fault. But that system doesn't cover everything, and it doesn't apply to everyone who contributed to an injury. If a subcontractor, equipment manufacturer, property owner, or another driver on a jobsite played a role, a separate claim against that third party may be possible alongside comp benefits. Sorting out which path applies, and whether both apply, is easier with guidance. LawProactive doesn't practice law; we simply connect injured Davis workers with an independent attorney who can review the facts and explain what's realistic, so you're not left guessing while medical bills and missed paychecks pile up.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or elevated platforms",
+      "Repetitive strain and overexertion injuries",
+      "Equipment or machinery-related injuries",
+      "Vehicle collisions during work duties on I-80 or Mace Boulevard",
+      "Chemical or agricultural exposure injuries",
+      "Struck-by or caught-in-between construction accidents"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury options."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Davis Workplace Injury",
+    "items": [
+      {
+        "title": "Comp Isn't Always the Whole Picture",
+        "desc": "Workers' compensation is typically the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker can still be pursued separately."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days, and missing that window can complicate your comp claim."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a claim, and an attorney can help you understand those protections if issues arise."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a lawsuit against my employer for a workplace injury in Davis?",
+        "answer": "Generally no; workers' compensation is usually the exclusive remedy against your employer regardless of fault. However, if a third party, like a contractor, equipment manufacturer, or another driver, contributed to the injury, a separate claim against them may be possible. An independent attorney can help sort out which route applies to your situation."
+      },
+      {
+        "question": "I was hurt driving for work near I-80 or Mace Boulevard. Does that change anything?",
+        "answer": "It might. If another driver caused the collision while you were on the job, you could have both a workers' comp claim and a third-party injury claim against that driver. These situations often overlap, so getting them reviewed together matters."
+      },
+      {
+        "question": "How long do I have to act on a third-party claim tied to my Davis workplace injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of injury. Workers' comp reporting has its own separate 30-day window with your employer, so it helps to address both promptly rather than waiting."
+      }
+    ]
+  }
+}

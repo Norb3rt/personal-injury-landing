@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "coronado medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Coronado Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Coronado? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or treatment went wrong at a Coronado hospital or clinic, LawProactive can connect you at no cost with an independent attorney who handles medical malpractice claims under California law."
+  },
+  "about": {
+    "title": "Coronado Medical Malpractice Claims",
+    "longDescription": "Coronado is a small island city, but its residents still rely on hospitals and outpatient clinics across San Diego County for surgeries, diagnostics, and specialty care. When a provider deviates from accepted medical standards, patients and their families are often left confused about what happened and what comes next. California's MICRA law shapes nearly every part of a malpractice claim here, from the short filing window to a required 90-day pre-suit notice to the doctor or facility. Because these cases almost always require a qualified medical expert to explain how the standard of care was breached, they tend to be more complex than a typical injury claim. LawProactive doesn't practice law or evaluate your case ourselves — we simply connect Coronado residents with an independent attorney who can review the medical records, explain the MICRA timelines, and determine whether a claim may be worth pursuing on a contingency basis.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Missed or delayed cancer diagnosis",
+      "Medication or dosage errors",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Get connected with an independent malpractice attorney today."
+  },
+  "whyChoose": {
+    "title": "Why Coronado Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the MICRA Clock",
+        "desc": "California malpractice claims generally must be filed within one year of discovering the injury, and no more than three years from when it occurred, with a required 90-day notice beforehand. We connect you with an attorney quickly so these deadlines aren't missed."
+      },
+      {
+        "title": "Expert Review Before You Commit",
+        "desc": "Since a qualified medical expert is almost always needed to prove a malpractice claim, we match you with attorneys who know how to bring in the right specialists to evaluate what went wrong."
+      },
+      {
+        "title": "No Upfront Cost, No Hidden Fees",
+        "desc": "Attorneys in our network work on contingency, meaning there's no fee unless you recover, so a limited or rising non-economic damages cap under MICRA doesn't stand between you and getting your case reviewed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Coronado?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it occurred. A 90-day pre-suit notice to the provider is also typically required before filing. Because these deadlines are strict, it helps to speak with an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "Does a bad medical outcome mean malpractice happened?",
+        "answer": "Not necessarily. California law requires showing that a provider deviated from the accepted standard of care and that this deviation caused harm, not just that treatment didn't go as hoped. An independent attorney, working with a qualified medical expert, can help determine whether your situation meets that legal standard."
+      },
+      {
+        "question": "I was treated at a facility outside Coronado but live here — can LawProactive still help?",
+        "answer": "Yes. Many Coronado residents receive hospital or specialty care elsewhere in San Diego County, and that doesn't change your ability to pursue a claim. LawProactive can still connect you with an independent attorney to review the medical care you received, regardless of exactly where the treatment took place."
+      }
+    ]
+  }
+}

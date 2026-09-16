@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "monterey workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Monterey Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Monterey? LawProactive connects you free with an independent attorney to sort out workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Monterey, from Cannery Row hotels to Del Monte Avenue job sites, LawProactive can connect you at no cost with an independent attorney who can help you understand your options."
+  },
+  "about": {
+    "title": "Monterey Workplace Injury Claims",
+    "longDescription": "Monterey's economy leans heavily on hospitality, fishing, agriculture, and tourism-related trades, and each of these industries carries its own injury risks, from wet kitchen floors near Fisherman's Wharf to equipment hazards on farms off Rt 68. When a workplace injury happens, most employees in California are covered by workers' compensation, which pays medical care and partial wages regardless of fault but generally blocks a lawsuit against the employer. That said, Monterey workers are often exposed to hazards created by outside contractors, property owners, or equipment manufacturers who don't share that legal shield. LawProactive is a free service that helps injured workers get connected with an independent attorney who can look at whether a third party's negligence contributed to the injury, separate from any workers' comp claim already filed. We don't charge for the connection, and we don't guarantee any result. The goal is simply to help you find someone who can explain your options clearly.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Slip-and-fall injuries on wet or uneven floors",
+      "Back and shoulder strains from repetitive lifting",
+      "Falls from ladders or elevated platforms",
+      "Injuries from malfunctioning kitchen or farm equipment",
+      "Vehicle collisions while working, along Del Monte Avenue or Rt 68",
+      "Cuts, burns, and crush injuries from tools or machinery"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to see what options may apply to your situation."
+  },
+  "whyChoose": {
+    "title": "Why Monterey Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Third-Party Path",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker may still be liable. An attorney can help determine whether your situation involves someone outside the workers' comp system."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting an injury or filing a claim. Knowing this protection exists can make it easier to report what happened without fear."
+      },
+      {
+        "title": "Awareness of Reporting and Filing Deadlines",
+        "desc": "Workplace injuries generally need to be reported to the employer within 30 days, and any separate third-party injury claim carries its own two-year deadline. Missing either window can limit your options, so timing matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I already filed a workers' comp claim in Monterey County — can I still talk to an attorney?",
+        "answer": "Yes, filing a workers' comp claim doesn't rule out a separate claim against a negligent third party, such as a property owner or contractor not employed by your company. An independent attorney can review your situation to see if that applies. LawProactive can help connect you with one at no cost."
+      },
+      {
+        "question": "What if my injury happened while delivering goods along Lighthouse Avenue or Fremont Street?",
+        "answer": "If you were injured in a vehicle collision while working, and another driver was at fault, that may open a claim separate from workers' comp. These situations often involve both systems working together, so it helps to have someone look at the specifics. There's no cost to get connected and ask."
+      },
+      {
+        "question": "How long do I have to report a workplace injury in California?",
+        "answer": "Generally, you should report a workplace injury to your employer within 30 days to preserve your workers' comp rights. If a third party contributed to the injury, that separate claim typically carries a two-year deadline. Because these timelines differ, it's worth getting guidance sooner rather than later."
+      }
+    ]
+  }
+}

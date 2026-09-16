@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "clovis workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Clovis Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt at work in Clovis? LawProactive connects you, free, with an independent attorney to review workers' comp and third-party claims. Contingency only."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in Clovis? Workers' compensation may not be your only option, and an independent attorney can tell you whether a third party shares responsibility."
+  },
+  "about": {
+    "title": "Clovis Workplace Injury Claims",
+    "longDescription": "Work in Clovis takes many forms: framing new homes north of Herndon Avenue, stocking shelves along Shaw Avenue, driving deliveries on Clovis Avenue, farming the edges of Fresno County. When a shift ends with an injury, the path forward is usually a workers' compensation claim, which covers medical care and part of your lost wages no matter who was at fault. Less well known: a second claim may exist. If someone other than your employer contributed to the harm, such as a subcontractor on the same site, the owner of the property where you were working, the maker of a tool that failed, or another driver who hit you while you were on the clock, California allows a separate personal injury claim against that third party. That matters here, where public records logged 356 injury collisions in 2025 and many working people spend part of their day behind the wheel. LawProactive is not a law firm. We connect you, at no cost, with an independent attorney who can look at both angles.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Clovis Workplace Claims",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and roofs",
+      "Back and shoulder strains from lifting",
+      "Crush and pinch injuries from machinery",
+      "Vehicle collisions while driving for work",
+      "Heat illness during outdoor summer shifts",
+      "Repetitive stress injuries to hands and wrists"
+    ],
+    "ctaText": "Get a free review of your Clovis work injury options."
+  },
+  "whyChoose": {
+    "title": "Why Clovis Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Claims, Not One",
+        "desc": "Workers' comp is usually the only claim you can bring against your employer, but a negligent third party is a different story. The attorney you are connected with can check whether a subcontractor, property owner, equipment maker, or another driver opens a separate injury claim."
+      },
+      {
+        "title": "Deadlines Handled Early",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and any third-party claim generally carries a two-year filing deadline. Getting connected quickly keeps both clocks from becoming a problem."
+      },
+      {
+        "title": "Protection From Retaliation",
+        "desc": "It is illegal in California for an employer to punish you for reporting an injury or filing a claim. An independent attorney can explain what that protection looks like in practice if your hours, position, or treatment at work change after you report."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on Shaw Avenue while making a work delivery. Is that workers' comp or a car accident claim?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical care and a portion of lost wages regardless of fault. Because another driver caused the crash, you may also have a separate personal injury claim against that driver, which can address losses workers' comp does not. An attorney can coordinate the two so they do not work against each other."
+      },
+      {
+        "question": "My employer in Clovis has not reported my injury. What should I do?",
+        "answer": "Put your report in writing yourself and keep a copy, ideally within 30 days of the injury. Ask for a claim form and note the date you requested it. If your employer drags its feet or pushes back, that is worth mentioning to an attorney, since retaliation for reporting is against California law."
+      },
+      {
+        "question": "Does LawProactive charge for connecting me with an attorney?",
+        "answer": "No. LawProactive is a free service, not a law firm, and there is no charge to be matched. The independent attorneys in the network handle third-party injury claims on a contingency basis, which means no attorney fee unless there is a recovery."
+      }
+    ]
+  }
+}

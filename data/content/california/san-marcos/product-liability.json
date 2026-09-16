@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "san-marcos product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Marcos Product Liability Attorney | LawProactive",
+    "metaDescription": "Hurt by a defective product in San Marcos, CA? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product you trusted fails and hurts you in San Marcos, California's strict liability rules may put the responsibility on the companies that made and sold it. LawProactive connects you, at no cost, with an independent attorney who handles defective product claims."
+  },
+  "about": {
+    "title": "San Marcos Product Liability Claims",
+    "longDescription": "A faulty product rarely announces itself. In San Marcos it might be a space heater in a Twin Oaks Valley apartment, a stroller purchased from a shop along W San Marcos Boulevard, or an airbag that never deployed during a collision on SR-78. Across San Diego County, people rely on thousands of manufactured goods every day, and nearly all of them work as intended. When one does not, California law handles the situation differently from an ordinary negligence claim. Under strict product liability, you generally need to show that the product carried a design, manufacturing, or warning defect and that the defect caused your injury. Proving the manufacturer was careless is usually not required. Responsibility can also extend beyond the maker to the distributor and the retailer that sold the item. LawProactive is not a law firm. We are a free service that connects San Marcos residents with an independent attorney who takes these cases on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Commonly Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, appliances, or chargers",
+      "Lacerations and amputations from power tools or machinery",
+      "Crush injuries from collapsing furniture or failed restraints",
+      "Head and spinal trauma when airbags or seat belts malfunction",
+      "Poisoning or organ damage from contaminated food, drugs, or supplements",
+      "Choking and suffocation injuries involving children's products"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why San Marcos Residents Use LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Understood",
+        "desc": "The attorneys in our network know that California product cases often turn on proving a defect and causation, not on proving the manufacturer acted negligently. That distinction shapes how evidence is gathered from the very first conversation."
+      },
+      {
+        "title": "Every Link in the Chain",
+        "desc": "Manufacturers, distributors, and the local retailer where you bought the item may each share responsibility under California law. An independent attorney can look at the full supply chain rather than stopping at one name on the box."
+      },
+      {
+        "title": "Free Connection, Contingency Fees",
+        "desc": "LawProactive charges you nothing to make the connection, and the attorney you are matched with works on contingency. If there is no recovery, there is no attorney fee."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My car's safety system failed during a crash on SR-78. Is that a product liability case or a car accident case?",
+        "answer": "It can be both. The driver who caused the collision may be responsible for the crash itself, while the vehicle or parts manufacturer may be responsible if an airbag, seat belt, or other component did not perform as designed. San Marcos recorded 270 injury collisions in 2025, and SR-78 sits among the corridors with the highest collision counts, so this question comes up locally. An attorney can review whether a defect made your injuries worse than they otherwise would have been."
+      },
+      {
+        "question": "Do I have to prove the company was negligent?",
+        "answer": "Usually not. California applies strict liability to most product defect claims, which means the focus is on whether the product had a design, manufacturing, or warning defect and whether that defect caused your injury. The company's level of care is generally not the central question. Your attorney will explain how these elements apply to your specific product."
+      },
+      {
+        "question": "Should I throw away the product that hurt me?",
+        "answer": "Please do not. The product itself is often the single most important piece of evidence, and its condition can show exactly how it failed. Keep it, along with packaging, receipts, instructions, and any photos of the scene, and store it somewhere safe until an attorney has reviewed it. If the item was already discarded, tell your attorney right away so other evidence can be gathered."
+      }
+    ]
+  }
+}

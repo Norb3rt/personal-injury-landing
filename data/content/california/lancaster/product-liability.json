@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "lancaster product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lancaster CA Product Liability Lawyer | LawProactive",
+    "metaDescription": "Hurt by a defective product in Lancaster, CA? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product fails in Lancaster and someone gets hurt, California law asks whether it was defective, not whether the company meant harm. We connect you, at no cost, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Lancaster Product Liability Claims",
+    "longDescription": "A defective product rarely gives warning. In Lancaster, it might be a space heater that ignites on a cold night, a ladder that folds mid-climb, or a tire that separates at speed on Sierra Highway. Los Angeles County records show 1,051 injury collisions in Lancaster during 2025, with 1,723 people hurt, and some crashes trace back to a part that failed rather than a driver who erred. California treats these cases differently from ordinary negligence claims. Under strict product liability, you generally do not have to prove the manufacturer was careless. You need to show the product had a defect, whether in its design, in how it was made, or in the warnings that came with it, and that the defect caused your injury. Responsibility can reach the maker, the distributor, and the store on Avenue K or Avenue J that sold it. LawProactive is not a law firm. We are a free service that connects Lancaster residents with an independent attorney who takes these claims on contingency, so you owe nothing unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from lithium batteries, heaters, or appliances",
+      "Lacerations and amputations from power tools or machinery",
+      "Crush and fall injuries from collapsing ladders or furniture",
+      "Head, neck, and chest trauma when airbags or seat belts fail",
+      "Poisoning or choking from mislabeled or contaminated goods",
+      "Complications from defective medical devices or implants"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Lancaster Residents Start With LawProactive",
+    "items": [
+      {
+        "title": "Strict liability works in your favor",
+        "desc": "California generally does not require proof that a company was negligent. The attorney you are matched with focuses on showing the product was defective and that the defect caused your injury."
+      },
+      {
+        "title": "Guidance on preserving the product",
+        "desc": "The item itself is the heart of the case. An independent attorney can explain how to keep it, the packaging, and the receipt intact so the defect can be examined."
+      },
+      {
+        "title": "Every link in the supply chain is on the table",
+        "desc": "Manufacturers, distributors, and retailers may all share responsibility under California law, which matters when the maker is overseas or hard to reach."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My tire blew out on Avenue K and I crashed. Is that a car accident case or a product case?",
+        "answer": "It can be both. If the tire had a manufacturing or design defect, a product liability claim may exist alongside any auto claim, and strict liability means you would not have to show the tire maker was careless. The key is to keep the tire and the vehicle as they are so an expert can inspect them. An attorney in our network can sort out which claims apply."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was unsafe?",
+        "answer": "Generally, no. California's strict liability rule asks whether the product was defective in design, manufacture, or warnings, and whether that defect caused your injury. What the company knew or intended is usually not the deciding question. That said, each case turns on its facts, and an independent attorney can evaluate yours."
+      },
+      {
+        "question": "I already threw away the box and the receipt. Can I still bring a claim?",
+        "answer": "Losing the packaging does not automatically end a claim, though it can make things harder. If you still have the product, stop using it and store it somewhere safe. Bank statements, photos, and order histories can often stand in for a paper receipt. Reach out to LawProactive and we will connect you with an attorney who can assess what evidence remains."
+      }
+    ]
+  }
+}

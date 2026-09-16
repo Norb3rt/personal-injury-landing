@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "grass-valley city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Grass Valley, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Nevada County? Free connection to an independent CA attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether it's whiplash from a rear-end on SR-49 or a broken bone from a fall, we'll connect you free with an independent attorney serving Nevada County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Grass Valley, California",
+    "longDescription": "Grass Valley's roads carry a steady mix of commuters, timber trucks, and weekend visitors headed toward the Sierra foothills, and that traffic shows up in the numbers. In the most recent reporting year, Nevada County recorded 27 injury collisions in and around Grass Valley, leaving 32 people hurt. Corridors like SR-20, SR-49, and S Auburn Street see the highest volume of reported crashes, and Thursday afternoons between 3 and 5 p.m. tend to be when reports cluster. None of that means any particular stretch of road is unsafe — it simply reflects where traffic is heaviest. If you were hurt in a collision here, sorting out medical bills, missed work, and insurance calls can feel like a full-time job on top of recovering. LawProactive is a free service, not a law firm, that connects injured people in Grass Valley with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk, and attorneys in the network only get paid if you recover compensation. You don't have to figure out the next step by yourself.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee injuries from impact"
+    ],
+    "ctaText": "Talk to someone about your situation — the call is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline Is Real",
+        "desc": "Most injury claims in California must be filed within two years, and that window can shrink to as little as six months if a government entity is involved. Waiting too long can close the door on a claim entirely."
+      },
+      {
+        "title": "Shared Fault Doesn't End Your Claim",
+        "desc": "California follows pure comparative fault, meaning you can still recover compensation even if you were partly responsible for what happened. Your share of fault only reduces the amount, it doesn't erase it."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering. That matters when an injury affects daily life well beyond medical bills."
+      },
+      {
+        "title": "You Pay Nothing Unless You Recover",
+        "desc": "Attorneys in the network work on contingency, meaning there's no upfront cost and no fee unless your case results in a recovery. That structure exists so cost isn't a barrier to getting help."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're too hurt to work",
+      "Getting confusing calls from an insurance adjuster and not knowing what to say",
+      "Not knowing if you waited too long or missed a deadline to file",
+      "Feeling like the crash was partly your fault and wondering if that means no help is available"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Grass Valley?",
+        "answer": "California generally gives you two years from the date of the injury to file most personal injury claims. If a government agency or public road authority was involved, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some blame. Your fault percentage reduces the amount you receive rather than blocking your claim outright."
+      },
+      {
+        "question": "Where do crashes tend to happen in Grass Valley?",
+        "answer": "Public collision records show SR-20, SR-49, and S Auburn Street have the highest volume of reported injury crashes in the area, with reports often clustering on Thursday afternoons between 3 and 5 p.m. These are simply reported counts and don't label any road as unsafe — they reflect where traffic volume is highest."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys in their area. We don't provide legal representation ourselves, and there's no cost to use the service."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing upfront. The connection through LawProactive is free, and attorneys in the network work on contingency, meaning they only get paid if you recover compensation. There's no obligation to move forward after speaking with someone."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "baldwin-park city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Baldwin Park, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Baldwin Park? LawProactive connects Los Angeles County residents with an injury attorney for free. 2 years to file; no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From freeway pileups on the I-10 to slip-and-falls and dog bites, LawProactive connects injured people in Baldwin Park with an independent personal injury attorney at no cost. Serving all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Baldwin Park, California",
+    "longDescription": "Baldwin Park sits along the I-10 (San Bernardino Fwy), and daily life here means crossing Ramona Boulevard, Baldwin Park Boulevard, or Francisquito Avenue more than once. Public records for 2025, the most recent final crash year, show 406 injury collisions inside city limits, with 584 people injured and 4 traffic deaths. Reports tend to peak on Saturday afternoons between 3 p.m. and 5 p.m., when errands and weekend traffic overlap. These are neutral counts, not verdicts about any street. They simply show how often someone in a city of roughly 77,000 gets hurt on the road. If you are one of them, you probably have questions before you have answers. LawProactive exists for that moment. We are a free service, not a law firm. We do not handle your case; we listen to what happened and connect you with an independent personal injury attorney who serves Los Angeles County. That attorney works on contingency, so you owe no fee unless your case ends in a recovery. There is no charge to reach out, no obligation to hire anyone, and no pressure. Whether you were rear-ended near a freeway ramp, fell at a store, or were hit while cycling on a side street, the first step is the same: ask.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Baldwin Park",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end crashes",
+      "Broken bones after pedestrian or bicycle collisions",
+      "Concussions and other head injuries",
+      "Back and spinal disc injuries",
+      "Cuts, bruises, and road rash from motorcycle crashes",
+      "Sprains and fractures from slip-and-fall incidents"
+    ],
+    "ctaText": "Tell us what happened. The connection is free, and you decide what comes next."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Baldwin Park Claim",
+    "items": [
+      {
+        "title": "The clock is two years, sometimes less",
+        "desc": "California gives most injury victims two years from the date of injury to file a lawsuit. If a city, county, or state agency is involved, you may have as little as six months to submit a claim, so timing matters."
+      },
+      {
+        "title": "Partial fault does not shut the door",
+        "desc": "Under California's pure comparative fault rule, being partly responsible reduces your recovery by your share of blame but does not erase it. Even a driver who was 40 percent at fault can still pursue the other 60 percent."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "California places no statutory limit on non-economic damages in typical injury claims. What your injury cost you in pain, lost sleep, and daily disruption can be part of the conversation."
+      },
+      {
+        "title": "You pay nothing unless there is a recovery",
+        "desc": "Attorneys in our network work on contingency. Their fee comes out of any recovery, and if there is none, you owe them no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say",
+      "My car is totaled and I can't get to work without it",
+      "The ER bill arrived before my injuries even healed",
+      "I was partly at fault, so I assume I have no case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes in Baldwin Park tend to happen?",
+        "answer": "Public collision records list the I-10 (San Bernardino Fwy), Ramona Boulevard, Baldwin Park Boulevard, and Francisquito Avenue as the corridors with the highest counts. That reflects traffic volume more than anything else, and it is not a judgment about any road. Records also show reports peaking on Saturdays between 3 p.m. and 5 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We take down the basics of your situation and match you with an independent personal injury attorney serving Los Angeles County, and that attorney, not us, handles your case."
+      },
+      {
+        "question": "How long do I have to act after an injury in Baldwin Park?",
+        "answer": "For most California injury claims, the statute of limitations is two years from the date you were hurt. Claims against a government entity, such as a crash involving a city vehicle or a fall on public property, can require a written claim within six months. An attorney can tell you which deadline applies to your facts."
+      },
+      {
+        "question": "I think the crash was partly my fault. Does that end things?",
+        "answer": "Not in California. The state uses pure comparative fault, which means your recovery is reduced by your percentage of blame rather than eliminated. Someone found 25 percent at fault can still pursue the remaining 75 percent from the other party."
+      },
+      {
+        "question": "What will it cost me to talk to an attorney?",
+        "answer": "Nothing up front. Our connection is free, and attorneys in our network work on contingency, so their fee is a percentage of any recovery. If your case does not produce a recovery, you do not owe an attorney fee."
+      }
+    ]
+  }
+}

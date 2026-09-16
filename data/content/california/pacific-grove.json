@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "pacific-grove city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pacific Grove, CA Injury Lawyer Help | Free Case Review",
+    "metaDescription": "Hurt in Pacific Grove? Monterey County injury help, free connection to an attorney. 2-year filing deadline. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Pacific Grove, we can connect you free of charge with an independent attorney serving Monterey County. Whiplash, broken bones, and other injuries deserve a real look at your options."
+  },
+  "about": {
+    "title": "Personal Injury Help in Pacific Grove, California",
+    "longDescription": "Pacific Grove is a small coastal city, but its streets still see their share of collisions. Public records show 34 injury collisions in the most recent final reporting year, with 38 people hurt and, notably, zero traffic deaths recorded. Corridors like Forest Avenue, Ocean View Boulevard, Sunset Drive, and Lighthouse Avenue carry a good share of local traffic, and reports tend to cluster on Thursday afternoons between 1 and 3 p.m. If you were hurt in a crash near these roads, or anywhere else in town, it helps to understand your options before insurance calls start piling up. LawProactive is a free service — we are not a law firm and we don't handle your case ourselves. What we do is connect injured people in Monterey County with an independent personal injury attorney who can review what happened and explain what California law allows. Attorneys in this network work on contingency, meaning there's no fee unless you recover money. There's no obligation to move forward, and no pressure — just a way to get informed help while you focus on healing.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken or fractured bones",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Connect free with an independent attorney to talk through what happened."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for You",
+    "items": [
+      {
+        "title": "You Have Two Years — But the Clock Is Ticking",
+        "desc": "California generally gives injury victims two years from the date of the accident to file a lawsuit. If a government entity (like a city road department) is involved, that window can shrink to as little as six months, so acting early matters."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering Damages",
+        "desc": "For ordinary injury claims in California, there's no legal cap on non-economic damages like pain and suffering, so your compensation isn't artificially limited."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in this network work on contingency. That means you don't pay unless there's a settlement or award in your favor."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling unsure whether you can afford a lawyer at all",
+      "Fear that waiting too long could cost you your right to file"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Pacific Grove?",
+        "answer": "Under California law, you generally have two years from the date of the accident to file a personal injury lawsuit. If your claim involves a government agency, that deadline can be much shorter, sometimes just six months. It's wise to speak with an attorney as soon as possible to avoid missing any deadline."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, so being partially responsible doesn't prevent you from recovering compensation. Your recovery is simply reduced by your percentage of fault. An attorney can help evaluate how fault might be assessed in your specific situation."
+      },
+      {
+        "question": "Where do crashes tend to happen in Pacific Grove?",
+        "answer": "Public collision records show higher volumes of reported crashes along corridors like Forest Avenue, Ocean View Boulevard, Sunset Drive, and Lighthouse Avenue, with reports often clustering on Thursday afternoons between 1 and 3 p.m. These are simply public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people in Monterey County get in touch with an independent personal injury attorney. We don't represent clients directly or charge any fees ourselves."
+      },
+      {
+        "question": "Will I have to pay upfront if I get connected with an attorney?",
+        "answer": "Attorneys in this network work on a contingency basis, meaning there's no fee unless you recover compensation. This lets you get legal help evaluated without worrying about upfront costs."
+      }
+    ]
+  }
+}

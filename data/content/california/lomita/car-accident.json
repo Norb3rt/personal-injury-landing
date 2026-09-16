@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "lomita car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lomita Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Lomita car crash? Get connected free to an independent CA attorney. No fee unless you recover. Fast, no-obligation help."
+  },
+  "hero": {
+    "subtitle": "If a crash on Pacific Coast Highway, Western Avenue, or Lomita Boulevard left you hurt, LawProactive can connect you with an independent attorney serving Lomita at no cost to start."
+  },
+  "about": {
+    "title": "Lomita Car Accident Claims",
+    "longDescription": "Lomita is a small city, but its stretch of Pacific Coast Highway and the busy intersections along Western Avenue and Lomita Boulevard see a steady flow of traffic every day, and public records show dozens of injury collisions each year. Friday afternoons between 3 and 5 p.m. tend to bring the heaviest crash activity, likely tied to commuters and weekend traffic funneling through town toward Palos Verdes Drive N or the 405. If you were hurt in one of these collisions, the road ahead often involves dealing with insurance adjusters, medical bills, and lost wages all at once. LawProactive doesn't practice law — we're a free service that connects injured Lomita residents with an independent personal injury attorney who can evaluate the crash, handle communication with insurers, and work toward fair compensation. There's no upfront cost, and you decide whether to move forward after speaking with an attorney.",
+    "commonInjuriesTitle": "Injuries Commonly Reported After Lomita Car Crashes",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Back and spinal disc injuries",
+      "Broken bones and fractures",
+      "Concussions and other head injuries",
+      "Torn ligaments or soft tissue damage",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Get connected with an independent Lomita attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Ticking",
+        "desc": "You generally have two years from the crash date to file a personal injury claim in California, though claims against a government entity can require notice in as little as six months. An attorney can help make sure evidence is preserved and deadlines aren't missed."
+      },
+      {
+        "title": "Comparative Fault Can Reduce Your Recovery",
+        "desc": "California follows a pure comparative fault rule, meaning your compensation can be reduced by your percentage of fault — even a recorded statement to an insurer can be used to argue you were partly at fault. An attorney can advise you before you say anything on the record."
+      },
+      {
+        "title": "No Cap, No Upfront Cost",
+        "desc": "California places no cap on non-economic damages like pain and suffering, and attorneys in our network work on contingency, so there's no fee unless there's a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was in a crash near Western Avenue and Lomita Boulevard — what should I do first?",
+        "answer": "Seek medical attention even if injuries seem minor, since some symptoms show up later. Try to document the scene with photos and get contact information for witnesses if you're able. Avoid giving a recorded statement to the other driver's insurer before speaking with an attorney, since anything you say could be used to reduce your claim."
+      },
+      {
+        "question": "How long do I have to file a car accident claim in California?",
+        "answer": "Generally, you have two years from the date of the crash to file a personal injury lawsuit. If a government vehicle or agency was involved — for example, a city or county vehicle — the notice period can be as short as six months, so it's important to act quickly."
+      },
+      {
+        "question": "What does it cost to speak with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and the independent attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no obligation to move forward after your initial conversation."
+      }
+    ]
+  }
+}

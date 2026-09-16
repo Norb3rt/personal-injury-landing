@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "daly-city car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Daly City Car Accident Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a Daly City car crash? LawProactive connects you free with an independent California injury attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Whether it happened on I-280, Mission Street, or a side street off John Daly Boulevard, a Daly City car crash leaves you with questions you should not have to answer alone. We connect you, at no cost, with an independent attorney who takes it from there."
+  },
+  "about": {
+    "title": "Daly City Car Accident Claims",
+    "longDescription": "Daly City sits right where San Francisco traffic spills into San Mateo County, and the collision records reflect that volume. In 2025, the city logged 257 injury collisions, with 336 people hurt and one life lost. The highest counts show up along I-280, Mission Street, John Daly Boulevard, and Junipero Serra Boulevard, and reports tend to cluster on Friday evenings between 6 and 8 p.m. If one of those crashes was yours, the days after can feel like a second collision: calls from adjusters, paperwork, and a body that is not healing on your schedule. LawProactive exists to take one task off that list. We are not a law firm. We are a free service that connects you with an independent California attorney who handles car accident claims on contingency, meaning no fee unless there is a recovery. You tell us what happened. We make the connection. The attorney handles the insurer, the evidence, and the deadlines so you can focus on getting better.",
+    "commonInjuriesTitle": "Injuries Often Reported After Daly City Car Crashes",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussion and other head trauma",
+      "Back and spinal disc injuries",
+      "Broken ribs, wrists, and collarbones",
+      "Knee and shoulder damage from impact",
+      "Cuts and bruising from airbags or glass"
+    ],
+    "ctaText": "Tell us about your crash and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Daly City Drivers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines are tracked, not guessed",
+        "desc": "California generally allows two years to file a car accident claim, but if a city, county, or state vehicle was involved, that window can shrink to six months. The attorney you are connected with sorts out which clock applies to you right away."
+      },
+      {
+        "title": "Partial blame does not close the door",
+        "desc": "Under California's pure comparative fault rule, you can still recover even if you share some responsibility for the crash; your recovery is reduced by your share. An attorney can push back when an insurer tries to inflate your percentage."
+      },
+      {
+        "title": "No recorded statements, no upfront fees",
+        "desc": "The other driver's insurer may call within days asking for a recorded account, and you are not required to give one. Attorneys in our network handle that contact for you and work on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My crash happened on I-280 near the Daly City and San Francisco line. Does it matter which side I was on?",
+        "answer": "It can. The location affects which law enforcement agency wrote the report, where records are kept, and which county court would hear a case if one is ever filed. An attorney can pull the report and determine whether the collision falls under San Mateo County or San Francisco, then proceed accordingly. Either way, the two-year California deadline still applies to a claim against a private driver."
+      },
+      {
+        "question": "What should I do with my car and phone photos after a Daly City accident?",
+        "answer": "Keep everything. Do not authorize repairs or let the vehicle go to salvage until an attorney has had a chance to document the damage, and back up any photos or dashcam footage you captured at the scene. Save the names of witnesses and any texts you exchanged with the other driver. Evidence along busy corridors like Mission Street or Junipero Serra Boulevard can disappear quickly once traffic resumes."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering in California?",
+        "answer": "For an ordinary car accident claim against another driver, California does not cap non-economic damages such as pain, suffering, or loss of enjoyment of life. The amount depends on the specific facts, your medical records, and how the injury affects your daily routine. An attorney can explain what your situation may support, but no one can promise a particular result."
+      }
+    ]
+  }
+}

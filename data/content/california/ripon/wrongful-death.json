@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "wrongful-death",
+    "note": "ripon wrongful-death silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ripon Wrongful Death Claims Help | LawProactive",
+    "metaDescription": "Free connection to an independent wrongful death attorney serving Ripon families in San Joaquin County. No fee unless there's a recovery."
+  },
+  "hero": {
+    "subtitle": "When a fatal crash on SR-99 or a Ripon roadway takes someone you love, LawProactive can connect your family with an independent wrongful death attorney at no upfront cost.  We help you find guidance during an unimaginably hard time."
+  },
+  "about": {
+    "title": "Ripon Wrongful Death Claims",
+    "longDescription": "Losing a family member in a collision on N Jack Tone Road, W Main Street, or SR-99 changes everything, and it happens even when official injury counts (49 collisions and 64 people hurt in the most recent reported year) show no recorded traffic deaths for Ripon that year — a stark reminder that fatal outcomes can shift year to year with little warning. If your family is now facing this loss, California law gives certain surviving spouses, domestic partners, children, and other dependents the right to bring a wrongful death claim. This is a civil matter, entirely separate from any criminal charges connected to the crash, and it exists to help address funeral costs, lost financial support, and the loss of a loved one's guidance and companionship. LawProactive doesn't practice law ourselves; we simply connect Ripon families with an independent attorney who can explain your options, listen to what happened, and help you understand the path forward. There's no cost to you unless your case results in a recovery.",
+    "commonInjuriesTitle": "Fatal Crash Circumstances We Hear About",
+    "commonInjuries": [
+      "Intersection collisions along SR-99 corridors",
+      "Friday evening rush-hour crashes (4–6 p.m.)",
+      "Collisions involving turning vehicles on Jack Tone Road",
+      "Head-on crashes on rural approach roads near town",
+      "Pedestrian or bicyclist fatalities near W Main Street",
+      "Multi-vehicle chain-reaction crashes on state highways"
+    ],
+    "ctaText": "Reach out for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Ripon Families Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Who Can File",
+        "desc": "California limits who may bring a wrongful death claim, generally starting with a spouse, domestic partner, or children before other dependents. An independent attorney can help clarify where your family stands."
+      },
+      {
+        "title": "Time Limits Matter",
+        "desc": "California generally allows two years from the date of death to file a wrongful death claim, though claims against a government entity carry a much shorter deadline. Acting sooner rather than later preserves your options."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning there's no upfront cost and no fee unless your family recovers compensation for funeral costs, lost support, or loss of companionship."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Who is allowed to file a wrongful death claim in California?",
+        "answer": "Typically, a surviving spouse, domestic partner, or children have the first right to file. If none exist, other dependents or heirs may be eligible under California law. An independent attorney can review your specific family situation to confirm standing."
+      },
+      {
+        "question": "Is a wrongful death claim connected to any criminal case?",
+        "answer": "No, a wrongful death claim is a separate civil action, even if criminal charges are also filed against the driver involved. The two proceedings run independently, with different standards and different outcomes."
+      },
+      {
+        "question": "Why does Ripon show injury crashes but no reported deaths in the recent count?",
+        "answer": "Crash data is reported by year, and Ripon's most recent final year recorded 49 injury collisions and 64 people injured with zero traffic deaths logged for that period. That doesn't mean fatal collisions never occur here; it simply reflects that specific year's public record, and circumstances can change from one year to the next."
+      }
+    ]
+  }
+}

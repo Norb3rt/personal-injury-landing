@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "los-altos medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Altos Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Los Altos? Get connected free to an independent CA medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or medication error at a Los Altos or Santa Clara County medical facility goes wrong, sorting out what happened can feel overwhelming. LawProactive connects you, at no cost, with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Los Altos Medical Malpractice Claims",
+    "longDescription": "Los Altos residents rely on nearby Santa Clara County hospitals, surgical centers, and specialist clinics for care, and most of that care goes as expected. But when a provider misses a diagnosis, makes a surgical error, or mishandles medication, the consequences can follow a patient for years. California law treats these cases differently than a typical injury claim — MICRA sets strict notice and filing deadlines, and it caps non-economic damages, though that cap rises annually. Because expert medical testimony is almost always required to show a departure from the accepted standard of care, these claims call for careful, early preparation. A bad medical outcome by itself doesn't establish malpractice; what matters is whether the care fell below what a reasonably careful provider would have given. LawProactive doesn't practice law — we simply connect Los Altos patients and families with an independent attorney who can evaluate the medical records and explain the options, free of charge and with no obligation.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect You About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Get matched with an independent malpractice attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Los Altos Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand MICRA's Tight Timeline",
+        "desc": "California generally requires notice within 90 days before filing, plus a claim within one year of discovering the injury and no more than three years from when it occurred. An attorney can help make sure that clock doesn't run out unnoticed."
+      },
+      {
+        "title": "We Connect You With Attorneys Who Work With Medical Experts",
+        "desc": "Because a qualified medical expert is almost always required to prove a malpractice claim in California, it helps to have an attorney experienced in lining up the right expert review early."
+      },
+      {
+        "title": "We Explain the Damages Cap Honestly",
+        "desc": "California's cap on non-economic damages rises each year under MICRA, and an independent attorney can walk you through how that affects your specific situation — without promising any particular result."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery near Los Altos — does that mean malpractice happened?",
+        "answer": "Not necessarily. California law requires showing that a provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney can review your records to help determine whether the care itself was the problem."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it happened. There's also a required 90-day pre-suit notice before filing a lawsuit. These deadlines are strict, so it's worth getting guidance sooner rather than later."
+      },
+      {
+        "question": "Which Santa Clara County hospitals or clinics does this cover if I live in Los Altos?",
+        "answer": "LawProactive can help connect you regardless of which Santa Clara County facility or provider was involved, whether that's a hospital, urgent care, or specialist office near Los Altos. The independent attorney you're matched with will review the specific facts of your care."
+      },
+      {
+        "question": "Is there a cost to find out if I have a case?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. There's no obligation to move forward after speaking with an attorney."
+      }
+    ]
+  }
+}

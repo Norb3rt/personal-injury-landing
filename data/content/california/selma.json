@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "selma city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Selma, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Selma or Fresno County? Free, no-obligation connection to an attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Floral Avenue or another collision anywhere in Fresno County, we'll connect you with an independent attorney at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in Selma, California",
+    "longDescription": "Selma sits along some busy stretches of road, and public crash records show real activity on corridors like Floral Avenue, Highland Avenue, Mccall Avenue, and Golden State Boulevard. In the most recent full year on record, Fresno County reporting shows 41 injury collisions in and around Selma, with 60 people hurt — thankfully with zero traffic deaths recorded that year. If you were one of those 60 people, or you're dealing with a more recent crash, you probably have questions about medical bills, missed work, and what happens next. LawProactive is a free service — we are not a law firm, and we don't charge you anything to use it. What we do is connect people who've been hurt with an independent personal injury attorney who can look at the specifics of a case. Any attorney matched through our service works on contingency, meaning there's no fee unless there's a recovery. You focus on getting better; let someone with legal experience sort through the rest. Reaching out costs nothing and doesn't commit you to anything.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out if you have a case — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity is involved. Waiting can cost you your right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover compensation — it's just reduced by your share of fault. An attorney can help make sure that share is calculated fairly."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages — like pain and suffering — in a typical injury case. That matters when an injury affects your daily life beyond just medical bills."
+      },
+      {
+        "title": "You Don't Pay Unless You Win",
+        "desc": "Attorneys in our network work on contingency, meaning their fee comes only from a recovery, if there is one. There's no upfront cost to find out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know how to cover them",
+      "I'm missing paychecks while I can't work",
+      "The insurance company keeps calling and I'm not sure what to say",
+      "I don't know if I even have a case worth pursuing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to use LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney — we're not a law firm and we don't charge fees. If you're matched with an attorney, they typically work on contingency, so they only get paid if you recover compensation."
+      },
+      {
+        "question": "How long do I have to file a claim after a crash in Selma?",
+        "answer": "In most California injury cases you have two years from the date of the incident to file a lawsuit. That period can be much shorter, sometimes just six months, if your claim involves a city, county, or other government entity, so it's worth getting information early."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Selma?",
+        "answer": "Public crash records show collision activity concentrated along corridors like Floral Avenue, Highland Avenue, Mccall Avenue, and Golden State Boulevard, with reports tending to peak on Fridays between 3 and 5 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some responsibility for the crash. Your recovery would simply be reduced by your percentage of fault, rather than being blocked entirely."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. Reaching out through LawProactive costs nothing, and attorneys in our network generally take injury cases on contingency, meaning fees come only from a recovery if one happens. There's no obligation to move forward after an initial conversation."
+      }
+    ]
+  }
+}

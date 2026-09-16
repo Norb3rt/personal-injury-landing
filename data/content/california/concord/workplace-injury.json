@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "concord workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Lawyer in Concord, CA | LawProactive",
+    "metaDescription": "Hurt on the job in Concord? LawProactive is a free service that connects you with an independent attorney to review workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Concord, whether on a job site, in a warehouse, or behind the wheel on SR-4? We connect you, for free, with an independent attorney who can explain what workers' compensation covers and whether a separate claim exists."
+  },
+  "about": {
+    "title": "Concord Workplace Injury Claims",
+    "longDescription": "Concord's workforce spreads across warehouses, medical offices, retail along Clayton Road and Willow Pass Road, construction sites, and delivery routes that run up SR-242 and out along SR-4. When a workday ends in an injury, the first question most people ask is simple: who covers this? In California, the answer usually starts with workers' compensation. It pays for medical care and part of your lost wages no matter who was at fault, and in exchange you generally cannot sue your employer directly. But if someone other than your employer contributed to what happened, such as a subcontractor on a Concord job site, the owner of the property where you were working, the maker of a tool that failed, or another driver who struck your work vehicle, a separate third-party claim may be available alongside comp. Concord recorded 481 injury collisions in 2025, and some of those involved people simply doing their jobs. LawProactive costs nothing to use. We connect you with an independent attorney who can sort out which paths apply to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Concord",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and loading docks",
+      "Back and shoulder strains from lifting or repetitive motion",
+      "Crush and pinch injuries from machinery or equipment",
+      "Injuries from work-vehicle collisions on SR-4, SR-242, and local routes",
+      "Burns, chemical exposure, and electrical shock",
+      "Head injuries from falling objects or slips on job sites"
+    ],
+    "ctaText": "Tell us what happened at work. The connection is free, and the attorney only gets paid if you recover."
+  },
+  "whyChoose": {
+    "title": "Why Concord Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look past workers' comp",
+        "desc": "Comp is usually your only remedy against your employer, but it does not shield a negligent subcontractor, property owner, equipment maker, or driver. The attorneys we connect you with check for both."
+      },
+      {
+        "title": "Deadlines are watched closely",
+        "desc": "You have 30 days to report the injury to your employer, and any third-party claim carries a two-year filing limit. An early conversation keeps both clocks from becoming a problem."
+      },
+      {
+        "title": "Retaliation is not something you have to accept",
+        "desc": "California law makes it illegal for an employer to punish you for reporting an injury or filing a claim. If that is happening, the attorney can address it as part of your case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver while making deliveries on SR-4 in Concord. Is that just workers' comp?",
+        "answer": "Not necessarily. Because you were working, workers' compensation should cover your medical treatment and part of your lost wages regardless of fault. The other driver, though, is a third party, so you may also have a separate injury claim against them, which comp does not replace. An attorney can review the collision report and explain how the two interact."
+      },
+      {
+        "question": "I did not report my injury right away. Have I lost my rights?",
+        "answer": "California asks you to report a work injury to your employer within 30 days, so doing it now, in writing, is the right move. A late report can complicate a comp claim but does not automatically end it. Any third-party claim runs on its own two-year deadline, which is separate from the reporting rule."
+      },
+      {
+        "question": "Can my employer fire me or cut my hours for filing a claim?",
+        "answer": "No. Retaliating against a worker for reporting an injury or pursuing workers' compensation is illegal in California. If you notice a change in treatment after you spoke up, keep notes and dates, because that conduct can become part of your case. LawProactive can connect you with an attorney to talk it through at no cost."
+      }
+    ]
+  }
+}

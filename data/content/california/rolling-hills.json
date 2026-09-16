@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "rolling-hills city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rolling Hills, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Rolling Hills? Free connection to an LA County attorney. 2-year deadline to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car collision or another type of accident on Rolling Hills roads, we can connect you with an independent attorney at no cost, serving all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Rolling Hills, California",
+    "longDescription": "Rolling Hills is a small, quiet community, but its winding roads still see collisions that leave residents hurt and uncertain about next steps. Public records show corridors like Crenshaw Boulevard, Crest Road West, Pathfinder Road, and the 900 block of Silver Spur Road carry the community's higher collision counts, with the most recent full year showing 1 injury collision and 1 person injured. Even a single crash can upend daily life — medical visits, missed work, and calls from insurance adjusters can pile up fast. LawProactive is a free service that helps injured people in Rolling Hills connect with an independent personal injury attorney; we are not a law firm and we don't handle your case ourselves. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. If you were hurt near Crest Road West, on Pathfinder Road, or anywhere else in town, reaching out costs nothing and can help you understand your options before time limits or paperwork become a bigger problem.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Act Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "California law generally gives you two years from the date of injury to file a personal injury claim. That window can shrink to as little as six months if a government entity, like a public road authority, is involved."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and emotional distress. That means your compensation isn't artificially capped by a statutory ceiling."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money on your behalf. That structure lets you pursue a claim without paying out of pocket first."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters to settle quickly",
+      "Not knowing if you waited too long or missed a deadline",
+      "Fearing you'll be blamed for an accident that wasn't fully your fault"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Rolling Hills?",
+        "answer": "Under California law, you generally have two years from the date of the accident to file a personal injury lawsuit. If your claim involves a government entity or public road, that deadline can be as short as six months, so it's wise to act early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, so being partially at fault doesn't bar you from recovering compensation. Your total award is simply reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Rolling Hills?",
+        "answer": "Public collision records show that Crenshaw Boulevard, Crest Road West, Pathfinder Road, and the 900 block of Silver Spur Road have the higher recorded collision counts in town. These are neutral public-record figures, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "No. In standard personal injury cases, California does not cap non-economic damages such as pain and suffering. Your recovery depends on the specifics of your case, not a statutory limit."
+      },
+      {
+        "question": "Will I have to pay anything upfront to get help?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network work on a contingency basis. That means there's no fee unless they recover compensation for you."
+      }
+    ]
+  }
+}

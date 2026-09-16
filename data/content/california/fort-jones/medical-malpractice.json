@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "fort-jones medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fort Jones Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error near Fort Jones? Get connected free to an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When medical care in or around Fort Jones goes wrong, sorting out what happened can feel isolating in a small Siskiyou County community. LawProactive can connect you at no cost with an independent attorney who understands California's malpractice rules."
+  },
+  "about": {
+    "title": "Fort Jones Medical Malpractice Claims",
+    "longDescription": "Fort Jones sits in a rural stretch of Siskiyou County, where residents often travel some distance for hospital care, specialists, or surgical procedures. When a diagnosis is missed, a medication is mishandled, or a treatment decision causes harm, families are frequently left with more questions than answers. California law treats medical malpractice claims differently than typical injury cases — there are shorter notice windows, specific expert requirements, and caps that adjust over time. LawProactive doesn't practice law or handle your case directly; instead, we connect people in Fort Jones with an independent attorney in our network who can review the medical records, evaluate whether the care fell below an accepted standard, and explain what options may exist. There's no cost to start a conversation, and no obligation to move forward. A bad medical outcome by itself isn't proof of malpractice, which is exactly why a qualified review matters before any conclusions are drawn.",
+    "commonInjuriesTitle": "Situations Attorneys in Our Network Commonly Review",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on abnormal results"
+    ],
+    "ctaText": "Ask about your situation — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What Fort Jones Families Should Know About California Malpractice Law",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally gives one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim. Missing these windows can end a case regardless of its merits."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can even be filed, California law requires a 90-day pre-suit notice to the healthcare provider. An attorney familiar with this process can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California nearly always requires a qualified medical expert to establish that care fell below an accepted standard. This is part of why an early, honest evaluation matters before assuming a bad outcome equals malpractice."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Fort Jones but received treatment at a hospital outside Siskiyou County. Does that matter?",
+        "answer": "Not necessarily — what matters most is where the care was provided and where the harm occurred, not where you live. An attorney can sort out the right jurisdiction and venue once they understand the details of your treatment and travel history."
+      },
+      {
+        "question": "How long do I actually have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from when it happened. There's also a required 90-day notice period before filing suit, so acting sooner rather than later is important."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "California does cap non-economic damages in malpractice cases, though that cap rises each year under current law. Economic losses, like medical bills and lost income, are generally handled separately from that cap — an attorney can walk through how this applies to your situation."
+      }
+    ]
+  }
+}

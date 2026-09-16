@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "davis slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Davis Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Davis, CA? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Davis store, apartment complex, or downtown sidewalk near 5th Street can leave you with injuries and unanswered questions. LawProactive connects you at no cost with an independent attorney who handles premises liability cases in Yolo County."
+  },
+  "about": {
+    "title": "Davis Slip & Fall Claims",
+    "longDescription": "Davis blends a busy college-town core with quiet residential streets, and property hazards show up in both settings — a wet floor in a downtown Davis shop, a broken stair rail at student housing near campus, or uneven pavement along Russell Boulevard. When a property owner fails to address a hazard they knew about, or should have known about, California law may allow an injured person to seek compensation. These cases hinge on proof: photos of the hazard, witness statements, and especially surveillance footage before it gets erased. LawProactive doesn't practice law ourselves — we're a free connection service that matches Davis residents and visitors with an independent attorney experienced in premises liability. If you were hurt on someone else's property in Yolo County, reaching out early can help preserve the evidence your claim may need. There's no cost to get connected, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries From Falls",
+    "commonInjuries": [
+      "Broken wrists and hip fractures",
+      "Traumatic brain injury from a head strike",
+      "Torn ligaments and knee injuries",
+      "Spinal disc injuries and back strain",
+      "Shoulder dislocations from bracing a fall",
+      "Cuts and lacerations from broken surfaces"
+    ],
+    "ctaText": "Get connected with an independent Davis premises liability attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Davis Fall",
+    "items": [
+      {
+        "title": "Proving Notice Takes Work",
+        "desc": "California requires showing the property owner knew or reasonably should have known about the hazard. An attorney can help gather maintenance logs, prior complaints, and inspection records to build that picture."
+      },
+      {
+        "title": "Video Disappears Fast",
+        "desc": "Many Davis businesses overwrite surveillance footage within days or weeks. Acting quickly can make the difference between having that footage available or losing it permanently."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Bar, Your Claim",
+        "desc": "Even if you were partly distracted or moving quickly when you fell, California's pure comparative fault rule generally still allows recovery for the other party's share of responsibility."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Davis?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit. If the property involved is government-owned, such as a UC Davis facility or a City of Davis building, the deadline to act is much shorter and requires an administrative claim first. It's best to talk with an attorney as soon as possible to avoid missing a cutoff."
+      },
+      {
+        "question": "What if I fell at a store near downtown Davis and no one saw it happen?",
+        "answer": "You don't need a witness for a valid claim, but documentation helps. Taking photos of the hazard, noting the time, and reporting it to store management right away can support your case even without a bystander present."
+      },
+      {
+        "question": "Does it matter if I was partly at fault for the fall?",
+        "answer": "Not necessarily. California follows a pure comparative fault rule, meaning you can still pursue compensation even if you share some responsibility — your recovery is simply adjusted based on your percentage of fault. An independent attorney can help evaluate how fault might apply to your specific situation."
+      }
+    ]
+  }
+}

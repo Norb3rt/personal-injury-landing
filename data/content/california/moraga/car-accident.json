@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "moraga car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Moraga Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Moraga car accident? LawProactive connects you free with an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Moraga Road, Canyon Road, or Moraga Way left you hurt, LawProactive can connect you with an independent personal injury attorney at no cost to you."
+  },
+  "about": {
+    "title": "Moraga Car Accident Claims",
+    "longDescription": "Moraga's collisions tend to cluster on a handful of familiar corridors: Moraga Road, Canyon Road, Moraga Way, and Saint Marys Road, with reports peaking on Monday afternoons between 3 and 5 p.m. Even in a small community like this one, with roughly four injury collisions and seven people hurt in the most recent year on record, the aftermath of a crash can be disorienting. There are medical appointments, insurance calls, missed work, and a claims process that moves quickly whether or not you're ready. LawProactive doesn't practice law or handle your case directly. Instead, we connect you, free of charge, with an independent attorney in California who can review what happened, explain your options under California law, and help you avoid common missteps early on, like giving a recorded statement to an insurer before you understand your rights.",
+    "commonInjuriesTitle": "Injuries We Commonly See Referred",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Fractured bones",
+      "Back and spinal injuries",
+      "Shoulder and knee ligament damage",
+      "Cuts, bruising, and soft-tissue trauma"
+    ],
+    "ctaText": "Get connected with an independent attorney, free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "California's Filing Clock Is Shorter Than You Think",
+        "desc": "You generally have two years to file a personal injury claim in California, but that window can shrink to as little as six months if a government entity, like a public road authority, is involved. An attorney can help you figure out which deadline applies to your situation."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You Fast",
+        "desc": "California follows a pure comparative fault rule, meaning your compensation can be reduced by whatever percentage of fault gets assigned to you. Insurers know this and often try to get you talking early, before you understand how fault will actually be assessed."
+      },
+      {
+        "title": "No Cap on Pain and Suffering, No Upfront Cost to You",
+        "desc": "California places no cap on non-economic damages like pain and suffering in most car accident cases, and attorneys in our network work on contingency, so there's no fee unless you recover. That means getting advice costs you nothing out of pocket."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I really need an attorney for a Moraga car accident?",
+        "answer": "Not every fender-bender requires one, but if you were injured, an insurer will often try to settle quickly and for less than your claim may be worth. Speaking with an independent attorney costs nothing through LawProactive, and it can help you understand what your claim actually involves before you sign anything."
+      },
+      {
+        "question": "Why does the Monday afternoon crash pattern in Moraga matter?",
+        "answer": "Public crash records show Moraga collisions tend to peak on Mondays between 3 and 5 p.m., often tied to school pickup and commute traffic on roads like Moraga Road and Moraga Way. This pattern doesn't change your legal rights, but it can help an attorney understand the traffic conditions and evidence, like signal timing or witness availability, relevant to your case."
+      },
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement until you've spoken with an attorney, since insurers often use those statements to minimize claims later. An independent attorney can advise you on what, if anything, to say, and help make sure evidence from the scene is preserved before it's lost."
+      }
+    ]
+  }
+}

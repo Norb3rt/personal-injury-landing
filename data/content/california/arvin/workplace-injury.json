@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "arvin workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Arvin Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Arvin? Free connection to an independent attorney who handles third-party workplace injury claims in Kern County."
+  },
+  "hero": {
+    "subtitle": "Ag work, warehousing, and roadwork keep Arvin busy, and injuries on the job happen more than folks talk about. If a subcontractor, equipment maker, or another party outside your employer played a role, we can connect you with an attorney who'll look into it at no cost to you."
+  },
+  "about": {
+    "title": "Arvin Workplace Injury Claims",
+    "longDescription": "Arvin's economy runs on farm labor, packing houses, and the trucking that moves everything along Bear Mountain Boulevard and Tejon Highway. Workers here face real risks from heavy machinery, ladders, moving vehicles, and long hours in the heat. When you're hurt on the job, California usually routes your claim through workers' compensation regardless of who was at fault — that's the exclusive remedy against your employer in most cases. But workers' comp doesn't always tell the whole story. If a piece of rented equipment failed, a subcontractor's crew created the hazard, or a delivery driver caused your injury, you may have a separate claim against that third party. LawProactive doesn't practice law — we're a free service that connects injured workers in Arvin with an independent attorney who can sort out whether a third-party claim applies to your situation, alongside whatever comp process you're already navigating.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from malfunctioning farm or packing equipment",
+      "Being struck by forklifts, trucks, or moving vehicles on-site",
+      "Repetitive strain and overexertion injuries",
+      "Chemical or pesticide exposure incidents",
+      "Injuries caused by subcontractor negligence on a job site"
+    ],
+    "ctaText": "Talk to someone about your workplace injury claim — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "Why Arvin Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle Comp vs. Third-Party Claims",
+        "desc": "Workers' comp is usually your only remedy against your employer, but a negligent third party — like an equipment manufacturer or subcontractor — can open a separate path to compensation. An attorney can help you figure out if that applies to your case."
+      },
+      {
+        "title": "We Understand the 30-Day Reporting Window",
+        "desc": "California requires you to report a workplace injury to your employer within 30 days to protect your comp rights. If you're past that window or unsure how it was handled, an attorney can help you understand your options."
+      },
+      {
+        "title": "We Know Retaliation Is Illegal — and What to Do About It",
+        "desc": "If you've faced pushback, reduced hours, or termination after reporting an injury, that's against California law. The attorney we connect you with can evaluate whether retaliation played a role in what happened to you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a farm equipment job near Comanche Drive — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' comp is your primary route against your employer, regardless of fault. But if the injury involved defective equipment, a rental company, or a subcontractor's crew, you may also have a separate third-party claim. An attorney can review the details and tell you which paths are open."
+      },
+      {
+        "question": "How long do I have to bring a claim if a third party caused my injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the injury. This is separate from your workers' comp reporting requirements, so it's worth getting clarity on both timelines early."
+      },
+      {
+        "question": "Can my employer retaliate against me for reporting an injury?",
+        "answer": "No — retaliation for reporting a workplace injury is illegal under California law. If you've experienced demotion, reduced hours, or termination tied to your injury report, an attorney can look into whether your rights were violated."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service — we're not a law firm, and we don't charge you to make a connection. Attorneys in our network typically work on contingency, meaning there's no fee unless your case results in a recovery."
+      }
+    ]
+  }
+}

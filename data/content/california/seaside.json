@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "seaside city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Seaside, CA Injury Claim Help | Free Attorney Match",
+    "metaDescription": "Injured in Seaside? Monterey County residents get 2 years to file. Connect free with an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a Fremont Boulevard collision or a broken bone from a fall, we'll connect you with an independent attorney at no cost, serving people throughout Monterey County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Seaside, California",
+    "longDescription": "Seaside is a compact coastal city, but its streets still see their share of collisions. In the most recent full year on record, 88 injury collisions left 114 people hurt on local roads — thankfully with zero traffic deaths reported that year. Corridors like Fremont Boulevard, Del Monte Boulevard, Broadway Avenue, and Noche Buena Street show up repeatedly in public collision records, and Friday afternoons between 5 and 7 p.m. tend to be when reports cluster. If you were hurt in a crash on one of these roads, or anywhere else in Seaside, sorting out medical bills, insurance calls, and missed work can feel like a full-time job on top of recovering. LawProactive is a free service — we are not a law firm — that connects injured people with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk, and attorneys in our network only get paid if you recover compensation. You don't have to figure this out by yourself, and reaching out costs nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries requiring physical therapy"
+    ],
+    "ctaText": "Tell us what happened — connecting you with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity is involved, that window can shrink to as little as six months, so it helps to act sooner rather than later."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means compensation isn't limited to just medical bills and lost wages."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. This lets you get legal help without worrying about hourly rates or retainers."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about who will pay the medical bills piling up",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if missed paychecks can be recovered",
+      "Fear that being partly at fault means no compensation at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and the initial conversation costs you nothing. If you decide to move forward, attorneys in our network work on contingency, so there's no fee unless you recover compensation."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Seaside?",
+        "answer": "In most personal injury cases, California law gives you two years from the date of the accident to file a claim. If your injury involved a government entity or property, that deadline can be as short as six months, so it's best not to wait to look into your options."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still pursue compensation even if you share some blame. Your total recovery would be reduced by your percentage of fault, but it wouldn't be barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to happen in Seaside?",
+        "answer": "Public collision records show that Fremont Boulevard, Del Monte Boulevard, Broadway Avenue, and Noche Buena Street have among the higher collision counts in the city, with reports tending to cluster on Friday evenings between 5 and 7 p.m. These are simply neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — in ordinary personal injury cases, California does not cap non-economic damages such as pain and suffering. Your potential recovery depends on the specifics of your case, which an attorney can help evaluate."
+      }
+    ]
+  }
+}

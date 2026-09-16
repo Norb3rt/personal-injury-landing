@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "danville medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Danville Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Danville, CA? LawProactive connects you free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong at a Danville or greater Contra Costa County medical facility, sorting out what happened next can feel overwhelming. LawProactive can connect you at no cost with an independent attorney who handles medical malpractice claims under California law."
+  },
+  "about": {
+    "title": "Danville Medical Malpractice Claims",
+    "longDescription": "Danville residents rely on nearby San Ramon Valley and Contra Costa County medical providers for everything from routine visits to major surgery, and most of that care goes right. But when a provider misses a clear warning sign, makes a surgical error, or mishandles medication, the consequences can follow a patient for years. California treats these cases differently than a typical injury claim — medical malpractice suits fall under MICRA, which sets specific deadlines and requires a qualified medical expert to weigh in before a case can move forward. That doesn't mean a difficult recovery is automatically malpractice; it means the standard of care has to be measured against what a reasonably careful provider would have done. If you're a Danville resident unsure whether what happened to you crosses that line, LawProactive can connect you with an independent attorney, free of charge, who can walk through the details with you and explain your options under California law.",
+    "commonInjuriesTitle": "Injuries We See in Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Hospital-acquired infections from inadequate care"
+    ],
+    "ctaText": "Get connected with an independent Danville-area malpractice attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Move Forward",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives you one year from when you discovered the harm, but never more than three years from the injury itself, to bring a malpractice claim. Missing either window can end a case before it starts, so timing matters early on."
+      },
+      {
+        "title": "A Required Notice Period",
+        "desc": "Before a lawsuit can be filed, California law requires a 90-day written notice to the provider or facility involved. An attorney familiar with this process can help make sure that step doesn't stall your case."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "Because a bad medical outcome isn't automatically malpractice, California generally requires a qualified medical expert to confirm the care fell below an accepted standard. This is a key reason to talk to an attorney who can help arrange that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the harm, but no more than three years from the date of the original injury. There are limited exceptions, so it's worth having a professional look at your specific timeline. Waiting too long can permanently close the door on a claim."
+      },
+      {
+        "question": "Is every bad medical outcome considered malpractice?",
+        "answer": "No. California law recognizes that not every complication or disappointing result means a provider was negligent. Malpractice requires showing the care fell below what a reasonably careful provider would have done, which is why a qualified medical expert typically has to review the case."
+      },
+      {
+        "question": "I live in Danville — does it matter where my treatment happened?",
+        "answer": "What matters most is where the care was provided and which facility or provider was involved, not simply where you live. Many Danville residents receive treatment at facilities throughout Contra Costa County, and an independent attorney can help sort out the right jurisdiction and notice requirements based on where your care took place."
+      },
+      {
+        "question": "What does LawProactive actually do?",
+        "answer": "LawProactive is a free service that connects injured patients with independent attorneys who handle medical malpractice cases — we are not a law firm ourselves. There's no cost to get connected, and attorneys in the network typically work on contingency, meaning no fee unless you recover."
+      }
+    ]
+  }
+}

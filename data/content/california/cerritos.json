@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "cerritos city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Cerritos, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Cerritos? Los Angeles County residents get 2 years to file. Connect free with an independent attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash on SR-91 or suffered a fall or workplace injury, we'll connect you free with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Cerritos, California",
+    "longDescription": "Cerritos sits at a busy crossroads of Los Angeles County, where SR-91 meets I-605 and local arteries like South Street and Artesia Boulevard carry heavy daily traffic. In the most recent year on record, the city logged 316 injury collisions and 407 people injured, including one traffic death. Numbers like these reflect how much driving, commuting, and daily errands happen along these corridors — and how quickly an ordinary trip can turn into a life-altering injury. If you or someone you love was hurt in a crash, a slip-and-fall, or another kind of accident in Cerritos, you don't have to sort out the legal side on your own. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we don't charge you anything to make the connection. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Our goal is simply to make it easier for you to find help while you focus on recovering.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Cuts, bruises, and soft tissue injuries",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Get connected with an attorney today — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Act Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government agency can require notice in as little as six months. Waiting too long can cost you your right to recover."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar Your Claim",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for an accident, you may still recover damages reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no cap on non-economic damages like pain and suffering, so your compensation isn't artificially limited."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning you pay nothing upfront and owe no fee unless there's a settlement or award in your favor."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Fear that admitting any fault means losing the right to compensation",
+      "Not knowing how much time is left to take legal action",
+      "Feeling overwhelmed trying to find the right attorney while recovering"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Cerritos?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a claim. If a government entity is involved, such as a city vehicle, the notice period can be as short as six months, so it's important to act quickly."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault system, meaning you can still recover compensation even if you were partially responsible. Your recovery would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Cerritos?",
+        "answer": "Public records show collision counts are highest along corridors like SR-91, South Street, Artesia Boulevard, and I-605, with reported crashes tending to peak on Friday afternoons between 5 and 7 p.m. These are simply reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no cost or obligation to get connected."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most standard personal injury cases in California, there is no cap on non-economic damages like pain and suffering. This means your compensation reflects the actual impact of your injury rather than an arbitrary limit."
+      }
+    ]
+  }
+}

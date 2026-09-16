@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "rio-vista medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rio Vista Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Rio Vista, CA? Get connected free to an independent Solano County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Rio Vista went wrong, LawProactive can connect you with an independent attorney who handles Solano County medical malpractice claims."
+  },
+  "about": {
+    "title": "Rio Vista Medical Malpractice Claims",
+    "longDescription": "Rio Vista is a small Solano County community, and many residents travel outside the city for surgeries, specialist care, or hospital admissions. When something goes wrong during that care — a missed diagnosis, a medication mix-up, a surgical error — the aftermath can be confusing, especially if the treatment happened at a facility far from home. California law places specific limits on how long you have to act and requires a qualified medical expert to support most claims, which makes early guidance valuable. LawProactive is not a law firm; we're a free service that connects Rio Vista residents with independent attorneys who evaluate whether a case meets California's malpractice standards. A poor medical result by itself doesn't mean malpractice occurred, but if a provider deviated from the accepted standard of care and caused harm, you may have options worth exploring with someone who understands these rules.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Hospital-acquired infections from poor protocols"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Rio Vista Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the MICRA Clock",
+        "desc": "California generally gives you one year from discovering the harm and no more than three years from the injury itself to act, and a 90-day pre-suit notice is often required before filing. Missing these windows can end a claim, so early connection with an attorney matters."
+      },
+      {
+        "title": "Cases Built Around Expert Review",
+        "desc": "Because a qualified medical expert is almost always required to show a provider departed from the accepted standard of care, attorneys in our network work with professionals equipped to evaluate whether your treatment fell short."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys connected through LawProactive work on contingency, meaning there's no fee unless they recover compensation for you — a structure that matters for Rio Vista families weighing the cost of pursuing a claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Rio Vista but was treated at a hospital in another county — does that matter?",
+        "answer": "California's malpractice rules, including the MICRA timelines and expert-review requirement, generally apply based on where the treatment occurred, not where you live. An attorney can sort out jurisdiction details and still represent you even if the care happened outside Solano County."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law requires showing that a provider's care fell below the accepted medical standard and that this deviation caused your harm. A disappointing result on its own, without that breach, typically isn't enough to support a claim."
+      },
+      {
+        "question": "What are California's damage limits in a malpractice case?",
+        "answer": "California caps non-economic damages in medical malpractice cases, and that cap rises each year under current law. Economic damages, like medical bills and lost income, are generally not subject to that same cap, and an attorney can explain how this applies to your situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "ventura workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ventura Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Ventura? LawProactive connects you free with an independent attorney to review workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Ventura, whether at the harbor, on a job site, or driving a route along Telegraph Road? A free connection to an independent attorney can help you understand what workers' comp covers and whether someone outside your employer also owes you."
+  },
+  "about": {
+    "title": "Ventura Workplace Injury Claims",
+    "longDescription": "Work in Ventura takes many shapes. Some people spend their shifts at the harbor, others at job sites along Victoria Avenue or Telephone Road, or behind the wheel making deliveries on Telegraph Road and Harbor Boulevard. When a shift ends in an injury, the first question is usually simple: who covers this? In California, your employer's workers' compensation insurance generally does, no matter who was at fault, and it is normally the only claim you can bring against the employer itself. That is not always the whole story, though. If a subcontractor, a property owner, an equipment manufacturer, or another driver caused the harm, a separate injury claim against that third party may be available alongside your comp benefits. Ventura recorded 725 injury collisions in 2025, with reports tending to cluster on Fridays between 5 and 7 p.m., and some of those involve people on the clock. LawProactive is a free service, not a law firm. We connect you with an independent attorney who can sort out which paths fit your situation.",
+    "commonInjuriesTitle": "Injuries We Commonly See From Ventura Workplaces",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, or loading docks",
+      "Back and shoulder strains from lifting or repetitive motion",
+      "Crush and pinch injuries from machinery or equipment",
+      "Vehicle collisions while driving for work",
+      "Burns, chemical exposure, and respiratory harm",
+      "Slip-and-fall injuries on wet or uneven surfaces"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Ventura Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Two Claims, Not One",
+        "desc": "Workers' comp is usually your only remedy against your employer, but a negligent third party such as a subcontractor, property owner, or equipment maker can face a separate injury claim. An attorney can check whether both apply to you."
+      },
+      {
+        "title": "Deadlines Handled Early",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and third-party claims generally carry a two-year filing deadline. Getting connected quickly keeps those clocks from running out unnoticed."
+      },
+      {
+        "title": "Protection From Retaliation",
+        "desc": "It is illegal for an employer to punish you for reporting an injury or pursuing benefits. Having an independent attorney in your corner makes it easier to push back if that happens."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver while making deliveries on Harbor Boulevard for work. Is that only a workers' comp case?",
+        "answer": "Not necessarily. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of fault. Since the other driver is a third party, you may also have a separate injury claim against them, which can cover losses comp does not. An attorney can review both together."
+      },
+      {
+        "question": "Can my employer fire me for filing a workers' comp claim in Ventura?",
+        "answer": "No. Retaliating against an employee for reporting a work injury or seeking benefits is illegal in California. If you are demoted, cut from the schedule, or let go after a claim, tell the attorney you are connected with right away so it can be addressed."
+      },
+      {
+        "question": "What does it cost to use LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, not a law firm, and there is no charge to be matched with an independent attorney. The attorneys in our network work on contingency, which means no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

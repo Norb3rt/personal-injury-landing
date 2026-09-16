@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "palm-springs city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Palm Springs, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Palm Springs? Connect free with an independent Riverside County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Ramon Road or a fall somewhere in town, we'll connect you free of charge with an independent attorney serving Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Palm Springs, California",
+    "longDescription": "Palm Springs sees its share of everyday traffic trouble. In the most recent full year on record, the city logged 268 injury collisions, with 390 people hurt and 8 lives lost on local streets. Corridors like Ramon Road, Rt 111, Indian Canyon Drive N, and Sr 111 (Gene Autry Trail) carry heavy public-record collision counts, and reports tend to cluster on Fridays between 3 and 5 p.m., when tourist traffic, commuters, and weekend errands all converge at once. If you were hurt in one of these incidents, or in a fall, dog bite, or other accident somewhere else in the city, sorting out what comes next while you're still recovering physically can feel like too much. LawProactive is a free service — we are not a law firm — that connects injured people in Palm Springs with an independent personal injury attorney who can look at what happened and explain your options. There's no cost to talk it through, and the attorneys in our network work on contingency, meaning no fee unless you recover. You focus on getting better; let someone else sort through the paperwork.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Broken bones and fractures",
+      "Whiplash and neck injuries",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Cuts, bruises, and soft-tissue injuries",
+      "Dislocated joints"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, but that window can shrink to as little as six months if a government entity is involved. Talking to someone early helps make sure you don't miss it."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you share some blame for what happened — your share of fault simply reduces, rather than eliminates, your recovery."
+      },
+      {
+        "title": "No Cap on Everyday Suffering",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in ordinary injury cases, so the impact an injury has on your daily life can be part of the conversation."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, meaning their fee comes only from money recovered on your behalf — nothing out of pocket to start."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worried about medical bills piling up while you're out of work",
+      "Not sure if you waited too long to do anything about it",
+      "Confused about whether the accident was partly your fault",
+      "Afraid an attorney will cost money you don't have right now"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Palm Springs?",
+        "answer": "California generally allows two years from the date of injury to file most personal injury claims. If a government entity or vehicle is involved, that deadline can be as short as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows pure comparative fault, which means you can still recover compensation even if you were partly at fault. Your share of responsibility would reduce the amount you might recover, but it wouldn't bar you from pursuing a claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Palm Springs?",
+        "answer": "Public collision records show higher counts along corridors like Ramon Road, Rt 111, Indian Canyon Drive N, and Sr 111 (Gene Autry Trail), with reports tending to peak on Fridays between 3 and 5 p.m. These are simply neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney in our network. We are not a law firm, and there's no cost to you for the connection itself."
+      },
+      {
+        "question": "Will I owe attorney fees if my case doesn't result in a recovery?",
+        "answer": "Attorneys in our network work on contingency, which means their fee is only collected if you receive a recovery. If there's no recovery, you typically owe nothing in attorney fees."
+      }
+    ]
+  }
+}

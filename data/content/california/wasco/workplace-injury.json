@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "wasco workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Wasco Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Wasco? Free connection to an independent attorney for third-party workplace injury claims in Kern County."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Wasco, LawProactive can connect you with an independent attorney at no cost to sort out whether workers' comp or a separate claim against a negligent third party fits your situation."
+  },
+  "about": {
+    "title": "Wasco Workplace Injury Claims",
+    "longDescription": "Wasco's economy runs on agriculture, food processing, and the trucking and delivery routes that connect the town to Rt 46, Rt 43, F Street, and Palm Avenue. That mix means workplace injuries here often involve heavy equipment, delivery vehicles, or contractors working alongside employees on the same job site. Under California law, workers' compensation is usually the only path against your own employer, no matter who was at fault. But when a subcontractor, equipment manufacturer, property owner, or another driver contributed to the accident, a separate injury claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law or handle claims directly — we're a free service that connects injured workers in Wasco with an independent attorney who can look at the facts, explain your options, and help you understand whether a third-party claim applies to your case. There's no fee unless the attorney recovers something for you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Back and spinal injuries from lifting or falls",
+      "Crush injuries from machinery or forklifts",
+      "Injuries from vehicle collisions on the job (delivery, ag transport)",
+      "Repetitive strain injuries from packing or processing lines",
+      "Burns or chemical exposure in agricultural or food processing work",
+      "Fractures from ladder or scaffolding falls"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Wasco Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle Comp vs. Third-Party Claims",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer in California, but a negligent third party — like a subcontractor or equipment maker — can still be held separately liable. An independent attorney can help you figure out which path, or both, apply to your situation."
+      },
+      {
+        "title": "You're Protected From Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury. If you're worried about your job after an incident, an attorney in our network can explain your rights before you decide what to do."
+      },
+      {
+        "title": "We Understand the Reporting Clock is Ticking",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and a separate third-party claim carries its own 2-year deadline. Getting connected quickly with an attorney helps make sure neither window closes on you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I got hurt on a delivery route near Rt 46 in Wasco — is that workers' comp or something else?",
+        "answer": "It could be both, depending on the details. If another driver caused the crash while you were working, you may have a workers' comp claim against your employer and a separate injury claim against the at-fault driver. An independent attorney can look at the specifics of the collision and your job duties to sort out which claims apply."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer in California?",
+        "answer": "California generally requires you to report a workplace injury to your employer within 30 days. Missing that window can complicate your workers' comp claim, so it's worth reporting as soon as you're able, even if the injury seems minor at first."
+      },
+      {
+        "question": "Can I still get compensation if my employer wasn't at fault for my injury?",
+        "answer": "Yes — workers' compensation in California typically doesn't depend on fault, so you may still have a claim even if your employer did nothing wrong. If a third party, like a subcontractor or equipment manufacturer, contributed to your injury, you may also have a separate claim worth exploring alongside your workers' comp benefits."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "sutter-creek car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sutter Creek Car Accident Help | LawProactive",
+    "metaDescription": "Free help finding an independent car accident attorney in Sutter Creek, CA. No fee unless you recover. Connect today."
+  },
+  "hero": {
+    "subtitle": "After a car accident on Ridge Road, Route 49, or Main Street in Sutter Creek, you don't have to sort through insurance calls alone. LawProactive connects you at no cost with an independent attorney who can review what happened."
+  },
+  "about": {
+    "title": "Sutter Creek Car Accident Claims",
+    "longDescription": "Sutter Creek sees fewer crashes than bigger Amador County towns, but recent public records still show 4 injury collisions and 6 people hurt in a single year on local roads. Corridors like Rt-49, Ridge Road, and Main Street carry a mix of local traffic and through-drivers passing between foothill towns, and the numbers show crashes tend to cluster on Tuesday afternoons between 1 and 3 p.m. If you were hurt in one of these collisions, the days right after matter: photos, witness names, and medical records tend to fade or disappear quickly, especially in a small town where repairs happen fast. LawProactive doesn't practice law or charge you anything. We simply connect you with an independent attorney in our network who can look at your situation, explain your options under California law, and help you avoid mistakes with insurance adjusters before you've had a chance to think things through. There's no obligation to move forward, and no fee unless your case results in a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussion or other head injury",
+      "Fractured wrists, ribs, or collarbones",
+      "Back and spinal disc injuries",
+      "Knee or shoulder joint damage",
+      "Cuts and bruising from broken glass or airbags"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to an Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash date to file a personal injury claim in California, but that window can shrink to as little as six months if a government entity — like a county road crew — was involved. An attorney can flag this early so a claim on a road like Ridge Road doesn't get filed too late."
+      },
+      {
+        "title": "Comparative Fault Can Cut Your Recovery",
+        "desc": "California uses pure comparative fault, meaning your compensation can be reduced by whatever percentage you're found responsible for the crash. An independent attorney can help make sure fault isn't assigned to you unfairly before you've even given a statement."
+      },
+      {
+        "title": "Recorded Statements Can Be Used Against You",
+        "desc": "Insurance adjusters often ask for a recorded statement quickly, sometimes before you've seen a doctor or reviewed the crash report. An attorney can advise you on what — if anything — to say, since there's no requirement you speak to the other driver's insurer without guidance."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to give the other driver's insurance company a statement?",
+        "answer": "No, you're not required to give a recorded statement to the other driver's insurer. Anything you say can be used to minimize your claim later. It's generally worth speaking with an independent attorney first, which LawProactive can help arrange at no cost."
+      },
+      {
+        "question": "What if my accident happened on Rt 49 and involved a county-maintained section of road?",
+        "answer": "If a government entity, like Amador County, had a role in road conditions or maintenance, the deadline to file a claim can be much shorter than the usual two years, sometimes just six months. This is why it helps to act quickly and let an attorney sort out who is actually responsible. Waiting to see if injuries improve can cost you this option entirely."
+      },
+      {
+        "question": "Is there a cost to use LawProactive's connection service?",
+        "answer": "No, LawProactive is a free service and we are not a law firm. If we connect you with an independent attorney and you decide to move forward, that attorney typically works on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

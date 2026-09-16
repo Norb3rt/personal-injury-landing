@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "westminster product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Westminster Product Liability Lawyer | LawProactive",
+    "metaDescription": "Hurt by a defective product in Westminster? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When something you bought or used in Westminster fails and leaves you injured, California's strict liability rules may put the responsibility on the companies behind it. We'll connect you, at no cost, with an independent attorney who handles defective product claims."
+  },
+  "about": {
+    "title": "Westminster Product Liability Claims",
+    "longDescription": "A product is supposed to do its job without hurting the person using it. When it doesn't — a space heater that ignites in a Westminster apartment, a tire that separates on Beach Boulevard, a power tool that fails mid-cut — California law puts the weight on the companies that designed, built and sold it, not on you. Under strict liability, you generally don't have to prove the manufacturer was careless. You have to show the product was defective in its design, its manufacturing, or its warnings, and that the defect caused your injury. Westminster is an Orange County city of about 92,114 people, and the goods in its homes and shops pass through manufacturers, distributors and retailers — any of which may share responsibility. LawProactive is a free service, not a law firm. We connect you with an independent product liability attorney who works on contingency, so there is no fee unless there is a recovery. Above all, keep the product, packaging and receipts exactly as they are.",
+    "commonInjuriesTitle": "Injuries Commonly Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from appliances, batteries or chargers that overheat",
+      "Lacerations and amputations from tools or machinery",
+      "Head and spine injuries from failed vehicle parts or restraints",
+      "Poisoning or illness from contaminated food, drugs or supplements",
+      "Fractures from collapsing furniture, ladders or equipment",
+      "Choking and suffocation injuries from unsafe children's products"
+    ],
+    "ctaText": "Tell us what happened and we'll match you with an independent attorney — free."
+  },
+  "whyChoose": {
+    "title": "Why Westminster Residents Use LawProactive for Defective Product Claims",
+    "items": [
+      {
+        "title": "Matched With Attorneys Who Work the Strict Liability Angle",
+        "desc": "California doesn't require you to prove a manufacturer was negligent — only that the product was defective and caused your injury. The attorneys in our network build claims around that standard from day one."
+      },
+      {
+        "title": "Guidance on Preserving the Product Before It's Too Late",
+        "desc": "The item itself is often the strongest piece of evidence in a defect case. You'll be connected with someone who can explain how to keep it, and its packaging, intact and out of the hands of the company that made it."
+      },
+      {
+        "title": "Every Link in the Chain Is Considered",
+        "desc": "Manufacturers, distributors and the Westminster retailer that sold the product may all carry legal responsibility. An independent attorney can sort out who belongs in the claim rather than settling for the easiest target."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag didn't deploy in a crash on Goldenwest Street. Is that a car accident claim or a product liability claim?",
+        "answer": "It can be both. Westminster logged 82 injury collisions in 2025, and when a safety component fails during one of them, the injured person may have a claim against the other driver and a separate strict liability claim against the automaker or parts supplier. Don't let the vehicle be repaired or scrapped until an attorney has had a chance to look at it. The failed part is central to proving the defect."
+      },
+      {
+        "question": "I threw away the box and don't have the receipt. Can I still bring a claim?",
+        "answer": "Often, yes. Bank statements, online order histories and photos can help establish where and when you bought the item. What matters most is the product itself — hold onto it, and don't attempt repairs or send it back to the company. An attorney can help track down the rest."
+      },
+      {
+        "question": "Do I have to prove the manufacturer did something wrong?",
+        "answer": "Generally not under California's strict liability rules. You need to show the product had a design, manufacturing or warning defect and that the defect caused your injury. Whether the company was careful or careless usually isn't the question. That's one reason these claims are handled differently from ordinary negligence cases."
+      }
+    ]
+  }
+}

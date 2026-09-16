@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "voice": "brand-standard (plain-spoken, victim-first)",
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-09-11",
+    "source": "accident-hub + state-laws + city facts",
+    "note": "Bakersfield city page."
+  },
+  "seo": {
+    "metaTitle": "Bakersfield Personal Injury Lawyer | Free Review",
+    "metaDescription": "Injured in Bakersfield? Connect free with a personal injury attorney serving Kern County. California gives you 2 years to file — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Hurt in a crash on Highway 99 or 58, in a fall, or on the job in Bakersfield? We connect you — free — with an independent personal injury attorney who handles Kern County claims. No fee unless you recover."
+  },
+  "about": {
+    "title": "Personal Injury Help in Bakersfield, California",
+    "longDescription": "Bakersfield sits where Highway 99 meets State Route 58 at the south end of the Central Valley, a region built on agriculture, oil and freight — industries that keep the roads and job sites busy and hazardous. Public records logged more than 1,400 injury collisions in the city in 2025, leaving over 2,200 people hurt, with reported crashes tending to peak on Friday evenings. Wide arterials like Union Avenue, White Lane, Panama Lane and Ming Avenue carry heavy local traffic, and high-speed rural highways ring the city. Whatever the cause of your injury, California law gives you rights and a limited time to assert them. LawProactive is a free service that connects injured people in Bakersfield with an independent personal injury attorney who understands how Kern County claims and courts work. We are not a law firm; we match you with counsel. There is never a fee unless your case recovers compensation.",
+    "commonInjuriesTitle": "Injuries we help Bakersfield residents pursue claims for",
+    "commonInjuries": [
+      "Whiplash, neck and back injuries from highway crashes",
+      "Traumatic brain injuries and concussions",
+      "Fractures and crush injuries",
+      "Oilfield and agricultural work injuries",
+      "Spinal cord and disc injuries",
+      "Serious burns, lacerations and scarring"
+    ],
+    "ctaText": "See if you have a case — free"
+  },
+  "whyChoose": {
+    "title": "What Bakersfield injury victims should know",
+    "items": [
+      {
+        "title": "Usually a 2-year deadline",
+        "desc": "California generally gives you two years from the date of injury to file. On high-speed corridors like Highway 99 and SR-58, evidence fades fast."
+      },
+      {
+        "title": "Partial fault still recovers",
+        "desc": "California uses pure comparative fault, so you can recover even if you were partly to blame; your compensation is reduced by your share of fault."
+      },
+      {
+        "title": "Work injuries may have two claims",
+        "desc": "In oilfield, ag and freight work, a negligent third party can create a claim on top of workers' compensation. An attorney can sort out both."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "Most California injury cases place no limit on non-economic damages, so the human toll of your injury can be part of your claim."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Adjusters pushing a fast settlement before you know the damage",
+      "Medical bills and missed paychecks stacking up",
+      "A lowball offer that won't cover long-term care",
+      "Uncertainty about whether you even have a case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Bakersfield?",
+        "answer": "Most California injury claims must be filed within two years of the injury. Claims against a government entity can carry far shorter deadlines — sometimes six months — so consult an attorney promptly."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "You can still recover. Under California's pure comparative fault rule, your damages are reduced by your percentage of responsibility rather than eliminated."
+      },
+      {
+        "question": "I was hurt on an oilfield or farm job — do I have a claim beyond workers' comp?",
+        "answer": "Possibly. If a third party — not your employer — caused the injury, you may have a separate personal injury claim in addition to workers' compensation. An attorney can evaluate both."
+      },
+      {
+        "question": "What does a case review cost?",
+        "answer": "Nothing. The review is free and attorneys in our network work on contingency, so there's no attorney fee unless they recover compensation for you."
+      },
+      {
+        "question": "Where do injury crashes cluster in Bakersfield?",
+        "answer": "Reported-collision records for recent years point to Union Avenue, White Lane, Panama Lane and Ming Avenue, with crashes peaking on Friday evenings. These are public-record counts, not a judgment about any road."
+      }
+    ]
+  }
+}

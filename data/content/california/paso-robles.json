@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "paso-robles city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Paso Robles, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Paso Robles or San Luis Obispo County? Free, no-obligation connection to an attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end crash on US-101 or a broken bone from a fall, we'll connect you with an independent attorney at no cost. Serving injured people throughout San Luis Obispo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Paso Robles, California",
+    "longDescription": "Paso Robles sits at a crossroads of wine-country traffic and daily commuter flow, and that mix shows up in the numbers. In the most recent full year on record, the city saw 131 injury collisions, leaving 175 people hurt and 2 lives lost. Public crash records point to Rt 46E, both directions of US-101, and Creston Road as the corridors that see the highest volume of reported collisions — simply a reflection of how much traffic those roads carry, not a judgment on any location. Collisions here tend to cluster on Friday afternoons between 4 and 6 p.m., when commuter and weekend traffic overlap. If you were injured in a wreck on one of these roads, or anywhere else in Paso Robles, LawProactive can help. We're a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we never charge a fee ourselves. Attorneys in our network work on contingency, meaning there's no cost to you unless your case results in a recovery. Reaching out costs nothing and locks in no obligation.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Reach out today for a free, no-pressure connection to an attorney who can look at your situation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Two-Year Filing Window",
+        "desc": "Most injury claims in California must be filed within two years of the incident. If a government entity was involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you share some blame for the crash, you can still recover compensation — it's just reduced by your percentage of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, which means there's no fee unless they recover money on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if you can still get help because you were partly at fault",
+      "Feeling pressured by an insurance adjuster calling before you've even seen a doctor",
+      "Wondering if it's already too late to do anything about your accident"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Paso Robles?",
+        "answer": "In most cases, California gives you two years from the date of the incident to file a personal injury claim. If your injury involved a government vehicle or entity, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Where do crashes cluster in Paso Robles?",
+        "answer": "Public collision records show that Rt 46E, US-101 (both directions), and Creston Road account for the highest volume of reported crashes in the city. These are simply the roads with the most recorded incidents, not a statement about any particular location being unsafe."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly at fault doesn't bar you from recovering compensation. Your recovery amount would just be reduced by the percentage of fault assigned to you."
+      },
+      {
+        "question": "Is there a cost to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney — we are not a law firm and don't charge any fees ourselves. If you're matched with an attorney, they typically work on contingency, meaning they only get paid if you recover money."
+      },
+      {
+        "question": "What time of week do most crashes happen in Paso Robles?",
+        "answer": "Based on public crash records, reported collisions in Paso Robles tend to peak on Fridays between 4 and 6 p.m., likely tied to increased commuter and weekend travel during that window."
+      }
+    ]
+  }
+}

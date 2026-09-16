@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "point-arena medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Point Arena Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free help connecting Point Arena, CA medical malpractice patients with an independent attorney. No fee unless you recover. Learn your rights under MICRA."
+  },
+  "hero": {
+    "subtitle": "If you or a loved one was harmed by a healthcare provider near Point Arena, LawProactive can connect you with an independent attorney familiar with Mendocino County medical care and California's malpractice laws — free of charge."
+  },
+  "about": {
+    "title": "Point Arena Medical Malpractice Claims",
+    "longDescription": "Point Arena is a small coastal town, and many residents rely on a limited set of local clinics or travel inland along Rt 1 and Lake Street for specialty care. When something goes wrong during treatment — a missed diagnosis, a surgical error, a medication mix-up — it can be hard to know whether the outcome was simply an unfortunate risk or the result of a provider falling below the accepted standard of care. California law recognizes that not every bad result is malpractice; a qualified medical expert typically has to review the case and confirm that the provider's conduct fell short of what a reasonably careful professional would have done. LawProactive doesn't practice law or make that determination itself — we connect Point Arena residents with an independent attorney who can review medical records, consult with experts, and explain whether a claim may be worth pursuing. There's no fee to get connected, and no fee to the attorney unless there's a recovery.",
+    "commonInjuriesTitle": "Types of Harm We Help Connect Cases For",
+    "commonInjuries": [
+      "Misdiagnosis or delayed diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage errors",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Failure to monitor post-treatment condition"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Point Arena Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding MICRA's Strict Clock",
+        "desc": "California generally gives patients one year from discovering the harm, and no more than three years from the injury itself, to bring a claim, plus a required 90-day pre-suit notice to the provider. An attorney can help make sure none of these deadlines are missed."
+      },
+      {
+        "title": "Navigating the Non-Economic Damages Cap",
+        "desc": "MICRA sets a cap on non-economic damages that adjusts upward each year, which affects how a claim is valued and negotiated. An independent attorney can explain how this cap may apply to your specific circumstances."
+      },
+      {
+        "title": "Securing the Required Medical Expert Review",
+        "desc": "Because a qualified medical expert almost always has to weigh in on whether care fell below the accepted standard, having an attorney who can arrange that review is often essential to moving a claim forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Point Arena?",
+        "answer": "Under MICRA, California generally requires filing within one year of discovering the injury, and no later than three years from when it occurred, whichever comes first. A 90-day pre-suit notice to the healthcare provider is also required before a lawsuit can be filed. Because these deadlines are strict, it helps to speak with an attorney as soon as possible."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law recognizes that medicine carries inherent risks, and a poor outcome alone does not prove negligence. A qualified medical expert typically must review the case and confirm the provider's care fell below the accepted standard before a claim can move forward."
+      },
+      {
+        "question": "Are there local medical providers near Point Arena I should know about for my claim?",
+        "answer": "Point Arena is a small town without a large hospital system, so residents often receive care locally or travel to nearby coastal or inland facilities. An independent attorney can help identify where and when the alleged malpractice occurred and gather the relevant records, regardless of which facility was involved."
+      }
+    ]
+  }
+}

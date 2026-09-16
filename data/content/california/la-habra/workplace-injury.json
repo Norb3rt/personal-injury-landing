@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "la-habra workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Habra Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in La Habra? Get connected free to an independent attorney who can review your workers' comp and third-party options."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in La Habra, LawProactive can connect you at no cost with an independent attorney who understands both workers' compensation and third-party claims tied to Orange County job sites."
+  },
+  "about": {
+    "title": "La Habra Workplace Injury Claims",
+    "longDescription": "La Habra's mix of warehouses, retail centers, and light industrial sites along corridors like Whittier Boulevard and Imperial Highway means workplace injuries happen in a variety of settings, from loading docks to delivery routes on La Habra Boulevard. Under California law, workers' compensation is typically the exclusive remedy against your employer, no matter who caused the accident. But that's not always the end of the story. When a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, a separate third-party claim may be possible alongside your comp benefits. Because these two paths run on different rules and different clocks, it helps to have someone look at both. LawProactive doesn't practice law or handle claims directly — we simply connect La Habra workers with an independent attorney, free of charge, so you can understand what options might apply to your situation before time limits close in.",
+    "commonInjuriesTitle": "Injuries We See Referred From Workplace Incidents",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or falls",
+      "Traumatic brain injury from falling objects or collisions",
+      "Broken bones from equipment or ladder accidents",
+      "Repetitive stress and joint injuries",
+      "Burns from machinery or chemical exposure",
+      "Injuries from work-related vehicle crashes on local roads"
+    ],
+    "ctaText": "Talk to an independent attorney about your La Habra workplace injury — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why La Habra Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Your Two Possible Paths",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party can open a separate claim. An attorney can help sort out which applies to your case."
+      },
+      {
+        "title": "Deadlines That Don't Wait",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and a third-party claim carries its own 2-year deadline. Missing either can limit your options."
+      },
+      {
+        "title": "No Cost, No Retaliation Risk",
+        "desc": "California law prohibits employer retaliation for reporting an injury, and connecting with an attorney through LawProactive costs nothing upfront."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working near Imperial Highway in La Habra — can I still file a claim?",
+        "answer": "Location doesn't change the basic rules: you'd typically report the injury to your employer within 30 days and rely on workers' comp for medical care and lost wages. If a third party, like a delivery contractor or equipment supplier, contributed to the incident, a separate claim tied to that 2-year deadline may also be worth exploring."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury?",
+        "answer": "In most cases, no — workers' compensation is the exclusive remedy against your employer regardless of fault. However, if someone outside your employer, such as a subcontractor or manufacturer, played a role in the accident, a separate third-party claim may still be available."
+      },
+      {
+        "question": "What if my employer retaliates after I report an injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law. If you believe you've faced retaliation, an independent attorney can help you understand your options alongside your existing claim."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free connection service, and attorneys in our network typically work on contingency, meaning there's no fee unless there's a recovery."
+      }
+    ]
+  }
+}

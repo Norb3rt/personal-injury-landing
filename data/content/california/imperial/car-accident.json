@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "imperial car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Car Accident Help in Imperial, CA | LawProactive",
+    "metaDescription": "Free connection to an independent car accident attorney serving Imperial, CA. No fee unless you recover. Get matched today."
+  },
+  "hero": {
+    "subtitle": "After a car accident on Rt 86, Aten Road, or anywhere else around Imperial, you deserve straight answers, not runaround from an insurance adjuster. LawProactive connects you free of charge with an independent attorney who can look at what happened and tell you where you stand."
+  },
+  "about": {
+    "title": "Imperial Car Accident Claims",
+    "longDescription": "Imperial is a small city, but its roads carry plenty of daily traffic — Rt 86, Aten Road, 2nd Street, and Clark Road see the bulk of local collision reports. Public crash counts for the most recent year show 1 injury collision and 2 people hurt on Imperial roadways, with reported crashes tending to cluster on Fridays between noon and 2 p.m., a window when commuters, school pickups, and weekend errands overlap. Whether your accident happened at a busy intersection or on a quieter stretch outside town, the days right after matter. Insurance companies move fast to lock in a story that favors them, and evidence like skid marks, damaged vehicle parts, or witness memories fades quickly. LawProactive doesn't practice law — we're a free service that connects injured Imperial residents with an independent personal injury attorney who can evaluate the claim, explain your options, and work on contingency, meaning there's no fee unless you recover money.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head trauma",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Torn ligaments and soft-tissue damage",
+      "Cuts and lacerations from broken glass or debris"
+    ],
+    "ctaText": "Get connected with an attorney serving Imperial — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "California's Clock Is Ticking",
+        "desc": "You generally have two years from the date of your car accident to file a claim in California, though claims against a government entity (like a city or county road agency) can require notice in as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for the crash, you may still recover a portion of your damages. An attorney can help make sure your share of fault isn't overstated by the other side."
+      },
+      {
+        "title": "Don't Give a Recorded Statement First",
+        "desc": "Insurance adjusters often ask for a recorded statement early, hoping you'll say something that limits their payout. Speaking with an independent attorney first, and preserving evidence like photos or witness contact info, protects your position before you say anything on the record."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and the independent attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no upfront cost or obligation to move forward."
+      },
+      {
+        "question": "What if my accident happened on Rt 86 or another road maintained by a public agency?",
+        "answer": "Claims involving a government-maintained road, like sections of Rt 86 or certain intersections near Aten Road, can involve much shorter deadlines than the standard two-year statute of limitations, sometimes as little as six months' notice. An attorney can help sort out whether a public entity may be involved and what deadline applies."
+      },
+      {
+        "question": "Should I talk to the other driver's insurance company before hiring anyone?",
+        "answer": "It's usually best to avoid giving a recorded statement to the other insurer until you've spoken with an attorney. Insurance companies are trained to ask questions that can be used to reduce or deny your claim, and preserving evidence and your own account first protects your interests."
+      }
+    ]
+  }
+}

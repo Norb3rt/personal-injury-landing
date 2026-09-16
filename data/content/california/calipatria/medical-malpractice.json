@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "calipatria medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calipatria Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Calipatria? Get connected free to an independent attorney familiar with California's malpractice rules."
+  },
+  "hero": {
+    "subtitle": "When care at a Calipatria clinic or hospital goes wrong, sorting out what happened next can feel overwhelming. LawProactive connects Imperial County families with an independent attorney who can look into what occurred at no cost to you."
+  },
+  "about": {
+    "title": "Calipatria Medical Malpractice Claims",
+    "longDescription": "Calipatria residents often travel across Imperial County for specialty care, and when something goes wrong during a procedure, a diagnosis, or a hospital stay, it's not always obvious whether the outcome was preventable or simply an unfortunate result of illness. California law recognizes that medicine involves real uncertainty, which is exactly why these cases require a qualified medical expert to review the record before anyone can say malpractice occurred. LawProactive doesn't practice law or evaluate your case ourselves; we simply connect you with an independent attorney in our network who can request records, consult with medical experts, and explain whether your situation may fit the legal definition of malpractice under California's rules. There's no cost to start this conversation, and no obligation once you do. If you or someone in your family experienced a troubling medical outcome in or near Calipatria, getting a second, independent look at the facts is often the clearest next step.",
+    "commonInjuriesTitle": "Situations We Help Connect",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Delayed or missed diagnosis",
+      "Medication or dosage errors",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Hospital-acquired infections from neglect"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation, free."
+  },
+  "whyChoose": {
+    "title": "Why This Matters Before You Wait",
+    "items": [
+      {
+        "title": "Notice and Filing Deadlines Move Fast",
+        "desc": "California generally gives one year from when you discover the harm, capped at three years from the injury itself, and a required 90-day pre-suit notice must go out before a claim can even be filed. Missing either window can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Isn't Optional",
+        "desc": "Under MICRA, a qualified medical expert almost always has to weigh in to establish that the care fell below an accepted standard. An independent attorney can help arrange that kind of review rather than leaving you to guess on your own."
+      },
+      {
+        "title": "Damage Caps Change the Math Each Year",
+        "desc": "California's cap on non-economic damages in these cases rises annually, so the numbers that applied a few years ago aren't the numbers that apply now. Understanding current limits matters when deciding how a claim should be approached."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law is clear that a poor result by itself isn't proof of malpractice; medicine carries inherent risk even with careful treatment. What matters is whether the care fell below an accepted medical standard, which typically requires review by a qualified expert."
+      },
+      {
+        "question": "I live in Calipatria but was treated at a facility outside Imperial County. Does that matter?",
+        "answer": "Not for eligibility purposes. What matters is where the care happened and when, not where you currently live. An independent attorney can look into records regardless of which facility treated you."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally you have one year from when you discovered or reasonably should have discovered the harm, but never more than three years from the date of the injury. There's also a required 90-day notice period before filing suit, so it's worth getting an independent review sooner rather than later."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "desert-hot-springs medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Desert Hot Springs Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for Desert Hot Springs patients. No fee unless you recover. Riverside County MICRA rules apply."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or treatment in Desert Hot Springs left you worse off than before, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's specific rules."
+  },
+  "about": {
+    "title": "Desert Hot Springs Medical Malpractice Claims",
+    "longDescription": "Desert Hot Springs residents rely on a mix of local clinics, urgent care centers, and Riverside County hospital systems for treatment, and most visits go the way they should. But sometimes a diagnosis is missed, a medication is given at the wrong dose, or a procedure goes wrong in a way that isn't just an unfortunate outcome — it's a departure from the standard of care. California law treats these claims differently than a typical injury case, with strict timing rules and a required medical expert opinion. LawProactive doesn't practice law or take a side on liability; we simply listen to what happened, gather the basic facts, and connect you with an independent attorney in our network who can evaluate whether your treatment fell short of what a competent provider should have done. There's no cost to find out, and no obligation to move forward. The attorney only gets paid if your claim results in a recovery.",
+    "commonInjuriesTitle": "Common Malpractice-Related Injuries",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage errors",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Tell us what happened — get connected with an independent attorney, free.'"
+  },
+  "whyChoose": {
+    "title": "What Makes Medical Malpractice Claims Different",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally gives you one year from when you discovered the harm, and no more than three years from the date it happened, to file a claim. Missing either window can end a case before it starts, so timing matters from day one."
+      },
+      {
+        "title": "Mandatory 90-Day Notice",
+        "desc": "Before a lawsuit can be filed, California law requires sending the healthcare provider a 90-day notice of intent to sue, which affects how and when a claim moves forward."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A bad medical outcome by itself isn't proof of malpractice — California generally requires a qualified medical expert to confirm the care fell below the accepted standard before a claim can proceed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a bad result from surgery automatically mean malpractice happened?",
+        "answer": "No. California law is clear that an unsuccessful or disappointing medical outcome, on its own, doesn't establish malpractice. There generally needs to be evidence that the provider's care fell below what a reasonably competent professional would have done, which is why a qualified medical expert almost always has to review the case first."
+      },
+      {
+        "question": "How long do I have to bring a claim if something went wrong at a Desert Hot Springs facility?",
+        "answer": "Under MICRA, you generally have one year from when you discovered or reasonably should have discovered the injury, but no more than three years from when it actually occurred. There's also a required 90-day notice period before a lawsuit can be filed, so it helps to start the process early."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes — California places a cap on non-economic damages (like pain and suffering) in medical malpractice cases, though that cap rises each year under current law. Economic damages, such as medical bills and lost income, generally aren't subject to that same cap."
+      }
+    ]
+  }
+}

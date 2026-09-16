@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "williams slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Williams Slip & Fall Attorney Help | LawProactive",
+    "metaDescription": "Hurt in a fall on someone else's property in Williams, CA? Get connected free with an independent premises liability attorney."
+  },
+  "hero": {
+    "subtitle": "A fall at a Rt 20 gas stop, a Colusa County store, or an I-5 rest area can leave you with bills and questions. LawProactive connects Williams residents with an independent attorney who handles slip-and-fall claims on contingency."
+  },
+  "about": {
+    "title": "Williams Slip & Fall and Premises Liability Claims",
+    "longDescription": "Williams is a small city, but its mix of highway travelers passing through on I-5 and Rt 20 and local residents shopping along E Street and 8th Street means property owners see steady foot traffic year-round. When a spill, broken step, uneven pavement, or poor lighting isn't addressed, someone gets hurt. Under California law, you generally have to show the property owner or manager knew, or reasonably should have known, about the hazard and didn't fix it or warn you. That's why documenting the scene matters so much here — photos of the hazard, witness names, and any store or gas station surveillance video before it's deleted. LawProactive doesn't practice law itself; we're a free connection service that matches injured Williams residents with an independent attorney who can evaluate your fall, gather evidence, and explain your options. There's no fee unless the attorney recovers compensation for you.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fall Cases",
+    "commonInjuries": [
+      "Broken hips, wrists, or ankles",
+      "Torn ligaments and knee injuries",
+      "Traumatic brain injury from a head strike",
+      "Herniated discs or spinal injury",
+      "Shoulder dislocations from bracing a fall",
+      "Deep lacerations requiring stitches"
+    ],
+    "ctaText": "Tell us what happened — get matched with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What Matters in a Williams Premises Liability Case",
+    "items": [
+      {
+        "title": "Proving the Owner Had Notice",
+        "desc": "California requires showing the property owner knew or should have known about the hazard and failed to act. An attorney can help pull maintenance logs and inspection records to establish that timeline."
+      },
+      {
+        "title": "Preserving Video Before It's Overwritten",
+        "desc": "Many businesses along E Street, 8th Street, and near the I-5 interchange run surveillance systems that overwrite footage within days or weeks. Getting a preservation request out quickly can be the difference in a fall case."
+      },
+      {
+        "title": "Understanding Comparative Fault",
+        "desc": "California uses pure comparative fault, so even if you're found partly responsible for the fall, you may still recover a reduced amount. An attorney can help present the facts in a way that reflects the full picture, not just the owner's version."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell at a store off Rt 20 in Williams — what should I do first?",
+        "answer": "If you're able, take photos of exactly what caused the fall, get names of any witnesses, and ask the manager to note the incident in writing. Seek medical attention even if you feel okay at first, since some injuries show up later. From there, LawProactive can connect you with an attorney to help preserve any surveillance footage before it's gone."
+      },
+      {
+        "question": "How long do I have to file a slip-and-fall claim in California?",
+        "answer": "Generally you have two years from the date of the fall, but claims against a public entity — like a city-owned sidewalk or county building — carry a much shorter deadline, often just months. It's worth having an attorney review the details early so you don't lose the chance to file."
+      },
+      {
+        "question": "Will it hurt my case if I was partly at fault for not seeing the hazard?",
+        "answer": "Not necessarily. California's pure comparative fault rule means you can still recover compensation even if you share some blame, though the amount may be reduced by your percentage of fault. An independent attorney can help evaluate how strong your notice evidence is and what a fair claim looks like."
+      }
+    ]
+  }
+}

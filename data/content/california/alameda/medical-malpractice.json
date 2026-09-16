@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "alameda medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Alameda, CA Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Alameda? LawProactive connects you, free of charge, with an independent malpractice attorney who works on contingency."
+  },
+  "hero": {
+    "subtitle": "When care in Alameda goes wrong and you are left wondering whether it should have, LawProactive can connect you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Alameda Medical Malpractice Claims",
+    "longDescription": "Alameda is a city of roughly 78,630 people in Alameda County, and most of its residents will sit in a clinic, urgent care, or hospital room at some point this year. Nearly all of those visits end the way they should. A small number do not, and sorting out whether a poor result came from an honest limitation of medicine or from a provider falling below the accepted standard of care is the entire question in a malpractice case. Under California's MICRA rules, a bad outcome by itself is not malpractice; a qualified medical expert is almost always needed to explain what a careful provider would have done differently. Timing matters too. You generally have one year from the date you discovered the harm, and never more than three years from the injury itself, plus a 90-day notice must go to the provider before a lawsuit is filed. LawProactive is not a law firm. We simply connect Alameda residents with an independent attorney, for free, so those deadlines and expert questions get handled by someone whose job it is to handle them.",
+    "commonInjuriesTitle": "Harm Frequently Tied to Medical Negligence",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site or retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney who can review it."
+  },
+  "whyChoose": {
+    "title": "Why Alameda Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are short and easy to miss",
+        "desc": "The one-year discovery clock and the three-year outer limit run whether or not you feel ready to act. An attorney in our network can calculate the dates that apply to your situation and handle the required 90-day pre-suit notice."
+      },
+      {
+        "title": "Your case needs a medical expert, not just a lawyer",
+        "desc": "California almost always requires testimony from a qualified physician to show the standard of care was breached. Attorneys we connect you with know how to locate and work with those experts."
+      },
+      {
+        "title": "No cost to connect, and contingency fees after that",
+        "desc": "LawProactive charges nothing for the introduction. The independent attorneys in our network take malpractice cases on contingency, so there is no attorney fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My treatment in Alameda didn't work. Is that malpractice?",
+        "answer": "Not necessarily. California law is clear that a disappointing result, on its own, does not prove negligence. A claim requires showing a provider departed from what a reasonably careful practitioner would have done in the same circumstances, and that the departure caused your harm. A qualified medical expert nearly always has to make that connection."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "MICRA places a cap on non-economic damages, meaning things like pain and loss of enjoyment of life. That cap rises every year under the current law, so the figure depends on when your case resolves. Economic losses such as medical bills and lost wages are treated separately. An attorney can explain how the current numbers apply to you."
+      },
+      {
+        "question": "I live near Park Street but was treated at a facility outside Alameda. Where would my claim be handled?",
+        "answer": "Many Alameda residents travel elsewhere in Alameda County or beyond for specialty care, and that is common. Where a claim is filed generally depends on where the treatment occurred and where the provider is located, not simply where you live. This is one of the details an independent attorney can sort out once you connect through LawProactive."
+      }
+    ]
+  }
+}

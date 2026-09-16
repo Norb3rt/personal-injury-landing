@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "hughson city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hughson, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Hughson? Get connected free with an independent Stanislaus County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a crash on Hatch Road or elsewhere in Hughson left you hurt, we can connect you free of charge with an independent injury attorney serving Stanislaus County. From whiplash to broken bones, help is a short conversation away."
+  },
+  "about": {
+    "title": "Personal Injury Help in Hughson, California",
+    "longDescription": "Hughson is a small town, but its roads carry a steady flow of daily traffic, and that traffic sometimes ends in a collision. Public records show 12 injury collisions in the most recent final crash year, leaving 15 people hurt. Corridors like Hatch Road, Whitmore Avenue, and Santa Fe Avenue see the highest volume of reported crashes in town, and reports tend to cluster on Friday evenings between 5 and 7 p.m., a window when commuters, farmworkers, and families are all moving through town at once. If you were hurt in one of these collisions, you may be dealing with medical bills, missed work, and a lot of uncertainty about what comes next. LawProactive is a free service that helps injured people in Hughson connect with an independent personal injury attorney in our network. We are not a law firm, and we don't charge you anything to make that connection. Attorneys who take your case work on contingency, meaning there's no fee unless they recover compensation for you. Reaching out costs nothing and starts the process of understanding your options.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to Someone Now",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can require notice in as little as six months. Waiting too long can close the door on your options."
+      },
+      {
+        "title": "Fault Doesn't Have to Be Perfect",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for the crash, you may still recover compensation reduced by your share of fault. A partial fault finding doesn't automatically end your claim."
+      },
+      {
+        "title": "No Cap on What You've Been Through",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means your physical and emotional recovery can be part of the conversation, not just your medical bills."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to hiring help. You only pay a fee if your attorney recovers money on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling pressured to sign something before understanding your rights",
+      "Wondering if it's already too late to do anything about it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't represent you directly, and there's no charge to use our service to find an attorney."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Most personal injury claims in California must be filed within two years of the injury. If your claim involves a government entity, such as a city or county road agency, the deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some responsibility for the accident. Your recovery would simply be reduced by your percentage of fault, rather than being barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to happen in Hughson?",
+        "answer": "Public crash records show that Hatch Road, Whitmore Avenue, and Santa Fe Avenue have the highest recorded collision counts in Hughson, with reports clustering on Friday evenings between 5 and 7 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. Attorneys in our network work on a contingency basis, meaning they only collect a fee if they recover compensation for you. Connecting with LawProactive to find an attorney is also free."
+      }
+    ]
+  }
+}

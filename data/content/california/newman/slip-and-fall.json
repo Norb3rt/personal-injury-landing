@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "newman slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Newman Slip & Fall Attorney Help | LawProactive",
+    "metaDescription": "Hurt in a fall in Newman, CA? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a fall on someone else's property in Newman left you hurt, LawProactive can connect you at no cost with an independent attorney who handles premises liability claims in Stanislaus County."
+  },
+  "about": {
+    "title": "Newman Slip & Fall and Premises Liability Claims",
+    "longDescription": "Newman is a small, close-knit farming community in Stanislaus County, but its stores, gas stations, and public sidewalks along corridors like N Street and Merced Street see the same wet floors, cracked pavement, and poor lighting that cause falls anywhere. When a property owner fails to fix a known hazard or warn visitors about it, the person who gets hurt often faces medical bills and missed work with no clear path forward. LawProactive doesn't practice law — we simply connect Newman residents and visitors who were injured on someone else's property with an independent attorney who can review what happened, gather evidence like store surveillance footage, and explain your options. There's no cost to get matched, and attorneys in our network only get paid if your claim results in a recovery. If you were hurt in a fall in Newman, reaching out costs you nothing and starts the clock on protecting your rights.",
+    "commonInjuriesTitle": "Injuries Commonly Reported After Falls",
+    "commonInjuries": [
+      "Broken wrists, hips, or ankles",
+      "Torn ligaments and sprains",
+      "Head injuries and concussions",
+      "Spinal disc injuries or herniation",
+      "Shoulder dislocations from bracing a fall",
+      "Deep lacerations requiring stitches"
+    ],
+    "ctaText": "Get matched with an attorney about your Newman fall injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Documentation Matters in a Newman Premises Case",
+    "items": [
+      {
+        "title": "Proving the Owner Knew or Should Have Known",
+        "desc": "California law requires showing the property owner had notice of the hazard and failed to fix or warn about it. An attorney can help pin down how long the hazard existed before your fall."
+      },
+      {
+        "title": "Surveillance Video Disappears Fast",
+        "desc": "Many Newman businesses overwrite security footage within days or weeks. Getting a preservation request out quickly can be the difference between having evidence and having none."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Bar, Your Claim",
+        "desc": "California uses pure comparative fault, meaning even if you're partly responsible for the fall, you may still recover a reduced amount rather than nothing at all."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a premises liability claim in Newman?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit, though claims against a public entity — like a city-owned sidewalk — often require a much shorter notice period, sometimes just six months. It's worth having an attorney review the timeline early since missing a deadline can end your claim."
+      },
+      {
+        "question": "I fell at a Newman gas station near N Street — what should I do first?",
+        "answer": "Try to photograph the hazard, such as the spill or uneven pavement, before it's cleaned up or fixed, and ask if the location has security cameras. Report the fall to an employee or manager and get a copy of any incident report if one is created. These steps help preserve evidence an attorney may later need to show the owner had notice."
+      },
+      {
+        "question": "What if I was partly at fault for my fall?",
+        "answer": "California's pure comparative fault rule means you can still pursue compensation even if you share some responsibility for the accident. Your potential recovery would simply be reduced by your percentage of fault rather than eliminated entirely. An attorney can help evaluate how fault might be allocated in your specific situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "patterson city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Patterson, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Patterson, Stanislaus County? Get connected free to an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, fall, or other accident in Patterson, we can connect you with an independent personal injury attorney at no cost, serving families throughout Stanislaus County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Patterson, California",
+    "longDescription": "Patterson is a tight-knit Stanislaus County community, but like any growing city, its streets see their share of collisions. Public records show 51 injury collisions in the most recent reporting year, leaving 82 people hurt. Corridors such as Sperry Avenue, 2nd Street, Route 33, and Las Palmas Avenue show up frequently in collision counts, and reported crashes tend to cluster on Friday afternoons between 3 and 5 p.m., likely tied to end-of-week traffic and commuting patterns. Whether the crash happened near a busy intersection downtown or along one of the routes connecting Patterson to nearby highways, the aftermath is often the same: medical bills, missed work, and questions about what comes next. LawProactive is a free service that connects injured people in Patterson with an independent personal injury attorney — we are not a law firm and do not provide legal advice ourselves. Attorneys in our network work on contingency, meaning there's no fee unless they recover compensation for you. Reaching out costs nothing and starts the process of understanding your options.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Knee and joint injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Timing and Facts Matter in California",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government agency may require notice in as little as six months. Waiting too long can mean losing your right to recover."
+      },
+      {
+        "title": "Shared Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for the crash, you may still recover compensation reduced by your share of fault. This applies whether the accident happened on Sperry Avenue or anywhere else in town."
+      },
+      {
+        "title": "No Ceiling on Certain Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means compensation isn't artificially limited to medical bills and lost wages alone."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. This lets injured people pursue a claim without worrying about hourly legal fees."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing whether the insurance company's settlement offer is fair",
+      "Feeling unsure if you waited too long to take action",
+      "Being afraid that partial fault means you can't recover anything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Patterson?",
+        "answer": "California law generally allows two years from the date of the injury to file a claim. If a government entity is involved, such as a city vehicle or a hazard on public property, the deadline to file a claim notice can be as short as six months. It's best not to wait, since evidence and witness memories fade quickly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some responsibility for the crash. Your total recovery would simply be reduced by your percentage of fault. This applies to car accidents, falls, and most other injury claims."
+      },
+      {
+        "question": "Where do crashes tend to happen in Patterson?",
+        "answer": "Public collision records show that corridors like Sperry Avenue, 2nd Street, Route 33, and Las Palmas Avenue have some of the higher reported collision counts in the city. Reported crashes also tend to cluster on Friday afternoons between 3 and 5 p.m. These are simply neutral, publicly reported patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "Does it cost anything to talk to LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We are not a law firm, and there's no obligation to proceed after speaking with an attorney in our network."
+      },
+      {
+        "question": "How much will an attorney charge if I have a case?",
+        "answer": "Attorneys in our network work on a contingency basis, meaning they only get paid if they recover compensation for you through a settlement or verdict. There are no upfront fees to have your case reviewed."
+      }
+    ]
+  }
+}

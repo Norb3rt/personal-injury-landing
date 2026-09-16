@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "compton medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Compton Medical Malpractice Lawyer Match | LawProactive",
+    "metaDescription": "Hurt by a medical error in Compton? LawProactive is a free service that connects you with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a provider's mistake in Compton left you with a new injury or a worse condition, LawProactive can connect you at no cost with an independent attorney who evaluates California medical malpractice claims."
+  },
+  "about": {
+    "title": "Compton Medical Malpractice Claims",
+    "longDescription": "When you go in for treatment in Compton, you trust the people caring for you to follow accepted standards. Most of the time they do. Sometimes, though, a missed diagnosis, a medication mix-up, or a surgical error leaves a Los Angeles County patient worse off than before they walked in. That is where a medical malpractice claim may come into play. It is worth being clear about one thing up front: a disappointing result is not, by itself, malpractice. California requires showing that a provider fell below the standard of care and that the lapse caused real harm, and a qualified medical expert almost always has to say so. Deadlines under MICRA are tight, generally one year from when you discovered the injury and never more than three years from when it happened, with a 90-day notice sent before any lawsuit. LawProactive is a free service, not a law firm. We connect Compton residents with an independent attorney who handles these cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Claims",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures or retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Emergency room discharge without proper evaluation"
+    ],
+    "ctaText": "Ask a free question about your Compton medical care"
+  },
+  "whyChoose": {
+    "title": "Why Compton Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA's Clock Is Short",
+        "desc": "California generally allows one year from discovery of the injury and never more than three years from the date it occurred, plus a 90-day notice before filing. Getting connected early protects your options."
+      },
+      {
+        "title": "Expert Review Built In",
+        "desc": "A qualified medical expert is almost always needed to show a provider fell below the standard of care. The independent attorneys in our network know how to arrange that review."
+      },
+      {
+        "title": "Free to You, No Upfront Cost",
+        "desc": "LawProactive charges nothing to connect you, and network attorneys work on contingency. California caps non-economic damages in these cases at a figure that rises each year, and your attorney can explain how that applies."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on Rosecrans Avenue, then my ER treatment made things worse. Do I have two claims?",
+        "answer": "Possibly. Compton recorded 333 injury collisions in 2025, and some of those patients later question the care they received afterward. A crash claim against another driver and a malpractice claim against a provider are separate matters with different deadlines and proof requirements. An independent attorney can look at both and tell you which, if either, is worth pursuing."
+      },
+      {
+        "question": "My surgery did not fix the problem. Is that malpractice?",
+        "answer": "Not necessarily. California law distinguishes between a bad outcome and a provider who failed to meet the accepted standard of care. To bring a claim, a qualified medical expert generally has to review your records and confirm that the care fell short and caused your harm. That review is where a malpractice attorney starts."
+      },
+      {
+        "question": "How long do I have to act in Los Angeles County?",
+        "answer": "Under MICRA, the general rule is one year from when you discovered or should have discovered the injury, and no more than three years from the date the injury happened. You also must send the provider a 90-day notice of intent before filing a lawsuit. Because these timelines interact, it helps to speak with an attorney sooner rather than later."
+      }
+    ]
+  }
+}

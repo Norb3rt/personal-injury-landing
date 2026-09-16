@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "diamond-bar medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Diamond Bar Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for Diamond Bar patients. No fee unless you recover. Get matched today."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or procedure in Diamond Bar left you worse off than before, LawProactive can connect you with an independent attorney who handles medical malpractice claims across Los Angeles County."
+  },
+  "about": {
+    "title": "Diamond Bar Medical Malpractice Claims",
+    "longDescription": "Diamond Bar residents rely on nearby clinics, urgent care centers, and Los Angeles County hospital systems for everything from routine checkups to emergency care. When a provider misses a diagnosis, makes a surgical error, or mismanages medication, the harm can follow a patient for years. California law treats these cases differently than a typical injury claim — there's a shorter window to act, specific notice requirements, and rules around expert testimony that make early guidance valuable. LawProactive doesn't practice law or represent clients directly. Instead, we connect Diamond Bar residents who believe they were harmed by substandard medical care with an independent attorney who can review medical records, evaluate whether the standard of care was met, and explain what a claim might involve. There's no cost to get connected, and no obligation to move forward afterward.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect Cases For",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Get connected with an independent attorney to discuss your situation."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Pursue a Claim",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines Apply",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the harm, and no more than three years from the injury itself. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "A 90-Day Notice Is Required First",
+        "desc": "Before filing suit, California law requires sending the healthcare provider a 90-day notice of intent. An attorney familiar with this step can help make sure it's done correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Necessary",
+        "desc": "Because a bad medical outcome alone doesn't prove malpractice, a qualified medical expert typically must confirm the standard of care was breached. This is a key early step any attorney will want to address."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Diamond Bar?",
+        "answer": "Under California's MICRA rules, the general deadline is one year from when you discovered the harm, but never more than three years from the date of the injury. These timelines can be tricky when an error isn't obvious right away, so it's worth having a claim reviewed sooner rather than later."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "Yes. California places a statutory cap on non-economic damages, such as pain and suffering, though the cap amount rises each year under MICRA. Economic damages, like medical bills and lost income, are typically not subject to this same cap."
+      },
+      {
+        "question": "Do I need a lawyer near Diamond Bar or Los Angeles County hospitals specifically?",
+        "answer": "Not necessarily — what matters more is experience with medical malpractice cases and access to qualified medical experts. LawProactive can connect you with an independent attorney familiar with Los Angeles County providers and procedures relevant to your care."
+      },
+      {
+        "question": "What if I just had a bad outcome from surgery or treatment?",
+        "answer": "A poor result alone doesn't automatically mean malpractice occurred. An attorney would need to review whether the provider deviated from the accepted standard of care, which usually requires input from a qualified medical expert."
+      }
+    ]
+  }
+}

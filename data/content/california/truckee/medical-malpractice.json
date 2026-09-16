@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "truckee medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Truckee Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Truckee? Get connected free with an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a hospital visit or procedure in Truckee goes wrong, sorting out what happened can feel overwhelming on top of Nevada County's limited local specialty care. LawProactive connects you, at no cost, with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Truckee Medical Malpractice Claims",
+    "longDescription": "Truckee residents and the many visitors who pass through this Nevada County mountain town sometimes rely on urgent care clinics, small hospitals, or specialists located down the hill in Reno or Sacramento for serious treatment. When distance, rushed diagnoses, or communication gaps between providers lead to a preventable injury, it's worth having the situation reviewed. California's medical malpractice law, known as MICRA, sets specific rules around how long you have to act, what notice must be given before filing, and how damages are calculated — a bad medical outcome by itself doesn't automatically mean malpractice occurred. LawProactive doesn't practice law or handle your case directly; instead, we connect you with an independent attorney in our network who can evaluate the medical records, consult with a qualified expert if needed, and explain your options. There's no cost to get connected, and any attorney you work with is paid only if your case results in a recovery. Reaching out early matters, since strict deadlines apply.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Anesthesia complications",
+      "Birth injuries to mother or child",
+      "Failure to recognize a worsening emergency condition"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "What Makes Truckee Malpractice Claims Different",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives you one year from when you discover the harm, but never more than three years from the injury itself. A 90-day pre-suit notice to the provider is also required before a lawsuit can move forward."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor result doesn't automatically prove negligence, California law nearly always requires a qualified medical expert to review the care and confirm it fell below the accepted standard."
+      },
+      {
+        "title": "Damages Caps That Change Yearly",
+        "desc": "California places a statutory cap on non-economic damages in these cases, and that cap rises each year by law. An independent attorney can walk you through how this affects your specific situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Truckee?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered or reasonably should have discovered the injury, but no more than three years from when it happened. A 90-day written notice to the healthcare provider is also required before filing suit. Because these deadlines can overlap in confusing ways, it's best to have an attorney review your timeline as soon as possible."
+      },
+      {
+        "question": "Does a bad outcome from surgery or treatment automatically mean malpractice happened?",
+        "answer": "No. California law requires proof that a provider's care fell below the accepted medical standard, and a qualified medical expert almost always has to confirm that. A disappointing or painful result isn't, by itself, evidence of negligence."
+      },
+      {
+        "question": "I was treated at a small Truckee clinic before being transferred elsewhere — does that complicate my claim?",
+        "answer": "It can add a layer of review since multiple providers and possibly multiple facilities may be involved, especially given how often patients here are transferred to larger hospitals in Reno or Sacramento. An independent attorney can help sort out which provider's actions are relevant and gather the right records from each location."
+      }
+    ]
+  }
+}

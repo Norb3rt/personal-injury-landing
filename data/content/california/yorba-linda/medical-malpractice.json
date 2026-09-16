@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "yorba-linda medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Attorney in Yorba Linda, CA",
+    "metaDescription": "Hurt by a medical error in Yorba Linda? LawProactive connects you, free, with an independent malpractice attorney. MICRA deadlines are short."
+  },
+  "hero": {
+    "subtitle": "If care you received in or around Yorba Linda left you worse off than you should be, LawProactive can connect you at no cost with an independent attorney who reviews medical malpractice claims. Under California's MICRA rules, the clock is shorter than most people assume."
+  },
+  "about": {
+    "title": "Yorba Linda Medical Malpractice Claims",
+    "longDescription": "Most people in Yorba Linda who walk into a clinic or hospital leave with the care they expected. When that doesn't happen — a diagnosis missed for months, a medication given at the wrong dose, a surgical step that went wrong — the questions come fast and clear answers are scarce. Medical malpractice in California is judged against a specific standard: whether the provider did what a reasonably careful provider in the same field would have done. A poor result alone does not meet that test, and a candid attorney will say so early. What matters is whether the care fell below the standard and whether that failure caused real harm. Orange County residents pursuing these claims face a compressed MICRA timeline, a 90-day notice requirement before filing, and the near-certainty that a qualified medical expert must review the records. LawProactive is a free service, not a law firm. We connect Yorba Linda residents with an independent attorney who takes malpractice cases on contingency, so a real assessment costs you nothing up front.",
+    "commonInjuriesTitle": "Harm That Can Follow a Medical Error",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Medication and dosage errors",
+      "Surgical mistakes, including wrong-site procedures",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary or neglected care"
+    ],
+    "ctaText": "Ask a Yorba Linda malpractice attorney to review your records — free to connect, no fee unless you recover."
+  },
+  "whyChoose": {
+    "title": "Why Yorba Linda Residents Use LawProactive for Malpractice Questions",
+    "items": [
+      {
+        "title": "The Deadline Is Shorter Than It Looks",
+        "desc": "MICRA generally allows one year from the date you discovered the harm, and never more than three years from the injury itself. An attorney can pin down which date applies to you before it becomes a problem."
+      },
+      {
+        "title": "The 90-Day Notice Is Not Optional",
+        "desc": "California requires written notice to the provider at least 90 days before a malpractice suit is filed. The attorneys in our network build that step into the timeline from the start."
+      },
+      {
+        "title": "Expert Review Comes First",
+        "desc": "A qualified medical expert is almost always needed to show the standard of care was breached, and a bad outcome by itself is not enough. Your attorney arranges that review so you learn early whether the claim has substance."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Yorba Linda but was treated at a facility elsewhere in Orange County. Does that change anything?",
+        "answer": "Not in a way that should worry you. Medical malpractice claims are typically filed in the superior court of the county where the care occurred or where the parties are located, and for Yorba Linda residents that is often Orange County either way. The attorney you are connected with will sort out venue; your job is to gather records and remember dates."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages — things like pain, suffering, and loss of enjoyment of life — under MICRA, and that cap increases each year. Economic losses such as medical bills and lost income are handled separately. An attorney can explain how the current figures apply to your situation without anyone guessing at a number."
+      },
+      {
+        "question": "My surgery didn't go the way I hoped. Is that automatically malpractice?",
+        "answer": "No. Medicine carries known risks, and a disappointing result on its own does not prove negligence. The question is whether the provider acted differently from what a reasonably careful provider would have done under the same circumstances, and whether that difference caused your harm. A qualified expert usually has to weigh in before that answer is clear."
+      }
+    ]
+  }
+}

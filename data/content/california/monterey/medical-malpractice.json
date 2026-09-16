@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "monterey medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Monterey Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Monterey? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Monterey hospital or clinic visit ends in a preventable injury, the rules for holding someone accountable are strict and time-limited. We connect you at no cost with an independent attorney who handles medical malpractice claims arising in Monterey County."
+  },
+  "about": {
+    "title": "Monterey Medical Malpractice Claims",
+    "longDescription": "Monterey's mix of community clinics, urgent care centers, and hospitals serving both residents and the many visitors passing through this coastal city means medical errors can happen anywhere along the chain of care. Maybe a diagnosis was delayed, a surgical step was missed, or a medication order was wrong. California law treats these claims differently than typical injury cases — there's a shorter window to act, a required 90-day notice before filing suit, and a cap on non-economic damages that adjusts yearly. Because a poor medical result doesn't automatically mean malpractice occurred, these cases usually require a qualified medical expert to explain what went wrong and how it deviated from accepted care. If you or someone you love was harmed during treatment in Monterey County, LawProactive can connect you, free of charge, with an independent attorney who understands how to evaluate and pursue this type of claim.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosing mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-op patients"
+    ],
+    "ctaText": "Speak with an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Timing and Evidence Matter in These Claims",
+    "items": [
+      {
+        "title": "The Filing Window Is Short and Strict",
+        "desc": "California generally gives you one year from when you discovered the harm, and never more than three years from the injury itself. Waiting to explore your options can permanently close the door on a claim."
+      },
+      {
+        "title": "A 90-Day Notice Comes Before Any Lawsuit",
+        "desc": "State law requires sending formal notice to the provider at least 90 days before a malpractice suit can be filed, which affects how and when a case gets built."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad medical outcome by itself isn't proof of malpractice, a qualified medical expert typically must confirm the care fell below the accepted standard before a claim can move forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a malpractice claim in Monterey?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the injury, but never more than three years from when it happened. There are limited exceptions, so it's worth getting a claim reviewed sooner rather than later."
+      },
+      {
+        "question": "Is a bad surgical result automatically malpractice?",
+        "answer": "No. A poor outcome alone doesn't establish malpractice under California law. A qualified medical expert generally has to show that the care given fell below the accepted standard and that this failure caused the harm."
+      },
+      {
+        "question": "Does it matter that Monterey has both local hospitals and clinics serving visitors?",
+        "answer": "It can. Care coordination between different providers, including facilities used by both residents and travelers passing through Monterey County, sometimes plays a role in how an error occurred, and an attorney can look into records from every facility involved."
+      },
+      {
+        "question": "Will filing a claim cost me anything upfront?",
+        "answer": "No. LawProactive is a free connection service, and attorneys in the network generally work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

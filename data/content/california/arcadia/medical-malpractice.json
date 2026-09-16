@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "arcadia medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Arcadia Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Arcadia? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When treatment at an Arcadia clinic or hospital goes wrong, sorting out what happened can feel overwhelming. LawProactive helps Arcadia residents connect, at no cost, with an independent attorney who understands medical malpractice claims."
+  },
+  "about": {
+    "title": "Arcadia Medical Malpractice Claims",
+    "longDescription": "Arcadia sits within Los Angeles County and is served by several hospitals, outpatient surgical centers, and medical offices along corridors like Huntington Drive and Baldwin Avenue. Most patients who walk through those doors trust that their care will meet a reasonable standard. When it doesn't — through a missed diagnosis, a surgical mistake, or a medication error — the aftermath can involve new injuries, extended recovery, and confusion about what recourse exists. California law recognizes that not every poor outcome is malpractice; a claim generally requires showing a provider departed from the accepted standard of care and that departure caused harm. Because these cases involve strict deadlines, required pre-suit notice, and typically a qualified medical expert, getting timely guidance matters. LawProactive doesn't practice law itself — we're a free connection service that puts Arcadia residents in touch with independent attorneys who evaluate these claims on a contingency basis, meaning there's no fee unless there's a recovery.",
+    "commonInjuriesTitle": "Types of Harm We Commonly Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to obtain informed consent"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to Someone Soon",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally requires malpractice claims within one year of discovering the injury and no more than three years from when it occurred, so waiting can close the door on a claim entirely."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before filing suit, California law typically requires giving the healthcare provider 90 days' advance notice, which affects how and when a case gets started."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a bad outcome alone doesn't establish malpractice, a qualified medical expert typically must confirm the standard of care was breached — something an attorney can help arrange."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law requires showing the provider's care fell below an accepted medical standard and that this failure directly caused harm. A poor result by itself, even a serious one, isn't enough on its own."
+      },
+      {
+        "question": "How long do I have to bring a claim after treatment at an Arcadia hospital or clinic?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it occurred. There are exceptions in limited situations, so it's worth having a professional review the timeline."
+      },
+      {
+        "question": "What does LawProactive do if I contact them about a case in Arcadia?",
+        "answer": "We're not a law firm — we listen to what happened and connect you, free of charge, with an independent attorney in our network who handles medical malpractice matters. Any representation and fee arrangement, typically contingency-based, is between you and that attorney."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "Yes, California places a statutory cap on non-economic damages like pain and suffering, and that cap adjusts upward each year under current law. Economic damages, such as medical bills and lost income, are generally handled separately."
+      }
+    ]
+  }
+}

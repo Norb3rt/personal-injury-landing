@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "escondido product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Escondido Product Liability Claims | LawProactive",
+    "metaDescription": "Hurt by a defective product in Escondido? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product fails in Escondido and someone gets hurt, California law puts the burden on the defect, not on proving carelessness. We connect you, at no cost, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Escondido Product Liability Claims",
+    "longDescription": "A product you bought in good faith should not send you to the emergency room. In Escondido, that could mean a space heater that shorted out in a Washington Avenue apartment, a ladder that buckled during a weekend project, or a tire that failed on I-15 near the Valley Parkway exit. California treats these cases differently from ordinary negligence claims. Under strict product liability, you generally do not have to prove the manufacturer was careless. What matters is whether the product had a defect in its design, its manufacturing, or its warnings, and whether that defect caused your injury. The manufacturer, the distributor, and the store that sold it may each share responsibility. LawProactive is not a law firm. We are a free service that connects Escondido residents with an independent personal injury attorney who handles product defect claims on contingency, so there is no fee unless there is a recovery. Hold onto the product, the packaging, and your receipts. Then reach out and we will help you take the next step.",
+    "commonInjuriesTitle": "Injuries Commonly Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, appliances, or e-bikes",
+      "Lacerations from power tools that lack proper guards",
+      "Fractures from collapsing furniture, ladders, or cribs",
+      "Poisoning or illness from contaminated food and medication",
+      "Head and spine trauma when airbags, seatbelts, or tires fail",
+      "Choking and internal injuries from unsafe children's products"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Escondido Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Works in Your Favor",
+        "desc": "In California, you usually need to show the product was defective and that the defect caused your injury, not that anyone acted negligently. The attorneys we connect you with understand how to build a claim around that standard."
+      },
+      {
+        "title": "Every Link in the Chain Is on the Table",
+        "desc": "The company that designed the item, the factory that built it, the distributor that shipped it, and the Escondido retailer that sold it may all be accountable. An independent attorney can sort out who belongs in your claim."
+      },
+      {
+        "title": "We Help You Protect the Evidence Early",
+        "desc": "The product itself is often the single most important piece of proof. We connect you quickly so an attorney can advise you on preserving it before anything is thrown away or repaired."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag did not deploy in a crash on Valley Parkway. Is that a product liability case?",
+        "answer": "It might be. Escondido recorded 896 injury collisions in 2025, and some of those injuries are made worse by a vehicle component that fails to work as designed. If a safety system did not perform, an attorney can look at whether a design or manufacturing defect played a role, separate from any claim against another driver. Keep the vehicle unrepaired if you can until it has been inspected."
+      },
+      {
+        "question": "Do I have to prove the manufacturer was careless?",
+        "answer": "Generally, no. California applies strict liability to most defective product claims, which means the focus is on whether the product had a design, manufacturing, or warning defect and whether that defect caused your harm. That is a meaningful difference from a standard negligence case. An attorney can explain how the rule applies to your specific situation."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Keep it, along with the box, manual, receipt, and any warning labels, and store it somewhere safe. Do not return it to the store or send it back to the manufacturer, even if they ask. Photograph the item and your injuries as soon as you are able. Then contact LawProactive so we can connect you with an attorney who can arrange a proper inspection."
+      }
+    ]
+  }
+}

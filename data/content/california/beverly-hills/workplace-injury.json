@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "beverly-hills workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Beverly Hills Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Beverly Hills? Get connected free to an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "When a workday in Beverly Hills ends with an injury, the paperwork and rules can feel like a second job. LawProactive connects you, at no cost, with an independent attorney who can sort out what happened and what options you have."
+  },
+  "about": {
+    "title": "Beverly Hills Workplace Injury Claims",
+    "longDescription": "Beverly Hills draws workers into hotels, retail storefronts, restaurants, salons, and offices along corridors like Wilshire and Olympic Boulevards, plus the delivery drivers and contractors who move through the city daily. When someone is hurt on the job here, California's workers' compensation system is typically the first stop, covering medical care and lost wages regardless of fault. But that system usually blocks a separate lawsuit against your own employer. What it doesn't block is a claim against a negligent third party, such as a subcontractor, a property owner, an equipment manufacturer, or another driver who caused a work-related crash on a local street. LawProactive is a free connection service, not a law firm, and we help injured workers in Beverly Hills get matched with an independent attorney who can look at the full picture, including whether a third-party claim applies alongside any workers' comp benefits already in motion.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven flooring",
+      "Repetitive strain and overuse injuries",
+      "Vehicle collisions during work-related driving",
+      "Equipment or machinery-related injuries",
+      "Slip-and-fall accidents on commercial property",
+      "Injuries from falling objects or heavy lifting"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Beverly Hills Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Clarity on Two Separate Paths",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer no matter who was at fault, but a negligent third party, like a property owner or equipment maker, can open a separate injury claim. An independent attorney can help you understand which path, or both, might apply to your situation."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. If you're worried about your job while dealing with an injury, an attorney can explain your protections."
+      },
+      {
+        "title": "Deadlines That Actually Matter",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and if a third-party claim is involved, California's standard two-year deadline applies. Missing either window can limit your options, so timing matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while making a delivery near Wilshire Boulevard. Can I still get help?",
+        "answer": "Yes. If you were injured while working, whether behind the wheel or on foot, workers' compensation generally applies regardless of fault. If another driver or a third party contributed to the crash, there may also be a separate claim worth exploring, and an independent attorney can help sort out which applies."
+      },
+      {
+        "question": "My employer told me not to report the injury. Is that legal?",
+        "answer": "No, that's not something an employer can require. California law protects your right to report a workplace injury, and retaliation for doing so is illegal. If this has happened to you, it's worth discussing with an attorney sooner rather than later."
+      },
+      {
+        "question": "Can I sue my employer directly if I was injured on the job in Beverly Hills?",
+        "answer": "Usually not directly, since workers' compensation is typically the exclusive remedy against an employer regardless of fault. However, if a third party, such as a subcontractor, property owner, or equipment manufacturer, contributed to the injury, a separate claim against that party may be possible alongside your workers' comp benefits."
+      }
+    ]
+  }
+}

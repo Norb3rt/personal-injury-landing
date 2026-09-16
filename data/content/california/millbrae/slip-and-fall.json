@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "millbrae slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Millbrae Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Millbrae? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Millbrae store, apartment complex, or BART-adjacent property can leave you with medical bills and unanswered questions. We connect you free with an independent attorney who handles premises liability cases in San Mateo County."
+  },
+  "about": {
+    "title": "Millbrae Slip & Fall Claims",
+    "longDescription": "Millbrae's mix of retail strips along El Camino Real, residential complexes near the BART/Caltrain hub, and commercial buildings off US-101 means falls happen in a variety of settings — wet tile in a grocery store, a broken stair rail at an apartment building, uneven pavement in a parking lot. California law requires showing the property owner or manager knew, or reasonably should have known, about the hazard and didn't fix it or warn visitors. That's why what happens right after a fall matters: photos of the spill, torn carpet, or missing signage, plus witness names, can make a real difference weeks later. Surveillance footage at many Millbrae businesses is often overwritten within days or weeks, so acting quickly to request preservation is important. LawProactive doesn't practice law — we connect injured Millbrae residents with an independent attorney, free of charge, who can evaluate the specifics of where and how the fall happened.",
+    "commonInjuriesTitle": "Injuries We See in These Claims",
+    "commonInjuries": [
+      "Hip and pelvis fractures",
+      "Wrist and arm fractures from bracing a fall",
+      "Traumatic brain injury or concussion",
+      "Torn ligaments and knee injuries",
+      "Spinal disc injuries and herniation",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Millbrae Fall",
+    "items": [
+      {
+        "title": "Notice Is the Key Legal Question",
+        "desc": "California requires proof the property owner knew or should have known about the hazard and failed to address it. An attorney knows how to gather maintenance logs, inspection records, and prior complaints to establish that notice."
+      },
+      {
+        "title": "Video Evidence Disappears Fast",
+        "desc": "Many Millbrae businesses and apartment complexes recycle surveillance footage within days. A quick attorney-issued preservation request can stop that footage from being erased before it's reviewed."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Bar, Recovery",
+        "desc": "Even if a property owner argues you weren't watching where you stepped, California's pure comparative fault rule still allows partial recovery based on the percentage of fault assigned to each side."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Millbrae?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit. If the property involved is owned by a government entity — a city building, transit station, or public sidewalk — the deadline is much shorter and requires a formal claim first. It's worth having an attorney check this early."
+      },
+      {
+        "question": "What if I fell at a business near El Camino Real or the BART station?",
+        "answer": "High-traffic commercial corridors like El Camino Real see heavier foot traffic, which can mean more frequent spills, debris, or maintenance gaps. An attorney can request the store's or property manager's maintenance and cleaning records to see if the hazard existed long enough that staff should have caught it."
+      },
+      {
+        "question": "Do I need proof the owner knew about the hazard?",
+        "answer": "Yes, generally you need to show the property owner or manager either knew about the dangerous condition or should have discovered it through reasonable inspection. This is often the most contested part of a premises liability case. Documentation like photos, witness statements, and surveillance video helps build that case."
+      }
+    ]
+  }
+}

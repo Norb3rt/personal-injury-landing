@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "eastvale slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Eastvale Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Eastvale? Get matched free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a fall at an Eastvale store, warehouse, or apartment complex left you hurt, we can connect you with an independent attorney who handles premises liability cases across Riverside County. There's no cost to get matched."
+  },
+  "about": {
+    "title": "Eastvale Slip & Fall Claims",
+    "longDescription": "Eastvale has grown quickly around retail centers, distribution warehouses, and residential complexes near I-15 and Limonite Avenue, and with that growth comes wet floors, uneven pavement, and poorly lit stairwells that can catch anyone off guard. California law doesn't automatically hold a property owner responsible just because someone got hurt on their premises — the injured person generally has to show the owner knew, or reasonably should have known, about the hazard and didn't fix it or warn about it in time. That's why what happens right after a fall matters so much: photos of the spot, the condition of the flooring or lighting, and whether the location has surveillance cameras that captured the incident. LawProactive doesn't practice law ourselves; we're a free service that connects Eastvale residents with an independent attorney who can evaluate the notice question, request video before it's overwritten, and help sort out next steps.",
+    "commonInjuriesTitle": "Injuries We See From Falls",
+    "commonInjuries": [
+      "Hip fractures",
+      "Wrist and arm fractures",
+      "Torn ligaments or meniscus damage",
+      "Traumatic brain injury from a head strike",
+      "Herniated discs and spinal injury",
+      "Shoulder dislocations"
+    ],
+    "ctaText": "Get matched with an attorney who handles Eastvale premises liability claims — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Fall in Eastvale",
+    "items": [
+      {
+        "title": "Notice Has to Be Proven",
+        "desc": "California requires showing the property owner knew or should have known about the hazard before your fall. An attorney can gather maintenance logs, prior complaints, and inspection records to build that case."
+      },
+      {
+        "title": "Surveillance Video Disappears Fast",
+        "desc": "Many Eastvale retailers and warehouses overwrite security footage within days or weeks. Getting a preservation request out quickly can be the difference between having proof and having nothing."
+      },
+      {
+        "title": "Comparative Fault Won't Automatically Sink Your Claim",
+        "desc": "California follows pure comparative fault, so even if you're found partly responsible for not noticing a hazard, you may still recover a reduced amount. An attorney can help manage how fault gets argued and calculated."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Eastvale?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit. If the property involved is owned by a government entity, the window is much shorter and requires an early claim, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if the store or property manager says I was careless?",
+        "answer": "That's a common response, but California's pure comparative fault rule means you can still recover compensation even if you share some blame, just reduced by your percentage of fault. An attorney can help push back on unfair fault arguments."
+      },
+      {
+        "question": "I fell at a shopping center near Hamner Avenue in Eastvale — what should I do first?",
+        "answer": "Try to photograph the hazard, note the time and any wet-floor or warning signage (or lack of it), and ask if the location has cameras covering that area. Getting this documented early, before surfaces are cleaned or footage is deleted, helps an independent attorney evaluate whether the owner had notice of the problem."
+      }
+    ]
+  }
+}

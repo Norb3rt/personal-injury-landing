@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "san-juan-capistrano workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Juan Capistrano Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in San Juan Capistrano? Free connection to an independent attorney who handles workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a job site injury sidelines you in San Juan Capistrano, sorting out workers' comp from a possible third-party claim can feel overwhelming. LawProactive connects you, free of charge, with an independent attorney who can help sort out your options."
+  },
+  "about": {
+    "title": "San Juan Capistrano Workplace Injury Claims",
+    "longDescription": "San Juan Capistrano's mix of ranch properties, construction along Camino Capistrano, warehouses near Del Obispo Street, and small local businesses means workplace injuries here vary widely — from falls on equestrian properties to forklift accidents in a distribution yard to vehicle collisions for workers driving routes near Ortega Highway or I-5. California's workers' compensation system is usually the exclusive path against your employer no matter who was at fault, which means medical care and wage replacement typically flow through that system rather than a lawsuit. But when a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, a separate third-party claim may be available alongside your comp benefits. LawProactive doesn't practice law — we simply connect injured workers in San Juan Capistrano with an independent attorney who can look at the details of your accident, explain your options, and help you understand whether a third-party claim might apply to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven ground",
+      "Repetitive strain and overuse injuries",
+      "Equipment or machinery-related injuries",
+      "Vehicle collisions while working, including near I-5 or Ortega Highway",
+      "Struck-by or falling-object injuries at construction or warehouse sites",
+      "Burns, electrical shocks, or chemical exposure"
+    ],
+    "ctaText": "Get connected with an independent attorney to talk through your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why San Juan Capistrano Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the 30-Day Reporting Window",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days to preserve your comp claim. An attorney connected through LawProactive can help make sure that step, and everything after it, is handled correctly."
+      },
+      {
+        "title": "Spotting a Third-Party Claim Beyond Workers' Comp",
+        "desc": "Because comp is usually the exclusive remedy against your employer, a separate claim against a negligent third party, like a subcontractor, property owner, or another driver, may be the only way to recover fully. That third-party claim carries its own two-year deadline, so timing matters."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Retaliation for reporting a workplace injury is illegal in California. An independent attorney can help you understand your rights if you feel pressured or penalized after filing a claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near I-5 in San Juan Capistrano. Can I file a claim beyond workers' comp?",
+        "answer": "Possibly. If another driver caused or contributed to the crash, you may have a separate third-party claim in addition to your workers' compensation benefits. An independent attorney can review the crash details and explain what options may apply."
+      },
+      {
+        "question": "Does workers' compensation cover me if the accident was partly my fault?",
+        "answer": "Generally yes. Workers' compensation in California typically doesn't require proving fault, which is part of why it's usually the exclusive remedy against your employer. A third-party claim, however, does require showing that someone else's negligence contributed to your injury."
+      },
+      {
+        "question": "What if my employer discourages me from reporting my injury?",
+        "answer": "Retaliation against an employee for reporting a workplace injury is illegal under California law. You still generally have 30 days to report the injury, and an independent attorney can help you understand how to protect your claim if you're facing pushback."
+      }
+    ]
+  }
+}

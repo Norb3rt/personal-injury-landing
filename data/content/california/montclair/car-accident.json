@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "montclair car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Montclair Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Montclair car crash? LawProactive connects you free with an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a collision on Central Avenue, Monte Vista, Holt Boulevard, or the I-10 through Montclair left you hurt, LawProactive can connect you at no cost with an independent attorney who handles car accident claims in San Bernardino County."
+  },
+  "about": {
+    "title": "Montclair Car Accident Claims",
+    "longDescription": "Montclair sees a steady stream of injury collisions each year, with public records showing 234 injury crashes and 348 people hurt in the most recent reporting year, including one traffic fatality. Many of these happen along the city's busiest corridors — Central Avenue, Monte Vista Avenue, Holt Boulevard, and the stretch of I-10 that cuts through town — with reports clustering on Friday evenings between 5 and 7 p.m. as commuter and weekend traffic overlap. If you were hurt in one of these crashes, the days right after matter: insurers move fast, and evidence like skid marks, dashcam footage, or witness memories can fade quickly. LawProactive is not a law firm, but we connect injured Montclair residents with independent attorneys who understand how local roads, San Bernardino County court procedures, and insurance practices affect a claim. The consultation is free, and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Car Accident Cases",
+    "commonInjuries": [
+      "Whiplash and soft-tissue neck injuries",
+      "Concussions and other head trauma",
+      "Fractured bones from impact or airbag deployment",
+      "Herniated discs and lower back injuries",
+      "Torn ligaments in knees or shoulders",
+      "Cuts, bruising, and lingering nerve pain"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Other Insurer",
+    "items": [
+      {
+        "title": "California's Statute of Limitations Is Ticking",
+        "desc": "You generally have two years from the crash date to file a personal injury lawsuit in California, but claims against a government entity — say, for a road defect on a city street — can require notice in as little as six months. Waiting to act can quietly close doors you didn't know were open."
+      },
+      {
+        "title": "Comparative Fault Can Affect What You Recover",
+        "desc": "California uses pure comparative fault, meaning you can still recover damages even if you're partly responsible for the crash, though your share of fault reduces the total. An independent attorney can help make sure fault isn't overstated against you before you've even filed a claim."
+      },
+      {
+        "title": "Recorded Statements Can Be Used Against You",
+        "desc": "The other driver's insurer may ask for a recorded statement soon after the crash, but anything you say can be used to minimize your claim later. Speaking with an attorney first — and letting them handle communications — helps protect the value of your case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and the independent attorneys in our network typically work on contingency, meaning there's no fee unless you recover compensation. The initial conversation costs you nothing either way."
+      },
+      {
+        "question": "I was hurt in a crash near the I-10 and Central Avenue interchange in Montclair — does that change anything?",
+        "answer": "Not necessarily, but crashes near freeway interchanges or busy intersections can involve multiple insurance policies, commercial vehicles, or jurisdictional questions about which agency maintains the roadway. An attorney can help sort out who's involved and how that affects your claim."
+      },
+      {
+        "question": "How long do I have to file a claim after a Montclair car accident?",
+        "answer": "In most California car accident cases, you have two years from the date of the crash to file a lawsuit. If a government entity is involved — for example, a claim tied to road conditions maintained by the city or county — the deadline to file a notice can be as short as six months, so it's worth confirming your timeline early."
+      }
+    ]
+  }
+}

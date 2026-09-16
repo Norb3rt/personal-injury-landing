@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard (plain-spoken, victim-first)",
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-09-11",
+    "note": "San Jose city page."
+  },
+  "seo": {
+    "metaTitle": "San Jose Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in San Jose? Connect free with a personal injury attorney serving Santa Clara County. California gives you 2 years to file — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Hurt in a crash on the 101 or 280, in a fall, or on the job in San Jose? We connect you — free — with an independent personal injury attorney who handles Santa Clara County claims. No fee unless you recover."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Jose, California",
+    "longDescription": "As the heart of Silicon Valley, San Jose runs on commuters — and the I-280, US-101 and Monterey Road carry heavy traffic in every direction throughout the day. Public records logged roughly 3,500 injury collisions in the city in 2025, leaving nearly 4,800 people hurt, with reported crashes tending to peak on Friday evenings. Injuries here aren't limited to the freeways: pedestrians and cyclists share increasingly busy streets, and workplace and premises incidents send many residents to the emergency room each year. Whatever the cause, California law gives injured people rights and a limited time to assert them. LawProactive is a free service that connects injured residents of San Jose with an independent personal injury attorney who understands how Santa Clara County claims and courts operate. We are not a law firm; we match you with counsel and stay out of your way. You pay no fee unless your case recovers compensation.",
+    "commonInjuriesTitle": "Injuries we help San Jose residents pursue claims for",
+    "commonInjuries": [
+      "Whiplash, neck and back injuries from commuter-corridor crashes",
+      "Traumatic brain injuries and concussions",
+      "Fractures and crush injuries",
+      "Spinal cord and disc injuries",
+      "Pedestrian and bicyclist impact injuries",
+      "Serious burns, lacerations and scarring"
+    ],
+    "ctaText": "See if you have a case — free"
+  },
+  "whyChoose": {
+    "title": "What San Jose injury victims should know",
+    "items": [
+      {
+        "title": "Two years, in most cases",
+        "desc": "California generally gives you two years from the date of injury to file a lawsuit. On corridors like the 101 and 280, camera and vehicle-data evidence can vanish within days, so early action matters."
+      },
+      {
+        "title": "Shared fault won't end your claim",
+        "desc": "California follows pure comparative fault, so you can recover even if you were partly to blame — your award is reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "Most California injury cases place no limit on non-economic damages, so pain, suffering and diminished quality of life can be part of your recovery."
+      },
+      {
+        "title": "Santa Clara County know-how",
+        "desc": "Your claim runs through the Santa Clara County court system and the insurers active in the Valley. We connect you with an attorney who handles these cases locally."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Insurers contacting you before you've finished treatment",
+      "Medical bills and lost income mounting during recovery",
+      "A rushed settlement offer that falls short of your real costs",
+      "Not knowing whether your case is worth pursuing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in San Jose?",
+        "answer": "In most California cases the deadline is two years from the date of injury. If a public entity is involved — a city vehicle or a hazardous public road — the deadline can be as short as six months, so consult an attorney quickly."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "You can still recover. California's pure comparative fault rule reduces your compensation by your percentage of fault rather than barring it, even if you were mostly at fault."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney?",
+        "answer": "The case review is free, and personal injury attorneys in our network work on contingency — no fee unless they recover compensation for you."
+      },
+      {
+        "question": "Where do injury crashes cluster in San Jose?",
+        "answer": "Reported-collision records for recent years point to the I-280, US-101 and Monterey Road, with reported crashes tending to peak on Friday evenings. These are counts from public records, not a judgment about any particular route."
+      },
+      {
+        "question": "Do most cases go to trial?",
+        "answer": "No. The large majority of personal injury claims settle out of court. Your attorney handles negotiations with the insurer and only litigates if a fair settlement can't be reached."
+      }
+    ]
+  }
+}

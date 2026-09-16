@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "corte-madera workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Corte Madera Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Corte Madera? Get free help connecting with an independent attorney about workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If a workplace injury has you sidelined in Corte Madera, we can connect you with an independent attorney who can look at whether workers' comp alone covers your losses or if a third-party claim applies too."
+  },
+  "about": {
+    "title": "Corte Madera Workplace Injury Claims",
+    "longDescription": "Corte Madera's mix of small offices, retail spaces, and service businesses near US-101 means workplace injuries here run from repetitive strain to falls to equipment mishaps. Under California law, workers' compensation is typically the only path against an employer, no matter who caused the accident. But that's not always the end of the story: if a subcontractor, property owner, equipment manufacturer, or another driver on the job contributed to your injury, you may have a separate third-party claim worth exploring. Marin County workers deserve to understand both tracks before settling for less than what covers their situation. LawProactive doesn't practice law or handle claims directly — we're a free connection service that puts you in touch with an independent attorney who can walk through your specific facts, including any third-party angle, and explain what deadlines and reporting rules apply to your case.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Repetitive strain and overuse injuries",
+      "Slip-and-fall injuries on job sites",
+      "Falls from ladders or elevated platforms",
+      "Injuries from malfunctioning equipment or tools",
+      "Vehicle-related injuries during work duties",
+      "Strains from lifting or manual labor"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Corte Madera Workers Look Into Both Claim Types",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "California treats workers' comp as the exclusive remedy against your employer, but it doesn't shield a negligent third party like a subcontractor or equipment maker. An attorney can help determine if that door is open for you."
+      },
+      {
+        "title": "Reporting Deadlines Matter Early On",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and missing that window can complicate your claim. Getting guidance quickly helps protect your options on both fronts."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "California law prohibits employer retaliation against workers who report injuries or file claims. Knowing your rights matters if you're worried about your job while pursuing compensation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a work vehicle near US-101 — do I have a workers' comp claim, a third-party claim, or both?",
+        "answer": "It depends on who else was involved. If another driver caused the crash while you were on the job, you may have a workers' comp claim against your employer plus a separate third-party claim against that driver. An independent attorney can review the details and explain which paths apply to your situation."
+      },
+      {
+        "question": "My employer says I can't sue them for my injury — is that true?",
+        "answer": "Generally yes, workers' compensation is the exclusive remedy against your employer in California regardless of fault. However, this doesn't prevent a claim against a third party whose negligence contributed to your injury, such as a contractor or equipment manufacturer. An attorney can help sort out whether that applies here."
+      },
+      {
+        "question": "How long do I have to act on a third-party claim tied to my workplace injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of injury. That's separate from the 30-day window for reporting the injury to your employer for workers' comp purposes. Because these timelines run differently, getting advice sooner rather than later is usually the safer move."
+      }
+    ]
+  }
+}

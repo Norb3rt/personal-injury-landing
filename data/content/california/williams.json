@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "williams city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Williams, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Williams or Colusa County? Free, no-obligation attorney connection. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash or fall in Williams, we can connect you with an independent attorney at no cost. Serving injured residents throughout Colusa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Williams, California",
+    "longDescription": "Williams is a small city, but its roads carry a lot of pass-through and local traffic. Rt 20 and I-5 both run through town, and E Street and 8th Street handle much of the day-to-day local traffic. In the most recent full year on record, Williams saw 10 injury collisions, 14 people hurt, and 1 traffic death — public numbers that show real people dealing with real injuries. If you were hurt in one of these crashes, or in any accident around town, sorting out medical bills, insurance calls, and lost work time can feel like a second job on top of recovering. LawProactive is a free service that helps injured people in Williams connect with an independent personal injury attorney who can look at what happened and explain your options. We are not a law firm, and we don't decide outcomes or make promises about your case. Attorneys in our network work on contingency, meaning there's no fee unless you recover money. Reaching out costs nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from falls on someone else's property"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most injury claims in California must be filed within two years of the incident, and claims against a government agency can require notice in as little as six months. Waiting too long can mean losing the right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Block You",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still be able to recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, and loss of enjoyment of life, unlike some other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no hourly billing and no upfront cost to find out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the insurance company's settlement offer is fair",
+      "Feeling unsure whether being partly at fault ruins your claim",
+      "Running out of time to file without realizing a deadline exists"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and there's no cost to be connected with an independent attorney. If you move forward and the attorney takes your case, they work on contingency, so they only get paid if you recover compensation."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Williams?",
+        "answer": "In California, most personal injury claims must be filed within two years of the date of the incident. If a government entity is involved, such as a city or county road issue, the notice deadline can be as short as six months, so it's best not to wait."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Williams?",
+        "answer": "Public collision records show higher counts along corridors like Rt 20, I-5, E Street, and 8th Street, with reported crashes tending to peak on Fridays between 4 and 6 p.m. These are simply recorded crash counts, not a judgment about any road being unsafe."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means being partly responsible doesn't automatically bar you from recovering money. Your compensation would typically be reduced by your percentage of fault, but you may still have a valid claim worth discussing."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people get in touch with independent personal injury attorneys. We don't represent you directly or handle your case ourselves — that's the attorney's role once you're connected."
+      }
+    ]
+  }
+}

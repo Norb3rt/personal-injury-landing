@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "san-francisco product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Francisco Product Liability Attorney Connection",
+    "metaDescription": "Hurt by a defective product in San Francisco? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A product that fails while you are using it the way it was meant to be used should not become your burden to carry. If it happened in San Francisco, we can connect you, at no cost, with an independent attorney who handles defective product claims."
+  },
+  "about": {
+    "title": "San Francisco Product Liability Claims",
+    "longDescription": "Most of what goes wrong in a San Francisco home, garage, or workplace never makes the news. A space heater in a Mission Street flat shorts out. An e-bike battery charging overnight catches fire. A pressure cooker lid gives way, a ladder buckles, a child's toy splinters. When a product fails the person using it as intended, California law treats that failure differently from an ordinary accident. Under strict product liability, you generally do not have to prove the manufacturer was careless. You need to show the product had a defect — in its design, in how it was made, or in the warnings that came with it — and that the defect caused your injury. Everyone in the chain that brought the item to San Francisco County can share responsibility: the maker, the distributor, and the retailer who sold it. LawProactive is not a law firm. We are a free service that connects injured residents with an independent product liability attorney who takes cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from battery fires, heaters, or appliances",
+      "Lacerations from tools or kitchen equipment that break apart",
+      "Crush and amputation injuries from machinery with missing guards",
+      "Head and spinal injuries from failed ladders, chairs, or furniture",
+      "Poisoning or organ damage from contaminated food, drugs, or supplements",
+      "Choking, suffocation, or strangulation from unsafe children's products"
+    ],
+    "ctaText": "Talk through what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Route Your San Francisco Product Claim Through LawProactive",
+    "items": [
+      {
+        "title": "Strict liability shifts the focus to the product",
+        "desc": "In California, you usually do not have to prove the company was negligent. An attorney in our network can help you show the product was defective and that the defect caused your harm — which is a different, more focused task than a typical injury case."
+      },
+      {
+        "title": "The product is your evidence, and it needs protecting",
+        "desc": "Do not throw it away, return it, or let it be repaired. The attorney you are connected with can guide you on storing the item, its packaging, receipts, and any photos so nothing is lost before it can be examined."
+      },
+      {
+        "title": "More than one company may owe you an answer",
+        "desc": "Manufacturers, distributors, and the store that sold the item can all be held responsible under California law. An independent attorney can look at the full chain from factory to your front door in San Francisco County."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was in a crash on US-101 and I think a part of my car failed. Is that a product case or a car accident case?",
+        "answer": "It can be both. Many San Francisco collisions on corridors like US-101, I-80, and Mission Street are treated as ordinary traffic cases, but if a tire, airbag, brake, or seatbelt did not perform as designed, a product liability claim against the manufacturer may exist alongside any claim against another driver. Keep the vehicle from being scrapped or repaired until it can be inspected. An attorney in our network can sort out which claims apply."
+      },
+      {
+        "question": "I bought the product online and it shipped to my apartment. Can I still bring a claim in California?",
+        "answer": "Generally, yes. California's strict liability rules apply to products sold to residents here regardless of whether you bought them in a storefront or from an online retailer. Sellers and distributors, not only the manufacturer, may be responsible. Save your order confirmation, the shipping box, and any listing screenshots you can find."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. Our connection service is free, and we are not a law firm. The independent attorneys we connect you with work on contingency, which means they are paid a percentage of any recovery and you owe no attorney fee if there is none."
+      }
+    ]
+  }
+}

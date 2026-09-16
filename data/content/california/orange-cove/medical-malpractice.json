@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "orange-cove medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Orange Cove Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Orange Cove? Get connected free to an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or treatment goes wrong in Orange Cove, the road to answers can feel confusing and lonely. LawProactive connects you, at no cost, with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Orange Cove Medical Malpractice Claims",
+    "longDescription": "Orange Cove residents rely on a small handful of local clinics and, for more serious care, hospitals outside the Fresno County city limits. That reliance on outside facilities means records, specialists, and follow-up care are often spread across multiple providers and counties, which can complicate a malpractice claim if something goes wrong. A missed diagnosis, a surgical error, or a medication mistake can upend a family's life quickly, and California law places strict, specific deadlines and requirements on these cases. LawProactive doesn't practice law or represent you directly; instead, we connect you free of charge with an independent attorney in our network who can review your medical records, explain whether your situation may qualify as malpractice, and walk you through the notice and filing requirements unique to these claims. Because a poor outcome by itself isn't proof of an error, having someone evaluate the full picture matters. There's no cost to start the conversation, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries We See",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor post-treatment condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation, free and without pressure."
+  },
+  "whyChoose": {
+    "title": "What Orange Cove Families Should Know Before Filing",
+    "items": [
+      {
+        "title": "Strict Filing Windows Apply",
+        "desc": "California generally gives you one year from when you discover the harm and no more than three years from the injury itself to file, and a 90-day pre-suit notice to the provider is required before a lawsuit. Missing these windows can end a claim before it starts, so timing matters."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "A qualified medical expert typically must confirm that the care fell below the accepted standard. This isn't a formality it's a legal requirement that shapes how a claim is built and evaluated from day one."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "California's MICRA law places a statutory cap on non-economic damages like pain and suffering, and that cap increases annually. An independent attorney can explain how this affects your specific case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law requires proof that a provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney reviewing your records can help determine whether the facts point toward a viable claim."
+      },
+      {
+        "question": "I live in Orange Cove but was treated at a hospital outside Fresno County. Does that change anything?",
+        "answer": "It doesn't change the California deadlines or notice rules, but it can affect where records are held and which court has jurisdiction. An attorney in our network can sort through those details once they understand where your treatment occurred."
+      },
+      {
+        "question": "How quickly do I need to act after realizing something went wrong?",
+        "answer": "California generally requires filing within one year of discovering the harm, and no more than three years from the date of the injury, whichever comes first. There's also a 90-day pre-suit notice requirement, so reaching out sooner rather than later gives you more options."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "yucaipa city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Yucaipa, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Yucaipa? Connect free with an independent San Bernardino County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, fall, or another accident in Yucaipa, we can connect you with an independent attorney at no cost. We serve people throughout San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Yucaipa, California",
+    "longDescription": "Yucaipa's roads carry a steady mix of local traffic and commuters cutting between the I-10 corridor and neighborhood streets like Yucaipa Boulevard, Oak Glen Road, and Bryant Street. In the most recent full year on record, the city logged 151 injury collisions, with 218 people hurt and 4 lives lost. Numbers like these represent real neighbors, coworkers, and family members dealing with pain, missed work, and mounting bills. If that's you right now, LawProactive can help you take a next step. We're a free connection service — not a law firm — that puts injured people in touch with independent personal injury attorneys who take cases on contingency, meaning there's no fee unless they recover money for you. Whether your injury happened in a vehicle crash, a fall, or another type of accident, we can help you find someone who understands how San Bernardino County claims work. There's no obligation to reach out, and no cost to find out where you stand. You focus on healing; let a professional look at the legal side.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Deep cuts and lacerations",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out if you have a case — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window can shrink to as little as six months if a government entity was involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages — like pain, suffering, and loss of enjoyment of life — in a standard injury case. That matters when an injury changes your daily routine."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no bill unless they win or settle your case. That means quality legal help isn't limited to people who can afford hourly fees."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about who pays the medical bills piling up",
+      "Fear that missing work will hurt your family financially",
+      "Confusion about whether the accident was partly your fault",
+      "Uncertainty about how long you legally have to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Yucaipa?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If a government agency or vehicle was involved, that deadline can be as short as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so being partly responsible doesn't bar you from recovering compensation. Your award is simply reduced by your percentage of fault, whatever that turns out to be."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't represent clients or charge fees ourselves — the attorney you're connected with handles your case."
+      },
+      {
+        "question": "Where do injury crashes tend to cluster in Yucaipa?",
+        "answer": "Public crash records show higher collision counts along corridors like Yucaipa Boulevard, I-10, Oak Glen Road, and Bryant Street, with reports peaking on Fridays between 3 and 5 p.m. These are simply recorded patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I owe money if I talk to an attorney?",
+        "answer": "No. Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. Reaching out to LawProactive to get connected costs you nothing as well."
+      }
+    ]
+  }
+}

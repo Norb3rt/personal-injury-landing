@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "colma product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colma Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Colma, CA? LawProactive connects you free with an independent attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a defective product injures someone in Colma, the small-town streets around Hillside Boulevard and El Camino Real don't make the harm any less serious. LawProactive can connect you with an independent California attorney to sort out who's responsible."
+  },
+  "about": {
+    "title": "Colma Product Liability Claims",
+    "longDescription": "Colma is a small city, but its residents and visitors still rely daily on cars, machinery, tools, appliances, and consumer goods that are supposed to work safely. When one of those products fails — a defective part, a poorly designed tool, or a warning label that never mentioned a real risk — the person hurt is often left facing medical bills and confusion about who should be held accountable. California's strict liability rules mean an injured person doesn't have to prove a manufacturer was careless, only that the product itself was defective and caused harm. That can include the maker, a distributor, or even the local retailer who sold it. If you were injured by a faulty product anywhere in Colma or nearby San Mateo County, LawProactive can connect you with an independent attorney, free of charge, to review what happened and explain your options. There's no obligation, and the attorneys in our network only get paid if you recover.",
+    "commonInjuriesTitle": "Common Injuries From Defective Products",
+    "commonInjuries": [
+      "Burns from faulty electrical or heating devices",
+      "Lacerations or amputations from defective tools or machinery",
+      "Head or eye injuries from parts that shatter or malfunction",
+      "Poisoning or chemical burns from mislabeled products",
+      "Crush injuries from unstable furniture or appliances",
+      "Injuries from vehicle parts or airbags that fail to perform"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Product Liability Cases Work Differently",
+    "items": [
+      {
+        "title": "Strict Liability Can Apply",
+        "desc": "California often lets an injured person recover by showing a product was defective and caused harm, without having to prove the manufacturer was negligent."
+      },
+      {
+        "title": "Multiple Parties May Be Responsible",
+        "desc": "Manufacturers, distributors, and even the store that sold the product can potentially share liability under California law."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "Keeping the defective item, its packaging, and any related paperwork can be important evidence, and an attorney can advise on how to protect it."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt by a product I bought outside of Colma but use here — does that matter?",
+        "answer": "Not usually. What matters is that you were injured in California and the product was defective, not exactly where it was purchased. An independent attorney can look at the specifics of your situation and explain how California law applies."
+      },
+      {
+        "question": "Do I have to prove the manufacturer was careless?",
+        "answer": "Often no. California's strict liability approach generally focuses on whether the product itself was defective in design, manufacturing, or warnings, and whether that defect caused your injury. This can make these claims different from typical negligence cases."
+      },
+      {
+        "question": "What should I do with the product that injured me?",
+        "answer": "Try to keep it exactly as it was at the time of the injury, along with any packaging, instructions, or receipts. Don't attempt repairs or throw it away, since it may serve as key evidence for an attorney reviewing your case."
+      },
+      {
+        "question": "Is there a cost to get connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network work on contingency, meaning there's no fee unless you recover money for your injury."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "fort-bragg product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fort Bragg Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Fort Bragg? LawProactive connects you free with an independent CA attorney who handles strict liability claims."
+  },
+  "hero": {
+    "subtitle": "If a defective product hurt you or someone you love in Fort Bragg, you don't have to sort out the claim alone. LawProactive can connect you at no cost with an independent attorney who understands Mendocino County product cases."
+  },
+  "about": {
+    "title": "Fort Bragg Product Liability Claims",
+    "longDescription": "A defective product doesn't announce itself before it fails — a faulty ladder rung, a chainsaw that kicks back, a space heater that shorts out in a Fort Bragg home near Oak or Franklin Street. Because California generally applies strict liability to these cases, an injured person doesn't need to prove a manufacturer was careless, only that the product itself was flawed in its design, manufacturing, or warnings, and that the flaw caused harm. That distinction matters in a small coastal community like Fort Bragg, where a household item, a piece of commercial fishing equipment, or a tool from a local hardware store can trigger a claim against a manufacturer, distributor, or retailer far outside the county. LawProactive doesn't practice law or take a fee — we simply connect you with an independent attorney who can look at the product, the injury, and what happened next. The first step is often the simplest one: preserve the product and don't discard it before it's been examined.",
+    "commonInjuriesTitle": "Injuries We See in Product Liability Claims",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or heaters",
+      "Lacerations or amputations from power tools",
+      "Fractures from collapsing furniture or ladders",
+      "Traumatic brain injuries from defective safety equipment",
+      "Chemical exposure or poisoning from mislabeled products",
+      "Crush injuries from faulty machinery or vehicle parts"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Fort Bragg Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Works in Your Favor",
+        "desc": "Under California law, you generally don't have to prove the manufacturer was negligent — only that the product was defective and caused your injury."
+      },
+      {
+        "title": "Multiple Parties Can Be Responsible",
+        "desc": "Manufacturers, distributors, and even the retailer who sold the product locally may all share liability, which widens the paths to recovery."
+      },
+      {
+        "title": "Preserving Evidence Matters Early",
+        "desc": "An attorney can advise on keeping the product intact and documented before it's lost, repaired, or thrown away, which can be critical to a strict liability claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I need to prove the manufacturer knew about the defect?",
+        "answer": "No. Under California's strict liability framework for product defects, you typically don't need to show the manufacturer was careless or aware of the problem. You generally just need to show the product was defective and that the defect caused your injury."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Keep it exactly as it was at the time of the injury, if possible, and don't attempt repairs or throw it away. In a community like Fort Bragg, where replacement items may not be locally available, holding onto the original product can matter even more for an attorney reviewing the claim."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and the independent attorneys in our network generally work on contingency, meaning there's no fee unless they recover money for you. There's no cost or obligation just to explore your options."
+      },
+      {
+        "question": "Does it matter that Fort Bragg is a small city with fewer reported crashes?",
+        "answer": "Not for a product liability claim — these cases depend on the product and the defect, not on local crash volume. Fort Bragg's reported injury collisions along corridors like Rt 1 and Main Street are a separate data point and don't limit whether a defective product claim can move forward."
+      }
+    ]
+  }
+}

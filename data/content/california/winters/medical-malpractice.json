@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "winters medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Winters Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Winters, CA? LawProactive connects you free with an independent malpractice attorney serving Yolo County."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong in Winters, the aftermath can upend a family already stretched thin. LawProactive connects you at no cost with an independent attorney who understands Yolo County medical cases."
+  },
+  "about": {
+    "title": "Winters Medical Malpractice Claims",
+    "longDescription": "Winters is a small agricultural town in Yolo County, and many residents travel to Davis, Woodland, or Sacramento for specialized care — which means a malpractice case here often involves records and providers spread across several facilities. That complexity can make it harder for someone recovering from a medical error to piece together what actually happened. LawProactive doesn't practice law; we simply connect Winters residents with an independent attorney who can review medical records, consult a qualified expert as California generally requires, and explain whether the harm suffered goes beyond a bad outcome and into negligence. California's MICRA law places firm deadlines and specific procedural steps on these claims, including a 90-day pre-suit notice, so waiting to get informed guidance can cost valuable time. If you or a family member were harmed during treatment at a local clinic or a hospital outside Winters, a free, no-obligation conversation can help clarify your options before any deadlines pass.",
+    "commonInjuriesTitle": "Types of Harm We Commonly Hear About",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Delayed or missed diagnosis",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Winters Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Are Strict and Layered",
+        "desc": "California generally gives one year from discovery of harm and no more than three years from the injury itself, plus a required 90-day pre-suit notice before filing. Missing either step can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a poor medical result isn't automatically malpractice, California claims almost always need a qualified medical expert to confirm that the standard of care was broken. An independent attorney can help arrange that review."
+      },
+      {
+        "title": "Damages Rules Are Specific and Changing",
+        "desc": "MICRA sets a statutory cap on non-economic damages that rises each year, and understanding how that cap applies to your case matters for setting realistic expectations from the start."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Winters but was treated at a hospital in Davis or Sacramento — does that matter?",
+        "answer": "Not for whether you can pursue a claim; California's malpractice rules apply based on where the treatment occurred and where you live, not just Winters city limits. Many Winters residents receive care outside town, and an independent attorney can still evaluate those records. What matters most is gathering complete documentation from every facility involved."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the harm, and no more than three years from the date of the injury itself. There's also a mandatory 90-day pre-suit notice requirement before a lawsuit can be filed. Because these rules are strict, it's wise to get a free case review sooner rather than later."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No — California law requires showing that a provider deviated from the accepted standard of care, not just that the result was disappointing or unexpected. That's why a qualified medical expert review is almost always part of building a claim. An independent attorney can help determine whether your situation meets that threshold."
+      }
+    ]
+  }
+}

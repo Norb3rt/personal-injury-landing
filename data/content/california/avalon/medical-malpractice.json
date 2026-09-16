@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "avalon medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Avalon Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Avalon, CA? Get connected free to an independent malpractice attorney who understands MICRA's rules."
+  },
+  "hero": {
+    "subtitle": "Island medical care on Catalina comes with real limits, and when a diagnosis or treatment goes wrong, Avalon families deserve straight answers. LawProactive can connect you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Avalon Medical Malpractice Claims",
+    "longDescription": "Avalon's small, close-knit healthcare setting on Santa Catalina Island means most residents rely on a limited number of providers and, often, transport to the mainland for specialized care. When something goes wrong during that care chain — a delayed diagnosis, a medication mix-up, or a preventable complication during transfer — the effects can be serious and long-lasting. California's MICRA law governs these cases with a strict discovery-based filing window, a required 90-day pre-suit notice, and a mandatory qualified medical expert to establish that the standard of care was actually breached. A bad medical outcome by itself isn't proof of malpractice; the law requires showing a provider fell below what a reasonably careful practitioner would have done. If you believe medical negligence affected your care in Avalon, LawProactive can connect you, free of charge, with an independent attorney who can evaluate what happened and explain your options under California law.",
+    "commonInjuriesTitle": "Types of Harm We Help Connect Claims For",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Medication errors or dosage mistakes",
+      "Surgical complications or errors",
+      "Birth injuries to mother or child",
+      "Failure to properly monitor a patient",
+      "Errors during transfer to mainland facilities"
+    ],
+    "ctaText": "Talk to an independent attorney about your care in Avalon — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Avalon Patients Should Know Before Moving Forward",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines Apply",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to file a medical malpractice claim. Missing either deadline can end your case before it starts."
+      },
+      {
+        "title": "A 90-Day Notice Is Required First",
+        "desc": "Before a malpractice lawsuit can be filed in California, the provider must be given 90 days' written notice. An attorney familiar with this step can make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Testimony Is Almost Always Needed",
+        "desc": "California law requires a qualified medical expert to establish that a provider's care fell below the accepted standard. An independent attorney can help identify whether your situation meets that threshold."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad result from treatment automatically malpractice?",
+        "answer": "No. California law requires showing that a provider's care fell below what a reasonably careful practitioner would have done in the same situation. A poor outcome alone, even a painful one, doesn't establish negligence without that proof."
+      },
+      {
+        "question": "Does living on Catalina Island affect my malpractice case?",
+        "answer": "It can affect logistics, since Avalon residents often depend on a small set of local providers or transfers to mainland hospitals for advanced care. An attorney familiar with island healthcare arrangements can help sort out which providers or facilities may be involved in your claim."
+      },
+      {
+        "question": "How much money can I recover for pain and suffering?",
+        "answer": "California's MICRA law caps non-economic damages, though that cap increases each year under current law. An independent attorney can walk you through how the current cap applies and what economic damages might also be available."
+      }
+    ]
+  }
+}

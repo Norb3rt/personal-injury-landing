@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "lemon-grove slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lemon Grove Slip & Fall Attorney Referral | LawProactive",
+    "metaDescription": "Hurt in a fall in Lemon Grove? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Lemon Grove store, apartment complex, or sidewalk along Broadway can leave you with real injuries and real bills. LawProactive connects you at no cost with an independent attorney who handles premises liability claims in San Diego County."
+  },
+  "about": {
+    "title": "Lemon Grove Slip & Fall Claims",
+    "longDescription": "Falls happen fast, but the aftermath in Lemon Grove often lingers — a torn ligament, a fractured wrist, a concussion from a wet floor near Massachusetts Avenue or an uneven walkway off Lemon Grove Avenue. Under California law, a property owner isn't automatically responsible just because someone got hurt; you generally have to show the owner knew, or reasonably should have known, about the hazard and didn't fix it or warn people. That's why what happens in the minutes and days after a fall matters so much — photos of the spill or crack, names of witnesses, and a written incident report can shape the entire claim. LawProactive doesn't practice law ourselves; we're a free service that connects injured Lemon Grove residents with an independent attorney who can evaluate the notice evidence, request surveillance footage before it's erased, and handle communication with the property owner's insurer while you focus on healing.",
+    "commonInjuriesTitle": "Injuries We See in Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and forearm fractures",
+      "Torn ligaments or meniscus damage",
+      "Concussions and head injuries",
+      "Spinal disc injuries",
+      "Shoulder dislocations"
+    ],
+    "ctaText": "Tell us what happened — get matched with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Lemon Grove Fall",
+    "items": [
+      {
+        "title": "Notice Has to Be Proven",
+        "desc": "California requires showing the property owner knew or should have known about the hazard. An attorney knows how to gather maintenance logs, prior complaints, and inspection records to build that case."
+      },
+      {
+        "title": "Surveillance Video Disappears Fast",
+        "desc": "Many businesses overwrite security footage within days or weeks. Getting a preservation request out quickly can be the difference between having proof and having nothing."
+      },
+      {
+        "title": "Your Own Fault Doesn't End the Claim",
+        "desc": "California follows pure comparative fault, so even if you were partly distracted or not watching your step, you may still recover a share of damages reduced by your percentage of fault."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Lemon Grove?",
+        "answer": "Generally you have two years from the date of the fall to file a lawsuit in California. If the property involved is government-owned, such as a public sidewalk or a city building, the deadline is much shorter and requires an early administrative claim. It's worth having an attorney check which timeline applies as soon as possible."
+      },
+      {
+        "question": "What if I fell at a store near a busy road like SR-94 or Broadway and no one saw it?",
+        "answer": "A lack of witnesses doesn't necessarily end your claim, but it does make documentation more important. Taking photos of the hazard, checking for nearby security cameras, and reporting the fall to management right away all help establish what happened."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and the independent attorneys in our network typically work on contingency, meaning there's no fee unless you recover compensation. You can reach out to see if your situation qualifies without any upfront cost."
+      }
+    ]
+  }
+}

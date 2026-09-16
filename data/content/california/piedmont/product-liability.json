@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "piedmont product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Piedmont Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Piedmont, CA? Free connection to an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a faulty product injured you or someone you love in Piedmont, you don't have to sort out who's responsible on your own. LawProactive can connect you with an independent attorney who handles defective product cases across Alameda County."
+  },
+  "about": {
+    "title": "Piedmont Product Liability Claims",
+    "longDescription": "A defective product doesn't announce itself before it fails — a wobbly ladder, a malfunctioning appliance, a car part that gives out on Grand Avenue or Highland Avenue. When that happens in Piedmont, the resulting injury can upend daily life in a small, tight-knit community of just over 11,000 residents. California law gives injured people a real path forward: because the state generally applies strict liability to defective products, you're not required to prove a manufacturer was careless, only that the product was flawed and that flaw caused harm. That can mean a design that was inherently unsafe, a manufacturing error that slipped past quality control, or a missing warning about a known risk. Multiple parties along the supply chain — the maker, distributor, and retailer — may share responsibility. LawProactive connects Piedmont residents with independent attorneys who evaluate these cases and, if there's a way forward, take them on contingency, meaning no fee unless there's a recovery.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or electronics",
+      "Lacerations from tools or defective machinery parts",
+      "Head and brain injuries from failed safety equipment",
+      "Broken bones from collapsing furniture or ladders",
+      "Poisoning or chemical burns from mislabeled products",
+      "Crush injuries from faulty vehicle components"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Piedmont Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Works in Your Favor",
+        "desc": "Because California applies strict liability to most product defect claims, you generally don't have to prove the manufacturer was negligent — only that the product was defective and caused your injury."
+      },
+      {
+        "title": "Multiple Parties May Be Responsible",
+        "desc": "An attorney can look at the full supply chain, since manufacturers, distributors, and retailers can all potentially be held liable for a defective product that reaches Piedmont consumers."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "Keeping the item that caused your injury intact can be critical evidence; an independent attorney can advise you on how to protect it before it's lost, discarded, or altered."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I need to prove the manufacturer knew about the defect?",
+        "answer": "Not necessarily. Under California's strict liability approach, you typically need to show the product was defective and that the defect caused your injury, not that the manufacturer acted carelessly or knew of the problem. This makes the legal path more direct than a standard negligence claim."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Try to preserve it exactly as it was at the time of the injury, including packaging, instructions, and any remaining pieces. This is important evidence, and an attorney can advise on safe storage or documentation before you consider disposing of anything."
+      },
+      {
+        "question": "I live in Piedmont — does it matter that our city is so small for a product liability claim?",
+        "answer": "No, product liability claims aren't tied to city size or local traffic patterns; they hinge on the product's defect and how it caused harm. Piedmont residents have the same rights under California law as anyone elsewhere in Alameda County, and LawProactive can connect you with an attorney regardless of where in the city you live."
+      },
+      {
+        "question": "Is there a cost to get connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, and attorneys in the network generally work on contingency, meaning they only get paid if you recover compensation. There's no upfront cost to find out whether you have a viable claim."
+      }
+    ]
+  }
+}

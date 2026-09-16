@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "greenfield city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Greenfield, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Greenfield or Monterey County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or workplace accident near Greenfield, we can connect you free of charge with an independent attorney serving Monterey County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Greenfield, California",
+    "longDescription": "Greenfield sits along Oak Avenue and El Camino Real, with Elm Avenue and Walnut Avenue rounding out the corridors that carry most of the town's daily traffic. Public records show 25 injury collisions in the most recent final crash year, leaving 27 people hurt — a reminder that even a small city sees its share of serious wrecks. Whether it happened at a busy intersection on El Camino Real or on a quieter stretch of Elm Avenue, the aftermath of a crash can leave you dealing with medical bills, missed work, and insurance calls you didn't ask for. LawProactive is a free service — we are not a law firm — that connects injured people in Greenfield with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk, and any attorney you're matched with works on contingency, meaning there's no fee unless you recover compensation. You don't have to figure this out alone or guess at deadlines. A short conversation can help you understand where things stand and what steps, if any, make sense next for your situation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft-tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window can shrink to as little as six months if a government entity is involved. Waiting too long can mean losing the right to recover anything at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you're found partly responsible for what happened, you can still recover a share of damages. An attorney can help sort out how fault might actually be divided in your case."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California doesn't limit the amount you can seek for non-economic harm like pain, suffering, or loss of enjoyment of life. That's worth discussing with someone who understands how these claims are valued."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront fee to hire representation. They only get paid if your case results in a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you waited too long or still have time to act",
+      "Wondering if being partly at fault means you're stuck covering everything yourself"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a crash in Greenfield?",
+        "answer": "In most California injury cases you have two years from the date of the incident to file a lawsuit. If a government entity was involved — say a city vehicle or a road maintenance issue — that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover damages even if you were partially at fault. Your recovery would just be reduced by your percentage of responsibility, not eliminated entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Greenfield?",
+        "answer": "Public crash records show that reported collisions tend to happen more often on Oak Avenue, El Camino Real, Elm Avenue, and Walnut Avenue, with activity peaking on Saturdays between about 5 and 7 p.m. These are simply the corridors and times where public records show more reported collisions, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people in Greenfield and throughout Monterey County with an independent attorney who can evaluate their situation."
+      },
+      {
+        "question": "Will I owe money if my case doesn't result in a settlement?",
+        "answer": "Attorneys in our network work on a contingency basis, meaning they only get paid if you receive a settlement or award. If there's no recovery, you typically owe no attorney fees for the work done on your case."
+      }
+    ]
+  }
+}

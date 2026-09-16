@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "san-clemente slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Clemente Slip & Fall Attorney Help | LawProactive",
+    "metaDescription": "Hurt in a fall in San Clemente? Get connected free with an independent premises liability attorney working on contingency. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "From beach-access stairways to shops along Avenida Pico, San Clemente's mix of coastal foot traffic and hillside terrain creates real fall hazards. We connect you with an independent attorney who can evaluate what happened, free of charge."
+  },
+  "about": {
+    "title": "San Clemente Premises Liability Claims",
+    "longDescription": "San Clemente draws visitors and residents on foot to its pier, beach trails, and shopping corridors along S El Camino Real and N El Camino Real, and that foot traffic means falls happen — on wet tile, cracked walkways, poorly lit stairwells, and uneven parking lots. California law doesn't automatically hold a property owner responsible just because someone fell; you generally need to show the owner knew, or reasonably should have known, about the hazard and failed to address it. That's why documentation matters so much here: photos of the specific condition, witness names, and store or building surveillance footage before it gets erased. LawProactive isn't a law firm — we're a free service that connects people hurt in falls with an independent, contingency-based attorney in the area who can look at the notice issue and the timeline, and help you understand what evidence still needs to be preserved.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures from bracing a fall",
+      "Knee ligament and meniscus tears",
+      "Head injuries and concussions",
+      "Spinal disc injuries and back strain",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Notice and Evidence Matter in Your Claim",
+    "items": [
+      {
+        "title": "Proving the Owner Knew or Should Have Known",
+        "desc": "California requires showing the property owner had actual or constructive notice of the hazard and enough time to fix or warn about it. An independent attorney can help identify what evidence supports that notice."
+      },
+      {
+        "title": "A Ticking Clock on Evidence and Filing",
+        "desc": "You generally have two years to file a premises liability claim in California, but surveillance footage and physical conditions can disappear within days, so early documentation is critical."
+      },
+      {
+        "title": "Comparative Fault Doesn't Bar Your Claim",
+        "desc": "Even if you were partly distracted or moving quickly when you fell, California's pure comparative fault rule allows you to recover a share of damages proportional to the owner's responsibility."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped near the San Clemente Pier — does that change my claim?",
+        "answer": "Public beach and pier areas can involve a city or state entity rather than a private business, which shortens the claims deadline and adds a formal notice requirement. An attorney can help determine which entity controlled the area where you fell and what deadline applies."
+      },
+      {
+        "question": "What if the store says they didn't know about the spill?",
+        "answer": "That's exactly the notice issue California law focuses on — whether the hazard existed long enough, or was foreseeable enough, that the owner should have caught it. Things like spill logs, inspection schedules, and video footage often become central to answering that question."
+      },
+      {
+        "question": "Do I need to have reported the fall to the business?",
+        "answer": "It helps, but it isn't strictly required to have a claim. What matters more is preserving evidence — photos, witness contacts, and requesting that any surveillance video be saved before it's overwritten."
+      }
+    ]
+  }
+}

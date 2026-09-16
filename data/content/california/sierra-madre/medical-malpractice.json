@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "sierra-madre medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sierra Madre Medical Malpractice Help | LawProactive",
+    "metaDescription": "Connect free with an independent medical malpractice attorney serving Sierra Madre, CA. No fee unless you recover. Learn your options under California law."
+  },
+  "hero": {
+    "subtitle": "If a diagnostic error, surgical mistake, or medication mishap at a Sierra Madre-area clinic or hospital left you injured, LawProactive can connect you with an independent attorney who handles cases like yours at no upfront cost."
+  },
+  "about": {
+    "title": "Sierra Madre Medical Malpractice Claims",
+    "longDescription": "Sierra Madre residents often travel to nearby Los Angeles County facilities for surgery, imaging, or specialist care, and most visits go fine. But when a provider misses a clear warning sign, mishandles anesthesia, or sends a patient home with the wrong medication, the harm can be serious and lasting. California treats these claims differently than a typical injury case — there are strict notice rules, shortened filing windows, and a requirement that a qualified medical expert review the case before it moves forward. A bad result by itself isn't proof of malpractice; the law asks whether the provider deviated from the accepted standard of care. LawProactive doesn't practice law or represent patients directly. Instead, we listen to what happened, then connect you with an independent attorney in our network who can review medical records, consult the right experts, and explain whether your situation may support a claim — all without any upfront cost to you.",
+    "commonInjuriesTitle": "Common Malpractice-Related Injuries We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Hospital-acquired infections from poor sanitation practices"
+    ],
+    "ctaText": "Tell us what happened — a free, no-obligation attorney connection is a few questions away."
+  },
+  "whyChoose": {
+    "title": "What Sierra Madre Families Should Know Before Acting",
+    "items": [
+      {
+        "title": "The Clock Moves Fast Under MICRA",
+        "desc": "California generally gives you one year from discovering the harm, and no more than three years from the injury itself, to bring a claim. An attorney can help pin down which deadline applies to your specific timeline."
+      },
+      {
+        "title": "A 90-Day Notice Often Comes First",
+        "desc": "Before a malpractice lawsuit can be filed, California law usually requires sending the provider 90 days' written notice. Missing this step or doing it incorrectly can complicate a case, so early legal guidance matters."
+      },
+      {
+        "title": "Expert Review Isn't Optional",
+        "desc": "Almost every California malpractice claim needs a qualified medical expert to establish that the standard of care was violated. Attorneys in our network work with these experts as part of evaluating whether a claim is viable."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery near Sierra Madre — is that automatically malpractice?",
+        "answer": "Not necessarily. California law requires showing that a provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney can review your records to help determine whether the treatment itself was the problem."
+      },
+      {
+        "question": "How long do I have to bring a claim if I live in Sierra Madre?",
+        "answer": "Under MICRA, it's generally one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it occurred. Because these deadlines are strict and can be affected by the case's specific facts, it's worth getting a timeline reviewed sooner rather than later."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we don't charge for connecting you with an independent attorney. Attorneys in the network work on contingency, meaning there's no fee unless your case results in a recovery."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "lompoc product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lompoc Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Lompoc? LawProactive connects you free with an independent attorney who handles strict liability claims."
+  },
+  "hero": {
+    "subtitle": "When a faulty product injures someone in Lompoc, the path to accountability is different than a typical crash claim. LawProactive can connect you at no cost with an independent attorney who understands defective product cases in Santa Barbara County."
+  },
+  "about": {
+    "title": "Lompoc Product Liability Claims",
+    "longDescription": "A defective product doesn't need to travel far to cause serious harm — it can happen in a home near O Street, a garage off H Street, or a workplace along Rt 246. Whether it's a malfunctioning tool, a car part that failed, a household appliance, or unsafe medication, California law gives injured people a real avenue to pursue compensation from the companies that made, distributed, or sold the item. Because Lompoc sits within Santa Barbara County's broader retail and shipping network, defective products can arrive from manufacturers, warehouses, or online sellers far outside the city, which sometimes means more than one party shares responsibility. LawProactive doesn't practice law or negotiate on your behalf — we simply connect you, free of charge, with an independent attorney who can look at what happened, review the product involved, and explain what options may exist under California's product liability rules.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or batteries",
+      "Lacerations from faulty tools or machinery",
+      "Traumatic injuries from failed vehicle components",
+      "Poisoning or illness from mislabeled products",
+      "Choking or injury from unsafe consumer goods",
+      "Electrical shock from wiring or design defects"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What California Law Allows in Product Liability Cases",
+    "items": [
+      {
+        "title": "Strict Liability, Not Negligence",
+        "desc": "Under California law, you generally don't need to prove the manufacturer was careless — only that the product was defective and that the defect caused harm."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, which matters when a product passed through several hands before reaching Lompoc."
+      },
+      {
+        "title": "The Product Itself Is Central Evidence",
+        "desc": "Because the defect claim often hinges on the item involved, preserving it — rather than discarding or repairing it — can matter a great deal to how a case is evaluated."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I need to prove the manufacturer knew about the defect?",
+        "answer": "No. California's strict liability standard generally focuses on whether the product itself was defective and caused injury, not on what the manufacturer knew or intended. This is different from a typical negligence claim."
+      },
+      {
+        "question": "What if the product was purchased online or shipped from outside Lompoc?",
+        "answer": "It doesn't necessarily limit your options. Distributors, retailers, and manufacturers located anywhere can potentially be part of a claim, and an attorney can help sort out which parties may be involved."
+      },
+      {
+        "question": "Should I keep the product that caused my injury?",
+        "answer": "Yes, if possible. Keeping the product in its post-incident condition, along with packaging, receipts, or manuals, can be important for an attorney reviewing what happened. Avoid attempting repairs or throwing it away before speaking with someone."
+      },
+      {
+        "question": "Is this connection service free for Lompoc residents?",
+        "answer": "Yes. LawProactive doesn't charge anything to connect you with an independent attorney, and attorneys in the network typically work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

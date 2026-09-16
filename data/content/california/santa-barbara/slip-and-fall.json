@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "santa-barbara slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Barbara Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on someone else's property in Santa Barbara? LawProactive connects you, free, with an independent premises liability attorney."
+  },
+  "hero": {
+    "subtitle": "If a fall on a Santa Barbara sidewalk, storefront, or rental property left you hurt, we can connect you at no cost with an independent premises liability attorney. You focus on healing; the attorney handles notice, deadlines, and evidence."
+  },
+  "about": {
+    "title": "Santa Barbara Slip & Fall and Premises Liability Claims",
+    "longDescription": "A wet tile floor inside a State Street shop, a cracked step at a rental on De La Vina Street, a loose railing along Cliff Drive — falls in Santa Barbara rarely announce themselves. When they happen, the question under California law is whether the property owner knew, or reasonably should have known, about the hazard and did nothing to fix it or warn you. That element, called notice, is where most premises claims are won or lost, and it depends on what gets recorded in the first few days. Photos of the spot, the names of anyone who saw you fall, and a prompt written request that the business preserve its surveillance footage can matter more than anything said later. Santa Barbara County residents face a two-year filing deadline for most claims, with a shorter window when a city, county, or state agency owns the property. LawProactive is a free service, not a law firm. We connect you with an independent attorney who handles premises cases on contingency, so there is no fee unless your case recovers.",
+    "commonInjuriesTitle": "Injuries We Often See After Falls in Santa Barbara",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and elbow breaks from catching a fall",
+      "Concussions and other head injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Herniated discs and lower back strain",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Santa Barbara Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole case",
+        "desc": "California requires proof the owner knew or should have known about the hazard. The attorneys in our network know how to build that record through inspection logs, prior complaints, and witness accounts."
+      },
+      {
+        "title": "Video disappears fast",
+        "desc": "Many Santa Barbara businesses overwrite surveillance footage within days. A quick preservation letter from an attorney can keep the clearest evidence of your fall from being lost."
+      },
+      {
+        "title": "Deadlines and shared fault, handled",
+        "desc": "Most claims carry a two-year limit, but falls on public property trigger a far shorter window. Because California uses pure comparative fault, an attorney also works to keep any blame assigned to you from shrinking your recovery unfairly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a City of Santa Barbara sidewalk or in a county park. Is the deadline still two years?",
+        "answer": "No. When a public entity such as the city, Santa Barbara County, or the State owns or maintains the property, you generally must file a formal government claim within a much shorter period before any lawsuit is possible. Missing that step can end the case regardless of how clear the hazard was. This is one of the first things an attorney will sort out for you."
+      },
+      {
+        "question": "The store says I wasn't watching where I was going. Does that end my claim?",
+        "answer": "Not under California's pure comparative fault rule. If a jury decided you were partly responsible, your recovery would be reduced by that percentage rather than eliminated. The store still has to answer for whether it knew about the hazard and failed to fix or flag it."
+      },
+      {
+        "question": "What should I do in the first 48 hours after a fall in Santa Barbara?",
+        "answer": "Get medical care first, then photograph the exact spot, including anything that shows the condition and the lack of warning signs. Ask for the names of witnesses and request an incident report from the business. As soon as possible, have an attorney send a written demand that any surveillance video be preserved, since many systems erase footage on a rolling schedule."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "lindsay medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lindsay Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Lindsay, CA? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis is missed or a treatment goes wrong at a Lindsay-area clinic or hospital, the aftermath can be confusing and isolating. LawProactive can connect you, at no cost, with an independent attorney who handles medical malpractice claims under California's specific rules."
+  },
+  "about": {
+    "title": "Lindsay Medical Malpractice Claims",
+    "longDescription": "Lindsay residents rely on a handful of local clinics and, for more serious care, hospitals in the wider Tulare County area. Most visits go fine, but when a provider misses a diagnosis, makes a surgical error, or mismanages medication, the consequences can follow a patient for years. California treats these cases differently than a typical injury claim — medical malpractice suits fall under MICRA, a body of law with its own notice requirements, filing deadlines, and expert-testimony rules. Because a poor medical outcome by itself doesn't establish malpractice, these claims usually hinge on whether a qualified medical expert can show the provider deviated from the accepted standard of care. If you or a family member in Lindsay believes a diagnosis, procedure, or hospital stay went wrong, LawProactive can connect you with an independent attorney familiar with these cases — free of charge, with no obligation, and no fee unless there's a recovery.",
+    "commonInjuriesTitle": "Common Malpractice-Related Harms",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up after treatment"
+    ],
+    "ctaText": "Talk to an independent attorney about what happened — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "What Matters Most in a California Malpractice Claim",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives one year from when you discover the harm, and never more than three years from the injury itself, plus a required 90-day pre-suit notice to the provider. Missing any of these steps can end a claim before it starts."
+      },
+      {
+        "title": "A Capped Category of Damages",
+        "desc": "MICRA places a statutory cap on non-economic damages (like pain and suffering) that rises each year by law. An attorney can explain how this cap may apply to your specific situation."
+      },
+      {
+        "title": "Expert Testimony Is Almost Always Required",
+        "desc": "Because a bad medical outcome alone isn't proof of malpractice, California nearly always requires a qualified medical expert to establish that the standard of care was breached. Connecting with the right attorney early helps get that process moving."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Lindsay — does that mean malpractice happened?",
+        "answer": "Not necessarily. California law is clear that a poor result by itself isn't evidence of malpractice; there has to be a showing that the provider's care fell below the accepted medical standard. An independent attorney can help evaluate whether your case has that kind of support, often with input from a qualified medical expert."
+      },
+      {
+        "question": "How much time do I have to bring a claim?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date of the injury itself. There's also a 90-day pre-suit notice requirement before a lawsuit can be filed, so it helps to act sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I can recover?",
+        "answer": "California's MICRA law caps non-economic damages — things like pain and suffering — though that cap rises each year under the statute. Economic damages, such as medical bills and lost income, are generally handled separately. An attorney can walk you through how this framework may apply to your situation."
+      }
+    ]
+  }
+}

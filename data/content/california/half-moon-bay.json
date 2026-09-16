@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "half-moon-bay city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Half Moon Bay, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Half Moon Bay? Free connection to a San Mateo County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on Highway 1 or a fall on someone else's property, we'll connect you free of charge with an independent attorney serving San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Half Moon Bay, California",
+    "longDescription": "Half Moon Bay's roads carry a steady mix of coastal commuters, farm traffic, and weekend visitors headed to the beaches, and that mix shows up in the numbers. In the most recent full year on record, the city logged 32 injury collisions and 45 people hurt, with no traffic deaths reported. Public crash records point to Route 1, SR-1, N Cabrillo Highway, and San Mateo Road as the corridors where collisions are most often reported, and Sunday evenings between 5 and 7 p.m. see a noticeable cluster of reports — likely tied to weekend traffic heading back out of town. If you were hurt in a crash or another kind of accident here, LawProactive can help. We are a free service that connects injured people with an independent personal injury attorney in the San Mateo County area — we are not a law firm, and any attorney you're connected with works on contingency, meaning there's no fee unless you recover compensation. Getting the right information quickly matters, especially with California's filing deadlines.",
+    "commonInjuriesTitle": "Common Injuries We See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from falls on uneven property"
+    ],
+    "ctaText": "Find out where you stand — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "A Filing Clock That Doesn't Wait",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government entity can require notice in as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, so even if you're found partly responsible for what happened, you can still recover damages — just reduced by your share of fault. This applies whether the accident happened on SR-1 or in a parking lot."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Damages",
+        "desc": "Unlike some states, California doesn't cap non-economic damages — like pain, suffering, and loss of enjoyment of life — in ordinary injury cases. That matters when an injury changes how you live day to day."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, meaning their fee comes out of any settlement or award — not your pocket up front. If there's no recovery, there's no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know who's going to pay them",
+      "I'm not sure if I was partly at fault and if that means I can't get help",
+      "I don't know how much time I actually have before it's too late to file",
+      "I don't want to sign something or talk to an adjuster before I understand my options"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Half Moon Bay?",
+        "answer": "In California, you generally have two years from the date of the injury to file a personal injury lawsuit. If your claim involves a government agency — like a road maintained by a city or county — that window can shrink to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some of the blame. Your total recovery is simply reduced by the percentage of fault assigned to you, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Half Moon Bay?",
+        "answer": "Public crash records show that Route 1, SR-1, N Cabrillo Highway, and San Mateo Road are among the corridors with the highest reported collision counts in the city. Reports also tend to peak on Sunday evenings between 5 and 7 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — California does not cap non-economic damages, such as pain and suffering, in typical personal injury cases. This is different from some other states and can matter significantly for injuries that affect your daily life long-term."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we are not a law firm and don't charge any fees ourselves. Attorneys in our network work on contingency, so they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

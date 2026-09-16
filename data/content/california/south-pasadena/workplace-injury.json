@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "south-pasadena workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "South Pasadena Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in South Pasadena? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "When a job-related injury sidelines you in South Pasadena, sorting out workers' comp from a possible third-party claim can feel overwhelming. LawProactive connects you with an independent attorney, at no cost to you, who can help sort out your options."
+  },
+  "about": {
+    "title": "South Pasadena Workplace Injury Claims",
+    "longDescription": "South Pasadena's small-city footprint means many residents commute along Fair Oaks Avenue, Huntington Drive, or Monterey Road to jobs in Pasadena, Alhambra, or downtown Los Angeles, and some are hurt on job sites, in delivery vehicles, or on client properties rather than at a fixed office. California generally routes workplace injuries through the workers' compensation system regardless of fault, but that's not always the end of the story. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to the accident, a separate third-party injury claim may also be available alongside your comp benefits. Knowing which path applies, and how the two interact, matters for your recovery. LawProactive doesn't practice law; we simply connect injured workers with an independent attorney in the network who can review the details, explain the workers' comp process, and evaluate whether a third-party claim is worth pursuing. The consultation costs nothing, and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Repetitive strain and overuse injuries",
+      "Injuries from malfunctioning tools or machinery",
+      "Vehicle collisions while driving for work",
+      "Struck-by or falling-object injuries on job sites",
+      "Injuries from unsafe conditions on a client's or third party's property"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why South Pasadena Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle Comp From Third-Party Claims",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker may still owe you separately. An attorney can help you spot when both paths apply."
+      },
+      {
+        "title": "We Know the Clock Is Ticking",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and a third-party claim carries its own 2-year deadline under California law. Getting connected early helps preserve your options."
+      },
+      {
+        "title": "We Understand Retaliation Concerns",
+        "desc": "California law prohibits employers from retaliating against workers who report an on-the-job injury. If you're worried about your job while dealing with an injury, an independent attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a delivery route that runs through South Pasadena on Fair Oaks Avenue. Is that a workers' comp case or something else?",
+        "answer": "It could involve both. If another driver caused the crash while you were working, you may have a workers' comp claim against your employer and a separate third-party claim against that driver. An attorney can look at the specifics and explain how the two claims might work together."
+      },
+      {
+        "question": "My employer says I can't sue them for my injury. Is that true?",
+        "answer": "In most cases, yes, workers' compensation is the exclusive remedy against your employer regardless of fault, which means you generally can't file a separate lawsuit against them directly. However, if someone other than your employer, like a subcontractor or equipment maker, contributed to your injury, you may still have a claim against that third party."
+      },
+      {
+        "question": "How soon do I need to tell my employer about my injury?",
+        "answer": "California law generally requires you to report a workplace injury to your employer within 30 days. Waiting too long can complicate your claim, so it's best to report the injury as soon as reasonably possible and seek guidance if you're unsure how to proceed."
+      }
+    ]
+  }
+}

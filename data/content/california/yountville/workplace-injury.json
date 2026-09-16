@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "yountville workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Yountville Workplace Injury Help | LawProactive",
+    "metaDescription": "Injured on the job in Yountville? Get connected free with an independent attorney who understands Napa County workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "Workers hurt on vineyard properties, hospitality sites, or job sites near Rt 29 and Washington Street in Yountville deserve clear answers about their options. LawProactive connects you at no cost with an independent attorney familiar with Napa County workplace injury matters."
+  },
+  "about": {
+    "title": "Yountville Workplace Injury Claims",
+    "longDescription": "Yountville's economy runs on hospitality, wine production, and the small businesses that support both, which means workplace injuries here can range from kitchen burns and falls at resort properties to equipment accidents at vineyards along Rt 29 and California Drive. Most injured workers first go through California's workers' compensation system, since it's typically the exclusive remedy against an employer regardless of who was at fault. But when a subcontractor, equipment manufacturer, property owner, or another company's employee contributed to the harm, a separate third-party injury claim may be possible alongside workers' comp. Given Yountville's small population and tight-knit business community, workers sometimes hesitate to raise concerns about a claim. LawProactive offers a free way to get matched with an independent attorney who can look at the details of your situation and explain what paths may be available, without any pressure or obligation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders or elevated work areas",
+      "Burns from kitchen or food-service equipment",
+      "Repetitive strain and overexertion injuries",
+      "Machinery and equipment-related injuries",
+      "Vehicle collisions during work-related driving",
+      "Slips on wet or uneven surfaces at job sites"
+    ],
+    "ctaText": "Get matched with an independent attorney at no cost — no obligation, no pressure."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney",
+    "items": [
+      {
+        "title": "Understanding Your Third-Party Options",
+        "desc": "While workers' comp is usually the exclusive remedy against your employer, a negligent third party like a subcontractor or equipment maker may still owe you compensation. An attorney can help sort out whether that applies to your situation."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to punish you for reporting a workplace injury. Knowing your rights can make it easier to report what happened within the required 30-day window."
+      },
+      {
+        "title": "Awareness of Claim Deadlines",
+        "desc": "Third-party injury claims in California generally must be filed within two years, and that clock doesn't wait. Speaking with an attorney early helps make sure you don't miss a deadline that could limit your options."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working at a Yountville vineyard or hotel — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is your primary path since it typically serves as the exclusive remedy against your employer, regardless of fault. However, if someone other than your employer, such as a contractor or equipment supplier, contributed to your injury, you may also have a separate third-party claim. An independent attorney can help you understand which paths apply to your situation."
+      },
+      {
+        "question": "How long do I have to report a workplace injury in California?",
+        "answer": "You generally need to report a workplace injury to your employer within 30 days. Waiting too long can complicate your claim, so it's best to report as soon as possible after the incident, even if the injury seems minor at first."
+      },
+      {
+        "question": "Can my employer fire me for reporting an injury in Yountville?",
+        "answer": "No, California law prohibits retaliation against employees who report workplace injuries. If you're worried about how a small local employer might respond, an independent attorney can help you understand your protections before you report."
+      }
+    ]
+  }
+}

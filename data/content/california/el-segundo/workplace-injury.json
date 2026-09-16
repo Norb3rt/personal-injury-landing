@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "el-segundo workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Segundo Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in El Segundo? Get connected free with an independent attorney who understands workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "El Segundo's mix of aerospace campuses, warehouses near Douglas Street, and busy corporate corridors means workplace injuries happen in all kinds of settings. If you were hurt while working, LawProactive can connect you with an independent attorney at no cost to you."
+  },
+  "about": {
+    "title": "El Segundo Workplace Injury Claims",
+    "longDescription": "El Segundo's economy runs on a blend of aerospace facilities, logistics operations, and office campuses clustered near Sepulveda Boulevard and Imperial Highway. That variety means workplace injuries here can range from repetitive strain in an office setting to serious equipment or vehicle-related incidents on a job site or loading dock. In most cases, California workers' compensation is the path for medical care and lost wages, regardless of who caused the accident. But when a subcontractor, delivery driver, property owner, or equipment manufacturer contributed to the injury, a separate claim against that third party may also be possible. Figuring out which path — or both — applies to your situation isn't something you should have to sort out alone while recovering. LawProactive doesn't practice law; we simply connect injured workers in El Segundo with an independent attorney who can look at the facts and explain the options, free of charge and without pressure.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, docks, or elevated platforms",
+      "Machinery and equipment-related injuries",
+      "Repetitive strain and overuse injuries",
+      "Vehicle collisions during work-related driving",
+      "Warehouse and forklift incidents",
+      "Chemical exposure or respiratory injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why El Segundo Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Clarity Between Comp and Third-Party Claims",
+        "desc": "An independent attorney can help sort out whether your injury falls under workers' comp, a third-party claim, or both, since California law allows separate action against a negligent outside party even when comp applies."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Reporting a workplace injury within 30 days is required, and California law prohibits employers from retaliating against workers who do so — an attorney can help you understand your rights if that line gets crossed."
+      },
+      {
+        "title": "Awareness of Claim Deadlines",
+        "desc": "Third-party injury claims in California carry a two-year filing deadline, so getting matched with an attorney early helps make sure that window isn't missed while other paperwork is being handled."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a warehouse near Douglas Street — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is the required first path regardless of fault. If a third party, like a delivery contractor or equipment supplier, contributed to the accident, a separate claim may also be possible. An independent attorney can review the details and explain which options apply to your situation."
+      },
+      {
+        "question": "What happens if my employer retaliates after I report an injury?",
+        "answer": "California law makes it illegal for an employer to retaliate against a worker for reporting a job injury. If you believe that happened, it's worth having an independent attorney evaluate your situation quickly, since these cases often involve their own timelines and evidence."
+      },
+      {
+        "question": "How long do I have to report an injury or file a claim?",
+        "answer": "Generally, workplace injuries should be reported to your employer within 30 days. If a third-party claim is involved, California allows up to two years to file. Because these deadlines run differently, it helps to get guidance early rather than waiting."
+      }
+    ]
+  }
+}

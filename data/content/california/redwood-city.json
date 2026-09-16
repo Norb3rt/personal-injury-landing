@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "redwood-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Redwood City, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Redwood City? Connect free with an independent San Mateo County injury attorney. 2 years to file in California. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Car crash, pedestrian injury, slip and fall, or dog bite in Redwood City? LawProactive connects you for free with an independent personal injury attorney serving San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Redwood City, California",
+    "longDescription": "Redwood City sits along the Peninsula's busiest stretch, and its roads reflect that. In 2025, the city recorded 305 injury collisions, with 412 people hurt and one life lost, according to public records. US-101 runs the length of town, Woodside Road funnels traffic to and from the freeway, and El Camino Real and Middlefield Road carry steady local volume all day. Collision reports tend to cluster on Fridays between 5 and 7 p.m., when commuters, deliveries and weekend traffic converge. If one of those crashes changed your week, your month, or your year, you probably have questions and not much energy to chase answers. That is where LawProactive comes in. We are a free service, not a law firm. What we do is connect you with an independent personal injury attorney who handles cases in San Mateo County, so you can talk through your options without pressure. The attorneys in our network take cases on contingency, meaning there is no fee unless your case results in a recovery. Whether you were rear-ended near the Caltrain station downtown, hit while crossing El Camino Real, or injured somewhere other than a road entirely, a conversation costs you nothing. Reaching out early helps, since California limits how long you have to act.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Redwood City",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken bones from pedestrian and bicycle crashes",
+      "Back and spinal injuries",
+      "Soft-tissue tears and joint damage from falls",
+      "Cuts, bruising and scarring from dog bites"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Redwood City Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "The clock is real: two years in California",
+        "desc": "Most California injury claims must be filed within two years of the injury. Claims against a city, county or state agency can require notice in as little as six months, so getting connected early matters."
+      },
+      {
+        "title": "Partly at fault? You may still recover",
+        "desc": "California follows pure comparative fault. If you share some blame for a crash on Woodside Road or anywhere else, your recovery is reduced by your percentage, not wiped out."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In ordinary California injury cases there is no statutory limit on non-economic damages like pain, suffering and loss of enjoyment of life. An attorney can explain how that applies to your situation."
+      },
+      {
+        "title": "Nothing out of pocket to get started",
+        "desc": "Our connection is free, and the independent attorneys in our network work on contingency. You owe no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work right now and the medical bills are already piling up.",
+      "I was partly at fault, so I assume I have no case.",
+      "I can't afford a lawyer, so I figure I'll just handle it myself."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Redwood City?",
+        "answer": "For most personal injury claims in California, you have two years from the date of the injury. If a government entity is involved, such as a city vehicle or a poorly maintained public sidewalk, you may need to file a formal claim within six months. An attorney can pin down the exact deadline for your facts."
+      },
+      {
+        "question": "Where do crashes tend to happen in Redwood City?",
+        "answer": "Based on public-record collision counts, the highest-volume corridors are US-101, Woodside Road, El Camino Real and Middlefield Road. Reports also tend to peak on Fridays between 5 p.m. and 7 p.m. These are simply counts of where and when collisions were recorded, not a judgment about any particular road."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses pure comparative fault, so sharing some responsibility does not bar you from recovering. Your compensation is reduced by your share of fault, and the rest can still be pursued. Insurers sometimes overstate your fault, which is one reason people choose to talk with an attorney first."
+      },
+      {
+        "question": "Is LawProactive a law firm, and does it cost anything?",
+        "answer": "No, LawProactive is not a law firm and does not provide legal advice or representation. We are a free service that connects you with an independent personal injury attorney serving San Mateo County. If you hire that attorney, they work on contingency, meaning no fee unless there is a recovery."
+      },
+      {
+        "question": "What kinds of injury cases can I be connected for?",
+        "answer": "Car, truck and motorcycle crashes are common, but the network also handles pedestrian and bicycle injuries, slip-and-fall incidents, dog bites, and other situations where someone else's negligence caused harm. If you are unsure whether your situation qualifies, reach out anyway. It costs nothing to ask."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "lancaster slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lancaster Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a slip and fall in Lancaster, CA? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Fell on a wet floor, a broken walkway, or a poorly lit stairwell somewhere in Lancaster? We'll connect you, at no cost, with an independent attorney who knows how California premises liability cases are actually proven."
+  },
+  "about": {
+    "title": "Lancaster Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter at first. You catch yourself on a wet grocery aisle off Avenue K, or trip on a broken curb outside a shop along Sierra Highway, and your first thought is embarrassment, not paperwork. In Lancaster, though, the question that decides a premises liability claim is simple to state and hard to prove: did the property owner know about the hazard, or should they have known, and did they fail to fix it or warn you? Lawyers call that notice, and it sits at the center of California law on this subject. Evidence fades fast. Spills get mopped, cracked tiles get patched, and store surveillance footage is often overwritten within days. LawProactive is a free service, not a law firm. We connect people hurt on someone else's property in Lancaster and the surrounding parts of Los Angeles County with an independent attorney who handles these claims on contingency, meaning no fee unless there is a recovery. You focus on healing. The attorney focuses on proof.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Lancaster",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and shoulder fractures from bracing",
+      "Knee ligament and meniscus tears",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back injuries",
+      "Ankle sprains and fractures"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent Lancaster attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Lancaster Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys Who Understand the Notice Requirement",
+        "desc": "In California, it's usually not enough to show you fell; you have to show the owner knew or should have known about the hazard. The attorneys in our network build cases around that question from day one."
+      },
+      {
+        "title": "Fast Action on Video and Physical Evidence",
+        "desc": "Surveillance footage from Lancaster stores, apartment complexes, and parking lots is often erased within days. An attorney can send a preservation demand quickly so the footage and incident reports don't disappear."
+      },
+      {
+        "title": "Clear Guidance on Deadlines and Shared Fault",
+        "desc": "California gives you two years to file against a private owner, but claims against a city or county come with much shorter deadlines. And because the state uses pure comparative fault, being partly to blame reduces a claim rather than ending it."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a sidewalk or in a park owned by the City of Lancaster or Los Angeles County. Is the process different?",
+        "answer": "Yes, and the difference matters. When a public entity owns the property, California generally requires you to file a formal government claim within six months of the injury before any lawsuit can proceed, far shorter than the two-year window that applies to private owners. Because of that, it's worth speaking with an attorney soon after a fall on city or county property in Lancaster."
+      },
+      {
+        "question": "The store manager said I should have been watching where I was going. Does that end my claim?",
+        "answer": "Not in California. The state follows pure comparative fault, which means your recovery is reduced by whatever share of blame is assigned to you, but the claim is not thrown out. If a jury found you 20 percent responsible for not noticing a spill, for example, the owner would still be responsible for the other 80 percent."
+      },
+      {
+        "question": "What should I do in the first few days after a fall to protect my case?",
+        "answer": "Photograph the hazard and the surrounding area as soon as you safely can, and note whether there were warning signs, lighting, or mats. Ask for an incident report and get the names of any witnesses. Then contact an attorney promptly so a written request can go out to preserve surveillance video before it's overwritten, which is often the strongest evidence that an owner knew or should have known about the problem."
+      }
+    ]
+  }
+}

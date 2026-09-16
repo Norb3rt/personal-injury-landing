@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "oroville workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oroville Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Oroville, CA? LawProactive connects Butte County workers with an independent injury attorney, free. Learn about third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured working in Oroville, workers' compensation may not be your only option. LawProactive can connect you, at no cost, with an independent attorney who can explain whether a third-party claim applies to what happened to you."
+  },
+  "about": {
+    "title": "Oroville Workplace Injury Claims",
+    "longDescription": "Work in Oroville looks different from one block to the next. Some people spend their shifts near the dam or along the Feather River, others move goods in and out of warehouses, staff medical offices, or drive routes that cross Oroville Dam Boulevard East and Olive Highway several times a day. When an injury happens on the clock, California workers' compensation is usually the only claim you can bring against your employer, and fault does not factor into it. That part is well known. What many Butte County workers do not hear is that a separate injury claim may exist when someone outside your employer contributed to the harm — a subcontractor on the same site, a property owner who ignored a hazard, the maker of a defective tool, or another driver on Feather River Boulevard. Oroville recorded 102 injury collisions in 2025, and some of those involved people who were simply working. LawProactive is a free service, not a law firm. We connect you with an independent attorney who can look at both routes and explain what applies to you.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Oroville Workplace Cases",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, or loading docks",
+      "Back and spine injuries from lifting or repetitive strain",
+      "Crush or amputation injuries from machinery",
+      "Burns and chemical exposure",
+      "Collisions while driving a work vehicle",
+      "Heat illness during outdoor summer shifts"
+    ],
+    "ctaText": "Tell us what happened on the job — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Oroville Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look past the workers' comp ceiling",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer in California, but it does not shield a negligent subcontractor, property owner, equipment maker, or other driver. The attorneys we connect you with know how to identify a third party when one exists."
+      },
+      {
+        "title": "We help you stay inside the deadlines",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and a third-party injury claim generally must be filed within two years. Getting connected early means those dates are tracked from the start."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency, and our connection service costs you nothing. Retaliation for reporting an injury is illegal in California, and the attorney can address that too if it comes up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver while making deliveries on Olive Highway for my employer. Is that just a workers' comp case?",
+        "answer": "Not necessarily. Because you were working, workers' compensation would typically cover your medical care and part of your lost wages. Since the other driver is a third party rather than your employer, you may also have a separate injury claim against that driver, and it carries California's two-year deadline. An independent attorney can review both pieces together."
+      },
+      {
+        "question": "What if I waited a few weeks to report my injury?",
+        "answer": "California asks you to report a work injury to your employer within 30 days, so a delay of a few weeks may still fall inside that window. Report it in writing as soon as you can and keep a copy. If your employer pushes back or treats you differently for reporting, that retaliation is illegal, and it is worth raising with an attorney."
+      },
+      {
+        "question": "Can I be fired for filing a workplace injury claim in Butte County?",
+        "answer": "No. California law prohibits employers from retaliating against workers who report an injury or file a workers' compensation claim. If you are demoted, cut from the schedule, or let go after reporting, tell the attorney you are connected with, because that conduct may support its own claim."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "union-city workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Union City Workplace Injury Attorney | LawProactive",
+    "metaDescription": "Hurt at work in Union City? LawProactive connects you, free, with an independent attorney who reviews workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in Union City? A free, no-obligation connection to an independent attorney who can tell you whether workers' comp is your only option or whether someone else owes you more."
+  },
+  "about": {
+    "title": "Union City Workplace Injury Claims",
+    "longDescription": "Getting hurt on the job in Union City raises two questions at once: how do I get treated, and who actually pays. Under California law, workers' compensation normally covers you no matter who was at fault, and it is usually the only claim you can bring against your own employer. When someone outside your employer contributed to the injury, though, a separate personal injury claim may exist alongside the comp case. Think of a delivery route on I-880 or Whipple Road where another driver causes a crash, a subcontractor's mistake on a job site, a defective tool, or a property owner who left a hazard in place. Public collision records for Union City show 179 injury crashes and 240 people injured in 2025, and plenty of the driving in this part of Alameda County happens on the clock. LawProactive is a free connection service, not a law firm. We match you with an independent attorney who can sort out which claims apply and who works on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Union City Workers Commonly Report",
+    "commonInjuries": [
+      "Back and shoulder strains from lifting or repetitive motion",
+      "Falls from ladders, loading docks, or scaffolding",
+      "Crush and pinch injuries from machinery or forklifts",
+      "Crash injuries while driving a company or delivery vehicle",
+      "Burns and chemical exposure",
+      "Head injuries from falling objects or slips"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Union City Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look past the comp claim",
+        "desc": "Workers' compensation is usually your exclusive remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver can be held separately responsible. The attorneys we connect you with check for both."
+      },
+      {
+        "title": "Deadlines are handled early",
+        "desc": "You have 30 days to report the injury to your employer and two years to bring a third-party claim. An early connection means neither window slips by while you focus on healing."
+      },
+      {
+        "title": "No cost to you, and retaliation is illegal",
+        "desc": "Our service is free, and network attorneys work on contingency with no fee unless there is a recovery. California law also forbids your employer from punishing you for reporting an injury or filing a claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on Alvarado Niles Road while making deliveries for my employer. Is that a work injury or a car accident?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of fault. Because another driver caused the crash, you may also have a separate injury claim against that driver, which can cover losses that comp does not. An attorney can coordinate the two so they do not work against each other."
+      },
+      {
+        "question": "What happens if I do not report my injury right away?",
+        "answer": "California asks you to notify your employer within 30 days of the injury. Waiting longer can complicate or weaken a workers' compensation claim, even if the injury was real. Report it in writing as soon as you can, keep a copy, and then reach out so an attorney can review where things stand."
+      },
+      {
+        "question": "Can I sue my employer directly in Union City?",
+        "answer": "In most cases, no. Workers' compensation is the exclusive remedy against your employer in California, which means you generally cannot file a separate lawsuit against them. The exception is when a third party, such as a subcontractor, a property owner, or the maker of a defective machine, shares responsibility. Those third-party claims carry a two-year deadline and are handled as ordinary personal injury cases."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "hughson medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hughson Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Hughson, CA? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or treatment goes wrong in a Hughson clinic or hospital, sorting out what happened can feel overwhelming. LawProactive connects Hughson residents with independent attorneys who evaluate medical malpractice claims at no upfront cost."
+  },
+  "about": {
+    "title": "Hughson Medical Malpractice Claims",
+    "longDescription": "Hughson is a small Stanislaus County community, and many residents drive to nearby Modesto or Turlock for specialized care, or rely on local clinics for everyday medical needs. When something goes wrong during that care — a missed diagnosis, a surgical mistake, a medication mix-up — patients are often left with more questions than answers. California law sets specific rules for these cases, including a shortened filing window and a requirement that a qualified medical expert review the claim before it can move forward. LawProactive doesn't practice law or make judgments about whether an error occurred. Instead, we connect Hughson residents with independent attorneys who understand the MICRA framework and can review medical records to determine whether the standard of care was met. There's no cost to get that conversation started, and no obligation to move forward afterward.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect You About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or treat a known condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Hughson Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the MICRA Clock",
+        "desc": "California generally gives one year from discovering the harm, and no more than three years from the injury itself, to bring a claim. An attorney can help you track these deadlines before they close."
+      },
+      {
+        "title": "Expert Review Comes First",
+        "desc": "Because a qualified medical expert is almost always required to support a malpractice claim, the attorneys we connect you with typically arrange that review before deciding how to proceed."
+      },
+      {
+        "title": "No Upfront Cost, No Guesswork",
+        "desc": "Attorneys in our network work on contingency, meaning there's no fee unless you recover. That includes handling the required 90-day pre-suit notice on your behalf."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Hughson — does that mean malpractice happened?",
+        "answer": "Not necessarily. California law recognizes that medicine involves risk, and a poor result alone doesn't establish malpractice. An attorney would need to review whether the care fell below the accepted medical standard, usually with input from a qualified medical expert."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it occurred. There's also a required 90-day pre-suit notice before a lawsuit can be filed, so earlier review is better."
+      },
+      {
+        "question": "Are damages limited in California malpractice cases?",
+        "answer": "California caps non-economic damages, like pain and suffering, though that cap rises each year under current law. Economic damages, such as medical bills and lost income, are generally not subject to that same cap."
+      },
+      {
+        "question": "Does LawProactive have local Hughson attorneys?",
+        "answer": "LawProactive is a free connection service, not a law firm, and we work with independent attorneys who take cases from Stanislaus County communities including Hughson. We can help match you with someone equipped to review your situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "voice": "brand-standard (plain-spoken, victim-first)",
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-09-11",
+    "source": "accident-hub + state-laws + city facts",
+    "note": "Oakland city page."
+  },
+  "seo": {
+    "metaTitle": "Oakland Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Oakland? Connect free with a personal injury attorney serving Alameda County. California gives you 2 years to file — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Hurt in a crash on the 880 or 580, in a fall, or on the job in Oakland? We connect you — free — with an independent personal injury attorney who handles Alameda County claims. No fee unless you recover."
+  },
+  "about": {
+    "title": "Personal Injury Help in Oakland, California",
+    "longDescription": "Oakland anchors the East Bay with a busy port, freight traffic and two heavily traveled freeways — the I-880 (Nimitz) and I-580 — running through the city alongside dense surface streets like International Boulevard. Public records show more than 2,000 injury collisions in Oakland in 2025, leaving roughly 2,700 people hurt, with reported crashes tending to peak on Friday evenings. Trucks, commuters, cyclists and pedestrians share these corridors day and night. Whether you were injured in a wreck, in a fall at a business, in a workplace or port-area incident, or by a defective product, California law gives you rights and a limited window to act. LawProactive is a free service that connects injured people in Oakland with an independent personal injury attorney who understands how Alameda County claims and courts work. We are not a law firm; we match you with counsel and stay out of your way. You pay no fee unless your case recovers compensation.",
+    "commonInjuriesTitle": "Injuries we help Oakland residents pursue claims for",
+    "commonInjuries": [
+      "Whiplash, neck and back injuries from freeway crashes",
+      "Truck and big-rig collision injuries",
+      "Traumatic brain injuries and concussions",
+      "Fractures and crush injuries",
+      "Pedestrian and bicyclist impact injuries",
+      "Serious burns, lacerations and scarring"
+    ],
+    "ctaText": "See if you have a case — free"
+  },
+  "whyChoose": {
+    "title": "What Oakland injury victims should know",
+    "items": [
+      {
+        "title": "Two years, in most cases",
+        "desc": "California generally gives you two years from the date of injury to file. On corridors like the 880 and 580, camera and vehicle-data evidence can vanish within days."
+      },
+      {
+        "title": "Shared fault won't end your claim",
+        "desc": "California follows pure comparative fault, so you can recover even if you were partly at fault; your award is reduced by your share."
+      },
+      {
+        "title": "Port and truck traffic add complexity",
+        "desc": "A crash with a commercial truck may involve several parties and insurers. An attorney can identify each one and preserve key evidence."
+      },
+      {
+        "title": "Alameda County know-how",
+        "desc": "Your claim runs through the Alameda County court system and the insurers active in the East Bay. We connect you with an attorney who handles these cases locally."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Insurers contacting you before you've finished treatment",
+      "Medical bills and lost income mounting during recovery",
+      "A rushed settlement offer that falls short of your costs",
+      "Not knowing whether your case is worth pursuing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Oakland?",
+        "answer": "Most California injury claims must be filed within two years. If a public entity is involved, the deadline can be as short as six months, so consult an attorney promptly."
+      },
+      {
+        "question": "What if I was partly at fault?",
+        "answer": "You can still recover. Under California's pure comparative fault rule, your compensation is reduced by your percentage of fault rather than eliminated."
+      },
+      {
+        "question": "A big rig was involved — does that change things?",
+        "answer": "Often yes. Commercial-truck claims can involve multiple insurers and federal rules, and evidence like driver logs must be preserved quickly. An attorney can move to secure it."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney?",
+        "answer": "The case review is free, and attorneys in our network work on contingency — no fee unless they recover compensation for you."
+      },
+      {
+        "question": "Where do injury crashes cluster in Oakland?",
+        "answer": "Reported-collision records for recent years point to the I-880, I-580 and International Boulevard, with crashes peaking on Friday evenings. These are public-record counts, not a judgment about any road."
+      }
+    ]
+  }
+}

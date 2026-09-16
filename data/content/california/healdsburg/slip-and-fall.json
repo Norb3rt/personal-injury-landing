@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "healdsburg slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Healdsburg Slip & Fall Attorney Referral | LawProactive",
+    "metaDescription": "Hurt in a fall in Healdsburg? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Healdsburg Avenue tasting room or a grocery store off Dry Creek Road can leave you with more than bruises. We connect you, at no cost, with an independent attorney who handles premises liability claims in Sonoma County."
+  },
+  "about": {
+    "title": "Healdsburg Slip & Fall Claims",
+    "longDescription": "Healdsburg draws a steady flow of visitors to its wineries, downtown plaza shops, and tourist lodging, along with residents relying on local grocery stores and public sidewalks. When a property owner lets a hazard sit unaddressed — a wet tasting room floor, a cracked walkway near Healdsburg Avenue, poor lighting in a parking lot along Dry Creek Road — a fall can turn a routine outing into a serious injury. California premises liability law requires that owners knew or reasonably should have known about the danger and failed to act. That's why documentation matters so much here: photos of the hazard, incident reports, and store surveillance footage often make or break a claim. LawProactive doesn't take a percentage or charge a fee to connect you. We simply match you with an independent attorney familiar with premises cases in this part of Sonoma County, so you can focus on recovering while someone else sorts through the evidence and insurance back-and-forth.",
+    "commonInjuriesTitle": "Common Injuries From Falls",
+    "commonInjuries": [
+      "Hip fractures and pelvic injuries",
+      "Wrist and forearm fractures from bracing a fall",
+      "Traumatic brain injury or concussion",
+      "Herniated discs and spinal strain",
+      "Torn ligaments in knees or ankles",
+      "Facial injuries from a hard fall"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Early",
+    "items": [
+      {
+        "title": "Notice Is Everything",
+        "desc": "California law puts the burden on you to show the property owner knew or should have known about the hazard. An attorney can help pin down how long a spill or defect existed before your fall."
+      },
+      {
+        "title": "Surveillance Footage Disappears Fast",
+        "desc": "Many Healdsburg businesses overwrite security video within days or weeks. Getting a preservation request out quickly can be the difference between having proof and having none."
+      },
+      {
+        "title": "Comparative Fault Cuts Both Ways",
+        "desc": "California allows recovery even if you were partly at fault, but your share of blame reduces what you can recover. Building a clear record of the hazard helps counter arguments that you weren't paying attention."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell at a business near Healdsburg's downtown plaza. What should I do first?",
+        "answer": "Report the fall to the business and ask for a written incident report before you leave, if you're able. Take photos of the exact spot, the lighting, and anything that caused you to fall, and ask whether the location has security cameras. The sooner these details are gathered, the stronger your claim will be."
+      },
+      {
+        "question": "How long do I have to file a premises liability claim in California?",
+        "answer": "Generally, you have two years from the date of the fall to file a lawsuit, though claims against a government-owned property, like a public sidewalk maintained by the city, can carry a much shorter deadline. It's worth having an attorney review the specifics of where the fall happened as soon as possible."
+      },
+      {
+        "question": "Does it matter that Healdsburg is a small town with limited big-box stores?",
+        "answer": "Not really — premises liability rules apply the same way whether the property is a family-owned tasting room, a chain grocery store, or a private residence. What matters is whether the owner or occupier knew, or should have known, about the hazard and failed to address it."
+      }
+    ]
+  }
+}

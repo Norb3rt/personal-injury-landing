@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "berkeley workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Berkeley Workplace Injury Attorney Match | LawProactive",
+    "metaDescription": "Hurt at work in Berkeley? LawProactive connects you, free, with an independent attorney to review workers' comp and third-party claim options."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a campus-area lab, on a housing site near Ashby Avenue, or behind the wheel for work on I-80, a Berkeley job injury can open more than one door. We help you find an independent attorney to sort out which ones apply to you."
+  },
+  "about": {
+    "title": "Berkeley Workplace Injury Claims",
+    "longDescription": "Berkeley's workforce is unusually varied for a city of about 121,000 people. Lab technicians, restaurant staff along Shattuck, delivery drivers threading University Avenue, construction crews on housing projects near Ashby, and contractors serving the campus all clock in here every day, and any of them can be hurt on the job. When that happens, California's workers' compensation system usually stands in for a lawsuit against your employer. It pays medical care and partial wages without asking who was at fault, but it also caps what you can recover. What many injured Berkeley workers do not realize is that a separate claim may exist when someone other than the employer caused the harm: a subcontractor who left a hazard, a property owner who ignored a defect, a manufacturer whose tool failed, or another motorist. In 2025 Berkeley recorded 603 injury collisions, and employees who drive for work on I-80 or city streets share those same roads. LawProactive is not a law firm. We connect you, at no charge, with an independent attorney who can look at both paths.",
+    "commonInjuriesTitle": "Injuries Berkeley Workers Commonly Report",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and loading docks",
+      "Back and shoulder strains from lifting or repetitive motion",
+      "Chemical, solvent, and lab exposure injuries",
+      "Struck-by injuries from tools, carts, or falling materials",
+      "Crush and pinch injuries from machinery or equipment",
+      "Crashes while driving a work vehicle or making deliveries"
+    ],
+    "ctaText": "Ask an attorney whether your Berkeley injury involves a third party. The connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Berkeley Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Claims, Not One",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver can be held separately responsible. An attorney can tell you whether both tracks are open."
+      },
+      {
+        "title": "Deadlines That Do Not Wait",
+        "desc": "California asks you to report a job injury to your employer within 30 days, and third-party injury claims carry a two-year filing window. Getting connected early keeps both clocks from running out on you."
+      },
+      {
+        "title": "Protection From Pushback",
+        "desc": "It is illegal for an employer to punish you for reporting an injury or filing a claim. If you are worried about your job, an attorney in our network can explain your rights before you speak up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I deliver for a Berkeley restaurant and was hit on University Avenue during a Friday evening run. Who covers my injuries?",
+        "answer": "If you were working at the time, your employer's workers' compensation coverage should apply regardless of who caused the crash. Because another driver may have been at fault, you might also have a separate personal injury claim against that driver, which can cover losses workers' comp does not. Friday late afternoons are when Berkeley collision reports tend to cluster, so this scenario is more common than people think. An attorney can review both options with you."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most cases, no. Workers' compensation is the exclusive remedy against your employer, which means you receive benefits without proving fault but generally cannot file a lawsuit against the company itself. The exception is when a third party, such as a subcontractor or equipment manufacturer, contributed to your injury. That claim proceeds separately."
+      },
+      {
+        "question": "What happens if I waited too long to tell my employer about my injury?",
+        "answer": "California asks workers to report an injury to their employer within 30 days, and waiting longer can complicate your workers' compensation claim. It does not automatically end your options, though, and a third-party injury claim runs on its own two-year deadline. Reach out as soon as you can so an attorney can assess where you stand."
+      }
+    ]
+  }
+}

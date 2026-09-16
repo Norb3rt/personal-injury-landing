@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "pasadena product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pasadena Product Liability Attorney | LawProactive",
+    "metaDescription": "Hurt by a defective product in Pasadena? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a faulty appliance, vehicle part, medication, or household item injures someone in Pasadena, California's strict liability rules put the focus on the product, not on proving the company was careless. LawProactive connects you, at no cost, with an independent attorney who takes on manufacturers and sellers."
+  },
+  "about": {
+    "title": "Pasadena Product Liability Claims",
+    "longDescription": "A recalled space heater in a Pasadena apartment. A tire that shreds on the Foothill Freeway. A child's toy from a Colorado Boulevard shop that comes apart. Defective products reach Pasadena households the same way they reach any other city, through ordinary shopping, and when one of them causes harm, California law is more direct than most people expect. Under strict liability, you usually do not have to prove the manufacturer was careless. You need to show the product had a defect in its design, its manufacturing, or its warnings, and that the defect caused your injury. That shifts the focus away from the company's intentions and onto the product itself. It also means the product is your most important piece of evidence, so keep it, along with packaging, receipts, and any instructions. LawProactive is a free service, not a law firm. We connect Pasadena residents with an independent attorney who handles product cases on contingency, so there is no fee unless there is a recovery. One conversation can clarify where you stand.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from appliances, batteries, or e-bike chargers",
+      "Lacerations and crush injuries from power tools",
+      "Head and spinal trauma from failed vehicle components",
+      "Choking or poisoning from mislabeled consumer goods",
+      "Complications from defective medical devices or drugs",
+      "Fractures from collapsing furniture, ladders, or equipment"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Pasadena Residents Use LawProactive",
+    "items": [
+      {
+        "title": "Attorneys who understand strict liability",
+        "desc": "The attorneys in our network know that a California product case usually turns on the defect and the causal link, not on the maker's negligence. That framing shapes how the case is built from day one."
+      },
+      {
+        "title": "Help preserving the product",
+        "desc": "Throwing away or repairing a broken product can weaken a claim. An attorney can step in early to secure the item, the packaging, and any warnings before evidence is lost."
+      },
+      {
+        "title": "Every link in the chain is examined",
+        "desc": "Manufacturers, distributors, and retailers may all be responsible under California law. An independent attorney can identify each party rather than stopping at the first name on the box."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "A vehicle part failed and caused my crash on the I-210 in Pasadena. Is that a product liability case or a car accident case?",
+        "answer": "It can be both. Pasadena recorded 922 injury collisions in 2025, and a portion of crashes anywhere trace back to defective airbags, brakes, tires, or steering components rather than driver error. If a component failed, the manufacturer or seller may be strictly liable in addition to any driver at fault. Keep the vehicle from being scrapped or repaired until an attorney has reviewed it."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was dangerous?",
+        "answer": "Generally no. California product liability often applies strict liability, which means you need to show the product had a design, manufacturing, or warning defect and that the defect caused your injury. Whether the company acted carefully is usually not the question. An attorney can explain which type of defect fits your situation."
+      },
+      {
+        "question": "Who can I bring a claim against if I bought the product from a Pasadena store?",
+        "answer": "Under California law, the manufacturer, the distributor, and the retailer that sold it to you may all share liability. That matters when the maker is overseas or hard to reach, because a local seller can still be accountable. Save your receipt or order confirmation so the chain of sale is easy to document."
+      }
+    ]
+  }
+}

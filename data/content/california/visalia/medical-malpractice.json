@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "visalia medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Visalia Medical Malpractice Attorney Match | LawProactive",
+    "metaDescription": "Harmed by a medical mistake in Visalia? LawProactive links Tulare County patients with an independent malpractice attorney at no cost."
+  },
+  "hero": {
+    "subtitle": "When care in Visalia falls short of what a reasonable provider should have done, you deserve straight answers. LawProactive connects you, for free, with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Visalia Medical Malpractice Claims",
+    "longDescription": "Visalia is the medical hub for much of Tulare County, so patients from across the region come here for surgeries, deliveries, imaging, and emergency treatment. Most of that care goes the way it should. Sometimes it does not, and the hard part is figuring out whether what happened was an unavoidable complication or a genuine breach of the standard of care. That distinction matters, because under California law a poor result by itself is not malpractice. Someone has to show that the provider did something a careful professional would not have done, and that the error caused real harm. These cases move on a clock set by MICRA: usually one year from the date you discovered the injury, and never more than three years from when it happened, with a 90-day notice sent to the provider before any lawsuit is filed. A qualified medical expert almost always has to weigh in. LawProactive is not a law firm. We simply connect Visalia residents with an independent attorney who can review the records and explain your options.",
+    "commonInjuriesTitle": "Harm Often Tied to Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed cancer and stroke diagnoses",
+      "Surgical mistakes, including wrong-site procedures",
+      "Medication and dosing errors",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary conditions or missed follow-up"
+    ],
+    "ctaText": "Ask a Visalia attorney to review your records"
+  },
+  "whyChoose": {
+    "title": "What a Visalia Malpractice Case Requires",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Short",
+        "desc": "California generally allows one year from the date you discovered the injury and no more than three years from the date it occurred. An attorney can pin down which date applies to you before time runs out."
+      },
+      {
+        "title": "The 90-Day Notice Step",
+        "desc": "Before a malpractice suit is filed in California, the provider must receive written notice at least 90 days in advance. Getting this right early keeps the claim on track."
+      },
+      {
+        "title": "Expert Review Comes First",
+        "desc": "A bad outcome alone does not make a case; a qualified medical expert almost always has to confirm the standard of care was breached. The attorneys in our network arrange that review on contingency, so there is no fee unless you recover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Visalia but live in a smaller Tulare County town. Does that change anything?",
+        "answer": "No. Where you live does not affect your right to bring a claim, and the same California MICRA rules apply whether the care happened in Visalia or elsewhere in the county. An attorney connected through LawProactive can meet with you by phone or video if traveling to Visalia is a burden."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages, meaning things like pain and loss of enjoyment of life, and that cap increases every year under current law. Economic losses such as medical bills and lost income are handled separately. An attorney can explain how the current figures apply to your situation without guessing at a number."
+      },
+      {
+        "question": "My surgery had a complication. Is that automatically malpractice?",
+        "answer": "Not necessarily. Known complications can happen even when a surgeon does everything correctly, and California law only treats it as malpractice when the care fell below what a reasonably careful provider would have done. A medical expert reviewing your records is usually the only way to know which category your case falls into."
+      }
+    ]
+  }
+}

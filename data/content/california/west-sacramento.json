@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "west-sacramento city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "West Sacramento, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in West Sacramento, Yolo County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end crash on US-50 or a fall that wasn't your fault, we'll connect you free of charge with an independent attorney serving Yolo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in West Sacramento, California",
+    "longDescription": "West Sacramento sits at a crossroads of regional traffic, with US-50, I-80, Jefferson Boulevard, and West Capitol Avenue carrying commuters, delivery trucks, and local drivers through the city every day. In the most recent full year on record, the city saw 257 injury collisions, 366 people hurt, and 6 traffic deaths — numbers that reflect how much motion passes through this community of roughly 52,721 residents. If you were hurt in one of these incidents, or in a workplace accident, dog bite, or slip-and-fall, sorting out next steps while healing is a lot to carry alone. LawProactive is a free service — not a law firm — that connects injured people in West Sacramento with an independent personal injury attorney who can review what happened and explain your options. There's no cost to get connected, and the attorneys in our network work on contingency, meaning no fee unless you recover. You focus on getting better; let someone else handle the legal legwork.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck injuries from rear-end crashes",
+      "Broken bones from vehicle collisions",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Cuts, bruises, and soft-tissue injuries",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before Moving Forward",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government agency can require notice in as little as six months. Waiting too long can close the door on your case entirely."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages, like pain and suffering, in typical injury cases."
+      },
+      {
+        "title": "You Don't Pay Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost and no fee unless you actually recover compensation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Fear that insurance adjusters won't take your injury seriously",
+      "Not knowing if you waited too long to file a claim",
+      "Uncertainty about whether being partly at fault ruins your case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in West Sacramento?",
+        "answer": "Under California law, most personal injury claims must be filed within two years of the incident. If a government entity is involved, such as a city road crew, the notice period can be as short as six months, so it's worth acting quickly."
+      },
+      {
+        "question": "Where do crashes tend to cluster in West Sacramento?",
+        "answer": "Public collision records show higher volumes of reported crashes along US-50, I-80, Jefferson Boulevard, and West Capitol Avenue, with reports peaking on Fridays between 5 and 7 p.m. These are simply where more collisions are recorded, not a judgment about any road's design."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means your compensation is reduced by your percentage of fault, not eliminated. Even being 40% or 50% responsible doesn't bar you from recovering damages for the rest."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in standard personal injury cases. This differs from some other states that impose such limits."
+      },
+      {
+        "question": "Does it cost anything to get connected through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we are not a law firm ourselves. The attorneys in our network work on contingency, so you don't pay unless they recover money for you."
+      }
+    ]
+  }
+}

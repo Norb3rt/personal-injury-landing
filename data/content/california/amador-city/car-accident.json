@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "amador-city car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Amador City Car Accident Help | LawProactive",
+    "metaDescription": "Free help finding an independent car accident attorney in Amador City, CA. No fee unless you recover. Contingency-based, no upfront cost."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a crash along SR-49, SR-88, or Fiddletown Road in Amador City, we can connect you with an independent attorney who handles car accident claims on a no-recovery, no-fee basis."
+  },
+  "about": {
+    "title": "Amador City Car Accident Claims",
+    "longDescription": "Amador City is small, but its intersecting corridors — SR-88, SR-49, Fiddletown Road, and SR-16 — carry steady through-traffic from surrounding Amador County communities. Public crash records show a modest but real pattern: 1 injury collision and 2 people hurt in the most recent finalized year, with reports clustering on Tuesday afternoons between 3 and 5 p.m. Even a single crash can leave someone with medical bills, missed work, and an insurance adjuster pushing for a quick, low statement. LawProactive doesn't practice law — we connect injured drivers, passengers, cyclists, and pedestrians with an independent personal injury attorney who can evaluate the crash, deal with the insurance company, and explain your options under California law. There's no cost to get connected, and any attorney fee only comes out of a recovery. Reach out before evidence disappears or a recorded statement is taken.",
+    "commonInjuriesTitle": "Injuries We See After Amador City Crashes",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussion or head trauma",
+      "Broken bones or fractures",
+      "Back and spinal injuries",
+      "Torn ligaments or soft-tissue damage",
+      "Cuts, bruises, and scarring"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Clock",
+        "desc": "You generally have two years from the crash date to file a car accident lawsuit in California, but if a government entity or road agency may be involved, that window can shrink to as little as six months. Acting early keeps your options open."
+      },
+      {
+        "title": "Comparative Fault Can't Wait",
+        "desc": "California uses pure comparative fault, meaning you can still recover damages even if you're partly at fault, though your share reduces the total. An attorney can help make sure fault isn't overstated against you before insurers lock in their version of events."
+      },
+      {
+        "title": "No Cap, No Recorded Statement",
+        "desc": "California doesn't cap non-economic damages like pain and suffering in most car accident cases, so accurately documenting your experience matters. Before you speak with the other driver's insurer, it's worth having independent legal guidance, since anything you say in a recorded statement can be used to minimize your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was in a minor crash on SR-49 near Amador City — is it worth contacting anyone?",
+        "answer": "Even collisions that seem minor at first can involve injuries like whiplash or soft-tissue damage that surface days later. Since Amador City sees relatively few injury crashes each year, insurers may try to settle quickly and cheaply. Talking to an independent attorney costs nothing and can clarify whether you're leaving money on the table."
+      },
+      {
+        "question": "How long do I have to take action after a car accident here?",
+        "answer": "In most California car accident cases you have two years from the date of the crash to file a lawsuit. If your accident involved a public road defect or a government vehicle, that deadline can be as short as six months, so it's best not to wait to find out which applies to you."
+      },
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "You're not required to give a recorded statement to the other side's insurer, and it's generally not in your interest to do so without guidance. Insurance adjusters are trained to ask questions that can be used to reduce or deny your claim. An independent attorney can help you understand what to say and what to avoid."
+      }
+    ]
+  }
+}

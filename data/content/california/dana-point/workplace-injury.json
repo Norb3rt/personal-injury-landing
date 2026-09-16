@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "dana-point workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dana Point Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Dana Point? Get connected free to an independent attorney who handles work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Dana Point, from a Stonehill Drive job site to a delivery route along Pacific Coast Highway, LawProactive can connect you with an independent attorney at no cost to figure out what options you actually have."
+  },
+  "about": {
+    "title": "Dana Point Workplace Injury Claims",
+    "longDescription": "Workplace injuries in Dana Point touch everyone from harbor and hospitality staff to contractors working near the I-5 corridor and delivery drivers navigating Pacific Coast Highway traffic. In most cases, California workers' compensation is the only path against your employer, no matter who was at fault. But that's not the whole story: if a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, you may also have a separate claim against that third party. Sorting out whether your situation fits within the workers' comp system, opens up a third-party case, or involves both takes a close look at how and where the injury happened. LawProactive doesn't practice law or charge you anything; we simply connect injured workers in Dana Point with an independent attorney who can walk through your specific facts, explain your reporting deadlines, and help you understand what comes next.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven job sites",
+      "Injuries from defective tools or heavy equipment",
+      "Vehicle collisions while driving for work",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from falling objects or unsecured materials",
+      "Burns or chemical exposure on the job"
+    ],
+    "ctaText": "Talk to an independent attorney about your work injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Assuming It's a Simple Comp Claim",
+    "items": [
+      {
+        "title": "Third-Party Claims Are Often Missed",
+        "desc": "Workers' comp usually blocks a claim against your own employer, but a negligent subcontractor, property owner, or equipment maker isn't protected by that same shield. An attorney can spot whether a third party contributed to your injury."
+      },
+      {
+        "title": "Reporting and Deadlines Matter",
+        "desc": "California requires notifying your employer within 30 days of a workplace injury, while a separate third-party claim carries its own two-year deadline. Missing either window can limit what you're able to pursue later."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to punish you for reporting an injury or filing a claim. An attorney can help you understand these protections if you're worried about your job while sorting out your options."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while making a delivery near I-5 in Dana Point — is that workers' comp or a personal injury claim?",
+        "answer": "It could be both, depending on what happened. Workers' comp likely applies against your own employer, but if another driver caused the collision, that driver may be a separate, third-party claim outside the comp system. An attorney can look at the crash report and sort out which paths apply to your situation."
+      },
+      {
+        "question": "Do I have to report my injury to my employer right away?",
+        "answer": "Yes, California generally requires you to notify your employer within 30 days of a workplace injury. Waiting too long can create problems with your claim, so it's worth reporting promptly even if the injury seems minor at first."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury?",
+        "answer": "No, retaliation for reporting an injury or filing a workers' comp claim is against California law. If you're facing pressure or fear losing your job over this, an independent attorney can explain what protections apply to your circumstances."
+      }
+    ]
+  }
+}

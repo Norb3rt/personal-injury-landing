@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "glendale city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Glendale, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Glendale or elsewhere in Los Angeles County? Most claims allow 2 years to file. Get connected free with an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on SR-134, hit while crossing Brand Boulevard, or hurt in a fall at a Glendale business, LawProactive connects you with an independent injury attorney at no cost. We serve Glendale and all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Glendale, California",
+    "longDescription": "Glendale sits where the Ventura Freeway meets the Golden State Freeway, and that geography shows up in the numbers. In 2025, the city recorded 727 injury collisions, with 978 people hurt and 3 lives lost. Public collision records point to four corridors with the highest counts: SR-134, I-5, Brand Boulevard, and San Fernando Road. Reports tend to peak on Tuesdays between 5 p.m. and 7 p.m., when commuters are heading home. A crash is only one way people get hurt here, though. A fall in a Brand Boulevard parking structure, a dog bite on a neighborhood walk, or a rideshare collision near the Americana at Brand all raise the same questions: who pays for treatment, and what happens if you cannot work? LawProactive exists to answer the question that usually comes next: who do I even call? We are a free service, not a law firm. We do not give legal advice or handle cases ourselves. Instead, we connect Glendale residents with an independent personal injury attorney who reviews the situation at no charge. Attorneys in our network work on contingency, which means there is no fee unless there is a recovery. If you were injured anywhere in Los Angeles County, reaching out costs nothing and commits you to nothing.",
+    "commonInjuriesTitle": "Injuries Glendale Residents Often Ask About",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Broken bones from pedestrian and bicycle crashes",
+      "Concussions and other head trauma",
+      "Back and spinal injuries",
+      "Cuts, burns, and road rash from motorcycle accidents",
+      "Soft-tissue injuries from slips and falls at stores or apartments"
+    ],
+    "ctaText": "Tell us what happened. The connection is free, and you decide what comes next."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Glendale Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window",
+        "desc": "Most California injury claims must be filed within 2 years of the injury. Claims involving a city, county, or state agency can require notice in as little as 6 months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not shut the door",
+        "desc": "California uses pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not barred from bringing a claim."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "In ordinary injury cases, California does not limit non-economic damages such as pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "Nothing out of pocket to start",
+        "desc": "Attorneys in the LawProactive network work on contingency. There is no fee unless there is a recovery, and the consultation itself is free."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "My ER bills from the crash on I-5 are piling up and I'm missing shifts.",
+      "I think I was partly at fault, so maybe I have no case.",
+      "I can't afford a lawyer, and I don't know who I can trust."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Glendale tend to happen?",
+        "answer": "According to public collision records, the corridors with the highest counts are SR-134 (the Ventura Freeway), I-5 (the Golden State Freeway), Brand Boulevard, and San Fernando Road. These are simply the roads where the most crashes are reported, which usually tracks with traffic volume. In 2025, Glendale logged 727 injury collisions overall, and reports peaked on Tuesdays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the statute of limitations is 2 years from the date of injury. If a government entity is involved, such as a city bus or a hazard on public property, you may need to file an administrative claim within 6 months. An attorney can confirm which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California follows pure comparative fault. Your compensation is reduced by your percentage of responsibility, but you can still recover for the portion that was not your fault. Even someone found mostly at fault may still have a claim worth reviewing."
+      },
+      {
+        "question": "Does LawProactive charge for connecting me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm. We connect you with an independent personal injury attorney who offers a free case review and works on contingency, so there is no fee unless there is a recovery."
+      },
+      {
+        "question": "What should I do in the first few days after a Glendale crash or fall?",
+        "answer": "Get medical care first, even if the injury seems minor, because some symptoms surface later. Keep copies of the police or incident report, photos, and any bills or messages from insurers. Be cautious about giving recorded statements before you have spoken with an attorney."
+      }
+    ]
+  }
+}

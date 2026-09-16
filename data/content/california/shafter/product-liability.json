@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "shafter product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Shafter Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Shafter, CA? LawProactive connects you free with an independent attorney who handles strict liability claims."
+  },
+  "hero": {
+    "subtitle": "If a defective product injured you or someone you love in Shafter, LawProactive can connect you at no cost with an independent attorney familiar with Kern County product cases. You don't have to figure out who's responsible on your own."
+  },
+  "about": {
+    "title": "Shafter Product Liability Claims",
+    "longDescription": "Shafter is a farming and logistics hub, which means residents here run into a wide range of products daily: agricultural equipment, packaging machinery, vehicle parts, tools, and household goods shipped through the area's distribution centers along corridors like E Lerdo Highway and 7th Standard Road. When one of those products fails because of a design flaw, a manufacturing error, or a missing warning, the injuries can be severe and the medical bills can pile up fast. California law generally lets injured people pursue a strict liability claim, meaning the focus is on whether the product was defective and caused harm rather than proving someone was careless. LawProactive doesn't practice law or handle your claim directly. Instead, we listen to what happened, gather the basic facts, and connect you with an independent attorney in our network who takes on product liability matters on a contingency basis, so there's no upfront cost to you.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Product Cases",
+    "commonInjuries": [
+      "Traumatic brain injuries from equipment malfunctions",
+      "Amputations or crush injuries from machinery defects",
+      "Severe burns from faulty electrical or agricultural equipment",
+      "Broken bones from collapsing furniture or unstable products",
+      "Chemical exposure injuries from mislabeled or defective packaging",
+      "Spinal cord damage from vehicle or auto-parts failures"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Shafter Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Path",
+        "desc": "Under California law, you generally don't need to prove the manufacturer was negligent, only that the product was defective and caused your injury. An attorney can help identify which type of defect applies to your situation."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable for a defective product, which widens the pool of parties an attorney may pursue on your behalf."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "California product liability claims often depend heavily on physical evidence, so keeping the item as-is can be critical. An independent attorney can advise you on safely storing it before it's lost, repaired, or discarded."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What counts as a defective product under California law?",
+        "answer": "Generally, a product can be considered defective if it has a design flaw, a manufacturing error, or lacks adequate warnings or instructions. California's strict liability framework typically lets an injured person pursue a claim by showing the defect existed and caused harm, without needing to prove the company was careless."
+      },
+      {
+        "question": "I live near one of Shafter's busier roads and got hurt by a vehicle part that failed. Does that count as product liability?",
+        "answer": "It can. If a vehicle component such as a tire, brake system, or steering part failed due to a defect rather than driver error, that may support a product liability claim separate from a typical traffic collision case. An independent attorney can review the details, including where the failure occurred along corridors like Zerker Road or Santa Fe Way, to determine the right approach."
+      },
+      {
+        "question": "Do I have to pay anything to get connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network generally work on contingency, meaning they only get paid if you recover compensation. There's no cost to you for the initial connection or consultation."
+      }
+    ]
+  }
+}

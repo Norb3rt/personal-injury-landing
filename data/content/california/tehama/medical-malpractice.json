@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "tehama medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tehama Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Tehama, CA? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Tehama clinic or hospital visit goes wrong, the aftermath can be confusing and isolating. LawProactive connects you, at no cost, with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Tehama Medical Malpractice Claims",
+    "longDescription": "Tehama County residents often travel for specialized care, and that can mean gaps in communication between providers, misread test results, or delayed follow-up that leads to real harm. If you or a family member suffered an injury after a diagnosis, surgery, or treatment plan that fell short of accepted medical standards, you deserve to understand your options without added pressure. LawProactive is not a law firm — we're a free service that connects injured patients in Tehama with independent attorneys who handle medical malpractice matters. These claims are technical: California requires a qualified medical expert to weigh in, strict notice rules apply before a lawsuit can even be filed, and short clocks limit when you can act. An attorney in our network can review what happened, explain whether the facts point to a deviation from the standard of care, and walk you through next steps — all before you owe anything.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect Cases For",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up after treatment"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Tehama Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Know the Clock Is Short",
+        "desc": "California generally gives one year from when you discover the harm, and never more than three years from the injury itself. Missing that window can end a claim before it starts, so early guidance matters."
+      },
+      {
+        "title": "The 90-Day Notice Step Isn't Optional",
+        "desc": "Before a malpractice lawsuit can be filed in California, the law requires 90 days' advance notice to the provider. An attorney in our network can make sure this procedural step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Built Into the Process",
+        "desc": "A bad medical outcome by itself isn't proof of malpractice — California requires a qualified medical expert to support the claim. We connect you with attorneys who know how to secure that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it occurred. There are limited exceptions, so it's worth having a professional look at your timeline promptly."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "California's MICRA law caps non-economic damages, though that cap rises each year under current law. Economic losses like medical bills and lost income are handled separately and aren't subject to that same cap."
+      },
+      {
+        "question": "I live near State Route 36 in Tehama — does my location affect my claim?",
+        "answer": "Where you live doesn't change the medical malpractice rules that apply, but it can affect which hospitals, clinics, or providers were involved and where a case might be filed. An attorney can sort out those local details as part of reviewing your situation."
+      },
+      {
+        "question": "Does a poor treatment outcome automatically mean malpractice happened?",
+        "answer": "No — California law is clear that a bad result alone isn't enough. There has to be evidence the provider's care fell below the accepted medical standard, which is why an expert medical review is typically required."
+      }
+    ]
+  }
+}

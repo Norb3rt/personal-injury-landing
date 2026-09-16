@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "san-ramon medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Ramon Medical Malpractice Attorney Connection",
+    "metaDescription": "Harmed by a medical error in San Ramon, CA? LawProactive connects you free with an independent malpractice attorney. Contingency fee, MICRA deadlines explained."
+  },
+  "hero": {
+    "subtitle": "If care at a San Ramon clinic or a nearby hospital left you worse off than when you arrived, you deserve a straight explanation. LawProactive connects Contra Costa County patients, at no cost, with an independent medical malpractice attorney."
+  },
+  "about": {
+    "title": "San Ramon Medical Malpractice Claims",
+    "longDescription": "When a diagnosis is missed or a procedure goes wrong, the people of San Ramon deserve a clear answer about what happened. Medical malpractice claims in Contra Costa County follow a distinct set of rules under California's MICRA law, and those rules are unforgiving about timing. Generally you have one year from the date you discovered the injury, and never more than three years from when it occurred, to file. A 90-day notice must go to the provider before any lawsuit begins. Because a poor result by itself is not malpractice, a qualified medical expert is almost always needed to show that care fell below the accepted standard. LawProactive is not a law firm. We are a free service that connects San Ramon residents with an independent attorney who handles these claims on contingency, meaning no fee unless there is a recovery. Whether the harm traced back to a clinic visit off Crow Canyon Road or a hospital stay elsewhere in the East Bay, a conversation costs nothing and can help you understand where you stand.",
+    "commonInjuriesTitle": "Harm Commonly Tied to Medical Errors",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosage mistakes",
+      "Anesthesia complications",
+      "Birth injuries affecting mother or child",
+      "Hospital-acquired infections from lapses in care"
+    ],
+    "ctaText": "Ask a San Ramon malpractice attorney what your options are — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why San Ramon Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "The MICRA Clock Is Short",
+        "desc": "California generally gives you one year from discovering the injury and no more than three years from the injury itself. The attorneys we connect you with know how to protect that window, including the required 90-day pre-suit notice."
+      },
+      {
+        "title": "Experts Are Part of the Case",
+        "desc": "Because a bad outcome alone is not malpractice, nearly every claim needs a qualified medical expert to show the standard of care was breached. Independent attorneys in our network build cases with that requirement in mind from day one."
+      },
+      {
+        "title": "No Fee Unless There Is a Recovery",
+        "desc": "Our connection service is free, and network attorneys work on contingency. You can find out whether your San Ramon case has merit without paying anything up front."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My surgery didn't turn out the way I hoped. Is that malpractice?",
+        "answer": "Not by itself. California law requires proof that a provider's care fell below what a reasonably careful professional would have done in the same situation, and that the lapse caused your harm. A qualified medical expert almost always has to review your records to make that call, which is why an early conversation with an attorney matters."
+      },
+      {
+        "question": "I live in San Ramon but was treated at a hospital in another county. Does that change anything?",
+        "answer": "It can affect where a case is filed, since venue often depends on where the care took place or where the provider does business. The MICRA deadlines and the 90-day notice requirement apply regardless of which Contra Costa County or Bay Area facility was involved. An independent attorney can sort out the procedural details for you."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "Yes, MICRA places a statutory cap on non-economic damages such as pain and suffering, and that cap increases every year. Economic losses like medical bills and lost income are treated separately. An attorney can explain the current figures and how they apply to your situation."
+      }
+    ]
+  }
+}

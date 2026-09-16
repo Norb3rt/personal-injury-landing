@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "santa-monica slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Monica Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell at a Santa Monica store, hotel, or sidewalk? LawProactive connects you free with an independent premises liability attorney. Contingency fee only."
+  },
+  "hero": {
+    "subtitle": "A wet lobby floor, an unlit stairwell, a lifted section of sidewalk along Lincoln Boulevard: falls in Santa Monica happen on property someone else was responsible for keeping safe. LawProactive connects you, at no cost, with an independent attorney who handles premises liability claims here in Los Angeles County."
+  },
+  "about": {
+    "title": "Santa Monica Slip & Fall and Premises Liability Claims",
+    "longDescription": "Santa Monica packs roughly 93,000 residents into a few square miles, and on any given afternoon far more people than that are moving through its hotels, restaurants, retail blocks along 4th Street, beachfront paths, and apartment courtyards. Every one of those spaces has an owner or manager whose job includes spotting hazards and dealing with them. When a spill sits unattended, a handrail is loose, or a walkway stays dark after sunset, a fall can follow, and the injuries are often worse than they first seem.\n\nUnder California premises liability law, the question is rarely whether you fell. It is whether the property owner knew about the hazard, or reasonably should have, and did nothing to fix it or warn you. Proving that turns on details: how long the condition existed, whether staff walked past it, whether cameras caught it. LawProactive is not a law firm. We are a free service that connects injured people in Santa Monica with an independent attorney who can start gathering that evidence before it disappears. Attorneys in our network work on contingency, so there is no fee unless you recover.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Santa Monica",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and shoulder fractures from bracing",
+      "Head injuries and concussions",
+      "Knee ligament and meniscus tears",
+      "Lower back and disc injuries",
+      "Ankle sprains and breaks on uneven surfaces"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Santa Monica Fall Victims Use LawProactive",
+    "items": [
+      {
+        "title": "Notice Is the Whole Case",
+        "desc": "California requires you to show the owner knew or should have known about the hazard. An attorney from our network can request inspection logs, incident reports, and cleaning schedules that speak to how long the problem existed."
+      },
+      {
+        "title": "Video Disappears Fast",
+        "desc": "Many Santa Monica businesses record over surveillance footage within days. Getting a preservation demand out early is one of the most practical steps an attorney can take on your behalf."
+      },
+      {
+        "title": "Deadlines Differ by Defendant",
+        "desc": "You generally have two years to file against a private owner, but a claim involving a city sidewalk, park, or other public property must be presented on a far shorter timeline. Knowing who owns the property changes everything about your schedule."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Santa Monica. Is that the city's responsibility or the property owner's?",
+        "answer": "It depends on who maintains that stretch and what caused the defect, and sometimes both a public entity and an adjacent private owner are involved. Claims against the City of Santa Monica or another public agency follow a special claims process with a much shorter deadline than the two years that apply to private owners. An attorney can help sort out ownership quickly so you do not lose the right to bring the claim."
+      },
+      {
+        "question": "The store says I was not paying attention. Does that end my claim?",
+        "answer": "No. California uses pure comparative fault, which means your recovery can be reduced by whatever share of blame is assigned to you, but it is not eliminated. If a store left a hazard in place without warning, its share of responsibility still counts regardless of what you were doing at the moment."
+      },
+      {
+        "question": "What should I do right after a fall if I am able?",
+        "answer": "Photograph the hazard, your footwear, and the surrounding area before anything is cleaned up or repaired. Ask for an incident report, get names of any witnesses, and see a doctor even if you feel mostly fine. Then reach out so an attorney can send a letter demanding that surveillance video be preserved."
+      }
+    ]
+  }
+}

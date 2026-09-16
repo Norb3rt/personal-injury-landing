@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "pomona workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pomona Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Pomona? LawProactive connects you, for free, with an independent attorney to review workers' comp and third-party claim options."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a Pomona warehouse, on a job site off Mission Boulevard, or behind the wheel on I-10 for work, you may have more than one path to compensation. We connect you with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "Pomona Workplace Injury Claims",
+    "longDescription": "Pomona's workforce is spread across warehouses, distribution yards, medical facilities, and the shops along Holt Avenue and Mission Boulevard. When someone is hurt doing that work, two separate systems can come into play. Workers' compensation covers medical care and partial wage replacement no matter who was at fault, and in most cases it is the only claim you can bring against your own employer. A second path opens when someone outside your company caused the harm—a subcontractor on a job site, the owner of the property where you were working, the maker of a machine that failed, or another driver who hit you while you were on the clock. Pomona recorded 1,003 injury collisions in 2025, with 1,428 people injured, and I-10 and Garey Avenue were among the corridors with the highest counts. Delivery drivers, field techs, and anyone whose job puts them on the road can end up with both a comp claim and a third-party claim. LawProactive is a free service that connects you with an independent attorney who can sort out which applies to you.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Pomona Workplace Cases",
+    "commonInjuries": [
+      "Back and spinal strains from lifting or loading",
+      "Falls from ladders, loading docks, and scaffolding",
+      "Crush and machinery-related hand and arm injuries",
+      "Repetitive stress injuries from warehouse and assembly work",
+      "Collisions while driving a work vehicle",
+      "Burns and chemical exposure"
+    ],
+    "ctaText": "Ask a Pomona workplace injury attorney about your options—free, no obligation."
+  },
+  "whyChoose": {
+    "title": "How LawProactive Helps After a Pomona Work Injury",
+    "items": [
+      {
+        "title": "We look past the comp claim",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but California law allows a separate claim against a negligent third party like a subcontractor, property owner, equipment maker, or another driver. The attorney we connect you with can check whether one exists in your case."
+      },
+      {
+        "title": "Deadlines handled early",
+        "desc": "You should report a work injury to your employer within 30 days, and a third-party injury claim generally carries a two-year deadline. Getting an attorney involved early keeps both clocks in view."
+      },
+      {
+        "title": "Free to connect, contingency to represent",
+        "desc": "LawProactive is not a law firm and never charges you. Attorneys in our network take injury cases on contingency, so there is no fee unless there is a recovery, and it is illegal for your employer to retaliate against you for pursuing a claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on I-10 while making deliveries in Pomona. Is that just a workers' comp case?",
+        "answer": "Not necessarily. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of fault. If another driver caused the crash, California law also allows a separate injury claim against that driver, and that claim has a two-year deadline. An attorney can evaluate both together so nothing gets missed."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most situations, no. Workers' compensation is the exclusive remedy against your employer, and it applies even if the employer was careless. The exceptions involve third parties—someone other than your employer whose negligence contributed to the injury, such as a subcontractor on a shared job site or the manufacturer of defective equipment."
+      },
+      {
+        "question": "What happens if I wait too long to report my injury at work?",
+        "answer": "California asks you to notify your employer within 30 days of the injury. Waiting longer can complicate or weaken your workers' compensation claim, so report it in writing as soon as you can, even if you think it is minor. Reporting an injury is protected activity, and your employer cannot legally punish you for doing so."
+      }
+    ]
+  }
+}

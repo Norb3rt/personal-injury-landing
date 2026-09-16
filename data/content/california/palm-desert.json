@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "palm-desert city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Palm Desert, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Palm Desert? Riverside County claims have a 2-year filing window. Connect free with an attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Highway 111 or suffered a fall or other injury, we can connect you free of charge with an independent attorney serving Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Palm Desert, California",
+    "longDescription": "Palm Desert's roughly 52,000 residents share the road with visitors heading toward Fred Waring Drive, Highway 111, Country Club Drive, and Cook Street — corridors that show up often in local collision records. In the most recent full year on record, Riverside County logged 211 injury collisions in Palm Desert, leaving 306 people hurt and 2 people dead. Reports tend to cluster on Thursday afternoons between 2 and 4 p.m., a pattern that can help explain when local traffic pressure builds. If you were hurt in one of these incidents — as a driver, passenger, cyclist, or pedestrian — sorting out medical bills, lost income, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free connection service, not a law firm. We don't handle your case ourselves; instead, we help match you with an independent personal injury attorney in our network who can review the facts of your situation. Attorneys we connect you with work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and creates no obligation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from pedestrian or bicycle collisions"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and takes just a few minutes."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but claims against a government agency can require notice in as little as six months. Waiting too long can cost you the right to recover at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the incident — your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "California places no cap on non-economic damages like pain, suffering, or emotional distress in ordinary injury cases, which can matter significantly for serious or long-term injuries."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no hourly bill and no retainer required just to get advice."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Feeling pressured by an insurance adjuster to settle fast",
+      "Not knowing if you waited too long to take action",
+      "Being unsure whether being partly at fault ruins your claim"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Palm Desert?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If your claim involves a government entity, such as a city-maintained road, the deadline to file a notice can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Where do injury collisions tend to cluster in Palm Desert?",
+        "answer": "Public collision records show higher counts along Fred Waring Drive, Highway 111, Country Club Drive, and Cook Street, with reports peaking on Thursday afternoons between 2 and 4 p.m. These are neutral counts from public records, not a judgment about any specific road."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows a pure comparative fault rule, so being partially responsible doesn't bar you from recovering damages. Your compensation would simply be reduced in proportion to your share of fault."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that helps connect injured people with independent attorneys in our network. We are not a law firm, and there's no cost or obligation to reach out."
+      },
+      {
+        "question": "Will I have to pay an attorney upfront?",
+        "answer": "Attorneys in our network generally work on contingency, meaning they only collect a fee if they recover money on your behalf. There's typically no upfront cost to have your situation reviewed."
+      }
+    ]
+  }
+}

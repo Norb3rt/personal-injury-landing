@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "ventura medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ventura Medical Malpractice Help | LawProactive",
+    "metaDescription": "Harmed by a medical error in Ventura? Get a free connection to an independent malpractice attorney. MICRA deadlines apply; no fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When treatment in Ventura leaves you worse off than it should have, sorting out whether a mistake was made is difficult to do alone. We connect you, at no cost, with an independent attorney who reviews medical malpractice claims under California's MICRA rules."
+  },
+  "about": {
+    "title": "Ventura Medical Malpractice Claims",
+    "longDescription": "Ventura is a city of about 96,769 people in Ventura County, and when residents need hospital or clinic care they usually stay close to home. Most of that care goes well. Occasionally it does not, and the harder question is whether what happened was an accepted risk or a preventable error. That distinction is the heart of a California medical malpractice claim. Under MICRA, a disappointing result by itself is not enough; the care has to have fallen below what a reasonably careful provider would have done, and that usually must be shown through a qualified medical expert. The timelines are tight too: generally one year from when you discovered the harm, and never more than three years from the injury, with a 90-day notice sent to the provider before a lawsuit can be filed. LawProactive is not a law firm. We are a free service that connects Ventura residents with an independent attorney who handles these cases on contingency, so you can find out where you stand without paying anything up front.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Questions",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary or neglected care"
+    ],
+    "ctaText": "Ask an independent attorney whether your Ventura case fits MICRA's requirements."
+  },
+  "whyChoose": {
+    "title": "Why Ventura Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA's clock starts sooner than people expect",
+        "desc": "California generally allows one year from the date you discovered the harm, and never more than three years from the injury itself. A quick connection helps make sure the 90-day pre-suit notice goes out in time."
+      },
+      {
+        "title": "Expert review, not guesswork",
+        "desc": "A qualified medical expert is almost always needed to show that care fell below the accepted standard. The attorneys in our network know how to arrange that review and what it must address."
+      },
+      {
+        "title": "Straight talk about the damages cap",
+        "desc": "MICRA places a cap on non-economic damages that rises each year, while economic losses such as medical bills and lost income are treated separately. An independent attorney can explain how that applies to your situation, with no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on Telephone Road, then the emergency room missed a fracture. Is that a malpractice case?",
+        "answer": "It may involve two separate claims: one against the driver who caused the collision and a possible medical malpractice claim against the provider who missed the injury. Ventura recorded 725 injury collisions in 2025, so emergency departments here see plenty of trauma patients, and a missed finding is not automatically negligence. An attorney would need a medical expert to determine whether a reasonably careful provider would have caught it. The two claims also run on different deadlines, so it is worth asking early."
+      },
+      {
+        "question": "My surgery had complications. Does that mean the surgeon was negligent?",
+        "answer": "Not by itself. California law is clear that a bad outcome alone is not malpractice, because every procedure carries known risks even when performed correctly. The question is whether the surgeon or hospital did something a competent provider would not have done, or failed to do something they should have. A qualified medical expert reviews the records to answer that."
+      },
+      {
+        "question": "How long do I have to act on a medical malpractice claim in Ventura?",
+        "answer": "Under MICRA, you generally have one year from when you discovered, or reasonably should have discovered, the injury, and no more than three years from the date the injury occurred. Before filing suit, a 90-day notice must be sent to each provider you intend to sue. Because gathering records and an expert opinion takes time, most attorneys prefer to start well before those dates approach."
+      }
+    ]
+  }
+}

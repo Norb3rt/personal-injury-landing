@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "sonoma medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sonoma Medical Malpractice Claims | LawProactive",
+    "metaDescription": "Hurt by a medical error in Sonoma? Get connected free to an independent attorney who understands MICRA deadlines and claim rules."
+  },
+  "hero": {
+    "subtitle": "When a hospital visit or procedure in Sonoma goes wrong, the medical and legal questions can feel overwhelming at once. LawProactive connects you, at no cost, with an independent attorney who can look closely at what happened."
+  },
+  "about": {
+    "title": "Sonoma Medical Malpractice Claims",
+    "longDescription": "Sonoma is a small city, and many residents rely on a handful of local clinics, urgent care centers, and the hospitals in nearby Santa Rosa or Napa for care. When something goes wrong during treatment, it's not always obvious whether it was an unavoidable complication or a preventable error. California law recognizes that not every bad medical result amounts to malpractice, which is why these cases usually require a qualified medical expert to review the records and explain what a reasonably careful provider should have done differently. If you or a family member were harmed after a diagnosis, surgery, medication order, or hospital stay in Sonoma, LawProactive can connect you with an independent attorney who handles this kind of review, free of charge, so you can understand your options before any filing deadlines pass. There's no obligation, and you keep control of any next steps.",
+    "commonInjuriesTitle": "Common Situations We See",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition after treatment"
+    ],
+    "ctaText": "Ask about your situation, free and confidential."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Start a Claim",
+    "items": [
+      {
+        "title": "Strict Time Limits Apply",
+        "desc": "California generally requires malpractice claims within one year of discovering the harm, and never more than three years from the original injury, so early review matters."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can be filed, California law requires a 90-day notice to the provider, which affects how and when a claim moves forward."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a poor medical outcome alone isn't proof of malpractice, a qualified medical expert typically must evaluate the care given before a claim can proceed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Sonoma?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered or reasonably should have discovered the harm, but no more than three years from the date of the injury itself. Because these deadlines can be easy to miscalculate, it helps to have an attorney review the timeline of your care early. LawProactive can connect you with someone who can walk through the dates with you at no cost."
+      },
+      {
+        "question": "Is a bad medical outcome always grounds for a malpractice case?",
+        "answer": "No. California law recognizes that medicine involves risk, and a poor result by itself doesn't mean a provider was negligent. A claim generally requires showing the provider fell below the accepted standard of care, which is why a qualified medical expert almost always reviews the records first."
+      },
+      {
+        "question": "Where would care for a Sonoma malpractice case likely have happened?",
+        "answer": "Many Sonoma residents receive treatment locally or travel to larger facilities in Santa Rosa or Napa, and either setting can be relevant to a claim. An attorney connected through LawProactive can help figure out which providers and records need to be gathered based on where your care occurred."
+      }
+    ]
+  }
+}

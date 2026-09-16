@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "calistoga medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calistoga Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Calistoga? Get connected free with an independent Napa County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong at a Calistoga or Napa County clinic, you deserve straight answers. LawProactive connects you at no cost with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Calistoga Medical Malpractice Claims",
+    "longDescription": "Calistoga is a small community of about 5,330 people at the north end of Napa Valley, and many residents drive along Rt 29, Foothill Boulevard, or Lincoln Avenue to reach clinics and hospitals in Napa County or beyond. Because Calistoga itself has limited on-site medical facilities, patients often depend on referrals, transfers, and follow-up care coordinated across multiple providers — and that coordination is exactly where errors can happen. A missed diagnosis before a transfer, a medication mix-up between offices, or a delayed follow-up after a specialist visit can all cause lasting harm. LawProactive doesn't practice law itself; we're a free service that connects injured patients and families with an independent California attorney who can review medical records, evaluate what happened, and explain your options under state law. If you or a loved one were harmed by a healthcare provider's error, a conversation with an attorney can help you understand whether a claim is worth pursuing.",
+    "commonInjuriesTitle": "Common Types of Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication errors or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to refer or follow up after abnormal test results"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost — no obligation, no upfront fees."
+  },
+  "whyChoose": {
+    "title": "What Matters in a California Malpractice Case",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally requires malpractice claims within one year of discovering the harm, and no more than three years from the injury itself. A 90-day pre-suit notice to the provider is also required before filing, so early legal guidance matters."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "A bad medical outcome by itself isn't proof of malpractice — California law almost always requires a qualified medical expert to confirm the provider fell below the standard of care."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "Under MICRA, damages for pain and suffering are capped, though the cap increases each year by statute. An attorney can walk you through how this affects your specific claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it occurred. There's also a required 90-day notice to the provider before a lawsuit can be filed. Because these deadlines are strict, it's best to speak with an attorney as soon as possible."
+      },
+      {
+        "question": "I had a bad outcome at a Calistoga-area clinic — does that mean malpractice happened?",
+        "answer": "Not necessarily. A poor result alone doesn't establish malpractice under California law; there has to be evidence the provider's care fell below an accepted medical standard. Since Calistoga residents often see providers across Napa County for specialized care, an attorney can help sort out which provider's actions are at issue and whether an expert review supports a claim."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes. California's MICRA law caps non-economic damages like pain and suffering, though that cap rises each year under the statute. Economic damages, such as medical bills and lost income, aren't subject to this same cap. An attorney can explain how these categories apply to your situation."
+      }
+    ]
+  }
+}

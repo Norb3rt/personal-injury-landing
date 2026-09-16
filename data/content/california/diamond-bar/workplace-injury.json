@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "diamond-bar workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Diamond Bar Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Diamond Bar? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If a workplace accident left you hurt in Diamond Bar, you may have options beyond workers' comp alone. LawProactive can connect you with an independent attorney who can sort out what applies to your situation, at no cost to start."
+  },
+  "about": {
+    "title": "Diamond Bar Workplace Injury Claims",
+    "longDescription": "Diamond Bar's mix of warehouses, retail centers, and offices along Diamond Bar Boulevard and near the SR-60/SR-57 interchange means workers face a range of on-the-job risks, from forklift accidents to falls on loading docks. In most cases, California law channels workplace injuries through the workers' compensation system rather than a lawsuit against your employer, regardless of who was at fault. But that's not always the end of the story. When a subcontractor, delivery driver, equipment manufacturer, or property owner outside your own employer contributed to what happened, a separate third-party claim may be possible alongside your comp benefits. LawProactive doesn't practice law ourselves; we simply connect injured workers in Diamond Bar with an independent attorney who can look at the facts and explain which paths, if any, might apply. There's no cost to find out, and no pressure to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Back and spinal injuries from lifting or falls",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and joint injuries",
+      "Slip-and-fall injuries on job sites",
+      "Injuries from defective tools or machinery",
+      "Injuries caused by third-party contractors or delivery drivers"
+    ],
+    "ctaText": "Find out if you have options beyond workers' comp — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Full Picture",
+        "desc": "California generally treats workers' comp as the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker may still be liable separately."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally need to report a workplace injury to your employer within 30 days, and missing that window can complicate your claim."
+      },
+      {
+        "title": "You're Protected From Retaliation",
+        "desc": "California law prohibits employers from retaliating against workers who report injuries or file claims, so raising the issue shouldn't cost you your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I sue my employer directly for a workplace injury in Diamond Bar?",
+        "answer": "Usually not — workers' compensation is generally the exclusive remedy against your employer regardless of fault. However, if a third party like a subcontractor, property owner, or equipment maker contributed to the accident, a separate claim against them may be possible. An independent attorney can review your specific situation to see what applies."
+      },
+      {
+        "question": "I was hurt near the SR-60/SR-57 interchange while making a delivery for work — does that count as a workplace injury?",
+        "answer": "It could involve both a workers' comp claim and a potential third-party claim, especially if another driver was negligent. Injuries during work-related travel or deliveries around busy corridors like SR-60 and SR-57 often raise these overlapping issues. An attorney can help sort out which claims may apply."
+      },
+      {
+        "question": "How long do I have to file a third-party claim after a workplace accident?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the injury. This is separate from the 30-day window for reporting the injury to your employer for workers' comp purposes. Because these timelines differ, it helps to get input sooner rather than later."
+      }
+    ]
+  }
+}

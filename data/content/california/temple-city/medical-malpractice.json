@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "temple-city medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Temple City Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to independent medical malpractice attorneys serving Temple City, CA. No fee unless you recover. Learn your options today."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or medical procedure in Temple City left you worse off, LawProactive can connect you with an independent attorney who understands California's strict malpractice rules and deadlines."
+  },
+  "about": {
+    "title": "Temple City Medical Malpractice Claims",
+    "longDescription": "Temple City residents rely on a mix of local urgent care clinics and larger Los Angeles County hospital systems for everything from routine checkups to emergency surgery. When a diagnosis is missed, a medication is mismanaged, or a surgical error occurs, the aftermath can be confusing and isolating. California's MICRA law shapes how these cases move forward, including tight notice periods and a cap on certain damages, so getting accurate information early matters. LawProactive doesn't practice law or represent clients directly. Instead, we listen to what happened, ask a few key questions, and connect eligible Temple City residents with an independent attorney who can evaluate whether the standard of care was met. A bad outcome by itself isn't proof of malpractice, but if something feels wrong about the care you or a loved one received, it's worth having someone look at the medical record.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosing or prescription mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Tell us what happened — it's free to connect with an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Temple City Families Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand MICRA's Tight Clock",
+        "desc": "California generally gives one year from when you discover the harm, and never more than three years from the injury, to bring a claim — plus a required 90-day pre-suit notice. Missing these windows can end a case before it starts, so we help connect people quickly with attorneys who track these deadlines."
+      },
+      {
+        "title": "Medical Expert Review Matters",
+        "desc": "Almost every California medical malpractice claim requires a qualified medical expert to confirm the standard of care was broken. We connect you with attorneys who know how to arrange that kind of review rather than guess at whether a case has merit."
+      },
+      {
+        "title": "No Upfront Cost, No Guesswork on Damages Caps",
+        "desc": "California caps certain non-economic damages, and that cap adjusts each year under MICRA. An independent attorney can walk you through what that actually means for your situation, and our connection service is always free, with attorneys working on contingency."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Temple City?",
+        "answer": "California law generally allows one year from when you discover, or reasonably should have discovered, the injury, with an outer limit of three years from the date of the incident. There's also a required 90-day notice before filing suit against the provider. Because these rules are strict, it's worth speaking with an attorney as soon as possible rather than waiting."
+      },
+      {
+        "question": "Are there hospitals or clinics near Temple City where these cases usually come from?",
+        "answer": "Temple City residents often receive care through a mix of local clinics and larger Los Angeles County hospital networks nearby. LawProactive doesn't name specific facilities or providers, but the attorney you're connected with can review records from wherever your treatment occurred."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No — California law recognizes that medicine involves risk, and an unfavorable result alone isn't enough to prove negligence. A claim usually requires showing the provider deviated from the accepted standard of care, which is why a qualified medical expert review is almost always necessary. An independent attorney can help determine whether that standard was met in your case."
+      }
+    ]
+  }
+}

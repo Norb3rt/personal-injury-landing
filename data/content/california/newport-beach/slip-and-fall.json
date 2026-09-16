@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "newport-beach slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Newport Beach Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Newport Beach? LawProactive connects you, free, with an independent premises liability attorney. Contingency fee."
+  },
+  "hero": {
+    "subtitle": "Hurt in a fall at a Newport Beach store, restaurant, rental, or parking lot? LawProactive connects you at no cost with an independent premises liability attorney who serves Orange County."
+  },
+  "about": {
+    "title": "Newport Beach Slip & Fall and Premises Liability Claims",
+    "longDescription": "A wet tile floor outside a restaurant on West Coast Highway. A loose stair tread in a rental along the harbor. A parking-lot pothole hidden in evening shade off Jamboree Road. Falls in Newport Beach rarely announce themselves, and the aftermath can be disorienting: a trip to the emergency room, missed work, and a property manager who suddenly stops returning calls. California law puts a specific burden on you. To recover, you generally have to show the owner or occupier knew about the hazard, or reasonably should have known, and did nothing to fix it or warn you. That word, notice, often decides premises cases in Orange County, which is why what you do in the first days matters so much. Photograph the spot before it is cleaned or repaired. Ask for the incident report. Request that any camera footage be preserved before it is overwritten. LawProactive is not a law firm. We are a free service that connects you with an independent attorney who handles premises liability claims here and works on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and shoulder breaks",
+      "Concussions and other head injuries",
+      "Knee ligament and meniscus tears",
+      "Herniated discs and back strains",
+      "Ankle fractures and severe sprains"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Newport Beach Residents Use LawProactive",
+    "items": [
+      {
+        "title": "Attorneys who understand the notice requirement",
+        "desc": "Premises cases in California turn on whether the owner knew or should have known about the hazard. The attorneys in our network know how to look for inspection logs, prior complaints, and maintenance records that show what the owner was aware of."
+      },
+      {
+        "title": "Help preserving video before it disappears",
+        "desc": "Many Newport Beach businesses record their floors and entrances, but footage is often overwritten within days. An attorney can send a preservation demand quickly so the recording of your fall is not lost."
+      },
+      {
+        "title": "Clear guidance on deadlines and shared fault",
+        "desc": "Most claims must be filed within two years, and the window is much shorter when a public entity owns the property. California's pure comparative fault rule also means you can still recover even if you were partly to blame, so a quick conversation with an attorney can clarify where you stand."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped on a city-owned walkway near the beach in Newport Beach. Is the deadline different?",
+        "answer": "Yes. When the property belongs to a public entity such as the City of Newport Beach, Orange County, or the State, you generally must file a written government claim within six months of the injury before you can sue. That is far shorter than the two-year deadline that applies to private property owners, so it is worth speaking with an attorney right away."
+      },
+      {
+        "question": "The store says I wasn't watching where I was going. Does that end my claim?",
+        "answer": "Not by itself. California follows pure comparative fault, which means your recovery is reduced by your share of responsibility rather than eliminated. An attorney can evaluate the evidence and push back if the owner is overstating your role in the fall."
+      },
+      {
+        "question": "What should I do right after a fall at a Newport Beach business?",
+        "answer": "Get medical care first, then document everything you can: photos of the hazard, the lighting, any missing warning signs, and your footwear. Ask the manager to write an incident report and request that surveillance video be saved. Contact information for anyone who saw the fall is also valuable, since witnesses are hard to locate later."
+      }
+    ]
+  }
+}

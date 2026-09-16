@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "pittsburg city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pittsburg, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Pittsburg or Contra Costa County? You have 2 years to file most claims. Get connected free to an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end crash on SR-4 or a fall in a Railroad Avenue storefront left you injured, LawProactive connects you with an independent personal injury attorney at no cost. We serve Pittsburg and all of Contra Costa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Pittsburg, California",
+    "longDescription": "Pittsburg sits at the edge of the Delta, with State Route 4 cutting through its center, and much of daily life here moves along that freeway, Railroad Avenue, and Harbor Street. Those same three corridors carry the highest collision counts in the city's public records. During 2025, Pittsburg recorded 170 injury collisions in which 237 people were hurt, and three people died on local roads. Reports tend to cluster on Wednesday mornings between 7 and 9 a.m., when commute traffic is heaviest. A collision, a slip on an unmarked wet floor, or a bite from an unrestrained dog can upend a household in seconds, and the calls and forms that follow rarely wait for you to heal. LawProactive was built to make one piece of that simpler. We are a free service, not a law firm, and we do not offer legal advice. What we do is connect you with an independent personal injury attorney who takes cases in Contra Costa County. That attorney works on contingency, meaning there is no fee unless your case produces a recovery. You can ask questions, weigh your options, and decide at your own pace. If you were hurt in Pittsburg and are unsure where to start, reaching out costs nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Pittsburg Cases",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway merges on SR-4",
+      "Concussions and other head trauma",
+      "Broken wrists, ankles, and collarbones",
+      "Back injuries and herniated discs",
+      "Road rash and lacerations from motorcycle or bicycle crashes",
+      "Soft-tissue injuries from slip-and-fall incidents"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Pittsburg Claim",
+    "items": [
+      {
+        "title": "A two-year clock, sometimes shorter",
+        "desc": "Most injury claims in California must be filed within two years of the incident. If a city, county, or state agency is involved — say, a crash with a municipal vehicle or a fall on public property — the deadline to file a claim can be as short as six months."
+      },
+      {
+        "title": "Being partly at fault doesn't shut you out",
+        "desc": "California follows pure comparative fault. If you were 30 percent responsible, your recovery is reduced by 30 percent, but you can still pursue the remaining share."
+      },
+      {
+        "title": "No statutory cap on pain and suffering",
+        "desc": "In ordinary injury cases, California does not limit what you can recover for non-economic harm such as pain, lost enjoyment of life, or emotional distress."
+      },
+      {
+        "title": "Nothing out of pocket to get started",
+        "desc": "Attorneys in our network work on contingency. You pay no fee unless the case ends in a recovery, and LawProactive itself never charges you anything."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work while my arm heals — how do I cover rent?",
+      "The ER bill arrived before I even got my car back.",
+      "I was partly at fault, so I assumed I had no case."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions most often happen in Pittsburg?",
+        "answer": "Public collision records show the highest counts along SR-4, Railroad Avenue, and Harbor Street. In 2025, the city logged 170 injury collisions overall, with reports peaking on Wednesdays between 7 and 9 a.m. These figures reflect traffic volume and reporting patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date you were hurt. Claims against a government entity — such as a crash involving a city vehicle — can require notice within six months. Because the shorter window is easy to miss, it helps to speak with an attorney early."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not provide legal advice. We put you in touch with an independent personal injury attorney who serves Contra Costa County, and any attorney-client relationship is between you and that attorney."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, so partial responsibility reduces your recovery rather than eliminating it. If you were found 25 percent at fault, for example, you could still pursue 75 percent of your damages. An attorney can help sort out how fault is likely to be assigned."
+      },
+      {
+        "question": "What will it cost me to talk to an attorney?",
+        "answer": "Nothing to start. Our service is free, and the attorneys in our network work on contingency, which means they are paid only if there is a recovery in your case. You can ask questions and decide whether to move forward without any upfront expense."
+      }
+    ]
+  }
+}

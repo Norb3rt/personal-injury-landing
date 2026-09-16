@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "arcadia city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Arcadia, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Arcadia? Los Angeles County residents have 2 years to file. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end crash on Huntington Drive or a broken bone from a fall, we can connect you with an independent attorney at no cost, serving all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Arcadia, California",
+    "longDescription": "Arcadia may be known for the Santa Anita Park and its quiet residential streets, but its busy corridors see real traffic. In the most recent recorded year, Arcadia logged 253 injury collisions resulting in 355 people injured and 3 traffic deaths. Corridors like I-210 (Foothill Freeway), Huntington Drive, Baldwin Avenue, and Santa Anita Avenue carry the highest volume of reported crashes in the city, with Friday evenings between 5 and 7 p.m. tending to see more reported incidents than other times. If you've been hurt in a collision or fall anywhere in Arcadia, sorting through medical bills, insurance calls, and lost work can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — that connects injured people with an independent personal injury attorney who can evaluate your situation. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip-and-fall incidents"
+    ],
+    "ctaText": "Find out where you stand — reach out for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before Waiting to Act",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you 2 years from the date of injury to file a personal injury claim. If a government entity is involved, that window can shrink to as little as 6 months, so it pays to act early."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for the incident, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Your Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, and emotional distress."
+      },
+      {
+        "title": "You Don't Pay Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost and no fee unless they secure a recovery on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Fear that admitting any fault means losing the right to compensation",
+      "Not knowing how long you legally have to take action",
+      "Feeling pressured by insurance adjusters calling before you've even seen a doctor"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Arcadia?",
+        "answer": "Under California law, you generally have 2 years from the date of the injury to file most personal injury claims. If your claim involves a government agency, that deadline can be as short as 6 months, so it's wise to get informed sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California's pure comparative fault rule means you can still recover damages even if you share some responsibility. Your compensation would simply be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Arcadia?",
+        "answer": "Public crash records show that corridors like I-210 (Foothill Freeway), Huntington Drive, Baldwin Avenue, and Santa Anita Avenue account for a higher volume of reported collisions than other Arcadia streets, with more reports typically logged on Friday evenings between 5 and 7 p.m. These are simply neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything upfront?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and it does not charge any fee. Attorneys in our network work on contingency, meaning they only get paid if you receive a recovery."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary California personal injury cases, there is no cap on non-economic damages such as pain and suffering. The specific amount, if any, depends on the facts of your case and is something an attorney can discuss with you directly."
+      }
+    ]
+  }
+}

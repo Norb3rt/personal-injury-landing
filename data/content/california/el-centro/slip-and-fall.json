@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "el-centro slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Centro Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall at an El Centro store or property? Free connection to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a grocery store on Imperial Avenue or a stumble on uneven pavement near Main Street can leave you with real injuries and real bills. We connect El Centro residents with an independent attorney who handles premises liability claims, at no cost to you."
+  },
+  "about": {
+    "title": "El Centro Slip & Fall Claims",
+    "longDescription": "Property owners in El Centro, from strip malls along 4th Street to apartment complexes near La Brucherie, are expected to keep their spaces reasonably safe. When they don't, whether it's a spill left too long, broken stairs, poor lighting, or a cracked walkway, people get hurt. Imperial County's mix of retail centers and older buildings means hazards can show up almost anywhere: a wet floor with no sign, a torn carpet edge, an unmarked curb. Proving these cases in California means showing the owner knew, or reasonably should have known, about the danger and didn't fix it or warn you. That's why what you do right after a fall matters. Photos of the hazard, witness names, and store surveillance footage can all shape whether a claim holds up. LawProactive is a free service that connects you with an independent attorney familiar with these claims, so you don't have to sort through it alone.",
+    "commonInjuriesTitle": "Common Injuries From Falls",
+    "commonInjuries": [
+      "Broken hips and wrists",
+      "Torn ligaments and knee injuries",
+      "Traumatic brain injuries from head impact",
+      "Spinal disc injuries",
+      "Shoulder dislocations",
+      "Severe bruising and soft tissue damage"
+    ],
+    "ctaText": "Get connected with an independent attorney about your fall, free."
+  },
+  "whyChoose": {
+    "title": "Why This Matters for Your Claim",
+    "items": [
+      {
+        "title": "Notice Is the Whole Case",
+        "desc": "California law requires showing the property owner knew or should have known about the hazard and failed to act. An attorney can help gather proof, like maintenance logs or prior complaints, that establishes this."
+      },
+      {
+        "title": "Video Disappears Fast",
+        "desc": "Many El Centro businesses overwrite surveillance footage within days or weeks. Acting quickly to request preservation of that video can make a real difference in what evidence survives."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, Your Claim",
+        "desc": "Even if you were partly distracted or moving quickly when you fell, California's pure comparative fault rule still allows you to pursue a claim, though your share of fault may reduce the recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in El Centro?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit. If the property involved is owned by a government entity, such as an Imperial County building, the deadline is much shorter and requires an early claim filing. Talking to an attorney sooner rather than later helps protect your options."
+      },
+      {
+        "question": "What if the store says they didn't know about the hazard?",
+        "answer": "That's a common response, but it's not the end of the conversation. If the hazard existed long enough that a reasonable inspection should have caught it, or if similar incidents happened before, that can still support your claim. Surveillance footage and employee schedules often help clarify this."
+      },
+      {
+        "question": "I fell at a business on 4th Street or near Main Street. Does the exact location matter?",
+        "answer": "The location itself doesn't determine your rights, but it can help identify who owns and maintains the property, which matters for the claim. High-traffic corridors like these see steady foot traffic, so documenting exactly where and how you fell is useful regardless of which street it happened on."
+      }
+    ]
+  }
+}

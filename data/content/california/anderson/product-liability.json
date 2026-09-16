@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "anderson product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Anderson Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Anderson, CA? Get connected free to an independent attorney who handles strict liability product cases."
+  },
+  "hero": {
+    "subtitle": "If a defective product hurt you or someone you love in Anderson, LawProactive can connect you with an independent attorney who takes on manufacturers, distributors, and retailers.  There's no cost to get matched and no obligation to move forward."
+  },
+  "about": {
+    "title": "Anderson Product Liability Claims",
+    "longDescription": "Anderson sits along Rt 273 and I-5, with Deschutes Road and North Street carrying a steady mix of local and regional traffic. Defective products don't always show up in crash data the way vehicle collisions do, but they cause real harm here just the same — a faulty tire that fails on I-5, a malfunctioning tool used on a Shasta County job site, or a household appliance that overheats. California law gives injured people a real advantage in these cases: strict liability. That means you generally don't have to prove a manufacturer was careless, only that the product was defective and that the defect caused your injury. LawProactive doesn't practice law itself — we're a free connection service that puts you in touch with an independent attorney in our network who can look at what happened, help you understand your options, and explain what preserving the product and your medical records could mean for a claim. There's no fee unless the attorney recovers for you.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or batteries",
+      "Lacerations or amputations from faulty tools or machinery",
+      "Traumatic brain injuries from failed safety equipment",
+      "Broken bones from collapsing furniture or ladders",
+      "Poisoning or chemical burns from mislabeled products",
+      "Crash-related injuries tied to defective vehicle parts, like tires or brakes"
+    ],
+    "ctaText": "Talk to an independent attorney about your product injury — free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Strict Liability Matters in Anderson",
+    "items": [
+      {
+        "title": "You Don't Have to Prove Negligence",
+        "desc": "Under California's strict liability rule, you generally need to show the product was defective and caused your injury — not that the company was careless in making it."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and even the retailer who sold the product in Anderson can potentially be held liable, which widens the path to recovery."
+      },
+      {
+        "title": "The Product Itself Is Key Evidence",
+        "desc": "Keeping the item that hurt you — along with packaging, receipts, or instructions — helps an attorney evaluate whether a design, manufacturing, or warning defect was involved."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What counts as a 'defective' product under California law?",
+        "answer": "There are generally three types: a design defect (the product is inherently unsafe even if made correctly), a manufacturing defect (something went wrong during production), or a warning defect (missing or inadequate instructions/warnings). An independent attorney can help sort out which category applies to what happened to you."
+      },
+      {
+        "question": "I was hurt by a car part failure while driving near I-5 or Rt 273 in Anderson — is that a product liability case?",
+        "answer": "It could be, if a vehicle part like a tire, brake, or airbag failed and contributed to the crash rather than driver error alone. These cases can overlap with typical crash claims, so it helps to have someone look at both the collision details and the part involved. LawProactive can connect you with an attorney who evaluates this kind of overlap."
+      },
+      {
+        "question": "Do I still have a case if I already threw away or fixed the broken product?",
+        "answer": "It's harder, but not always impossible — other evidence like photos, purchase records, or repair invoices can sometimes help. Going forward, though, preserving the product in its post-incident condition gives an attorney the strongest starting point. If you still have the item, don't repair, sell, or discard it before speaking with someone."
+      }
+    ]
+  }
+}

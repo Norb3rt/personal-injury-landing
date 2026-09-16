@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "irvine slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Irvine Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on someone else's property in Irvine? LawProactive is a free service that connects you with an independent Orange County premises liability attorney."
+  },
+  "hero": {
+    "subtitle": "A fall in an Irvine parking structure, apartment community, or retail plaza can change your season in a second. We connect you, at no cost, with an independent attorney who knows how California premises liability claims actually work."
+  },
+  "about": {
+    "title": "Irvine Slip & Fall and Premises Liability Claims",
+    "longDescription": "Irvine is built around master-planned neighborhoods, sprawling office parks, and shopping plazas along streets like Culver Drive, and each of those places is somebody's responsibility to maintain. When a wet lobby floor, an unlit parking structure stairwell, or a cracked walkway leaves you hurt, California premises liability law asks a specific question: did the property owner know about the hazard, or should they have known, and did they fail to fix it or warn you? That element, called notice, is where most Orange County fall claims are won or lost. Proving it takes photos of the hazard, the names of anyone who saw it, and a fast request to preserve surveillance footage before it is overwritten. LawProactive is not a law firm. We are a free service that connects Irvine residents with an independent personal injury attorney who handles these cases on contingency, meaning no fee unless there is a recovery. You describe what happened; we make the introduction.",
+    "commonInjuriesTitle": "Injuries We Often See After Irvine Falls",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and shoulder fractures from bracing a fall",
+      "Concussions and other head injuries",
+      "Knee ligament and meniscus tears",
+      "Tailbone and lower back injuries",
+      "Ankle sprains and fractures on uneven surfaces"
+    ],
+    "ctaText": "Tell us where you fell in Irvine and we will connect you with an attorney for a free case review."
+  },
+  "whyChoose": {
+    "title": "Why Irvine Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys Who Understand the Notice Requirement",
+        "desc": "In California, you generally must show the property owner knew or should have known about the hazard and did nothing. The attorneys in our network build cases around that element from day one, not as an afterthought."
+      },
+      {
+        "title": "Fast Action on Video and Evidence",
+        "desc": "Many Irvine businesses and apartment complexes overwrite surveillance footage within days. An attorney can send a preservation demand quickly so the recording of your fall is not lost."
+      },
+      {
+        "title": "Clear Guidance on Deadlines and Shared Fault",
+        "desc": "You typically have two years to file, but far less time if a public entity owns the property. California's pure comparative fault rule also means a claim is not automatically lost if you were partly at fault, and the attorney can explain how that applies to you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in an Irvine city park. Is the deadline different?",
+        "answer": "Yes, and this catches many people off guard. When the property belongs to a public entity such as the City of Irvine or Orange County, you generally must file a formal government claim within a much shorter window than the two-year deadline that applies to private owners. Missing that early step can end the case before it starts. Contacting an attorney soon after the fall gives you the best chance to meet it."
+      },
+      {
+        "question": "The store says I should have been watching where I was walking. Does that end my claim?",
+        "answer": "Not under California law. The state uses pure comparative fault, which means any share of blame assigned to you reduces your recovery by that percentage rather than eliminating it. The store still has to answer the core question of whether it knew or should have known about the hazard and failed to address it. An attorney can evaluate how those two issues interact in your situation."
+      },
+      {
+        "question": "How do I prove the owner knew about the hazard that caused my fall?",
+        "answer": "Notice is usually shown through evidence rather than admissions, so documentation matters. Photos of the spill, worn stair edge, or missing light, incident reports, maintenance and inspection logs, prior complaints, and surveillance video can all show how long a condition existed. Because footage is often erased quickly, an attorney will typically send a written preservation request right away. Witness names and your own notes from the day also help fill in the timeline."
+      }
+    ]
+  }
+}

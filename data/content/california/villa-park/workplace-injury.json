@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "villa-park workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Villa Park Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Villa Park? Get connected free with an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "When a job injury sidelines a Villa Park worker, questions about workers' comp and third-party liability pile up fast. LawProactive connects you, at no cost, with an independent attorney who can sort through the options."
+  },
+  "about": {
+    "title": "Villa Park Workplace Injury Claims",
+    "longDescription": "Villa Park is a small, quiet Orange County community, but its residents still work in construction, landscaping, retail, and offices throughout the surrounding area, and job-site injuries happen here just as they do anywhere else. Under California law, workers' compensation is generally the exclusive path against an employer regardless of who caused the accident, which can feel limiting when medical bills and lost wages stack up. But when a subcontractor, property owner, equipment manufacturer, or another driver contributed to the harm, a separate third-party claim may open the door to additional recovery. LawProactive doesn't practice law or represent workers directly; instead, we connect injured people in Villa Park with an independent attorney who can review the facts and explain what workers' comp covers and whether a third-party claim might apply. There's no cost to ask, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Back and spinal strain from repetitive lifting",
+      "Equipment or machinery-related injuries",
+      "Vehicle collisions during work-related driving",
+      "Repetitive stress and overuse injuries",
+      "Burns or chemical exposure on the job"
+    ],
+    "ctaText": "Find out where your workplace injury claim stands — free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Villa Park Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Clarity on Exclusive Remedy vs. Third-Party Claims",
+        "desc": "California generally limits employer claims to workers' comp, but a negligent third party like a subcontractor or equipment maker can still be pursued separately. An independent attorney can help identify whether that door is open in your case."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Reporting a workplace injury within 30 days is required, and California law prohibits employers from retaliating against workers who do so. If you're worried about pushback for reporting, an attorney connection can help you understand your protections."
+      },
+      {
+        "title": "Awareness of the 2-Year Deadline on Third-Party Claims",
+        "desc": "While workers' comp has its own timelines, a separate third-party injury claim in California generally must be filed within two years. Missing that window can close off compensation beyond workers' comp, so early guidance matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site near Villa Park Road — can I still file a claim against my employer?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer regardless of fault, so a separate lawsuit against them is usually not available. However, if another party, like a contractor or driver working on Villa Park Road, contributed to your injury, a third-party claim may still be possible. An independent attorney can help sort out which path applies to your situation."
+      },
+      {
+        "question": "How long do I have to report my workplace injury in California?",
+        "answer": "California law generally requires you to report a work injury to your employer within 30 days. Waiting longer can complicate your workers' comp claim, so it's best to report as soon as you're able."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury?",
+        "answer": "No, retaliation against an employee for reporting a workplace injury is illegal under California law. If you believe you've faced retaliation, an independent attorney can help you understand your options and next steps."
+      }
+    ]
+  }
+}

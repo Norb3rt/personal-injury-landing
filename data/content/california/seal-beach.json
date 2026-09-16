@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "seal-beach city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Seal Beach, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Seal Beach? Free connection to an Orange County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end crash on Seal Beach Boulevard or a broken bone from a fall, we'll connect you with an independent attorney at no cost, serving all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Seal Beach, California",
+    "longDescription": "Seal Beach is a small coastal city, but its roads carry a steady flow of traffic between the 405 and Pacific Coast Highway (Rt 1). In the most recent full year on record, the city logged 88 injury collisions, 123 people hurt, and 3 traffic deaths — numbers that reflect how much local travel funnels through corridors like Interstate 405, Interstate 405 Northbound, and Seal Beach Boulevard. Reported crashes tend to cluster on Saturday evenings between 5 and 7 p.m., a pattern likely tied to weekend errands, beach traffic, and commuters heading home. If you were hurt in a collision anywhere in this stretch of Orange County, sorting out medical bills, missed work, and vehicle repairs can feel overwhelming on top of recovering physically. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we don't charge you anything to make that connection. The attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Getting informed about your options early, before evidence disappears or deadlines pass, can make a real difference in how your claim moves forward.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from pedestrian or bicycle collisions"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but if a government entity is involved, that window can shrink to as little as six months. Missing a deadline can end your ability to recover anything."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for the crash, you can still recover damages — just reduced by your share of fault. An attorney can help make sure your percentage of blame isn't overstated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages like pain and suffering in ordinary injury cases. That means your compensation isn't artificially limited by a statutory ceiling."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. That removes the financial barrier to getting help right after an injury."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "How will I pay medical bills while I'm out of work?",
+      "Will the insurance company blame me for the crash?",
+      "What if I wait too long and lose my chance to file?",
+      "Can I actually afford a lawyer right now?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Seal Beach?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If your claim involves a government entity, such as a city vehicle or a hazard on public property, that deadline can be as short as six months. It's worth confirming your specific deadline as soon as possible."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, so being partially at fault doesn't bar you from recovering compensation. Your total recovery is simply reduced by your percentage of fault. An attorney can help make sure that percentage is calculated fairly."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Seal Beach?",
+        "answer": "Public collision records show higher counts along corridors such as I-405, Interstate 405 Northbound, Seal Beach Boulevard, and Rt 1, with reported crashes tending to peak on Saturdays between 5 and 7 p.m. These are simply public-record counts of where and when collisions have been reported, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We connect injured people with independent attorneys who work on contingency, meaning they only get paid if you recover compensation."
+      },
+      {
+        "question": "What compensation might be available for pain and suffering?",
+        "answer": "California places no cap on non-economic damages, like pain and suffering, in typical injury cases. The exact value depends on the specifics of your injury and case, which an attorney can evaluate with you."
+      }
+    ]
+  }
+}

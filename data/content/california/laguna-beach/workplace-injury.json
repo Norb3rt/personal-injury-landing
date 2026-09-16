@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "laguna-beach workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Laguna Beach Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Laguna Beach? Get connected free with an independent attorney who handles third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working on a jobsite, delivery route, or business along Coast Highway or Laguna Canyon Road, we can connect you with an independent attorney who can look at whether a third party besides your employer bears responsibility."
+  },
+  "about": {
+    "title": "Laguna Beach Workplace Injury Claims",
+    "longDescription": "Laguna Beach's mix of hillside construction, coastal retail, hospitality work, and delivery routes along Rt 1 and Rt 133 means workplace injuries here often involve more than just an employer. A subcontractor on a renovation site, a property owner who failed to maintain safe walkways, a defective ladder or piece of equipment, or another driver during a work errand can all create a separate legal claim outside the workers' compensation system. Most injured workers in California file for workers' comp benefits first, since that system doesn't require proving fault. But when a third party's negligence contributed to the injury, an independent claim may also be possible, and that claim can address losses workers' comp doesn't fully cover. LawProactive doesn't handle claims directly. We simply help connect injured workers in Laguna Beach with an attorney in our network who can review the details and explain what options may exist, at no upfront cost.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or hillside terrain",
+      "Injuries from defective tools or machinery",
+      "Vehicle collisions during work deliveries or errands",
+      "Repetitive strain and overexertion injuries",
+      "Slip-and-fall incidents on job sites or business premises",
+      "Injuries from falling materials or unsecured equipment"
+    ],
+    "ctaText": "Find out if a third-party claim applies to your situation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Only Option",
+        "desc": "California generally treats workers' comp as the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker can still be held liable separately."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "Workplace injuries generally need to be reported to an employer within 30 days, and missing that window can complicate a workers' comp claim."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "California law prohibits employers from retaliating against workers who report an injury or file a claim, which can matter if you're hesitant to speak up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if my employer says it was just an accident?",
+        "answer": "Workers' compensation generally doesn't require proving fault, so an accident can still qualify for benefits. If a third party, like a subcontractor or property owner, contributed to the injury, a separate claim against them may also be possible. An attorney can help sort out which paths apply."
+      },
+      {
+        "question": "I was injured making a delivery near Coast Highway during work hours. Does that count as a workplace injury?",
+        "answer": "Yes, injuries that happen while performing work duties, including driving routes along Rt 1 or Laguna Canyon Road, are typically covered under workers' comp. If another driver caused the crash, that could also open a third-party injury claim with a different legal deadline."
+      },
+      {
+        "question": "What if my employer threatens to fire me for reporting an injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law. If you're facing pressure like this, it's worth speaking with an attorney who can explain your protections and next steps."
+      }
+    ]
+  }
+}

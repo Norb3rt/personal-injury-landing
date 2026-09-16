@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "walnut medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Walnut Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Walnut, CA? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Walnut went wrong, LawProactive can connect you with an independent attorney who handles California medical malpractice claims at no upfront cost."
+  },
+  "about": {
+    "title": "Walnut Medical Malpractice Claims",
+    "longDescription": "Walnut is a Los Angeles County community of roughly 30,000 residents, and like anywhere else, its patients rely on local clinics, urgent care centers, and nearby hospitals to get things right. Most of the time they do. But when a provider misses an obvious symptom, operates on the wrong site, or sends someone home too soon, the harm can be lasting. California law treats these cases carefully — a poor outcome by itself isn't proof of malpractice, and claims must clear specific legal hurdles, including a short filing window and a required 90-day notice before a lawsuit is filed. LawProactive doesn't practice law or take a cut of any settlement. We simply listen to what happened, ask a few questions about timing and treatment, and — if it looks like a fit — connect you with an independent attorney in our network who takes California malpractice cases on contingency, so there's nothing owed unless you recover.",
+    "commonInjuriesTitle": "Injuries We Commonly See in These Claims",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a hospitalized patient"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Move Forward",
+    "items": [
+      {
+        "title": "The Filing Window Is Tight",
+        "desc": "California generally allows one year from when you discovered the harm, and never more than three years from the injury itself, so waiting to sort out what happened can cost you the chance to file at all."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before any malpractice lawsuit can be filed in California, the provider must receive 90 days' written notice — this step needs to happen correctly and early, which is one reason talking to an attorney sooner rather than later matters."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad medical outcome alone isn't enough to prove malpractice, California cases nearly always need a qualified medical expert to explain how the care fell short of the accepted standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Walnut but was treated at a hospital in a nearby city — does that matter?",
+        "answer": "Not for eligibility purposes. What matters is where the care happened and when, not your home address, so an attorney can look into your case regardless of which Los Angeles County facility treated you."
+      },
+      {
+        "question": "Is a bad result automatically malpractice?",
+        "answer": "No. California law requires showing the provider's care fell below the accepted medical standard and that this caused your harm — an unfortunate outcome by itself isn't enough. That's why a qualified medical expert typically has to review the records before a claim can move forward."
+      },
+      {
+        "question": "What does LawProactive actually do for me?",
+        "answer": "We're not a law firm and we don't charge you anything. We gather some basic details about your situation and connect you with an independent California attorney who handles medical malpractice claims on contingency, meaning they only get paid if you do."
+      }
+    ]
+  }
+}

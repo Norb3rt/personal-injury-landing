@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "dos-palos medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dos Palos Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Dos Palos? Get connected free to an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in Dos Palos goes wrong, the aftermath can feel isolating in a small Merced County community. LawProactive connects you with an independent attorney who understands California's medical malpractice rules and can review what happened."
+  },
+  "about": {
+    "title": "Dos Palos Medical Malpractice Claims",
+    "longDescription": "Dos Palos residents often travel outside the city for specialized care, and when something goes wrong during that treatment, sorting out what happened can feel overwhelming. A missed diagnosis, a surgical mistake, or a medication error can upend a family's life, whether the treatment happened at a local clinic or a larger facility in Merced County. California law sets strict timelines and procedural steps for these claims, including a requirement to notify the provider before filing suit. Because these cases almost always require a qualified medical expert to explain how the standard of care was breached, having someone review the medical records early matters. LawProactive doesn't practice law or promise any result — we simply connect Dos Palos residents with an independent attorney in our network who can evaluate whether what happened crosses the line from an unfortunate outcome into malpractice, and explain the next steps in plain language.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosage or prescription mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Hospital-acquired infections from poor sanitation practices"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free and confidential."
+  },
+  "whyChoose": {
+    "title": "What Dos Palos Families Should Know Before Waiting",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally gives one year from when you discover the injury, and never more than three years from the injury itself, to bring a malpractice claim. Waiting to sort things out on your own can quietly close that window."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can even be filed, California law requires sending the provider a 90-day notice of intent to sue. Getting this step right, and started early, matters for anyone in Dos Palos considering a claim."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A bad medical outcome by itself isn't proof of malpractice — California generally requires a qualified medical expert to establish that the standard of care was violated. An attorney can help arrange that kind of review before deciding how to proceed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a poor outcome from surgery or treatment automatically malpractice?",
+        "answer": "No. California law recognizes that medicine carries inherent risk, so a bad result alone doesn't establish malpractice. What matters is whether the provider deviated from the accepted standard of care, which is typically shown through a qualified medical expert's review."
+      },
+      {
+        "question": "I live in Dos Palos but was treated at a hospital outside Merced County — does that change anything?",
+        "answer": "Not necessarily. What matters is where the treatment occurred and which provider was involved, not where you live. An independent attorney can help figure out the right venue and notice requirements based on the facts of your care."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from when it happened, whichever comes first. There's also a required 90-day pre-suit notice, so it's worth getting a case reviewed sooner rather than later."
+      },
+      {
+        "question": "Is there a cap on what I can recover for non-economic damages?",
+        "answer": "Yes, California's MICRA law sets a cap on non-economic damages like pain and suffering, and that cap rises each year under current law. Economic damages, like medical bills and lost income, aren't subject to that same cap."
+      }
+    ]
+  }
+}

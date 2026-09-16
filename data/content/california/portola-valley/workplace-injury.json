@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "portola-valley workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Portola Valley Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Portola Valley? Get connected with an independent CA attorney about workers' comp and third-party claims. Free, no obligation."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Portola Valley, from a job site off Alpine Road to a delivery route near Westridge Drive, LawProactive can connect you with an independent attorney who handles workplace injury matters."
+  },
+  "about": {
+    "title": "Portola Valley Workplace Injury Claims",
+    "longDescription": "Portola Valley's mix of hillside properties, private estates, and small commercial areas along Portola Road and Arastradero Road means workplace injuries here often happen in less typical settings than a factory floor — landscaping crews, contractors, delivery drivers, and property maintenance workers all face real risk. Under California law, workers' compensation is generally your only path against your employer, regardless of who caused the accident. But when a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, a separate third-party claim may be possible alongside your workers' comp benefits. Given San Mateo County's rules and deadlines, and the added complexity when multiple parties are involved, it helps to have someone review your situation early. LawProactive doesn't practice law — we simply connect you with an independent attorney in our network who can look at what happened, explain your options, and help you understand whether a third-party claim applies to your case, all at no upfront cost to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, roofs, or hillside terrain",
+      "Equipment and machinery-related injuries",
+      "Vehicle collisions during work-related driving",
+      "Repetitive strain and overexertion injuries",
+      "Cuts, burns, or crush injuries from tools",
+      "Injuries from falling objects or debris"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Claim",
+    "items": [
+      {
+        "title": "Third-Party Claims Can Run Alongside Workers' Comp",
+        "desc": "Because workers' comp is usually your exclusive remedy against your employer, a negligent third party — like a subcontractor or another driver — may still owe you a separate claim. An attorney can help identify whether that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires injured workers to report the incident to their employer within 30 days, and missing that window can complicate your benefits. Getting guidance early helps protect your rights on both fronts."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. If you're worried about your job, an independent attorney can explain what protections apply to you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt doing landscaping work near Westridge Drive. Can I still file a claim?",
+        "answer": "Yes — workplace injuries that happen on residential or estate properties in Portola Valley are generally covered the same way as any other job site. If your employer carries workers' comp insurance, you'd typically file through that system first, and a third-party claim may also apply if someone outside your employer contributed to the injury. An attorney can help sort out which paths apply to your case."
+      },
+      {
+        "question": "What if my employer says I can't file because I was a contractor?",
+        "answer": "Whether you're classified as an employee or an independent contractor affects your options, and misclassification disputes are common. This is exactly the kind of question worth reviewing with an attorney, since it can change whether workers' comp or a direct injury claim is the right path."
+      },
+      {
+        "question": "How long do I have to bring a claim if a third party caused my injury?",
+        "answer": "In California, third-party injury claims generally carry a two-year deadline from the date of the incident. Workers' comp reporting has its own much shorter window — typically 30 days to notify your employer — so it's worth acting on both fronts as soon as you're able."
+      }
+    ]
+  }
+}

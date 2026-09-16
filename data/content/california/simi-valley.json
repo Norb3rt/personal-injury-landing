@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "simi-valley city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Simi Valley, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Simi Valley? LawProactive connects Ventura County residents with an independent injury attorney free. 2 years to file; no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on the 118, knocked down crossing Los Angeles Avenue, or hurt in a fall at a local business, LawProactive connects you with an independent personal injury attorney at no cost. We serve Simi Valley and all of Ventura County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Simi Valley, California",
+    "longDescription": "Much of Simi Valley's daily traffic funnels onto a few routes: the SR-118 Ronald Reagan Freeway running the length of the valley, with Los Angeles Avenue, Cochran Street and Royal Avenue carrying the surface-street load. Public records for 2025, the most recent final year, list 357 injury collisions inside the city, 500 people injured and 5 traffic deaths. Those same records show reports tending to rise on Wednesdays between 5 p.m. and 7 p.m., as the evening commute moves off the freeway and onto local streets. If one of those numbers is you or someone in your family, the next steps can feel murky. Medical bills arrive before the insurance adjuster returns your call, and everyone seems to want a statement. LawProactive exists to clear up one piece of that. We are a free service, not a law firm. What we do is connect people in Simi Valley with an independent personal injury attorney who handles matters like theirs, from car and motorcycle crashes to pedestrian injuries, falls and dog bites. There is no charge for the connection, and attorneys in our network work on contingency, so there is no fee unless there is a recovery. You tell us what happened; we help you find a lawyer to talk it through. Whether to hire anyone remains entirely your call.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Simi Valley Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms and collarbones",
+      "Back and spinal disc injuries",
+      "Road rash and soft-tissue damage from motorcycle or bicycle crashes",
+      "Knee and hip injuries from falls on commercial property"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Simi Valley Claim",
+    "items": [
+      {
+        "title": "The clock runs two years, sometimes six months",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county or state agency is involved, a claim may need to be filed in as little as six months, so it pays to ask early."
+      },
+      {
+        "title": "Being partly at fault does not shut you out",
+        "desc": "California follows pure comparative fault. If you share some blame, your recovery is reduced by your percentage of fault, but you are not barred from recovering."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For a typical injury case in California, the law places no ceiling on non-economic damages such as pain, suffering and loss of enjoyment of life. An attorney can explain how those losses are documented."
+      },
+      {
+        "title": "Contingency means no upfront legal bill",
+        "desc": "Attorneys in our network work on contingency, taking a fee only if there is a recovery. Our connection service is free as well, so there is nothing to pay just to have a conversation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say",
+      "I'm missing shifts and the bills haven't slowed down",
+      "The crash was partly my fault, so maybe I have no claim at all",
+      "I can't tell whether my injuries are serious enough to bother a lawyer"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not give legal advice. We connect you with an independent personal injury attorney who practices in the Simi Valley area, and any attorney-client relationship is between you and that lawyer."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Simi Valley?",
+        "answer": "For most personal injury claims in California, the statute of limitations is two years from the date of injury. If a government entity is involved, such as a claim over a city-maintained road or vehicle, the deadline to present a claim can be as short as six months. Because those deadlines are strict, speaking with an attorney soon after the incident is wise."
+      },
+      {
+        "question": "Where do collisions in Simi Valley tend to occur?",
+        "answer": "According to public collision records, the highest counts in Simi Valley are recorded along the SR-118 Ronald Reagan Freeway, Los Angeles Avenue, Cochran Street and Royal Avenue. Reports also tend to peak on Wednesdays between 5 p.m. and 7 p.m. These figures are neutral counts of where crashes have been reported, and higher volume on a corridor reflects the traffic it carries."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses pure comparative fault, so sharing responsibility does not eliminate your claim. Instead, any recovery is reduced by your assigned percentage of fault. An attorney can help you understand how fault might be apportioned in your situation."
+      },
+      {
+        "question": "What does it cost to get connected and hire an attorney?",
+        "answer": "LawProactive charges nothing to connect you with an attorney. The attorneys in our network work on contingency, which means they are paid a percentage only if there is a recovery in your case. If there is no recovery, there is no attorney fee, and the specific terms are spelled out in a written agreement before you commit to anything."
+      }
+    ]
+  }
+}

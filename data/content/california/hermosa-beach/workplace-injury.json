@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "hermosa-beach workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hermosa Beach Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Hermosa Beach? Get connected free to an independent attorney who handles work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Hermosa Beach, from a delivery route along Pacific Coast Highway to a job site near Pier Avenue, understanding your options beyond workers' comp can matter. LawProactive connects you, at no cost, with an independent attorney who can look at whether a third party shares responsibility."
+  },
+  "about": {
+    "title": "Hermosa Beach Workplace Injury Claims",
+    "longDescription": "Hermosa Beach's economy runs on tourism, retail, restaurants, and small commercial operations packed into a compact beach city, which means workers here face a mix of hazards: delivery drivers navigating Hermosa Avenue and Pacific Coast Highway traffic, kitchen and hospitality staff near Pier Avenue, and contractors working on the area's tightly spaced residential and commercial buildings. In California, workers' compensation generally covers your medical bills and lost wages regardless of fault, and it's usually the only path against your employer directly. But when a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, a separate claim against that third party may be possible alongside your workers' comp benefits. LawProactive doesn't practice law ourselves; we connect injured workers with an independent attorney in our network who can review the details and explain what applies to your situation, free of charge and with no obligation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls on stairs or uneven walkways at job sites",
+      "Vehicle collisions while driving for work",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from defective tools or equipment",
+      "Burns and lacerations in restaurant or kitchen settings",
+      "Struck-by injuries during deliveries or loading"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Work Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "California treats workers' comp as the exclusive remedy against your employer in most cases, but it doesn't rule out a claim against a negligent third party, like a subcontractor or another driver."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and separate third-party claims carry a 2-year deadline, so getting clarity early helps protect your options."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "California law prohibits employer retaliation against workers who report injuries or file claims, and an attorney can help explain what protections apply to your circumstances."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if my employer already covers workers' comp?",
+        "answer": "Workers' comp is usually the exclusive remedy against your employer, but it doesn't prevent a separate claim against a third party whose negligence contributed to your injury, such as a property owner or equipment maker. An independent attorney can review your situation to see if that applies. LawProactive can connect you with one at no cost."
+      },
+      {
+        "question": "I was injured making a delivery near Pier Avenue. Does that count as a workplace injury?",
+        "answer": "Yes, injuries that happen while performing job duties, including deliveries on streets like Pier Avenue or Pacific Coast Highway, generally fall under workplace injury protections. If another driver caused the crash, that may open a separate third-party claim in addition to workers' comp. An attorney can look at the specific circumstances."
+      },
+      {
+        "question": "What if my employer discourages me from reporting my injury?",
+        "answer": "Retaliation against workers for reporting injuries or pursuing benefits is illegal under California law. You still generally have 30 days to report the injury regardless of employer pressure. Speaking with an independent attorney early can help you understand your rights and next steps."
+      }
+    ]
+  }
+}

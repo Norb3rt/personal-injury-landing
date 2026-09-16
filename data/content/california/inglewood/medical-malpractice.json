@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "inglewood medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Inglewood Medical Malpractice Attorney Match | LawProactive",
+    "metaDescription": "Hurt by a medical error in Inglewood? LawProactive connects you free with an independent malpractice attorney who works on contingency."
+  },
+  "hero": {
+    "subtitle": "When care in Inglewood goes wrong in a way it should not have, you deserve a clear-eyed look at what happened. LawProactive connects you, at no cost, with an independent attorney who handles California medical negligence claims."
+  },
+  "about": {
+    "title": "Inglewood Medical Malpractice Claims",
+    "longDescription": "Inglewood is home to roughly 111,666 people, and every one of them relies on doctors, nurses, urgent care clinics, and pharmacies across Los Angeles County to get things right. Most of the time they do. But when a provider falls below the accepted standard of care and someone is harmed as a result, California law offers a path to accountability. That path has its own rules. Under MICRA, you generally have one year from when you discovered the injury, and never more than three years from when it occurred, to file. A 90-day notice must go to the provider before suit. Non-economic damages are capped, though the cap rises each year. And nearly every case needs a qualified medical expert to explain where the care went astray. That last point matters: a poor result on its own is not malpractice. Sorting a genuine claim from a sad outcome takes experience. LawProactive is not a law firm. We simply connect Inglewood residents with an independent attorney who can review the records and tell you honestly where you stand.",
+    "commonInjuriesTitle": "Harm We Commonly See in Medical Negligence Claims",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary conditions or ignored symptoms"
+    ],
+    "ctaText": "Ask for a free, no-obligation case review"
+  },
+  "whyChoose": {
+    "title": "Why Inglewood Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are short",
+        "desc": "One year from discovery, three years at the outside, plus a mandatory 90-day pre-suit notice. The attorney you are matched with will map those dates against your own timeline right away."
+      },
+      {
+        "title": "Expert testimony is nearly always required",
+        "desc": "California courts expect a qualified medical professional to explain how the care fell short. Attorneys in our network know how to locate and work with the right specialists."
+      },
+      {
+        "title": "Free to you, contingency for the attorney",
+        "desc": "LawProactive charges nothing to connect you, and network attorneys are paid only if there is a recovery. There is no fee to find out whether your situation is worth pursuing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated after a crash on Century Boulevard and the injury got worse. Is that malpractice?",
+        "answer": "Not necessarily, and that is an important distinction. Inglewood recorded 446 injury collisions in 2025, and many of those patients had complex injuries that can worsen even with proper care. Malpractice means a provider did something a reasonably careful provider would not have done, and that mistake caused additional harm. A qualified medical expert has to confirm both parts before a claim moves forward."
+      },
+      {
+        "question": "How much can I recover for pain and suffering in a California malpractice case?",
+        "answer": "California places a statutory cap on non-economic damages such as pain, suffering, and loss of enjoyment of life. That cap rises every year under the current version of MICRA. Economic losses like medical bills and lost income are treated separately. An attorney can explain how the cap applies to the year your claim is filed."
+      },
+      {
+        "question": "What does the 90-day notice actually do?",
+        "answer": "Before filing a malpractice lawsuit in California, you must give the provider written notice of your intent to sue at least 90 days ahead of time. The notice describes the legal basis for the claim and the injuries involved. Sending it properly can also affect how the filing deadline is calculated, so it is worth having an attorney handle it rather than going it alone."
+      }
+    ]
+  }
+}

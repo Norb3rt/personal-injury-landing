@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "corcoran product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Corcoran Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Corcoran, CA? LawProactive connects you free with an independent product liability attorney in Kings County."
+  },
+  "hero": {
+    "subtitle": "When a defective tool, vehicle part, or household product injures someone in Corcoran, California law often lets them seek compensation without proving the maker was careless. LawProactive can connect you with an independent attorney who handles these cases at no upfront cost."
+  },
+  "about": {
+    "title": "Corcoran Product Liability Claims",
+    "longDescription": "Corcoran sits at the center of Kings County's agricultural economy, where farm equipment, industrial tools, and heavy machinery are part of daily life for many residents. When these products malfunction, or when everyday consumer goods carry a hidden defect, the resulting injuries can be severe and life-altering. California generally applies strict liability in these cases, meaning an injured person often doesn't need to prove a manufacturer was negligent, only that the product was defective and that the defect caused harm. This can apply to design flaws, manufacturing errors, or inadequate warnings, and responsibility may extend beyond the manufacturer to distributors and retailers who sold the product. If you or someone you love was hurt by a faulty product anywhere in Corcoran, LawProactive can connect you with an independent attorney to review what happened and explain your options, free of charge and with no obligation.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Amputations and crush injuries from farm or industrial machinery",
+      "Burns from malfunctioning appliances or equipment",
+      "Traumatic brain injuries from defective safety gear or vehicle parts",
+      "Chemical exposure or poisoning from mislabeled products",
+      "Broken bones from tool or equipment failures",
+      "Lacerations from defective blades, tools, or packaging"
+    ],
+    "ctaText": "Talk to an independent attorney about your product injury, free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Corcoran Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Case",
+        "desc": "Because California often applies strict liability to defective products, an injured person may not need to prove the manufacturer acted negligently. An attorney can help identify whether the defect was in design, manufacturing, or warning."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable for a defective product. A connected attorney can help sort out who was involved in getting the product into your hands."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "Keeping the defective product, along with packaging and receipts, can be important evidence. An independent attorney can advise you early on how to protect that evidence before it's lost or discarded."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What counts as a product defect under California law?",
+        "answer": "California generally recognizes three types: design defects, where the product is inherently unsafe even if made correctly; manufacturing defects, where something went wrong during production; and warning defects, where the product lacked adequate instructions or safety warnings. An independent attorney can help figure out which category fits your situation."
+      },
+      {
+        "question": "I was hurt by farm equipment near Corcoran. Does that count as a product liability case?",
+        "answer": "It can, depending on what caused the injury. If the equipment malfunctioned due to a design or manufacturing flaw rather than simple wear and tear or operator error, it may fall under product liability rather than a workplace injury claim. An attorney can review the specifics and point you toward the right type of claim."
+      },
+      {
+        "question": "Do I have to prove the manufacturer was careless?",
+        "answer": "Not necessarily. California often applies strict liability to defective products, which generally means you need to show the product was defective and that it caused your injury, not that the company was negligent. This can make certain product cases more straightforward than other injury claims."
+      }
+    ]
+  }
+}

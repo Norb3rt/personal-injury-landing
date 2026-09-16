@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "ojai medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ojai Medical Malpractice Claims | LawProactive",
+    "metaDescription": "Hurt by a medical error in Ojai? LawProactive connects you free with an independent Ventura County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong at an Ojai clinic or a Ventura County hospital, the path forward can feel confusing. LawProactive helps Ojai patients and families connect, free of charge, with an independent attorney who handles medical malpractice claims."
+  },
+  "about": {
+    "title": "Ojai Medical Malpractice Claims",
+    "longDescription": "Ojai's small-town rhythm means many residents rely on a tight circle of local clinics, urgent care providers, and referrals out to Ventura or Santa Barbara for specialized hospital care. When something goes wrong along that chain — a missed diagnosis, a medication mix-up, a surgical complication, or a delay in referring a patient to a higher level of care — the effects can ripple through a family for years. Because California medical malpractice cases involve strict legal timelines and require a qualified medical expert to weigh in, sorting out what happened and whether it rises to malpractice is not something to figure out alone. LawProactive doesn't practice law or promise any result; we simply listen to what happened, gather the basic facts, and connect you with an independent attorney in the network who can evaluate your situation and explain your options under California law, at no cost to you to get started.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or complications",
+      "Medication dosing mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia errors",
+      "Failure to refer for urgent specialist care"
+    ],
+    "ctaText": "Tell us what happened — it's free to connect with an attorney."
+  },
+  "whyChoose": {
+    "title": "What Ojai Patients Should Know About These Claims",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim. On top of that, a 90-day pre-suit notice to the provider is required before a lawsuit can move forward."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A bad medical outcome by itself isn't proof of malpractice — California law nearly always requires a qualified medical expert to establish that the care fell below the accepted standard."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "MICRA places a statutory limit on non-economic damages such as pain and suffering, and that cap increases annually, which is worth understanding early with someone who tracks the current figure."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Ojai but was treated at a hospital outside the city — does that change anything?",
+        "answer": "Not fundamentally. California's malpractice rules, including the MICRA deadlines and expert requirements, apply based on where the care was given, not where you live. Many Ojai residents are treated at facilities elsewhere in Ventura County, and an attorney can look at the specific hospital or clinic involved."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from the date it occurred, whichever comes first. There's also a required 90-day notice period before filing suit, so it's best not to wait to have your situation reviewed."
+      },
+      {
+        "question": "Is a poor medical outcome automatically malpractice?",
+        "answer": "No — a bad result alone doesn't mean malpractice occurred. California requires evidence, typically through a qualified medical expert, that the provider's care fell below the accepted standard and caused harm. An independent attorney can help assess whether your situation meets that bar."
+      }
+    ]
+  }
+}

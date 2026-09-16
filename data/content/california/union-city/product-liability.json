@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "union-city product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Union City Product Liability Lawyer | LawProactive",
+    "metaDescription": "Hurt by a defective product in Union City? LawProactive connects you free with an independent attorney. No fee unless there's a recovery."
+  },
+  "hero": {
+    "subtitle": "A product you trusted failed and left you hurt in Union City. LawProactive is a free service that puts you in touch with an independent attorney who handles defective product claims in Alameda County."
+  },
+  "about": {
+    "title": "Union City Product Liability Claims",
+    "longDescription": "Most people in Union City never think about who made the space heater in the spare room, the tires on the car they drive down Alvarado Niles Road, or the ladder in the garage. You only start asking those questions after something breaks and someone gets hurt. That is where a product liability claim begins. Under California law, these cases usually rest on strict liability. Put simply, you generally do not have to prove the company was careless. What matters is whether the product had a defect in its design, in how that particular unit was manufactured, or in the warnings and instructions that came with it, and whether that defect caused your injury. Responsibility can reach beyond the manufacturer to the distributor and the retailer that sold it to you. LawProactive is not a law firm. We are a free connection service. Tell us what happened, and we will match you with an independent attorney who reviews Alameda County product cases on a contingency basis, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries or appliances",
+      "Lacerations and amputations from power tools",
+      "Head and neck trauma when airbags or seatbelts fail",
+      "Crush injuries from collapsing furniture or equipment",
+      "Poisoning or chemical exposure from mislabeled goods",
+      "Choking or airway injuries from small detached parts"
+    ],
+    "ctaText": "Tell us about the product that hurt you"
+  },
+  "whyChoose": {
+    "title": "Why Union City Residents Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Works in Your Favor",
+        "desc": "California generally does not ask you to prove the manufacturer was negligent. Showing the product was defective and that the defect caused your injury is usually the heart of the case, and the attorney you're connected with can explain how that applies to your situation."
+      },
+      {
+        "title": "The Product Itself Is Evidence",
+        "desc": "Do not throw away, repair, or return the item that hurt you, and hold onto the packaging, receipt, and any instructions. An independent attorney can help arrange for it to be examined and preserved properly."
+      },
+      {
+        "title": "More Than One Company May Be Responsible",
+        "desc": "Manufacturers, distributors, and the store that sold the product can all carry liability under California law. Sorting out which parties belong in the claim is something the attorney you're matched with will work through with you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag didn't deploy in a crash on I-880 near Union City. Could that be a product liability case?",
+        "answer": "It might be. Union City recorded 179 injury collisions in 2025, and when a safety component fails during one of those crashes, the injuries can be more serious than the collision alone would have caused. A defective airbag, seatbelt, or brake system can support a product claim separate from any claim against another driver. Keep the vehicle from being scrapped or repaired until an attorney has had a chance to look at it."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was faulty?",
+        "answer": "Generally, no. California product liability commonly runs on strict liability, so the focus is on whether a design, manufacturing, or warning defect existed and whether it caused your injury. The company's state of mind is usually not the deciding factor. An independent attorney can walk you through what evidence tends to matter most."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing to connect. LawProactive is a free service, and we are not a law firm. The independent attorneys in our network handle product liability claims on contingency, which means there is no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

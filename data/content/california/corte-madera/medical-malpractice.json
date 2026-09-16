@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "corte-madera medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Corte Madera Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Corte Madera? Get connected free to an independent Marin County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a misdiagnosis, surgical error, or medication mistake hurt you or a loved one in Corte Madera, LawProactive can connect you with an independent Marin County attorney who handles medical malpractice claims — at no cost to you."
+  },
+  "about": {
+    "title": "Corte Madera Medical Malpractice Claims",
+    "longDescription": "Corte Madera is a small Marin County community of under 10,000 residents, but people here still rely on nearby clinics, surgical centers, and hospitals for everything from routine care to emergency treatment. When that care falls below the accepted standard — a delayed diagnosis, a surgical slip, an anesthesia error, or a medication mix-up — the effects can reshape a family's life. California law treats these claims differently than a typical injury case: strict notice periods, a requirement for qualified medical expert review, and specific limits on certain damages all apply. LawProactive doesn't practice law or represent clients directly. Instead, we listen to what happened, and if it looks like a viable medical malpractice matter, we connect you with an independent attorney in our network who can evaluate the medical records and explain your options — free of charge, with no obligation to move forward.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Anesthesia complications",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Hospital-acquired infections from poor sanitation"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Pursue a Claim",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines Apply",
+        "desc": "Under California's MICRA rules, you generally have one year from when you discovered the injury, but never more than three years from the date it happened. Missing that window can end a claim before it starts, so early attorney review matters."
+      },
+      {
+        "title": "A 90-Day Notice Is Required First",
+        "desc": "California law requires sending the healthcare provider a formal notice at least 90 days before filing suit. An attorney familiar with this process can make sure that step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Necessary",
+        "desc": "A bad medical outcome by itself doesn't prove malpractice — California requires a qualified medical expert to support the claim that the standard of care was breached. Independent attorneys in our network work with the right experts to evaluate whether a case has merit."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How do I know if what happened to me counts as malpractice?",
+        "answer": "Not every poor outcome is malpractice — California law requires showing that a provider's care fell below an accepted medical standard and that this failure caused your harm. An independent attorney, often working with a medical expert, is best positioned to review your records and give you an honest answer."
+      },
+      {
+        "question": "Are there deadlines I need to worry about if I live in Corte Madera?",
+        "answer": "Yes. California's MICRA law generally gives you one year from when you discover the injury, and no more than three years from when it occurred, to file a claim. Because Corte Madera is a small community, records and providers may be spread across Marin County or nearby facilities, so it helps to start the process early."
+      },
+      {
+        "question": "Is there a limit on what I can recover?",
+        "answer": "California caps non-economic damages, such as pain and suffering, though that cap increases each year under current law. Economic damages like medical bills and lost income are generally not subject to that same cap. An attorney can walk you through how this applies to your specific situation."
+      }
+    ]
+  }
+}

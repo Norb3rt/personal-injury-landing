@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "encinitas workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Encinitas Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Encinitas? Get connected free with an independent attorney who handles work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Encinitas, LawProactive can connect you at no cost with an independent attorney who looks into whether anyone besides your employer bears responsibility for what happened."
+  },
+  "about": {
+    "title": "Encinitas Workplace Injury Claims",
+    "longDescription": "Encinitas sits along a busy stretch of San Diego County where landscaping crews, delivery drivers, retail staff, and construction workers all face daily hazards on the job. Many injured workers assume their only path forward is a workers' compensation claim through their employer — and while that's usually true, California law also allows for a separate claim against a negligent third party, such as a subcontractor, property owner, or equipment manufacturer, if their negligence contributed to the injury. This matters in a city like Encinitas, where job sites often involve multiple contractors, delivery routes along corridors like N El Camino Real, or equipment provided by outside vendors. LawProactive doesn't practice law or handle claims directly; we simply connect injured workers with an independent attorney who can review the details, explain your options, and help you understand whether a third-party claim might apply alongside your workers' comp benefits.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or roofs",
+      "Injuries from defective tools or machinery",
+      "Vehicle collisions during work-related driving",
+      "Repetitive strain and overexertion injuries",
+      "Injuries caused by unsafe conditions on a client's property",
+      "Struck-by incidents involving equipment or falling objects"
+    ],
+    "ctaText": "Get connected with an attorney to review your workplace injury."
+  },
+  "whyChoose": {
+    "title": "Why Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Beyond Workers' Comp",
+        "desc": "California treats workers' comp as the usual remedy against an employer, but a negligent third party like a subcontractor or equipment maker can still be pursued separately. An attorney can help identify whether that applies to your situation."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against a worker for reporting an injury. Knowing your rights early can matter if issues arise after you file."
+      },
+      {
+        "title": "Attention to Reporting Deadlines",
+        "desc": "Workplace injuries generally need to be reported to an employer within 30 days, while a separate third-party injury claim carries a two-year deadline. An independent attorney can help you keep track of both timelines."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I already filed a workers' comp claim in Encinitas — can I still pursue something else?",
+        "answer": "Possibly. Workers' comp is usually the exclusive remedy against your employer, but if a third party — like another driver on Encinitas Boulevard or a subcontractor on site — contributed to your injury, a separate claim may be available. An attorney can review the facts and let you know."
+      },
+      {
+        "question": "What if my injury happened while driving for work near I-5 or Leucadia Boulevard?",
+        "answer": "Work-related driving injuries can sometimes involve both a workers' comp claim and a third-party claim, especially if another driver was at fault. Given that Friday afternoons see more reported collisions in the area, this scenario isn't uncommon for Encinitas workers who drive for their job."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim?",
+        "answer": "You generally need to notify your employer within 30 days of a workplace injury. If a third-party claim applies, California law typically allows two years from the date of injury to file. An attorney can clarify which deadlines apply to your specific case."
+      }
+    ]
+  }
+}

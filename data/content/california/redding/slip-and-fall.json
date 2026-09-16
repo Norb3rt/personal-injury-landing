@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "redding slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Redding Slip & Fall Attorney Match | LawProactive",
+    "metaDescription": "Hurt in a fall at a Redding store, apartment or parking lot? LawProactive connects you, free, with an independent premises liability attorney."
+  },
+  "hero": {
+    "subtitle": "If a hazard someone else should have handled put you on the ground in Redding, we can connect you at no cost with an independent premises liability attorney who serves Shasta County."
+  },
+  "about": {
+    "title": "Redding Slip & Fall and Premises Liability Claims",
+    "longDescription": "Falls rarely make the news in Redding, but they send people to the emergency room all the same. A wet entryway on Hilltop Drive after a winter storm, a broken stair at an apartment complex off Churn Creek Road, a poorly lit parking lot along Route 273 — these are the everyday settings where premises liability claims begin. You generally have to show the owner knew about the hazard, or reasonably should have known, and did not fix it or warn you. Photographs of the spot, the names of anyone who saw it, and a written request that the business keep its surveillance footage can make or break a case. You also face a two-year filing deadline, and it is shorter if the property belongs to a public entity such as the City of Redding or Shasta County. LawProactive is a free service, not a law firm. We connect you with an independent attorney who works on contingency — no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Often See After Falls in Redding",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm and elbow breaks from catching a fall",
+      "Concussions and other head injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Herniated discs and lower back strain",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "What a Premises Case in Redding Actually Requires",
+    "items": [
+      {
+        "title": "Proving the owner had notice",
+        "desc": "California does not hold a property owner liable simply because you were hurt on their land. An attorney's job is to show the owner knew or should have known about the hazard and failed to fix it or warn you."
+      },
+      {
+        "title": "Getting the video before it disappears",
+        "desc": "Most Redding retailers and apartment managers keep surveillance footage for only a short window. A prompt preservation letter from an attorney can keep the recording from being overwritten."
+      },
+      {
+        "title": "Deadlines and shared fault, handled early",
+        "desc": "You normally have two years to file, but a claim against a public entity must be started much sooner. Even if you were partly at fault, California's pure comparative fault rule means you can still recover a reduced amount."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell at a store on Hilltop Drive and the manager said it was my fault. Does that end my claim?",
+        "answer": "No. California uses pure comparative fault, which means your recovery is reduced by your share of responsibility rather than eliminated. A manager's opinion at the scene is not a legal finding. An attorney can look at the footage, the floor condition and the store's inspection records to sort out what really happened."
+      },
+      {
+        "question": "What should I do in the first few days after a fall in Redding?",
+        "answer": "Get medical care first, even if the pain seems minor. Then photograph the exact spot, note the lighting and weather, and write down the names of any witnesses or employees who responded. Ask the property in writing to preserve its surveillance video, because many systems record over old footage within days."
+      },
+      {
+        "question": "Does it matter if I fell on city or county property instead of private property?",
+        "answer": "Yes, quite a bit. Claims against a public entity such as the City of Redding or Shasta County follow a separate process with a much shorter deadline than the two years that applies to private owners. Missing that early step can end the case, so it helps to talk to an attorney quickly."
+      }
+    ]
+  }
+}

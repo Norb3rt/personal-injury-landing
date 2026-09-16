@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "wasco product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Wasco Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Wasco, CA? LawProactive connects you free with an independent attorney who handles strict liability claims."
+  },
+  "hero": {
+    "subtitle": "If a defective product injured you or someone you love in Wasco, LawProactive can connect you at no cost with an independent attorney who understands Kern County product cases."
+  },
+  "about": {
+    "title": "Wasco Product Liability Claims",
+    "longDescription": "Wasco residents rely on all sorts of consumer, agricultural, and industrial products every day, from equipment used along Rt 46 and Rt 43 corridors to household goods purchased right in town. When a product fails because of a design flaw, a manufacturing error, or a missing warning, the resulting injury can upend a family's routine fast. California law generally allows injured people to pursue a strict liability claim without having to prove the manufacturer was careless — the defect and the harm it caused are typically what matter most. LawProactive doesn't practice law or handle claims directly; we simply listen to what happened and connect you with an independent attorney in our network who takes product liability cases on contingency, meaning there's no fee unless they recover something for you. If a defective product hurt you in Wasco, it costs nothing to have a conversation about your options.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or equipment",
+      "Crush or amputation injuries from faulty machinery",
+      "Traumatic brain injuries from failed safety devices",
+      "Chemical exposure or poisoning from mislabeled products",
+      "Lacerations from defective tools or household items",
+      "Fractures caused by collapsing furniture or structures"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Wasco Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Focus",
+        "desc": "California generally lets injured people pursue a claim by showing a product was defective and caused harm, without proving the maker was negligent. An attorney can help identify whether that path applies to your situation."
+      },
+      {
+        "title": "Multiple Parties May Be Responsible",
+        "desc": "Manufacturers, distributors, and retailers can all potentially share liability for a defective product. Your attorney can help sort out who was involved in getting that product into your hands."
+      },
+      {
+        "title": "Guidance on Preserving Evidence",
+        "desc": "Keeping the product itself, along with packaging and receipts, can matter for a strict liability claim. An attorney can advise you early on how to protect that evidence."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the manufacturer was careless?",
+        "answer": "Not necessarily. California's strict liability approach generally focuses on whether the product itself was defective and whether that defect caused your injury, rather than requiring proof of carelessness. An independent attorney can review your situation and explain how this might apply to your claim."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Try to keep the product exactly as it was after the incident, along with any packaging, manuals, or receipts. This evidence can be important for a claim, and an attorney can advise you on safe storage and next steps."
+      },
+      {
+        "question": "Is this only for accidents on busy roads like Rt 46 or Rt 43?",
+        "answer": "No, product liability claims can arise anywhere in Wasco, whether the injury happened at home, at work, or out and about. It doesn't matter if the incident occurred near a high-traffic corridor or somewhere quiet in the community."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, our service is completely free to use. Attorneys in our network generally work on contingency, meaning they only get paid if they recover compensation for you."
+      }
+    ]
+  }
+}

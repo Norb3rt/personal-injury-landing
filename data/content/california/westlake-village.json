@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "westlake-village city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Westlake Village, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in a Westlake Village crash? Free connection to an independent LA County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you injured in Westlake Village, we can connect you with an independent attorney at no cost. Serving families throughout Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Westlake Village, California",
+    "longDescription": "Westlake Village is a small, close-knit community, but its roads still carry plenty of daily traffic, and collisions happen here like anywhere else. Public records show 27 injury collisions in the most recent final crash year, with 39 people hurt and, thankfully, no traffic deaths reported. Corridors such as Lindero Canyon Road, Agoura Road, Thousand Oaks Boulevard, and Triunfo Canyon Road see the highest volume of reported crashes, and Friday afternoons between 3 and 5 p.m. tend to show the most activity. If you were hurt in one of these incidents, sorting out medical bills, insurance calls, and missed work can feel overwhelming on top of physical recovery. LawProactive is a free service — not a law firm — that connects injured people in Westlake Village with an independent personal injury attorney who can review what happened and explain your options. There's no cost to get connected, and attorneys in this network only get paid if you recover compensation. You don't have to figure this out alone or guess at next steps while trying to heal.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Getting Connected Matters",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government entity can require notice in as little as six months. Talking to an attorney sooner helps make sure you don't lose that window."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "California doesn't limit non-economic damages, like pain and suffering, in typical injury cases. That matters when the impact of an injury goes beyond medical bills."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in this network work on contingency, meaning they only get paid if you recover money. That lets you focus on healing instead of worrying about legal fees."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you waited too long to take action",
+      "Wondering if being partly at fault means you lose everything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "In most cases, you have two years from the date of the injury to file a claim. If your claim involves a government agency, such as a city vehicle or public property, the notice deadline can be as short as six months, so it's important not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some responsibility. Your total recovery is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Westlake Village?",
+        "answer": "Public collision records show higher counts along corridors like Lindero Canyon Road, Agoura Road, Thousand Oaks Boulevard, and Triunfo Canyon Road, with reported crashes tending to peak on Fridays between 3 and 5 p.m. These are neutral public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "No, California does not cap non-economic damages, such as pain and suffering, in standard personal injury cases. This is different from some medical malpractice claims, which have separate rules."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney, and we are not a law firm ourselves. Attorneys in the network work on contingency, so they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "indio workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Help in Indio, CA | LawProactive",
+    "metaDescription": "Injured on the job in Indio? LawProactive is a free service that connects you with an independent attorney for workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Hurt while working in Indio, whether on a job site near Monroe Street or behind the wheel on Indio Boulevard? LawProactive connects you, at no cost, with an independent attorney who can sort out what workers' comp covers and whether someone else owes you more."
+  },
+  "about": {
+    "title": "Indio Workplace Injury Claims",
+    "longDescription": "Getting hurt at work in Indio rarely happens in a vacuum. Maybe a scaffold plank gave way at a build site off Monroe Street, or a delivery route down Indio Boulevard ended with another driver running a light. Public records show 201 injury collisions in Indio during 2025, with 266 people hurt, and anyone who was on the clock at the time may have a work-related case as well. California handles the aftermath in two lanes. Workers' compensation covers medical care and partial wage replacement through your employer no matter who was careless, and it is normally the only claim you can bring against the company itself. The second lane opens when someone outside your employer contributed: a subcontractor, the property owner, the manufacturer of a defective tool, or a motorist on Jackson Street or Route 111. That third-party claim can recover damages workers' comp leaves out. LawProactive is a free service, not a law firm. We connect Indio workers with an independent attorney who can look at both lanes and explain which apply to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Indio",
+    "commonInjuries": [
+      "Falls from ladders, roofs and scaffolding",
+      "Back and spinal injuries from lifting or repetitive motion",
+      "Crush injuries from machinery or equipment",
+      "Heat illness and dehydration during outdoor shifts",
+      "Burns and chemical exposure",
+      "Vehicle crashes while driving for work"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Indio Workers Use LawProactive",
+    "items": [
+      {
+        "title": "Both Paths Get Reviewed",
+        "desc": "Workers' comp is usually your only claim against the employer, but a negligent third party such as a subcontractor, equipment maker or another driver can support a separate injury lawsuit. The attorney we connect you with looks at whether that second path exists in your case."
+      },
+      {
+        "title": "Deadlines Stay on the Radar",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and third-party claims carry a two-year filing window. Reaching out early gives an attorney room to protect both."
+      },
+      {
+        "title": "No Cost to Connect, No Fee Without Recovery",
+        "desc": "LawProactive charges nothing, and network attorneys work on contingency. Retaliation for reporting an injury is illegal in California, so you can ask questions without fearing your paycheck."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on Indio Boulevard while making deliveries for my employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical treatment and part of your lost wages regardless of who caused the crash. Separately, the other driver is a third party, so you may also have an injury claim against them that reaches losses workers' comp does not pay, such as pain and suffering. An attorney can help coordinate the two so one does not undercut the other."
+      },
+      {
+        "question": "I did not tell my supervisor about the injury right away. Is it too late?",
+        "answer": "California asks you to report a work injury to your employer within 30 days, so if you are still inside that window, tell them in writing now. If more time has passed, do not assume you are out of options; reporting late can complicate things but does not always end a claim. Any third-party claim runs on its own two-year clock, which is a separate question worth asking an attorney about."
+      },
+      {
+        "question": "What if my boss says I will lose shifts or get let go for filing a claim?",
+        "answer": "Punishing a worker for reporting an injury or filing for workers' compensation is against California law. That protection applies whether you work at a job site off Jackson Street or drive a route along Route 111. If you are getting that kind of pressure, write down what was said and when, and mention it to the attorney LawProactive connects you with."
+      }
+    ]
+  }
+}

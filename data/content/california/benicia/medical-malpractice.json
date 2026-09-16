@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "benicia medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Benicia Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Benicia, CA? LawProactive connects you free with an independent attorney familiar with MICRA rules and deadlines."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in Benicia goes wrong, sorting out what happened can feel overwhelming on top of recovery. LawProactive can connect you with an independent attorney who reviews medical malpractice claims under California's specific rules at no cost to you."
+  },
+  "about": {
+    "title": "Benicia Medical Malpractice Claims",
+    "longDescription": "Solano County residents rely on a mix of local clinics and regional hospitals, and most visits end without incident. But when a delayed diagnosis, medication mix-up, or surgical error causes real harm, families in Benicia are often left with more questions than answers. California law treats these cases differently than a typical injury claim — there's a shorter window to act, a required pre-suit notice, and rules around expert review that don't apply elsewhere. LawProactive doesn't practice law or evaluate your medical records ourselves; instead, we connect you with an independent attorney in our network who can look at what happened, explain whether the facts fit California's malpractice standards, and walk you through next steps. There's no charge to get connected, and attorneys in the network work on contingency, meaning they're only paid if your case results in a recovery. A bad outcome by itself isn't proof of malpractice — an experienced eye is what helps tell the difference.",
+    "commonInjuriesTitle": "Types of Harm We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Hospital-acquired infections from negligence"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your situation."
+  },
+  "whyChoose": {
+    "title": "What Makes Medical Malpractice Claims Different",
+    "items": [
+      {
+        "title": "Strict, Shorter Deadlines",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to bring a claim. Missing this window can end a case before it starts, so acting early matters."
+      },
+      {
+        "title": "A Required Pre-Suit Notice",
+        "desc": "Before a lawsuit can be filed, California law requires a 90-day notice to the healthcare provider. An attorney familiar with this process can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "Because a poor outcome alone isn't legally malpractice, California generally requires a qualified medical expert to establish that the care fell below an accepted standard. This is a key reason an independent attorney's evaluation matters early on."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery in Benicia — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law recognizes that medicine carries inherent risk, so a poor result by itself doesn't establish negligence. What typically matters is whether the care provided fell below an accepted medical standard, which is usually assessed by a qualified expert."
+      },
+      {
+        "question": "How long do I have to bring a claim if I live in Benicia or elsewhere in Solano County?",
+        "answer": "Generally, California gives you one year from when you discover the injury, but never more than three years from when it occurred. There are limited exceptions, so it's worth getting a timely review rather than assuming you have more time."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California medical malpractice case?",
+        "answer": "California law caps non-economic damages (like pain and suffering) in these cases, though the cap rises each year under current law. Economic damages, such as documented medical costs, are generally handled separately. An independent attorney can explain how this applies to your specific situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "atherton workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Atherton Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Atherton, CA? Get connected free with an independent attorney who handles workers' comp and third-party workplace claims."
+  },
+  "hero": {
+    "subtitle": "If a work injury has sidelined you in Atherton, LawProactive can connect you at no cost with an independent attorney who understands San Mateo County workplace claims and how they intersect with third-party liability."
+  },
+  "about": {
+    "title": "Atherton Workplace Injury Claims",
+    "longDescription": "Atherton's mix of estate properties, landscaping crews, home renovation projects, and small commercial sites along corridors like El Camino Real and Alameda De Las Pulgas means workplace injuries here often involve more than one responsible party. California generally requires injured workers to go through workers' compensation for employer-related claims, but when a subcontractor, property owner, equipment manufacturer, or another driver contributed to the injury, a separate third-party claim may be possible. That distinction matters, especially in a town where many job sites involve multiple contractors working side by side. LawProactive doesn't practice law or handle claims directly — we simply connect injured workers in Atherton with an independent attorney from our network who can review the details, explain reporting deadlines, and help sort out which type of claim applies to your situation. There's no cost to get that conversation started.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or roofs",
+      "Injuries from landscaping or power equipment",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Injuries from defective tools or machinery",
+      "Electrical or construction site accidents"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Atherton Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Clarity on Exclusive Remedy Rules",
+        "desc": "California law generally makes workers' compensation the exclusive remedy against your employer, but that doesn't close every door. An attorney can help identify whether a negligent third party — like a subcontractor or equipment maker — opened up a separate injury claim."
+      },
+      {
+        "title": "Guidance on Reporting Deadlines",
+        "desc": "Work injuries in California generally need to be reported to the employer within 30 days, and missing that window can complicate a claim. We connect you with someone who can walk through what's already been done and what still needs attention."
+      },
+      {
+        "title": "Protection Against Retaliation Concerns",
+        "desc": "Retaliation for reporting a workplace injury is illegal in California, and workers shouldn't have to navigate that fear alone. An independent attorney can explain your rights and how third-party claims carry a separate 2-year deadline worth tracking."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site in Atherton where multiple contractors were working. Can I file more than one type of claim?",
+        "answer": "It's possible. Workers' compensation is usually the exclusive remedy against your direct employer, but if another contractor, property owner, or equipment supplier contributed to the accident, a separate third-party injury claim may apply. An independent attorney can look at the job site details and sort out which claims fit your situation."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we don't charge injured workers for the connection. Attorneys in our network typically work on contingency, meaning there's no fee unless your case results in a recovery."
+      },
+      {
+        "question": "How long do I have to report a workplace injury or file a third-party claim in California?",
+        "answer": "Workplace injuries generally need to be reported to your employer within 30 days. If a third party outside your employer was responsible, that separate claim generally carries a 2-year deadline. An attorney can confirm exact timing based on your specific circumstances."
+      }
+    ]
+  }
+}

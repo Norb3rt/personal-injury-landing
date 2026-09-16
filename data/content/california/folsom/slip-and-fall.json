@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "folsom slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Folsom Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Folsom? LawProactive connects you, free, with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A wet floor, a broken step, a dark parking lot off Iron Point Road—when a Folsom property owner's neglect leaves you hurt, we'll connect you with an independent attorney who handles premises liability claims. The service is free, and there's no fee unless you recover."
+  },
+  "about": {
+    "title": "Folsom Slip & Fall and Premises Liability Claims",
+    "longDescription": "Folsom is home to roughly 76,000 people, and on any given day many of them are moving through storefronts, offices, apartment complexes and parking areas along E Bidwell Street, Iron Point Road, Blue Ravine Road and Riley Street. Most of those properties are kept up. Some are not, and a spilled drink nobody mopped, a curb with no paint, or a stairwell with a burned-out bulb can change a routine errand into months of recovery. California law puts a specific question at the center of these cases: did the owner know about the hazard, or should they have known, and did they fail to fix it or warn you? Answering that takes evidence—photos of the condition, names of witnesses, incident reports, and especially surveillance footage, which many Sacramento County businesses overwrite within days. LawProactive is not a law firm. We simply connect Folsom residents with an independent attorney who can request that video before it disappears and evaluate the notice question honestly. Reach out, tell us what happened, and let someone who does this work take a look.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Folsom",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow and shoulder injuries from bracing a fall",
+      "Concussions and other head trauma",
+      "Tailbone and lower-back injuries",
+      "Knee ligament tears and kneecap fractures",
+      "Ankle sprains and fractures"
+    ],
+    "ctaText": "Tell us about your fall—we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Folsom Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole case—and it's provable",
+        "desc": "California requires showing the owner knew or should have known about the hazard. An attorney can pull inspection logs, prior complaints and cleaning schedules that establish how long the danger sat there."
+      },
+      {
+        "title": "Video goes away fast",
+        "desc": "Surveillance systems at Folsom stores and complexes often loop over footage in a week or two. A preservation letter sent early can lock down the recording that shows exactly what you stepped on."
+      },
+      {
+        "title": "Partial blame doesn't end your claim",
+        "desc": "Under pure comparative fault, being told you \"should have watched your step\" only reduces a recovery by your share—it does not erase it. You also generally have two years to file, and far less if a public entity owns the property."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped on a City of Folsom sidewalk or trail. Is the deadline different?",
+        "answer": "Yes, and it matters a great deal. Claims against a public entity such as the City of Folsom or Sacramento County must usually start with a government claim filed within six months of the injury, not the two-year window that applies to private owners. Missing that shorter step can end the case before it begins, so it's worth speaking to an attorney quickly."
+      },
+      {
+        "question": "The store manager said they had no idea the floor was wet. Does that mean I have no claim?",
+        "answer": "Not necessarily. The law asks whether the owner knew or reasonably should have known about the hazard, and a spill that sat uncleaned for an hour during a busy afternoon may meet that standard even if no employee admits seeing it. Evidence like footage, sweep logs and witness accounts is what settles the question, which is why an attorney will want it preserved right away."
+      },
+      {
+        "question": "What should I do in the first few days after a fall in Folsom?",
+        "answer": "Get medical care first, even if the pain seems manageable—some fractures and head injuries show up later. Then photograph the exact spot and the condition that caused the fall, ask for a written incident report, and jot down names of anyone who saw it happen. Finally, request in writing that the property keep any surveillance video; LawProactive can connect you with an attorney who handles that step for you."
+      }
+    ]
+  }
+}

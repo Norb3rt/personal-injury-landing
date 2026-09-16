@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "dinuba medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dinuba Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Dinuba? Get connected free with an independent malpractice attorney who works on contingency. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Tulare County hospital or clinic visit in Dinuba leaves you worse off than before, it's fair to ask hard questions. LawProactive can connect you, at no cost, with an independent attorney who evaluates medical malpractice cases across the region."
+  },
+  "about": {
+    "title": "Dinuba Medical Malpractice Claims",
+    "longDescription": "Dinuba residents rely on a small number of local clinics and often travel toward Visalia or Fresno for hospital-level care, which means medical errors here can touch primary care, urgent care, obstetrics, or specialist referrals. Not every disappointing outcome is malpractice — California law requires proof that a provider deviated from the accepted standard of care and that this deviation caused real harm. Because MICRA imposes strict timing rules, including a 90-day pre-suit notice requirement and a discovery-based deadline, waiting to explore your options can quietly cost you your claim. An independent attorney can review medical records, consult a qualified expert, and explain whether your situation fits the legal definition of malpractice. LawProactive doesn't practice law or take a cut of any recovery; we simply connect you with someone in Dinuba or nearby who handles these cases on contingency, meaning there's no fee unless you recover.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries or obstetric complications",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Timing and Facts Matter in a Malpractice Claim",
+    "items": [
+      {
+        "title": "Strict MICRA Deadlines Apply",
+        "desc": "California generally requires a malpractice claim within one year of discovering the harm, and never more than three years from the injury itself, plus a 90-day pre-suit notice to the provider. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A qualified medical expert typically has to confirm that a provider's care fell below the accepted standard and that this caused your harm. An independent attorney can help arrange that review before deciding whether to move forward."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "California law places a statutory limit on non-economic damages in these cases, and that cap increases annually. Understanding how the current cap applies to your circumstances is something an experienced attorney can walk you through."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome at a Dinuba clinic — does that automatically mean malpractice?",
+        "answer": "Not necessarily. California law requires showing that a provider's care fell below the accepted medical standard and that this specifically caused your injury. A bad or unexpected result alone isn't enough; an attorney would need to review your records and likely consult a medical expert first."
+      },
+      {
+        "question": "How long do I have to bring a claim after a medical error in Tulare County?",
+        "answer": "Generally, California gives you one year from when you discovered (or reasonably should have discovered) the harm, but never more than three years from the date of the injury. There's also a required 90-day notice to the provider before filing suit. These deadlines are strict, so earlier review is better."
+      },
+      {
+        "question": "Will I owe anything upfront to talk to an attorney through LawProactive?",
+        "answer": "No — LawProactive's connection service is free, and attorneys in the network typically work on contingency, meaning they only get paid if you recover compensation. There's no obligation to move forward after speaking with someone."
+      }
+    ]
+  }
+}

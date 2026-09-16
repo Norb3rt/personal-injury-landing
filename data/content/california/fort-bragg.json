@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "fort-bragg city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fort Bragg, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Fort Bragg? Free connection to an independent Mendocino County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Fort Bragg, we can connect you with an independent attorney at no cost. We serve people throughout Mendocino County, free of charge."
+  },
+  "about": {
+    "title": "Personal Injury Help in Fort Bragg, California",
+    "longDescription": "Fort Bragg is a small coastal town, but its streets still see their share of collisions. Public records show 5 injury collisions in the most recent final crash year, leaving 9 people hurt, with no traffic deaths reported. Corridors like Rt 1, Oak Street, Main Street, and Franklin Street account for a notable share of reported crashes, and activity tends to cluster on Fridays between 3 and 5 p.m., when commuters and weekend traffic overlap. If you were hurt in one of these collisions, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service that connects injured people in Fort Bragg with an independent personal injury attorney — we are not a law firm, and we don't handle your case ourselves. Instead, we help you get in touch with someone who can review what happened and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and starts a conversation about what comes next.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and road rash",
+      "Soft tissue damage"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why People in Fort Bragg Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require notice in as little as six months. Acting sooner helps preserve evidence while it's still fresh."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut the Door",
+        "desc": "California follows a pure comparative fault rule, so even if you were partly responsible for what happened, you may still recover a share of compensation. An attorney can help sort out how fault might be divided."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Ordinary injury cases in California don't cap non-economic damages like pain and suffering. That means your claim isn't artificially limited by a statutory maximum."
+      },
+      {
+        "title": "No Upfront Cost to Get Legal Help",
+        "desc": "Attorneys who take injury cases typically work on contingency, so there's no fee unless there's a recovery. That structure lets injured people get advice without worrying about hourly bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Wondering how medical bills will get paid while you're out of work",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you waited too long to take action",
+      "Worrying that being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to pay anything to talk to LawProactive?",
+        "answer": "No. LawProactive is a free service, and connecting with an attorney through us costs nothing. We're not a law firm, so we don't charge fees ourselves."
+      },
+      {
+        "question": "How long do I have to file a claim after a Fort Bragg accident?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file. If your claim involves a government entity, the window can be much shorter, sometimes just six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California's pure comparative fault rule means you can still recover compensation even if you share some blame, though your share of fault may reduce the total amount. An attorney can help evaluate how that might apply to your situation."
+      },
+      {
+        "question": "Where do crashes tend to happen in Fort Bragg?",
+        "answer": "Public crash records show that reported collisions have clustered along corridors like Rt 1, Oak Street, Main Street, and Franklin Street, with activity peaking on Fridays between 3 and 5 p.m. These are neutral collision counts from public records, not a ranking of any road's danger."
+      },
+      {
+        "question": "Will I owe money if my case doesn't result in a payout?",
+        "answer": "Attorneys in our network typically work on contingency, meaning they only get paid if you recover compensation. There's generally no upfront cost to have your case reviewed."
+      }
+    ]
+  }
+}

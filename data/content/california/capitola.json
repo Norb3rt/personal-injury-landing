@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "capitola city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Capitola, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Capitola, Santa Cruz County? Free attorney connection, no fee unless you win. 2 years to file — get help now."
+  },
+  "hero": {
+    "subtitle": "Whether it's whiplash from a rear-end crash on 41st Avenue or a broken bone from a fall, we connect you with an independent attorney serving Santa Cruz County — free, with no obligation."
+  },
+  "about": {
+    "title": "Personal Injury Help in Capitola, California",
+    "longDescription": "Capitola is a small coastal city, but its streets still see their share of collisions. In the most recent full year on record, Santa Cruz County reported 33 injury collisions in and around Capitola, leaving 38 people hurt — thankfully with zero traffic deaths that year. Public crash records point to 41st Avenue, Capitola Road, Bay Avenue, and Clares Street as the corridors with the most reported incidents, and Friday afternoons between 3 and 5 p.m. tend to see more crashes than other times. If you were hurt in one of these collisions, or in any other kind of accident around Capitola, you likely have questions about what comes next — medical bills, missed work, and dealing with insurance adjusters. LawProactive is a free service that helps people in this situation get connected with an independent personal injury attorney who can review what happened. We are not a law firm, and we don't decide your case or promise any result. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs you nothing and can help you understand your options.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and road rash",
+      "Torn ligaments and soft tissue damage"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and only takes a minute."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most personal injury claims in California must be filed within two years of the incident. If a government entity is involved, that window can shrink to as little as six months, so it helps to know where you stand early."
+      },
+      {
+        "title": "Fault Doesn't Automatically Bar You",
+        "desc": "California follows pure comparative fault, meaning you can still recover compensation even if you were partly responsible for the accident. Your share of fault simply reduces your recovery rather than eliminating it."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means the full extent of how an injury has affected your life can be considered."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. This lets you get legal help without worrying about hourly bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while missing work",
+      "Feeling pressured by an insurance adjuster's quick settlement offer",
+      "Not knowing if the deadline to file has already started ticking",
+      "Wondering if being partly at fault means you have no case at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "In most cases, you have two years from the date of the injury to file a lawsuit. If your injury involves a government entity or vehicle, that deadline can be much shorter — sometimes just six months — so it's wise not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some blame. Your fault percentage would reduce your recovery, but it wouldn't prevent you from pursuing a claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Capitola?",
+        "answer": "Public crash records show that 41st Avenue, Capitola Road, Bay Avenue, and Clares Street have the highest reported collision counts in the city, with Friday afternoons between 3 and 5 p.m. showing more reports than other times. These are neutral counts from public records, not a judgment about any road."
+      },
+      {
+        "question": "Will I owe anything if I talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no upfront cost to see what your options are."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In typical personal injury cases in California, there is no cap on non-economic damages such as pain and suffering. This means compensation can reflect the real impact an injury has had on your daily life, not just medical bills."
+      }
+    ]
+  }
+}

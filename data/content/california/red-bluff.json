@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "red-bluff city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Red Bluff, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Tehama County? Connect free with an independent Red Bluff attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Red Bluff, we can connect you free of charge with an independent attorney serving Tehama County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Red Bluff, California",
+    "longDescription": "Red Bluff residents travel Rt 36, Main Street, Walnut Street, and Antelope Boulevard every day, and public records show those corridors see a steady share of local collisions. In the most recent full year on record, Red Bluff logged 44 injury collisions, 58 people injured, and 1 traffic death — numbers that remind us how quickly an ordinary trip through town can turn into a life-altering event. Reports also show crashes tend to cluster on Fridays between 3 and 5 p.m., often as commuters and shoppers converge downtown. If you or someone you love was hurt in one of these incidents, sorting out medical care, insurance calls, and paperwork can feel overwhelming on top of physical recovery. LawProactive is a free service — not a law firm — that connects injured people in Red Bluff with an independent personal injury attorney who can review what happened and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and starts with a simple conversation about your situation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries requiring physical therapy or surgery"
+    ],
+    "ctaText": "Find out where you stand — connect with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "A Filing Clock That Doesn't Wait",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government agency can require notice in as little as six months. Waiting to talk to someone can quietly cost you options."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means the value of your claim isn't artificially limited by a state-imposed maximum."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys connected through LawProactive typically work on contingency, so there's no upfront legal fee. Payment comes only from a settlement or award, aligning their effort with your outcome."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Feeling pressured by insurance adjusters calling right after the crash",
+      "Not knowing if you waited too long or missed a deadline",
+      "Wondering if being partly at fault means you have no case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Red Bluff?",
+        "answer": "California generally allows two years from the date of the injury to file most personal injury lawsuits. If a government entity, like a city or county vehicle, was involved, that window can shrink to as little as six months for a required claim notice. Talking to an attorney early helps make sure a deadline doesn't pass you by."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, so being partially at fault doesn't stop you from recovering compensation. Your total recovery is simply reduced by the percentage of fault attributed to you. An independent attorney can help assess how fault might be divided in your situation."
+      },
+      {
+        "question": "Where do crashes tend to happen in Red Bluff?",
+        "answer": "Public collision records show Rt 36, Main Street, Walnut Street, and Antelope Boulevard as some of Red Bluff's higher-volume corridors for reported crashes, with activity often clustering on Fridays between 3 and 5 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — in typical California personal injury cases, there's no statutory cap on non-economic damages such as pain and suffering. The specific value of any claim still depends on the facts, injuries, and evidence involved."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we are not a law firm and don't charge any fees ourselves. Attorneys in the network generally work on contingency, meaning they only get paid if you receive a settlement or award."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "irwindale city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Irwindale, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Irwindale? Free service connects you with an LA County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on I-605 or a fall on someone else's property, we'll connect you at no cost with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Irwindale, California",
+    "longDescription": "Irwindale is a small city, but its roads carry heavy regional traffic — I-605 (San Gabriel River Freeway) and I-210 (Foothill Freeway) cut right through town, and Arrow Highway sees steady local movement too. In the most recent year on record, Irwindale logged 162 injury collisions, with 229 people hurt and 2 lives lost. Those aren't just numbers; they represent neighbors, commuters, and truck drivers whose routines were interrupted in an instant. If you or someone you love was hurt in a crash — or in a fall, workplace accident, or other injury incident — around Irwindale, you don't have to sort out next steps alone. LawProactive is a free service, not a law firm, that connects injured people with independent personal injury attorneys who work on contingency, meaning there's no fee unless they recover money for you. We help you find someone who can evaluate your situation, explain your options under California law, and move quickly, since deadlines to file a claim can be shorter than most people expect.",
+    "commonInjuriesTitle": "Common Injuries We See Referrals For",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Herniated discs and back injuries",
+      "Cuts, bruises, and soft tissue trauma"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury lawsuit. If a government entity — like a city or county — was involved, that window can shrink to as little as six months, so early action matters."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for the incident, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages, such as pain and suffering, in standard injury cases."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they secure a recovery on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Fear that missing a deadline could cost them their case",
+      "Feeling overwhelmed about where to even start"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after an injury in Irwindale?",
+        "answer": "In most cases, California law gives you two years from the date of the incident to file a personal injury lawsuit. If your injury involved a government entity, such as a city road crew, that deadline can be as short as six months. It's best to talk to an attorney early so you don't lose your right to recover."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, so being partly at fault doesn't prevent you from recovering compensation. Your total recovery would simply be reduced by your percentage of responsibility. An attorney can help assess how fault might be allocated in your case."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Irwindale?",
+        "answer": "Public collision records show that reported crashes in Irwindale tend to cluster along corridors like I-605 (San Gabriel River Freeway), I-210 (Foothill Freeway), and Arrow Highway, with activity often peaking on Fridays between 2 and 4 p.m. These are simply patterns from public data, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent attorneys — we are not a law firm and don't charge for the connection. Attorneys in the network work on contingency, so they only get paid if you receive a recovery."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases in California, there's no cap on non-economic damages like pain and suffering. The specific amount depends on the facts of your case, which an attorney can walk you through in detail."
+      }
+    ]
+  }
+}

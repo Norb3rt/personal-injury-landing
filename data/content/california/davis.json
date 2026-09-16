@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "davis city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Davis, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Davis or Yolo County? Free, no-obligation connection to an attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a fender-bender on Russell Boulevard or a broken bone from a bike collision near campus, we can connect you with an independent attorney at no cost, serving all of Yolo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Davis, California",
+    "longDescription": "Davis is a city built around bicycles, students, and a busy stretch of I-80 that carries commuters through town every day. With corridors like 5th Street, Russell Boulevard, and Mace Boulevard seeing steady traffic, it's no surprise that public records show 200 injury collisions and 295 people hurt in the most recent reporting year, including one traffic death. Many of these happen around Friday evenings, when commuter traffic and weekend plans overlap on the same roads. If you or someone you love was hurt in one of these collisions, you're likely facing medical bills, missed work, and a lot of uncertainty about what happens next. LawProactive is a free service — we are not a law firm. We simply connect injured people in Davis with an independent personal injury attorney who can review the details of what happened and explain your options. There's no cost to reach out, and any attorney we connect you with works on contingency, meaning they only get paid if you recover compensation. You focus on healing; we'll help you find someone who can focus on the rest.",
+    "commonInjuriesTitle": "Common Injuries We See From Davis Crashes",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Bicycle and pedestrian injuries",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "What Davis Residents Should Know About California Law",
+    "items": [
+      {
+        "title": "You Have Two Years — But the Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim. That window can shrink to as little as six months if a government entity, like the City of Davis, was involved."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, meaning even if you're found partially responsible for a crash, you can still recover compensation — it's simply reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering Damages",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and emotional distress, unlike some other states."
+      },
+      {
+        "title": "No Fee Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so you won't pay anything out of pocket, and there's no fee owed unless your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "How am I going to pay these medical bills while I'm out of work?",
+      "Will the insurance company try to blame me for what happened?",
+      "I don't know if I even have a case worth pursuing.",
+      "I'm worried I've waited too long to do anything about this."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much time do I have to file a claim in Davis?",
+        "answer": "California law generally allows two years from the date of the injury to file a personal injury claim. If a government entity, such as the City of Davis or Yolo County, was involved, that deadline can be as short as six months, so it's wise not to wait."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you were partly at fault. Your total recovery would simply be reduced by your percentage of responsibility."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Davis?",
+        "answer": "Public crash records show higher collision counts along corridors like I-80, 5th Street, Russell Boulevard, and Mace Boulevard, with reported crashes tending to peak on Friday evenings between 5 and 7 p.m. These are simply neutral, publicly reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. In typical personal injury cases, California does not cap non-economic damages such as pain and suffering. Compensation depends on the specific facts and impact of your injury."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we are not a law firm ourselves. Attorneys in our network work on contingency, so there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

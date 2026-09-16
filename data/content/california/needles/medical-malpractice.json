@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "needles medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Needles Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Needles, CA? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis is missed or a treatment goes wrong at a Needles-area clinic or hospital, sorting out what happened can feel overwhelming. LawProactive connects you, at no cost, with an independent attorney who handles medical malpractice claims under California law."
+  },
+  "about": {
+    "title": "Needles Medical Malpractice Claims",
+    "longDescription": "Needles sits at the far eastern edge of San Bernardino County, a small desert community where residents often travel some distance for specialized medical care. That distance can raise the stakes when something goes wrong — a delayed transfer, a misread test, or a surgical mistake can have outsized consequences for a patient far from a major hospital. California's MICRA law governs these claims statewide, and it applies the same way whether the care happened in a small rural clinic or a large regional facility. A poor outcome by itself doesn't establish malpractice; the law requires showing that a provider's care fell below the accepted standard and that this departure caused real harm. Because the deadlines and procedural steps in these cases are strict, getting an early read on your situation matters. LawProactive doesn't practice law — we simply connect Needles residents with an independent attorney who can review the medical records and explain, free of charge, what options may exist.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Medication or dosage errors",
+      "Surgical mistakes or wrong-site procedures",
+      "Birth injuries to mother or newborn",
+      "Failure to refer or transfer for specialized care",
+      "Anesthesia complications"
+    ],
+    "ctaText": "Talk with an independent attorney about your care, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Needles Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "Attention to MICRA's Tight Timeline",
+        "desc": "California generally gives patients one year from discovering the harm and no more than three years from the injury itself to act, plus a required 90-day pre-suit notice. Missing these windows can end a claim before it starts, so early review matters."
+      },
+      {
+        "title": "Understanding of the Non-Economic Damages Cap",
+        "desc": "California law caps non-economic damages in malpractice cases, though that cap rises each year under current law. An attorney can walk you through how this cap may affect your specific situation."
+      },
+      {
+        "title": "Access to Required Medical Expert Review",
+        "desc": "Almost every malpractice claim needs a qualified medical expert to establish that care fell below the accepted standard. The attorneys in our network work with these experts as part of evaluating a potential case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from the date it occurred, whichever comes first. There's also a mandatory 90-day notice period before a lawsuit can be filed. Because these rules are strict and fact-specific, it's worth having an attorney check the timeline for your situation."
+      },
+      {
+        "question": "I live in Needles — does distance from a major hospital affect my claim?",
+        "answer": "It can be relevant background, especially if a delay in transfer or referral played a role in what happened, but it doesn't change the core legal standard. An attorney reviewing your records would look at whether the care given, wherever it happened, met the accepted medical standard. LawProactive can connect you with someone who can evaluate that."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. Medicine involves risk, and not every complication or disappointing result means a provider was negligent. Malpractice requires showing the provider's care fell below what a reasonably skilled provider would have done, and that this specifically caused harm. A qualified medical expert typically has to confirm that standard was not met."
+      }
+    ]
+  }
+}

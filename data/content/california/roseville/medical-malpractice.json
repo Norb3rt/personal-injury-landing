@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "roseville medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Roseville Medical Malpractice Attorney | LawProactive",
+    "metaDescription": "Hurt by a medical mistake in Roseville, CA? LawProactive connects you with an independent malpractice attorney for free. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If care you received at a Roseville hospital or clinic left you worse than when you walked in, you deserve a clear answer about what went wrong. We connect Placer County patients with an independent medical malpractice attorney at no cost."
+  },
+  "about": {
+    "title": "Roseville Medical Malpractice Claims",
+    "longDescription": "Roseville, in Placer County, is home to roughly 130,000 people, and its hospitals and neighborhood clinics see a steady flow of patients from across the region. Most visits end the way they should. When one doesn't, the question is not whether you left worse off, but whether a provider fell below the accepted standard of care and that lapse caused harm. California draws that line firmly: a disappointing result, by itself, is not malpractice. Proving the difference almost always takes a qualified medical expert who can review the chart and explain what a careful provider would have done instead. Timing matters too. Under MICRA you generally have one year from the date you discovered the injury, and never more than three years from when it happened, plus a 90-day notice must go to the provider before suit is filed. LawProactive is not a law firm. We are a free service that connects Roseville patients and families with an independent attorney who handles these cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm We Commonly See in Roseville Malpractice Cases",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or respond to worsening symptoms after discharge"
+    ],
+    "ctaText": "Tell us what happened. The connection is free and there is no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Roseville Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "The clock is shorter than most people expect",
+        "desc": "MICRA generally gives you one year from discovering the injury and never more than three years from the event itself. An early conversation helps make sure nothing is lost to a missed deadline."
+      },
+      {
+        "title": "Notice rules and damage caps are handled correctly",
+        "desc": "California requires a 90-day pre-suit notice to the provider, and non-economic damages are subject to a statutory cap that increases each year. The attorneys in our network work with these rules every day."
+      },
+      {
+        "title": "An expert opinion is nearly always required",
+        "desc": "A bad outcome alone does not prove negligence, so a qualified medical expert must usually confirm the standard of care was breached. We connect you with counsel who knows how to get that review started."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Roseville but have since moved out of Placer County. Does that change anything?",
+        "answer": "Usually not in a way that should stop you from asking questions. Medical malpractice cases are generally tied to where the care was delivered, so treatment in Roseville typically keeps the matter in Placer County. An attorney can handle the local filing and communication while you stay wherever you live now."
+      },
+      {
+        "question": "My surgery didn't go well. Is that automatically malpractice?",
+        "answer": "No. California law treats a poor result as different from negligent care, and many complications happen even when everything is done correctly. What matters is whether the provider departed from what a reasonably careful professional would have done and whether that departure caused your injury. A medical expert's review is how that question gets answered."
+      },
+      {
+        "question": "How long do I have to act, and what does the 90-day notice mean?",
+        "answer": "Under MICRA you generally have one year from the date you discovered, or reasonably should have discovered, the injury, and no more than three years from the date it occurred. Before a lawsuit is filed, the provider must receive written notice at least 90 days in advance. Because these windows can overlap in confusing ways, it helps to speak with an attorney sooner rather than later."
+      }
+    ]
+  }
+}

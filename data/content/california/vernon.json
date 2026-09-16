@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "vernon city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Vernon, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Vernon, LA County? Free service connects you to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a rear-end collision on Santa Fe Avenue or a workplace-adjacent traffic crash near District Boulevard, we'll connect you with an independent attorney at no cost, serving all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Vernon, California",
+    "longDescription": "Vernon is a small city, but its industrial corridors carry heavy truck and vehicle traffic all day long. Public records show 223 injury collisions in the most recent final reporting year, with 329 people hurt and 2 lives lost. Streets like S Santa Fe Avenue, Santa Fe Avenue, District Boulevard, and S Soto Street show up often in these counts, and reported crashes tend to cluster on Friday afternoons between 5 and 7 p.m., when shift changes and commuter traffic overlap. If you were hurt in one of these collisions, sorting out next steps while dealing with pain, missed work, and mounting bills is a lot to carry alone. LawProactive is a free service — we are not a law firm — that connects injured people in Vernon with an independent personal injury attorney who can look at what happened and explain your options. There's no cost to talk, and the attorneys in our network work on contingency, meaning no fee unless there's a recovery. You don't have to figure this out by yourself, and reaching out costs you nothing.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Deep cuts and lacerations",
+      "Soft tissue and joint damage"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you 2 years from the date of injury to file a claim, but that window shrinks to as little as 6 months if a government entity is involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, even if you were partly responsible for what happened, you can still recover damages — your share of fault just reduces the amount, it doesn't eliminate your claim."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in ordinary personal injury cases, so what you're owed isn't artificially limited by a statute."
+      },
+      {
+        "title": "You Don't Pay Unless They Win",
+        "desc": "Attorneys connected through LawProactive work on contingency, meaning there's no upfront fee — they only get paid if you receive a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying medical bills will pile up faster than I can pay them",
+      "Not knowing if I waited too long to do anything about the crash",
+      "Fear that being partly at fault means I get nothing",
+      "Feeling overwhelmed about where to even start"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a crash in Vernon?",
+        "answer": "In most California personal injury cases, you have 2 years from the date of the incident to file a claim. If a government vehicle or entity was involved, that deadline can drop to as little as 6 months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some responsibility. Your fault percentage would reduce the amount you receive, but it doesn't automatically bar you from recovering anything."
+      },
+      {
+        "question": "Where do collisions tend to cluster in Vernon?",
+        "answer": "Public collision records show higher counts along S Santa Fe Avenue, Santa Fe Avenue, District Boulevard, and S Soto Street, with reported crashes tending to peak on Fridays between 5 and 7 p.m. These are neutral crash-count patterns from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — California does not cap non-economic damages, like pain and suffering, in standard personal injury cases. This differs from some other types of claims that do have statutory limits."
+      },
+      {
+        "question": "Does it cost anything to talk to LawProactive?",
+        "answer": "No, connecting with LawProactive is completely free, and we are not a law firm — we simply connect you with an independent attorney. Attorneys in our network work on contingency, so there's no fee unless you receive a settlement or award."
+      }
+    ]
+  }
+}

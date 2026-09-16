@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "orange workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Help in Orange, CA | LawProactive",
+    "metaDescription": "Hurt on the job in Orange, CA? Learn how workers' comp and third-party claims differ, then get connected free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Orange? We connect you, at no cost, with an independent attorney who can explain whether your case stays in workers' comp or reaches a negligent third party."
+  },
+  "about": {
+    "title": "Orange Workplace Injury Claims",
+    "longDescription": "Work in Orange takes many shapes. Some people spend their shifts on job sites near Chapman Avenue, others stock shelves along Tustin Street, and plenty drive for a living on SR-55 and SR-22. When an injury happens during any of that, the first question is usually simple: who pays for this? California answers most of it through workers' compensation. Your employer's coverage handles medical care and partial wage replacement whether or not anyone was careless, and in exchange you generally cannot sue your employer directly. That is not always the end of the story, though. If a subcontractor, a property owner, a defective piece of equipment, or another driver contributed to what happened, a separate injury claim against that third party may be possible alongside your comp benefits. Sorting out which path applies takes someone who knows both. LawProactive is a free service that connects Orange workers with an independent personal injury attorney who can look at the facts and explain your options. There is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See From Orange Workplaces",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, or loading docks",
+      "Back and shoulder injuries from lifting",
+      "Crush and pinch injuries from machinery",
+      "Repetitive strain in hands, wrists, and elbows",
+      "Burns and chemical exposure",
+      "Collisions while driving on the job"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Orange Workers Start With LawProactive",
+    "items": [
+      {
+        "title": "Comp Is Usually the Only Claim Against Your Employer",
+        "desc": "California generally makes workers' compensation the exclusive remedy against an employer, regardless of fault. An attorney in our network can tell you quickly whether a subcontractor, property owner, equipment maker, or another driver opens a second door."
+      },
+      {
+        "title": "The 30-Day Report Window Matters",
+        "desc": "You need to notify your employer within 30 days of the injury. Retaliating against you for reporting is illegal, and an attorney can help if your employer pushes back."
+      },
+      {
+        "title": "Third-Party Claims Run on a 2-Year Clock",
+        "desc": "Any separate claim against a negligent third party carries California's two-year deadline. Getting connected early gives your attorney time to gather evidence before it disappears."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on SR-55 while making deliveries for my Orange employer. Is that workers' comp or a car accident claim?",
+        "answer": "It can be both. Because you were working, your medical bills and lost wages usually run through your employer's workers' compensation coverage. If the other driver caused the crash, you may also have a separate injury claim against that driver. Orange recorded 819 injury collisions in 2025, and a fair share involve people on the clock, so this situation is more common than many workers realize."
+      },
+      {
+        "question": "My supervisor said I'd be let go if I filed a claim. Can they do that?",
+        "answer": "No. California law prohibits retaliation against employees who report a workplace injury or pursue workers' compensation. If you have been threatened, demoted, or fired after reporting, mention it when you speak with an attorney, because it may add to your claim."
+      },
+      {
+        "question": "What does it cost to use LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, not a law firm, and there is no charge to be matched with an independent attorney. The attorneys in our network work on contingency, meaning they are paid only if there is a recovery in your case."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "rancho-palos-verdes workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rancho Palos Verdes Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Rancho Palos Verdes? Free connection to an independent attorney who reviews workers' comp and third-party claim options."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Rancho Palos Verdes, from a construction site off Palos Verdes Drive S to an office near Hawthorne Boulevard, LawProactive can connect you with an independent attorney who can sort out your options at no cost to you."
+  },
+  "about": {
+    "title": "Rancho Palos Verdes Workplace Injury Claims",
+    "longDescription": "Work injuries in Rancho Palos Verdes happen in offices, on landscaped hillside properties, in retail spots along Western Avenue, and on job sites scattered throughout this coastal community. Most injured workers here start with a workers' compensation claim through their employer, which generally applies no matter who was at fault. But that's not always the end of the story. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, you may have a separate claim against that third party outside the workers' comp system. LawProactive doesn't practice law ourselves; we simply connect injured workers in Rancho Palos Verdes with an independent attorney who can look at the facts of your case, explain what deadlines apply, and help you understand whether a third-party claim makes sense alongside your workers' comp benefits.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or hillside terrain",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work travel or deliveries",
+      "Equipment and machinery-related injuries",
+      "Slip-and-fall incidents on job sites or properties",
+      "Injuries from falling objects or unsecured materials"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury claim."
+  },
+  "whyChoose": {
+    "title": "Why Rancho Palos Verdes Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Your Exclusive Remedy",
+        "desc": "California generally treats workers' compensation as your exclusive remedy against your employer, regardless of who was at fault. An attorney can help you understand how this rule applies to your specific situation."
+      },
+      {
+        "title": "Spotting Third-Party Liability",
+        "desc": "When a subcontractor, property owner, or equipment maker contributed to your injury, you may have a separate claim outside the workers' comp system. These third-party claims carry a 2-year deadline, so timing matters."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury. Reporting within 30 days protects your rights, and an attorney can help you understand what documentation to keep."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was injured working on a hillside property near Palos Verdes Drive S. Can I still file a workers' comp claim?",
+        "answer": "Yes, workers' compensation generally applies regardless of the specific location or how the accident happened, as long as it occurred within the scope of your employment. An independent attorney can help you understand whether the property owner or another party might also bear responsibility, which could open a separate claim."
+      },
+      {
+        "question": "Does workers' comp stop me from suing anyone else over my injury?",
+        "answer": "Not necessarily. Workers' comp is usually your exclusive remedy against your employer, but a negligent third party, like a subcontractor, equipment manufacturer, or another driver, can still be held liable in a separate claim. An attorney can review your situation to see if this applies."
+      },
+      {
+        "question": "How soon do I need to report my injury to my employer?",
+        "answer": "California generally requires you to report a workplace injury to your employer within 30 days. Waiting too long can complicate your claim, so it's best to report as soon as possible after the incident."
+      }
+    ]
+  }
+}

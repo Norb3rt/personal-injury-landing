@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "la-habra-heights medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Habra Heights Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for La Habra Heights, CA patients and families. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital or provider error hurt you or someone you love in La Habra Heights, we can connect you with an independent medical malpractice attorney at no cost to start."
+  },
+  "about": {
+    "title": "La Habra Heights Medical Malpractice Claims",
+    "longDescription": "La Habra Heights is a small, hillside community tucked into Los Angeles County, and residents here often travel to nearby cities for hospital care, surgery centers, or specialist visits. When that care goes wrong — a missed diagnosis, a surgical error, a medication mix-up — the aftermath can be confusing, especially while you're still trying to heal. California law treats medical malpractice differently from other injury claims, with strict notice rules and shorter windows to act than many people expect. LawProactive doesn't practice law or represent you directly; we simply listen to what happened and connect you with an independent attorney in our network who handles these cases on a contingency basis, meaning there's no upfront cost. If you're unsure whether what happened to you qualifies, a quick conversation with an attorney can help you understand your options before time limits become a problem.",
+    "commonInjuriesTitle": "Common Types of Medical Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Anesthesia mistakes",
+      "Birth injuries to mother or infant",
+      "Medication or dosage errors",
+      "Failure to monitor or treat a known condition"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "What La Habra Heights Families Should Know",
+    "items": [
+      {
+        "title": "Deadlines Are Shorter Than You Think",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to bring a medical malpractice claim — plus a required 90-day pre-suit notice before filing."
+      },
+      {
+        "title": "A Bad Result Isn't Automatically Malpractice",
+        "desc": "Medicine carries risk, and an unwanted outcome alone doesn't prove negligence; an attorney typically works with a qualified medical expert to evaluate whether the care fell below the accepted standard."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "California law places a statutory limit on non-economic damages in these cases, and that cap increases each year, which is one reason it helps to have someone familiar with current limits reviewing your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim if I live in La Habra Heights?",
+        "answer": "Under California's MICRA rules, you generally have one year from the date you discovered (or reasonably should have discovered) the injury, but never more than three years from when it occurred. A 90-day pre-suit notice to the provider is also required before a lawsuit can be filed. Because these timelines are strict and case-specific, it's worth talking to an attorney sooner rather than later."
+      },
+      {
+        "question": "I had a poor outcome after surgery near La Habra Heights — does that mean malpractice happened?",
+        "answer": "Not necessarily. Surgery and medical treatment carry inherent risks, and an unfavorable result by itself doesn't establish negligence. An attorney usually needs a qualified medical expert to review your records and determine whether your provider's care fell below the accepted standard."
+      },
+      {
+        "question": "Does LawProactive represent me in my medical malpractice case?",
+        "answer": "No — LawProactive is a free connection service, not a law firm, and we don't provide legal representation. We simply help match your situation with an independent attorney in our network who handles medical malpractice cases on a contingency-fee basis, so there's no cost unless you recover."
+      }
+    ]
+  }
+}

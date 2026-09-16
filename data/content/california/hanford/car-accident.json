@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "hanford car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hanford Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Hanford car accident? LawProactive connects you free with an independent attorney serving Kings County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on N 11th Avenue, 12th Avenue, or another Hanford roadway left you hurt, LawProactive can connect you with an independent attorney at no cost to you. Kings County drivers deserve someone in their corner while insurers ask questions."
+  },
+  "about": {
+    "title": "Hanford Car Accident Claims",
+    "longDescription": "Hanford sees a steady flow of injury collisions each year, with public records showing 80 injury crashes and 107 people hurt in the most recent reporting year alone. Corridors like N 11th Avenue, 12th Avenue, N 10th Avenue, and 11th Avenue see a good share of that traffic, and Friday afternoons between 3 and 5 p.m. tend to bring more reported crashes than other times of the week. Whether you were hit near one of these streets or elsewhere in Kings County, the aftermath is rarely simple. Medical visits, missed work, and calls from insurance adjusters can pile up fast. LawProactive doesn't practice law ourselves, but we can connect you with an independent attorney who understands how California's rules on fault and evidence apply to your situation. There's no cost to find out where you stand, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head injuries",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Deep cuts and lacerations requiring stitches",
+      "Knee, shoulder, and joint damage"
+    ],
+    "ctaText": "Get connected with an independent attorney today, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to the Insurer",
+    "items": [
+      {
+        "title": "California's Fault Rules Can Work in Your Favor",
+        "desc": "Under pure comparative fault, you can still recover damages even if you're partly at fault for the crash, though your share of fault reduces the amount. An attorney can help make sure your percentage of blame isn't overstated by the other side."
+      },
+      {
+        "title": "Recorded Statements Can Be Used Against You",
+        "desc": "The other driver's insurer may ask for a recorded statement early on, but anything you say can later be used to minimize your claim. It's worth speaking with an attorney before agreeing to any statement."
+      },
+      {
+        "title": "The Clock Is Ticking, and It May Be Shorter Than You Think",
+        "desc": "California generally gives you two years from the crash to file a personal injury lawsuit, but claims involving a government vehicle or road defect can require notice in as little as six months. Preserving evidence early, like photos and witness contacts, matters no matter which deadline applies."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a car accident in Hanford?",
+        "answer": "In most cases, California law gives you two years from the date of the crash to file a personal injury lawsuit. If a government entity, like the City of Hanford or Kings County, was involved in causing the crash, that window can shrink to as little as six months for a claim notice. It's best to talk with an attorney as soon as possible so no deadline is missed."
+      },
+      {
+        "question": "What if I was partly responsible for the collision?",
+        "answer": "California follows a pure comparative fault rule, meaning you can still pursue compensation even if you share some blame. Your recovery is simply reduced by your percentage of fault. An independent attorney can help evaluate how fault might be allocated in your specific crash."
+      },
+      {
+        "question": "Should I give a statement to the other driver's insurance company?",
+        "answer": "It's generally wise to avoid giving a recorded statement to the other party's insurer before speaking with an attorney. Insurance representatives are trained to ask questions that can shrink or complicate your claim. LawProactive can connect you with someone who can advise you before you say anything on record."
+      }
+    ]
+  }
+}

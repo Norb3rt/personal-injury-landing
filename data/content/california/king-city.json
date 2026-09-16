@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "king-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "King City, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in King City? Monterey County residents have 2 years to file. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident around King City, we can connect you with an independent attorney at no cost. We serve injured people throughout Monterey County."
+  },
+  "about": {
+    "title": "Personal Injury Help in King City, California",
+    "longDescription": "King City sits along Highway 101 in southern Monterey County, and local streets like San Antonio Drive, S 1st Street, Broadway Street, and Ellis Street see their share of everyday traffic activity. Public records show 21 injury collisions in the most recent full year, leaving 27 people hurt — a reminder that even a small farming town isn't immune to serious wrecks. Many of these reported crashes cluster on Friday afternoons between 3 and 5 p.m., when commuters, farmworkers, and weekend traffic overlap on the same roads.\n\nIf you or someone you love was injured in King City, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — we are not a law firm — that connects injured people with an independent personal injury attorney in the area who can review what happened and explain your options. There's no cost to talk, and any attorney you're connected with works on contingency, meaning no fee unless there's a recovery. You focus on healing; let someone with legal experience sort out the rest.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and road rash",
+      "Torn ligaments and soft-tissue damage"
+    ],
+    "ctaText": "Get connected with an attorney today — it costs nothing to ask."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "You Have Limited Time to Act",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government agency can require notice in as little as six months. Waiting too long can close the door on your case entirely."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages like pain, suffering, or emotional distress in most ordinary injury cases. An attorney can help make sure that side of your claim isn't overlooked."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no retainer and no hourly bill hanging over your head while you heal."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance adjuster's offer is fair",
+      "Feeling pressured to sign something before understanding your rights",
+      "Fearing that being partly at fault means you can't get help"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in King City?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If your injury involved a government vehicle or a public road hazard, that window can shrink to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some responsibility. Your final award is reduced by your percentage of fault rather than blocked entirely."
+      },
+      {
+        "question": "Where do injury crashes tend to cluster in King City?",
+        "answer": "Public collision records show reported crashes concentrated along San Antonio Drive, S 1st Street, Broadway Street, and Ellis Street, with activity often peaking on Friday afternoons between 3 and 5 p.m. These are simply public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply connect you with an independent attorney in the network, and any legal fees only apply if that attorney recovers compensation for you."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "In most standard personal injury cases in California, there's no cap on non-economic damages such as pain and suffering. That said, every case is different, and an attorney can walk you through what applies to your specific situation."
+      }
+    ]
+  }
+}

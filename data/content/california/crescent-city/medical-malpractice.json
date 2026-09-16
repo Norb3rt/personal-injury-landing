@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "crescent-city medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Crescent City Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Crescent City? Get free help connecting with an independent Del Norte County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in Crescent City goes wrong, sorting out what happened can feel overwhelming on top of recovering physically. We help you connect with an independent attorney who understands Del Norte County medical cases and California's malpractice rules."
+  },
+  "about": {
+    "title": "Crescent City Medical Malpractice Claims",
+    "longDescription": "Crescent City residents often rely on a small number of local clinics and Sutter Coast Hospital for care, and when something goes wrong there, it can shake your trust in the whole system. Medical malpractice covers a wide range of situations — a missed diagnosis, a surgical mistake, medication errors, or a failure to monitor a patient properly. Not every bad outcome means malpractice occurred; California law requires proof that a provider failed to meet the accepted standard of care and that this failure caused real harm. Because Del Norte County has limited specialty care nearby, some patients are transferred to larger facilities out of the area, which can add complexity to a case involving multiple providers or hospitals. LawProactive doesn't practice law — we're a free service that helps injured patients in Crescent City get connected with an independent attorney who can review medical records, consult with qualified experts, and explain your options under California's malpractice laws.",
+    "commonInjuriesTitle": "Common Types of Medical Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your care in Crescent City — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines Apply",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the harm, and no later than three years after the injury itself. A 90-day pre-suit notice to the provider is also required before a lawsuit can move forward, so early action matters."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "California law places a statutory limit on non-economic damages like pain and suffering in malpractice cases, and that cap increases annually. An independent attorney can walk you through how this applies to your specific situation."
+      },
+      {
+        "title": "Expert Medical Review Is Almost Always Needed",
+        "desc": "Because a bad outcome alone doesn't prove malpractice, California cases typically require a qualified medical expert to establish that the standard of care was breached. Connecting with an attorney who can arrange this kind of review is a critical early step."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Crescent City?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discover the injury, but no more than three years from the date it occurred. There's also a 90-day notice requirement before filing suit against the provider. Because these deadlines can be tricky to calculate, it helps to talk to an attorney as soon as possible after you suspect something went wrong."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. Medicine involves risk, and not every complication or poor result is the result of negligence. California law requires showing that a provider's care fell below the accepted medical standard and that this failure directly caused your harm, which is why expert medical review is usually necessary."
+      },
+      {
+        "question": "My care involved a transfer from Crescent City to a hospital outside Del Norte County — does that complicate my case?",
+        "answer": "It can, since more than one provider or facility may be involved in your treatment history. An independent attorney can help sort through records from all the facilities involved to determine where the standard of care may have been breached. This kind of multi-provider review is exactly the sort of thing worth discussing early."
+      }
+    ]
+  }
+}

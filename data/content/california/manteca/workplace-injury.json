@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "manteca workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Manteca Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt at work in Manteca? See how workers' comp and third-party claims differ in San Joaquin County, then connect with an independent attorney free."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in Manteca? Workers' compensation is only part of the picture when a subcontractor, property owner, equipment maker, or another driver played a role — we connect you, free, with an independent attorney who can explain what applies to you."
+  },
+  "about": {
+    "title": "Manteca Workplace Injury Claims",
+    "longDescription": "Manteca sits where SR-120 meets SR-99, and a lot of local work happens on the move — deliveries along Yosemite Avenue, service calls off Main Street, early shifts at distribution sites nearby. When someone is hurt doing that work, the first system they meet is workers' compensation. In California it usually pays for medical care and part of your lost wages regardless of fault, and it is normally your only claim against the employer. It is not always the whole story. If a subcontractor, a property owner, an equipment manufacturer, or another driver caused the harm, a separate injury claim against that third party may be open to you, and it runs on its own two-year clock. That distinction matters here. Public records show 283 injury collisions in Manteca during 2025, with 411 people hurt, and reported crashes cluster on Fridays between 5 and 7 p.m. — the same window many work vehicles are still on the road. LawProactive is a free service, not a law firm; we connect Manteca workers with an independent attorney who can sort out which claims fit.",
+    "commonInjuriesTitle": "Injuries We Often Hear About From Manteca Workers",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Crush and pinch injuries from machinery or forklifts",
+      "Neck and shoulder injuries in work-vehicle collisions",
+      "Burns and chemical exposure at agricultural or industrial sites",
+      "Traumatic brain injuries from falling objects"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Manteca Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We help you see past workers' comp alone",
+        "desc": "Workers' compensation is generally the exclusive remedy against your employer in California, but that rule does not shield a negligent third party. An attorney in our network can look at whether a separate claim exists alongside your comp benefits."
+      },
+      {
+        "title": "Deadlines are different for each path",
+        "desc": "You should report a work injury to your employer within 30 days, while a third-party injury claim in California carries a two-year filing deadline. Knowing both clocks early keeps your options open."
+      },
+      {
+        "title": "Speaking up is protected",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting an injury or filing a claim. Our free service connects you with an independent attorney who works on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on SR-120 while driving a company truck through Manteca. Is that only a workers' comp matter?",
+        "answer": "Not necessarily. Your injury happened on the job, so workers' compensation will likely cover your medical treatment and part of your wages no matter who caused the crash. If another driver was at fault, though, you may also be able to bring a separate injury claim against that driver, subject to California's two-year deadline. An attorney can review the police report and explain how the two claims interact."
+      },
+      {
+        "question": "Can my employer fire me or cut my hours for reporting an injury?",
+        "answer": "No. Retaliation against a worker for reporting a workplace injury or pursuing a workers' compensation claim is illegal in California. If you notice a change in how you are treated after you report, write down what happened and when, and mention it when you speak with an attorney."
+      },
+      {
+        "question": "What if I waited a few weeks before telling my employer I was hurt?",
+        "answer": "California asks you to report a work injury to your employer within 30 days, so if you are inside that window, report it now in writing. If more time has passed, do not assume your claim is gone — there are situations where late notice is still accepted, and a third-party claim runs on a different two-year timeline. The sooner an attorney reviews the dates, the more choices you tend to have."
+      }
+    ]
+  }
+}

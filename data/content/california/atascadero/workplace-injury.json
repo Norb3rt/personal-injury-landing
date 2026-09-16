@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "atascadero workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Atascadero Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Atascadero? Get connected free with an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Atascadero, from a job site off El Camino Real to a delivery run near US-101, you may have options beyond a workers' comp claim alone. LawProactive can connect you at no cost with an independent attorney who can sort out what's owed to you."
+  },
+  "about": {
+    "title": "Atascadero Workplace Injury Claims",
+    "longDescription": "Atascadero's economy runs on a mix of small businesses, agriculture-adjacent work, construction, and service jobs stretched along corridors like El Camino Real and Morro Road. When someone gets hurt at work here, California law usually routes the claim through workers' compensation, no matter who was at fault. But that's not always the full story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, especially in incidents connected to traffic near US-101, there may be a separate claim against that third party. That claim can cover losses workers' comp doesn't touch, like full pain and suffering. LawProactive doesn't practice law or take a fee; we simply connect injured workers with an independent attorney, free of charge, who can look at both the comp side and any third-party angle and explain, in plain terms, what your situation may support.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven job sites",
+      "Back and spine strain from repetitive lifting",
+      "Equipment or machinery-related crush injuries",
+      "Vehicle collisions during work-related driving",
+      "Burns or chemical exposure on the job",
+      "Repetitive stress injuries in warehouse or retail roles"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Atascadero Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Help You See Past the Comp-Only Assumption",
+        "desc": "Many workers assume workers' comp is their only path, but California law allows a separate claim against a negligent third party like a subcontractor or another driver. An independent attorney can help identify whether that applies to your situation."
+      },
+      {
+        "title": "We Understand the 30-Day Reporting Window",
+        "desc": "California requires injured workers to notify their employer within 30 days to preserve a workers' comp claim. Missing that window can complicate things, so getting guidance early matters."
+      },
+      {
+        "title": "We Take Retaliation Concerns Seriously",
+        "desc": "It's illegal for an employer to punish you for reporting a workplace injury or filing a claim. If you're worried about your job, an attorney in our network can talk through your rights before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site near El Camino Real. Do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer regardless of fault, so that's typically the first claim you'd file. But if a subcontractor, property owner, or another company contributed to the accident, a separate third-party claim may also be possible. An independent attorney can review the details and tell you which paths apply."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer in Atascadero?",
+        "answer": "California generally requires you to notify your employer within 30 days of the injury to protect your workers' comp claim. Waiting longer can create problems, so it's best to report as soon as you're able. This deadline is separate from any third-party claim deadline."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury?",
+        "answer": "No, retaliation against a worker for reporting an injury or filing a workers' comp claim is illegal under California law. If you believe you've faced retaliation, an attorney can advise you on next steps. This protection applies whether the injury happened on a local job site or while driving for work near US-101."
+      }
+    ]
+  }
+}

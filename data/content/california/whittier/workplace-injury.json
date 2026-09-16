@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "whittier workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Whittier Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Whittier? LawProactive connects you, free, with an independent attorney who can review workers' comp and third-party claim options."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Whittier? Workers' compensation may not be the whole story, and a free conversation with an independent attorney can help you see what else applies."
+  },
+  "about": {
+    "title": "Whittier Workplace Injury Claims",
+    "longDescription": "Work in Whittier looks different from one block to the next. Some people spend the day on a construction site off Lambert Road, others behind a counter along Whittier Boulevard, and plenty spend hours driving between job sites on Beverly Boulevard and Painter Avenue. When one of those days ends in an injury, the first question is usually simple: who pays for this? In California, workers' compensation normally covers medical care and part of your lost wages no matter who was at fault, and it is typically your only remedy against your employer. What many Whittier workers do not realize is that a separate claim may exist against a third party, such as a subcontractor, a property owner, the maker of a faulty machine, or another driver. That matters here. Whittier recorded 443 injury collisions and 599 people injured in 2025, and for anyone who was on the clock when a crash happened, both systems may come into play. LawProactive is not a law firm. We connect you, at no cost, with an independent attorney who can sort through both paths.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Whittier Workplace Cases",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Crush injuries from machinery or equipment",
+      "Vehicle collision injuries while driving for work",
+      "Burns and chemical exposure",
+      "Fractures from slips on job-site surfaces"
+    ],
+    "ctaText": "Talk through your options with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Whittier Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Both Claims Get Looked At",
+        "desc": "Workers' comp is usually your only route against your employer, but a negligent subcontractor, property owner, equipment maker, or driver can open a separate injury claim. The attorney we connect you with can evaluate whether that second path exists in your case."
+      },
+      {
+        "title": "Deadlines Explained Plainly",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and third-party injury claims generally carry a two-year filing deadline. Knowing both dates early keeps your options open."
+      },
+      {
+        "title": "Free Connection, Contingency Representation",
+        "desc": "LawProactive charges you nothing to make the connection, and attorneys in our network work on contingency, so there is no fee unless there is a recovery. You also have legal protection if an employer retaliates for reporting an injury."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver while making deliveries on Whittier Boulevard. Is this just a workers' comp case?",
+        "answer": "Not necessarily. Because you were working, workers' compensation likely applies for your medical care and wage loss. But the other driver is a third party, and California law allows a separate injury claim against a negligent third party even when workers' comp is paying. An independent attorney can look at whether both apply to you."
+      },
+      {
+        "question": "How quickly do I need to tell my employer about an injury?",
+        "answer": "California asks you to report a work injury to your employer within 30 days. Reporting sooner is better, and putting it in writing helps create a clear record. It is also illegal for an employer to retaliate against you for reporting."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm. We connect you with an independent attorney who works on contingency, meaning no fee unless there is a recovery. There is no obligation after the first conversation."
+      }
+    ]
+  }
+}

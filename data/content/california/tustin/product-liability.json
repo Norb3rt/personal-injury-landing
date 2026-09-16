@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "tustin product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tustin Product Liability Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt by a defective product in Tustin? LawProactive connects you, free, with an independent Orange County attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When a product fails in Tustin and someone gets hurt, California law asks a simpler question than most people expect: was it defective, and did that defect cause the harm? We connect you, at no cost, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Tustin Product Liability Claims",
+    "longDescription": "A product that fails in Tustin rarely announces itself ahead of time. A space heater in a Red Hill Avenue apartment overheats, a ladder folds on a job near Jamboree Road, a tire separates on I-5 northbound during the Wednesday evening commute. In 2025 the city recorded 328 injury collisions and 441 people injured, and while most of those come down to driver decisions, some trace back to a part that should have held: an airbag inflator, a brake component, a child seat latch. California handles these cases under strict liability. You generally do not have to prove the manufacturer was careless. You need to show the product had a design, manufacturing, or warning defect and that the defect caused your injury. That puts the focus on the product rather than on your conduct. LawProactive is a free connection service, not a law firm. We match Tustin residents with an independent attorney who takes product claims on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, heaters, or appliances",
+      "Lacerations and amputations from power tools and machinery",
+      "Head and spinal injuries from failed vehicle components",
+      "Choking or internal injuries from children's products",
+      "Fractures from collapsing furniture, ladders, or equipment",
+      "Illness or organ damage from contaminated or mislabeled goods"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "What Matters in a Tustin Product Case",
+    "items": [
+      {
+        "title": "Strict liability changes the question",
+        "desc": "In California you usually do not need to prove the maker was negligent. Showing the product was defective and that the defect injured you is generally what the law requires."
+      },
+      {
+        "title": "The product is the evidence",
+        "desc": "Keep the item, its packaging, receipts, and any photos exactly as they are. Throwing it away or sending it back can make a strong claim hard to prove."
+      },
+      {
+        "title": "More than one company may answer for it",
+        "desc": "Manufacturers, distributors, and the Tustin retailer that sold the product can each be held responsible. An attorney can sort out who belongs in the claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My tire failed on I-5 through Tustin and I crashed. Is that a car accident case or a product case?",
+        "answer": "It can be both. If the tire had a manufacturing or design defect, California's strict liability rule may apply to the tire maker and seller regardless of how carefully you were driving. Have the vehicle and the tire preserved before the insurer or a tow yard disposes of them, because that physical evidence is central to the claim."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was unsafe?",
+        "answer": "Generally, no. Under strict liability the focus is on whether the product was defective in its design, its manufacturing, or its warnings, and whether that defect caused your injury. Whether the company was careless is usually not something you have to establish."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service and not a law firm. The independent attorneys in our network handle product liability claims on contingency, so there is no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

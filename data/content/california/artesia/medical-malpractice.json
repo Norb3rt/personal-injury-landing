@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "artesia medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Artesia Medical Malpractice Claims | LawProactive",
+    "metaDescription": "Hurt by a medical error in Artesia? Get connected free with an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in Artesia goes wrong, sorting out what happened can feel overwhelming. LawProactive connects you at no cost with an independent attorney who understands how California's medical malpractice rules apply to your situation."
+  },
+  "about": {
+    "title": "Artesia Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases in Artesia often involve care received at local clinics, urgent care centers, or hospitals in the surrounding Los Angeles County area. Unlike a car crash, these cases usually hinge on whether a licensed provider deviated from an accepted standard of care — not simply whether the outcome was disappointing. California law places extra procedural steps on these claims, including a 90-day pre-suit notice requirement and a compressed timeline compared to other injury cases. Because a qualified medical expert almost always has to review the record and testify about what a reasonably careful provider would have done, families in Artesia benefit from having someone knowledgeable sort through medical records early. LawProactive doesn't practice law or handle your case directly — we simply connect you, free of charge, with an independent attorney who can evaluate whether your experience meets California's standard for malpractice and explain what comes next.",
+    "commonInjuriesTitle": "Injuries That May Point to Medical Malpractice",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to treat a worsening condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Artesia Families Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the Clock Is Ticking",
+        "desc": "California generally gives you one year from discovering the harm, but never more than three years from the injury itself, and a 90-day notice must go out before a lawsuit is filed. An attorney can help make sure none of these deadlines slip by."
+      },
+      {
+        "title": "Expert Review Matters",
+        "desc": "Because a qualified medical expert almost always has to weigh in on whether a provider fell short of the standard of care, we connect you with attorneys equipped to line up that kind of review rather than guessing at the medical details alone."
+      },
+      {
+        "title": "Realistic Expectations, No False Promises",
+        "desc": "California caps non-economic damages in these cases, and that cap rises each year by statute. A bad medical outcome by itself isn't automatically malpractice, and an attorney can give you a grounded, honest read on where your situation stands."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date the injury occurred. There's also a 90-day pre-suit notice requirement before a case can be filed. These deadlines are strict, so it helps to talk with an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "I received care at a facility outside Artesia — can I still get help?",
+        "answer": "Yes. Many Artesia residents receive treatment at hospitals or specialty centers elsewhere in Los Angeles County, and that doesn't prevent you from pursuing a claim. What matters is where the care happened and whether it fell short of the accepted medical standard, not simply your home address."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law recognizes that medicine involves risk, and a poor result alone doesn't establish malpractice. A claim typically requires showing the provider deviated from what a reasonably careful practitioner would have done, which is why a qualified medical expert's review is almost always part of the process."
+      }
+    ]
+  }
+}

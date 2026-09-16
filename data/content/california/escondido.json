@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "escondido city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Escondido, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Escondido, San Diego County? You have 2 years to file most claims. Get matched free with an independent attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Car crashes, motorcycle wrecks, slip-and-falls, dog bites — if you were hurt in Escondido or anywhere in San Diego County, LawProactive connects you with an independent injury attorney at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in Escondido, California",
+    "longDescription": "Escondido grew up around the place where Valley Parkway crosses I-15, and that geography shows up in the public record. In 2025, the city logged 896 injury collisions that left 1,297 people hurt and took 10 lives. Collision counts run highest along Valley Parkway, I-15, Washington Avenue, and Mission Avenue, and reports tend to bunch up on Fridays between 5 and 7 p.m., when commuters are heading home and traffic thickens near the California Center for the Arts downtown. If you were one of those numbers, the days afterward are rarely tidy. Medical bills arrive before the adjuster returns your call. Your car may be undrivable. You may be missing shifts at work. That is exactly the moment LawProactive was built for. Here is what we are and what we are not. LawProactive is a free service. We connect injured people in Escondido and across San Diego County with an independent personal injury attorney who handles cases like yours. We are not a law firm, we do not give legal advice, and we never charge you for the introduction. The attorney you speak with works on contingency, so there is no fee unless your case ends in a recovery. California gives most injury victims two years to file, and less when a public agency is involved. A short conversation now keeps your options open.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Escondido Cases",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from motorcycle and bicycle crashes",
+      "Concussions and other head injuries",
+      "Back and spinal disc damage",
+      "Cuts, burns, and road rash",
+      "Sprains and fractures from falls on commercial property"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney — free."
+  },
+  "whyChoose": {
+    "title": "Why Escondido Residents Start With LawProactive",
+    "items": [
+      {
+        "title": "The two-year clock is real",
+        "desc": "California gives most injury victims two years from the date of harm to file a lawsuit. Waiting too long can close the door entirely, so an early conversation protects your position."
+      },
+      {
+        "title": "Government claims move faster",
+        "desc": "If a city vehicle, a county road defect, or another public entity played a role, you may have as little as six months to file a formal claim. An attorney can spot that issue before the window shuts."
+      },
+      {
+        "title": "Partial fault does not end your case",
+        "desc": "California follows pure comparative fault. Even if you share some responsibility for what happened, you can still recover — your award is simply reduced by your percentage of fault."
+      },
+      {
+        "title": "No fee unless you recover",
+        "desc": "Every attorney in our network works on contingency. You pay nothing up front and nothing at all unless your case results in a recovery, and our connection service costs you nothing either."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling, and I do not know what I am allowed to say.",
+      "I cannot work right now — how am I supposed to cover rent in Escondido?",
+      "The ER bill came and the visit was not even my fault.",
+      "I said something at the scene that might make it sound like I was to blame."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes tend to happen in Escondido?",
+        "answer": "Public collision records for Escondido show the highest counts along Valley Parkway, I-15, Washington Avenue, and Mission Avenue. In 2025 the city recorded 896 injury collisions and 1,297 people injured, with reports peaking on Fridays between 5 and 7 p.m. These are neutral counts from the record, not a judgment about any road — they simply reflect where traffic volume is heaviest."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of the injury. If a government entity is involved — say, a city bus or a poorly maintained public sidewalk — you may need to file a formal claim within six months. Because these deadlines differ, it is worth getting your situation reviewed sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system. Your compensation is reduced by your share of the blame, but you are not barred from recovering just because you contributed to what happened. An attorney can help sort out how fault is actually being assigned in your case."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases, California does not cap non-economic damages such as pain, emotional distress, or loss of enjoyment of life. Certain specialized claims have their own rules, and no outcome can be promised in advance. An independent attorney can explain what applies to your circumstances."
+      },
+      {
+        "question": "What does LawProactive charge, and is it a law firm?",
+        "answer": "LawProactive is not a law firm and does not provide legal advice. We are a free service that connects injured people in Escondido and San Diego County with an independent personal injury attorney. The attorneys in our network work on contingency, which means no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

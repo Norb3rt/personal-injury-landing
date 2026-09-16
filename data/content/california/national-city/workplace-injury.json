@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "national-city workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "National City Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in National City? Get connected free with an independent attorney about workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in National City, you may have options beyond workers' compensation. LawProactive connects you at no cost with an independent attorney who can look at whether a third party shares blame."
+  },
+  "about": {
+    "title": "National City Workplace Injury Claims",
+    "longDescription": "National City's mix of warehousing, shipyard-adjacent industry, retail along National City Boulevard, and trucking tied to the I-5 corridor means workplace injuries here can happen on a loading dock, in a delivery vehicle, or on a jobsite shared by multiple contractors. Under California law, workers' compensation is generally the only remedy against your own employer, no matter who caused the accident. But when a subcontractor, equipment manufacturer, property owner, or another driver on the road contributed to what happened, a separate claim against that third party may be possible alongside your workers' comp benefits. LawProactive doesn't file claims or give legal advice — we simply connect injured workers in National City with an independent attorney who can sort out which path, or paths, apply to your situation. There's no cost to find out, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and warehouse equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Struck-by incidents involving falling materials",
+      "Vehicle collisions during work-related driving",
+      "Machinery entanglement or crush injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why National City Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Always Obvious",
+        "desc": "Workers' comp usually blocks a claim against your employer, but a negligent subcontractor, property owner, or equipment maker can still be liable. An attorney can help identify whether that applies to your case."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires reporting a workplace injury to your employer within 30 days, and separate third-party claims carry a 2-year deadline. Missing either window can limit your options."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "Employers cannot legally punish you for reporting an injury or pursuing a claim. If you're worried about your job, an independent attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if my injury happened while driving for work near the I-5 or Plaza Boulevard?",
+        "answer": "Possibly. If another driver caused the crash while you were working, that driver's negligence may support a separate claim outside of workers' compensation. San Diego County crash data shows these corridors see regular reported collisions, so this situation isn't unusual for National City workers."
+      },
+      {
+        "question": "Does workers' compensation stop me from suing my employer?",
+        "answer": "In most cases, yes — workers' comp is the exclusive remedy against your employer regardless of fault. However, if a third party, like a contractor or equipment supplier, contributed to your injury, you may still have a separate claim against them."
+      },
+      {
+        "question": "What if my employer discourages me from reporting my injury?",
+        "answer": "That's not allowed. California law prohibits retaliation against employees who report workplace injuries or pursue a claim. An independent attorney can advise you on next steps if you feel pressured."
+      }
+    ]
+  }
+}

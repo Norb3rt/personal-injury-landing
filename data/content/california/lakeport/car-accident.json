@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "lakeport car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lakeport Car Accident Help | Free Attorney Connection",
+    "metaDescription": "Hurt in a Lakeport car accident? Get connected free to an independent CA attorney. No fee unless you recover. Call before talking to insurers."
+  },
+  "hero": {
+    "subtitle": "If a crash on Main Street or 11th Street left you hurt, LawProactive can connect you free of charge with an independent Lakeport-area attorney who works on contingency. You don't pay anything unless there's a recovery."
+  },
+  "about": {
+    "title": "Lakeport Car Accident Claims",
+    "longDescription": "Lakeport is a small city, but its main roads carry steady traffic, and Lake County's public crash records show injury collisions happen here every year, including 16 in the most recent reporting year. Corridors like Main Street, N Main Street, S Main Street, and 11th Street see a mix of local drivers, visitors heading to the lake, and through-traffic, which creates the kind of intersection and turning conflicts that lead to injury. Crashes reported around Thursday late nights suggest visibility and fatigue may play a role for some drivers passing through this stretch of Lake County. Whether you were hit at a stop sign on 11th Street or rear-ended on Main Street, the aftermath brings medical bills, missed work, and insurance calls you didn't ask for. LawProactive doesn't practice law; we simply connect injured Lakeport residents and visitors with an independent personal injury attorney, at no cost to you, so you can focus on recovery while someone else handles the insurance conversations.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussion or other head injury",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Deep cuts and lacerations",
+      "Shoulder and knee soft-tissue damage"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurance Company",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash date to file a car accident claim in California, but that window can shrink to as little as six months if a government vehicle or road defect was involved. Waiting to sort out fault can quietly cost you your case."
+      },
+      {
+        "title": "Fault Can Be Shared, Not Erased",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly at fault, though your share reduces the payout. An attorney can help make sure the insurer doesn't unfairly inflate your percentage of blame."
+      },
+      {
+        "title": "Recorded Statements Can Be Used Against You",
+        "desc": "The other driver's insurer may ask for a recorded statement early, often before you know the full extent of your injuries. There's no cap on non-economic damages like pain and suffering in California, so it's worth talking to an attorney before saying anything that could limit what you're later able to recover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was in a crash on Main Street in Lakeport — what should I do first?",
+        "answer": "Get medical attention even if you feel okay, since some injuries show up later. Document the scene if you're able, including any damage and the general road conditions, and avoid giving a recorded statement to the other driver's insurer until you've spoken with an attorney. LawProactive can connect you with someone free of charge to walk you through next steps."
+      },
+      {
+        "question": "What if the crash happened late at night, like around 12-2 a.m. on a Thursday?",
+        "answer": "Late-night and early-morning crashes often raise questions about visibility, fatigue, or driver distraction, all of which can affect how fault gets determined. An independent attorney can help gather evidence like traffic camera footage, cell records, or witness statements before they disappear. Timing matters, so it helps to act quickly."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free connection service, and the attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no upfront cost or obligation to move forward."
+      }
+    ]
+  }
+}

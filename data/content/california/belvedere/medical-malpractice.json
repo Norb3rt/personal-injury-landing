@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "belvedere medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Belvedere Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Belvedere, CA? Get connected free with an independent Marin County medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnostic error, surgical mistake, or medication mishap left you or a loved one hurt in Belvedere, LawProactive can connect you at no cost with an independent attorney who handles Marin County medical malpractice claims."
+  },
+  "about": {
+    "title": "Belvedere Medical Malpractice Claims",
+    "longDescription": "Belvedere is a small, tightly-knit community on the Tiburon Peninsula, and most residents travel into greater Marin County or across the bay for hospital care, specialists, and surgical procedures. When that care falls below the standard a reasonably careful provider would meet, the result can be a life-altering injury rather than the recovery a patient expected. California's medical malpractice rules, known as MICRA, apply whether the care happened at a local clinic or a larger regional hospital, and they come with strict notice and filing deadlines that are easy to miss if you're focused on healing. LawProactive doesn't practice law or promise any result — we simply listen to what happened, then connect Belvedere residents with an independent attorney who can evaluate the medical records, determine whether the standard of care was met, and explain what options may exist. There's no cost to start the conversation, and no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries That May Point to a Care Error",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to recognize a treatable infection"
+    ],
+    "ctaText": "Talk with an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before MICRA Deadlines Pass",
+    "items": [
+      {
+        "title": "Short, Strict Deadlines",
+        "desc": "California generally requires a malpractice claim within one year of discovering the harm, and never more than three years after the injury itself, so waiting can quietly close the door on a claim."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before filing suit, MICRA requires a formal 90-day notice to the provider, which needs to be handled correctly and early to protect your timeline."
+      },
+      {
+        "title": "Expert Review Matters",
+        "desc": "Because a poor outcome alone isn't proof of malpractice, a qualified medical expert almost always has to review the records first, and an attorney can help get that review started."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does the small size of Belvedere affect where a malpractice claim would be filed?",
+        "answer": "No — Belvedere residents typically receive care from hospitals and providers throughout Marin County or the wider Bay Area, and a claim generally follows where the care was given, not just where you live. An independent attorney can help sort out the right venue once the facts are clear."
+      },
+      {
+        "question": "Is a bad medical outcome enough to prove malpractice?",
+        "answer": "Not on its own. Under California law, a bad result only becomes malpractice if a provider failed to meet the standard of care a reasonably careful professional would have provided in the same situation. That's why a medical expert's review is almost always part of evaluating these claims."
+      },
+      {
+        "question": "Is there a cap on what I can recover in a California malpractice case?",
+        "answer": "California law places a cap specifically on non-economic damages, like pain and suffering, and that cap adjusts upward each year under MICRA. Economic losses, such as medical bills and lost income, are generally handled separately. An attorney can walk through how this applies to your specific situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "south-gate city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "South Gate, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in South Gate? Connect free with an independent Los Angeles County injury attorney. 2 years to file in California. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, a fall, or a collision on a bike or on foot left you hurt in South Gate, LawProactive connects you at no cost with an independent injury attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in South Gate, California",
+    "longDescription": "South Gate's main streets carry a steady flow of traffic between neighboring cities in southeast Los Angeles County. Public collision records for 2025, the most recent final year, list 419 injury crashes inside city limits, with 597 people hurt and 6 lives lost. The largest share of those reports came from Firestone Boulevard, Southern Avenue, Imperial Highway, and Garfield Avenue, and the count tends to climb on Friday evenings between 6 and 8 p.m. Behind each entry is a person figuring out how to get to work, pay for treatment, and deal with an insurance adjuster who calls before the bruises have faded. That is where LawProactive fits in. We are not a law firm and we do not give legal advice. We are a free service that connects you with an independent personal injury attorney who takes cases in South Gate and across Los Angeles County. There is no charge to reach out, and the attorneys in our network work on contingency, so you pay no fee unless there is a recovery in your case. Whether you were rear-ended on Firestone Boulevard, knocked off a bike on Imperial Highway, or injured somewhere off the main roads, you can ask your questions first and decide what to do afterward.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From South Gate Residents",
+    "commonInjuries": [
+      "Whiplash and other neck strains after rear-end crashes",
+      "Concussions and head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Knee and lower-back injuries from falls",
+      "Road rash and fractures from bike and scooter collisions",
+      "Pedestrian injuries at crosswalks and driveways"
+    ],
+    "ctaText": "Ask a South Gate injury attorney your questions at no cost."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your South Gate Claim",
+    "items": [
+      {
+        "title": "The clock runs for two years",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury lawsuit. If a city, county, or state agency is involved, a claim may need to be filed in as little as six months, so it helps to act early."
+      },
+      {
+        "title": "Sharing blame does not end your case",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share of fault, but you are not shut out entirely."
+      },
+      {
+        "title": "Pain and suffering are not capped",
+        "desc": "In an ordinary injury case, California places no fixed ceiling on non-economic damages like pain, lost sleep, or the inability to do what you used to do. Each case is weighed on its own facts."
+      },
+      {
+        "title": "You pay nothing up front",
+        "desc": "Attorneys in the LawProactive network work on contingency. There is no fee unless there is a recovery, and connecting through us costs you nothing."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer wants a recorded statement and I don't know what to say.",
+      "I'm missing shifts and the bills are stacking up faster than the paychecks.",
+      "My neck hurt more on day three than it did at the scene, and I'm worried it's too late to mention it.",
+      "I was partly at fault, so I assume I have no case at all."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not provide legal advice. We put you in touch with an independent personal injury attorney who handles cases in South Gate and the rest of Los Angeles County. Any attorney-client relationship is between you and that attorney."
+      },
+      {
+        "question": "Where do crashes in South Gate tend to happen?",
+        "answer": "According to public collision records for 2025, Firestone Boulevard, Southern Avenue, Imperial Highway, and Garfield Avenue accounted for the highest counts of reported crashes in the city. Reports also tend to peak on Fridays between 6 p.m. and 8 p.m. These are simply record counts, and an injury anywhere in South Gate can still be the basis for a claim."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury cases, California allows two years from the date of the injury to file a lawsuit. If your claim involves a government entity, such as a city bus or a defect on public property, you may need to file a formal claim within six months. An attorney can help you sort out which deadline applies to your situation."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses a pure comparative fault system. Your compensation is reduced by whatever percentage of fault is assigned to you, but you can still recover for the rest. Being partly responsible is not the same as having no case."
+      },
+      {
+        "question": "How much does it cost to talk with an attorney?",
+        "answer": "Reaching out through LawProactive is free, and the attorneys in our network work on a contingency basis. That means no fee unless there is a recovery in your case. You can ask questions and understand your options before making any commitment."
+      }
+    ]
+  }
+}

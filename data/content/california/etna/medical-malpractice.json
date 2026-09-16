@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "etna medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Etna Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Etna, CA? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or treatment goes wrong in a small Siskiyou County town like Etna, finding the right medical malpractice help can feel far away. LawProactive connects you with an independent attorney who understands California's strict rules for these claims."
+  },
+  "about": {
+    "title": "Etna Medical Malpractice Claims",
+    "longDescription": "Etna's small size and rural location mean many residents travel outside Siskiyou County for specialized care, and errors can happen at any point along that path — from a local clinic visit to a referral at a larger hospital. Medical malpractice cases are different from typical injury claims: California requires a qualified medical expert to review the case, a 90-day pre-suit notice before a lawsuit is filed, and strict timing rules under MICRA. A bad medical outcome by itself doesn't mean malpractice occurred; what matters is whether a provider failed to meet the accepted standard of care and that failure caused harm. If you or a family member were hurt after a misdiagnosis, surgical error, medication mistake, or delayed treatment connected to care received in or near Etna, LawProactive can connect you at no cost with an independent attorney who handles these claims and can evaluate what happened.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on results"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Early",
+    "items": [
+      {
+        "title": "Strict, Unforgiving Deadlines",
+        "desc": "California generally allows one year from when you discover the harm, but never more than three years from the injury itself. Missing either window can end a claim before it starts."
+      },
+      {
+        "title": "A Required Notice Period",
+        "desc": "Before a malpractice lawsuit can be filed, California law requires a 90-day pre-suit notice to the provider. An attorney can make sure this step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Essential",
+        "desc": "Because a qualified medical expert is almost always required to support a malpractice claim, having an attorney who works with these experts early can make a real difference in how the case develops."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad medical outcome the same as malpractice?",
+        "answer": "No. California law recognizes that not every poor result means a provider did something wrong. Malpractice requires showing the provider failed to meet the accepted standard of care and that this failure caused the harm — which is why an expert review matters."
+      },
+      {
+        "question": "What if my care happened at a facility outside Etna?",
+        "answer": "That's common for Etna residents, since specialized treatment often means traveling to a larger hospital elsewhere in or beyond Siskiyou County. An attorney can still evaluate the claim based on where the treatment occurred, not just where you live."
+      },
+      {
+        "question": "Is there a cap on what I can recover?",
+        "answer": "California law places a cap on non-economic damages (like pain and suffering) in medical malpractice cases, and that cap rises each year under current law. Economic damages, such as medical bills and lost income, are generally handled separately."
+      }
+    ]
+  }
+}

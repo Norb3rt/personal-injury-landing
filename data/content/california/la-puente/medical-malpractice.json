@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "la-puente medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Puente Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in La Puente? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in La Puente goes wrong, sorting out what happened medically and legally can feel overwhelming. LawProactive connects you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "La Puente Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases are different from most injury claims because California law adds extra layers most people never expect to navigate. If you or a family member were harmed by a misdiagnosis, a surgical mistake, or a medication error at a clinic or hospital serving the La Puente area, you're likely dealing with confusion on top of physical recovery. These cases require a qualified medical expert to establish that the care fell below an accepted standard — a bad result by itself isn't enough under California law. LawProactive doesn't practice law or charge any fee; we simply connect La Puente residents with an independent attorney who focuses on these claims and can explain your options, including strict notice and filing deadlines that apply before a lawsuit can even move forward. The attorneys in our network work on contingency, meaning there's no fee unless your case results in a recovery.",
+    "commonInjuriesTitle": "Common Malpractice Situations We See",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why California's Malpractice Rules Matter for Your Case",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally requires malpractice claims within one year of discovering the harm, and never more than three years from the injury itself. A 90-day pre-suit notice must also go out before a lawsuit is filed, so timing matters early."
+      },
+      {
+        "title": "Expert Testimony Is Usually Required",
+        "desc": "Because a poor medical outcome alone doesn't prove malpractice, California claims almost always need a qualified medical expert to show the care fell short of an accepted standard."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "State law places a statutory limit on non-economic damages like pain and suffering, and that cap increases annually — an independent attorney can walk you through how it may apply to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but never more than three years from the date it happened. There's also a required 90-day notice period before a lawsuit can be filed, so it's worth talking to an attorney soon rather than waiting."
+      },
+      {
+        "question": "Is a bad medical outcome the same as malpractice?",
+        "answer": "No. California law requires showing that a provider's care fell below an accepted medical standard, not just that the result was disappointing or unexpected. This is why a qualified medical expert almost always has to review the case."
+      },
+      {
+        "question": "Do La Puente residents need to travel far to get help with a malpractice claim?",
+        "answer": "Not necessarily. LawProactive connects you with an independent attorney who can typically review medical records and discuss your situation remotely or nearby, without you needing to search for representation on your own."
+      },
+      {
+        "question": "What does LawProactive charge for this service?",
+        "answer": "Nothing. We're a free connection service, not a law firm, and the independent attorneys in our network work on contingency — meaning they only get paid if your case results in a recovery."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "car-accident",
+    "note": "san-francisco car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Francisco Car Accident Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a San Francisco car crash? LawProactive connects you free with an independent attorney. Two-year deadline, contingency fees, no obligation."
+  },
+  "hero": {
+    "subtitle": "A collision on Mission Street, I-80, or US-101 can upend an ordinary San Francisco day in seconds. LawProactive connects you, at no cost, with an independent attorney who handles car accident claims in San Francisco County."
+  },
+  "about": {
+    "title": "San Francisco Car Accident Claims",
+    "longDescription": "Traffic in San Francisco moves in tight quarters. Buses, cyclists, and rideshare drivers share Mission Street, commuters stack up on I-80, and US-101 funnels vehicles through the city day and night. In 2025, San Francisco County recorded 3,471 injury collisions, with 4,390 people hurt and 33 lives lost. Public records show reports cluster on Friday evenings between 5 and 7 p.m., when the workweek lets out. If one of those collisions was yours, the days that follow can feel disorienting. Insurance adjusters call quickly. Medical bills arrive before you know how badly you are hurt. LawProactive exists to take one task off your plate: finding an independent personal injury attorney who handles San Francisco car accident claims. The service costs nothing, and attorneys in our network work on contingency, so you owe no fee unless there is a recovery. You describe what happened, and we make the connection. What you do next is entirely your decision.",
+    "commonInjuriesTitle": "Injuries Commonly Reported After San Francisco Car Crashes",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussion and other head trauma",
+      "Fractured wrists, arms, and collarbones",
+      "Herniated discs and lower back injuries",
+      "Knee and hip damage from dashboard impact",
+      "Bruising and lacerations from airbags or glass"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney."
+  },
+  "whyChoose": {
+    "title": "Why San Francisco Drivers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "The two-year clock is shorter than it sounds",
+        "desc": "California gives most car accident victims two years to file a lawsuit, but claims involving a government vehicle or agency can require notice in as little as six months. An early connection to an attorney helps you sort out which deadline applies before it slips by."
+      },
+      {
+        "title": "Shared blame does not shut the door",
+        "desc": "California uses pure comparative fault, meaning you can still recover damages even if you were partly responsible, reduced by your share. Attorneys in our network understand how to present the facts fairly rather than letting an adjuster assign blame for you."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Every attorney we connect you with works on contingency, and LawProactive itself is free. There is no cap on non-economic damages like pain and suffering in California car accident cases, so your claim is evaluated on its full merits."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by a Muni bus or a city vehicle in San Francisco. Is my deadline different?",
+        "answer": "Yes, it may be much shorter. Claims against a government entity in California often require a formal claim within six months of the crash, rather than the usual two years. San Francisco operates its own transit system and fleet vehicles, so this comes up more often here than in many cities. Speaking with an attorney soon after the collision helps you confirm the correct timeline."
+      },
+      {
+        "question": "The other driver's insurance company wants a recorded statement. Should I give one?",
+        "answer": "You are not required to give the other driver's insurer a recorded statement, and most attorneys advise against it. Adjusters are trained to ask questions that can later be used to reduce or deny your claim. You can politely decline and let an attorney handle communications on your behalf."
+      },
+      {
+        "question": "What should I save after a crash on Mission Street or US-101?",
+        "answer": "Keep every photo, dashcam clip, and witness contact you gathered at the scene, along with the police report number. Hold on to medical records, receipts, and any correspondence from insurers. Do not repair or dispose of your vehicle until it has been documented, since the damage itself is evidence of how the collision happened."
+      }
+    ]
+  }
+}

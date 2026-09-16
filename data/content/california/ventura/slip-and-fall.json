@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "ventura slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ventura Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Ventura? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A wet floor, a loose stair, a dim parking lot off Telephone Road. If a property owner in Ventura let a hazard sit and you paid for it with an injury, we can connect you with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "Ventura Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter at first. You catch yourself on a wet aisle in a Victoria Avenue store or miss a broken step outside an apartment near Telegraph Road, and your first thought is embarrassment, not evidence. Then the knee swells, the wrist will not bear weight, and the bills start arriving. In Ventura, a property owner is not automatically at fault just because you were hurt on their land. You generally have to show the owner knew about the hazard, or should have known through reasonable inspection, and did not fix it or warn you. That is where a premises liability attorney earns their keep: locating maintenance logs, requesting surveillance footage before it is overwritten, and finding the witnesses who saw the spill sitting there for an hour. LawProactive is not a law firm. We are a free service that connects Ventura County residents with an independent attorney who handles these claims on contingency, so nothing comes out of your pocket unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Ventura",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow and forearm fractures",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened. The connection is free, and the attorney only gets paid if you do."
+  },
+  "whyChoose": {
+    "title": "What a Ventura Premises Liability Attorney Brings to Your Claim",
+    "items": [
+      {
+        "title": "Proving the owner had notice",
+        "desc": "California law asks whether the owner knew or reasonably should have known about the hazard. An attorney knows how to pull inspection schedules, prior complaints and employee statements that answer that question."
+      },
+      {
+        "title": "Getting the video before it disappears",
+        "desc": "Most stores, lots and complexes along Harbor Boulevard and across Ventura record over their footage within days or weeks. A prompt preservation letter is often the difference between a documented hazard and an argument about memory."
+      },
+      {
+        "title": "Handling the comparative fault argument",
+        "desc": "Under California's pure comparative fault rule, an owner will often claim you were distracted or wearing the wrong shoes. Your share of fault reduces the recovery, it does not erase it, and an attorney pushes back on inflated percentages."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a City of Ventura sidewalk or at the pier. Is the deadline different?",
+        "answer": "Yes, and this catches a lot of people off guard. Claims against a public entity such as the City of Ventura or Ventura County generally require a written government claim first, typically within six months of the injury, before any lawsuit can be filed. That is far shorter than the two years you usually have against a private owner. Talking to an attorney early keeps that door open."
+      },
+      {
+        "question": "The store manager said I should have watched where I was going. Does that end my claim?",
+        "answer": "No. California uses pure comparative fault, which means a jury can assign a percentage of responsibility to each side. Even if you are found partly careless, you can still recover the portion attributed to the owner. What matters more is whether the store knew about the hazard, or should have, and left it there."
+      },
+      {
+        "question": "What should I do in the first few days after a fall in Ventura?",
+        "answer": "Get medical care first, even if the pain seems manageable, because falls often reveal fractures and soft tissue damage later. Photograph the spot, the lighting and anything that caused the fall, and write down names of anyone who saw it. Ask the property for an incident report, but avoid giving a recorded statement to their insurer until you have spoken with an attorney. Request that surveillance video be saved as soon as possible."
+      }
+    ]
+  }
+}

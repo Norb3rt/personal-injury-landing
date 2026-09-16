@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "south-san-francisco city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "South San Francisco, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in South San Francisco? Connect free with an independent San Mateo County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end crash on US-101 or a broken bone from a fall, we'll connect you free with an independent attorney serving San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in South San Francisco, California",
+    "longDescription": "South San Francisco sees real traffic pressure where US-101 meets local streets like Westborough Boulevard, Grand Avenue, and Route 82. Public records show 251 injury collisions in the most recent final year, with 342 people hurt and 2 lives lost. Crashes tend to cluster on Fridays between midnight and 2 a.m., a pattern that points to late-night commuting and nightlife traffic converging on these corridors. If you were hurt in one of these collisions, or in a workplace accident, dog bite, or slip-and-fall anywhere in the city, you may be weighing medical bills against uncertainty about what comes next. LawProactive is a free service — we are not a law firm and we don't provide legal advice. What we do is connect injured people with independent personal injury attorneys who work on contingency, meaning there's no fee unless they recover money for you. Our goal is simple: help you find someone who can evaluate your situation quickly, without added stress or upfront cost, so you can focus on healing while a professional looks at what happened.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord injuries",
+      "Soft tissue and joint damage",
+      "Cuts, bruises, and scarring"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Act Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window can shrink to as little as six months if a government entity is involved. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you're partly responsible for what happened, you can still recover compensation — just reduced by your share of fault. This means it's worth exploring your claim even if you're unsure how the accident happened."
+      },
+      {
+        "title": "No Cap on What You've Lost",
+        "desc": "California doesn't cap non-economic damages like pain and suffering in typical injury cases. That matters because your recovery isn't limited to just medical bills and lost wages."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you get paid. There's no retainer, no hourly fee, and no financial risk in finding out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know how I'll pay them",
+      "I'm missing work and worried about my paycheck",
+      "I'm not sure if I was partly at fault, so I don't know if I even have a claim",
+      "I don't know how much time I have left to do something about this"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "In most cases, you have two years from the date of the injury to file a lawsuit. If your claim involves a government agency, such as a city vehicle or public property, that window can be as short as six months, so it's important not to wait."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you were partially at fault. Your total recovery would simply be reduced by your percentage of responsibility."
+      },
+      {
+        "question": "Where do crashes tend to cluster in South San Francisco?",
+        "answer": "Public collision records point to higher volumes along US-101, Route 82, Westborough Boulevard, and Grand Avenue, with reported crashes tending to peak on Fridays between midnight and 2 a.m. These are neutral counts from public records, not a judgment about any particular road or area."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and independent attorneys in our network work on contingency, meaning they only collect a fee if you receive a settlement or award. There's no cost to find out where you stand."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "California does not impose a cap on non-economic damages, like pain and suffering, in most standard personal injury cases. This is different from some medical malpractice claims, which do have specific caps."
+      }
+    ]
+  }
+}

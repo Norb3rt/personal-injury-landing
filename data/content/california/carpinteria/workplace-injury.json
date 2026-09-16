@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "carpinteria workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Carpinteria Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Carpinteria? Get connected free to an independent attorney who can review your workers' comp or third-party claim."
+  },
+  "hero": {
+    "subtitle": "If you were hurt working in Carpinteria — on a farm along Via Real, at a Carpinteria Avenue business, or hauling near US-101 — we can connect you with an independent attorney to sort out your options at no cost."
+  },
+  "about": {
+    "title": "Carpinteria Workplace Injury Claims",
+    "longDescription": "Carpinteria's economy runs on agriculture, hospitality, and small commercial operations tucked between the freeway and the coast, and each of those settings carries its own injury risks — from equipment accidents in the fields off Via Real to slip-and-falls at shops along Carpinteria Avenue to delivery mishaps near US-101. When a work injury happens, California generally routes the claim through workers' compensation, which pays medical care and partial wages regardless of who caused the accident, but it typically blocks a lawsuit against your own employer. Where a third party contributed — a subcontractor, a property owner, a defective machine, or another driver on the road — a separate injury claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law; we simply connect injured workers in Carpinteria with an independent attorney who can look at the details of your accident, explain which path applies, and help you move forward without added stress. The consultation is free, and there's no obligation to proceed.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Back and spinal strains from lifting or repetitive motion",
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Machinery and equipment-related injuries",
+      "Vehicle collisions while driving for work near US-101",
+      "Cuts, crush injuries, and burns from tools or machinery",
+      "Heat-related illness from outdoor agricultural work"
+    ],
+    "ctaText": "Tell us what happened — get connected with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California treats workers' comp as the usual remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can still be held separately liable. An attorney can spot whether that applies to your Carpinteria accident."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "You generally have 30 days to report a workplace injury to your employer to preserve your comp benefits, and any related third-party claim carries its own 2-year deadline. Missing either window can limit your options."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "Your employer cannot legally punish you for reporting an injury or filing a workers' comp claim. An independent attorney can help you understand your protections if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work on a farm near Via Real — does workers' comp still cover me?",
+        "answer": "Most agricultural employees in California are covered by workers' compensation regardless of fault, so a farm injury near Via Real would typically fall under that system. If unsafe equipment, a contractor, or another company's negligence contributed to the accident, a separate third-party claim might also be worth exploring. An independent attorney can review the specifics for free."
+      },
+      {
+        "question": "Can I sue my employer directly if I got hurt at work in Carpinteria?",
+        "answer": "Generally no — California law makes workers' comp the exclusive remedy against your employer regardless of who was at fault. However, if someone outside your employer's business, like a property owner or equipment manufacturer, contributed to the accident, that may open a separate claim. An attorney can help determine whether that applies to your situation."
+      },
+      {
+        "question": "What if my injury happened while driving for work near US-101?",
+        "answer": "Injuries during work-related driving are usually covered by workers' comp, but if another driver caused the crash, you may also have a third-party claim against them. That claim generally must be filed within two years. Getting a free case review can clarify which paths are open to you."
+      }
+    ]
+  }
+}

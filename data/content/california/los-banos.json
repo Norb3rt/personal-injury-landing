@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "los-banos city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Banos, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Los Banos or Merced County? Connect free with an independent CA attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car wreck on Pacheco Boulevard or suffered a slip-and-fall injury elsewhere in town, we can connect you free of charge with an independent attorney serving Merced County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Los Banos, California",
+    "longDescription": "Los Banos sits at a crossroads of local and regional traffic, with Rt 152, E Pacheco Boulevard, W Pacheco Boulevard, and Rt 165 carrying much of the town's daily driving load. Public records show 4 injury collisions in the most recent final crash year, with 5 people hurt and no traffic deaths reported — numbers that remind us these roads matter to everyday life here, not just commuters passing through. If you or someone you love was hurt in a crash, a fall, or another accident around Los Banos, you don't have to sort through medical bills, insurance calls, and paperwork by yourself. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we never charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless there's a recovery. Getting information early can matter, since California law gives you a limited window to act. Reaching out costs nothing and puts you in touch with someone who can look at what happened and explain your options plainly.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to Someone Now",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. That window can shrink to as little as six months if a government entity was involved, so acting sooner rather than later helps preserve your options."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Claim",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you may still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on What You've Suffered",
+        "desc": "For an ordinary injury case, California does not cap the non-economic damages you can seek, such as compensation for pain and suffering."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, which means they only get paid if you recover money. That structure lets you get legal help without paying out of pocket first."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling unsure whether you were partly to blame and if that ruins your claim",
+      "Fear of missing a legal deadline you didn't even know existed"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Los Banos?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If a government agency or vehicle was involved, that deadline can be as short as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so being partially responsible doesn't automatically bar you from recovering compensation. Your total recovery would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Los Banos?",
+        "answer": "Public crash records show higher collision counts along Rt 152, E Pacheco Boulevard, W Pacheco Boulevard, and Rt 165, with reports tending to peak on Fridays between 5 and 7 p.m. These are simply neutral, publicly reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people with an independent attorney who can evaluate their situation."
+      },
+      {
+        "question": "Will I have to pay legal fees out of pocket?",
+        "answer": "Attorneys in our network work on contingency, meaning they only collect a fee if you receive a settlement or award. There's no upfront cost to speaking with someone about your case."
+      }
+    ]
+  }
+}

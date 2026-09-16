@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "placerville city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Placerville, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in El Dorado County? Connect free with an independent Placerville injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Route 50 or injured in a fall, we'll connect you free of charge with an independent attorney serving El Dorado County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Placerville, California",
+    "longDescription": "Placerville may be a small Gold Country city of roughly 10,650 people, but its roads carry a steady stream of traffic, and collisions happen. Public records show 31 injury collisions in the most recent final year, with 51 people hurt and 1 traffic death. Corridors like Rt 50, US-50, Placerville Drive, and Broadway Drive account for a large share of reported crashes, and reports tend to cluster on Thursday afternoons between 3 and 5 p.m. If you were hurt in one of these collisions, you may be dealing with medical bills, missed work, and uncertainty about what comes next. LawProactive is a free service — not a law firm — that connects injured people in Placerville with an independent personal injury attorney who can review the details of what happened. There's no cost to get connected, and any attorney you're matched with works on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and can help you understand your options before time limits under California law start working against you.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and road rash",
+      "Soft tissue and joint damage"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Placerville Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Time Limits Matter",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can require notice in as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and loss of enjoyment of life, so your losses beyond medical bills can still count."
+      },
+      {
+        "title": "No Fee Unless You Win",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no upfront cost to find out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Fear that admitting any fault will end their claim",
+      "Uncertainty about how much time they have left to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Placerville?",
+        "answer": "California generally allows two years from the date of injury to file a lawsuit for most personal injury claims. If a government agency, like a city or county entity, was involved, the notice period can be as short as six months. It's wise to act sooner rather than later so evidence and deadlines don't work against you."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partially responsible doesn't bar you from recovering compensation. Your recovery is simply reduced by your percentage of fault. An attorney can help sort out how fault might be allocated in your specific situation."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Placerville?",
+        "answer": "Public crash records show that Rt 50, US-50, Placerville Drive, and Broadway Drive account for a notable share of reported injury collisions, with activity peaking on Thursdays between 3 and 5 p.m. These are simply where collision counts are highest on record, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "No. In standard personal injury cases in California, there is no cap on non-economic damages such as pain, suffering, and emotional distress. Compensation depends on the facts of your case rather than a fixed limit."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we are not a law firm ourselves. Attorneys in our network work on contingency, so they only get paid if you receive a settlement or award."
+      }
+    ]
+  }
+}

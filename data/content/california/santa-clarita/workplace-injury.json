@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "santa-clarita workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Lawyer in Santa Clarita, CA | LawProactive",
+    "metaDescription": "Hurt on the job in Santa Clarita? Learn how workers' comp and third-party claims differ, and get connected free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Santa Clarita? Workers' comp may not be your only option, and a free conversation with an independent attorney can help you see the full picture."
+  },
+  "about": {
+    "title": "Santa Clarita Workplace Injury Claims",
+    "longDescription": "Work in Santa Clarita takes many shapes: warehouse shifts off Sierra Highway, retail floors along Mcbean Parkway, construction crews building out the valley's newer neighborhoods, and delivery routes that run Soledad Canyon Road and Bouquet Canyon Road all day. When one of those jobs ends in an injury, most people assume workers' compensation is the whole story. Often it is, since California makes comp the exclusive remedy against your employer no matter who was at fault. But there is a second question worth asking: did someone other than your employer contribute? A subcontractor on a shared site, the owner of the property, the maker of a machine that failed, or another driver who hit you while you were on the clock can each be responsible for a separate claim with its own recovery. Santa Clarita logged 706 injury collisions in 2025, peaking on Fridays between 3 and 5 p.m., and some of those drivers were on the clock. LawProactive connects you, free, with an independent attorney who can sort out which paths apply.",
+    "commonInjuriesTitle": "Injuries We Commonly See From Santa Clarita Workplaces",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Crush and pinch injuries from machinery or equipment",
+      "Fractures from on-the-job vehicle collisions",
+      "Burns and chemical exposure",
+      "Head injuries from struck-by or falling objects"
+    ],
+    "ctaText": "Tell us what happened at work and we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Santa Clarita Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look past the comp claim",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but California still lets you pursue a negligent third party separately. The attorneys we connect you with know how to spot that second path."
+      },
+      {
+        "title": "Deadlines handled from day one",
+        "desc": "You have 30 days to report an injury to your employer and two years to file a third-party claim. Getting connected early keeps both clocks from running out on you."
+      },
+      {
+        "title": "No fee unless there's a recovery",
+        "desc": "Our connection service is free, and the independent attorneys in our network work on contingency. Retaliating against you for reporting a workplace injury is illegal, and a lawyer can help protect that right too."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver on Soledad Canyon Road while making deliveries for my employer. Is that just a workers' comp case?",
+        "answer": "Not necessarily. Because you were on the job, workers' compensation should cover your medical care and part of your lost wages regardless of fault. Since the other driver is a third party rather than your employer, though, California also allows a separate injury claim against that driver, which can address losses comp doesn't reach. An independent attorney can evaluate both together."
+      },
+      {
+        "question": "How quickly do I need to tell my employer about an injury?",
+        "answer": "California asks you to report a workplace injury to your employer within 30 days. Doing it in writing and keeping a copy is a simple way to protect yourself. If you're worried about pushback, know that retaliation for reporting an injury is illegal."
+      },
+      {
+        "question": "Can I sue my employer directly if their negligence caused my injury?",
+        "answer": "In most situations, no. Workers' compensation is the exclusive remedy against an employer in California, even when the employer was clearly at fault. The exceptions are narrow, which is why attorneys focus on whether a subcontractor, property owner, equipment manufacturer, or other outside party shares responsibility. Those third-party claims carry a two-year filing deadline."
+      }
+    ]
+  }
+}

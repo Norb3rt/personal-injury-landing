@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "laguna-woods workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Laguna Woods Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Laguna Woods? Get connected free with an independent CA attorney who understands workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Laguna Woods, LawProactive can connect you at no cost with an independent attorney who can sort out what benefits and claims may apply to your situation.  We'll help you figure out the right path forward without any pressure."
+  },
+  "about": {
+    "title": "Laguna Woods Workplace Injury Claims",
+    "longDescription": "Laguna Woods is a smaller community within Orange County, but that doesn't mean workplace injuries are rare here—maintenance crews, healthcare aides, retail staff, and contractors working around the area's residential communities and along corridors like El Toro Road and Moulton Parkway all face on-the-job risks. When an injury happens at work, California generally routes the claim through workers' compensation rather than a lawsuit against the employer. But that's not always the end of the story. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to what happened, a separate claim against that third party may be possible alongside any workers' comp benefits. Sorting out which path—or paths—apply to your situation isn't something you should have to figure out alone. LawProactive connects injured workers in Laguna Woods with an independent attorney, free of charge, so you can get clear answers about your options before deadlines pass.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders or scaffolding",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from malfunctioning equipment or tools",
+      "Vehicle-related injuries during work duties",
+      "Slip-and-fall injuries on job sites or client properties",
+      "Injuries from falling objects or improper storage"
+    ],
+    "ctaText": "Get connected with an independent attorney today—there's no cost to find out where you stand."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Full Picture",
+        "desc": "California law usually makes workers' compensation the exclusive remedy against your employer, but a negligent third party—like a subcontractor or equipment maker—can still be held responsible separately. An attorney can help identify if that applies to you."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and missing that window can complicate your claim. An independent attorney can help make sure the paperwork and timing are handled correctly."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "Your employer cannot legally punish you for reporting an injury or filing a workers' comp claim. If you're worried about your job security, an attorney can explain your protections under California law."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work near El Toro Road and Moulton Parkway—does that affect my claim?",
+        "answer": "Not directly, but if your injury involved a vehicle collision while on the job, public crash-record patterns for corridors like these could be relevant to a third-party claim. An attorney can review whether another driver or party bears responsibility outside of workers' comp."
+      },
+      {
+        "question": "Can I sue my employer directly for my injury?",
+        "answer": "In most cases, California workers' compensation is the exclusive remedy against your employer, meaning a direct lawsuit typically isn't available. However, if a third party—like a contractor or equipment manufacturer—contributed to your injury, a separate claim against them may still be possible."
+      },
+      {
+        "question": "What if my employer retaliates after I report my injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law. If you experience demotion, reduced hours, or termination after reporting, an independent attorney can help you understand your options and protect your rights."
+      }
+    ]
+  }
+}

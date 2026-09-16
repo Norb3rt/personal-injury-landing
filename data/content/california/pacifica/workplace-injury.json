@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "pacifica workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pacifica Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Pacifica? Free connection to an independent attorney who reviews work comp and third-party claim options. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you were injured working near Rt 1, Sharp Park Road, or anywhere in Pacifica, LawProactive can connect you with an independent attorney who understands both workers' comp and possible third-party claims.  There's no cost to find out where you stand."
+  },
+  "about": {
+    "title": "Pacifica Workplace Injury Claims",
+    "longDescription": "Pacifica's economy runs on a mix of trades, retail, hospitality, and construction work scattered along corridors like Cabrillo Highway and Sharp Park Road, and injuries on the job happen more often than people expect — from falls on wet coastal walkways to equipment accidents on a job site. Most of the time, California workers' compensation is the only path against an employer, no matter who was at fault. But when a subcontractor, property owner, equipment manufacturer, or another driver contributed to the accident, a separate injury claim outside the workers' comp system may be possible. LawProactive doesn't practice law — we're a free service that connects injured Pacifica workers with an independent attorney who can look at both angles of a claim, explain deadlines, and help figure out whether more than one avenue for recovery applies to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or wet surfaces",
+      "Repetitive strain and overexertion injuries",
+      "Equipment or machinery-related injuries",
+      "Vehicle collisions during work-related driving",
+      "Struck-by or falling-object injuries on job sites",
+      "Burns or chemical exposure incidents"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Pacifica Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help You See the Whole Picture",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party — like a subcontractor or equipment maker — can open the door to an additional claim. We connect you with an attorney who checks for both."
+      },
+      {
+        "title": "We Understand the Reporting Clock",
+        "desc": "California requires reporting a workplace injury to your employer within 30 days, and missing that window can complicate a claim. An independent attorney can help you understand what's already been reported and what still needs to happen."
+      },
+      {
+        "title": "We Take Retaliation Seriously",
+        "desc": "It's illegal for an employer to punish you for reporting an injury or filing a claim. If you're worried about retaliation, the attorney we connect you with can address that concern alongside your injury claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near Sharp Park Road — does workers' comp cover that?",
+        "answer": "Likely yes, since Pacifica sees a notable share of injury collisions along corridors like Rt 1 and Sharp Park Road, and a work-related driving injury usually falls under workers' comp. But if another driver caused the crash, you may also have a separate third-party claim against them. An independent attorney can sort out which applies to your situation."
+      },
+      {
+        "question": "Can I still file a claim if my employer says the accident was my fault?",
+        "answer": "California workers' compensation generally doesn't depend on fault, so an employer's opinion about blame usually doesn't block your claim. There are exceptions and nuances worth reviewing with an attorney. LawProactive can connect you with someone who can look at the specifics for free."
+      },
+      {
+        "question": "What if I haven't reported my injury to my employer yet?",
+        "answer": "California generally expects an injury to be reported to your employer within 30 days, so it's worth doing that as soon as you're able. If any time has already passed, an attorney can help you understand your options and next steps. Reporting doesn't waive any third-party claim you might separately have."
+      }
+    ]
+  }
+}

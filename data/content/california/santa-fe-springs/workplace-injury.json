@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "santa-fe-springs workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Fe Springs Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Santa Fe Springs? Get connected free to an independent attorney for workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Santa Fe Springs' warehouses, distribution centers, and industrial yards keep the city running, but that work carries real risk. If you were hurt on the job here, we can connect you with an independent attorney at no cost to sort out workers' comp and any other options."
+  },
+  "about": {
+    "title": "Santa Fe Springs Workplace Injury Claims",
+    "longDescription": "Santa Fe Springs sits at the center of a heavily industrial stretch of Los Angeles County, home to warehouses, freight yards, and manufacturing plants near corridors like Telegraph Road and Carmenita Road. Workers here face forklift accidents, loading dock injuries, machinery mishaps, and repetitive strain from long shifts. California generally requires injured employees to go through workers' compensation rather than sue their employer directly, but that's not the whole story. If a subcontractor, equipment manufacturer, property owner, or another company's driver contributed to your injury, you may have a separate claim against that third party. LawProactive doesn't practice law ourselves; we're a free service that connects you with an independent attorney who can look at your specific situation, explain your options honestly, and help you understand whether a third-party claim applies alongside your workers' comp benefits. There's no cost to get connected and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Forklift and warehouse equipment accidents",
+      "Falls from loading docks or ladders",
+      "Repetitive strain and overexertion injuries",
+      "Machinery entanglement or crush injuries",
+      "Chemical exposure or respiratory irritation",
+      "Injuries from being struck by moving vehicles on-site"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury, free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Santa Fe Springs Work Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the End of the Story",
+        "desc": "California law usually treats workers' comp as your exclusive remedy against your employer, but a negligent third party — like a subcontractor, equipment maker, or another driver — can still be held separately liable."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally need to report a workplace injury to your employer within 30 days to protect your workers' comp rights, and missing that window can complicate your claim."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "California law prohibits employers from retaliating against workers for reporting an injury or filing a claim, and an attorney can help you understand those protections if you're concerned about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a Santa Fe Springs warehouse near Norwalk Boulevard. Is that just a workers' comp case?",
+        "answer": "It might involve both. Workers' comp usually covers your medical bills and lost wages regardless of fault, but if equipment failure, a subcontractor, or another company's negligence contributed to the injury, a separate third-party claim could also be possible. An attorney can look at the details and let you know."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer?",
+        "answer": "California generally requires you to notify your employer within 30 days of a workplace injury to preserve your workers' comp rights. Waiting too long can make it harder to get benefits, so it's worth reporting as soon as you're able."
+      },
+      {
+        "question": "Can my employer fire me for filing a workers' comp claim?",
+        "answer": "No, California law makes it illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. If you're worried about your job situation, an independent attorney can walk you through your protections."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "hawthorne workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hawthorne Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Hawthorne, CA? Learn how workers' comp and third-party claims differ, then get connected free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Hawthorne? Workers' compensation may not be your only option, and a free connection to an independent attorney can help you find out."
+  },
+  "about": {
+    "title": "Hawthorne Workplace Injury Claims",
+    "longDescription": "Getting hurt at work in Hawthorne can leave you with more questions than answers. Which system pays your medical bills? Can you do anything beyond filing a workers' compensation claim? The short answer under California law: workers' comp is normally your only route against your own employer, and it applies no matter who was at fault. But it is not always the end of the story. If someone outside your company contributed to the injury — a subcontractor on a shared job site near 120th Street, the owner of a building where you were making a delivery, the manufacturer of a machine that failed, or another driver who hit your work vehicle on Prairie Avenue — you may have a separate third-party claim with its own two-year deadline. That distinction matters in a city like this one. Hawthorne logged 328 injury collisions in 2025, with 416 people hurt, and some of those involved workers who were on the clock. LawProactive is a free service, not a law firm; we connect you with an independent attorney who can sort out which paths apply to you.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Hawthorne Workplace Claims",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, or loading docks",
+      "Back, neck, and shoulder injuries from lifting",
+      "Crush and amputation injuries from machinery",
+      "Collisions while driving for work",
+      "Repetitive strain and overuse injuries",
+      "Burns, electrical shock, and chemical exposure"
+    ],
+    "ctaText": "Ask a free question about your Hawthorne work injury"
+  },
+  "whyChoose": {
+    "title": "Why Hawthorne Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We look past workers' comp",
+        "desc": "California generally limits you to workers' compensation against your employer, but a negligent subcontractor, property owner, equipment maker, or driver can be held separately responsible. The attorney you're connected with can check whether a third-party claim exists."
+      },
+      {
+        "title": "Deadlines are taken seriously",
+        "desc": "You have 30 days to report an injury to your employer, and third-party injury claims carry a two-year filing deadline in California. Getting connected early keeps both clocks from becoming a problem."
+      },
+      {
+        "title": "Free to use, no fee unless you recover",
+        "desc": "LawProactive costs nothing, and attorneys in our network work on contingency. Retaliation for reporting a work injury is illegal, so you should not have to choose between your job and your rights."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I deliver for a Hawthorne business and was hit by another driver on Rosecrans Avenue. Is that only a workers' comp case?",
+        "answer": "Not necessarily. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of fault. Since the other driver is a third party rather than your employer, though, you may also have a separate injury claim against that driver. Crashes in Hawthorne cluster on Friday afternoons between 3 and 5 p.m., a window when many delivery routes are still running, so this situation comes up more than people expect."
+      },
+      {
+        "question": "What happens if I didn't tell my employer right away?",
+        "answer": "California asks you to report a workplace injury to your employer within 30 days. Reporting late can complicate a workers' comp claim, so it's worth doing as soon as you can, in writing if possible. Your employer cannot legally fire or punish you for reporting, and an attorney can explain your options if that has happened."
+      },
+      {
+        "question": "Can I sue my employer instead of going through workers' comp?",
+        "answer": "In most cases, no. Workers' compensation is the exclusive remedy against an employer in California, even when the employer was careless. The exceptions involve outside parties — a property owner, an equipment manufacturer, a subcontractor on the same site, or another motorist — who may be pursued through a separate claim with a two-year deadline. Which path fits your situation is exactly what an independent attorney can help you sort out."
+      }
+    ]
+  }
+}

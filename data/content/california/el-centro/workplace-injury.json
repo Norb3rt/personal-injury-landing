@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "el-centro workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Centro Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in El Centro? Get connected free with an independent attorney who understands work injury and third-party claims in Imperial County."
+  },
+  "hero": {
+    "subtitle": "When a job site injury sidelines you in El Centro, the paperwork and rules can feel like a second full-time job. LawProactive connects you, at no cost, with an independent attorney familiar with Imperial County workplace claims."
+  },
+  "about": {
+    "title": "El Centro Workplace Injury Claims",
+    "longDescription": "El Centro's economy runs on agriculture, distribution, and cross-border trade, and those jobs come with real physical risk—falls off equipment, forklift accidents, chemical exposure in packing houses, and vehicle collisions on routes like Imperial and 4th Street while making deliveries. Most of the time, workers' compensation is the only path against an employer, no matter who was at fault. But when a subcontractor, equipment manufacturer, property owner, or another driver contributed to the accident, a separate claim against that third party may be possible alongside your workers' comp benefits. Sorting out which path applies—and whether both apply—takes someone who understands how these overlapping systems work. LawProactive doesn't practice law or charge for its service; we simply connect injured workers with an independent attorney who can walk through the details of an El Centro workplace injury and explain what options may exist, without pressure or upfront cost.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Chemical or pesticide exposure incidents",
+      "Vehicle collisions during work-related driving",
+      "Machinery entanglement or crush injuries"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury—free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why El Centro Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Exclusive Remedy Rule",
+        "desc": "California generally limits injured workers to workers' compensation against their employer, but that rule doesn't shield outside parties. An attorney can help identify whether a subcontractor, property owner, or equipment maker shares responsibility."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Reporting an injury to your employer within 30 days is required, and California law prohibits punishing workers for doing so. If you're worried about your job after speaking up, an independent attorney can explain your protections."
+      },
+      {
+        "title": "Two-Year Window for Third-Party Claims",
+        "desc": "Separate from workers' comp deadlines, a third-party injury claim in California generally must be filed within two years. Missing that window can close off compensation a workers' comp claim alone might not cover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I already filed a workers' comp claim in El Centro—can I still talk to a personal injury attorney?",
+        "answer": "Yes, workers' compensation and a third-party injury claim aren't mutually exclusive if someone other than your employer contributed to the accident. For example, if a delivery collision near Main Street involved another driver's negligence, that could support a separate claim. An independent attorney can review your situation and explain whether both paths apply."
+      },
+      {
+        "question": "What if my employer discourages me from reporting the injury?",
+        "answer": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury within the required 30-day window. If you're facing pushback, documenting what happened and speaking with an independent attorney early can help protect your position."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, LawProactive is a free service, and the independent attorneys in our network generally work on contingency, meaning there's no fee unless you recover compensation. We don't practice law ourselves; we simply help make the connection."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "anaheim medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Anaheim Medical Malpractice Lawyer | LawProactive",
+    "metaDescription": "Hurt by a medical error in Anaheim? LawProactive connects Orange County patients with an independent malpractice attorney at no cost. Contingency fees."
+  },
+  "hero": {
+    "subtitle": "A surgery, diagnosis, or prescription in Anaheim went wrong, and now you are living with the result. We connect you, free, with an independent attorney who handles California medical malpractice claims under MICRA."
+  },
+  "about": {
+    "title": "Anaheim Medical Malpractice Claims",
+    "longDescription": "Anaheim is a city that runs at scale. Roughly 350,000 residents share its hospitals, urgent care clinics, surgical centers, and pharmacies with the visitors who arrive every day, and the sheer volume of care delivered here is enormous. Most of it is competent. Some of it is not, and when a provider falls below the accepted standard of care, the patient is the one who carries the consequences. Medical malpractice claims in California are unlike other injury cases. The Medical Injury Compensation Reform Act, known as MICRA, shapes nearly every step: a filing window that generally closes one year after you discover the harm and never later than three years after the injury itself, a required 90-day notice before a lawsuit is filed, and a cap on non-economic damages that rises each year. You will almost always need a qualified medical expert to explain what should have happened instead. LawProactive is not a law firm and does not handle your case. We connect you, free of charge, with an independent Orange County attorney who takes these matters on contingency, so nothing is owed unless there is a recovery.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries in Anaheim",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or heart attack",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and pharmacy dosing mistakes",
+      "Anesthesia complications",
+      "Birth injuries to mother or child",
+      "Infections or pressure sores from inadequate hospital care"
+    ],
+    "ctaText": "Talk through what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Anaheim Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are short and layered",
+        "desc": "California generally gives you one year from the date you discovered the harm, and in no case more than three years from the injury. An attorney can pin down which date applies to you before either one passes."
+      },
+      {
+        "title": "The 90-day notice is a real requirement",
+        "desc": "Before a malpractice suit can be filed in California, the provider must receive formal notice at least 90 days in advance. Getting that step right early keeps your claim on schedule."
+      },
+      {
+        "title": "Expert review comes first",
+        "desc": "A poor outcome is not the same as negligence, and California courts nearly always require a qualified medical expert to say where the standard of care was breached. The attorneys we connect you with know how to arrange that review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My surgery in Anaheim did not turn out the way I was told it would. Is that malpractice?",
+        "answer": "Not necessarily. California law draws a line between a bad result and a breach of the standard of care, and only the second one supports a claim. An independent attorney will typically have your records reviewed by a qualified physician in the same specialty to determine whether a competent provider would have acted differently. That review is what separates a disappointing outcome from an actionable case."
+      },
+      {
+        "question": "I was hurt in a crash on Ball Road and the emergency room missed a fracture. Can I bring both claims?",
+        "answer": "It is possible, but they are separate claims with separate rules. The crash itself falls under ordinary personal injury law, while the missed fracture falls under MICRA with its own deadlines, notice requirement, and damages cap. Anaheim recorded 3,162 people injured in collisions in 2025, so emergency departments here see heavy traffic, and an attorney can evaluate whether the follow-up care met the standard expected of that setting."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages such as pain and suffering in medical malpractice cases, and that cap increases every year under current law. Economic losses like medical bills and lost income are not subject to that cap. Because the numbers change annually, the attorney you are connected with can tell you the figure that applies to when your claim is resolved."
+      }
+    ]
+  }
+}

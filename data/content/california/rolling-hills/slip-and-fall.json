@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "rolling-hills slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rolling Hills Slip & Fall Claims | LawProactive",
+    "metaDescription": "Hurt on someone else's property in Rolling Hills? Get connected free to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall on a poorly maintained walkway, gated driveway, or private trail in Rolling Hills can leave you with real injuries and real bills. LawProactive connects you, at no cost, with an independent attorney who handles premises liability claims in Los Angeles County."
+  },
+  "about": {
+    "title": "Rolling Hills Premises Liability Claims",
+    "longDescription": "Rolling Hills is a small, quiet community of gated equestrian estates, private roads, and winding residential streets, but that doesn't mean property owners get a pass when hazards go unaddressed. Falls here often happen on private driveways, common areas maintained by homeowners' associations, or business properties along corridors like Crenshaw Boulevard and Crest Road West. Because much of the city consists of private roads and gated lots, figuring out who is responsible for a hazard can take extra digging. California law requires the injured person to show the property owner or manager knew, or reasonably should have known, about the dangerous condition and failed to fix it or warn visitors. That's why acting quickly to document the scene and preserve any available surveillance footage matters. LawProactive doesn't practice law itself; we simply connect you with an independent attorney who can evaluate your situation and explain your options, free of charge and with no obligation.",
+    "commonInjuriesTitle": "Common Injuries From Slip & Fall Accidents",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and forearm fractures",
+      "Traumatic brain injuries from head impact",
+      "Torn ligaments and knee injuries",
+      "Spinal disc injuries and herniation",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Premises Liability Case",
+    "items": [
+      {
+        "title": "Proving Notice Takes Evidence",
+        "desc": "California requires showing the property owner knew or should have known about the hazard. An attorney can help gather maintenance records, prior complaints, and photos to build that case."
+      },
+      {
+        "title": "Surveillance Footage Disappears Fast",
+        "desc": "Many properties overwrite security video within days or weeks. Acting quickly to request preservation of footage can make a real difference in a premises liability claim."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Eliminate, Recovery",
+        "desc": "California uses pure comparative fault, so even if you were partly responsible for a fall, you may still recover a reduced amount. An attorney can help assess how fault might be allocated in your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Rolling Hills?",
+        "answer": "California generally allows two years from the date of injury to file a premises liability lawsuit. If a government entity owns or maintains the property, such as a public road easement, the deadline is much shorter and involves an early claims process. It's best to speak with an attorney soon after the incident to avoid missing any deadline."
+      },
+      {
+        "question": "Many properties in Rolling Hills are private or gated. Does that change my claim?",
+        "answer": "Not necessarily. Private ownership doesn't remove a property owner's duty to keep the premises reasonably safe for visitors, guests, or invited service providers. An attorney can help identify who is legally responsible, whether that's an individual homeowner, an HOA, or a business tenant."
+      },
+      {
+        "question": "What should I do right after a fall on someone else's property?",
+        "answer": "If possible, photograph the hazard, note the time and location, and ask whether security cameras cover the area. Report the fall to the property owner or manager and seek medical attention even if injuries seem minor at first. Written documentation and prompt medical records often become important evidence later."
+      }
+    ]
+  }
+}

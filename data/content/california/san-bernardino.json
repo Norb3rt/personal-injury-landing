@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "san-bernardino city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Bernardino, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in San Bernardino County? Connect free with an independent injury attorney. 2 years to file in California, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on I-215, knocked off a bike on E Highland Avenue, or hurt in a fall at a local business, LawProactive connects you at no cost with an independent injury attorney serving San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Bernardino, California",
+    "longDescription": "San Bernardino sits where I-215 and SR-210 meet, and much of daily life here moves along those two highways plus surface streets like E Highland Avenue and W Baseline Street. In 2025, the most recent final reporting year, the city recorded 1,380 injury collisions. Those crashes left 2,068 people hurt, and 32 lives were lost. The counts are public record, and they describe a city of 216,108 residents where getting injured in traffic is not unusual. Reported collisions tend to peak on Fridays between 5 p.m. and 7 p.m., as the workweek winds down and commuters head home. If you were hurt in one of those crashes, or on a wet floor in a store, or by a dog in your own neighborhood, you likely have questions about medical bills, missed paychecks, and what comes next. LawProactive is a free service, not a law firm. We connect you with an independent personal injury attorney who handles cases in San Bernardino County. That attorney works on contingency, meaning there is no fee unless there is a recovery. California gives most injured people two years to file a claim, but a claim against a city or county agency can carry a deadline as short as six months, so talking with someone early matters. We simply make that first connection and step aside.",
+    "commonInjuriesTitle": "Injuries We Commonly See in San Bernardino",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end crashes",
+      "Broken arms, wrists, and collarbones",
+      "Concussions and other head injuries",
+      "Back injuries, including herniated discs",
+      "Road rash and fractures from motorcycle and bicycle crashes",
+      "Knee, hip, and ankle injuries from slips and falls"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your San Bernardino Claim",
+    "items": [
+      {
+        "title": "Two Years to Act, Sometimes Far Less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a government entity is involved, such as a city vehicle or a public sidewalk, the window can shrink to six months, so timing is not something to leave for later."
+      },
+      {
+        "title": "Being Partly at Fault Does Not End Your Case",
+        "desc": "California follows pure comparative fault. If you share some blame for a crash on W Baseline Street, your recovery is reduced by your percentage of fault rather than wiped out."
+      },
+      {
+        "title": "Pain and Suffering Is Not Capped",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, lost enjoyment of life, and emotional distress. Your claim can reflect the full effect an injury has had on you."
+      },
+      {
+        "title": "No Fee Unless There Is a Recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. You do not pay hourly fees or a retainer, and the attorney is paid only if your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The hospital bills are arriving and I still cannot go back to work.",
+      "The other driver's insurer keeps calling and I am not sure what to say.",
+      "I might have been partly at fault, so I am afraid I have no case.",
+      "I cannot afford to pay a lawyer up front."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes tend to happen in San Bernardino?",
+        "answer": "Public collision records show that SR-210, I-215, E Highland Avenue, and W Baseline Street carry the highest counts of reported crashes in the city. These are also among the busiest routes for daily traffic. Records also show reported crashes tend to peak on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of the injury. If your claim involves a government entity, such as a public bus or a hazard on city property, you may have only six months to file a formal claim. An attorney can confirm which deadline applies to your situation."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people in San Bernardino County with an independent personal injury attorney. We do not give legal advice or handle your case ourselves. The attorney you are connected with is the one who represents you."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses a pure comparative fault system. Being partly responsible reduces your recovery by your share of fault, but it does not bar you from recovering. Even someone found mostly at fault can still recover the remaining portion."
+      },
+      {
+        "question": "What will it cost me to talk with an attorney?",
+        "answer": "Connecting through LawProactive is free, and the attorneys in our network work on contingency. That means no hourly charges and no fee unless there is a recovery in your case. You can ask questions and understand your options before deciding anything."
+      }
+    ]
+  }
+}

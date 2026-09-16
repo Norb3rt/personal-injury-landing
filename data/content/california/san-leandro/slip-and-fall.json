@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "san-leandro slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Leandro Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in San Leandro? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Hurt in a fall at a San Leandro store, apartment complex, or parking lot? LawProactive connects you, at no cost, with an independent premises liability attorney who handles Alameda County claims."
+  },
+  "about": {
+    "title": "San Leandro Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You're on the ground outside a shop on E 14th Street, or in a parking lot off Washington Avenue, and your first thought is embarrassment, not evidence. Yet in California, whether you can recover for that injury usually comes down to what the property owner knew. The law asks whether they were on notice of the hazard — a wet floor, a broken step, a dim stairwell — and whether they had a fair chance to repair it or warn you. That is a fact question, and facts fade fast in San Leandro's busy retail and industrial corridors. Spills get mopped. Surveillance loops record over themselves in days. Witnesses head back to their commute along I-880. LawProactive is a free service, not a law firm. We connect people hurt on someone else's property in Alameda County with an independent premises liability attorney who works on contingency, so you pay nothing unless there is a recovery. Two years is the general filing window; it shrinks when a public agency owns the property.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in San Leandro",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and elbow breaks from catching a fall",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back strain",
+      "Torn knee ligaments and meniscus damage",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney — free."
+  },
+  "whyChoose": {
+    "title": "Why San Leandro Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice Is the Whole Case",
+        "desc": "California requires proof the owner knew or should have known about the hazard and did nothing. An attorney in our network can pursue inspection logs, prior complaints, and maintenance records that show how long the problem sat there."
+      },
+      {
+        "title": "Video Disappears Fast",
+        "desc": "Most San Leandro businesses overwrite security footage within days or weeks. Getting connected quickly means a preservation letter can go out before the recording of your fall is gone."
+      },
+      {
+        "title": "Fault Isn't All-or-Nothing",
+        "desc": "Under pure comparative fault, being partly to blame reduces your recovery rather than erasing it. Your attorney can push back when an insurer tries to pin the whole fall on you for not watching your step."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a public sidewalk in San Leandro. Is my deadline still two years?",
+        "answer": "Probably not. When the property belongs to a city, county, BART, or another public entity, California requires a formal government claim first, and that window is far shorter than the two years that applies to private owners. Because the clock moves quickly, it helps to figure out who actually owns the spot where you fell as soon as possible. An attorney can research ownership and file the claim on the correct timeline."
+      },
+      {
+        "question": "The store manager wrote up an incident report. Do I still need anything else?",
+        "answer": "Yes. The store's report belongs to the store and tends to reflect its point of view, so keep your own record. Photograph the hazard, your shoes, and the surrounding area, get names of anyone who saw you fall, and see a doctor the same day if you can. Ask in writing that any surveillance video be preserved."
+      },
+      {
+        "question": "Does it cost anything to be connected through LawProactive?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and there is never a charge for using it. The independent attorneys in our network take premises liability cases on contingency, which means they are paid a percentage only if you recover. If nothing is recovered, you owe no attorney fee."
+      }
+    ]
+  }
+}

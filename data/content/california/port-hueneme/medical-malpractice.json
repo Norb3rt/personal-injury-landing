@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "port-hueneme medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Port Hueneme Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for Port Hueneme, CA patients. No fee unless you recover. Strict MICRA deadlines apply."
+  },
+  "hero": {
+    "subtitle": "When a Port Hueneme hospital or clinic visit leaves you worse off instead of better, sorting out what happened medically and legally can feel overwhelming. LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's rules, at no cost to you upfront."
+  },
+  "about": {
+    "title": "Port Hueneme Medical Malpractice Claims",
+    "longDescription": "Port Hueneme residents rely on a small network of local clinics and nearby Ventura County hospitals for everything from routine care to emergency treatment. Most visits go fine, but when a diagnosis is missed, a medication is dosed wrong, or a surgical step is skipped, the harm can be serious and lasting. California treats medical malpractice differently than a typical injury claim — it falls under MICRA, a set of rules unique to healthcare cases that shapes deadlines, damages, and what evidence you'll need. If you believe a provider's care fell below the accepted standard and caused you harm, LawProactive can connect you with an independent attorney familiar with these rules to review what happened. There's no charge to talk, and no obligation to move forward. Given how tight the notice and filing windows can be, reaching out sooner rather than later gives an attorney more room to evaluate your records and build a case.",
+    "commonInjuriesTitle": "Types of Harm We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or baby",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free and confidential."
+  },
+  "whyChoose": {
+    "title": "What Makes Medical Malpractice Cases Different",
+    "items": [
+      {
+        "title": "Notice Must Come Before the Lawsuit",
+        "desc": "California generally requires a 90-day pre-suit notice to the healthcare provider before a malpractice case can be filed. An attorney can help make sure this step happens correctly and on time."
+      },
+      {
+        "title": "The Clock Runs Differently Here",
+        "desc": "Medical malpractice claims generally must be filed within one year of discovering the harm, and no later than three years from the injury itself. Missing either deadline can end a claim before it starts."
+      },
+      {
+        "title": "Damages and Proof Have Their Own Rules",
+        "desc": "California caps non-economic damages in these cases, though the cap rises each year, and a qualified medical expert is almost always needed to show the care fell below the accepted standard. A bad medical outcome by itself isn't enough — the case has to show an actual departure from that standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it happened. There's also a required 90-day notice to the provider before filing suit, which can affect your timeline. An attorney can look at your specific dates and figure out where you stand."
+      },
+      {
+        "question": "I had a bad outcome after treatment in Port Hueneme — is that automatically malpractice?",
+        "answer": "Not necessarily. California law requires showing that the provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney can review your medical records to help determine whether the treatment itself was the problem."
+      },
+      {
+        "question": "Do I need a medical expert to have a valid claim?",
+        "answer": "Almost always, yes — California malpractice cases typically require a qualified medical expert to establish that the standard of care wasn't met. This is one of the reasons these cases differ from a typical injury claim. LawProactive can connect you with an attorney who works with the right experts to evaluate your situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "fortuna medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fortuna Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Fortuna? LawProactive connects you free with an independent CA attorney familiar with MICRA rules. No cost unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Fortuna medical provider's mistake leaves you worse off, understanding your options under California's strict malpractice rules matters. LawProactive can connect you at no cost with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Fortuna Medical Malpractice Claims",
+    "longDescription": "Medical malpractice claims are different from most personal injury cases, and that's especially true in a small community like Fortuna, where many residents rely on a limited number of local clinics and Humboldt County providers for care. California law (MICRA) puts strict limits on these cases: a short notice period, a statutory cap on non-economic damages, and a requirement that a qualified medical expert review the case before it can move forward. Not every disappointing medical result counts as malpractice — the law requires proof that a provider failed to meet the accepted standard of care and that failure caused harm. If you or a family member were hurt following treatment at a Fortuna-area hospital, urgent care, or private practice, LawProactive can connect you with an independent attorney, free of charge, who can review what happened and explain whether a claim may be worth pursuing. There's no obligation, and no fee unless the attorney recovers compensation for you.",
+    "commonInjuriesTitle": "Injuries We See in Malpractice Cases",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Delayed or missed diagnosis of a serious condition",
+      "Medication or dosage errors",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Pursue a Claim",
+    "items": [
+      {
+        "title": "The Clock Starts Early",
+        "desc": "California generally gives you one year from when you discover the harm, but never more than three years from the injury itself, to bring a claim — and a required 90-day pre-suit notice must go out first."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "MICRA sets a statutory limit on non-economic damages like pain and suffering, and that cap increases each year, so the amount available can depend on timing."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California law generally requires a qualified medical expert to evaluate whether the standard of care was violated before a malpractice case can proceed — a poor outcome by itself isn't enough."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Fortuna — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law requires proof that a provider's care fell below the accepted medical standard and that this failure directly caused your injury. An independent attorney can help review your medical records to see whether that standard was met."
+      },
+      {
+        "question": "How much time do I have to bring a claim?",
+        "answer": "Generally you have one year from when you discover the injury, but no more than three years from when it occurred, whichever comes first. There's also a mandatory 90-day notice period before a lawsuit can be filed, so acting sooner rather than later matters."
+      },
+      {
+        "question": "Is there a limit on what I could recover?",
+        "answer": "California caps non-economic damages, such as pain and suffering, under MICRA, though that cap is scheduled to rise each year. Economic damages, like medical bills and lost income, are generally not subject to that same cap."
+      },
+      {
+        "question": "Does LawProactive handle malpractice cases involving Fortuna's local clinics or hospitals?",
+        "answer": "LawProactive doesn't handle cases directly — we connect Fortuna residents with independent attorneys who evaluate claims involving local providers, including Humboldt County facilities. The consultation is free, and there's no fee unless the attorney recovers money on your behalf."
+      }
+    ]
+  }
+}

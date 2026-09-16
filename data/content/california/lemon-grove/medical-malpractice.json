@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "lemon-grove medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lemon Grove Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Lemon Grove? Get connected free to an independent CA attorney familiar with MICRA rules. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or treatment in Lemon Grove left you worse off instead of better, you deserve straight answers about what happened. LawProactive can connect you, at no cost, with an independent California attorney who handles medical malpractice claims."
+  },
+  "about": {
+    "title": "Lemon Grove Medical Malpractice Claims",
+    "longDescription": "Lemon Grove residents rely on a mix of local clinics and larger San Diego County hospital systems for care, and most visits go the way they should. But when a diagnosis is missed, a surgery goes wrong, or medication is mismanaged, the effects can follow a patient for years. California law gives injured patients a path to accountability, though medical malpractice cases carry strict rules that don't apply to ordinary injury claims — including a short filing window, a required pre-suit notice, and a cap on certain damages. A bad medical outcome by itself doesn't prove negligence occurred; a qualified medical expert typically has to review the case and confirm the care fell below an accepted standard. LawProactive doesn't provide legal advice or represent clients directly. Instead, we connect Lemon Grove residents free of charge with an independent attorney who can review medical records, explain the MICRA framework, and help determine whether a claim is worth pursuing.",
+    "commonInjuriesTitle": "Injuries Linked to Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Infections from inadequate post-op care"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What Matters in a California Medical Malpractice Claim",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally requires malpractice claims within one year of discovering the harm, and no later than three years after the injury itself, so acting promptly matters."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before filing suit, California law usually requires giving the healthcare provider 90 days' written notice, which affects how and when a claim can move forward."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "Because a poor outcome alone isn't enough to prove malpractice, a qualified medical expert typically must confirm that the care fell short of the accepted standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Lemon Grove?",
+        "answer": "Under California's MICRA framework, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it happened. These deadlines are strict, so it helps to have records reviewed early. An attorney can look at your specific timeline and explain how it applies."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. Medicine involves risk, and an unfortunate result doesn't by itself mean a provider was negligent. California requires a qualified medical expert to review the care and confirm it fell below the accepted standard before a claim can move forward."
+      },
+      {
+        "question": "Does Lemon Grove have local hospitals involved in these claims?",
+        "answer": "Lemon Grove residents typically receive care through nearby San Diego County medical facilities and clinics, and claims can involve any provider — from a local urgent care to a larger hospital system. An independent attorney can help identify which providers may be involved in your specific situation."
+      },
+      {
+        "question": "What does LawProactive actually do?",
+        "answer": "We're a free connection service, not a law firm, so we don't handle your case or give legal advice ourselves. We simply help match you with an independent California attorney who reviews malpractice claims, and that attorney typically works on contingency, meaning there's no fee unless you recover."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "hillsborough medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hillsborough Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for Hillsborough, CA patients. No fee unless you recover. MICRA deadlines apply."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or procedure in the Hillsborough area left you worse off, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's MICRA rules.  There's no cost to find out whether your situation warrants a closer look."
+  },
+  "about": {
+    "title": "Hillsborough Medical Malpractice Claims",
+    "longDescription": "Hillsborough residents often travel into San Mateo County's larger medical centers for surgery, specialist care, or emergency treatment, and most of that care goes fine. But when a diagnosis is missed, a medication is mismanaged, or a surgical error causes lasting harm, families are left trying to understand what happened and what their options are. California's medical malpractice law, known as MICRA, sets strict rules around how long you have to act, what notice must be given before filing suit, and how a qualified medical expert must weigh in on the case. These rules exist to filter out weak claims, not to punish patients with a genuine injury. LawProactive doesn't practice law or make case decisions — we simply connect Hillsborough residents with an independent attorney experienced in these matters, at no upfront cost, so you can get a straight answer about your situation before any deadlines pass.",
+    "commonInjuriesTitle": "Types of Harm We See",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Birth injuries to mother or newborn",
+      "Medication or dosage mistakes",
+      "Anesthesia complications",
+      "Failure to treat a worsening condition"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Early",
+    "items": [
+      {
+        "title": "Strict Filing Windows",
+        "desc": "California generally gives you one year from when you discovered the harm, and never more than three years from the injury itself, to bring a claim. Missing that window can end a case regardless of its merit."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before a malpractice lawsuit can be filed, California law requires giving the healthcare provider 90 days' advance notice. An attorney can make sure this step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a bad medical outcome alone isn't proof of malpractice, California cases typically need a qualified medical expert to establish that care fell below the accepted standard. An independent attorney can help arrange that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad result from surgery automatically malpractice?",
+        "answer": "No. California law recognizes that medicine carries inherent risk, and a poor outcome by itself doesn't prove negligence. What matters is whether the care provided fell below the standard a qualified medical expert would expect, which is why expert review is central to most cases."
+      },
+      {
+        "question": "How much time do I have to bring a claim from Hillsborough?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the injury, and no more than three years from the date it occurred. There's also a 90-day notice requirement before a lawsuit can be filed. Because these timelines are unforgiving, it helps to talk with an attorney sooner rather than later."
+      },
+      {
+        "question": "Are damages limited in California malpractice cases?",
+        "answer": "California caps non-economic damages, such as pain and suffering, in medical malpractice cases, though that cap rises each year under current law. Economic damages like medical bills and lost income aren't subject to the same cap. An independent attorney can walk you through how this applies to your specific situation."
+      }
+    ]
+  }
+}

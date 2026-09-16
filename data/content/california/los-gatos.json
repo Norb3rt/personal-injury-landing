@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "los-gatos city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Gatos, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Los Gatos? Santa Clara County residents have 2 years to file. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash on SR-17 or a fall closer to home, we can connect you with an independent attorney at no cost, serving families throughout Santa Clara County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Los Gatos, California",
+    "longDescription": "Los Gatos may feel like a quiet foothill town, but its roads carry real traffic risk. In the most recent recorded year, Santa Clara County logged 119 injury collisions in Los Gatos, hurting 146 people and claiming 2 lives. Corridors like SR-17, Los Gatos Boulevard, Blossom Hill Road, and SR-85 see the heaviest volume of reported crashes, with Friday afternoons between 3 and 5 p.m. showing up often in the public record. If you or someone you love has been hurt in a collision or another kind of accident here, it helps to understand your options quickly, since California law gives most injury victims just two years from the date of the incident to file a claim — and that window can shrink to as little as six months if a government entity is involved. LawProactive is a free service that connects injured people with an independent personal injury attorney in the area. We are not a law firm, and we don't charge anything for the connection. Attorneys in our network work on contingency, meaning there's no fee unless they recover something for you. Reaching out costs nothing and starts the clock working in your favor.",
+    "commonInjuriesTitle": "Types of Injuries We See Connected Through Our Network",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from car, motorcycle, or bicycle crashes",
+      "Traumatic brain injuries from falls or vehicle impacts",
+      "Spinal cord damage from high-speed collisions",
+      "Soft tissue injuries from slip-and-fall accidents",
+      "Cuts, bruises, and lacerations from pedestrian incidents"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why People in Los Gatos Turn to Our Network",
+    "items": [
+      {
+        "title": "You Won't Be Blamed Out of Your Claim",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover damages reduced by your share of fault. Being told you were 'partly at fault' doesn't have to end your case."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Damages",
+        "desc": "Unlike some states, California places no cap on non-economic damages in a standard injury case, meaning compensation for pain, suffering, and loss of enjoyment of life isn't artificially limited."
+      },
+      {
+        "title": "The Clock Is Real, and It's Ticking",
+        "desc": "Most injury claims in California must be filed within two years of the incident, but that shrinks dramatically — sometimes to six months — if a government agency or public road is involved. Acting early preserves your options."
+      },
+      {
+        "title": "You Pay Nothing Unless You Win",
+        "desc": "Attorneys connected through our network work on contingency, so there's no upfront cost and no fee unless they recover money on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're too hurt to work",
+      "Wondering if insurance will try to shift blame onto you",
+      "Feeling unsure whether it's too late to do anything about what happened",
+      "Not knowing whether you can afford a lawyer at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Los Gatos?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If your accident involved a government entity, such as a public road crew or a city vehicle, that deadline can be as short as six months, so it's wise not to wait."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you were partly at fault. Your recovery would simply be reduced by your percentage of responsibility, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Los Gatos?",
+        "answer": "Public crash records show higher collision counts along SR-17, Los Gatos Boulevard, Blossom Hill Road, and SR-85, with Friday afternoons between 3 and 5 p.m. appearing frequently in reported data. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect you with an independent attorney, and any legal fees would only apply if that attorney later recovers money on your behalf."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases, California does not cap non-economic damages like pain and suffering. The amount recoverable depends on the specifics of your situation and is something an attorney can help evaluate."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "fairfax workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fairfax Workplace Injury Claim Help | LawProactive",
+    "metaDescription": "Hurt on the job in Fairfax? Get free help connecting with an independent CA attorney for workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If a job-related injury has sidelined you in Fairfax, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims in Marin County. There's no cost to get matched and no obligation to move forward."
+  },
+  "about": {
+    "title": "Fairfax Workplace Injury Claims",
+    "longDescription": "Fairfax's small-town footprint means a lot of its workforce moves between job sites, delivery routes along Sir Francis Drake Boulevard and Bolinas Road, and local shops near Broadway and Center Boulevard. When a work injury happens here, the path forward usually starts with California's workers' compensation system, which covers most job injuries regardless of fault but generally blocks a lawsuit against your own employer. That said, if a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, you may have a separate claim outside the workers' comp system. Marin County's mix of open-air commerce, service work, and vehicle-heavy roles means third-party exposure comes up more often than people expect. LawProactive doesn't practice law or handle claims directly — we simply help injured workers in Fairfax get connected, at no cost, with an independent attorney who can sort out which paths apply to their specific situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven job sites",
+      "Repetitive strain and overuse injuries",
+      "Vehicle collisions during work-related driving or deliveries",
+      "Equipment or machinery-related injuries",
+      "Injuries from falling objects or improperly stored materials",
+      "Slip-and-fall injuries on client or third-party property"
+    ],
+    "ctaText": "Find out which claim options may apply to your work injury — free and no pressure."
+  },
+  "whyChoose": {
+    "title": "Why Fairfax Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the 30-Day Report Window",
+        "desc": "California law generally requires injured workers to report the incident to their employer within 30 days to preserve workers' comp benefits. An attorney can help make sure this step doesn't get missed or mishandled."
+      },
+      {
+        "title": "Spotting Third-Party Liability",
+        "desc": "Because workers' comp is usually the exclusive remedy against an employer, a separate claim against a negligent third party — like a subcontractor or equipment maker — is often the only way to pursue full compensation. This distinction matters and isn't always obvious without legal help."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Retaliation for reporting a workplace injury is illegal under California law. If you're worried about your job status after an injury, an independent attorney can explain your protections clearly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a delivery run near Sir Francis Drake Boulevard. Is that workers' comp or something else?",
+        "answer": "It could be both. Workers' comp typically applies since you were on the job, but if another driver caused the crash, that may open a separate third-party claim against that driver. An attorney can look at the details and explain which claims make sense to pursue."
+      },
+      {
+        "question": "Can I still file if my employer says the injury wasn't work-related?",
+        "answer": "You can still report it and pursue a claim even if your employer disagrees with your account. Disputes like this are common, and an independent attorney can help you present your case and gather supporting documentation."
+      },
+      {
+        "question": "What if I'm afraid my employer will retaliate against me for filing?",
+        "answer": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. If you're worried about this, it's worth discussing your specific situation with an attorney who can explain your rights and options."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "santa-rosa slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Rosa Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Santa Rosa? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall in a Santa Rosa store, apartment complex, or parking lot can leave you hurt and unsure who is responsible. LawProactive connects you, at no cost, with an independent premises liability attorney who handles claims in Sonoma County."
+  },
+  "about": {
+    "title": "Santa Rosa Slip & Fall and Premises Liability Claims",
+    "longDescription": "Santa Rosa is the largest city in Sonoma County, home to roughly 175,000 people who move through grocery stores, wine-country hotels, medical offices, and the retail strips along Santa Rosa Avenue and Stony Point Road every day. Property owners and tenants who invite the public onto their premises take on a duty to keep those spaces reasonably safe. When a spill sits unmarked, a stair tread comes loose, or a walkway stays unlit long after someone should have noticed, a fall is often the result. Under California premises liability law, the injured person generally has to show that the owner knew or should have known about the hazard and did not fix it or warn about it. That element, called notice, is where most of these cases are won or lost, which is why what you gather in the first days matters so much. Photos, witness names, an incident report, and a request that the business preserve its surveillance footage can all help. LawProactive is a free service, not a law firm; the attorney we connect you with works independently and only charges a fee if you recover.",
+    "commonInjuriesTitle": "Injuries We Often See After Falls in Santa Rosa",
+    "commonInjuries": [
+      "Wrist, elbow, and shoulder fractures from bracing a fall",
+      "Hip fractures, particularly among older adults",
+      "Knee ligament tears and meniscus damage",
+      "Concussions and other head injuries from striking the ground",
+      "Herniated discs and lower back strains",
+      "Tailbone and pelvic injuries from landing hard on a seated position"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Santa Rosa Residents Turn to LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys who know how to prove notice",
+        "desc": "In California, a fall alone is not enough; the property owner generally must have known or should have known about the hazard. The attorneys in our network build that proof through inspection records, employee statements, and prior complaints."
+      },
+      {
+        "title": "Help preserving video before it disappears",
+        "desc": "Many Santa Rosa businesses overwrite surveillance footage within days or weeks. An attorney can send a preservation demand early so the recording of your fall is not lost."
+      },
+      {
+        "title": "Deadlines handled, including the short public-entity clock",
+        "desc": "Most California premises claims carry a two-year filing deadline, but a fall on city, county, or state property triggers a much shorter government claim period. Getting connected quickly helps protect your rights either way."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped in a shopping center off Santa Rosa Avenue. Who is actually responsible?",
+        "answer": "It depends on where the hazard was and who controlled that area. The store, the property management company, and the landlord may each have different responsibilities under their leases, and an attorney can sort out which party owed you a duty. Save your receipt, note the exact spot, and write down what the floor looked like while it is fresh in your mind."
+      },
+      {
+        "question": "Does it hurt my case if I was looking at my phone when I fell?",
+        "answer": "Not necessarily. California follows pure comparative fault, meaning your recovery may be reduced by your share of responsibility, but you are not barred from recovering entirely. The property owner's failure to address a known hazard still counts against them even if you were partly distracted."
+      },
+      {
+        "question": "How long do I have to bring a premises liability claim in Sonoma County?",
+        "answer": "For falls on private property in California, the general deadline is two years from the date of injury. If you fell on property owned by a public entity, such as a city sidewalk or a county building, you typically must file a government claim within six months before any lawsuit can proceed. Because the shorter deadline is easy to miss, it is wise to speak with an attorney soon after the fall."
+      }
+    ]
+  }
+}

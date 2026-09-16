@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "elk-grove medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Elk Grove Medical Malpractice Attorney Match | LawProactive",
+    "metaDescription": "Hurt by a medical error in Elk Grove, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When treatment in Elk Grove leaves you worse off than you should be, sorting out what went wrong shouldn't fall on you alone. LawProactive connects you, at no cost, with an independent California malpractice attorney who can review your care."
+  },
+  "about": {
+    "title": "Elk Grove Medical Malpractice Claims",
+    "longDescription": "Elk Grove is home to nearly 167,000 people in Sacramento County, and most of them will sit in a clinic, urgent care, or hospital bed at some point. When care goes wrong, the question is not simply whether the result was bad. California law is clear on this: a poor outcome by itself is not malpractice. What matters is whether a provider fell below the accepted standard of care and whether that failure caused real harm.\n\nAnswering that question takes work. Under MICRA, a qualified medical expert is nearly always needed to explain what a careful provider would have done differently. The filing clock is tight, too: generally one year from when you discovered the injury, and never more than three years from when it happened, with a 90-day notice sent to the provider before any lawsuit. Non-economic damages are capped, though that cap rises each year.\n\nLawProactive does not handle cases. We are a free service that connects Elk Grove residents with an independent attorney who evaluates malpractice claims and works on contingency.",
+    "commonInjuriesTitle": "Medical Errors That Often Lead to Claims",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or heart attack",
+      "Surgical mistakes, including wrong-site procedures",
+      "Medication and dosage errors",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections or pressure injuries from lapses in hospital care"
+    ],
+    "ctaText": "Ask for a free review of your Elk Grove case"
+  },
+  "whyChoose": {
+    "title": "Why Elk Grove Residents Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines get flagged early",
+        "desc": "The one-year discovery rule, the three-year outer limit, and the 90-day pre-suit notice leave little room for delay. A quick connection means the attorney you're matched with can start the calendar working in your favor."
+      },
+      {
+        "title": "Access to the experts these cases require",
+        "desc": "Nearly every California malpractice claim needs a qualified medical expert to establish the standard of care. The attorneys in our network know how to line that up rather than guessing whether a case has merit."
+      },
+      {
+        "title": "Straight answers about the damages cap",
+        "desc": "California limits non-economic damages in malpractice cases, and the limit changes every year. An independent attorney can explain what the current cap means for your situation without overstating what any case is worth."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was seen at an urgent care in Elk Grove and then sent to a hospital in Sacramento. Who would a claim even be against?",
+        "answer": "Care that crosses from one facility to another is common for Sacramento County residents, and responsibility can rest with one provider, several, or none. An attorney would look at what each provider knew, what they did with that information, and whether a delay or handoff error caused harm. That is exactly the kind of untangling a free consultation is meant for."
+      },
+      {
+        "question": "My surgery didn't go the way I hoped. Is that malpractice?",
+        "answer": "Not necessarily. California law distinguishes between an unfortunate result and a provider who failed to meet the accepted standard of care. A qualified medical expert generally has to review the records and say a careful provider would have acted differently. Until that review happens, no one can honestly tell you whether you have a case."
+      },
+      {
+        "question": "How does LawProactive work, and what does it cost me?",
+        "answer": "LawProactive is not a law firm. We are a free service that connects injured people in Elk Grove with an independent personal injury attorney who handles medical malpractice. The attorneys in our network work on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  }
+}

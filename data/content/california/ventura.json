@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "ventura city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ventura, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Ventura County? California gives most injury victims 2 years to file. Get connected free with an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end crash on Victoria Avenue left you with whiplash or a fall on someone else's property broke a bone, LawProactive connects you at no cost with an independent injury attorney serving Ventura County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Ventura, California",
+    "longDescription": "Ventura sits between the hills and the harbor, and most of its daily driving funnels onto a handful of streets. Public collision records for the city show Telephone Road, Telegraph Road, Victoria Avenue and Harbor Boulevard carrying the highest counts of reported crashes. In 2025, the most recent final reporting year, Ventura logged 725 injury collisions. Those crashes hurt 1,010 people and took 9 lives in a city of about 96,769 residents. The records also show reported crashes tend to peak on Fridays between 5 and 7 p.m., when weekend traffic builds toward the pier and the beach. LawProactive exists for the people behind those numbers. We are a free service, not a law firm. When you reach out, we connect you with an independent personal injury attorney who handles cases in Ventura County, and that attorney works on contingency, meaning there is no fee unless there is a recovery. You do not have to know what your claim is worth or whether you were partly at fault before you call. California uses pure comparative fault, so sharing some blame does not shut the door. What matters is acting inside the two-year filing window, or the much shorter one that applies when a government entity is involved.",
+    "commonInjuriesTitle": "Injuries Ventura Residents Commonly Ask About",
+    "commonInjuries": [
+      "Neck and back strain from rear-end collisions",
+      "Fractures from motorcycle and bicycle crashes",
+      "Concussions and other head trauma",
+      "Pedestrian injuries at crosswalks",
+      "Slip-and-fall injuries at stores and rentals",
+      "Dog bites and animal attacks"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Ventura Claim",
+    "items": [
+      {
+        "title": "Two years, sometimes much less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, the deadline to file a claim can be as short as six months."
+      },
+      {
+        "title": "Partial fault does not end your case",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not barred from recovering."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "California does not limit non-economic damages in typical injury claims, so compensation for pain, distress, and lost quality of life is evaluated on the facts of your case."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in our network work on contingency. You pay nothing up front, and the attorney is paid only if money is recovered for you."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "My doctor bills are piling up while I'm off work.",
+      "I might have been partly at fault — does that mean I get nothing?",
+      "I've never hired a lawyer and can't afford one right now."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do reported crashes cluster in Ventura?",
+        "answer": "According to public collision records, Telephone Road, Telegraph Road, Victoria Avenue, and Harbor Boulevard carry the highest counts of reported crashes in the city. These are simply the corridors with the most recorded incidents, which tracks with how much traffic they carry. Reports also show crashes peak on Fridays roughly between 5 and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match you with an independent personal injury attorney who handles cases in Ventura County, and any legal relationship you form is directly with that attorney."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Ventura?",
+        "answer": "For most personal injury claims in California, the statute of limitations is two years from the date of injury. If your claim involves a government entity, such as a city vehicle or a public roadway defect, you may have as little as six months to file a claim. Speaking with an attorney early helps protect those deadlines."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses a pure comparative fault system. Your compensation is reduced by your percentage of fault, but you can still recover even if you bear some of the blame. An attorney can help evaluate how fault may be assigned in your situation."
+      },
+      {
+        "question": "What does it cost to get connected with an attorney?",
+        "answer": "Nothing. Our service is free, and the attorneys in our network work on a contingency basis, meaning they are paid only if there is a recovery in your case. There is no fee to speak with someone about what happened."
+      }
+    ]
+  }
+}

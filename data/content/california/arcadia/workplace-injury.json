@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "arcadia workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Arcadia Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Arcadia? Free connection to an independent attorney for workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Arcadia, from a warehouse near Santa Anita Avenue to a job site off Huntington Drive, LawProactive can connect you with an independent attorney who handles workplace injury matters at no upfront cost."
+  },
+  "about": {
+    "title": "Arcadia Workplace Injury Claims",
+    "longDescription": "Arcadia's mix of retail centers, medical offices, and light industrial sites along Baldwin Avenue and Santa Anita Avenue means workers face everyday hazards, from falls to equipment mishaps. When an on-the-job injury happens, California generally routes claims through workers' compensation regardless of who was at fault, but that's not always the end of the story. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to the harm, a separate third-party claim may be possible alongside your comp benefits. Navigating both systems while recovering from an injury can be confusing, especially with strict deadlines to report the incident and file claims. LawProactive doesn't practice law itself; we connect injured workers in Arcadia with an independent attorney who can review the details of your situation and explain your options, all without any obligation or upfront fee.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders or scaffolding",
+      "Repetitive strain and back injuries",
+      "Equipment or machinery accidents",
+      "Vehicle collisions while working (deliveries, rideshare, field work)",
+      "Slip-and-fall injuries in warehouses or offices",
+      "Exposure to hazardous materials or chemicals"
+    ],
+    "ctaText": "Get connected with an independent attorney today, free and confidential.','commonInjuriesTitle':"
+  },
+  "whyChoose": {
+    "title": "Why Arcadia Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the 30-Day Reporting Window",
+        "desc": "California law requires injured workers to notify their employer within 30 days of the incident to preserve workers' comp benefits. An attorney can help make sure this deadline and related paperwork aren't missed."
+      },
+      {
+        "title": "Identifying Third-Party Liability",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party like a subcontractor, property owner, or equipment maker may still be pursued separately. This can matter for Arcadia workers on shared job sites along corridors like I-210 or Huntington Drive."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "It's illegal for an employer to retaliate against a worker for reporting an injury or filing a claim. An independent attorney can help you understand your rights if you feel you're being treated unfairly after speaking up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at work in Arcadia, do I have to use workers' comp only?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer, regardless of fault. However, if a third party such as a subcontractor, property owner, or equipment manufacturer contributed to your injury, you may have a separate claim worth exploring. An independent attorney can help sort out which path, or both, applies to your situation."
+      },
+      {
+        "question": "What if my injury happened while driving for work near I-210 or Baldwin Avenue?",
+        "answer": "If you were injured in a vehicle collision while performing work duties, workers' comp typically applies, but the other driver could also be liable in a separate third-party claim. Arcadia's corridors like I-210 and Baldwin Avenue see regular reported collisions, and determining fault in these cases often benefits from legal guidance."
+      },
+      {
+        "question": "How long do I have to report my workplace injury or file a claim?",
+        "answer": "California generally requires you to report a workplace injury to your employer within 30 days. If a third party is involved, that separate claim generally carries a two-year deadline. Because these timelines run differently, it helps to talk to an independent attorney soon after the injury occurs."
+      }
+    ]
+  }
+}

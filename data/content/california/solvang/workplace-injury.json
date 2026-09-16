@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "solvang workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Solvang Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Solvang? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Solvang's mix of hospitality, agriculture, and small-business jobs comes with real injury risk. If you were hurt working near Mission Drive or Rt 246, we can connect you with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "Solvang Workplace Injury Claims",
+    "longDescription": "Solvang's economy runs on tasting rooms, bakeries, hotels, and the vineyards and farms tucked along Alamo Pintado Road and Fredensborg Canyon Road. Workers in these settings face falls, equipment mishaps, and repetitive strain that can sideline a paycheck fast. In California, workers' compensation is generally the exclusive path against your employer no matter who was at fault, but it doesn't cover everything — and it doesn't apply if a negligent third party, like a subcontractor, property owner, or equipment manufacturer, contributed to your injury. That's where a separate personal injury claim can come in. LawProactive doesn't practice law; we're a free service that connects injured workers in Solvang with an independent attorney who can sort out whether a third-party claim exists alongside your workers' comp case. There's no cost to find out, and no obligation to move forward. A short conversation can clarify what options are actually on the table.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connections For",
+    "commonInjuries": [
+      "Falls from ladders or uneven surfaces",
+      "Cuts and burns in kitchens or wineries",
+      "Back and shoulder strain from lifting",
+      "Equipment or machinery-related injuries",
+      "Vehicle collisions while on the job",
+      "Repetitive motion injuries from prolonged tasks"
+    ],
+    "ctaText": "Get connected with an independent attorney today, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Solvang Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Always Obvious",
+        "desc": "Because workers' comp is usually the exclusive remedy against your employer, many injured workers assume that's the end of the story. An independent attorney can look at whether a subcontractor, property owner, or equipment maker played a role and might owe a separate claim."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days. Missing that window can complicate your claim, so getting guidance early matters."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "You have the right to report an injury and pursue a claim without fear of being fired, demoted, or punished for it. An attorney connected through our service can help you understand those protections if concerns come up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a Solvang winery job — can I still file a claim if it was partly my fault?",
+        "answer": "Workers' compensation in California generally doesn't require proving fault, so it usually applies even if you contributed to the accident. A separate third-party claim, if one exists, follows different rules about fault. An independent attorney can walk through both possibilities with you."
+      },
+      {
+        "question": "How long do I have to bring a claim against a third party after a workplace injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of injury. Workers' comp reporting has its own, much shorter window, so it helps to move on both fronts without delay. LawProactive can connect you with someone who can clarify both timelines."
+      },
+      {
+        "question": "What if my employer retaliates after I report an injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law. If you're facing pushback, demotion, or termination tied to your claim, an independent attorney can advise you on next steps. Reach out and we'll connect you with someone who can look at your situation."
+      }
+    ]
+  }
+}

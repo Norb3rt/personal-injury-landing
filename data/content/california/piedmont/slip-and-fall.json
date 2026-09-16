@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "piedmont slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Piedmont Slip & Fall Attorney Referral | LawProactive",
+    "metaDescription": "Hurt on someone else's property in Piedmont? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall on a Piedmont sidewalk, staircase, or store floor can leave you with real injuries and real bills. LawProactive connects you at no cost with an independent attorney who handles premises liability claims in Alameda County."
+  },
+  "about": {
+    "title": "Piedmont Slip & Fall & Premises Liability Claims",
+    "longDescription": "Piedmont is a small, densely residential city of roughly 11,376 people tucked into the Oakland hills, with much of daily foot traffic centered along Grand Avenue, Highland Avenue, and Oakland Avenue. Public crash records show 12 injury collisions and 13 injured people in the most recent final reporting year — a reminder that even a quiet, walkable community has real risk on its streets, staircases, and building entrances. Slip and fall cases here often involve uneven sidewalk slabs, poorly lit stairwells, wet retail floors, or hazards at private residences and HOA-managed properties. Because California law requires showing the property owner knew or reasonably should have known about the hazard, the details you gather right after a fall matter enormously. LawProactive doesn't practice law itself — we simply connect injured Piedmont residents and visitors with an independent attorney who can evaluate what happened and explain your options at no upfront cost.",
+    "commonInjuriesTitle": "Injuries We See in Premises Liability Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and forearm fractures from bracing a fall",
+      "Traumatic brain injury or concussion",
+      "Torn ligaments and knee injuries",
+      "Spinal disc injuries and herniation",
+      "Facial and dental trauma"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "What Matters in a Piedmont Premises Case",
+    "items": [
+      {
+        "title": "Proving the Owner Had Notice",
+        "desc": "California requires showing the property owner knew, or reasonably should have known, about the hazard and failed to fix or warn about it. An attorney can help identify inspection records, prior complaints, or maintenance logs that speak to notice."
+      },
+      {
+        "title": "Surveillance Video Disappears Fast",
+        "desc": "Many Piedmont businesses and HOA-managed buildings overwrite security footage within days or weeks. Acting quickly to send a preservation request can make the difference in proving how and why the fall happened."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, Recovery",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for not noticing a hazard, you may still recover a reduced amount. An independent attorney can help present the facts fairly on your behalf."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a sidewalk near Grand Avenue in Piedmont — who's responsible?",
+        "answer": "Responsibility depends on who owns or maintains that section of sidewalk, which in Piedmont can be the city, an adjacent property owner, or both depending on local ordinance. An independent attorney can help sort out which party had a duty to maintain the area and whether they had notice of the defect. This is exactly the kind of fact-specific question worth having reviewed."
+      },
+      {
+        "question": "How long do I have to file a premises liability claim in California?",
+        "answer": "Generally you have two years from the date of the fall to file a lawsuit, but if a government entity like the City of Piedmont owns the property, that deadline is much shorter and requires an earlier administrative claim. Missing these windows can bar your case entirely, so it's worth getting guidance as soon as possible."
+      },
+      {
+        "question": "What should I do right after a slip and fall in a Piedmont store or building?",
+        "answer": "If you're able, take photos of the exact hazard, note the date, time, and lighting conditions, and ask if there's a manager on duty to document the incident. Try to identify any nearby security cameras, since footage may be recorded over quickly. Seeking medical attention promptly also helps connect your injuries to the fall."
+      }
+    ]
+  }
+}

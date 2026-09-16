@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "waterford medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Waterford Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to independent medical malpractice attorneys serving Waterford, CA. No fee unless you recover. Learn your options today."
+  },
+  "hero": {
+    "subtitle": "If a hospital or clinic visit in Waterford left you or a loved one worse off, LawProactive can connect you with an independent attorney who understands California's medical malpractice rules and Stanislaus County care providers."
+  },
+  "about": {
+    "title": "Waterford Medical Malpractice Claims",
+    "longDescription": "Waterford is a small Stanislaus County community, and many residents travel outside town for specialized hospital or surgical care, which can add layers of complexity when something goes wrong medically. Medical malpractice cases are different from typical injury claims — California's MICRA law sets strict notice periods, expert-review requirements, and a cap on non-economic damages that adjusts annually. A bad outcome by itself isn't proof of malpractice; the law requires showing a provider deviated from the accepted standard of care and that this deviation caused harm. LawProactive doesn't practice law or file claims — we simply help connect Waterford residents with independent attorneys in our network who evaluate these cases and, if appropriate, work on contingency, meaning no fee unless there's a recovery. If you believe a diagnosis was missed, a surgery went wrong, or medication was mismanaged, getting a knowledgeable review of your records early matters, given the tight statutory timelines involved.",
+    "commonInjuriesTitle": "Situations We Help Connect People For",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or complications",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia errors",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Waterford Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding of MICRA's Strict Deadlines",
+        "desc": "California generally requires malpractice claims within one year of discovery and no more than three years from the injury, plus a 90-day pre-suit notice. Attorneys in our network know how to track these deadlines carefully so a claim isn't lost to time."
+      },
+      {
+        "title": "Awareness of the Non-Economic Damages Cap",
+        "desc": "California law caps non-economic damages in malpractice cases, and that cap rises annually under current statute. An attorney can explain how this affects your specific situation before you commit to anything."
+      },
+      {
+        "title": "Access to Qualified Medical Experts",
+        "desc": "Because California almost always requires a qualified medical expert to support a malpractice claim, connecting with an attorney who has relationships with credible medical reviewers matters — especially for care received outside Waterford."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date of the injury itself. California also requires a 90-day pre-suit notice before filing. Because these deadlines can be confusing, it's worth having your situation reviewed sooner rather than later."
+      },
+      {
+        "question": "Does Waterford have its own hospital where malpractice might occur?",
+        "answer": "Many Waterford residents receive care at facilities outside the immediate area, since it's a smaller Stanislaus County community. Malpractice claims can involve any licensed provider or facility, regardless of where in the county the care took place, so location alone doesn't limit your options."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No — California law requires showing that a provider failed to meet the accepted standard of care and that this failure caused the harm. A poor outcome alone, even a serious one, isn't enough on its own. That's why a qualified medical expert's review is almost always part of building a valid claim."
+      }
+    ]
+  }
+}

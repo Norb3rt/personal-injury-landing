@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "ontario product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Product Liability Help in Ontario, CA | LawProactive",
+    "metaDescription": "Hurt by a defective product in Ontario, CA? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product sold or used in Ontario fails and hurts someone, California's strict liability rules can put the burden where it belongs. LawProactive connects you, at no cost, with an independent attorney who handles defective product claims in San Bernardino County."
+  },
+  "about": {
+    "title": "Ontario Product Liability Claims",
+    "longDescription": "A product that fails without warning does not care where you bought it. In Ontario, that might mean a space heater in a home off Euclid Avenue, a power tool on a job site near the I-10, or a tire that came apart at freeway speed on the I-15. Goods move through this city constantly along the I-10, SR-60 and I-15, and some of what ends up on local shelves is not designed, built, or labeled the way it should be. California law treats these injuries differently from an ordinary negligence claim. Under strict liability, you generally do not have to prove the manufacturer was careless. You have to show the product had a defect in its design, its manufacturing, or its warnings, and that the defect caused your injury. That is a narrower question, but it still turns on evidence, and the most important piece is the product itself. Keep it. Do not repair it, return it, or throw it out. LawProactive is a free service that connects Ontario residents with an independent attorney who handles product liability claims on contingency.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from faulty appliances, chargers, or lithium batteries",
+      "Deep cuts and amputations from tool or blade failures",
+      "Crush injuries from collapsing furniture, ladders, or equipment",
+      "Head, neck, and chest trauma when airbags or seatbelts fail",
+      "Illness or poisoning from contaminated food, supplements, or medication",
+      "Choking, suffocation, or strangulation from unsafe children's products"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What Strict Liability Means for Your Ontario Claim",
+    "items": [
+      {
+        "title": "You don't have to prove carelessness",
+        "desc": "California's strict liability framework generally asks whether the product was defective and whether that defect hurt you, not whether the company was negligent. An attorney can focus your case on the defect rather than on the manufacturer's state of mind."
+      },
+      {
+        "title": "The product is the evidence",
+        "desc": "A cracked helmet, a shorted charger, or a shredded tire tells the story better than any witness can. The attorneys in our network know to secure and preserve the item early, before it is discarded, repaired, or sent back to the seller."
+      },
+      {
+        "title": "More than one party may be responsible",
+        "desc": "Under California law, the manufacturer, the distributor, and the retailer that sold you the product may all share liability. That matters in Ontario, where a product may have changed hands several times before reaching your home."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I bought the product at a store in Ontario, but the manufacturer is overseas. Who can actually be held responsible?",
+        "answer": "California's product liability rules reach everyone in the chain of distribution, not just the company that made the item. That can include the importer, the distributor, and the Ontario retailer that put it on the shelf. An attorney can sort out which parties are reachable and which are worth pursuing. You do not need to know the manufacturer's identity before reaching out."
+      },
+      {
+        "question": "I was hurt in a crash on the I-10 and I think my airbag never went off. Is that a product liability case or a car accident case?",
+        "answer": "It can be both, and they are not mutually exclusive. Ontario recorded 1,083 injury collisions in 2025, and in some of them the extent of the injury traces back to how a vehicle component performed rather than the crash alone. If a restraint system, tire, or brake component failed, a separate strict liability claim against the maker may exist alongside any claim against another driver. Keeping the vehicle unrepaired until an attorney has looked at it is important."
+      },
+      {
+        "question": "Do I have to show the company knew the product was defective?",
+        "answer": "Generally, no. Under California's strict liability approach, the central questions are whether the product had a design, manufacturing, or warning defect and whether that defect caused your injury. What the company knew or intended is usually not something you must prove. That said, gathering the product, the packaging, the receipt, and your medical records early makes the defect far easier to establish."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "san-leandro city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Leandro, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in San Leandro or elsewhere in Alameda County? You have 2 years to file. Get connected free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on I-880, hit while crossing E 14th Street, or hurt in a fall, LawProactive connects you at no cost with an independent injury attorney serving San Leandro and all of Alameda County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Leandro, California",
+    "longDescription": "San Leandro sits between Oakland and Hayward, and a large share of Alameda County traffic passes straight through it. I-880 accounts for the heaviest volume of collisions in city records, with Route 185, E 14th Street, and Washington Avenue following behind. In 2025, the most recent finalized year, San Leandro logged 304 injury collisions. Those crashes left 405 people injured and took 3 lives. Wednesday evenings between 5 and 7 p.m. show up as the busiest window in the reports. If you were one of those 405 people, the numbers are not abstract. You may be dealing with a car that will not start, a doctor's bill you did not budget for, and an adjuster who keeps calling. LawProactive exists to take one task off your plate. We are a free service, not a law firm. We do not represent you, give legal advice, or take any part of your recovery. What we do is connect you with an independent personal injury attorney who handles cases in Alameda County and who works on contingency, meaning there is no fee unless there is a recovery. Reach out whenever you are ready, and we will help you find someone to talk through what happened on I-880, E 14th, or wherever the collision occurred.",
+    "commonInjuriesTitle": "Injuries We Commonly See in San Leandro Cases",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway stop-and-go collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back and spinal disc injuries",
+      "Pedestrian and cyclist injuries on surface streets",
+      "Knee and shoulder damage from falls"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your San Leandro Claim",
+    "items": [
+      {
+        "title": "Two years, usually — but sometimes only six months",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, a claim may have to be filed in as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not shut out entirely."
+      },
+      {
+        "title": "No statutory cap on pain-and-suffering damages",
+        "desc": "In an ordinary injury case, California does not place a ceiling on non-economic damages such as pain, lost enjoyment of life, or emotional distress."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in our network are paid only if you recover something. There is no hourly bill and no retainer to worry about while you heal."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer wants a recorded statement and I don't know what to say.",
+      "I missed shifts at work and rent is due.",
+      "My neck still hurts but the ER said I was fine.",
+      "I don't know if I can afford a lawyer right now."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people in San Leandro with an independent personal injury attorney. We do not give legal advice, represent clients, or charge you anything for the connection."
+      },
+      {
+        "question": "Where do collisions in San Leandro tend to happen?",
+        "answer": "Public collision records show I-880 with the highest count, followed by Route 185, E 14th Street, and Washington Avenue. Reports also cluster on Wednesdays between roughly 5 and 7 p.m. These are neutral counts from city records and reflect traffic volume as much as anything else."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "For most personal injury cases, the deadline is two years from the date of injury. If a government entity such as a city or transit agency may be responsible, a formal claim can be required within six months. An attorney can pin down the exact deadline for your situation."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses pure comparative fault, so being partly responsible reduces your recovery by your percentage of fault rather than eliminating it. Even someone found mostly at fault can still recover a portion. This is one reason it is worth speaking with an attorney before assuming you have no case."
+      },
+      {
+        "question": "How much does it cost to hire an attorney through LawProactive?",
+        "answer": "Our service is free, and the attorneys in our network work on a contingency basis. That means you pay no attorney fee unless there is a recovery in your case. The fee arrangement will be spelled out in writing before you agree to anything."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "milpitas workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Milpitas Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Milpitas? LawProactive connects you, free, with an independent attorney for workers' comp and third-party injury questions."
+  },
+  "hero": {
+    "subtitle": "A work injury in Milpitas can raise two separate questions: what workers' comp covers, and whether someone other than your employer shares responsibility. We connect you, at no cost, with an independent attorney who can sort out both."
+  },
+  "about": {
+    "title": "Milpitas Workplace Injury Claims",
+    "longDescription": "Getting hurt at work in Milpitas rarely feels simple. Under California law, workers' compensation is usually the exclusive remedy against your employer, and it applies no matter who was at fault. That covers medical care and a portion of lost wages, but it stops there. What many people in Santa Clara County do not realize is that a negligent third party can open a separate injury claim. A subcontractor who left a hazard on a job site, a property owner who ignored a broken stair, a manufacturer whose equipment failed, or another driver who struck you while you were working can each be held to account outside the comp system. That distinction matters for anyone whose job puts them on I-880, I-680, or Route 237, where public records show much of the city's collision volume concentrates. Milpitas logged 243 injury collisions in 2025, and some share of those involved people simply doing their jobs. LawProactive is not a law firm. We connect you, free of charge, with an independent attorney who works on contingency and can review which paths are open to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See in Milpitas",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Crush and pinch injuries from machinery",
+      "Vehicle collisions while driving for work",
+      "Burns and chemical exposure",
+      "Fractures from slips on wet or cluttered floors"
+    ],
+    "ctaText": "Ask a Milpitas attorney which claims may apply to you"
+  },
+  "whyChoose": {
+    "title": "Why Milpitas Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Comp Is Not Always the Whole Story",
+        "desc": "Workers' compensation is typically your only remedy against the employer, but a negligent subcontractor, property owner, equipment maker, or driver can support a separate claim. The attorneys we connect you with look at both."
+      },
+      {
+        "title": "Deadlines Are Different for Each Path",
+        "desc": "You should report a work injury to your employer within 30 days, while a third-party injury claim generally carries a two-year filing deadline. An early conversation helps keep both windows open."
+      },
+      {
+        "title": "Retaliation Is Illegal, and You Deserve Independent Advice",
+        "desc": "California law prohibits employers from punishing you for reporting an injury. LawProactive is a free connection service, and the independent attorneys in our network work on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on I-880 while driving for my job in Milpitas. Is that a workers' comp case or a car accident case?",
+        "answer": "It may be both. Because you were working, workers' compensation would typically apply regardless of fault. If another driver caused the crash, that driver is a third party, and California allows a separate injury claim against them. An attorney can explain how the two interact so one does not undercut the other."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "Usually not. Workers' compensation is the exclusive remedy against the employer in most situations, even when the employer was careless. The exceptions are narrow, which is why attorneys focus on whether a third party contributed to what happened."
+      },
+      {
+        "question": "What if I waited to report my injury because I was afraid of losing my job?",
+        "answer": "Report it as soon as you can; California asks that you notify your employer within 30 days, and retaliating against you for reporting is illegal. Delays can complicate a claim but do not always end it. An independent attorney can review your timeline and tell you where things stand."
+      }
+    ]
+  }
+}

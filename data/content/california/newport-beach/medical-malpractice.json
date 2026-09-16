@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "newport-beach medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Attorney in Newport Beach, CA",
+    "metaDescription": "Hurt by a medical error in Newport Beach? LawProactive connects you, free, with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care in Newport Beach goes wrong, you should not have to decode MICRA on your own. LawProactive connects you, at no cost, with an independent attorney who reviews medical negligence claims across Orange County."
+  },
+  "about": {
+    "title": "Newport Beach Medical Malpractice Claims",
+    "longDescription": "Not every disappointing result in a hospital or clinic is malpractice, and Newport Beach residents deserve a straight answer about the difference. Under California's MICRA rules, a claim requires showing that a provider fell below the accepted standard of care and that the lapse caused harm, which is why a qualified medical expert is almost always required. The timeline is unforgiving: generally one year from the date you discovered the injury, and never more than three years from when it happened, with a 90-day notice sent to the provider before any lawsuit is filed. Orange County patients also run into MICRA's cap on non-economic damages, a figure that rises each year rather than staying fixed. LawProactive is not a law firm. We are a free service that connects people in Newport Beach with an independent attorney who handles medical negligence cases on contingency, so there is no fee unless there is a recovery. Whether your case began with a routine visit or with emergency care after a crash on Jamboree Road, an early review costs you nothing.",
+    "commonInjuriesTitle": "Harm That Often Leads to a Malpractice Review",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to order or follow up on test results"
+    ],
+    "ctaText": "Ask for a free, no-obligation review of your care."
+  },
+  "whyChoose": {
+    "title": "Why Newport Beach Patients Start With LawProactive",
+    "items": [
+      {
+        "title": "The MICRA clock is short",
+        "desc": "You generally have one year from discovering the injury, and never more than three years from the injury itself, plus a 90-day pre-suit notice must go out first. An early connection keeps those dates from slipping."
+      },
+      {
+        "title": "An expert opinion is nearly always required",
+        "desc": "A bad outcome alone is not malpractice under California law. The independent attorneys in our network know how to line up a qualified medical expert who can evaluate whether the standard of care was actually breached."
+      },
+      {
+        "title": "The damages cap changes every year",
+        "desc": "MICRA limits non-economic damages, but that limit rises annually. An attorney who tracks the current figure can explain honestly what your claim may and may not include, without promising a result."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at a hospital near Newport Beach after a car crash on Coast Highway. Can I pursue a malpractice claim on top of the crash claim?",
+        "answer": "Sometimes, yes. A collision claim against the other driver and a malpractice claim against a provider are separate matters with different deadlines and different proof requirements. Because MICRA imposes its own one-year discovery rule and a 90-day notice step, it helps to have an attorney look at both timelines together rather than assuming one covers the other."
+      },
+      {
+        "question": "My surgery did not fix the problem. Does that mean I have a case?",
+        "answer": "Not by itself. California law asks whether the provider fell below the accepted standard of care and whether that failure caused your harm, and a qualified medical expert is almost always needed to answer that. A poor result with proper care is not malpractice; a poor result caused by a preventable error may be."
+      },
+      {
+        "question": "What does it cost to get connected through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, not a law firm, and the independent attorneys we connect you with work on contingency, meaning there is no attorney fee unless there is a recovery. You are free to decide after the first conversation whether to move forward."
+      }
+    ]
+  }
+}

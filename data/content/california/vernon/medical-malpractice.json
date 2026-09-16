@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "vernon medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Vernon Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Vernon, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital or clinic error caused you or a family member serious harm in Vernon, LawProactive can connect you at no cost with an independent medical malpractice attorney who understands Los Angeles County's medical and court systems."
+  },
+  "about": {
+    "title": "Vernon Medical Malpractice Claims",
+    "longDescription": "Vernon is a small, heavily industrial city within Los Angeles County, and most residents and workers here travel to nearby LA County facilities for hospital care, surgery, or specialist treatment. When something goes wrong during that care — a missed diagnosis, a surgical mistake, or a medication mix-up — the aftermath can be confusing, especially since California law treats medical malpractice differently from other injury claims. Strict notice periods, expert-review requirements, and a capped category of damages all shape how these cases move forward. LawProactive doesn't practice law or promise any result; we simply listen to what happened, gather basic details, and connect you with an independent attorney in our network who handles medical malpractice matters in the Los Angeles area. That attorney can review your medical records, explain your options, and tell you honestly whether you may have a claim worth pursuing.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney who can review it."
+  },
+  "whyChoose": {
+    "title": "Why Timing and Evidence Matter in a Vernon Malpractice Case",
+    "items": [
+      {
+        "title": "Short, Strict Deadlines",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to file a medical malpractice claim. Missing that window can end a case before it starts, so early guidance matters."
+      },
+      {
+        "title": "A Required 90-Day Notice",
+        "desc": "Before a lawsuit can even be filed, California law requires sending the healthcare provider a 90-day notice of intent to sue. An attorney familiar with this step can help make sure it's done correctly and on time."
+      },
+      {
+        "title": "Medical Proof, Not Just a Bad Outcome",
+        "desc": "A poor result from treatment isn't automatically malpractice — California law requires a qualified medical expert to show the care fell below an accepted standard. Non-economic damages are also subject to a statutory cap that adjusts annually, which an attorney can walk you through."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live or work in Vernon but was treated at a hospital outside the city — can I still get help?",
+        "answer": "Yes. Vernon is a small, largely industrial city, so most people here receive hospital or specialist care elsewhere in Los Angeles County. LawProactive can still connect you with an attorney based on where the treatment happened, not just where you live."
+      },
+      {
+        "question": "How long do I actually have to bring a claim?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it occurred. There are limited exceptions, so it's worth getting a case reviewed sooner rather than later."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice?",
+        "answer": "No. California law requires showing that a provider's care fell below the accepted medical standard, and this usually takes a qualified medical expert to establish. An independent attorney can help determine whether your situation meets that bar before any next steps are taken."
+      }
+    ]
+  }
+}

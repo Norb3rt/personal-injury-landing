@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "san-jacinto city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Jacinto, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in San Jacinto? Connect free with an independent Riverside County attorney. 2-year filing deadline. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in San Jacinto, we'll connect you free of charge with an independent personal injury attorney serving Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Jacinto, California",
+    "longDescription": "San Jacinto sees its share of everyday traffic risk, with public records showing 162 injury collisions and 228 people hurt in the most recent final crash year, along with 3 traffic deaths. Corridors like State Street, Ramona Expressway, and San Jacinto Avenue carry heavy local traffic and account for a notable share of reported collisions, particularly around Wednesday afternoons between 3 and 5 p.m. when travel volume tends to climb. If you were hurt in one of these incidents, or in a fall, workplace accident, or other injury event, sorting out medical bills, missed paychecks, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service that connects injured San Jacinto residents with an independent personal injury attorney — we are not a law firm and do not provide legal advice ourselves. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and puts you in touch with someone who can review what happened and explain your options under California law.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Now",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government agency can require notice in as little as six months. Waiting too long can cost you the right to recover at all."
+      },
+      {
+        "title": "Shared Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "California places no limit on non-economic damages like pain, suffering, and emotional distress in a typical injury case. That means your recovery isn't artificially restricted the way it is in some other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless you win or settle. This lets injured people pursue a claim without adding financial risk while they're already dealing with medical costs."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling unsure whether the insurance adjuster's offer is fair",
+      "Not knowing how much time you actually have to take action",
+      "Wondering if being partly at fault means you have no case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no upfront cost or obligation to reach out."
+      },
+      {
+        "question": "How long do I have to file a personal injury claim in San Jacinto?",
+        "answer": "California law generally allows two years from the date of injury to file most personal injury claims. If a government entity is involved, such as a city road issue, the notice period can be as short as six months, so it's important not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California follows pure comparative fault, which means you can still recover compensation even if you share some blame. Your total recovery is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in San Jacinto?",
+        "answer": "Public crash records show higher collision counts along corridors like State Street, Ramona Expressway, and San Jacinto Avenue, with reported crashes tending to peak on Wednesdays between 3 and 5 p.m. These are simply the areas and times reflected in the data, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people in San Jacinto get in touch with an independent personal injury attorney. We don't provide legal representation or advice ourselves — that comes from the attorney you're connected with."
+      }
+    ]
+  }
+}

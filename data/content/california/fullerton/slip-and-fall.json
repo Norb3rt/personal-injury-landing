@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "fullerton slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fullerton Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on someone else's property in Fullerton? LawProactive connects you, free, with an independent premises liability attorney on contingency."
+  },
+  "hero": {
+    "subtitle": "If a wet floor, broken step, or unlit walkway in Fullerton left you hurt, the property owner may owe you more than an apology. We'll connect you, at no cost, with an independent attorney who handles Orange County premises cases."
+  },
+  "about": {
+    "title": "Fullerton Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter. You're on the wet tile of a grocery store off Harbor Boulevard, or a cracked walkway outside an apartment complex near Orangethorpe Avenue, and your first thought is embarrassment, not evidence. Yet in California, what happens in the next few days often shapes the entire claim. Property owners in Fullerton, like everywhere in Orange County, are only responsible when they knew or reasonably should have known about the hazard and did nothing to fix it or warn you. Proving that \"notice\" is the heart of a premises case. Photos of the spill, the lighting, the missing handrail, and a prompt written request that the business preserve its surveillance footage can matter more than anything else. The clock is also real: two years for most private property claims, and far less when a city or other public entity owns the ground you fell on. LawProactive is a free service, not a law firm. We connect Fullerton residents with an independent attorney who handles these cases on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Fullerton Falls",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and forearm breaks from bracing a fall",
+      "Concussions and other head injuries",
+      "Knee ligament and meniscus tears",
+      "Back, disc, and spinal injuries",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney who can review it."
+  },
+  "whyChoose": {
+    "title": "Why Fullerton Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice Is the Whole Case",
+        "desc": "California asks whether the owner knew or should have known about the hazard, so the attorney we connect you with will focus early on inspection logs, prior complaints, and how long the condition existed."
+      },
+      {
+        "title": "Video Disappears Fast",
+        "desc": "Most Fullerton stores, parking structures, and apartment lobbies overwrite surveillance footage within days. Getting a preservation request out quickly can be the difference between a documented hazard and a he-said-she-said dispute."
+      },
+      {
+        "title": "Deadlines Vary by Owner",
+        "desc": "You generally have two years to file against a private owner, but a fall on property controlled by a public entity triggers a much shorter claim window. An attorney can sort out who owns the ground before that window closes."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a lifted sidewalk slab in downtown Fullerton. Who is actually responsible?",
+        "answer": "It depends on who controls that stretch of sidewalk, which may be the City of Fullerton, an adjacent business, or a private landlord. When a public entity is involved, California requires a formal claim within a much shorter period than the usual two years, so this is not a question to sit on. An attorney can pull property records and identify the correct party quickly."
+      },
+      {
+        "question": "The store manager said I should have been watching where I walked. Does that end my claim?",
+        "answer": "No. California uses pure comparative fault, meaning your recovery is reduced by whatever percentage of blame is assigned to you, but it is not wiped out. Even if a jury decided you were partly inattentive, the owner remains responsible for their share if they failed to fix or warn about a hazard they knew or should have known about."
+      },
+      {
+        "question": "What should I do in the first 48 hours after a fall on someone's property?",
+        "answer": "Get medical care first, then photograph the exact spot, the surrounding lighting, and anything that caused the fall before it is cleaned up or repaired. Ask for an incident report and, in writing, ask the business to preserve any camera footage from that day. If you contact LawProactive, we can connect you with an attorney who will typically send that preservation request on your behalf right away."
+      }
+    ]
+  }
+}

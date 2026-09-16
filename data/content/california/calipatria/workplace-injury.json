@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "calipatria workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calipatria Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Calipatria? Free connection to an independent attorney for workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Calipatria, whether on a farm, at a packing facility, or on a job site off Access Road, we can connect you with an independent attorney who handles work injury claims at no upfront cost to you."
+  },
+  "about": {
+    "title": "Calipatria Workplace Injury Claims",
+    "longDescription": "Calipatria's economy runs on agricultural work, transport, and the industrial operations that support Imperial County's farming region, and those jobs come with real physical risk. When a worker gets hurt here, California law usually routes the claim through workers' compensation, regardless of who was at fault. But that's not always the full picture. If a subcontractor, equipment manufacturer, property owner, or another company's employee contributed to the accident, a separate third-party injury claim may also be possible, and that route can open up compensation that workers' comp doesn't cover. LawProactive doesn't practice law ourselves; we're a free service that connects injured workers in Calipatria with an independent attorney who can look at the details of your incident, sort out which paths apply, and explain your options in plain terms. There's no cost to start the conversation, and no obligation if it turns out workers' comp is your only route forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading equipment",
+      "Machinery and equipment entanglement injuries",
+      "Repetitive strain and heat-related illness from field or outdoor labor",
+      "Vehicle and forklift collisions on job sites",
+      "Chemical or pesticide exposure incidents",
+      "Back, shoulder, and joint injuries from heavy lifting"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney who can review it, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Workers Turn to LawProactive in Calipatria",
+    "items": [
+      {
+        "title": "We Help You See Past Workers' Comp Alone",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but it doesn't rule out a claim against a negligent third party like a subcontractor or equipment maker. An independent attorney can help figure out if that applies to your situation."
+      },
+      {
+        "title": "We Understand the 30-Day Reporting Window",
+        "desc": "California requires injured workers to report the incident to their employer within 30 days to preserve workers' comp eligibility. We can connect you with an attorney quickly so that deadline doesn't slip by unnoticed."
+      },
+      {
+        "title": "We Know Retaliation Is Illegal",
+        "desc": "If you're worried about speaking up because of how your employer might react, California law prohibits retaliation against workers who report injuries or file claims. An attorney can advise you on protecting your job while pursuing what you're owed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a farm job outside Calipatria. Does workers' comp still apply?",
+        "answer": "Generally yes, agricultural workers in California are covered by workers' compensation in most cases, though there are exceptions depending on the size and structure of the operation. An independent attorney can review your specific work arrangement to confirm coverage and check whether a third party, like equipment suppliers, might also share responsibility."
+      },
+      {
+        "question": "Can I still file a claim if my employer says the accident was my fault?",
+        "answer": "Workers' compensation in California is generally a no-fault system, meaning you don't have to prove your employer was negligent to receive benefits. Fault becomes more relevant only if you're pursuing a separate third-party claim, which has different requirements."
+      },
+      {
+        "question": "How long do I have to bring a claim if a third party caused my injury?",
+        "answer": "Third-party injury claims in California generally must be filed within two years of the incident. This is separate from the 30-day window for reporting to your employer, so it helps to get an attorney's guidance early to keep both timelines straight."
+      }
+    ]
+  }
+}

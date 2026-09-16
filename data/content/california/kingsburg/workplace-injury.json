@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "kingsburg workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Kingsburg Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Kingsburg? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been injured while working in Kingsburg, we can connect you free of charge with an independent attorney who understands both workers' compensation and third-party claims tied to Fresno County job sites."
+  },
+  "about": {
+    "title": "Kingsburg Workplace Injury Claims",
+    "longDescription": "Kingsburg's economy runs on agriculture, packing facilities, and the small businesses that line Draper Street and Sierra Street, and workplace injuries here often involve heavy equipment, delivery vehicles, or repetitive strain from packing and processing work. Under California law, workers' compensation generally serves as the exclusive remedy against your employer, but that doesn't mean your options end there. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, a separate third-party claim may be available alongside your workers' comp benefits. LawProactive is not a law firm — we're a free service that connects injured workers in Kingsburg with an independent attorney who can review the details of your incident, explain your reporting obligations, and help identify whether a third-party claim applies. You don't have to sort through the workers' comp system or a potential civil claim alone. Reach out and we'll match you with someone who can walk through your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Forklift and heavy equipment accidents",
+      "Falls from ladders, docks, or packing platforms",
+      "Repetitive strain and overuse injuries",
+      "Machinery entanglement or crush injuries",
+      "Vehicle collisions during work-related driving",
+      "Chemical or pesticide exposure incidents"
+    ],
+    "ctaText": "Get connected with an independent attorney about your Kingsburg workplace injury."
+  },
+  "whyChoose": {
+    "title": "Why Workplace Injury Cases Need Careful Handling",
+    "items": [
+      {
+        "title": "Two Systems, Two Deadlines",
+        "desc": "Workers' comp claims and third-party injury claims run on different tracks, with the third-party claim carrying a two-year deadline under California law. An attorney can help you understand which applies to your situation and when."
+      },
+      {
+        "title": "Reporting Windows Matter",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days. Missing that window can complicate your ability to receive benefits, so timing matters from day one."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or pursuing a claim. An independent attorney can help you understand these protections if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a packing facility near Draper Street — can I still file a workers' comp claim?",
+        "answer": "Yes, workers' compensation generally applies regardless of fault, so an incident at a packing facility or similar Kingsburg worksite would typically be covered. You should report the injury to your employer within 30 days to protect your claim. An independent attorney can review the specifics and help you understand next steps."
+      },
+      {
+        "question": "Can I sue my employer directly for my injury?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer, meaning a direct lawsuit isn't usually available. However, if a third party — like equipment manufacturer, contractor, or another driver — contributed to your injury, a separate claim against that party may be possible. This is something an attorney can evaluate based on your specific incident."
+      },
+      {
+        "question": "What if my injury happened while driving for work on Mountain View Avenue or Simpson Street?",
+        "answer": "Work-related driving injuries can involve both workers' compensation and a potential third-party claim if another driver was at fault. Given that these Kingsburg corridors see regular collision activity, it's worth having an attorney review whether a third party contributed to your crash. That third-party claim would carry its own two-year filing deadline."
+      }
+    ]
+  }
+}

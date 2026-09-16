@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "vernon product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Vernon Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Vernon, CA? LawProactive connects you free with an independent attorney who handles strict liability claims."
+  },
+  "hero": {
+    "subtitle": "Vernon's industrial and warehouse corridors move heavy equipment and manufactured goods through the city every day, and when a defective product causes harm, the path to accountability can be confusing. LawProactive can connect you at no cost with an independent attorney who focuses on product liability claims."
+  },
+  "about": {
+    "title": "Vernon Product Liability Claims",
+    "longDescription": "Vernon's identity as a small but heavily industrial city in Los Angeles County means machinery, packaging equipment, forklifts, and manufactured goods pass through its warehouses and truck routes constantly. When one of those products fails because of a design flaw, a manufacturing error, or a missing warning label, the person hurt is often left dealing with medical bills and lost income while trying to figure out who is responsible. Because California generally applies strict liability to defective product cases, an injured person doesn't have to prove the manufacturer was careless — only that the product was defective and that the defect caused harm. That said, these claims often involve multiple parties along the supply chain, from manufacturer to distributor to retailer, and untangling that chain takes work. LawProactive connects Vernon residents and workers with an independent attorney, free of charge, so they can get a clear read on their situation without navigating it alone.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Crush injuries from malfunctioning machinery or equipment",
+      "Burns from faulty electrical or industrial devices",
+      "Lacerations from defective tools or packaging equipment",
+      "Traumatic brain injuries from falling or failing equipment",
+      "Amputation or loss of digits from unguarded machinery",
+      "Chemical exposure injuries from mislabeled or defective containers"
+    ],
+    "ctaText": "Talk to an independent attorney about your product liability claim — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Matters in a Vernon Product Liability Case",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify the Burden",
+        "desc": "Under California law, you generally don't need to prove the manufacturer was negligent — just that the product was defective and caused your injury. That can make these cases move differently than a typical negligence claim."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, which matters in a city like Vernon where products often pass through several industrial hands before reaching a worker or consumer."
+      },
+      {
+        "title": "The Product Itself Is Evidence",
+        "desc": "Preserving the defective item — rather than discarding or returning it — is often critical to building a claim, since it may be the clearest proof of what went wrong."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the manufacturer was negligent?",
+        "answer": "Not necessarily. California product liability claims often proceed under strict liability, meaning you generally need to show the product was defective and that the defect caused your injury, not that the company was careless. An independent attorney can walk you through what applies to your specific situation."
+      },
+      {
+        "question": "What if the defective product happened at a Vernon warehouse or industrial site?",
+        "answer": "Given Vernon's concentration of warehouses and manufacturing facilities along corridors like Santa Fe Avenue and District Boulevard, defective equipment injuries at work are not uncommon. These cases can sometimes involve both a workers' compensation claim and a separate product liability claim against the manufacturer, so it helps to have someone look at the full picture."
+      },
+      {
+        "question": "Should I keep the product that hurt me?",
+        "answer": "Yes, if at all possible. Holding onto the item, its packaging, and any manuals or warnings can make a real difference in showing what was wrong with it. If you're unsure how to safely store or document it, an attorney can advise you on next steps."
+      }
+    ]
+  }
+}

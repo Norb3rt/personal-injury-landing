@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "palo-alto car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Palo Alto Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Palo Alto car crash? Get connected free to an independent attorney who works on contingency. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "After a collision on US-101, Middlefield Road, or Embarcadero Road, Palo Alto drivers deserve straightforward guidance, not more stress. LawProactive connects you at no cost with an independent attorney who can help you sort out what comes next."
+  },
+  "about": {
+    "title": "Palo Alto Car Accident Claims",
+    "longDescription": "Santa Clara County sees steady traffic through Palo Alto, and recent public records show 84 injury collisions and 106 people hurt in a single year, with crashes tending to cluster on Thursday evenings between 5 and 7 p.m. Corridors like US-101, Alma Street, and Embarcadero Road carry heavy volume, and even a routine commute can end in a jarring, life-altering collision. If you were hurt in one of these crashes, the days right after matter: insurers move fast, evidence disappears, and recorded statements can be used against you later. LawProactive isn't a law firm — we're a free service that connects injured Palo Alto residents with an independent personal injury attorney who can review the details, explain your options, and help you avoid common missteps while you focus on recovering. There's no obligation and no upfront cost to get connected.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussion or other head injury",
+      "Fractured bones",
+      "Back and spinal injuries",
+      "Shoulder and knee ligament damage",
+      "Cuts and bruising from broken glass or debris"
+    ],
+    "ctaText": "Get connected with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years to file a car accident claim in California, but that window shrinks dramatically — sometimes to six months — if a government entity, like the City of Palo Alto, was involved. An attorney can flag this early so you don't lose your claim on a technicality."
+      },
+      {
+        "title": "Comparative Fault Cuts Both Ways",
+        "desc": "California allows recovery even if you're partly at fault, but your compensation is reduced by your share of blame. Insurers often try to shift fault onto you quickly, which is why it helps to have someone reviewing the facts before you say anything on record."
+      },
+      {
+        "title": "No Cap, No Guesswork on Non-Economic Damages",
+        "desc": "California places no cap on non-economic damages like pain and suffering in most car accident cases. An attorney working on contingency has an incentive to value your claim fully, since they're only paid if you recover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to give the other driver's insurance company a recorded statement?",
+        "answer": "No, you're not required to give a recorded statement to the other driver's insurer, and it's often better not to until you've spoken with an attorney. Adjusters are trained to ask questions that can be used to minimize your claim. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if my accident happened near a Palo Alto intersection maintained by the city?",
+        "answer": "Claims involving city-maintained roads or intersections, such as those along Embarcadero Road or Middlefield Road, may fall under government claim rules with a much shorter filing deadline — sometimes as little as six months. It's important to have this evaluated quickly so you don't miss the window. LawProactive can connect you with an attorney who can look into this promptly."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and the independent attorneys in our network typically work on contingency, meaning there's no fee unless you recover compensation. You're never obligated to move forward after speaking with an attorney."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "fresno medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fresno Medical Malpractice Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt by a medical error in Fresno? LawProactive connects you free with an independent malpractice attorney. Learn MICRA deadlines and how claims work."
+  },
+  "hero": {
+    "subtitle": "If treatment at a Fresno hospital or clinic left you worse off, you deserve a clear answer about whether the standard of care was met. LawProactive connects you, at no cost, with an independent California medical malpractice attorney."
+  },
+  "about": {
+    "title": "Fresno Medical Malpractice Claims",
+    "longDescription": "Fresno is the medical hub of the central San Joaquin Valley. With more than 520,000 residents inside city limits and many more across Fresno County relying on its hospitals, clinics, and urgent care centers, a great deal of care happens here every day — and most of it goes well. When it does not, the question is whether a provider fell below the accepted standard of care, not simply whether the result was disappointing. The state's MICRA rules add structure that catches many families off guard: a one-year clock from the date you discovered the harm, an outside limit of three years from the injury itself, and a required 90-day notice before a lawsuit can be filed. Non-economic damages are capped, though the cap rises annually. Nearly every case also depends on a qualified medical expert reviewing the records. LawProactive is a free service, not a law firm. We connect Fresno residents with an independent attorney who handles these claims on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Common Types of Medical Negligence Claims in Fresno",
+    "commonInjuries": [
+      "Misdiagnosis or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia errors",
+      "Failure to monitor a patient after treatment or discharge"
+    ],
+    "ctaText": "Ask a Fresno malpractice attorney to review your records — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Fresno Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are tight and easy to miss",
+        "desc": "California generally gives you one year from the time you discovered the harm, and never more than three years from the injury, plus a 90-day notice must go out before suit. An attorney can pin down which dates apply to your situation before the window closes."
+      },
+      {
+        "title": "Expert review is built into the process",
+        "desc": "A qualified medical expert is almost always needed to show that care fell below the accepted standard. The independent attorneys in our network know how to get records evaluated early so you are not guessing about whether you have a case."
+      },
+      {
+        "title": "No cost to connect, no fee without a recovery",
+        "desc": "LawProactive is free to use and is not a law firm. The attorney you are matched with works on contingency, which means nothing is owed unless the claim results in a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My surgery in Fresno did not go the way I hoped. Is that malpractice?",
+        "answer": "Not by itself. A poor or unexpected result is not the same as negligence, and many procedures carry known risks even when everything is done correctly. Malpractice means the provider did something a reasonably careful provider would not have done, or failed to do something they should have. A qualified medical expert generally has to review your records to make that call."
+      },
+      {
+        "question": "How much time do I have to bring a medical malpractice claim in California?",
+        "answer": "Under MICRA, the general rule is one year from when you discovered, or reasonably should have discovered, the injury, and no more than three years from the date the injury occurred. There is also a 90-day notice that must be given to the provider before a lawsuit is filed. Because these dates can be counted differently depending on the facts, it helps to speak with an attorney sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a Fresno malpractice case?",
+        "answer": "California caps non-economic damages such as pain and suffering in medical malpractice cases, and that cap now rises each year under MICRA. Economic losses like medical bills and lost income are handled separately and are not subject to that cap. An attorney can explain how the current figures apply to your claim, but no one can promise a specific result."
+      }
+    ]
+  }
+}

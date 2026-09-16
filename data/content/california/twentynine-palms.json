@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "twentynine-palms city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Twentynine Palms, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in a Twentynine Palms crash? San Bernardino County claims have a 2-year filing window. Free connection to an attorney, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, fall, or other accident around Twentynine Palms, we'll connect you free of charge with an independent attorney serving San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Twentynine Palms, California",
+    "longDescription": "Twentynine Palms sits along corridors that carry a steady mix of local and through traffic — Rt 62, Adobe Road, and the 29 Palms Highway stretch that runs through town all show up regularly in public collision records. In the most recent full year on record, the city logged 49 injury collisions and 72 people hurt, with zero traffic deaths reported. Those are the official counts, not a judgment about any particular road or intersection. If you or someone you love was injured in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel like a full-time job on top of recovering. LawProactive is a free service — we are not a law firm — that connects injured people in Twentynine Palms with an independent personal injury attorney who works on contingency, meaning there's no fee unless you recover money. We simply help you find someone to talk to about your situation, without any obligation. Whether your injury happened on Adobe Road, the highway, or somewhere else in town, getting a clear picture of your options early can matter, especially with California's filing deadlines in mind.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee injuries from impact"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Things Worth Knowing Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but claims against a government entity can require notice in as little as six months. Waiting too long can cost you the right to recover at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on What You've Suffered",
+        "desc": "In an ordinary injury case, California places no cap on non-economic damages like pain and suffering, so your recovery isn't artificially limited by a statutory ceiling."
+      },
+      {
+        "title": "No Fee Unless You Win",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you recover money — so there's no upfront cost to find out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while you're out of work",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing whether you waited too long to take action",
+      "Wondering if being partly at fault means you have no case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Twentynine Palms?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a personal injury lawsuit. If your claim involves a government entity, such as a city vehicle or public roadway defect, the deadline to give notice can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some responsibility for the accident. Your total recovery would simply be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Twentynine Palms?",
+        "answer": "Public collision records show that Rt 62, Adobe Road, and the 29 Palms Highway are among the higher-volume corridors for reported injury crashes in the city, with activity also tending to peak on Tuesdays between 6 and 8 p.m. These are neutral counts from public records, not a statement that any particular road is unsafe."
+      },
+      {
+        "question": "Will I owe any money if I talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney, and we are not a law firm. Attorneys in our network work on contingency, so you don't pay a fee unless there's a recovery in your case."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In a typical California personal injury case, there's no statutory cap on non-economic damages like pain and suffering. That said, every case is different, and an attorney can walk you through what factors might affect your specific situation."
+      }
+    ]
+  }
+}

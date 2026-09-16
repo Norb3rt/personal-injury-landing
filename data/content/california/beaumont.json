@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "beaumont city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Beaumont, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Beaumont? Riverside County residents have 2 years to file. Free attorney connection, no fee unless you win. Get help now."
+  },
+  "hero": {
+    "subtitle": "Whether it's a car crash on I-10, a fall, or a serious injury from someone else's negligence, we connect you at no cost with an independent attorney serving Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Beaumont, California",
+    "longDescription": "Beaumont sits along the I-10 corridor, and that same stretch of freeway carries a lot of the daily traffic that moves through this Riverside County community, along with Beaumont Avenue, Oak Valley Parkway, and 6th Street. In the most recent full year on record, Beaumont saw 86 injury collisions, 129 people hurt, and 4 traffic deaths. Behind every one of those numbers is a person dealing with medical bills, missed work, and a lot of unanswered questions. LawProactive exists to make that first step easier. We are a free service — not a law firm — that connects injured people in Beaumont with an independent personal injury attorney who can look at what happened and explain the options. There's no cost to talk it through, and if you move forward, the attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. If you were hurt in a crash on one of Beaumont's busy corridors, or in any other kind of accident caused by someone else's negligence, reaching out costs you nothing and can help you understand where you stand under California law.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Torn ligaments and soft tissue injuries",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but if a government entity is involved — like a city road issue — that window can shrink to as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover compensation for the share that wasn't your fault. An attorney can help sort out how fault gets divided."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California doesn't limit the amount you can seek for non-economic damages like pain, suffering, or loss of enjoyment of life. That's an important distinction from some other states."
+      },
+      {
+        "title": "You Don't Pay Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost and no fee unless there's a recovery. That means the financial risk of asking questions is essentially zero."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling overwhelmed trying to handle paperwork and deadlines alone",
+      "Wondering if being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent personal injury attorney, and we are not a law firm ourselves. If you decide to move forward with representation, the attorney typically works on contingency, so there's no fee unless you recover compensation."
+      },
+      {
+        "question": "How long do I have to file a claim after an injury in Beaumont?",
+        "answer": "Under California law, most personal injury claims must be filed within two years of the date of the injury. If a government agency is involved, though, that deadline can be much shorter, sometimes just six months, so it's worth getting advice sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some responsibility for what happened. Your recovery is simply reduced by your percentage of fault, rather than being eliminated entirely."
+      },
+      {
+        "question": "Where do most reported crashes happen in Beaumont?",
+        "answer": "Based on public-record collision counts, higher volumes of reported crashes are associated with I-10, Beaumont Avenue, Oak Valley Parkway, and 6th Street, with reports also tending to cluster on Friday afternoons between 3 and 5 p.m. These are simply where more collisions have been recorded, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — in ordinary personal injury cases, California does not cap non-economic damages such as pain and suffering. Other factors, like the severity of the injury and available insurance coverage, tend to have more influence on what's realistic in a given case."
+      }
+    ]
+  }
+}

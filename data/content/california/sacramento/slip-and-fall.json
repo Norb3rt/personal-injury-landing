@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "sacramento slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sacramento Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Sacramento? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a fall on someone else's property in Sacramento leaves you hurt, the question is usually whether the owner knew about the hazard. LawProactive connects you, free of charge, with an independent attorney who can help find out."
+  },
+  "about": {
+    "title": "Sacramento Slip & Fall and Premises Liability Claims",
+    "longDescription": "A wet floor at a grocery store off Florin Road. A broken step at an apartment complex near Fruitridge Road. An unlit walkway outside a downtown office. Falls like these happen across Sacramento County, and the people who get hurt are often left unsure whether anyone is responsible. Under California premises liability law, the question usually comes down to notice: did the property owner know about the hazard, or should they have known, and did they fail to fix it or warn about it? Proving that takes evidence, and evidence disappears fast. Surveillance footage gets overwritten, spills get mopped, and witnesses move on. LawProactive is a free service, not a law firm. We connect Sacramento residents with an independent personal injury attorney who handles slip and fall cases on contingency, so there is no fee unless there is a recovery. If you fell on property that belongs to the City of Sacramento or another public entity, the filing deadline is much shorter than the usual two years, which is one more reason not to wait.",
+    "commonInjuriesTitle": "Injuries Commonly Seen in Sacramento Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and elbow fractures from bracing",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Sacramento Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole case",
+        "desc": "California requires you to show the owner knew or should have known about the hazard and did nothing. An attorney can pursue inspection logs, maintenance records, and prior complaints that speak to that question."
+      },
+      {
+        "title": "Video does not wait for you",
+        "desc": "Many Sacramento stores, garages, and apartment buildings overwrite surveillance footage within days. A prompt preservation demand from an attorney can keep that evidence from vanishing."
+      },
+      {
+        "title": "Deadlines vary by who owns the property",
+        "desc": "Most California premises claims carry a two-year limit, but a fall on city, county, or state property triggers a much shorter window. Sorting out ownership early protects your right to file at all."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped at a shopping center in Sacramento but did not report it right away. Can I still make a claim?",
+        "answer": "Reporting late does not automatically end a claim, though it can make notice harder to prove. Write down exactly where and when you fell, photograph the spot if you can return safely, and gather names of anyone who saw it. An attorney can then send a preservation request for any camera footage before it is recorded over."
+      },
+      {
+        "question": "What if I was partly at fault, like looking at my phone when I tripped?",
+        "answer": "California follows pure comparative fault, so being partly responsible reduces your recovery rather than eliminating it. If a jury found you 30 percent at fault, for example, your compensation would be reduced by that share. An attorney can help assess how the owner's conduct and yours are likely to be weighed."
+      },
+      {
+        "question": "I fell on a cracked sidewalk maintained by the City of Sacramento. Is the deadline different?",
+        "answer": "Yes, and significantly so. Claims against a public entity in California generally must be presented on a government claim form within six months, well before the two-year limit that applies to private owners. Because sidewalks can be owned or maintained by the city, the county, or an adjacent property owner, getting that question answered quickly matters."
+      }
+    ]
+  }
+}

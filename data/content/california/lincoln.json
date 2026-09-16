@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "lincoln city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lincoln, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Lincoln, Placer County? Get connected free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Lincoln, we'll connect you free with an independent personal injury attorney serving Placer County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Lincoln, California",
+    "longDescription": "Lincoln has grown fast, and its roads carry that growth every day. Corridors like Lincoln Boulevard, Ferrari Ranch Road, Joiner Parkway, and Twelve Bridges Drive see steady commuter and local traffic, and public records show 48 injury collisions and 61 people hurt in the most recent final crash year, with no traffic deaths reported. Those numbers don't point to any one road being unsafe — they simply reflect how much this city moves. If you were hurt in a crash, a fall, or another accident here, sorting out medical bills, insurance calls, and missed work can feel overwhelming on top of recovering physically. LawProactive is a free service that connects injured people in Lincoln with an independent personal injury attorney — we are not a law firm, and we don't decide your case or charge you anything. The attorneys in our network work on contingency, meaning there's no fee unless they recover compensation for you. Reaching out costs nothing and puts you in touch with someone who can walk through your options, explain California's filing deadlines, and help you understand what comes next.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and road rash",
+      "Soft tissue and joint damage"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Lincoln Residents Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "You Have a Limited Window to Act",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but claims against a government entity can require notice in as little as six months. Waiting too long can close the door on compensation entirely."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Stop Your Claim",
+        "desc": "California follows pure comparative fault, so even if you're found partially responsible for a crash, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on What You Can Seek for Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and emotional distress, which can matter a great deal after a serious accident."
+      },
+      {
+        "title": "You Pay Nothing Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to get advice or representation — payment only comes if your case results in a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you waited too long or missed a deadline",
+      "Wondering if being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Lincoln?",
+        "answer": "California generally allows two years from the date of the accident to file most personal injury claims. If a government entity was involved — like a city vehicle or a road maintenance issue — that window can shrink to as little as six months, so it's worth checking your situation early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you were partially responsible. Your recovery would simply be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Lincoln?",
+        "answer": "Public crash records show higher collision counts along corridors like Lincoln Boulevard, Ferrari Ranch Road, Joiner Parkway, and Twelve Bridges Drive, with reports tending to peak on Fridays between 4 and 6 p.m. These are neutral public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney — we are not a law firm and don't charge fees. Attorneys in our network work on contingency, so they only get paid if you recover compensation."
+      },
+      {
+        "question": "What kind of compensation might be available?",
+        "answer": "Depending on your situation, compensation may cover medical expenses, lost wages, and pain and suffering, among other losses. California doesn't cap non-economic damages in ordinary injury cases, but every claim is different, which is why speaking with an attorney about your specific facts matters."
+      }
+    ]
+  }
+}

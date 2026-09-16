@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "monrovia medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Monrovia Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Monrovia, CA? Free, no-obligation connection to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Monrovia left you worse off than before, we can connect you with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Monrovia Medical Malpractice Claims",
+    "longDescription": "Monrovia residents rely on nearby clinics, urgent care centers, and hospitals throughout the San Gabriel Valley for everything from routine checkups to emergency care. Most visits go fine, but sometimes a delayed diagnosis, a medication mix-up, or a surgical mistake causes harm that shouldn't have happened. California law treats these claims differently than a typical injury case — there's a shorter window to act, a required 90-day notice before filing suit, and rules about expert review that make early legal guidance valuable. LawProactive doesn't practice law or evaluate your medical records ourselves; we simply connect you, at no cost, with an independent attorney in our network who can look at what happened and explain your options. If you or a family member were harmed during treatment anywhere in the Monrovia area, it's worth having a conversation before time limits close in.",
+    "commonInjuriesTitle": "Harm We Commonly See Reported",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Get connected with an independent malpractice attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Makes Malpractice Cases Different",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally requires malpractice claims within one year of discovering the injury and never more than three years from when it happened, so waiting can cost you the right to act at all."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can even be filed, state law requires a 90-day notice to the healthcare provider — a step that needs to happen well before any deadline expires."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "Because a bad medical outcome alone isn't proof of malpractice, California cases generally require a qualified medical expert to establish that the care fell below an acceptable standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome from surgery near Foothill Blvd — does that mean malpractice happened?",
+        "answer": "Not necessarily. California law recognizes that medicine carries inherent risk, and a poor result alone doesn't establish that a provider was negligent. An attorney would need to review your records and, generally, get a qualified medical expert's opinion before determining whether the standard of care was breached."
+      },
+      {
+        "question": "How long do I have to bring a claim after treatment in Monrovia?",
+        "answer": "Under MICRA, the general rule is one year from when you discovered the harm, and no more than three years from the date of the injury itself, whichever comes first in most situations. There are also cases involving minors or fraud that can shift these timelines, so it's best to get a specific answer from an attorney early."
+      },
+      {
+        "question": "Is there a limit on what I can recover for a malpractice claim?",
+        "answer": "California caps non-economic damages — compensation for things like pain and suffering — in medical malpractice cases, and that cap rises annually under state law. Economic damages, such as medical bills and lost income, are generally handled separately. An independent attorney can walk you through how these categories might apply to your situation."
+      }
+    ]
+  }
+}

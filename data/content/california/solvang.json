@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "solvang city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Solvang, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Solvang? Santa Barbara County residents have 2 years to file. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Solvang, we can connect you with an independent personal injury attorney at no cost. This free service covers all of Santa Barbara County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Solvang, California",
+    "longDescription": "Solvang may be small, with just under 5,800 residents, but its streets still see their share of collisions. Public records show 15 injury crashes in the most recent final reporting year, leaving 21 people hurt, with no traffic deaths recorded. Local corridors like Mission Drive, Rt 246, Alamo Pintado Road, and Fredensborg Canyon Road carry the town's steady flow of tourists, commuters, and residents, and reported crashes tend to cluster on Saturday afternoons between 4 and 6 p.m. — often tied to weekend visitor traffic. If you were hurt in one of these incidents, sorting out medical bills, lost income, and next steps can feel overwhelming on top of recovering physically. LawProactive is a free service, not a law firm, that connects injured people in Solvang with an independent personal injury attorney who can review the details of what happened. There's no cost to reach out, and any attorney you're connected with works on contingency, meaning there's no fee unless there's a recovery. You don't have to figure this out alone or guess at deadlines — a quick conversation can help clarify your options while evidence and memories are still fresh.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and road rash",
+      "Torn ligaments and joint damage"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to Someone Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Filing Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require notice in as little as six months. Waiting too long can close the door on your options entirely."
+      },
+      {
+        "title": "Partial Fault Doesn't Erase Your Case",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the accident. Your compensation is simply adjusted to reflect your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on What You Can Recover for Pain and Suffering",
+        "desc": "California places no cap on non-economic damages in typical injury cases, meaning compensation for pain, suffering, and diminished quality of life isn't artificially limited the way it is in some other states."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to get advice or representation. Fees only come out of a settlement or award if your case succeeds."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about who pays for medical bills piling up",
+      "Fear that missing a deadline could cost you your case",
+      "Feeling unsure if you did something to cause the accident",
+      "Not knowing how to talk to insurance adjusters without hurting your claim"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney?",
+        "answer": "Nothing. LawProactive is a free service, and there's no charge to be connected with an independent personal injury attorney. Attorneys in the network work on contingency, so they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Solvang?",
+        "answer": "Under California law, most personal injury claims must be filed within two years of the incident. If a government entity is involved, such as a city vehicle or road defect, the window to give notice can be as short as six months, so it's worth checking your timeline promptly."
+      },
+      {
+        "question": "Where do crashes tend to happen in Solvang?",
+        "answer": "Public crash records show that Mission Drive, Rt 246, Alamo Pintado Road, and Fredensborg Canyon Road are among the higher-volume corridors for reported collisions in Solvang. These are simply the roads with the most recorded incidents, not a judgment about any particular location. Reported crashes also tend to cluster on Saturdays between 4 and 6 p.m."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still pursue compensation even if you share some responsibility for what happened. Your recovery would simply be reduced by your percentage of fault, not blocked entirely."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases, California does not cap non-economic damages like pain and suffering. This means compensation can reflect the actual impact the injury has had on your life, not a predetermined maximum."
+      }
+    ]
+  }
+}

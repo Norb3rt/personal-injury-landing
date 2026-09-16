@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "pinole city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pinole, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Pinole, Contra Costa County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Pinole, we can connect you free of charge with an independent attorney serving Contra Costa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Pinole, California",
+    "longDescription": "Pinole is a small city, but its roads carry a steady stream of traffic every day. I-80 runs through town along with its eastbound and westbound approaches, and San Pablo Avenue serves as a busy local artery connecting neighborhoods to shops and schools. In the most recent full year on record, Pinole saw 68 injury collisions and 96 people hurt, with no traffic deaths reported. Crashes tend to cluster on Wednesday afternoons between 5 and 7 p.m., a pattern consistent with commuters heading home along I-80 and San Pablo Avenue. If you were hurt in one of these collisions, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of physical recovery. LawProactive is a free service that connects injured people in Pinole with an independent personal injury attorney who can review what happened and explain your options. We are not a law firm, we don't charge any fee for the connection, and the attorneys in our network only get paid if you recover compensation. Reaching out costs nothing and starts with a simple conversation about your situation.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Tell us what happened and get connected with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "You generally have two years from the date of injury to file a personal injury claim in California. If a government entity was involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover compensation even if you were partly responsible for the accident. Your share of fault only reduces the amount, it doesn't eliminate your claim."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no limit on non-economic damages like pain and suffering. An attorney can help you understand what that means for your specific situation."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money on your behalf. That removes the financial barrier to getting a professional opinion on your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worried medical bills will pile up faster than they can be paid",
+      "Unsure if missing work will cost them their job",
+      "Confused about whether the insurance company's offer is fair",
+      "Afraid that being partly at fault means they can't get any help"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and we don't charge you to connect with an independent attorney. Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Pinole?",
+        "answer": "California generally gives you two years from the date of the injury to file a personal injury lawsuit. If your accident involved a government vehicle or property, that deadline can be as short as six months, so it's worth getting advice early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly responsible doesn't bar you from recovering compensation. Your total recovery is simply reduced by your percentage of fault, which an attorney can help evaluate."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Pinole?",
+        "answer": "Public collision records show higher counts along I-80 and its eastbound and westbound segments, as well as San Pablo Avenue. Reports also tend to peak on Wednesdays between 5 and 7 p.m., which lines up with typical commute patterns."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that puts injured people in touch with independent personal injury attorneys. We don't provide legal representation ourselves, and the attorney you're connected with handles your case directly."
+      }
+    ]
+  }
+}

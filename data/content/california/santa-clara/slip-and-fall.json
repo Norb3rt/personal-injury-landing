@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "santa-clara slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Clara Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall at a Santa Clara store, apartment, or office? LawProactive connects you free with a premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall in a Santa Clara shopping center, parking garage, or apartment stairwell can change your week, your job, and your health. LawProactive connects you, at no cost, with an independent premises liability attorney who handles claims in Santa Clara County."
+  },
+  "about": {
+    "title": "Santa Clara Slip & Fall and Premises Liability Claims",
+    "longDescription": "Santa Clara is a city of more than 126,000 people, and much of daily life happens on property someone else is responsible for keeping safe: the retail strips along El Camino Real, apartment complexes near Lafayette Street and Monroe Street, office campuses off San Tomas Expressway, hotel lobbies, and grocery aisles. When a wet floor, broken step, uneven walkway, or dim stairwell causes a fall, California law asks a specific question. Did the owner or manager know about the hazard, or should they have known, and did they fail to fix it or warn you? That question of notice usually decides a premises case. Evidence disappears fast. Spills get mopped, torn carpet gets replaced, and surveillance footage is often overwritten within days. Photograph the hazard, get names of witnesses, ask that video be preserved, and see a doctor. LawProactive is not a law firm. We are a free service that connects injured people in Santa Clara with an independent attorney who works on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We See After Falls in Santa Clara",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and elbow breaks from bracing a fall",
+      "Concussions and head trauma",
+      "Herniated discs and lower back strain",
+      "Torn knee ligaments and meniscus damage",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Santa Clara Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole ballgame",
+        "desc": "California requires proof that the property owner knew or should have known about the hazard. The attorney you are connected with will focus on inspection logs, prior complaints, and how long the condition existed."
+      },
+      {
+        "title": "Video and photos vanish quickly",
+        "desc": "Most Santa Clara businesses keep surveillance for only a short window before it is recorded over. A prompt preservation demand can be the difference between a documented hazard and a dispute over your word alone."
+      },
+      {
+        "title": "Deadlines are real, and partial fault does not end your claim",
+        "desc": "You generally have two years to file, and far less if a public entity owns the property. Under pure comparative fault, being partly responsible reduces your recovery but does not erase it."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a cracked sidewalk owned by the City of Santa Clara. Is the process different?",
+        "answer": "Yes, and the timing matters a great deal. Claims against a California public entity, such as the city or Santa Clara County, must first go through a government claim process with a deadline that is much shorter than the standard two years, generally six months from the injury. Missing it can bar the case entirely, so reach out as soon as you are able."
+      },
+      {
+        "question": "The store says there was a wet floor sign nearby. Do I still have a case?",
+        "answer": "Possibly. A warning sign is one factor, not an automatic defense, and questions remain about whether it was visible, placed correctly, and whether the hazard should have been cleaned up rather than simply flagged. California's pure comparative fault rule means even if you are found partly at fault, you can still recover the portion attributed to the property owner."
+      },
+      {
+        "question": "What should I do in the first 48 hours after a fall at a Santa Clara business?",
+        "answer": "Get medical care first, even if the pain seems minor, because fall injuries often worsen over a day or two. Photograph the exact spot, your footwear, and anything that contributed, and ask the manager to file an incident report and save any camera footage. Then contact LawProactive so an attorney can send a formal preservation request before the video is overwritten."
+      }
+    ]
+  }
+}

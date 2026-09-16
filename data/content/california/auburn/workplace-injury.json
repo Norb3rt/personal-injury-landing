@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "auburn workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Auburn Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Auburn? Get connected free with an independent attorney who handles workers' comp gaps and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been injured while working in Auburn, from a warehouse near Grass Valley Highway to a job site off Auburn Folsom Road, LawProactive can connect you with an independent attorney at no cost to explore your options."
+  },
+  "about": {
+    "title": "Auburn Workplace Injury Claims",
+    "longDescription": "Auburn's mix of small businesses, agricultural operations, and contractors working along corridors like Grass Valley Highway and I-80 means workplace injuries here can look different from those in a big-city office park. A worker hurt on a construction job near Rt 49, or a delivery driver injured after a collision on Auburn Folsom Road while on the clock, may find their situation more complicated than a standard workers' comp claim. In Placer County, workers' compensation typically covers job injuries regardless of fault, but it isn't always the end of the story. When a subcontractor, equipment manufacturer, property owner, or another driver contributed to the harm, a separate claim against that third party may be possible alongside any comp benefits. LawProactive doesn't practice law or charge for its service; we simply connect injured Auburn workers with an independent attorney who can look at the facts and explain what avenues, if any, might apply to their case.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from malfunctioning machinery or tools",
+      "Vehicle collisions while driving for work duties",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from falling objects or unsecured loads",
+      "Burns or chemical exposure on job sites"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Auburn Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Comp Isn't Always Exclusive",
+        "desc": "California generally treats workers' comp as the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker can still be pursued separately."
+      },
+      {
+        "title": "Knowing the Reporting Window Matters",
+        "desc": "Workplace injuries generally need to be reported to an employer within 30 days, and missing that window can complicate a claim, so early guidance can help protect your position."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "California law prohibits retaliation against workers for reporting an on-the-job injury, and an attorney can help explain what protections apply if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job site off Grass Valley Highway. Can I still file a workers' comp claim and pursue something else?",
+        "answer": "Possibly. Workers' comp usually applies regardless of fault, but if a third party like a property owner or subcontractor contributed to your injury, a separate claim may be available. An independent attorney can look at the specific facts of your Auburn job site incident and explain your options."
+      },
+      {
+        "question": "How long do I have to report a workplace injury to my employer in California?",
+        "answer": "Generally, you should report a workplace injury within 30 days. Waiting longer can create complications for your claim, so it's worth acting sooner rather than later even if the injury seems minor at first."
+      },
+      {
+        "question": "What if I was injured in a work vehicle collision on I-80 or Auburn Folsom Road?",
+        "answer": "If you were driving for work duties and another driver caused the collision, you may have both a workers' comp claim and a separate third-party claim against that driver. This is different from a typical office injury, and an independent attorney can walk through how both pieces might fit together."
+      }
+    ]
+  }
+}

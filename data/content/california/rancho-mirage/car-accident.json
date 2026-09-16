@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "rancho-mirage car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rancho Mirage Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Rancho Mirage car accident? Get connected free to an independent CA attorney. No fee unless you recover. Call now."
+  },
+  "hero": {
+    "subtitle": "If a crash on Highway 111 or Bob Hope Drive left you hurt, LawProactive can connect you with an independent Rancho Mirage attorney at no cost to start."
+  },
+  "about": {
+    "title": "Rancho Mirage Car Accident Claims",
+    "longDescription": "Rancho Mirage's roads carry a steady mix of resort traffic, local commuters, and seasonal visitors, and corridors like Highway 111, Bob Hope Drive, and Dinah Shore Drive see their share of collisions each year. Recent Riverside County figures show 84 injury collisions and 113 injured people in a single year here, with a smaller but serious number of traffic deaths. Crashes tend to cluster on Thursday afternoons, when work traffic, errands, and resort comings-and-goings overlap. If you were hurt in one of these collisions, what happens in the days right after matters. Photos, witness contacts, and medical records fade or disappear quickly, and insurance adjusters often call before you've had a chance to think things through. LawProactive doesn't practice law; we simply connect injured Rancho Mirage residents and visitors with an independent attorney who can evaluate the crash, handle communications with insurers, and help protect your claim while you focus on recovering.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Fractured bones (arms, legs, ribs)",
+      "Herniated or bulging spinal discs",
+      "Torn ligaments and soft tissue damage",
+      "Lacerations requiring stitches or surgery"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer Calls",
+    "items": [
+      {
+        "title": "California's Statute of Limitations Is Ticking",
+        "desc": "You generally have two years from the crash date to file a personal injury claim in California, but claims against a government entity (like a city road issue) can require notice in as little as six months. Waiting too long can mean losing your right to recover anything."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, Your Claim",
+        "desc": "California follows pure comparative fault, meaning even if you're partly responsible for the crash, you can still recover damages reduced by your share of fault. An attorney can help make sure the other side doesn't unfairly inflate your percentage of blame."
+      },
+      {
+        "title": "Recorded Statements Can Work Against You",
+        "desc": "Insurance adjusters may ask for a recorded statement soon after the crash, often before you know the full extent of your injuries. An independent attorney can advise you on what to say — and what not to say — so early statements don't undermine your claim later."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a car accident claim in Rancho Mirage?",
+        "answer": "California generally gives you two years from the date of the crash to file a personal injury lawsuit. If a government entity's road or vehicle was involved, though, the deadline to file a claim can be as short as six months, so it's worth having a claim reviewed sooner rather than later."
+      },
+      {
+        "question": "I was hurt on Highway 111 or Bob Hope Drive — does the road's crash history matter to my case?",
+        "answer": "Public crash-count data for corridors like Highway 111, Bob Hope Drive, and Dinah Shore Drive can provide useful context, but every claim is decided on its own facts, evidence, and the specific circumstances of the collision. An attorney can help determine what's relevant to your situation."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "Under California's pure comparative fault rule, you can still pursue compensation even if you share some responsibility for the accident — your recovery is simply reduced by your percentage of fault. This is one reason it helps to have someone review the facts before you accept an insurer's first assessment of fault."
+      }
+    ]
+  }
+}

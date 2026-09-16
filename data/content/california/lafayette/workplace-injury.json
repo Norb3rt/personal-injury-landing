@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "lafayette workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lafayette Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Lafayette, CA? Get connected free to an independent attorney who handles workers' comp and third-party workplace claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt while working in Lafayette, LawProactive can connect you at no cost with an independent attorney who understands both workers' compensation and third-party claims in Contra Costa County."
+  },
+  "about": {
+    "title": "Lafayette Workplace Injury Claims",
+    "longDescription": "Lafayette's mix of office parks, retail centers along Mt. Diablo Boulevard, and construction tied to the town's steady growth means workplace injuries here range from repetitive strain and falls in commercial buildings to equipment accidents on job sites. Under California law, workers' compensation is typically the only path against your own employer, no matter who was at fault, but that's not always the end of the story. If a subcontractor, property owner, delivery driver, or equipment manufacturer contributed to your injury, you may have a separate claim against that third party, with its own two-year filing deadline. Navigating both systems at once can be confusing, especially while you're trying to recover and worried about your paycheck. LawProactive doesn't charge you anything to get matched with an independent attorney familiar with Contra Costa County workplace cases, so you can find out what options actually apply to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders or scaffolding",
+      "Repetitive strain and overuse injuries",
+      "Machinery or equipment-related injuries",
+      "Injuries from falling objects or debris",
+      "Vehicle-related injuries during work duties",
+      "Chemical exposure or respiratory injuries"
+    ],
+    "ctaText": "Get matched with an independent workplace injury attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Lafayette Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Help Sort Out Two Separate Systems",
+        "desc": "Workers' comp usually applies regardless of fault, but a negligent third party like a subcontractor or equipment maker can open the door to an additional claim, and an attorney can help identify which applies to you."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires reporting a workplace injury to your employer within 30 days, and missing that window can complicate your claim, so timing matters from day one."
+      },
+      {
+        "title": "Retaliation Is Illegal, and That's Worth Knowing",
+        "desc": "Employers cannot legally punish you for reporting an injury or pursuing a claim, and understanding your protections can make it easier to move forward without fear."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work near SR-24 and got hurt during a delivery. Does workers' comp still apply?",
+        "answer": "In most cases, yes, workers' compensation is the primary remedy against your employer even if the injury happened on the road. But if another driver caused the crash, for example along one of the SR-24 corridors, you could also have a separate third-party injury claim. An attorney can look at the specifics and explain which paths are available to you."
+      },
+      {
+        "question": "What if my employer says my injury isn't covered?",
+        "answer": "Disputes over coverage happen, and they don't necessarily mean you have no claim. An independent attorney can review the denial and help you understand your options, including any third-party angle if someone other than your employer contributed to the injury."
+      },
+      {
+        "question": "How long do I have to file if a third party was involved?",
+        "answer": "California generally allows two years from the date of injury to file a third-party claim, separate from any workers' compensation deadlines. Because these timelines don't always align, it helps to get guidance early rather than waiting."
+      }
+    ]
+  }
+}

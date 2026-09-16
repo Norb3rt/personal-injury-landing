@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "ferndale city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ferndale, CA Personal Injury Help | Free Connection",
+    "metaDescription": "Injured in Ferndale, Humboldt County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident near Ferndale, we can connect you free of charge with an independent personal injury attorney serving Humboldt County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Ferndale, California",
+    "longDescription": "Ferndale is a small Humboldt County town of about 1,369 people, and most days its streets stay quiet. But collisions still happen along corridors like Bluff, Bluff Street, Main Street, and Fairview Drive, and public safety records show reported crashes have tended to cluster on Thursday evenings between 7 and 9 p.m. The most recent finalized year of data recorded zero injury collisions and zero traffic deaths in town, a reminder that Ferndale's roads are generally calm — but any single crash can still turn someone's week upside down. If you were hurt here, whether on one of those main roads or elsewhere in town, you may have questions about medical bills, missed work, or who's responsible. LawProactive is a free service, not a law firm. We connect people who've been injured with an independent personal injury attorney who can review the details of what happened and explain your options. There's no cost to talk, and any attorney you're connected with works on contingency — no fee unless there's a recovery. Reaching out costs you nothing and puts you in touch with someone who can look at your specific situation.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from vehicle or bicycle crashes",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from slip-and-fall or trip accidents"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why People in Ferndale Reach Out to Us",
+    "items": [
+      {
+        "title": "You Have Two Years — But Don't Wait",
+        "desc": "California generally gives injured people two years from the date of the incident to file a claim, though claims against a government entity can require action in as little as six months. Talking to someone early helps make sure that window doesn't close on you."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you may still be able to recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Certain Damages",
+        "desc": "In an ordinary injury case, California places no limit on non-economic damages like pain and suffering, so your claim isn't automatically capped at a fixed amount."
+      },
+      {
+        "title": "No Fee Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, which means you generally don't pay attorney's fees unless money is actually recovered on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worried about how to pay medical bills while you're out of work",
+      "Unsure if the insurance company's offer is fair",
+      "Concerned that being partly at fault means you can't get help",
+      "Not sure how much time you have left to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Ferndale?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If a government entity was involved, though, the window can be as short as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still seek compensation even if you were partially at fault. Your recovery would simply be reduced by your percentage of responsibility."
+      },
+      {
+        "question": "Where do crashes tend to happen in Ferndale?",
+        "answer": "Public safety records show that reported collisions in Ferndale have historically involved corridors such as Bluff, Bluff Street, Main Street, and Fairview Drive, with activity often noted on Thursday evenings between 7 and 9 p.m. These are simply public-record counts and not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't provide legal representation ourselves, and using our service doesn't cost you anything."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no fee just to have a conversation about what happened."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "wildomar medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Wildomar Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Wildomar? Get connected free to an independent CA medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Wildomar medical visit leaves you worse off instead of better, it's hard to know if what happened was just an unlucky outcome or something more. LawProactive can connect you with an independent attorney who handles medical malpractice claims under California law."
+  },
+  "about": {
+    "title": "Wildomar Medical Malpractice Claims",
+    "longDescription": "Riverside County residents in Wildomar rely on a mix of local clinics, urgent care, and hospitals in nearby cities for everything from routine checkups to surgery. Most visits go fine, but when a diagnosis is missed, a medication is mismanaged, or a surgical step is skipped, the physical and financial fallout can be significant. California's MICRA rules apply to these cases, which means strict timing requirements and a required pre-suit notice before a lawsuit can move forward. Because a poor result by itself doesn't establish malpractice, these claims typically hinge on whether a qualified medical expert can show the care fell below an accepted standard. LawProactive doesn't practice law or evaluate your medical records directly — we simply connect Wildomar residents who believe they were harmed with an independent attorney who can review the details, explain the MICRA notice and filing steps, and help you understand where things stand, all at no upfront cost to you.",
+    "commonInjuriesTitle": "Common Situations We See",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosing or prescription mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications during a procedure",
+      "Failure to monitor a patient's condition properly"
+    ],
+    "ctaText": "Talk with an independent attorney about your situation — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Wildomar Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Move Fast",
+        "desc": "California generally gives you one year from discovering the harm and no more than three years from the injury itself, plus a required 90-day pre-suit notice before filing. Missing these windows can end a claim before it starts, so getting matched with an attorney early matters."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a disappointing result isn't automatically malpractice, a qualified medical expert typically has to weigh in on whether the standard of care was met. An independent attorney can help arrange that kind of review."
+      },
+      {
+        "title": "Understanding the Non-Economic Cap",
+        "desc": "California law places a cap on non-economic damages in medical malpractice cases, and that cap rises each year. An attorney can walk you through how this affects your specific claim rather than leaving you guessing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Wildomar?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it occurred. There's also a 90-day pre-suit notice requirement before a lawsuit can be filed. These deadlines are strict, so it helps to talk with an attorney sooner rather than later."
+      },
+      {
+        "question": "Is there somewhere in Wildomar specifically to file a malpractice claim?",
+        "answer": "Medical malpractice claims involving Wildomar patients are typically filed in Riverside County, since that's where the city sits. An independent attorney matched through LawProactive can confirm the correct venue and handle the filing details for you."
+      },
+      {
+        "question": "Does a bad medical outcome mean malpractice happened?",
+        "answer": "Not necessarily. California law recognizes that medicine involves risk, and an unfavorable result alone doesn't prove negligence. What matters is whether the care fell below an accepted medical standard, which usually requires a qualified expert to evaluate."
+      }
+    ]
+  }
+}

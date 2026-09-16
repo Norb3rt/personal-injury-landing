@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "fremont city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fremont, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Fremont? LawProactive connects Alameda County residents with an independent injury attorney free. 2 years to file; no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on I-880, hit while crossing Fremont Boulevard, or hurt in a fall at a local business, LawProactive connects you with an independent personal injury attorney at no cost. We serve Fremont and the rest of Alameda County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Fremont, California",
+    "longDescription": "Fremont stretches from the Bay shoreline to the hills above Mission San José, and much of daily life here happens behind the wheel. Public records for 2025 list 799 injury collisions inside the city, with 1,069 people hurt and 14 lives lost. The corridors that show up most often in those counts are I-880, I-680 in both directions, and Fremont Boulevard, and Friday evenings between 5 and 7 p.m. tend to produce the highest number of reports. If one of those collisions — or a fall at a store, a dog bite, or a bike crash on your commute — has left you injured, you probably have more questions than answers right now. LawProactive exists to take one of those questions off your plate. We are not a law firm and we will not handle your case ourselves. Instead, we are a free service that connects you with an independent personal injury attorney who takes on claims in Alameda County. There is no charge to be matched, and the attorneys in our network work on contingency, so there is no fee unless your case ends in a recovery. You share what happened, and we handle the introduction. From there, the decision about how to proceed stays entirely with you.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Fremont Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones from falls",
+      "Knee and hip injuries from pedestrian impacts",
+      "Back injuries and herniated discs",
+      "Cuts, burns, and scarring from dog bites or workplace incidents"
+    ],
+    "ctaText": "Tell us what happened and get connected with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Fremont Claim",
+    "items": [
+      {
+        "title": "The clock runs for two years — sometimes less",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency may be responsible, a claim can be due in as little as six months, so getting advice early matters."
+      },
+      {
+        "title": "Partial fault does not shut the door",
+        "desc": "California follows pure comparative fault. Even if you share some blame for what happened, you can still pursue compensation; your share of fault reduces the amount rather than eliminating it."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For most personal injury claims in California, there is no legal ceiling on non-economic damages such as pain, emotional distress, and loss of enjoyment of life."
+      },
+      {
+        "title": "Contingency fees, so cost is not a barrier",
+        "desc": "The independent attorneys in our network work on contingency. You do not pay attorney fees unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "My medical bills are piling up while I'm missing shifts at work.",
+      "I think I might have been partly at fault — does that end it?",
+      "I can't afford to pay a lawyer up front."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do injury collisions in Fremont tend to occur?",
+        "answer": "Public collision records for Fremont show the highest counts along I-880, I-680 Southbound, Fremont Boulevard, and I-680 Northbound. Reports also cluster on Fridays between roughly 5 p.m. and 7 p.m. These are simply counts from public data reflecting high traffic volume, not a judgment about any particular road."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Fremont?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date you were hurt. If a government entity is involved — for example, a city vehicle or a poorly maintained public road — you may need to file a claim within six months. Because these deadlines vary, it is worth speaking with an attorney as soon as you are able."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free connection service, not a law firm. We introduce you to an independent personal injury attorney serving Alameda County, and that attorney works on contingency, meaning there is no fee unless your case results in a recovery."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule. Your recovery is reduced by your percentage of fault, but you are not barred from pursuing a claim. An attorney can help evaluate how fault might be assigned in your situation."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In ordinary California personal injury cases, there is no cap on non-economic damages like pain, suffering, and emotional distress. The amount depends on the specific facts of your case. An independent attorney can walk you through what is realistic for your circumstances without making promises."
+      }
+    ]
+  }
+}

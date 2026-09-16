@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "gonzales city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gonzales, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Gonzales, Monterey County? Get connected free to an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or workplace accident has left you hurt in Gonzales, we'll connect you at no cost with an independent personal injury attorney serving Monterey County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Gonzales, California",
+    "longDescription": "Gonzales is a small, tight-knit city, but its streets still see their share of collisions. In the most recent full year on record, 8 injury collisions were reported within city limits, leaving 8 people hurt. Local roads like Alta Street, 5th Street, Fanoe Road, and the stretch of US-101 that runs through town account for a notable share of reported crashes, and data shows reports tend to cluster on Friday evenings between 6 and 8 p.m., likely tied to end-of-week traffic and commuter volume. Whether you were hurt in a vehicle collision, a fall on someone else's property, or another kind of accident, sorting out what comes next can feel overwhelming, especially while you're trying to heal. LawProactive is a free service that connects injured people in Gonzales with an independent personal injury attorney — we are not a law firm, and we don't charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. You focus on getting better; we'll help you find someone who can look at what happened and explain your options.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why This Matters Right Now",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity was involved, that window can shrink to as little as six months, so it pays to find out early where you stand."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Claim",
+        "desc": "California follows pure comparative fault, which means even if you were partly responsible for what happened, you may still be able to recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California doesn't limit how much you can recover for pain, suffering, and other non-economic harm, unlike some states that cap these damages."
+      },
+      {
+        "title": "You Don't Pay Unless They Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost and no fee unless you receive a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if you waited too long or still have time to act",
+      "Feeling unsure whether being partly at fault ruins your chances",
+      "Dreading calls from insurance adjusters who want a quick, low settlement"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Gonzales?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a claim. If your injury involved a government entity or public road issue, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, so being partly at fault doesn't automatically stop you from recovering compensation. Your total recovery would simply be reduced by whatever percentage of fault is assigned to you."
+      },
+      {
+        "question": "Where do injury collisions tend to cluster in Gonzales?",
+        "answer": "Public-record crash data shows that Alta Street, 5th Street, US-101, and Fanoe Road account for a notable share of reported injury collisions in Gonzales, with more reports occurring on Friday evenings between 6 and 8 p.m. This is simply a pattern in the public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We are not a law firm, and there's no cost to you for the connection."
+      },
+      {
+        "question": "What happens if I don't hire an attorney right away?",
+        "answer": "Waiting can make it harder to gather evidence and witness accounts while they're still fresh, and it also risks running into California's filing deadlines. Speaking with an independent attorney early on can help you understand your options before time becomes a bigger issue."
+      }
+    ]
+  }
+}

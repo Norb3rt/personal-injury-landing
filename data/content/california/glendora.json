@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "glendora city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Glendora, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Glendora? Free service connects you to an independent LA County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on the 210, a T-bone at a Grand Avenue intersection, or another type of crash, we'll connect you free of charge with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Glendora, California",
+    "longDescription": "Glendora sits along the base of the San Gabriel foothills, and a lot of its daily traffic funnels through the I-210 Foothill Freeway, historic Route 66, and Grand Avenue. In the most recent full year on record, the city logged 236 injury collisions, 328 people injured, and 2 traffic deaths — numbers that reflect how much driving happens through this corridor every day. Reports show collisions tend to bunch up on Tuesday afternoons between 2 and 4 p.m., likely tied to school pickup and early commute traffic overlapping. If you were hurt in a crash anywhere in Glendora, sorting out medical bills, insurance calls, and lost work can feel like a full-time job on top of recovering. LawProactive is a free service — not a law firm — that connects injured people with an independent personal injury attorney who can review what happened and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless they recover money on your behalf. There's no cost or obligation to find out where you stand.",
+    "commonInjuriesTitle": "Common Injuries We See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts and lacerations from broken glass",
+      "Torn ligaments and soft-tissue damage"
+    ],
+    "ctaText": "Find out if you have a case — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "The clock is ticking",
+        "desc": "California generally gives you 2 years from the date of injury to file a claim, but if a government entity (like a city road department) is involved, that window can shrink to as little as 6 months."
+      },
+      {
+        "title": "Partial fault won't shut you out",
+        "desc": "Under California's pure comparative fault rule, even if you're partly responsible for a crash, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "California does not cap non-economic damages, like pain and suffering, in ordinary injury cases, unlike some other states."
+      },
+      {
+        "title": "You don't pay unless they win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront legal fee — payment comes only if you recover compensation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up before a settlement comes through",
+      "Fear that admitting any fault means losing the right to compensation",
+      "Not knowing if the deadline to file has already passed",
+      "Feeling pressured by an insurance adjuster to settle quickly"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Glendora?",
+        "answer": "In most cases, California law gives you 2 years from the date of the injury to file a lawsuit. If your claim involves a government entity, such as a city-maintained road, that deadline can be as short as 6 months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Glendora?",
+        "answer": "Public records show higher collision counts along the I-210 Foothill Freeway, Route 66, and Grand Avenue, with reported crashes tending to bunch up on Tuesday afternoons between 2 and 4 p.m. These are simply where collision counts are highest, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows pure comparative fault, which means you can still recover damages even if you share some responsibility. Your compensation would just be reduced by your percentage of fault."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in typical personal injury cases, which is different from some other states."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in the network work on contingency, so there's no fee unless they recover compensation for you."
+      }
+    ]
+  }
+}

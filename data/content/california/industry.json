@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "industry city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "City of Industry, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in a City of Industry crash? Get connected free to an independent CA attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, work accident, or fall in City of Industry, LawProactive can connect you free of charge with an independent attorney serving the local area."
+  },
+  "about": {
+    "title": "Personal Injury Help in City of Industry, California",
+    "longDescription": "City of Industry moves a lot of freight and traffic through a small footprint, and that shows up in the numbers. In the most recent final reporting year, the city logged 207 injury collisions, 282 people hurt, and 3 traffic deaths. A good share of these happen along Valley Boulevard, Gale Avenue, Azusa Avenue, and Hacienda Boulevard, corridors that carry heavy commercial and commuter traffic through industrial parks and warehouse districts. Whether you were rear-ended near a loading dock, injured while walking near a busy intersection, or hurt in a workplace-adjacent incident, sorting out medical bills, lost wages, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — that connects injured people with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk, and any attorney you're matched with works on contingency, meaning no fee unless there's a recovery. You don't have to figure this out by guesswork or alone.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from being struck as a pedestrian or cyclist"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why People in City of Industry Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "You Don't Have Forever to Decide",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government agency can require notice in as little as six months. Getting matched with an attorney early helps make sure deadlines don't slip by."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still recover compensation reduced by your share of fault. An attorney can help sort out how fault is being assigned."
+      },
+      {
+        "title": "No Cap on What You've Actually Lost",
+        "desc": "In most ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means your compensation isn't artificially limited just because your injuries are hard to put a price tag on."
+      },
+      {
+        "title": "You Pay Nothing Unless You Win",
+        "desc": "Attorneys in the network handle these cases on contingency, so there's no upfront legal fee. Payment only comes out of money recovered on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're out of work",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Not knowing if you waited too long or missed a deadline",
+      "Fear that admitting any fault means losing your case entirely"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to pay anything to talk to LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney at no cost to you. We are not a law firm, and there's no obligation to move forward after speaking with someone."
+      },
+      {
+        "question": "How long do I have to file a claim after a crash in City of Industry?",
+        "answer": "California generally allows two years from the date of injury to file a personal injury claim. If a government vehicle or agency was involved, that window can shrink to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to cluster in City of Industry?",
+        "answer": "Public collision records show higher counts along corridors like Valley Boulevard, Gale Avenue, Azusa Avenue, and Hacienda Boulevard, along with a pattern of more reported crashes on Fridays between 5 and 7 p.m. These are simply reporting patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some responsibility. Your recovery would just be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Will I owe money if my case doesn't result in a recovery?",
+        "answer": "Attorneys connected through LawProactive typically work on contingency, meaning their fee only comes from money they recover for you. If there's no recovery, you generally don't owe an attorney's fee."
+      }
+    ]
+  }
+}

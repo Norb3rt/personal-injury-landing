@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "palo-alto workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Palo Alto Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Palo Alto? Get connected free to an independent workers' comp or third-party injury attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt at a Stanford Research Park worksite, a downtown Palo Alto retail job, or a delivery run along Middlefield Road, we can connect you with an attorney who handles workplace injury claims at no cost to you."
+  },
+  "about": {
+    "title": "Palo Alto Workplace Injury Claims",
+    "longDescription": "Palo Alto's mix of tech campuses, biotech labs, retail corridors, and construction near US-101 and Alma Street creates a wide range of ways a workday can go wrong — falls, equipment failures, repetitive strain, or being struck by a vehicle while working near traffic. In California, workers' compensation is generally the exclusive remedy against your employer no matter who was at fault, but that's not always the end of the story. If a subcontractor, property owner, delivery vehicle driver, or equipment manufacturer contributed to your injury, you may have a separate third-party claim worth pursuing alongside your workers' comp benefits. LawProactive doesn't practice law — we're a free connection service that helps injured Palo Alto workers reach an independent attorney who can sort out which claims apply, explain your options in plain language, and help you move forward without added financial risk.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Repetitive strain and overuse injuries",
+      "Struck-by incidents involving vehicles or machinery",
+      "Chemical or lab exposure injuries",
+      "Construction site equipment accidents",
+      "Back and spine injuries from lifting or falls"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Palo Alto Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Two Paths to Recovery",
+        "desc": "Workers' comp is usually your only claim against an employer, but a negligent third party — like a subcontractor or equipment maker — can open a separate injury claim. An attorney can help identify whether your case involves both."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury. Knowing your rights matters if you feel pressured to stay quiet."
+      },
+      {
+        "title": "Deadlines That Don't Wait",
+        "desc": "You generally have 30 days to report an injury to your employer, and a third-party claim carries its own 2-year deadline. Missing either window can limit your options later."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site near US-101 — can I still file a third-party claim?",
+        "answer": "Possibly. If someone other than your employer — like a driver, contractor, or property owner — contributed to the accident, you may have a separate claim beyond workers' compensation. An attorney can review the details of what happened near the roadway and determine if a third party bears responsibility."
+      },
+      {
+        "question": "Does workers' compensation cover all my losses?",
+        "answer": "Workers' comp generally covers medical care and a portion of lost wages, but it typically doesn't cover full pain and suffering. That's why a third-party claim, when one exists, can matter for a more complete recovery."
+      },
+      {
+        "question": "How quickly do I need to act after a workplace injury in Palo Alto?",
+        "answer": "You should report the injury to your employer within 30 days to protect your workers' comp rights. If a third party is involved, that separate claim generally must be filed within 2 years, so getting guidance early is worthwhile."
+      }
+    ]
+  }
+}

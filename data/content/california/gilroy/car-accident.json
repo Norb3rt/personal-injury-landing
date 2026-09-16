@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "gilroy car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gilroy Car Accident Help | LawProactive",
+    "metaDescription": "Hurt in a Gilroy car accident? Get connected free with an independent attorney. No fee unless you recover. Serving Santa Clara County."
+  },
+  "hero": {
+    "subtitle": "If a crash on Monterey Highway, US-101, or Leavesley Road left you hurt, LawProactive can connect you with an independent Gilroy attorney at no cost to start."
+  },
+  "about": {
+    "title": "Gilroy Car Accident Claims",
+    "longDescription": "Gilroy's mix of highway traffic, farm-to-market roads, and busy local streets means collisions happen for a lot of different reasons — sudden slowdowns on US-101, turning conflicts along Monterey Highway, or congestion near 1st Street and Leavesley Road during weekend shopping and errand traffic. Santa Clara County recorded 141 injury collisions and 199 injured people in the most recent final crash year here, with Saturday afternoons between 3 and 5 p.m. showing up often in the data. If you were hurt in one of these crashes, what you do in the days after matters. Photos, witness contact info, and medical records tend to fade or disappear fast, and insurance adjusters move quickly to lock in a story that favors them. LawProactive doesn't charge you anything to connect you with an independent personal injury attorney who can look at what happened and explain your options before you talk to anyone else.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head trauma",
+      "Broken bones and fractures",
+      "Back and spinal disc injuries",
+      "Shoulder and knee ligament tears",
+      "Cuts and lacerations from broken glass or metal"
+    ],
+    "ctaText": "Find out where you stand — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years to file a car accident claim in California, but it can shrink to as little as six months if a government vehicle or road defect is involved. An attorney can flag deadlines early so you don't lose your claim by waiting."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California allows recovery even if you're partly at fault, but any statement you give the other driver's insurer can be used to shift more blame onto you. It's usually safer to let an attorney handle those conversations."
+      },
+      {
+        "title": "No Cap, No Upfront Cost",
+        "desc": "California places no limit on non-economic damages like pain and suffering in most car accident cases, and attorneys in our network work on contingency — you owe nothing unless there's a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt near Leavesley Road and 1st Street — does it matter where the crash happened?",
+        "answer": "The location can matter for evidence purposes, since intersections and corridors often have traffic cameras, nearby businesses with security footage, or CHP/local police reports on file. An attorney can help track down that evidence before it's gone. It doesn't change your legal rights, but it can affect how strong your case is."
+      },
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally not a good idea before speaking with an attorney. Insurance adjusters are trained to ask questions that can be used to reduce or deny your claim later. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California's pure comparative fault rule means you can still recover compensation even if you share some blame, though your recovery may be reduced by your percentage of fault. This makes it especially important to have someone advocating for an accurate assessment of what happened."
+      }
+    ]
+  }
+}

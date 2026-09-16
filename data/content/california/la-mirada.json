@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "la-mirada city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Mirada, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in La Mirada? Los Angeles County has a 2-year filing deadline. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash, a fall, or another type of accident, we can connect you with an independent attorney at no cost, serving La Mirada and the rest of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in La Mirada, California",
+    "longDescription": "La Mirada's residential streets feed into busy corridors like Imperial Highway, Rosecrans Avenue, La Mirada Boulevard, and Valley View Avenue, and public records for 2025 show 94 injury collisions, 120 people hurt, and 3 traffic deaths across the city. Many of these crashes happen on Friday afternoons between 3 and 5 p.m., when commuters and weekend errands overlap. If you or someone you love was hurt in a wreck, a fall, or another kind of accident here, you don't have to sort through insurance calls and medical paperwork by yourself. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we don't charge you anything to make that connection. The attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and puts you in touch with someone who can review what happened and explain your options under California law, including how the state's fault and filing rules might apply to your situation.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Cuts, bruises, and soft tissue injuries",
+      "Injuries requiring physical therapy or surgery"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation attorney connection."
+  },
+  "whyChoose": {
+    "title": "Why This Matters Under California Law",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you 2 years from the date of injury to file a personal injury claim, but claims against a government entity can require notice in as little as 6 months. Waiting too long can cost you the right to recover at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar You",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for the accident, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no limit on non-economic damages like pain and suffering, so your compensation isn't artificially capped."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no hourly fee and no retainer required to get started."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Wondering how medical bills will get paid while you're out of work",
+      "Worrying that admitting any fault means you get nothing",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing how much time you actually have to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim in La Mirada?",
+        "answer": "California generally allows 2 years from the date of the injury to file a personal injury lawsuit. If your claim involves a government agency, such as a city road or public vehicle, the notice period can be as short as 6 months, so it's wise to act early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so being partly responsible doesn't prevent you from recovering compensation. Your recovery is simply reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to cluster in La Mirada?",
+        "answer": "Public collision records show higher counts along corridors like Imperial Highway, Rosecrans Avenue, La Mirada Boulevard, and Valley View Avenue, with reports often peaking Friday afternoons between 3 and 5 p.m. These are simply reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I owe anything if I don't win my case?",
+        "answer": "No. Attorneys in the LawProactive network work on contingency, which means they only collect a fee if you recover money through a settlement or verdict."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't provide legal representation ourselves, and there's no cost to use our service."
+      }
+    ]
+  }
+}

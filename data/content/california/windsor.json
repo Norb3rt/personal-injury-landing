@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "windsor city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Windsor, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Windsor, Sonoma County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end crash or a broken bone from a fall, we connect Windsor residents with an independent personal injury attorney at no cost, serving all of Sonoma County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Windsor, California",
+    "longDescription": "Windsor is a small, tight-knit town, but its roads still see their share of collisions. Recent public records show 42 injury collisions in a single year, leaving 54 people hurt and, tragically, 1 traffic death. Corridors like Old Redwood Highway, US-101, and Shiloh Road carry a lot of local and pass-through traffic, and crash reports show these are among the higher-volume spots in town. If you were hurt in a wreck on one of these roads, or anywhere else in Windsor, you're likely dealing with medical bills, missed work, and a lot of uncertainty about what comes next. LawProactive is a free service — we are not a law firm — that helps connect injured people with an independent attorney who can review what happened and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. There's no obligation to move forward, and no pressure either. We just want to help you find someone who can look at your situation and give you real answers.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and road rash",
+      "Soft tissue and joint damage"
+    ],
+    "ctaText": "Find out where you stand — connect with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Windsor Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government agency can require notice in as little as six months. Acting sooner helps preserve evidence while it's still fresh."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, even if you were partly responsible for the crash, you can still recover damages — just reduced by your share of fault. An attorney can help sort out how fault is being allocated in your case."
+      },
+      {
+        "title": "No Cap on What You've Suffered",
+        "desc": "California doesn't limit non-economic damages, like pain and suffering, in ordinary injury cases. That matters when an injury affects your daily life well beyond medical bills."
+      },
+      {
+        "title": "No Fee Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so you don't pay out of pocket to have your case reviewed or represented. Payment only comes if there's a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling overwhelmed trying to handle paperwork while recovering",
+      "Wondering if it's too late, or too early, to talk to someone about it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much time do I have to file a claim in Windsor?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If your claim involves a government entity, such as a city road issue, the window can be much shorter, sometimes just six months. It's worth talking to someone sooner rather than later to avoid missing a deadline."
+      },
+      {
+        "question": "Does it matter if I was partly at fault for the crash?",
+        "answer": "Not necessarily. California follows a pure comparative fault rule, which means you can still recover compensation even if you were partly responsible, though the amount is reduced by your percentage of fault. An independent attorney can help evaluate how fault might be viewed in your specific situation."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Windsor?",
+        "answer": "Public crash records show higher collision counts along corridors like Old Redwood Highway, US-101, and Shiloh Road, with reported crashes tending to peak on Thursdays between 3 and 5 p.m. This is simply a pattern in public record data, not a judgment about any particular road."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in our network work on contingency, so there's no fee unless you actually recover compensation."
+      },
+      {
+        "question": "What if my injuries didn't seem serious right away?",
+        "answer": "Some injuries, like concussions or soft tissue damage, don't always show symptoms immediately after a crash. It's still worth having things looked at, since documentation early on can matter later if your condition changes. Speaking with an attorney doesn't commit you to anything, it just helps you understand where you stand."
+      }
+    ]
+  }
+}

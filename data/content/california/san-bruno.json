@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "san-bruno city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Bruno, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in San Bruno? Free connection to a San Mateo County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on El Camino Real or injured as a pedestrian near the freeway ramps, we'll connect you with an independent attorney serving San Mateo County — free of charge."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Bruno, California",
+    "longDescription": "San Bruno sits at a crossroads of heavy traffic, with El Camino Real, I-280, I-380, and Skyline Boulevard all funneling drivers through town every day. In the most recent full year on record, San Bruno saw 135 injury collisions, 174 people hurt, and 2 traffic deaths — numbers that reflect how much is riding on these roads at rush hour, especially on Friday evenings between 5 and 7 p.m. when reported crashes tend to peak. If you or someone you love was hurt in one of these incidents, the aftermath can feel overwhelming: medical bills, missed work, insurance calls, and uncertainty about what comes next. LawProactive is a free service, not a law firm — we simply connect injured people in San Bruno with an independent personal injury attorney who can review the details of what happened. There's no cost to reach out, and any attorney you're connected with typically works on contingency, meaning no fee unless there's a recovery. You don't have to sort through this alone or guess at your options. Getting matched with someone who can look at your situation costs nothing and takes just a few minutes.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Pedestrian and cyclist injuries"
+    ],
+    "ctaText": "Find out where you stand — reach out for a free, no-obligation connection."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but if a government entity — like a city vehicle or road defect — is involved, that window can shrink to as little as six months. Waiting even a few weeks to explore your options can matter."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning that even if you were partly responsible for what happened, you may still recover compensation — it's simply reduced by your share of fault. This is different from states that bar recovery entirely if you're found even slightly at fault."
+      },
+      {
+        "title": "There's No Ceiling on Pain and Suffering Claims",
+        "desc": "In an ordinary injury case in California, there's no cap on non-economic damages — the compensation tied to pain, suffering, and diminished quality of life. This means the value of your claim isn't artificially limited by a state-imposed maximum."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network typically work on contingency, so there's no upfront legal fee. If there's no recovery, you generally owe nothing for their time."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling before you've healed",
+      "Not knowing if you waited too long or missed a deadline",
+      "Wondering if being partly at fault means you have no case at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a crash in San Bruno?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If your injury involved a government vehicle or a road maintained by a public entity, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you were partly at fault — your recovery is just reduced by your percentage of responsibility. This is more forgiving than some other states' laws."
+      },
+      {
+        "question": "Where do crashes tend to cluster in San Bruno?",
+        "answer": "Based on public-record collision counts, higher volumes of reported crashes have been associated with corridors like El Camino Real, I-280, I-380, and Skyline Boulevard. These are simply neutral collision counts, not a judgment about any road's safety."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in the network typically work on contingency — meaning they only get paid if you receive a settlement or award. There's no fee for the initial conversation."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In a standard California personal injury case, there is no cap on non-economic damages like pain and suffering. This differs from certain other types of claims, such as some medical malpractice cases, which may be subject to specific limits."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "oildale city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oildale, CA Injury Lawyer Connection | Free, No Fee",
+    "metaDescription": "Hurt in Oildale or Kern County? Get connected free to an independent injury attorney. No fee unless you win. 2-year filing deadline applies."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Chester Avenue or suffered a fall or workplace injury elsewhere in Oildale, we can connect you free of charge with an independent attorney serving Kern County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Oildale, California",
+    "longDescription": "Oildale sits just north of the Kern River, bordered by corridors like North Chester Avenue, Manor Street, and Golden State Avenue, where local traffic mixes with commuters heading toward Highway 99. These roads carry a steady flow of cars, trucks, and pedestrians every day, and collisions here are a matter of public record like anywhere else in Kern County. If you were hurt in one of these incidents, or in a fall, workplace accident, or another mishap around town, sorting out medical bills and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — we are not a law firm — that connects Oildale residents with an independent personal injury attorney who can review what happened and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and there's no obligation to move forward. We simply help you find someone who can look at your situation with the seriousness it deserves and walk you through next steps in plain language.",
+    "commonInjuriesTitle": "Injuries People in Oildale Often Deal With",
+    "commonInjuries": [
+      "Whiplash and neck strain from car crashes",
+      "Broken bones from falls or collisions",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from motorcycle or pedestrian accidents"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney who can help — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to Someone Now",
+    "items": [
+      {
+        "title": "The Filing Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity was involved, that window can shrink to as little as six months, so acting early matters."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you share some blame for what happened, you can still recover damages — just reduced by your percentage of fault."
+      },
+      {
+        "title": "No Cap on What You Can Seek for Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no limit on non-economic damages like pain and suffering, so your compensation isn't artificially capped."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, which means they only get paid if they win or settle your case. There's no bill for a consultation and no fee unless there's a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Fearing the insurance company won't take the claim seriously",
+      "Not knowing if it's too late to do anything about what happened",
+      "Feeling unsure whether being partly at fault means giving up on a claim"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that puts injured people in touch with independent personal injury attorneys. We don't represent you directly, and any attorney you're connected with makes their own decisions about your case."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Most personal injury claims must be filed within two years of the injury. If your claim involves a government agency, such as a public road defect, that deadline can be as short as six months, so it's worth getting advice sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Oildale?",
+        "answer": "Public records show collisions occurring along corridors like North Chester Avenue and Manor Street, which see heavier daily traffic volume as connectors toward Highway 99 and Bakersfield. These are simply reported incident locations, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partially at fault doesn't bar you from recovering compensation. Your recovery is just reduced by whatever percentage of fault is assigned to you."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney?",
+        "answer": "No. Connecting through LawProactive is free, and attorneys in our network typically work on contingency, meaning they only get paid if you recover money. There's no upfront cost or obligation to proceed."
+      }
+    ]
+  }
+}

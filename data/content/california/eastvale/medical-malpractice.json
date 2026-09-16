@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "eastvale medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Eastvale Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent Eastvale medical malpractice attorney. No fee unless you recover. Learn your rights under California's MICRA law."
+  },
+  "hero": {
+    "subtitle": "When care at an Eastvale clinic or hospital goes wrong, the rules that follow are strict and time-limited. LawProactive can connect you with an independent attorney who understands California's malpractice framework."
+  },
+  "about": {
+    "title": "Eastvale Medical Malpractice Claims",
+    "longDescription": "Eastvale residents rely on nearby Riverside County medical facilities for everything from routine care to emergency treatment, and most visits go as expected. But when a diagnosis is missed, a surgery goes wrong, or medication is mismanaged, the aftermath can be confusing and painful. California treats these cases differently than a typical injury claim — the MICRA law sets a strict notice period, a statute of limitations tied to discovery, and a cap on certain damages that adjusts annually. A qualified medical expert almost always has to review the care before a claim can move forward. LawProactive doesn't practice law itself; we simply connect Eastvale residents with an independent attorney who can evaluate what happened, explain whether MICRA's rules apply to your situation, and help you understand your options at no upfront cost.",
+    "commonInjuriesTitle": "Common Types of Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or dosage errors",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on treatment"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Eastvale Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA's Clock Moves Fast",
+        "desc": "California generally allows one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim. An attorney can help track these deadlines before they pass."
+      },
+      {
+        "title": "The 90-Day Notice Requirement",
+        "desc": "Before filing suit, California law typically requires sending the healthcare provider a 90-day notice. Missing this step can complicate a case, so early guidance matters."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a poor outcome alone doesn't prove malpractice, a qualified medical expert almost always needs to review the records first. Independent attorneys in our network work with professionals who can assess whether the standard of care was met."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law requires showing that a provider deviated from the accepted standard of care and that this deviation caused harm. A poor result alone, even a serious one, isn't enough on its own — which is why expert review matters."
+      },
+      {
+        "question": "Is there a hospital in Eastvale where my treatment happened?",
+        "answer": "Eastvale residents often receive care at facilities throughout Riverside County, since the city itself has limited large-scale hospital infrastructure. An attorney can help identify the correct provider and facility to name in a claim regardless of where treatment occurred."
+      },
+      {
+        "question": "What does the damages cap under MICRA mean for my case?",
+        "answer": "California places a cap on non-economic damages, like pain and suffering, and that cap rises each year under current law. Economic damages, such as medical bills and lost income, generally aren't subject to the same limit. An independent attorney can walk through how this applies to your specific situation."
+      }
+    ]
+  }
+}

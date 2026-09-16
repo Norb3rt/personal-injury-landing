@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "richmond city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Richmond, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Richmond or Contra Costa County? Most claims allow 2 years to file. Get connected free with an independent attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on I-80, knocked off your bike on Barrett Avenue, or hurt in a fall at a Richmond business, LawProactive connects you with an independent injury attorney at no cost. We serve Richmond and all of Contra Costa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Richmond, California",
+    "longDescription": "Richmond sits where I-80 and I-580 meet the bay, and much of the city's traffic funnels through those two interstates, along with Richmond Parkway and Barrett Avenue. Public records for 2025, the most recent final year, show 453 injury collisions across the city, leaving 618 people injured and 8 people dead. Reported crashes tend to peak on Thursdays between 5 and 7 p.m., when the evening commute is at its heaviest. Those are just counts. Behind each one is somebody who now has to figure out medical bills, missed work, and a phone that keeps ringing with adjusters. That is where LawProactive comes in. We are a free service that connects injured people in Richmond and the rest of Contra Costa County with an independent personal injury attorney. We are not a law firm, and we do not give legal advice ourselves. What we do is make the introduction so you are not left searching on your own. The attorneys in our network handle cases on contingency, meaning there is no fee unless there is a recovery. California gives most people two years to file an injury claim, but that window can be far shorter when a public agency is involved, so reaching out early tends to keep things simpler.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Richmond",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken arms, wrists, and collarbones",
+      "Back and spinal disc injuries",
+      "Road rash and fractures from bicycle or pedestrian crashes",
+      "Knee and hip injuries from slip-and-fall incidents"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Richmond Claim",
+    "items": [
+      {
+        "title": "Two years for most claims, less for public agencies",
+        "desc": "California generally allows two years from the injury to file a personal injury lawsuit. If a city, county, or state agency may be at fault, a claim can be due in as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not shut you out",
+        "desc": "California follows pure comparative fault. If you share some blame for a crash on Richmond Parkway, your recovery is reduced by your percentage, not erased."
+      },
+      {
+        "title": "No cap on pain-and-suffering in ordinary cases",
+        "desc": "For a typical injury claim in California, there is no statutory limit on non-economic damages like pain, distress, or loss of enjoyment of life."
+      },
+      {
+        "title": "Contingency fees only",
+        "desc": "The attorneys in our network take cases on contingency. You do not pay a fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer is already pushing me to accept a quick offer.",
+      "I can't work right now and the bills are piling up.",
+      "I might have been partly at fault, so I'm not sure I have a case.",
+      "I've never talked to a lawyer and don't know what it would cost me."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Richmond?",
+        "answer": "For most personal injury cases in California, you have two years from the date you were hurt. If your claim involves a government entity, such as a city vehicle or a poorly maintained public road, you may need to file an administrative claim within six months. An attorney can pin down the exact deadline for your situation."
+      },
+      {
+        "question": "Where do crashes tend to happen in Richmond?",
+        "answer": "Public collision records show the highest counts along I-80, Richmond Parkway, Barrett Avenue, and I-580. These are simply the corridors with the most reported collisions, largely because they carry the most traffic. Reported crashes in the city also tend to peak on Thursdays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not provide legal advice. We match you with an independent personal injury attorney who can review your case and explain your options."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover even if you were partly to blame. Your compensation is reduced by your share of fault rather than eliminated. For example, being found 30 percent at fault would reduce a recovery by 30 percent."
+      },
+      {
+        "question": "What does it cost to get an attorney through LawProactive?",
+        "answer": "Our service is free. The attorneys in our network work on contingency, so there is no fee unless your case results in a recovery. You can discuss the specific fee percentage directly with the attorney before agreeing to anything."
+      }
+    ]
+  }
+}

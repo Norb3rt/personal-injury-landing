@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "azusa medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Azusa Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Azusa? LawProactive connects you free with an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Azusa went wrong and left you injured, LawProactive can connect you with an independent attorney who understands how California's medical malpractice rules apply here."
+  },
+  "about": {
+    "title": "Azusa Medical Malpractice Claims",
+    "longDescription": "Azusa residents rely on a mix of local clinics, urgent care centers, and larger hospital systems nearby in the San Gabriel Valley for their medical care. When that care falls below an acceptable standard — a missed diagnosis, a surgical mistake, a medication error — the effects can reshape a family's daily life. California law treats these claims differently than ordinary injury cases: MICRA imposes a 90-day pre-suit notice requirement, a filing deadline that's generally one year from discovery (and never more than three years from the injury), and a cap on non-economic damages that adjusts annually. A qualified medical expert almost always has to review the case before it can move forward. LawProactive doesn't practice law or evaluate your claim ourselves — we simply connect Azusa residents with an independent attorney who can walk through what happened, explain the MICRA timeline, and help determine whether the care you received fell short of what was reasonable.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Azusa Families Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the MICRA Clock",
+        "desc": "California's malpractice notice and filing deadlines are stricter than typical injury cases, with a 90-day pre-suit notice and a discovery-based statute of limitations. We connect you with attorneys who track these deadlines closely."
+      },
+      {
+        "title": "Expert Review Matters",
+        "desc": "Since a qualified medical expert is almost always required to support a malpractice claim, we help match you with attorneys who have relationships with the right specialists to evaluate what happened."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, meaning there's no fee unless you recover. That structure exists because these cases often require significant investment before any resolution."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Azusa?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date the injury occurred. A 90-day pre-suit notice to the provider is also required before filing. An attorney can help pinpoint your specific deadline."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. A poor result alone doesn't establish malpractice — the care provided has to have fallen below the accepted standard of care, and that typically requires a qualified medical expert to confirm it. This is one reason working with an attorney early matters."
+      },
+      {
+        "question": "Does it matter which Azusa-area hospital or clinic was involved?",
+        "answer": "It can, since different facilities may have different insurance carriers, staff structures, or corporate ownership that affect how a claim is handled. An independent attorney can look into the specifics of the provider involved in your case."
+      }
+    ]
+  }
+}

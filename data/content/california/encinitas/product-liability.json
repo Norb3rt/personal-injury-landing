@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "encinitas product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Product Liability Help in Encinitas, CA | LawProactive",
+    "metaDescription": "Hurt by a defective product in Encinitas? LawProactive connects you free with an independent injury attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a defective product injured you or someone you love in Encinitas, LawProactive can connect you with an independent attorney who handles these claims on contingency, at no upfront cost to you."
+  },
+  "about": {
+    "title": "Encinitas Product Liability Claims",
+    "longDescription": "Encinitas households buy everything from surfboards and e-bikes to kitchen appliances and children's gear, and most of the time these products work as expected. But when a design flaw, a manufacturing error, or a missing warning label leads to an injury, California law gives you a path forward that doesn't hinge on proving anyone was careless. Under the state's strict liability rules, the focus is on the product itself and whether it was reasonably safe for its intended use. That matters in a coastal community like Encinitas, where residents rely on outdoor gear, cycling equipment, and household tools daily. If you were hurt by something you bought, used, or were given, LawProactive can connect you with an independent attorney who understands how to investigate a defective product, identify who along the supply chain may share responsibility, and pursue a claim without upfront cost to you.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or batteries",
+      "Lacerations from faulty tools or sporting equipment",
+      "Traumatic brain injury from defective helmets or protective gear",
+      "Fractures caused by collapsing furniture or ladders",
+      "Poisoning or illness from mislabeled household chemicals",
+      "Crush or entanglement injuries from machinery defects"
+    ],
+    "ctaText": "Tell us what happened, and we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Strict Liability Matters for Your Claim",
+    "items": [
+      {
+        "title": "You Don't Have to Prove Negligence",
+        "desc": "Under California's strict liability standard, showing the product was defective and caused your injury is often enough — you're not required to prove the manufacturer was careless."
+      },
+      {
+        "title": "Multiple Parties Can Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, which widens the pool of parties an attorney can investigate on your behalf."
+      },
+      {
+        "title": "Preserving the Product Protects Your Claim",
+        "desc": "Keeping the defective item, its packaging, and any receipts intact gives an attorney the evidence needed to build a design, manufacturing, or warning-defect case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What counts as a product defect under California law?",
+        "answer": "California recognizes three types: design defects, manufacturing defects, and failure-to-warn defects. A design defect means the product is inherently unsafe even when made correctly, while a manufacturing defect means something went wrong during production. A failure-to-warn claim involves missing or inadequate instructions about a known risk."
+      },
+      {
+        "question": "I was hurt by gear I bought locally in Encinitas — does that change anything?",
+        "answer": "Not necessarily. Whether you bought the product at a local Encinitas shop, along N El Camino Real, or online, California liability rules generally apply the same way. What matters most is preserving the product and documenting how the injury happened."
+      },
+      {
+        "question": "Do I need to prove the manufacturer knew about the defect?",
+        "answer": "No. Strict liability generally doesn't require proof that the manufacturer knew or should have known about the defect. The focus is on whether the product itself was unreasonably dangerous when it caused your injury."
+      }
+    ]
+  }
+}

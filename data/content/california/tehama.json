@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "tehama city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tehama, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Tehama County? Connect free with an independent attorney. 2 years to file, no fee unless you win. No obligation."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash, broken bones, or a more serious injury from a crash on a Tehama County road, we'll connect you free of charge with an independent attorney who can review what happened."
+  },
+  "about": {
+    "title": "Personal Injury Help in Tehama, California",
+    "longDescription": "Tehama sits along a network of rural corridors that carry a mix of local and through traffic — State Route 36, State Route 32, South Avenue, and the stretch near 6700 Sr-36(w) among them. In the most recent full year on record, Tehama saw 4 injury collisions and 4 people hurt, with no traffic deaths reported. Numbers like these are public record, not a verdict on any particular road — but they're a reminder that even a short trip through town can end in an unexpected injury. If you were hurt in a collision here, sorting out medical bills, missed work, and vehicle repairs can feel like a full-time job on top of recovering. LawProactive is a free service that connects injured people in Tehama County with an independent personal injury attorney who can look at the details of what happened. We are not a law firm and we don't provide legal advice ourselves — we simply make the introduction. Attorneys in our network work on contingency, meaning there's no fee unless they recover something for you. Reaching out costs nothing and puts you under no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken or fractured bones",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Find out where you stand — connect with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What Matters Under California Law",
+    "items": [
+      {
+        "title": "A Filing Clock That Doesn't Wait",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, though claims against a government entity can require notice in as little as six months. Waiting to explore your options can quietly cost you your right to pursue one."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still be able to recover compensation — just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "Unlike some states, California places no cap on non-economic damages, such as pain and suffering, in a standard injury case."
+      },
+      {
+        "title": "You Don't Pay Unless They Recover",
+        "desc": "Attorneys in our network handle injury cases on contingency, meaning legal fees only come out of money recovered on your behalf — never out of pocket up front."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying whether medical bills will keep piling up faster than they can be paid",
+      "Wondering if missing work will cost you your job on top of your injury",
+      "Feeling unsure whether the insurance company's offer is actually fair",
+      "Not knowing how much time you actually have left to do something about it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Tehama?",
+        "answer": "California generally allows two years from the date of the injury to file a personal injury claim. If the at-fault party is a government entity, that window can shrink to as little as six months for a claims notice. It's worth checking sooner rather than later, since missing a deadline can end your case before it starts."
+      },
+      {
+        "question": "Where do injury collisions tend to cluster in Tehama?",
+        "answer": "Public crash records show reported collisions concentrated along corridors like State Route 36, State Route 32, South Avenue, and near 6700 Sr-36(w), with activity often peaking on Fridays between roughly midnight and 2 a.m. These are simply counts from public records, not a statement about any road being unsafe — traffic volume and timing both play a role."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "Under California's pure comparative fault rule, being partly responsible doesn't automatically bar you from recovering compensation. Your recovery would typically be reduced by your percentage of fault, but you may still have a valid claim worth exploring."
+      },
+      {
+        "question": "Will I have to pay anything upfront to get help?",
+        "answer": "No. LawProactive's connection service is free, and independent attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no upfront cost to find out where you stand."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In an ordinary California personal injury case, there's no statutory cap on non-economic damages like pain and suffering. What you might recover depends on the specifics of your situation, which an independent attorney can help evaluate."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "national-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "National City, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in National City? Free connection to an independent San Diego County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, pedestrian collision, or workplace accident in National City, we can connect you with an independent attorney at no cost to you, serving all of San Diego County."
+  },
+  "about": {
+    "title": "Personal Injury Help in National City, California",
+    "longDescription": "National City sees a steady flow of traffic on corridors like Highland Avenue, E Plaza Boulevard, National City Boulevard, and the I-5 interchange, and public records show the toll: 296 injury collisions in the most recent final reporting year, with 412 people hurt and 6 lives lost. Behind each of those numbers is someone dealing with medical bills, missed work, and an insurance company that may not have their best interest at heart. LawProactive exists to make that first step easier. We are a free service, not a law firm, and we don't charge you anything to connect with an independent personal injury attorney who can look at what happened and explain your options. The attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Whether your injury happened in a car accident on National City Boulevard, a fall, or another type of incident, reaching out costs nothing and starts the conversation about what comes next.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Cuts, bruises, and soft tissue injuries",
+      "Injuries requiring surgery or physical therapy"
+    ],
+    "ctaText": "Get connected with an independent attorney today, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most injury claims in California must be filed within two years, but claims against a government entity can require notice in as little as six months. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, so even if you're found partly responsible for a collision, you can still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no limit on compensation for pain, suffering, and other non-economic losses, unlike some other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. That means getting legal help doesn't add financial risk while you're already recovering."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Feeling pressured by an insurance adjuster calling too soon",
+      "Not knowing if you waited too long to take action",
+      "Fear that being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in National City?",
+        "answer": "California generally allows two years from the date of the injury to file a personal injury lawsuit. If your claim involves a government entity, such as a city vehicle or defective public road, the notice period can be as short as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some blame for what happened. Your recovery would simply be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do collisions tend to cluster in National City?",
+        "answer": "Public collision records show higher counts along corridors such as Highland Avenue, E Plaza Boulevard, National City Boulevard, and near the I-5 interchange, with reported crashes tending to peak on Wednesdays between 5 and 7 p.m. These are neutral public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Do I have to pay anything to get connected with an attorney?",
+        "answer": "No. LawProactive is a free service, and the independent attorneys in our network work on contingency, meaning they only get paid if they recover compensation for you."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is not a law firm. We simply connect injured people in National City and throughout San Diego County with independent personal injury attorneys who can evaluate their situation."
+      }
+    ]
+  }
+}

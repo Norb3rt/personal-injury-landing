@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "sausalito city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sausalito, CA Injury Lawyer Connection | Free Review",
+    "metaDescription": "Injured in Sausalito, Marin County? Free connection to an independent attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a crash on Bridgeway or US-101 left you with whiplash, a broken bone, or worse, we can connect you with an independent attorney at no cost, serving Marin County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Sausalito, California",
+    "longDescription": "Sausalito is a small town by population, but its roads carry a steady flow of commuters, visitors, and delivery traffic funneling toward US-101 and along Bridgeway. In the most recent year on record, the city logged 31 injury collisions and 38 people injured, with no traffic deaths reported. Many of these crashes cluster on Saturday afternoons between 3 and 5 p.m., when both local and through traffic converge on Bridgeway and the US-101 corridors, including the southbound approach. Whether you were rear-ended near the waterfront, sideswiped merging onto the freeway, or hurt as a pedestrian along Bridgeway's shops, the aftermath can bring medical bills, missed work, and uncertainty about what comes next. LawProactive is a free service that connects injured people in Sausalito with an independent personal injury attorney — we are not a law firm, and we do not represent you directly. Attorneys in our network work on contingency, meaning there's no fee unless you recover money. Reaching out costs nothing and puts you in touch with someone who can review your situation and explain your options under California law.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries from impact"
+    ],
+    "ctaText": "Find out your options — the call is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "Your Time to File Is Limited",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but if a government entity (like a city road agency) is involved, that window can shrink to as little as six months. Waiting too long can cost you the right to recover anything."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, so even if you share some blame for what happened, you can still recover damages — just reduced by your percentage of fault. An attorney can help sort out how fault is allocated."
+      },
+      {
+        "title": "There's No Cap on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and loss of enjoyment of life. That means your compensation isn't artificially capped just because your injuries are hard to put a price on."
+      },
+      {
+        "title": "No Recovery, No Fee",
+        "desc": "Attorneys in our network work on contingency, so you don't pay out of pocket to have your case reviewed or pursued. Legal fees only come out of a settlement or award if you win."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay mounting medical bills",
+      "Fear that missing work will hurt your family financially",
+      "Confusion over whether the crash was partly your fault",
+      "Not knowing how much time you have left to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We don't represent clients directly or charge any fees ourselves."
+      },
+      {
+        "question": "How much time do I have to file a claim in California?",
+        "answer": "Generally, you have two years from the date of the injury to file a personal injury claim in California. If your claim involves a government entity, that deadline can be as short as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you were partly at fault. Your recovery would simply be reduced by your share of responsibility, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Sausalito?",
+        "answer": "Public collision records show that reported crashes in Sausalito tend to peak on Saturday afternoons between 3 and 5 p.m., with the highest collision counts recorded along Bridgeway and the US-101 corridors, including the southbound approach. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. Connecting with an attorney through LawProactive is free, and attorneys in our network work on contingency. That means they only get paid if you receive a settlement or award."
+      }
+    ]
+  }
+}

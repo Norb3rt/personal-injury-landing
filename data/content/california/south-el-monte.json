@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "south-el-monte city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "South El Monte, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in South El Monte, LA County? Free attorney connection, no fee unless you win. CA gives 2 years to file most injury claims. Reach out today."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with a car crash injury, a fall, or another accident, connecting with an independent attorney costs you nothing. We serve people throughout Los Angeles County, including South El Monte."
+  },
+  "about": {
+    "title": "Personal Injury Help in South El Monte, California",
+    "longDescription": "South El Monte is a small but busy city, and its traffic reflects that. In the most recent full year of state data, the city recorded 93 injury collisions, with 122 people hurt and one traffic death. Local corridors like Rush Street, Garvey Avenue, Santa Anita Avenue, and Durfee Avenue see a steady share of this volume, and reported crashes tend to cluster on Friday afternoons and evenings, roughly 5 to 7 p.m., when work traffic and weekend errands overlap. If you were hurt in a collision on one of these streets, or anywhere else in the city, you likely have questions about medical bills, missed work, and what comes next. LawProactive is a free service — not a law firm — that connects injured people in South El Monte with an independent personal injury attorney who can review the details of what happened. There's no obligation, and attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and helps you understand your options sooner rather than later.",
+    "commonInjuriesTitle": "Common Injuries We Help Connect People About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from pedestrian or bicycle collisions"
+    ],
+    "ctaText": "Tell us what happened — the call is free, and there's no pressure to move forward."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California Gives You Two Years — Usually",
+        "desc": "Most injury claims in California must be filed within two years of the accident. If a government entity is involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover compensation — it's just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California doesn't cap non-economic damages like pain and suffering, unlike some other states."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency. That means legal fees come out of any settlement or award — not out of your pocket up front."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about who pays the medical bills piling up",
+      "Losing income while you're too hurt to work",
+      "Feeling pressured by an insurance adjuster who calls too soon",
+      "Not knowing if you still have a case if you were partly at fault"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a crash in South El Monte?",
+        "answer": "In most cases, California law gives you two years from the date of the accident to file a personal injury claim. If your accident involved a government vehicle or agency, that deadline can be as short as six months, so it's worth checking sooner rather than later. An attorney can confirm which timeline applies to your situation."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your total recovery is simply reduced by your percentage of fault. This applies whether you were 10% or 60% responsible."
+      },
+      {
+        "question": "Where do crashes tend to cluster in South El Monte?",
+        "answer": "Public-record collision counts show higher volumes along Rush Street, Garvey Avenue, Santa Anita Avenue, and Durfee Avenue, with reported crashes tending to peak on Fridays between 5 and 7 p.m. These are simply the corridors with the most recorded incidents, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge any fees?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent attorneys — we are not a law firm ourselves. Attorneys in our network work on contingency, so there's no fee unless you recover compensation."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases, California does not cap non-economic damages such as pain and suffering. This differs from claims against certain government entities or specific case types, which is another reason speaking with an attorney about the specifics of your situation matters."
+      }
+    ]
+  }
+}

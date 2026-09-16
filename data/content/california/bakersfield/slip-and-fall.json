@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "bakersfield slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bakersfield Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Bakersfield? LawProactive connects you, free, with an independent premises liability attorney in Kern County."
+  },
+  "hero": {
+    "subtitle": "A wet floor, a broken curb, a dim stairwell: if a property hazard in Bakersfield put you on the ground, you deserve straight answers about who is responsible. LawProactive connects you, at no cost, with an independent Kern County premises liability attorney."
+  },
+  "about": {
+    "title": "Bakersfield Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You're on the ground in a parking lot off Ming Avenue or in a store aisle near Panama Lane, embarrassed, checking whether your wrist or hip still works. Only later does the question surface: why was that floor wet, that step unmarked, that walkway cracked? In Kern County, property owners who open their doors to the public carry a duty to keep the place reasonably safe. When they knew about a hazard, or should have caught it with ordinary attention, and did nothing to fix or flag it, California law lets the injured person seek compensation. Proving that notice is where these claims are won or lost, and evidence disappears quickly in Bakersfield: spills get mopped, camera footage gets overwritten, incident reports go missing. LawProactive is a free service, not a law firm. We connect you with an independent premises liability attorney who works on contingency, so there is no fee unless your case recovers something.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Bakersfield Falls",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and forearm breaks from bracing a fall",
+      "Concussions and other head trauma",
+      "Knee ligament tears",
+      "Herniated discs and lower back strain",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with a Bakersfield premises liability attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Bakersfield Fall Victims Turn to LawProactive",
+    "items": [
+      {
+        "title": "Attorneys who know how to prove notice",
+        "desc": "California requires showing the owner knew or should have known about the hazard and failed to fix it or warn you. The attorneys in our network dig into cleaning logs, inspection schedules, and prior complaints to build that piece of the case."
+      },
+      {
+        "title": "Deadlines tracked from day one",
+        "desc": "Most California premises claims must be filed within two years, but a fall on city, county, or other public property triggers a much shorter claim window. Getting connected early keeps those dates from slipping past."
+      },
+      {
+        "title": "Comparative fault doesn't shut the door",
+        "desc": "Under California's pure comparative fault rule, being partly to blame reduces your recovery rather than erasing it. An independent attorney can push back when an insurer tries to pin the entire fall on you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped inside a City of Bakersfield or Kern County building. Is the deadline still two years?",
+        "answer": "No. When the property belongs to a public entity, California requires you to file a formal government claim first, generally within six months of the injury. Missing that step can end the case before it begins. This is one of the biggest reasons to reach out quickly after a fall on public property in Bakersfield."
+      },
+      {
+        "question": "What should I do right after falling at a Bakersfield store or parking lot?",
+        "answer": "Photograph the exact spot, the hazard, your footwear, and anything nearby like missing warning signs or burned-out lights. Ask for an incident report and get the names of anyone who saw you fall. Then, as soon as possible, send the property owner a written request to preserve surveillance video, since many systems record over footage within days."
+      },
+      {
+        "question": "The store says I wasn't watching where I was walking. Do I still have a case?",
+        "answer": "Possibly, yes. California uses pure comparative fault, which means a jury can assign you a percentage of blame and still award damages for the remainder. Whether the owner had notice of the hazard and did nothing about it usually matters far more than whether you glanced at your phone. An attorney can evaluate how those factors weigh in your situation."
+      }
+    ]
+  }
+}

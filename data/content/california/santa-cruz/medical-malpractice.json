@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "santa-cruz medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Cruz Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Santa Cruz? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis is missed or a procedure goes wrong at a Santa Cruz clinic or hospital, the aftermath can feel isolating. LawProactive connects you, free of charge, with an independent attorney who handles medical malpractice claims in Santa Cruz County."
+  },
+  "about": {
+    "title": "Santa Cruz Medical Malpractice Claims",
+    "longDescription": "Santa Cruz County residents rely on a mix of small clinics, urgent care centers, and larger hospital systems for their care, and most visits go fine. But when a provider misses a clear warning sign, mishandles a surgery, or gets a medication order wrong, the consequences can follow a patient for years. California law treats these cases differently than a typical injury claim — there's a shorter window to act, a required 90-day notice before filing suit, and rules unique to medical claims under MICRA. If you or someone you love was harmed by substandard care anywhere in Santa Cruz, from a downtown clinic to a hospital near Water Street, LawProactive can connect you with an attorney who understands how these claims work locally and can review what happened at no cost to you.",
+    "commonInjuriesTitle": "Situations That May Warrant a Closer Look",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your care, at no cost."
+  },
+  "whyChoose": {
+    "title": "What Makes These Claims Different",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally allows one year from when you discover the harm, and never more than three years from the injury itself, so waiting can close the door on a claim."
+      },
+      {
+        "title": "A Required 90-Day Notice",
+        "desc": "Before a malpractice lawsuit can be filed, California law requires giving the provider 90 days' written notice — a step an attorney can help you handle correctly."
+      },
+      {
+        "title": "Expert Review Is Usually Necessary",
+        "desc": "Because a poor outcome alone doesn't prove malpractice, these claims almost always need a qualified medical expert to show the care fell below an acceptable standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. Medicine involves risk, and not every complication or disappointing result is due to negligence. A claim generally requires showing the provider's care fell below what a reasonably careful provider would have done, which is why a medical expert's review matters so much."
+      },
+      {
+        "question": "Are there local hospitals or clinics in Santa Cruz that this applies to?",
+        "answer": "Yes, malpractice claims can arise from care at any Santa Cruz County provider, whether it's a hospital, an urgent care center, or a private practice near corridors like Ocean Street or Soquel Avenue. LawProactive can help connect you with an attorney regardless of which facility was involved."
+      },
+      {
+        "question": "How much of my settlement could go toward non-economic damages like pain and suffering?",
+        "answer": "California caps non-economic damages in medical malpractice cases, though that cap rises each year under current law. An attorney can walk you through how the current cap might apply to your specific situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "los-altos-hills workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Claims in Los Altos Hills, CA | LawProactive",
+    "metaDescription": "Hurt on the job in Los Altos Hills? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Los Altos Hills, whether on a hillside jobsite off Purissima Road or commuting for work along I-280, you may have options beyond a standard workers' comp claim. LawProactive can connect you with an independent attorney who can look at whether a third party bears responsibility."
+  },
+  "about": {
+    "title": "Los Altos Hills Workplace Injury Claims",
+    "longDescription": "Los Altos Hills is a small, quiet community, but people still get hurt doing work here, whether that's landscaping crews on steep private properties, contractors doing home renovations near Page Mill Road, or delivery drivers navigating I-280 and Purissima Road for job duties. In most cases, California workers' compensation is the only path against your employer, regardless of who was at fault. But when a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, a separate third-party claim may be possible alongside your comp benefits. LawProactive doesn't practice law. We're a free service that connects injured workers in Los Altos Hills with an independent attorney who can review the details of your accident, explain how workers' comp and third-party claims interact, and help you understand what deadlines apply. There's no cost to get connected, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, roofs, or hillside terrain",
+      "Injuries from defective tools or machinery",
+      "Vehicle collisions while driving for work",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from falling objects or debris on jobsites",
+      "Electrical or equipment-related burns"
+    ],
+    "ctaText": "Get connected with an independent attorney today, free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California generally makes workers' comp your exclusive remedy against an employer, but a negligent third party, like a subcontractor, equipment maker, or another driver, can still be held separately liable. An attorney can help determine if that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally have 30 days to report a workplace injury to your employer to preserve your workers' comp rights. Missing that window can complicate your claim, so early guidance matters."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury or filing a claim. If you're worried about your job, an independent attorney can help you understand your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working on a property in Los Altos Hills, not at an office. Does that change anything?",
+        "answer": "Not necessarily. Whether you were doing yard work, construction, or another job on a hillside property, California workers' comp rules generally still apply if you were acting within your job duties. If a landowner, contractor, or equipment supplier contributed to the accident, that could open the door to a separate third-party claim. An independent attorney can look at the specifics of the property and the work being done."
+      },
+      {
+        "question": "Can I file a claim if I was injured driving for work near I-280 or Page Mill Road?",
+        "answer": "Yes, work-related driving injuries are usually covered by workers' compensation, and if another driver caused the crash, you may also have a separate claim against that driver. These cases can get complicated when both routes overlap, so it helps to have someone review the police report and your work duties together."
+      },
+      {
+        "question": "What if my employer says my injury isn't covered?",
+        "answer": "Employers sometimes dispute claims, but that doesn't mean you have no options. An independent attorney can review your paperwork, explain your rights under California law, and help you understand next steps, including whether a third party might be involved."
+      }
+    ]
+  }
+}

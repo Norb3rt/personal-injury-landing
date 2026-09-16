@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "belvedere workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Belvedere Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Belvedere, CA? Free connection to an independent attorney who handles workers' comp and third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt while working in Belvedere, the rules around workers' comp and third-party claims can get confusing fast. LawProactive connects you with an independent attorney, at no cost, who can help sort out your options."
+  },
+  "about": {
+    "title": "Belvedere Workplace Injury Claims",
+    "longDescription": "Belvedere is a small, close-knit community tucked along the Tiburon Peninsula in Marin County, and its workforce spans everything from waterfront maintenance and marina operations to contracting work on the hillside homes near Beach Road and Peninsula Road. When a work injury happens here, most people assume workers' compensation is the only path forward — and in many cases, it is the required first step. But California law also allows a separate claim against a negligent third party, such as an equipment manufacturer, a subcontractor, or a property owner who isn't your direct employer. Sorting out which path applies, and whether both might be available, takes a careful look at how the injury happened. LawProactive doesn't practice law itself; we simply connect you, free of charge, with an independent attorney in our network who can review the details of your situation and explain what options may exist under California law.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven terrain",
+      "Equipment malfunctions or defective tools",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle-related incidents during work duties",
+      "Slip-and-fall injuries on job sites or marina docks",
+      "Injuries from falling objects or unsecured materials"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why People in Belvedere Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Beyond Workers' Comp",
+        "desc": "California generally treats workers' comp as the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker can still be held responsible. An attorney can help determine if a separate claim applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days, and missing that window can complicate a claim. An independent attorney can walk you through what documentation and timing matter most."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a claim. If you're worried about how reporting might affect your job, an attorney in our network can explain your rights before you act."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work for a small business in Belvedere — does workers' comp still apply?",
+        "answer": "In most cases, yes, California requires nearly all employers to carry workers' compensation coverage regardless of size. An independent attorney can confirm your employer's coverage status and help you understand next steps."
+      },
+      {
+        "question": "Can I sue my employer directly if I'm hurt on the job?",
+        "answer": "Generally, workers' compensation is the exclusive remedy against your employer, meaning a direct lawsuit is usually not an option regardless of fault. However, if a third party — like a contractor, property owner, or equipment manufacturer — contributed to your injury, a separate claim against them may be possible."
+      },
+      {
+        "question": "What if my injury happened near Beach Road or Peninsula Road while doing work errands?",
+        "answer": "If you were injured while performing job duties on Belvedere's roads, such as making deliveries or traveling between work sites, it may still fall under workers' comp, and a third party like another driver could also bear responsibility. An attorney can look at where and how the injury occurred to sort out which claims may apply."
+      },
+      {
+        "question": "Is there a deadline for filing a third-party claim?",
+        "answer": "Yes, third-party injury claims in California generally carry a two-year statute of limitations. Waiting too long can limit your options, so it helps to talk with an attorney sooner rather than later."
+      }
+    ]
+  }
+}

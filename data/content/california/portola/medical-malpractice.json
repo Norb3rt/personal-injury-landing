@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "portola medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Portola Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent Plumas County attorney for Portola medical malpractice cases. No fee unless you recover. Learn your rights under MICRA."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Portola left you worse off than before, you deserve straight answers about what happened. LawProactive can connect you with an independent attorney who handles medical malpractice claims across Plumas County."
+  },
+  "about": {
+    "title": "Portola Medical Malpractice Claims",
+    "longDescription": "Portola is a small mountain community of under 2,000 people, and like much of Plumas County, residents often travel to a limited number of local clinics or farther out to regional hospitals for specialized care. When that care falls below the accepted standard, the harm can be serious and hard to untangle on your own. California's medical malpractice rules are technical: they require a qualified medical expert to weigh in, a strict notice period before filing suit, and firm deadlines that don't wait for you to feel ready. A bad medical outcome by itself doesn't mean malpractice occurred, but if a provider's error caused a preventable injury, it's worth having someone review the records. LawProactive doesn't practice law or take a fee itself; we simply connect you, at no cost, with an independent attorney in the network who can look at what happened in Portola and explain your options.",
+    "commonInjuriesTitle": "Injuries We See in Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication mix-ups or dosing errors",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Hospital-acquired infections from poor monitoring"
+    ],
+    "ctaText": "Tell us what happened, and we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Portola Claim",
+    "items": [
+      {
+        "title": "The Clock Starts Sooner Than You Think",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to bring a claim. In a small town where care may involve travel to outside specialists, tracking that discovery date matters."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can even be filed, California law requires sending the provider a 90-day notice of intent to sue. Missing this step can delay or derail a valid claim, so early legal guidance helps."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California generally requires a qualified medical expert to support a malpractice claim, since a poor outcome alone isn't proof of negligence. An independent attorney can help arrange that review and evaluate whether your case meets the standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Portola but was treated at a hospital outside Plumas County. Does that change anything?",
+        "answer": "Not necessarily. What matters is where the alleged negligence occurred and where the provider is licensed, not just where you live. An independent attorney can sort out the right venue and applicable rules once they understand the facts of your care."
+      },
+      {
+        "question": "Is there a cap on what I can recover in a California malpractice case?",
+        "answer": "Yes, California law (MICRA) places a cap specifically on non-economic damages, such as pain and suffering, and that cap increases annually under the current statute. Economic losses like medical bills and lost income are generally handled separately. An attorney can walk you through how these categories apply to your situation."
+      },
+      {
+        "question": "How do I know if what happened to me was actually malpractice?",
+        "answer": "A bad result from treatment isn't automatically malpractice under California law; the question is whether the provider deviated from the accepted standard of care. Because a qualified medical expert almost always has to review the records to answer that, it helps to have your case looked at early. LawProactive can connect you with an independent attorney at no cost to start that process."
+      }
+    ]
+  }
+}

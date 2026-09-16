@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "lakewood product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lakewood CA Product Liability Claims | LawProactive",
+    "metaDescription": "Hurt by a defective product in Lakewood, CA? LawProactive connects you free with an independent injury attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When a product bought or used in Lakewood fails and someone gets hurt, California's strict liability rules can put the focus on the defect rather than on proving carelessness. LawProactive connects you, at no cost, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Lakewood Product Liability Claims",
+    "longDescription": "A product that fails in Lakewood rarely announces itself. A space heater overheats in a living room off Carson Street. A child's car seat buckle gives way during a hard stop on Woodruff Avenue. A cordless saw kicks back with no warning printed anywhere on the housing. When that happens, California law does something useful for the person who got hurt: it usually does not require proof that the company was careless. Under strict liability, the questions are whether the product had a defect — in its design, in the way that particular unit was made, or in its warnings and instructions — and whether that defect caused the injury. Responsibility can reach the manufacturer, the distributor, and the store that sold it. LawProactive is a free connection service, not a law firm. We link Lakewood residents with an independent personal injury attorney who takes product cases on contingency — no fee unless there is a recovery. Keep the product, its packaging, and any receipts; the item itself is often the center of the claim.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating appliances, batteries, or chargers",
+      "Lacerations and amputations from power tools or machinery",
+      "Crash injuries linked to failed airbags, brakes, or tires",
+      "Choking or poisoning from unsafe children's products",
+      "Fractures from collapsing furniture, ladders, or chairs",
+      "Illness from contaminated food, supplements, or medication"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney — free."
+  },
+  "whyChoose": {
+    "title": "Why Lakewood Residents Turn to LawProactive for Product Claims",
+    "items": [
+      {
+        "title": "Strict Liability Changes the Question",
+        "desc": "In California, a product claim generally turns on whether the item was defective and caused your injury, not on whether the maker was negligent. An attorney from our network can explain how that standard applies to your situation."
+      },
+      {
+        "title": "Three Kinds of Defect, One Path Forward",
+        "desc": "Design flaws, manufacturing errors, and missing or inadequate warnings are each recognized under California law. Knowing which applies shapes how a case is built."
+      },
+      {
+        "title": "More Than One Party May Be Responsible",
+        "desc": "Manufacturers, distributors, and retailers can all share liability for a defective product sold in Lakewood. The independent attorneys we connect you with work on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on Del Amo Boulevard and I think a car part failed. Is that a product case or a car accident case?",
+        "answer": "It can be both. Lakewood recorded 308 injury collisions in 2025, and some crashes involve a component such as a tire, airbag, or brake system that did not perform as designed. If that is what happened, a claim against the part's manufacturer or seller may exist alongside any claim against another driver. An attorney will want the vehicle preserved and not repaired or scrapped until it has been examined."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was defective?",
+        "answer": "Usually not. California product liability commonly runs on strict liability, meaning the focus is on whether the product had a design, manufacturing, or warning defect and whether that defect caused your injury. The maker's state of mind is generally not the central issue. An attorney can review the facts and tell you which theory fits."
+      },
+      {
+        "question": "Should I throw away the product that hurt me?",
+        "answer": "Please don't. The item itself, along with its packaging, manuals, and receipts, is often the most important evidence in a defect claim. Store it somewhere safe without altering or repairing it, and photograph it as it is. If the product was recalled, do not return it to the retailer before talking with an attorney."
+      }
+    ]
+  }
+}

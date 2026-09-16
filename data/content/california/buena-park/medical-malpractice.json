@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "buena-park medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Lawyer in Buena Park, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Buena Park? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care in Buena Park goes wrong in a way it shouldn't have, you deserve straight answers about what happened and what your options are. We connect you, at no cost, with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Buena Park Medical Malpractice Claims",
+    "longDescription": "Most people in Buena Park trust the doctors, nurses, and clinics they see, and most of the time that trust is well placed. Medicine is hard, and a poor result by itself is not malpractice. The question that matters under California law is different: did a provider fall below the accepted standard of care, and did that failure cause real harm? Answering that almost always requires a qualified medical expert to review your records, which is one reason these cases move differently than a typical injury claim. Timing matters too. MICRA generally gives you one year from the date you discovered the injury, and no more than three years from when it occurred, plus a 90-day notice must go to the provider before a lawsuit is filed. For Orange County residents juggling follow-up appointments along Beach Boulevard or a commute on SR-91, that clock can slip by quietly. LawProactive is a free service, not a law firm. We simply put you in touch with an independent attorney who can look at your situation and explain whether a claim makes sense.",
+    "commonInjuriesTitle": "Errors That Commonly Lead to Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical mistakes, including wrong-site procedures",
+      "Medication and dosage errors",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to order tests or act on abnormal results"
+    ],
+    "ctaText": "Ask a Buena Park malpractice attorney to review your records — free."
+  },
+  "whyChoose": {
+    "title": "Why Buena Park Residents Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA's Deadlines Are Unforgiving",
+        "desc": "California's one-year discovery rule, three-year outer limit, and 90-day pre-suit notice leave little margin. An attorney can pin down your dates early so nothing is lost to the calendar."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Under MICRA, a qualified medical expert must generally confirm that care fell below the standard. The attorneys in our network know how to arrange that evaluation before anything is filed."
+      },
+      {
+        "title": "Free to You, Contingency for Them",
+        "desc": "LawProactive charges nothing for the connection, and network attorneys work on contingency, meaning no attorney fee unless there is a recovery. Note that MICRA caps non-economic damages, and that cap rises each year."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My surgery in Orange County didn't go the way I expected. Is that malpractice?",
+        "answer": "Not necessarily. California law distinguishes between a known risk that materializes and a provider who fell below the accepted standard of care. A qualified medical expert typically has to review the records to make that call. An attorney can arrange that review and give you an honest read on whether a claim is realistic."
+      },
+      {
+        "question": "How long do I have to act if I live in Buena Park?",
+        "answer": "MICRA generally allows one year from the time you discovered, or reasonably should have discovered, the injury, and no more than three years from when the injury happened. Before filing suit, a 90-day notice of intent must be sent to the provider. Because these limits overlap, it is worth speaking with an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "Yes, in part. MICRA places a cap on non-economic damages such as pain and suffering, and that cap increases every year under the current law. Economic losses like medical bills and lost income are handled separately. An attorney can explain how these categories apply to your specific situation."
+      }
+    ]
+  }
+}

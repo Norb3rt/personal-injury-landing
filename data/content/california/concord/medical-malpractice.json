@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "concord medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Concord, CA Medical Malpractice Attorney Match",
+    "metaDescription": "Hurt by a medical error in Concord, CA? LawProactive connects you, free, with an independent malpractice attorney who can explain MICRA deadlines."
+  },
+  "hero": {
+    "subtitle": "When treatment in Concord goes wrong because a provider fell short of the standard of care, you deserve a clear answer about what happened. LawProactive connects you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Concord Medical Malpractice Claims",
+    "longDescription": "Medical care in Concord happens in a lot of places: hospital emergency rooms after a collision on SR-4 or Clayton Road, outpatient clinics, surgery centers, dental offices, and pharmacies scattered across the city. Most of that care is good. Sometimes it is not, and the difference matters legally. A poor result by itself is not malpractice under California law. What counts is whether a provider fell below the accepted standard of care and that lapse caused harm. Proving it almost always takes a qualified medical expert who can review the records and say what should have happened. Timing is tight, too. MICRA generally gives you one year from when you discovered the injury, and generally no more than three years from the injury itself, with a 90-day notice sent to the provider before any lawsuit is filed. LawProactive is not a law firm. We are a free service that connects Concord and Contra Costa County residents with an independent attorney who handles these claims on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About in Concord",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical mistakes, including wrong-site procedures",
+      "Medication and pharmacy dosing errors",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to follow up on abnormal test results"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for a free case review."
+  },
+  "whyChoose": {
+    "title": "Why Concord Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Short",
+        "desc": "California generally allows one year from discovery of the injury and no more than three years from the injury itself, plus a 90-day notice before suit. An attorney can map those dates against your own records right away."
+      },
+      {
+        "title": "Expert Review Comes Early",
+        "desc": "Nearly every malpractice claim needs a qualified medical expert to explain how care fell below the standard. The attorneys in our network know how to get records reviewed before a deadline becomes a problem."
+      },
+      {
+        "title": "Honest Talk About Damages",
+        "desc": "MICRA caps non-economic damages, and that cap rises each year. Your attorney can explain what the current limit means for your situation without overselling or guessing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at a Concord emergency room after a crash on SR-242 and my injury got worse. Is that malpractice?",
+        "answer": "Not automatically. Concord saw 611 people injured in traffic collisions in 2025, and many were treated urgently, which is hard, fast work. Malpractice requires showing the provider did something a reasonably careful provider would not have done, such as missing a fracture that was visible on imaging, and that the mistake caused additional harm. A qualified medical expert reviewing your chart is usually how that question gets answered."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice claim in California?",
+        "answer": "Under MICRA, you generally have one year from the date you discovered, or reasonably should have discovered, the injury. There is also an outer limit of three years from the date of the injury in most cases. Before filing, a 90-day notice of intent must go to the provider, so it is wise to start well ahead of any deadline."
+      },
+      {
+        "question": "Does LawProactive charge me anything to connect with an attorney?",
+        "answer": "No. LawProactive is a free connection service, not a law firm. The independent attorneys in our network handle malpractice claims on contingency, meaning they are paid only if there is a recovery. You can ask about fees during your first conversation with the attorney."
+      }
+    ]
+  }
+}

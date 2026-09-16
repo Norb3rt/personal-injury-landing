@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "atwater medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Atwater Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free help connecting Atwater, CA patients with an independent medical malpractice attorney. No fee unless there's a recovery."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or treatment in Atwater left you or a loved one worse off, we can connect you with an independent attorney who handles Merced County medical malpractice claims at no upfront cost."
+  },
+  "about": {
+    "title": "Atwater Medical Malpractice Claims",
+    "longDescription": "Atwater residents rely on a mix of local clinics and larger Merced County medical centers, and most visits go the way they should. But when a diagnosis is missed, a medication is mismanaged, or a surgical step is skipped, the harm can follow a patient for years. California law recognizes that not every bad outcome is malpractice — a claim requires showing that a provider's care fell below the accepted medical standard and that the failure caused real harm. Because these cases hinge on medical records, expert review, and strict deadlines under California's MICRA framework, getting an early opinion matters. LawProactive doesn't practice law or represent clients directly; instead, we listen to what happened, then connect eligible Atwater residents with an independent attorney who can review the medical chart and explain whether a claim is worth pursuing. There's no cost to find out, and no obligation to move forward.",
+    "commonInjuriesTitle": "Types of Cases We Help Connect",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on results"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Early",
+    "items": [
+      {
+        "title": "Notice and Filing Deadlines Move Fast",
+        "desc": "California generally allows one year from discovering the harm and no more than three years from the injury itself, and a 90-day pre-suit notice must go to the provider first. Missing either window can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A qualified medical expert typically has to confirm that care fell below the accepted standard and caused harm — a bad result by itself isn't enough. An attorney works with medical experts to build that record properly."
+      },
+      {
+        "title": "Damage Caps Change Over Time",
+        "desc": "California's cap on non-economic damages in medical malpractice cases rises each year under MICRA, so the applicable limit depends on when the case is filed. An attorney can walk through how the current cap applies to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Atwater?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the harm, and no more than three years from the date of the injury, whichever comes first. There's also a required 90-day notice to the provider before a lawsuit can be filed. An attorney can pinpoint your specific deadline once they review what happened."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law requires showing that a provider's care fell below the accepted medical standard and that this failure caused the harm — not just that the result was disappointing or unexpected. That's why a qualified medical expert almost always has to review the case. An independent attorney can help determine whether your situation meets that standard."
+      },
+      {
+        "question": "Does LawProactive handle malpractice claims for people in Atwater and Merced County?",
+        "answer": "LawProactive is a free connection service, not a law firm, so we don't handle or litigate cases ourselves. What we do is listen to your situation and connect you with an independent attorney in our network who takes on Merced County medical malpractice matters. There's no cost to talk it through, and attorneys work on contingency, meaning no fee unless there's a recovery."
+      }
+    ]
+  }
+}

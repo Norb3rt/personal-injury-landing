@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "azusa workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Azusa Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Azusa? Get connected free with an independent attorney who can review your workers' comp or third-party claim options."
+  },
+  "hero": {
+    "subtitle": "If you've been injured working near I-210, Azusa Avenue, or one of the city's warehouses and job sites, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims in Los Angeles County."
+  },
+  "about": {
+    "title": "Azusa Workplace Injury Claims",
+    "longDescription": "Azusa's mix of warehousing, light industry, and businesses along corridors like Arrow Highway and San Gabriel Avenue means workplace injuries happen in forklift accidents, falls, delivery mishaps, and vehicle-related incidents on the job. Most injured workers in California go through workers' compensation first, since it's generally the exclusive remedy against an employer regardless of fault. But that's not always the whole story. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to the accident — say, a crash near the I-210 interchange while making a delivery — a separate third-party claim may be possible alongside workers' comp. LawProactive doesn't practice law; we're a free service that helps injured Azusa workers connect with an independent attorney who can look at the full picture, explain deadlines, and help sort out which paths apply to a specific situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving or deliveries",
+      "Injuries from defective tools or machinery",
+      "Struck-by or caught-in-between warehouse accidents"
+    ],
+    "ctaText": "Get connected with an independent attorney today, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Exclusive Remedy Rule",
+        "desc": "California generally treats workers' comp as the exclusive remedy against an employer, but that doesn't close every door. An attorney can help identify if a third party's negligence opened up a separate claim."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Reporting a workplace injury to your employer within 30 days is required, and retaliation for doing so is illegal under California law. An attorney can help you understand your rights if you feel pressured after reporting an injury."
+      },
+      {
+        "title": "Awareness of Third-Party Claim Deadlines",
+        "desc": "Unlike workers' comp timelines, a third-party injury claim in California generally carries a two-year deadline. Missing it can close off compensation that workers' comp alone doesn't cover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if I was hurt in a work-related car accident on I-210 or Azusa Avenue?",
+        "answer": "Possibly. If another driver caused the crash while you were working, you may have both a workers' comp claim and a separate third-party claim against that driver. An independent attorney can review the details and explain which options apply."
+      },
+      {
+        "question": "Do I lose my job if I report a workplace injury in Azusa?",
+        "answer": "No — California law prohibits employer retaliation against workers who report injuries. If you experience retaliation, an attorney in our network can advise you on next steps."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent attorneys who work on contingency, meaning there's no fee unless there's a recovery. We don't provide legal advice ourselves."
+      }
+    ]
+  }
+}

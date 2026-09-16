@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "coachella city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Coachella, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Coachella? Riverside County residents get 2 years to file. Connect free with an attorney, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Grapefruit Boulevard or suffered a fall or workplace injury elsewhere in the city, LawProactive can connect you with an independent attorney at no cost, serving families throughout Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Coachella, California",
+    "longDescription": "Coachella sits at the heart of the eastern Coachella Valley, and its roadways carry heavy local traffic every day. Public records for the most recent full year show 119 injury collisions in the city, leaving 159 people hurt, with reported crashes tending to cluster on Fridays between 5 and 7 p.m. Corridors like Cesar Chavez Street, Grapefruit Boulevard, 52nd Avenue, and Van Buren Street see some of the highest collision counts in town, reflecting how much local travel passes through them rather than any judgment about the roads themselves. If you or someone you love was hurt in a crash, a fall, or another accident here, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — that helps injured people in Coachella connect quickly with an independent personal injury attorney who can review what happened. Attorneys in this network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and starts the conversation on your terms.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and soft-tissue neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries and concussions",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and lacerations requiring treatment",
+      "Injuries from falls on uneven or wet surfaces"
+    ],
+    "ctaText": "Connect free with an independent attorney to talk through what happened."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most injury claims in California must be filed within two years of the incident, but claims against a government agency can require notice in as little as six months. Missing these windows can end your ability to recover, so early guidance matters."
+      },
+      {
+        "title": "Shared Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary personal injury cases, California places no limit on non-economic damages like pain and suffering. An attorney can help make sure this part of your claim isn't overlooked."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in this network work on contingency, which means they only get paid if you receive a settlement or award. There's no retainer required to get started."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while you're out of work",
+      "Feeling pressured by insurance adjusters calling soon after the accident",
+      "Not knowing whether you waited too long or acted too fast",
+      "Fearing that being partly at fault means you won't get any compensation"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Coachella?",
+        "answer": "California generally gives you two years from the date of the accident to file a personal injury lawsuit. If your claim involves a government entity, such as a city vehicle or public property, the notice deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Coachella?",
+        "answer": "Public collision records show higher counts along corridors like Cesar Chavez Street, Grapefruit Boulevard, 52nd Avenue, and Van Buren Street, with reported crashes peaking on Fridays around 5 to 7 p.m. These are simply public-record counts reflecting traffic volume, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly responsible doesn't prevent you from recovering compensation. Your total recovery is reduced by the percentage of fault assigned to you, but you can still pursue a claim."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No, California does not cap non-economic damages like pain and suffering in typical personal injury cases. This is different from some other states, so it's worth discussing the full scope of your damages with an attorney."
+      },
+      {
+        "question": "Does it cost anything to speak with an attorney through LawProactive?",
+        "answer": "No, LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in the network work on contingency, meaning they only collect a fee if you recover compensation."
+      }
+    ]
+  }
+}

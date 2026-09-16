@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "vista city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Vista, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Vista, San Diego County? Most claims allow 2 years to file. LawProactive connects you free to an attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a collision on SR-78, injured in a fall at a Vista business, or bitten by a dog in your neighborhood, LawProactive connects you with an independent personal injury attorney at no cost. We serve Vista and all of San Diego County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Vista, California",
+    "longDescription": "Vista sits inland from the coast, and much of its daily traffic funnels through SR-78, E Vista Way, S Melrose Drive, and Vista Village Drive near the downtown core. In 2025, the most recent finalized year of public records, the city logged 212 injury collisions. Those crashes left 311 people injured and took 4 lives. Reported collisions tend to cluster on Friday evenings, roughly between 5 p.m. and 7 p.m., when commuters are heading home. Behind each number is a person now dealing with medical bills, missed shifts, and an insurance adjuster who calls before the pain has even settled. That is where LawProactive comes in. We are a free service, not a law firm. Our role is simple: we listen to what happened and connect you with an independent personal injury attorney who handles cases in San Diego County. There is no charge for the connection, and the attorneys in our network work on contingency, which means no fee unless there is a recovery. Whether you were rear-ended on SR-78, struck while crossing Vista Village Drive, hurt in a fall at a local business, or injured by a dog off-leash in your neighborhood, you can talk through your options without pressure. Vista residents deserve straight answers, and getting one should not cost anything.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Vista Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken wrists, arms, and collarbones",
+      "Concussions and other head trauma",
+      "Back injuries, including herniated discs",
+      "Road rash and deep lacerations from motorcycle or bike crashes",
+      "Dog bite wounds and resulting infections"
+    ],
+    "ctaText": "Tell us what happened. We'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What Vista Residents Should Know About California Injury Law",
+    "items": [
+      {
+        "title": "You Generally Have Two Years to Act",
+        "desc": "California gives most injury victims two years from the date of injury to file a claim. If a city vehicle, county road defect, or other government entity is involved, the window can shrink to six months, so timing matters."
+      },
+      {
+        "title": "Partial Fault Doesn't Erase Your Claim",
+        "desc": "California follows pure comparative fault. Even if you were partly responsible for a crash on S Melrose Drive, you can still recover, with your share of fault reducing the amount rather than eliminating it."
+      },
+      {
+        "title": "No Cap on Pain and Suffering in Ordinary Cases",
+        "desc": "Unlike some states, California places no fixed limit on non-economic damages in typical injury claims. What your pain, lost sleep, and disrupted life are worth can be fully argued."
+      },
+      {
+        "title": "No Upfront Legal Bills",
+        "desc": "The attorneys in our network work on contingency. You pay nothing unless there is a recovery, and our connection service is always free."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster is pushing me to accept a quick check before I know how badly I'm hurt.",
+      "I can't afford to miss more work, and the medical bills are already stacking up.",
+      "The other driver says it was partly my fault, and I don't know if that ends my case.",
+      "I've never hired a lawyer and I'm worried about what it will cost me."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do injury crashes in Vista tend to occur?",
+        "answer": "Public collision records for Vista show the highest volumes along SR-78, E Vista Way, S Melrose Drive, and Vista Village Drive. These are simply the corridors that carry the most traffic and therefore record the most incidents. Reported crashes also tend to peak on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date you were hurt. Claims against a government entity, such as a city or county, can require action within six months. An attorney can pin down which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses pure comparative fault, so being partly responsible does not bar you from recovering. Your compensation is reduced by your percentage of fault. For example, if you were found 20 percent at fault, you could still recover the remaining 80 percent."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people in Vista and the rest of San Diego County with an independent personal injury attorney. We do not give legal advice or represent you; the attorney you are connected with does that."
+      },
+      {
+        "question": "How much does it cost to get an attorney through LawProactive?",
+        "answer": "Our connection is free, with no obligation. The attorneys in our network work on contingency, meaning they are paid only if there is a recovery in your case. If there is no recovery, you owe no attorney fee."
+      }
+    ]
+  }
+}

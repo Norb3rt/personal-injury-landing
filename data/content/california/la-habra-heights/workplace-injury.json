@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "la-habra-heights workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Habra Heights Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in La Habra Heights? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If a work injury has sidelined you in La Habra Heights, sorting out workers' comp from a possible third-party claim can feel overwhelming. LawProactive connects you at no cost with an independent attorney who can help you figure out your options."
+  },
+  "about": {
+    "title": "La Habra Heights Workplace Injury Claims",
+    "longDescription": "La Habra Heights is a small, hillside community, but its residents still commute to jobs in construction, landscaping, delivery, agriculture, and small-business trades across Los Angeles County. When a work injury happens, California generally routes the claim through workers' compensation regardless of fault — but that's not always the end of the story. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to the accident, a separate third-party injury claim may be possible alongside your comp benefits. Because many La Habra Heights residents work off-site or on properties owned by someone other than their employer, these third-party situations come up more often than people expect. LawProactive doesn't practice law — we simply connect injured workers with an independent attorney who can review the details and explain what paths may be open, without any upfront cost to you.",
+    "commonInjuries": [
+      "Falls from ladders, roofs, or uneven terrain",
+      "Equipment or machinery-related injuries",
+      "Vehicle collisions during work travel or deliveries",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from defective tools or equipment",
+      "Injuries caused by property hazards on job sites"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why La Habra Heights Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Comp Isn't Always the Whole Picture",
+        "desc": "Workers' comp usually applies no matter who was at fault, but it doesn't rule out a separate claim against a negligent third party like a property owner or equipment maker."
+      },
+      {
+        "title": "You're Protected From Retaliation",
+        "desc": "California law makes it illegal for an employer to punish you for reporting a workplace injury, and reporting within 30 days helps preserve your comp rights."
+      },
+      {
+        "title": "Deadlines Move Fast",
+        "desc": "Third-party injury claims carry a two-year filing deadline, so getting matched with an attorney early gives more time to gather evidence and build the case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near Harbor Boulevard or Hacienda Road — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, you'd start with a workers' comp claim through your employer since it applies regardless of fault. But if another driver caused the crash, a separate third-party claim may also be possible. An independent attorney can look at the specifics and explain which paths apply to your situation."
+      },
+      {
+        "question": "What if my employer tells me not to report the injury?",
+        "answer": "That's not something an employer can lawfully require. California protects your right to report a workplace injury, and retaliation for doing so is illegal. Reporting within 30 days also helps protect your ability to receive workers' comp benefits."
+      },
+      {
+        "question": "How long do I have to bring a third-party claim after a work injury?",
+        "answer": "Third-party claims in California generally carry a two-year deadline from the date of the injury. This is separate from any workers' comp filing requirements, so it's worth having both reviewed by someone familiar with each track."
+      }
+    ]
+  }
+}

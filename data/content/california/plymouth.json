@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "plymouth city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Plymouth, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Plymouth, Amador County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash, a broken bone, or something more serious after a crash, we can connect you with an independent attorney at no cost, serving people throughout Amador County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Plymouth, California",
+    "longDescription": "Plymouth is a small town, but its roads still carry real traffic risk. Rt 49 runs through the area as a major corridor, and local streets like Miller Way, Shenandoah Road, and Empire Street see regular use by residents, farm and winery traffic, and visitors passing through Amador County wine country. Public records for the most recent year on file show no reported injury collisions or traffic deaths in Plymouth, which is good news, but collisions can still happen without warning, especially on weekends when reported crashes elsewhere in the county tend to cluster around Saturday midday hours. If you've been hurt in a crash or another kind of accident in or around Plymouth, LawProactive can help. We are a free service, not a law firm, and we don't represent you directly. Instead, we connect you with an independent personal injury attorney who can review what happened and explain your options. There's no cost to get connected, and attorneys in our network only get paid if you recover compensation. You don't have to figure this out alone.",
+    "commonInjuriesTitle": "Types of Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken or fractured bones",
+      "Head and concussion injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Get connected with an independent attorney today, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline Is Firm",
+        "desc": "You generally have two years from the date of injury to file a personal injury claim in California. If a government entity is involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar Your Claim",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no limit on damages for pain, suffering, and other non-economic losses, unlike some states that cap these amounts."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, which means they only get paid if you receive a settlement or award. There's no bill if there's no recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling unsure whether the accident was partly your fault",
+      "Not knowing how much time you have left to take action",
+      "Fear of dealing with insurance adjusters alone"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Plymouth?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If your injury involves a government agency or public road issue, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means partial responsibility doesn't stop you from recovering compensation. Your recovery is simply reduced by the percentage of fault attributed to you."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Plymouth?",
+        "answer": "Public crash records show reported collisions in the broader area tend to happen most often on Saturdays between noon and 2 p.m., with corridors like Rt 49, Miller Way, Shenandoah Road, and Empire Street among the higher-volume roads locally. These are neutral, publicly recorded patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service. We are not a law firm, but we can connect you with an independent attorney who works on contingency, meaning they only get paid if you recover compensation."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, such as pain and suffering, in typical personal injury cases. This is different from some other states that impose such limits."
+      }
+    ]
+  }
+}

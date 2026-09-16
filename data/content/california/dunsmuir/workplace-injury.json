@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "dunsmuir workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dunsmuir Workplace Injury Help | Siskiyou County",
+    "metaDescription": "Hurt on the job in Dunsmuir, CA? LawProactive is a free service that connects you with an independent attorney to review workers' comp and third-party options."
+  },
+  "hero": {
+    "subtitle": "A work injury in a town of 1,582 people is never just paperwork. LawProactive connects Dunsmuir workers, at no cost, with an independent attorney who can sort out what workers' compensation covers and whether someone outside your employer shares the blame."
+  },
+  "about": {
+    "title": "Dunsmuir Workplace Injury Claims",
+    "longDescription": "Work in Dunsmuir often means small crews, long drives, and a lot of hours spent along I-5 or on Dunsmuir Avenue and Castle Avenue. When something goes wrong on the job here, the first question is usually simple: who pays for the doctor visits and the missed weeks? In California, workers' compensation is normally the answer, and it applies regardless of who was at fault. The catch is that comp is also usually the only claim you can bring against your employer. That is where a closer look matters. If a subcontractor, a property owner, an equipment manufacturer, or another driver caused your injury, a separate claim against that third party may be open to you, with a two-year deadline. Siskiyou County's 2025 records show 3 injury collisions in Dunsmuir, 5 people hurt and no deaths, a reminder that some job injuries happen behind the wheel. LawProactive is not a law firm. We are a free service that connects you with an independent attorney who handles these cases on contingency.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Dunsmuir",
+    "commonInjuries": [
+      "Back and spinal strains from lifting",
+      "Falls from ladders, roofs, or loading areas",
+      "Hand and finger injuries from tools or machinery",
+      "Crushing injuries from vehicles or equipment",
+      "Work-related crash injuries on I-5",
+      "Repetitive stress and overuse injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Dunsmuir Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Comp and third-party claims are different tracks",
+        "desc": "Workers' compensation covers you regardless of fault, but it is usually your only remedy against your employer. An attorney in our network can check whether a negligent outside party gives you a second, separate claim."
+      },
+      {
+        "title": "The 30-day report and the 2-year deadline",
+        "desc": "California expects you to report a job injury to your employer within 30 days, and any third-party injury claim carries a two-year limit. Getting connected early keeps both clocks in view."
+      },
+      {
+        "title": "Retaliation is against the law",
+        "desc": "An employer cannot legally punish you for reporting an injury or filing for benefits. If you are worried about your job, that concern belongs in the first conversation with an attorney."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work on I-5 near Dunsmuir. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. If you were on the clock, workers' compensation generally applies no matter who caused the crash. If another driver was negligent, that driver is a third party, and you may also have a separate injury claim with a two-year deadline. An attorney can review how the two fit together."
+      },
+      {
+        "question": "What if I waited a couple of weeks to tell my boss about the injury?",
+        "answer": "California asks you to report a work injury to your employer within 30 days, so a delay of a couple of weeks is usually still within that window. Report it in writing as soon as you can and keep a copy. If more time has passed, do not assume you are out of options; talk it through with an attorney."
+      },
+      {
+        "question": "Does LawProactive charge me anything, and are you a law firm?",
+        "answer": "No and no. LawProactive is a free connection service, not a law firm, and we do not represent you. The independent attorneys we connect Dunsmuir workers with take these cases on contingency, meaning there is no attorney fee unless there is a recovery."
+      }
+    ]
+  }
+}

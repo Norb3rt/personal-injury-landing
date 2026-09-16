@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "montclair medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Montclair Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Montclair, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Montclair medical provider's mistake leaves you worse off, sorting out what happened can feel overwhelming. LawProactive connects you at no cost with an independent attorney who handles medical malpractice claims in San Bernardino County."
+  },
+  "about": {
+    "title": "Montclair Medical Malpractice Claims",
+    "longDescription": "Montclair residents rely on nearby clinics, urgent care centers, and hospitals throughout San Bernardino County for everything from routine checkups to emergency treatment. Most visits go fine, but when a provider misses a diagnosis, makes a surgical error, or mishandles medication, the consequences can follow a patient for years. California law recognizes that not every bad outcome is malpractice — a claim requires showing the provider failed to meet the accepted standard of care and that failure caused harm. Because these cases involve tight notice deadlines, medical records, and expert review, many Montclair families feel unsure where to start. LawProactive doesn't practice law or charge for its service; we simply listen to what happened and connect you with an independent attorney in our network who is familiar with California's medical malpractice rules. From there, the attorney can review your medical records, evaluate whether the standard of care was met, and explain your options going forward — all without any upfront cost to you.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or baby",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Montclair Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the Short Notice Window",
+        "desc": "California generally requires a claim within one year of discovering the harm, and no more than three years from the injury itself, plus a 90-day pre-suit notice to the provider. Acting early helps preserve your options."
+      },
+      {
+        "title": "We Know Expert Review Matters",
+        "desc": "California malpractice claims almost always require a qualified medical expert to confirm the standard of care was breached. The attorneys we connect you with know how to arrange that kind of medical evaluation."
+      },
+      {
+        "title": "We Explain the Damages Cap Honestly",
+        "desc": "California sets a statutory cap on non-economic damages that increases annually under MICRA. An independent attorney can walk you through how that cap may apply to your specific situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery near Central Avenue in Montclair — is that automatically malpractice?",
+        "answer": "Not necessarily. A poor result alone doesn't mean a provider was negligent; California law requires showing the provider's care fell below the accepted medical standard and that this failure caused your injury. An independent attorney can review your records to help determine whether that standard was actually met."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from the date it occurred. There's also a required 90-day notice to the healthcare provider before filing suit. Because these deadlines are strict, it helps to speak with an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes — California's MICRA law places a cap on non-economic damages like pain and suffering, though that cap rises each year under current law. Economic damages, such as medical bills and lost income, are generally handled separately. An attorney can explain how these categories apply to your specific claim."
+      }
+    ]
+  }
+}

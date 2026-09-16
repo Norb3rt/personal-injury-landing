@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "fullerton product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Product Liability Lawyer in Fullerton, CA | LawProactive",
+    "metaDescription": "Hurt by a defective product in Fullerton? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product sold or used in Fullerton fails and someone gets hurt, California's strict liability rules can put the focus on the defect rather than on you. LawProactive connects you, at no cost, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Fullerton Product Liability Claims",
+    "longDescription": "A product that fails can hurt someone anywhere in Fullerton — a space heater in a living room near Euclid Street, a power tool in a garage off Orangethorpe Avenue, an airbag that stays folded during a stop on Harbor Boulevard. Fullerton's 2025 public record lists 734 injury collisions and 1,135 people injured, and a share of crash injuries trace back to a part that should have worked and didn't: tires, brakes, seat latches, child restraints. California handles these cases under strict liability. In plain terms, you generally need to show the product had a design, manufacturing, or warning defect and that the defect caused your injury. Proving the maker was careless is usually not required. The manufacturer, the distributor, and the store that sold the item can each carry responsibility. One practical step matters more than most: keep the product, its packaging, and the receipt exactly as they are. LawProactive is not a law firm. We are a free service that connects Fullerton residents with an independent attorney who takes product cases on contingency.",
+    "commonInjuriesTitle": "Injuries Commonly Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from battery fires or overheating appliances",
+      "Lacerations and amputations from tool or blade failures",
+      "Crush injuries from collapsing furniture or equipment",
+      "Illness from contaminated food, supplements, or medication",
+      "Crash injuries worsened by airbag, seat belt, or tire defects",
+      "Choking, strangulation, or fall injuries from children's products"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Fullerton Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict liability changes the question",
+        "desc": "Under California law you typically don't have to prove the company was negligent — only that the product was defective and that the defect caused your injury. An attorney who knows this framework can keep the case pointed at the product."
+      },
+      {
+        "title": "Every link in the chain can answer",
+        "desc": "Manufacturers, distributors, and retailers may all be held responsible for a defective product. The attorney we connect you with can sort out who belongs in the claim rather than letting one company point at another."
+      },
+      {
+        "title": "The product is the case — and we'll say so early",
+        "desc": "Preserving the item, the packaging, and any instructions is often the single most important step. We'll connect you quickly so an attorney can advise on securing the evidence before it's repaired, returned, or discarded."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag never deployed in a crash on SR-57 southbound in Fullerton. Could that be a product liability case?",
+        "answer": "It might be. If the airbag or its sensor had a design or manufacturing defect that caused it to fail, the manufacturer and others in the supply chain could be responsible for the injuries that failure made worse — separate from any claim against the other driver. Don't let the vehicle be repaired or scrapped until an attorney has weighed in on preserving it."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was faulty?",
+        "answer": "Generally, no. California product liability often runs on strict liability, which means the focus is on whether the product was defective — in its design, how it was made, or the warnings that came with it — and whether that defect caused your injury. Proving the maker's knowledge or carelessness is usually not required."
+      },
+      {
+        "question": "I already threw away the box and receipt. Is my claim finished?",
+        "answer": "Not necessarily, though it does make things harder. The product itself is the most important piece of evidence, so keep it as-is if you still have it, and gather photos, bank records, order confirmations, or anything showing where and when you bought it. An attorney can evaluate what remains and whether the retailer or manufacturer records can fill the gaps."
+      }
+    ]
+  }
+}

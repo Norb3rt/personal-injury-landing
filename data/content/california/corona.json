@@ -1,0 +1,81 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "corona city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Corona, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Corona, Riverside County? You have 2 years to file. Connect free with an independent injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a freeway crash on the 91, knocked down in a crosswalk, or injured on someone else's property, LawProactive connects you with an independent personal injury attorney at no cost. We serve Corona and the rest of Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Corona, California",
+    "longDescription": "Corona sits where SR-91 and I-15 come together, and much of daily life here plays out on those two freeways and along Main Street. Public collision records for 2025, the most recent final year, show 735 injury crashes in the city, with 981 people hurt and 2 lives lost. Reports tend to bunch up on Friday afternoons between 3 and 5 p.m., when the drive home is at its heaviest. Those are simple counts, not judgments about any road — but they mean a lot of neighbors are quietly dealing with pain, missed shifts, and insurance calls they never asked for.\n\nIf that sounds like your week, LawProactive can help you take the next step. We are a free service, not a law firm. What we do is connect you with an independent personal injury attorney who handles cases in Riverside County. That attorney works on contingency, so there is no fee unless there is a recovery. You are never charged for the connection, and nothing obligates you to go forward after your first conversation.\n\nMaybe you were rear-ended on the 91 near the 15 interchange, clipped while cycling along Main Street, or slipped on a hazard nobody bothered to mark. Either way, you can get a straight read on your options without spending a dollar.",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end crashes",
+      "Concussions and other head injuries",
+      "Broken bones from motorcycle and bicycle collisions",
+      "Back and spinal cord injuries",
+      "Injuries to pedestrians hit in crosswalks and parking lots",
+      "Slip, trip, and fall injuries on unsafe property"
+    ],
+    "ctaText": "Talk through what happened — free, and with no pressure."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Corona Claim",
+    "items": [
+      {
+        "title": "The clock runs for two years",
+        "desc": "California gives most injury claims a two-year filing window, but claims against a city, county, or state agency can require a notice in as little as six months. Reaching out early keeps every option open."
+      },
+      {
+        "title": "Being partly at fault doesn't shut the door",
+        "desc": "California follows pure comparative fault. If you share some blame for the crash, your recovery is reduced by your percentage, not erased."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In an ordinary injury case, California does not put a ceiling on non-economic damages like pain, loss of sleep, or the ways an injury changes your daily routine."
+      },
+      {
+        "title": "You pay nothing up front",
+        "desc": "Attorneys in the LawProactive network work on contingency. If there is no recovery, there is no attorney fee — and the connection itself is always free."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster keeps calling and I don't know what to say",
+      "My car is totaled and I still have to get to work",
+      "The ER bills are already showing up and I'm not healed yet",
+      "I was going a little fast — does that mean I get nothing?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do injury crashes in Corona show up most often in public records?",
+        "answer": "Collision counts from 2025 place the highest volumes on SR-91, I-15, and Main Street, which is where much of the city's traffic moves. Reports tend to peak on Fridays between 3 p.m. and 5 p.m. These figures are neutral public-record tallies and are not a statement that any road is more or less safe than another."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people in Corona and across Riverside County with an independent personal injury attorney. We do not give legal advice or represent you; the attorney you are connected with does."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date of the injury. If a government entity is involved — say, a city vehicle or a hazard on public property — you may need to file a claim in as little as six months. Because those deadlines are strict, it helps to talk to an attorney sooner rather than later."
+      },
+      {
+        "question": "What if the other driver says the crash was partly my fault?",
+        "answer": "California uses pure comparative fault, which means partial responsibility reduces what you can recover but does not bar you from recovering. If you are found 20 percent at fault, for example, your recovery is reduced by 20 percent. An attorney can help sort out how fault is actually being assigned."
+      },
+      {
+        "question": "What will it cost me to get connected and talk to an attorney?",
+        "answer": "Nothing. The connection through LawProactive is free, and the attorneys in the network work on a contingency basis. That means their fee comes only out of a recovery, and if there is no recovery, you owe no attorney fee."
+      }
+    ]
+  }
+}

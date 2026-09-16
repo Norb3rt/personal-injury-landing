@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "montebello medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Montebello Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Montebello? LawProactive connects you free with an independent malpractice attorney to review your case."
+  },
+  "hero": {
+    "subtitle": "When a Montebello medical visit leaves you worse off instead of better, it's fair to want answers. LawProactive can connect you with an independent attorney familiar with California's medical malpractice rules, at no cost to you."
+  },
+  "about": {
+    "title": "Montebello Medical Malpractice Claims",
+    "longDescription": "Montebello residents rely on a mix of local clinics and larger Los Angeles County medical centers, and most visits go fine. But when a diagnosis is missed, a surgery goes wrong, or medication is mishandled, the aftermath can be confusing and frightening. California law treats these claims differently than a typical injury case — there are shorter notice windows, a required 90-day heads-up to the provider before filing suit, and a near-universal need for a qualified medical expert to explain what should have happened. A bad result by itself isn't proof of malpractice; the law requires showing the care fell below an accepted standard. LawProactive doesn't practice law or handle claims directly. We simply connect Montebello residents with an independent attorney who can review medical records, evaluate the timeline, and explain what the MICRA rules mean for a specific situation — all free of charge to start.",
+    "commonInjuriesTitle": "Common Situations We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injury complications",
+      "Anesthesia errors",
+      "Failure to monitor a patient's condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Montebello Families Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Notice and Filing Deadlines Are Strict",
+        "desc": "California generally gives one year from discovering the harm and no more than three years from the injury itself, plus a required 90-day pre-suit notice to the provider. Missing these steps can end a claim before it starts, so timing matters."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor outcome alone doesn't prove malpractice, California law generally requires a qualified medical expert to establish that care fell below the accepted standard. An independent attorney can help arrange that kind of review."
+      },
+      {
+        "title": "Damages Caps Change Over Time",
+        "desc": "The cap on non-economic damages under MICRA rises each year, and understanding where that cap currently stands can affect how a claim is evaluated and pursued."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Montebello?",
+        "answer": "California generally allows one year from when you discover the harm, but never more than three years from the date of the injury itself. There's also a 90-day notice requirement before a lawsuit can be filed. Because these deadlines are easy to miss, it helps to have someone review the timeline early."
+      },
+      {
+        "question": "Do I need to prove more than just a bad medical outcome?",
+        "answer": "Yes. A disappointing result or complication isn't automatically malpractice under California law. Generally, a qualified medical expert must confirm that the care provided fell below the accepted standard for the situation."
+      },
+      {
+        "question": "I was treated at a clinic near Whittier Boulevard or Beverly Boulevard in Montebello — does location matter?",
+        "answer": "The medical facility's location in Montebello doesn't change the legal standards involved, but knowing where and when treatment occurred helps an attorney gather the right records and timeline. LawProactive can connect you with someone who will sort through those details with you."
+      },
+      {
+        "question": "Is there a limit on what I could recover?",
+        "answer": "California's MICRA law places a cap on non-economic damages, such as pain and suffering, and that cap increases annually. Economic damages, like medical bills or lost wages, are generally handled differently. An independent attorney can explain how these categories might apply to your case."
+      }
+    ]
+  }
+}

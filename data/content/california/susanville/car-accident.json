@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "susanville car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Susanville Car Accident Help | LawProactive",
+    "metaDescription": "Free help connecting Susanville car accident victims with an independent attorney. No fee unless you recover. Call before talking to the insurer."
+  },
+  "hero": {
+    "subtitle": "If a crash on Main Street, Paul Bunyan Road, or Rt 36 has left you hurt, LawProactive can connect you with an independent Susanville attorney at no cost to start."
+  },
+  "about": {
+    "title": "Susanville Car Accident Claims",
+    "longDescription": "Lassen County's public records show 14 injury collisions and 18 injured people in the most recent year, with reports clustering on Tuesday afternoons between 2 and 4 p.m. — a pattern that often lines up with school and work traffic converging along Main Street, Paul Bunyan Road, Skyline Road, and Rt 36. Whatever road you were on, the days after a crash matter. Insurance adjusters move fast, sometimes asking for a recorded statement before you've even seen a doctor. LawProactive doesn't practice law or take your case directly — we're a free service that connects injured Susanville residents with an independent personal injury attorney who can evaluate what happened, help preserve evidence like skid marks, dashcam footage, or witness accounts before they disappear, and speak with the insurance company on your behalf. There's no fee unless the attorney recovers compensation for you, and reaching out costs you nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Fractured bones",
+      "Herniated or bulging discs",
+      "Soft-tissue and ligament damage",
+      "Cuts requiring stitches or surgery"
+    ],
+    "ctaText": "Get connected with an independent Susanville attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Susanville Drivers Turn to LawProactive",
+    "items": [
+      {
+        "title": "California's Clock Is Already Running",
+        "desc": "You generally have two years from the crash date to file a car accident claim in California, but that window can shrink to as little as six months if a government entity — like Lassen County or Caltrans — was involved. Talking to an attorney early helps make sure that deadline never becomes the reason a claim gets denied."
+      },
+      {
+        "title": "Comparative Fault Means Partial Blame Doesn't Erase Your Claim",
+        "desc": "California uses pure comparative fault, so even if you're found partly responsible for the crash, you can still recover a reduced amount tied to the other driver's share of fault. An independent attorney can help make sure your side of the story — and the fault percentages — are represented accurately."
+      },
+      {
+        "title": "No Cap, No Upfront Cost",
+        "desc": "California doesn't limit non-economic damages like pain and suffering in most car accident cases, and attorneys in LawProactive's network work on contingency, meaning there's no fee unless they recover money for you. That structure lets you focus on recovery instead of legal bills."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give the insurance company a recorded statement after a crash on Rt 36 or Main Street?",
+        "answer": "It's best to avoid giving a recorded statement to the other driver's insurer before speaking with an attorney. Adjusters are trained to ask questions that can be used to minimize your claim later. An independent attorney can handle those conversations for you."
+      },
+      {
+        "question": "What if my crash happened on a county-maintained road near Susanville?",
+        "answer": "If a Lassen County road or Caltrans-maintained route like Rt 36 was involved, special notice requirements and shorter deadlines — sometimes as little as six months — can apply when a government entity may share fault. It's important to get legal guidance quickly so you don't lose that option. LawProactive can help connect you with an attorney who understands these timelines."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service — we don't charge you to find an independent attorney, and we're not a law firm ourselves. If an attorney takes your case, they typically work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

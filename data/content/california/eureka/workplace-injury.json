@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "eureka workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Help in Eureka, CA | LawProactive",
+    "metaDescription": "Hurt on the job in Eureka? Get connected free to an independent attorney who handles workers' comp and third-party claims in Humboldt County."
+  },
+  "hero": {
+    "subtitle": "When a shift at a Eureka warehouse, fishing dock, or job site along Broadway ends in an injury, sorting out who's responsible can be confusing. LawProactive connects you, at no cost, with an independent attorney who can help sort through workers' comp and any third-party options."
+  },
+  "about": {
+    "title": "Eureka Workplace Injury Claims",
+    "longDescription": "Eureka's economy runs on a mix of retail corridors, timber-adjacent industry, marine trades, and small manufacturing scattered around Broadway Street and the H and I Street commercial strips. Workers here get hurt on loading docks, on wet decks, in warehouses, and on job sites — sometimes because of their own employer's equipment, sometimes because of a subcontractor, a property owner, or an outside vendor's negligence. California's workers' compensation system usually covers medical costs and lost wages no matter who caused the accident, but it typically doesn't let you sue your employer directly. When someone outside your employer contributed to the injury, a separate claim may be possible alongside your comp benefits. LawProactive doesn't provide legal advice or represent you directly — we're a free connection service that matches injured workers in Eureka with an independent attorney who can review the details, explain your options in plain language, and help you understand whether a third-party claim applies to your situation.",
+    "commonInjuriesTitle": "Injuries We See Reported",
+    "commonInjuries": [
+      "Back and spinal strains from lifting or repetitive motion",
+      "Slip-and-fall injuries on wet docks or warehouse floors",
+      "Crush or amputation injuries from machinery",
+      "Fractures from falls off ladders or scaffolding",
+      "Burns from equipment or chemical exposure",
+      "Repetitive stress injuries in warehouse or processing work"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Comp Isn't Always the Whole Story",
+        "desc": "Workers' comp is usually your only path against an employer, but a negligent subcontractor, property owner, or equipment maker can sometimes be pursued separately."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires notifying your employer within 30 days of a workplace injury, and missing that window can complicate your comp claim."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "Employers cannot legally punish you for reporting an injury or filing a claim, and an attorney can help you understand your protections if that becomes a concern."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I sue my employer directly after a workplace injury in Eureka?",
+        "answer": "Generally no — California workers' compensation is usually the exclusive remedy against your employer, regardless of fault. However, if a third party like a subcontractor, equipment manufacturer, or another company on-site contributed to your injury, a separate claim against them may be possible. An independent attorney can review your specific situation."
+      },
+      {
+        "question": "What if my injury happened on a Eureka worksite near Rt 101 or Broadway involving another company's crew?",
+        "answer": "When multiple companies operate on the same site, such as a delivery yard near Broadway or a project along Rt 101, liability can get complicated. If a crew, contractor, or vendor outside your own employer played a role, that may open the door to a third-party injury claim in addition to workers' comp."
+      },
+      {
+        "question": "How long do I have to bring a third-party claim in California?",
+        "answer": "Third-party injury claims generally carry a two-year deadline from the date of the injury. This is separate from the 30-day window for reporting a workplace injury to your employer for workers' comp purposes, so it helps to get clarity on both timelines early."
+      }
+    ]
+  }
+}

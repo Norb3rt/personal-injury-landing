@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "el-monte product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Monte Product Liability Attorney Match | LawProactive",
+    "metaDescription": "Hurt by a defective product in El Monte, CA? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product sold or used in El Monte fails and someone gets hurt, California law may hold the maker strictly liable. LawProactive connects you, at no cost, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "El Monte Product Liability Claims",
+    "longDescription": "A space heater that catches fire in a Valley Boulevard apartment. A car seat buckle that gives way on Lower Azusa Road. A power tool that kicks back on a job off Peck Road. Defective products reach El Monte households the same way they reach the rest of Los Angeles County — through big-box stores, online orders, and the dealerships and parts counters along the I-10 corridor. California handles these cases differently from ordinary negligence claims. Under strict liability, you generally do not have to prove the manufacturer was careless. You show the product had a design, manufacturing, or warning defect and that the defect caused your injury. Manufacturers, distributors, and retailers can each be held responsible. The single most important thing you can do is keep the product itself — do not throw it away, return it, or let anyone repair it. LawProactive is a free connection service, not a law firm. We match El Monte residents with an independent attorney who handles product liability claims on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries or appliances",
+      "Lacerations from tools and blades that fail",
+      "Airbag, seatbelt, or tire-related crash injuries",
+      "Choking or poisoning from unsafe children's products",
+      "Fractures from collapsing furniture, ladders, or equipment",
+      "Illness from contaminated food or defective medical devices"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent product liability attorney — free."
+  },
+  "whyChoose": {
+    "title": "Why El Monte Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict liability works in your favor",
+        "desc": "California generally does not require you to prove the manufacturer was negligent — only that the product was defective and caused your injury. The attorneys in our network build cases around that standard."
+      },
+      {
+        "title": "Every link in the chain may answer",
+        "desc": "Manufacturers, distributors, and the El Monte retailer who sold the item can all be liable under California law. An independent attorney can identify each responsible party rather than stopping at one."
+      },
+      {
+        "title": "Preserving the evidence early",
+        "desc": "The product itself is the heart of a defect case. We connect you quickly so an attorney can advise on storing it safely before anything is discarded, returned, or altered."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag or seatbelt failed in a crash on the I-10 through El Monte. Is that a product liability case?",
+        "answer": "It can be, and it may sit alongside an ordinary car accident claim. El Monte recorded 539 injury collisions in 2025, and some involve components that did not perform as designed. If a restraint, tire, or brake part failed, the manufacturer or supplier may be strictly liable regardless of who caused the crash. Keep the vehicle from being scrapped or repaired until an attorney has reviewed it."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was unsafe?",
+        "answer": "Generally, no. California's strict liability rule focuses on whether the product had a design, manufacturing, or warning defect and whether that defect caused your injury. Whether the maker was careless is usually not the question. That said, each case has its own facts, and an attorney can tell you how the rule applies to yours."
+      },
+      {
+        "question": "I already threw the packaging away. Can I still bring a claim?",
+        "answer": "Possibly. The product itself matters most, so hold onto it and photograph it from every angle. Receipts, order confirmations, and photos of the injury also help establish where and when you bought it. An independent attorney can assess what evidence remains and what can be reconstructed."
+      }
+    ]
+  }
+}

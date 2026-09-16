@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "temecula city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Temecula, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Temecula or elsewhere in Riverside County? You have 2 years to file. LawProactive connects you free with an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end collision on Winchester Road left you with whiplash or a fall on someone else's property broke a bone, LawProactive connects you at no cost with an independent injury attorney serving Temecula and Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Temecula, California",
+    "longDescription": "Temecula is home to about 112,000 people, and in 2025 — the most recent final reporting year — the city recorded 451 injury collisions. Those crashes left 631 people injured and took 8 lives. Public-record counts show the heaviest collision volumes along Winchester Road, the northbound side of I-15, Rancho California Road, and Margarita Road, with reports tending to peak on Fridays between 3 p.m. and 5 p.m., right as the workweek winds down and the roads fill. Behind each of those numbers is someone trying to figure out what comes next: how to cover an emergency room visit, whether to return the insurer's call, how long the soreness will last. That is where LawProactive fits in. We are not a law firm and we do not give legal advice. We are a free service that connects people injured in Temecula and across Riverside County with an independent personal injury attorney who handles cases like yours. The attorneys in our network work on contingency, so you pay nothing unless there is a recovery. Reaching out costs you a few minutes, and you decide what happens after that. No pressure, no obligation — just a straightforward way to get your questions in front of someone who can answer them.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Temecula",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Lower back and disc injuries",
+      "Knee and shoulder damage from falls",
+      "Cuts, bruising, and airbag burns"
+    ],
+    "ctaText": "Tell us what happened — the conversation is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Temecula Claim",
+    "items": [
+      {
+        "title": "The clock is two years — or less",
+        "desc": "California gives you two years from the injury to file most personal injury claims, but if a government entity is involved, the deadline can drop to six months. Getting connected early keeps those options open."
+      },
+      {
+        "title": "Partly at fault? You can still recover",
+        "desc": "California follows pure comparative fault, so being partially responsible reduces what you can recover rather than wiping it out. Even a driver found mostly at fault may still have a claim."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, lost enjoyment, and emotional distress. Your claim is not boxed in by a statutory ceiling."
+      },
+      {
+        "title": "Nothing out of pocket",
+        "desc": "Attorneys in the LawProactive network work on contingency, which means their fee comes only from a recovery. If there is no recovery, there is no fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster keeps calling and I don't know what to say",
+      "My car is totaled and I still have to get to work in Murrieta",
+      "I'm not sure how much of this was my fault",
+      "Medical bills are arriving faster than I can open them"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Temecula?",
+        "answer": "For most personal injury claims in California, you have two years from the date you were hurt. If your claim involves a city, county, or state agency — say, a Riverside County vehicle or a road maintenance issue — you may have as little as six months to file a government claim. Because these deadlines differ, it helps to get connected with an attorney soon after the injury."
+      },
+      {
+        "question": "Where do crashes tend to happen in Temecula?",
+        "answer": "Public-record collision counts for 2025 show the highest volumes along Winchester Road, I-15 northbound, Rancho California Road, and Margarita Road. Reports also tend to peak on Fridays between 3 p.m. and 5 p.m. These are simply counts of where and when collisions were reported, not judgments about any particular street."
+      },
+      {
+        "question": "What if the insurer says the crash was partly my fault?",
+        "answer": "California uses pure comparative fault. That means your share of responsibility reduces your recovery by that percentage but does not eliminate it. An attorney can review the police report and evidence to challenge how fault was assigned."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not provide legal advice. We put you in touch with an independent personal injury attorney who practices in Riverside County, and any relationship you form is directly with that attorney."
+      },
+      {
+        "question": "What will it cost me to talk to an attorney?",
+        "answer": "Nothing to start. Our connection is free, and the attorneys in our network work on contingency, so their fee comes out of a recovery rather than your pocket. If there is no recovery, you owe no attorney fee."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "laguna-niguel city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Laguna Niguel, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Laguna Niguel? Free connection to an Orange County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Crown Valley Parkway or injured in a fall, we'll connect you free of charge with an attorney serving Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Laguna Niguel, California",
+    "longDescription": "Laguna Niguel's neighborhoods sit along busy corridors like Crown Valley Parkway, Golden Lantern, Alicia Parkway, and Moulton Parkway, where daily commuter and local traffic mix. In the most recent full year on record, the city saw 107 injury collisions, resulting in 142 people injured and 3 traffic deaths. Behind each of those numbers is someone dealing with medical bills, missed work, and a lot of uncertainty about what comes next. LawProactive is a free service that helps people in that situation get connected with an independent personal injury attorney who can review what happened and explain their options. We are not a law firm, we don't handle cases ourselves, and we never charge anything for the connection. The attorneys in our network work on contingency, meaning there's no fee unless they recover money on your behalf. If you were hurt in a crash, a fall, or another incident caused by someone else's actions in Laguna Niguel, reaching out costs nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord damage",
+      "Cuts, bruises, and soft tissue injuries",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Get connected with an attorney today, free and without obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity is involved. Waiting can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Fault Doesn't Have to Be Perfect",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in standard injury cases. That means your recovery isn't limited to just medical bills and lost wages."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. You can get legal help without worrying about hourly rates or retainers."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while you're out of work",
+      "Not knowing if you waited too long to take action",
+      "Fearing the insurance company will blame you for the accident",
+      "Feeling overwhelmed about where to even start"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim in Laguna Niguel?",
+        "answer": "In most personal injury cases, California law gives you two years from the date of the incident to file a lawsuit. If a government agency or public entity was involved, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your total recovery is simply reduced by your percentage of fault, not blocked entirely."
+      },
+      {
+        "question": "Where do injury collisions tend to cluster in Laguna Niguel?",
+        "answer": "Public crash records show higher collision counts along corridors such as Crown Valley Parkway, Golden Lantern, Alicia Parkway, and Moulton Parkway, with reports tending to peak on Fridays between 3 and 5 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. If you choose to move forward, the attorneys in our network work on contingency, meaning they only get paid if you recover money."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "California does not cap non-economic damages, like pain and suffering, in typical personal injury cases. That's different from some other states, and it's one reason it helps to speak with an attorney familiar with California law."
+      }
+    ]
+  }
+}

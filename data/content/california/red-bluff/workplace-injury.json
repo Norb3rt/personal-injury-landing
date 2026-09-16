@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "red-bluff workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Red Bluff Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Red Bluff? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working near Antelope Boulevard, Main Street, or anywhere else in Tehama County, LawProactive can connect you with an independent attorney who understands workplace injury claims in Red Bluff at no cost to you."
+  },
+  "about": {
+    "title": "Red Bluff Workplace Injury Claims",
+    "longDescription": "Red Bluff's economy runs on agriculture, retail along Main Street, and services that keep this Tehama County community moving, and with that work comes real risk of injury. Whether you were hurt on a farm, in a warehouse near Rt 36, or driving for work along Walnut Street or Antelope Boulevard, California law generally requires you to go through workers' compensation for medical care and lost wages, regardless of who was at fault. But workers' comp isn't always the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may also have a separate claim against that third party. LawProactive is a free service that connects injured workers in Red Bluff with an independent attorney who can look at both sides of your situation, explain your options in plain language, and help you understand what deadlines apply. You don't have to sort this out alone, and there's no cost to find out where you stand.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or falls",
+      "Crush and equipment-related injuries",
+      "Repetitive motion and joint injuries",
+      "Falls from ladders, scaffolding, or uneven ground",
+      "Vehicle collisions during work-related driving",
+      "Burns or chemical exposure on job sites"
+    ],
+    "ctaText": "Get connected with an independent attorney, free of charge.\n"
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't the Whole Picture",
+        "desc": "California generally treats workers' comp as the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker can still be held separately liable. An attorney can help identify whether that applies to your case."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You typically need to report a workplace injury to your employer within 30 days to protect your workers' comp claim. Missing that window can complicate your case, so it helps to understand your obligations early."
+      },
+      {
+        "title": "Retaliation Is Illegal, and Deadlines Still Run",
+        "desc": "California law prohibits employer retaliation for reporting an injury or filing a claim. If a third-party claim is involved, remember it carries its own two-year deadline, so timing still matters even while your workers' comp case moves forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if I was hurt working on a Red Bluff farm or ranch?",
+        "answer": "Agricultural work carries its own risks, and workers' comp generally applies regardless of fault. If equipment failure or a third-party contractor played a role, there may also be a separate claim worth exploring. An independent attorney can review the specifics of your situation at no cost."
+      },
+      {
+        "question": "What if my employer retaliates after I report an injury?",
+        "answer": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury or filing a workers' comp claim. If you believe this happened, it's worth discussing with an attorney promptly. Documentation of what occurred can be important."
+      },
+      {
+        "question": "I was injured driving for work near Antelope Boulevard. Does workers' comp cover that?",
+        "answer": "Generally, yes, if you were performing job duties at the time of the collision. If another driver caused the crash, you may also have a separate third-party injury claim outside of workers' comp. That claim carries its own two-year deadline, so it's worth looking into sooner rather than later."
+      }
+    ]
+  }
+}

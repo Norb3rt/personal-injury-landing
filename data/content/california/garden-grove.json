@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "garden-grove city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Garden Grove, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Garden Grove? Connect free with an independent Orange County injury attorney. 2 years to file in California. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end collision on Brookhurst Street left you with whiplash or a fall on someone else's property broke a bone, LawProactive connects you at no cost with an independent personal injury attorney serving Garden Grove and all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Garden Grove, California",
+    "longDescription": "Garden Grove sits in the middle of Orange County's daily traffic, and the numbers show it. In 2025, the city's final tally came to 623 injury collisions, with 788 people hurt and 9 lives lost. Public records point to Garden Grove Boulevard, SR-22, Chapman Avenue and Brookhurst Street as the corridors where the largest share of those collisions were logged, and Friday evenings between 5 and 7 p.m. account for the highest number of reported crashes. If one of those crashes changed your life, or if you were hurt some other way, on a wet sidewalk, in a rideshare, or by a neighbor's dog, you probably have questions before you have answers. That is where LawProactive fits in. We are not a law firm. We are a free service that connects Garden Grove residents with an independent personal injury attorney who handles cases like yours. You pay nothing to be connected, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. California gives most injured people two years to file, but claims against a city or state agency can close in as little as six months. Reaching out early keeps your options open.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Garden Grove Residents",
+    "commonInjuries": [
+      "Neck and back strain from rear-end collisions on Garden Grove Boulevard",
+      "Concussions and other head injuries from freeway crashes on SR-22",
+      "Broken wrists, hips and ankles from falls at stores and apartment complexes",
+      "Road rash and fractures from motorcycle and bicycle collisions",
+      "Pedestrian injuries in crosswalks along Chapman Avenue",
+      "Dog bites and puncture wounds requiring stitches or surgery"
+    ],
+    "ctaText": "Tell us what happened. We'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Garden Grove Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window, but not always",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a government entity is involved, such as a city bus or a poorly maintained public road, that window can shrink to six months, so timing matters."
+      },
+      {
+        "title": "Partial fault doesn't shut the door",
+        "desc": "California follows pure comparative fault. Even if you were partly to blame for a crash on Brookhurst Street, you can still recover; your award is simply reduced by your share of responsibility."
+      },
+      {
+        "title": "No fixed ceiling on pain and suffering",
+        "desc": "In ordinary personal injury cases, California does not cap non-economic damages. Compensation for pain, lost enjoyment of life and emotional distress is decided on the facts of your case, not a statutory limit."
+      },
+      {
+        "title": "Contingency fees mean no upfront cost",
+        "desc": "The attorneys in the LawProactive network work on contingency. You owe no attorney fee unless there is a recovery, and our connection service is always free."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say",
+      "I'm missing shifts and the bills are stacking up faster than I can open them",
+      "I might have been partly at fault, so I'm afraid I have no case",
+      "I can't afford a lawyer and I don't want to sign anything I don't understand"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes happen most often in Garden Grove?",
+        "answer": "Based on public-record collision counts, Garden Grove Boulevard, SR-22, Chapman Avenue and Brookhurst Street log the highest volumes of reported crashes in the city. These are simply the corridors that carry the most traffic and therefore the most reports. Records also show crashes peaking on Fridays between roughly 5 and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most injury claims, California gives you two years from the date you were hurt. That deadline can drop to six months when the claim is against a government entity, such as the city, county or a state agency. Talking with an attorney early helps make sure no deadline slips past."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, which means being partly at fault reduces your recovery but does not eliminate it. If you were found 30 percent responsible, for example, your compensation would be reduced by 30 percent. An attorney can help sort out how fault is likely to be assigned."
+      },
+      {
+        "question": "Does LawProactive charge for connecting me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm. We connect you with an independent personal injury attorney who works on contingency, so you owe no attorney fee unless there is a recovery in your case."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases, California places no cap on non-economic damages like pain, suffering and loss of enjoyment of life. Every case turns on its own facts, so no one can promise a particular result. An attorney can walk you through what your specific situation may involve."
+      }
+    ]
+  }
+}

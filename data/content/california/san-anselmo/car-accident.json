@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "san-anselmo car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Anselmo Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a San Anselmo car accident? Get connected free with an independent Marin County attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a collision on Sir Francis Drake Boulevard or another San Anselmo road left you hurt, we can connect you at no cost with an independent attorney who handles Marin County car accident claims."
+  },
+  "about": {
+    "title": "San Anselmo Car Accident Claims",
+    "longDescription": "San Anselmo's mix of narrow, tree-lined streets and busier corridors like Sir Francis Drake Boulevard, Center Boulevard, Butterfield Road, and San Anselmo Avenue sees its share of collisions, with public records showing crash reports climbing on Thursday afternoons between 5 and 7 p.m. When a crash happens, the aftermath can be disorienting — medical visits, missed work, and calls from an insurance adjuster asking you to explain what happened. LawProactive doesn't practice law; we connect injured San Anselmo residents with an independent personal injury attorney who can review the details of your crash and explain your options under California law. Every case is different, and there's no cost to find out where you stand. The sooner you talk with someone about preserving evidence and understanding your rights, the fewer decisions you'll have to make on your own while recovering.",
+    "commonInjuriesTitle": "Injuries We See From San Anselmo Crashes",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Broken bones and fractures",
+      "Herniated or bulging discs",
+      "Torn ligaments and soft-tissue damage",
+      "Deep cuts and lacerations from glass or debris"
+    ],
+    "ctaText": "Get connected with an attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why San Anselmo Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Time Limits Matter",
+        "desc": "California generally gives you two years from the crash date to file a claim, but if a government-owned road or vehicle was involved, that window can shrink to as little as six months. Talking to an attorney early helps make sure that deadline doesn't quietly pass you by."
+      },
+      {
+        "title": "Comparative Fault Won't Automatically Sink Your Claim",
+        "desc": "California follows pure comparative fault, meaning you may still recover damages even if you're partly responsible for the crash — your share of fault simply reduces the amount. An independent attorney can help make sure fault is calculated fairly, not just accepted at the insurer's word."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages, No Upfront Cost",
+        "desc": "California places no cap on non-economic damages like pain and suffering, and attorneys in our network work on contingency, so there's no fee unless you recover. That means the financial risk of getting advice is on us, not you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was in a crash on Sir Francis Drake Boulevard — should I give the other driver's insurance company a recorded statement?",
+        "answer": "It's best to avoid giving a recorded statement to the other driver's insurer before speaking with an attorney. Adjusters are trained to ask questions that can be used to minimize your claim, and even an innocent comment can be twisted later. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "How long do I have to file a claim after a San Anselmo car accident?",
+        "answer": "In most cases, California gives you two years from the date of the crash to file a personal injury lawsuit. If a government entity, like a public road authority, played a role in the crash, that deadline can be as short as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California's pure comparative fault rule means you can still recover compensation even if you share some blame for the crash. Your total recovery would be reduced by your percentage of fault, but you're not automatically barred from a claim. An attorney can help evaluate how fault might be divided in your case."
+      }
+    ]
+  }
+}

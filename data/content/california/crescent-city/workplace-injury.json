@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "crescent-city workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Crescent City Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Crescent City? Get connected free with an independent attorney who handles work injury and third-party claims in Del Norte County."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt while working in Crescent City, from a Rt 101 delivery run to a job site near L Street, we can connect you with an attorney who knows how workers' comp and third-party claims fit together."
+  },
+  "about": {
+    "title": "Crescent City Workplace Injury Claims",
+    "longDescription": "Crescent City's economy runs on fishing docks, logging operations, retail along 5th Street, and the steady flow of trucking and delivery traffic on US-101. Workers in these jobs face real risks — falls, vehicle collisions, and equipment accidents among them. In most cases, California workers' compensation is the only path against your employer, no matter who was at fault. But if a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, you may also have a separate claim against that third party. This matters in Del Norte County, where many worksites involve outside contractors and shared equipment. LawProactive doesn't practice law — we're a free service that connects injured workers with an independent attorney who can look at both sides of your situation: the workers' comp claim and any potential third-party case. There's no cost unless your attorney recovers money for you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, docks, or loading areas",
+      "Vehicle collisions during work-related driving",
+      "Equipment or machinery-related injuries",
+      "Repetitive strain from logging or warehouse work",
+      "Struck-by incidents involving forklifts or falling material",
+      "Slip-and-fall injuries on job sites or in retail settings"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney at no cost to you.'"
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Work Injury Claim",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California generally treats workers' comp as the exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can still be held separately liable."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and missing that window can complicate your claim, so getting guidance early helps protect your options."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "California law prohibits employers from punishing you for reporting an injury or filing a claim, and an attorney can help you understand your protections if you're worried about retaliation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while making a delivery on US-101 in Crescent City. Is that a workers' comp case or something else?",
+        "answer": "It could be both. If you were on the job when it happened, workers' comp likely applies to your employer, but if another driver caused the crash, you may also have a separate third-party injury claim. An attorney can look at the details and explain which paths are available to you."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer?",
+        "answer": "California generally requires you to notify your employer within 30 days of a workplace injury. Reporting later can make it harder to establish your claim, so it's best to report as soon as you're able."
+      },
+      {
+        "question": "Can my employer fire me for filing a workers' comp claim?",
+        "answer": "No — California law makes it illegal for an employer to retaliate against you for reporting a work injury or filing a claim. If you believe you've faced retaliation, an attorney can help you understand your options."
+      }
+    ]
+  }
+}

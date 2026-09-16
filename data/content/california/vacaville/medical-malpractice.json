@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "vacaville medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice in Vacaville, CA | Free Attorney Match",
+    "metaDescription": "Hurt by a medical error in Vacaville? Learn how California's MICRA deadlines work and get connected, free, with an independent malpractice attorney."
+  },
+  "hero": {
+    "subtitle": "When treatment in Vacaville leaves you worse off than you should be, it is fair to ask whether a preventable mistake was made. LawProactive connects Solano County patients with an independent medical malpractice attorney at no cost."
+  },
+  "about": {
+    "title": "Vacaville Medical Malpractice Claims",
+    "longDescription": "Vacaville sits along I-80 in Solano County, and its roughly 96,800 residents rely on local clinics, urgent care, and hospitals for everything from routine checkups to emergency treatment. Most of that care goes well. Sometimes it does not, and the reason is not bad luck but a mistake a careful provider would have avoided. That distinction matters under California's MICRA law. A poor result by itself is not malpractice; you generally have to show that a doctor, nurse, or facility fell below the accepted standard of care and that this failure caused real harm. Proving it almost always takes a qualified medical expert who can explain what should have happened. The clock is short, too: generally one year from when you discovered the injury, and no more than three years from when it occurred, with a 90-day notice required before filing. LawProactive is not a law firm. We are a free service that connects Vacaville patients and families with an independent attorney who handles these cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Medical Errors We Commonly Hear About",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical mistakes, including wrong-site procedures",
+      "Medication and dosage errors",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to order tests or follow up on results"
+    ],
+    "ctaText": "Ask a free question about your care"
+  },
+  "whyChoose": {
+    "title": "Why Vacaville Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are tight",
+        "desc": "You generally have one year from discovering the harm and never more than three years from the injury, plus a 90-day notice must go out before any lawsuit. An attorney can pin down which dates apply to you before time runs out."
+      },
+      {
+        "title": "An expert is nearly always required",
+        "desc": "California courts expect a qualified medical professional to explain the standard of care and how it was breached. The attorneys in our network know how to find and work with those experts."
+      },
+      {
+        "title": "Honest talk about what a claim can be worth",
+        "desc": "MICRA caps non-economic damages, and that cap rises each year, while lost wages and medical bills are handled separately. A straightforward review helps you understand the pieces without any promises attached."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My treatment began at a clinic in Vacaville but the follow-up happened elsewhere. Does that complicate things?",
+        "answer": "It can, because more than one provider and more than one location may be involved. An attorney will look at who made which decision and when, then sort out how MICRA's one-year discovery rule and three-year outer limit apply to each. Gathering your records from every stop along the way is usually the first step."
+      },
+      {
+        "question": "The surgery didn't work. Is that malpractice?",
+        "answer": "Not by itself. California law recognizes that some procedures fail even when everything is done correctly. The question is whether the provider did something a reasonably careful professional in the same field would not have done, and whether that choice caused your injury. A medical expert generally has to make that connection."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, not a law firm, and the independent attorneys we work with take medical malpractice cases on contingency. That means you owe no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

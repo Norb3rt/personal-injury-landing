@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "la-verne workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Verne Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in La Verne? Get connected free to an independent attorney who can review your workers' comp and third-party options."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in La Verne, LawProactive can connect you with an independent attorney who can sort out whether workers' compensation, a third-party claim, or both apply to your situation."
+  },
+  "about": {
+    "title": "La Verne Workplace Injury Claims",
+    "longDescription": "La Verne's mix of small manufacturing, retail along Foothill Boulevard, warehousing near Arrow Highway, and delivery traffic feeding SR-210 means workplace injuries here come from many directions — forklift accidents, falls at a jobsite, or a crash while driving for work near White Avenue. California generally routes these claims through workers' compensation regardless of fault, which limits what you can recover but also means you don't need to prove your employer was negligent. That exclusivity doesn't apply to everyone involved, though. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, a separate claim against that third party may be available alongside your workers' comp benefits. LawProactive doesn't practice law — we connect you, free of charge, with an independent attorney who can look at the facts of your incident, explain your reporting deadlines, and tell you honestly whether a third-party claim is worth pursuing.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Forklift and heavy equipment accidents",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Repetitive strain and overexertion injuries",
+      "Warehouse and loading-dock crush injuries",
+      "Vehicle collisions while driving for work",
+      "Injuries from defective tools or machinery"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why La Verne Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle Comp vs. Third-Party Claims",
+        "desc": "Workers' comp is usually your only path against your employer, but a negligent subcontractor, property owner, or equipment maker may still owe you separately. The attorney we connect you with can figure out which claims actually apply to your case."
+      },
+      {
+        "title": "We Know the Clock Is Ticking",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and any third-party claim carries its own 2-year deadline. Getting connected early gives an attorney room to build your case properly."
+      },
+      {
+        "title": "We Understand Retaliation Concerns",
+        "desc": "California law prohibits employer retaliation against workers who report injuries or file claims. An independent attorney can explain your protections so fear of losing your job doesn't stop you from getting help."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for my job near SR-210 or Foothill Boulevard — is that workers' comp or a separate claim?",
+        "answer": "It can be both. Your employer's workers' comp typically covers the injury regardless of fault, but if another driver caused the crash, that driver's insurance may owe you a separate claim for damages comp doesn't cover, like full pain and suffering. An attorney can review the crash details and your work duties to sort out which claims apply."
+      },
+      {
+        "question": "My employer says I have to use their doctor — is that true in La Verne?",
+        "answer": "Often yes, at least initially, since many California employers control medical treatment through an approved network. That said, you may have rights to a second opinion or a change of physician depending on your circumstances. It's worth having an independent attorney review your specific plan before assuming you're stuck."
+      },
+      {
+        "question": "What if my employer discourages me from reporting my injury?",
+        "answer": "Retaliation for reporting a workplace injury or filing a workers' comp claim is illegal under California law. If you feel pressured to stay quiet, document what's said and reach out — an attorney can advise you on protecting both your claim and your job."
+      }
+    ]
+  }
+}

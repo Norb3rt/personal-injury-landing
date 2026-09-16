@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "sonora workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sonora Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Sonora, CA? Get connected free with an independent attorney who handles workers' comp and third-party claims in Tuolumne County."
+  },
+  "hero": {
+    "subtitle": "If a job site injury has left you sidelined in Sonora, you're likely juggling workers' comp paperwork and unanswered questions about who else might be responsible. LawProactive can connect you, at no cost, with an independent attorney who works these cases across Tuolumne County."
+  },
+  "about": {
+    "title": "Sonora Workplace Injury Claims",
+    "longDescription": "Sonora's economy runs on a mix of small businesses, healthcare facilities, construction crews, and tourism-related work near the Highway 49 corridor, and injuries on these job sites happen more often than people expect. Whether it's a fall at a retail location, an equipment malfunction at a job site off Mono Way, or a delivery driver hurt navigating S Washington Street traffic, the aftermath usually means the same thing: medical bills, missed paychecks, and a workers' comp system that can feel confusing to deal with alone. California generally requires injured workers to go through workers' compensation first, but that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate claim against that third party may be possible. LawProactive doesn't practice law itself — we simply connect you with an independent attorney in our network who can look at what happened and explain your options, free of charge and without any pressure to sign anything before you're ready.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connect With Attorneys For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Machinery and equipment-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Injuries from falling objects or unsecured materials",
+      "Burns, chemical exposure, or respiratory injuries"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Sonora Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle the Third-Party Question",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but it doesn't cover claims against a negligent third party like a subcontractor or equipment maker. An attorney in our network can help figure out if that separate path applies to your situation."
+      },
+      {
+        "title": "We Understand the Clock Is Ticking",
+        "desc": "You generally have only 30 days to report a workplace injury to your employer, and separate third-party claims carry a 2-year deadline in California. Connecting sooner rather than later helps preserve your options."
+      },
+      {
+        "title": "We Know Retaliation Concerns Are Real",
+        "desc": "California law prohibits employer retaliation against workers who report injuries or file claims. If you're worried about job security, an independent attorney can walk you through your rights before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at work near Mono Way — do I have to use workers' comp, or can I sue my employer?",
+        "answer": "In California, workers' compensation is usually the exclusive remedy against your employer, meaning you generally can't sue them directly even if they were careless. However, if a third party, like a subcontractor or equipment supplier, contributed to your injury, a separate claim against that party may be possible. An independent attorney can help sort out which path applies to your case."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer in Sonora?",
+        "answer": "California law generally requires you to report a workplace injury to your employer within 30 days. Missing that window can complicate your workers' comp claim, so it helps to act promptly and document what happened as soon as you're able."
+      },
+      {
+        "question": "What if my employer threatens to fire me for filing a claim?",
+        "answer": "Retaliation against an employee for reporting a workplace injury or filing a workers' comp claim is illegal under California law. If you're facing this in Sonora or anywhere in Tuolumne County, an independent attorney can explain your protections and next steps."
+      }
+    ]
+  }
+}

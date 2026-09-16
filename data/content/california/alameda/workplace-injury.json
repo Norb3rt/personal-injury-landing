@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "alameda workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Alameda Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Alameda? Learn how workers' comp and third-party claims work in California, then connect free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Alameda? We connect you, free of charge, with an independent attorney who can explain what workers' comp covers and whether a third party may also owe you a claim."
+  },
+  "about": {
+    "title": "Alameda Workplace Injury Claims",
+    "longDescription": "An injury at work rarely arrives with a clear explanation of what happens next. In Alameda, that might mean a fall from scaffolding on a Park Street storefront renovation, a back strain in a warehouse, or a collision while making deliveries along Lincoln Avenue or Central Avenue. Public records show 129 injury collisions in the city during 2025, with 166 people hurt, a reminder that driving is part of many jobs here. California handles work injuries in two lanes. Workers' compensation covers medical care and partial wage replacement through your employer's insurer, no matter who was at fault, and it is usually the only claim you can bring against the employer itself. Separately, if someone outside your company contributed to the injury, a subcontractor, a property owner, an equipment manufacturer, or another driver, you may also have a personal injury claim against that third party. LawProactive connects Alameda workers, at no cost, with an independent attorney who works on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Alameda Workplaces",
+    "commonInjuries": [
+      "Falls from ladders, roofs, or scaffolding",
+      "Back and spine injuries from lifting or repetitive strain",
+      "Crush injuries and amputations from machinery",
+      "Burns and chemical exposure",
+      "Collisions while driving a work vehicle",
+      "Head injuries from falling objects or slips"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Alameda Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Paths, Clearly Explained",
+        "desc": "Workers' comp is usually your only remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver can open a separate claim. The attorney you're matched with can sort out which applies to your Alameda injury."
+      },
+      {
+        "title": "Deadlines Kept in View",
+        "desc": "You have 30 days to report an injury to your employer, and any third-party claim generally carries California's two-year deadline. Getting connected early keeps both clocks from working against you."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law forbids your employer from punishing you for reporting an injury or filing a claim. If your hours were cut or your job threatened after you spoke up, that is worth raising with the attorney."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit while driving for work on Lincoln Avenue in Alameda. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were on the job, workers' comp should cover your medical care and part of your lost wages regardless of who caused the crash. If the other driver was at fault, you may also have a separate personal injury claim against that driver, which is where an attorney can add real value."
+      },
+      {
+        "question": "What happens if I didn't report my injury to my employer right away?",
+        "answer": "California asks you to report a work injury to your employer within 30 days, so do it as soon as you can, in writing if possible. Missing the window can complicate a workers' comp claim, though it does not always end it. An attorney can review your timeline and tell you where you stand."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive or to talk with the attorney?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney; we are not a law firm. The attorneys in our network handle injury claims on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  }
+}

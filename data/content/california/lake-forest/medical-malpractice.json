@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "lake-forest medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lake Forest Medical Malpractice Lawyer | LawProactive",
+    "metaDescription": "Hurt by a medical error in Lake Forest? LawProactive connects you, free, with an independent California malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a doctor, hospital, or clinic in Lake Forest made a mistake that left you worse off, you deserve a straight answer about whether it was malpractice. We connect you, at no cost, with an independent attorney who can review what happened."
+  },
+  "about": {
+    "title": "Lake Forest Medical Malpractice Claims",
+    "longDescription": "Medical care in Lake Forest usually goes the way it should. When it doesn't — a missed diagnosis, a surgical mistake, a prescription error nobody caught — the fallout lands on you and your family, and the questions arrive fast. Is this malpractice, or just a bad result? Who is responsible? How long do you have? California's MICRA framework governs these cases, and it is not forgiving of delay: generally one year from the day you discovered the harm, and no more than three years from the injury itself, with a 90-day notice letter required before any lawsuit is filed. Nearly every claim also needs a qualified medical expert to say the standard of care was breached. That is a lot to sort out while you are still recovering. LawProactive is a free service, not a law firm. We connect Lake Forest and Orange County residents with an independent attorney who handles medical negligence, works on contingency, and can review your records honestly — including telling you if a claim isn't there.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Questions",
+    "commonInjuries": [
+      "Delayed or missed cancer, stroke, or heart attack diagnosis",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Infections or pressure sores from inadequate hospital care"
+    ],
+    "ctaText": "Ask a Lake Forest malpractice attorney to review your case — free."
+  },
+  "whyChoose": {
+    "title": "Why Lake Forest Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines get flagged early",
+        "desc": "The clock in California malpractice cases runs one year from discovery and never more than three years from the injury, and a 90-day pre-suit notice has to go out before filing. The attorney we connect you with will map those dates against your own timeline right away."
+      },
+      {
+        "title": "Expert review, not guesswork",
+        "desc": "A qualified medical expert is almost always required to establish that care fell below the accepted standard. Attorneys in our network know how to obtain your records and get them in front of the right specialist."
+      },
+      {
+        "title": "Honest about what MICRA allows",
+        "desc": "California caps non-economic damages in these cases, though the cap rises every year, and a poor outcome by itself is not malpractice. You will hear a realistic assessment, with no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at an Orange County hospital after a collision on El Toro Road. Is a malpractice claim separate from my car accident case?",
+        "answer": "Yes, they are distinct claims with different rules. The crash claim is about the other driver's negligence, while a malpractice claim targets a provider whose treatment fell below the standard of care and made your injuries worse. Lake Forest recorded 163 injury collisions in 2025, and some of those patients later question the care they received; an attorney can look at both pieces together so nothing is missed."
+      },
+      {
+        "question": "My surgery had a complication. Does that mean I have a case?",
+        "answer": "Not necessarily. California law is clear that a bad result, on its own, is not malpractice; known risks can occur even when everyone does their job properly. What matters is whether a qualified medical expert reviewing your records concludes the provider did something a reasonably careful provider would not have done. That review is exactly what the attorney you are connected with will arrange."
+      },
+      {
+        "question": "How long do I have to act in Lake Forest?",
+        "answer": "Under MICRA, you generally have one year from when you discovered, or reasonably should have discovered, the injury, and in no event more than three years from the date the harm occurred. Before a lawsuit can be filed, the provider must receive 90 days' written notice. Because the discovery date can be contested, it is wise to speak with an attorney sooner rather than later."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "san-fernando city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Fernando, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in San Fernando, LA County? Connect free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on San Fernando Road or a fall that led to broken bones, we'll connect you at no cost with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Fernando, California",
+    "longDescription": "San Fernando is a compact city, but its streets carry a lot of traffic every day. Public records show 81 injury collisions in the most recent final crash year, with 116 people hurt. Corridors like Truman Street, San Fernando Road, Glenoaks Boulevard, and N Maclay Avenue see the heaviest reported volume, and Thursday evenings between 5 and 7 p.m. tend to show more activity than other times. None of that means any particular street is unsafe — it's simply where more people are driving, and where more reported crashes happen to occur. If you were hurt in one of these collisions, or in a workplace accident, a slip-and-fall, or another kind of incident, LawProactive can help. We are a free service that connects injured people with an independent personal injury attorney in the network — we are not a law firm, and we don't decide your case or promise any result. The attorneys we connect you with work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and takes just a few minutes.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries from impact"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity is involved, that window can shrink to as little as six months, so it helps to act sooner rather than later."
+      },
+      {
+        "title": "Partial Fault Doesn't Block Your Claim",
+        "desc": "California follows a pure comparative fault rule, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no limit on non-economic damages like pain, suffering, or loss of enjoyment of life. This can matter a great deal when an injury affects your daily life long after the medical bills stop."
+      },
+      {
+        "title": "No Upfront Cost to Get Legal Help",
+        "desc": "Attorneys in our network work on contingency, which means they only get paid if you recover money. There's no retainer or hourly fee to worry about while you're trying to heal."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing whether the insurance company's offer is fair",
+      "Fear that admitting any fault will cost you your entire claim",
+      "Uncertainty about how much time you actually have to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and the independent attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no upfront fee to speak with someone about your situation."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "In most personal injury cases, California law gives you two years from the date of the injury to file a claim. If your claim involves a government agency, that deadline can be much shorter, sometimes just six months, so it's worth checking your timeline early."
+      },
+      {
+        "question": "What if I was partly at fault for what happened?",
+        "answer": "California uses a pure comparative fault system, so being partially responsible doesn't prevent you from recovering compensation. Your total recovery is adjusted based on your percentage of fault, but you can still pursue a claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in San Fernando?",
+        "answer": "Public collision records show higher counts along Truman Street, San Fernando Road, Glenoaks Boulevard, and N Maclay Avenue, with reported crashes often peaking on Thursdays between 5 and 7 p.m. These are simply where more crashes have been recorded, not a judgment about any particular road or area."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in typical personal injury cases. That said, every claim is different, and no outcome or amount can be promised in advance."
+      }
+    ]
+  }
+}

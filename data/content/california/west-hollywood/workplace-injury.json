@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "west-hollywood workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "West Hollywood Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in West Hollywood? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been injured while working in West Hollywood — whether behind the bar, on a film set, in a hotel, or driving for a delivery service along Santa Monica or Sunset Boulevard — LawProactive can connect you free with an independent attorney who can explain your options."
+  },
+  "about": {
+    "title": "West Hollywood Workplace Injury Claims",
+    "longDescription": "West Hollywood's economy runs on hospitality, entertainment, and retail — busy restaurants, hotels, nightclubs, and production crews along Santa Monica Boulevard and Sunset Boulevard. That density of activity also means a steady stream of workplace injuries: falls in kitchens, lifting injuries in hotels, accidents on set, or crashes involving delivery and rideshare workers on corridors like La Cienega Boulevard and Fountain Avenue. Under California law, workers' compensation is generally the exclusive remedy against your employer, no matter who was at fault. But when a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, a separate third-party claim may be possible alongside your workers' comp case. LawProactive doesn't practice law — we simply connect injured workers with independent attorneys who can review the details and explain what paths may be available, at no upfront cost to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Slip-and-fall injuries in kitchens, bars, and hotels",
+      "Repetitive strain and lifting injuries",
+      "Falls from ladders, scaffolding, or platforms on production sets",
+      "Vehicle collisions involving delivery or rideshare workers",
+      "Equipment-related cuts, crushes, or burns",
+      "Injuries from unsafe premises at job sites or venues"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why West Hollywood Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Beyond Workers' Comp",
+        "desc": "While workers' comp usually bars a lawsuit against your employer, a negligent third party — like a subcontractor or another driver — can still be held responsible. An attorney can help sort out whether your case involves more than just a workers' comp claim."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury. If you're worried about your job after getting hurt, an attorney can explain your rights before you decide how to proceed."
+      },
+      {
+        "title": "Deadlines That Matter",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and third-party claims carry a 2-year deadline in California. Missing either window can limit your options, so timing matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at work in West Hollywood — can I sue my employer?",
+        "answer": "In most cases, California's workers' compensation system is the exclusive remedy against your employer, regardless of fault. However, if a third party — such as a subcontractor, property owner, or equipment manufacturer — contributed to your injury, a separate claim against them may be possible. An independent attorney can help determine which path applies to your situation."
+      },
+      {
+        "question": "What if I was injured while driving for work near Santa Monica Boulevard or La Cienega Boulevard?",
+        "answer": "If you were injured in a vehicle collision while performing job duties, you may have both a workers' compensation claim and a potential third-party claim against another driver. West Hollywood sees a steady number of injury collisions on these corridors each year, so this situation isn't unusual. An attorney can look at police reports and other details to sort out your options."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim?",
+        "answer": "California law generally requires you to report a workplace injury to your employer within 30 days. If a third-party claim is involved, that generally carries a separate 2-year deadline. Because these timelines can overlap or differ, it helps to speak with an attorney sooner rather than later."
+      }
+    ]
+  }
+}

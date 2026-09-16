@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "santa-fe-springs city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Fe Springs, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Santa Fe Springs? Free connection to an LA County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash, a fall, or another accident, we'll connect you free of charge with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Santa Fe Springs, California",
+    "longDescription": "Santa Fe Springs sits along a busy stretch of industrial and commuter traffic, and the numbers reflect it: in the most recent final reporting year, the city logged 402 injury collisions, with 602 people hurt and 3 traffic deaths. Corridors like Florence Avenue, Telegraph Road, Carmenita Road, and Norwalk Boulevard carry heavy volume throughout the week, and reported crashes tend to cluster on Fridays between 5 and 7 p.m., when commuter and weekend traffic overlap. If you were hurt in one of these collisions, or in any other kind of accident around town, sorting out medical care, missed work, and insurance calls can feel like a full-time job on top of recovering. LawProactive is a free service — we are not a law firm — that connects injured people in Santa Fe Springs with an independent personal injury attorney who works on contingency, meaning there's no fee unless your case results in a recovery. We simply help you find someone to talk to about what happened, without adding to your plate. There's no obligation to move forward, and no cost to find out where you stand.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Find out if you have a case — free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "Contingency-Based Representation",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a recovery. You don't pay upfront to have your case reviewed."
+      },
+      {
+        "title": "Fault Doesn't Automatically Bar You",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still be able to recover damages reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no cap on non-economic damages like pain and suffering, which can matter when a serious injury affects daily life."
+      },
+      {
+        "title": "A Filing Clock That's Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window can shrink to as little as six months if a government entity is involved — so timing matters."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while unable to work",
+      "Not knowing if the insurance settlement offer is fair",
+      "Feeling overwhelmed trying to handle paperwork while recovering",
+      "Wondering if being partly at fault means losing the right to any compensation"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "In most cases, you have two years from the date of the injury to file a claim. If a government agency was involved, that window can be as short as six months, so it's worth checking your timeline early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means your compensation is reduced by your percentage of fault rather than eliminated entirely. Even if you share some responsibility, you may still be able to recover damages."
+      },
+      {
+        "question": "Do I have to pay anything upfront to speak with an attorney?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network work on contingency, so there's no fee unless your case results in a recovery."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Santa Fe Springs?",
+        "answer": "Public records show higher collision counts along Florence Avenue, Telegraph Road, Carmenita Road, and Norwalk Boulevard, with reported crashes tending to peak on Fridays between 5 and 7 p.m. These are neutral collision counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases, California does not cap non-economic damages such as pain and suffering. This is different from some other states, and it can be relevant depending on the specifics of your injury."
+      }
+    ]
+  }
+}

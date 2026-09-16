@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "montague city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Montague, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Montague, Siskiyou County? Free attorney connection, 2 years to file, no fee unless you win. Get case help today."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on Highway 3 or a rollover out on Big Springs Road, we can connect you with an independent attorney at no cost. LawProactive serves injured residents throughout Siskiyou County, free of charge."
+  },
+  "about": {
+    "title": "Personal Injury Help in Montague, California",
+    "longDescription": "Montague is a small community, but its roads still carry real risk. Public crash records show at least one injury collision here in the most recent reporting year, with two people hurt and no fatalities — a reminder that even in a town of under 1,400 residents, a single bad moment on 11th Street (State Route 3), Ager Road, or Big Springs Road can upend a life. Reported crashes here have tended to cluster on Wednesdays between midnight and 2 a.m., often on N 11th Street or along these same corridors. If you or someone you love was hurt in a crash near Montague, you don't have to sort out medical bills, insurance calls, and legal paperwork by yourself. LawProactive is a free service — not a law firm — that connects injured people with an independent personal injury attorney who can review what happened and explain your options. There's no cost to you unless your attorney recovers money on your behalf. Reaching out costs nothing and starts the process of understanding where you stand.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Find out if you have a case — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "You Have Two Years — But Time Still Matters",
+        "desc": "California generally gives injured people two years from the date of the crash to file a claim, though claims against a government agency can require notice in as little as six months. Acting sooner preserves evidence and options while records are still fresh."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash — your share of fault simply reduces the award. An attorney can help sort out how fault is likely to be allocated."
+      },
+      {
+        "title": "No Cap on What You Can Recover for Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no limit on non-economic damages like pain and suffering. That means compensation isn't automatically capped just because the physical injury looks minor on paper."
+      },
+      {
+        "title": "No Fee Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to hire one. They only get paid if they recover money for you, which keeps the incentive aligned with your outcome."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Fear that being partly at fault means no compensation",
+      "Uncertainty about how much time is left to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We don't represent you directly, and there's no charge for the connection."
+      },
+      {
+        "question": "How long do I have to file a claim after a crash in Montague?",
+        "answer": "California generally allows two years from the date of injury to file a personal injury claim. If a government entity was involved, such as a road maintained by a public agency, the deadline to file a notice can be as short as six months, so it's wise to act quickly."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Montague?",
+        "answer": "Public crash records point to corridors like 11th Street (State Route 3), Ager Road, Big Springs Road, and N 11th Street as having the higher recorded collision counts in the area. These are neutral, public-record figures and not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so being partly responsible doesn't bar you from recovering compensation. Your recovery is simply reduced by your percentage of fault, and an attorney can help evaluate how that might apply to your situation."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. Connecting with an attorney through LawProactive is free, and attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no obligation to move forward after speaking with someone."
+      }
+    ]
+  }
+}

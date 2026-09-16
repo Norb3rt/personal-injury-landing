@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "calistoga car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calistoga Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Calistoga car accident? LawProactive connects you free to an independent attorney near Napa County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Rt 29 or Lincoln Avenue left you hurt, LawProactive can connect you with an independent Calistoga-area attorney at no cost to you."
+  },
+  "about": {
+    "title": "Calistoga Car Accident Claims",
+    "longDescription": "Calistoga's roads carry a mix of local traffic, tourists heading to the wine country, and commercial vehicles, and that mix shows up in the public collision data: 13 injury crashes and 16 injured people in the most recent recorded year. Rt 29, Foothill Boulevard, Rt 128, and Lincoln Avenue see the heaviest reported volume, with Friday afternoons between 4 and 6 p.m. standing out as a common time for collisions to occur. Whether you were rear-ended near downtown or sideswiped out on the highway, the aftermath usually involves the same headaches — medical bills, missed work, and an insurance adjuster asking for a statement before you've even seen a doctor. LawProactive doesn't practice law; we simply connect Calistoga residents and visitors with an independent personal injury attorney who can look at what happened and explain your options. There's no cost to talk to someone, and no obligation if you decide it's not the right fit.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Back and spinal disc injuries",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Torn ligaments or knee injuries",
+      "Cuts, bruises, and soft tissue damage"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer Calls Back",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash date to file a personal injury claim in California, but that window can shrink to as little as six months if a government entity (like a road authority) is involved. An attorney can help you figure out which deadline applies before it passes."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California allows compensation to be reduced based on your share of fault, so an early recorded statement to the other driver's insurer can be used to inflate your percentage of blame. Speaking with an attorney first helps protect what you say and how it's used."
+      },
+      {
+        "title": "No Cap Doesn't Mean No Fight",
+        "desc": "California places no cap on non-economic damages like pain and suffering, but insurers still push back hard on those amounts. An attorney working on contingency has an incentive to pursue fair value since they're only paid if you recover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "The other driver's insurance company already called me — should I give them a statement?",
+        "answer": "It's generally wise to avoid giving a recorded statement before speaking with an attorney, since anything you say can be used to shift blame onto you under California's comparative fault rules. You're not required to provide one right away. An independent attorney can advise you on what, if anything, to share."
+      },
+      {
+        "question": "I was hurt in a crash near Rt 29 or Lincoln Avenue in Calistoga — does it matter where it happened?",
+        "answer": "The location can matter for evidence purposes, such as nearby traffic cameras, witness availability, or whether a government-maintained road was involved. If a public entity's road design or maintenance is a factor, California's shorter claim deadline against government entities may apply. An attorney can help sort out these details early."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing — LawProactive is a free service that connects you with an independent personal injury attorney, and there's no charge to have an initial conversation. Attorneys in the network typically work on contingency, meaning they only get paid if you recover compensation. You're never obligated to move forward after speaking with someone."
+      }
+    ]
+  }
+}

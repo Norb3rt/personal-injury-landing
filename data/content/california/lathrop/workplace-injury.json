@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "lathrop workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lathrop Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Lathrop? Get connected free with an independent attorney who can review your workers' comp or third-party options."
+  },
+  "hero": {
+    "subtitle": "Warehouses, distribution centers, and job sites along I-5 and SR-120 keep Lathrop working, but that also means real risk of on-the-job injury. LawProactive can connect you with an independent attorney who understands how San Joaquin County workplace injury claims unfold."
+  },
+  "about": {
+    "title": "Lathrop Workplace Injury Claims",
+    "longDescription": "Lathrop's economy leans heavily on logistics and distribution work near I-5, Harlan Road, and SR-120, where forklifts, loading docks, and heavy trucks are part of daily routines. When something goes wrong on the job, California generally routes injured workers through the workers' compensation system rather than a lawsuit against the employer. But that's not always the end of the story — if a subcontractor, equipment manufacturer, delivery driver, or another outside party contributed to the accident, a separate claim against that third party may be possible. Sorting out which path applies, and doing it within the right timeframes, matters. LawProactive doesn't practice law or handle claims directly; we simply connect injured workers in Lathrop with an independent attorney who can look at the details, explain the options in plain terms, and help figure out the right next step, all without any upfront cost to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Back and spinal strains from lifting or repetitive motion",
+      "Forklift and loading dock accidents",
+      "Falls from ladders, scaffolding, or loading platforms",
+      "Crush or caught-between injuries near machinery",
+      "Repetitive stress injuries from warehouse tasks",
+      "Injuries from vehicle collisions during work-related driving"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "What Matters in a Lathrop Workplace Injury Case",
+    "items": [
+      {
+        "title": "Two Paths, Different Deadlines",
+        "desc": "Workers' compensation is usually the only remedy against your employer, but a third party like a subcontractor or equipment maker can still be held separately liable. That third-party claim carries its own two-year deadline, so figuring out which route applies early matters."
+      },
+      {
+        "title": "Reporting Windows Are Short",
+        "desc": "California generally requires notifying your employer of a workplace injury within 30 days. Missing that window can complicate a claim, so prompt reporting is worth understanding right away."
+      },
+      {
+        "title": "Retaliation Isn't Allowed",
+        "desc": "It's illegal for an employer to punish a worker for reporting an injury or pursuing a claim. An independent attorney can help explain what protections apply if that becomes a concern."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I got hurt at a warehouse near Harlan Road — do I file a workers' comp claim or a lawsuit?",
+        "answer": "In most cases, workers' compensation is the exclusive path against your employer regardless of fault. But if a third party, like a subcontractor, trucking company, or equipment manufacturer, contributed to the accident, a separate injury claim against them may also be possible. An independent attorney can review the specifics and help sort out which applies."
+      },
+      {
+        "question": "How long do I have to report a workplace injury in Lathrop?",
+        "answer": "California generally expects injured workers to notify their employer within 30 days of the injury. Reporting promptly helps preserve your options, whether that means a workers' comp claim or a potential third-party case."
+      },
+      {
+        "question": "Can my employer fire me for reporting an injury?",
+        "answer": "No — retaliation against a worker for reporting an injury or filing a claim is illegal under California law. If you're worried about how your employer might respond, an independent attorney can walk through what protections apply to your situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "vallejo workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Attorney in Vallejo, CA | LawProactive",
+    "metaDescription": "Hurt on the job in Vallejo? LawProactive connects Solano County workers with an independent injury attorney for free. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a warehouse off Sonoma Boulevard or behind the wheel of a work van on I-80, we connect Vallejo workers with an independent attorney who can explain every claim available to you."
+  },
+  "about": {
+    "title": "Vallejo Workplace Injury Claims",
+    "longDescription": "Work injuries in Vallejo do not all happen on a fenced job site. Some happen in a delivery van on I-80, some in a warehouse off Sonoma Boulevard, some on a stretch of Tennessee Street where a crew is repaving. What ties them together is a system that can feel confusing the moment you are hurt. California workers' compensation usually covers you no matter who was at fault, and it is generally the only claim you can bring against your own employer. Yet it stops short of many real losses. When a subcontractor, a property owner, an equipment manufacturer, or another driver caused the harm, a separate third-party claim may be open to you. Vallejo recorded 439 injury collisions and 610 people hurt in 2025, and some of those involved a person who was working at the time. LawProactive is a free service, not a law firm. We connect Solano County workers with an independent attorney who can sort out which paths apply, and that attorney works on contingency, so nothing is owed unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Vallejo Workers Commonly Report",
+    "commonInjuries": [
+      "Back and spine strain from lifting or repetitive motion",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Crush and pinch injuries from machinery or equipment",
+      "Collision injuries while driving for work on I-80 or Broadway Street",
+      "Burns, chemical exposure, and respiratory harm",
+      "Head injuries from falling objects or slips on wet floors"
+    ],
+    "ctaText": "Talk through your options with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Vallejo Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Systems, One Clear Explanation",
+        "desc": "Workers' compensation is usually your exclusive remedy against your employer, but a negligent third party is a different story. The attorney we connect you with can look at both and tell you plainly where each stands."
+      },
+      {
+        "title": "Deadlines That Matter",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and a third-party injury claim generally carries a two-year deadline. Getting connected early keeps both windows open."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Firing, demoting, or punishing a worker for reporting an injury is illegal in California. If your employer has pushed back, that is something an attorney can address alongside your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on I-80 while driving for my employer in Vallejo. Is this a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation generally applies regardless of who caused the crash. If another driver was at fault, that driver is a third party, and California allows a separate injury claim against them. An attorney can pursue the two together so they do not step on each other."
+      },
+      {
+        "question": "Can I sue my employer directly if they were careless?",
+        "answer": "In most situations, no. California treats workers' compensation as the exclusive remedy against an employer, even when the employer was at fault. The exceptions are narrow, so it is worth having an attorney review the facts rather than assuming either way."
+      },
+      {
+        "question": "What happens if I missed the 30-day reporting window?",
+        "answer": "Report it now, in writing, and do not wait longer. Late reporting can complicate a workers' comp claim, but it does not always end it, especially if your employer already knew about the injury. A third-party claim runs on its own two-year clock and is not controlled by the 30-day rule."
+      }
+    ]
+  }
+}

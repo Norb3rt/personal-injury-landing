@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "mission-viejo city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mission Viejo, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Mission Viejo? Orange County claims generally carry a 2-year filing window. Connect free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From a rear-end collision on Marguerite Parkway to a fall in a shopping center parking lot, LawProactive connects Mission Viejo residents with an independent personal injury attorney at no cost. Serving all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Mission Viejo, California",
+    "longDescription": "Mission Viejo is a planned community of roughly 97,000 people, and most of its traffic funnels onto a handful of arterials: Marguerite Parkway, Alicia Parkway and Los Alisos Boulevard, plus the I-5 San Diego Freeway along the city's western edge. In 2025, the most recent finalized year of public records, the city logged 210 injury collisions. Those crashes left 289 people hurt and took 3 lives. Reports tend to peak on Tuesday afternoons between 3 and 5 p.m., when school pickup and early commutes overlap. Behind each of those numbers is someone who suddenly has to think about X-rays, missed shifts and a claims adjuster who calls before the pain fully sets in. That is where LawProactive fits. We are not a law firm and we do not give legal advice. We are a free service that connects you with an independent personal injury attorney who handles cases in Orange County. You tell us what happened, we make the introduction, and you decide whether to move forward. The attorney works on contingency, so there is no fee unless there is a recovery. Whether you were rear-ended near the Shops at Mission Viejo, clipped on a bike along Alicia Parkway, or hurt on someone else's property, a conversation costs you nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Mission Viejo",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway stop-and-go",
+      "Concussions and other head injuries",
+      "Broken wrists, ribs and collarbones",
+      "Back and disc injuries",
+      "Road rash and fractures from bike or scooter crashes",
+      "Knee and hip injuries from slips and falls"
+    ],
+    "ctaText": "Tell us what happened. We'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Mission Viejo Claim",
+    "items": [
+      {
+        "title": "Two years is the usual clock",
+        "desc": "California gives most injury claims a two-year statute of limitations. If a city vehicle, a public road defect or another government entity is involved, the window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial fault doesn't shut the door",
+        "desc": "California follows pure comparative fault. Even if you were partly responsible, you can still recover; your share of fault simply reduces the amount."
+      },
+      {
+        "title": "No statutory cap on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, lost enjoyment of life and emotional distress. An attorney can explain how those losses are documented."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in our network work on contingency. They are paid a percentage only if there is a recovery, and you pay nothing to be connected."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurer wants a recorded statement and I don't know what to say",
+      "My car is totaled and I still can't get to work",
+      "Medical bills are arriving faster than any answers",
+      "I'm not sure whether I waited too long to do anything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Mission Viejo tend to occur?",
+        "answer": "Public collision records for Mission Viejo show the highest counts along the I-5 San Diego Freeway, Marguerite Parkway, Alicia Parkway and Los Alisos Boulevard. Those are simply the corridors with the most reported incidents, which tracks with how much traffic they carry. Reports also cluster on Tuesdays between 3 and 5 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Orange County?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date of injury. Claims against a government entity, such as a city or county, often require a formal claim within six months. Because those deadlines differ, it is worth speaking with an attorney early rather than waiting."
+      },
+      {
+        "question": "What if the other driver says I was partly at fault?",
+        "answer": "California uses pure comparative fault, so being partly responsible does not eliminate your claim. Your recovery is reduced by your percentage of fault, whatever that turns out to be. An attorney can look at the evidence and push back on an insurer's version of events."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not provide legal advice. We match you with an independent personal injury attorney who handles cases in Orange County, and you choose whether to work with them."
+      },
+      {
+        "question": "What will it cost me to hire an attorney?",
+        "answer": "Our connection is free, and the attorneys in our network work on a contingency basis. That means their fee is a percentage of any recovery, and if there is no recovery, there is no fee. The specific percentage is something you and the attorney agree on in writing before work begins."
+      }
+    ]
+  }
+}

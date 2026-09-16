@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "san-anselmo slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Anselmo Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in San Anselmo? Get connected free to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Sir Francis Drake Boulevard shop or a San Anselmo Avenue building can leave you with medical bills and unanswered questions. We connect San Anselmo residents with an independent attorney who handles premises liability cases, free of charge."
+  },
+  "about": {
+    "title": "San Anselmo Slip & Fall Claims",
+    "longDescription": "San Anselmo's small-town charm brings people onto sidewalks and into shops along San Anselmo Avenue, Butterfield Road, and Center Boulevard every day, and a wet floor, cracked pavement, or poorly lit stairwell can turn a routine errand into a serious injury. Marin County property owners have a legal duty to keep their premises reasonably safe, and when they fail to fix or warn about a known hazard, they may be held responsible. Proving that failure often comes down to details: photos of the hazard, witness names, and store or building surveillance footage, which can be erased or overwritten within days. LawProactive doesn't practice law ourselves; we're a free service that connects people injured on someone else's property with an independent attorney who can evaluate what happened and explain your options. There's no cost to reach out, and no obligation to move forward until you're ready.",
+    "commonInjuriesTitle": "Common Injuries From Falls",
+    "commonInjuries": [
+      "Broken hips or wrists",
+      "Torn ligaments or meniscus damage",
+      "Traumatic brain injury from head impact",
+      "Spinal cord or back injury",
+      "Shoulder dislocation",
+      "Facial fractures or lacerations"
+    ],
+    "ctaText": "Talk to an independent attorney about your fall, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why This Matters Under California Law",
+    "items": [
+      {
+        "title": "Notice Is Everything",
+        "desc": "California law requires showing the property owner knew, or reasonably should have known, about the hazard and didn't fix or warn about it in time. Documenting how long a spill sat or how long a light was out can be the difference in a claim."
+      },
+      {
+        "title": "Video Disappears Fast",
+        "desc": "Many San Anselmo businesses overwrite surveillance footage within days or weeks. An attorney can move quickly to send a preservation request before that evidence is gone."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, Your Claim",
+        "desc": "California uses pure comparative fault, meaning even if you were partly responsible for not seeing a hazard, you may still recover a reduced amount. This makes early legal guidance valuable rather than optional."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in San Anselmo?",
+        "answer": "California generally gives you two years from the date of the fall to file a lawsuit for injuries on someone else's property. If the property involved is owned by a public entity, such as a town building or park, that deadline is much shorter and requires an early claim. It's best to have this reviewed as soon as possible so you don't lose your options."
+      },
+      {
+        "question": "What if I fell but didn't take pictures right away?",
+        "answer": "It's not ideal, but it's often not fatal to a claim. Witness statements, incident reports, medical records, and surveillance footage can all help reconstruct what happened. An attorney can also request maintenance logs and prior complaint records from the property owner."
+      },
+      {
+        "question": "Do falls happen more at certain times in San Anselmo?",
+        "answer": "Public collision data shows traffic incidents tend to cluster on Thursdays between 5 and 7 p.m. along corridors like Sir Francis Drake Boulevard and Center Boulevard, though premises falls aren't tracked the same way. Busy commute hours around shops and parking areas can still mean more foot traffic and more opportunity for hazards to go unaddressed."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. Attorneys in our network typically work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

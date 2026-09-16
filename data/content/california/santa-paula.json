@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "santa-paula city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Paula, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Santa Paula, Ventura County? Get connected free with an independent attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on Harvard Boulevard or a fall that wasn't your fault, LawProactive connects you free of charge with an independent personal injury attorney serving Ventura County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Santa Paula, California",
+    "longDescription": "Santa Paula is a small city, but its roads carry real traffic risk. Public records show 19 injury collisions in the most recent year, leaving 22 people hurt, with reported crashes tending to cluster on Thursday evenings between 5 and 7 p.m. SR-126, Harvard Boulevard, and Santa Paula Street show up most often in collision counts, likely reflecting where local traffic concentrates as people move between neighborhoods, the packing houses, and the highway. If you were hurt in one of these crashes, or in any accident around town, sorting out medical care, lost wages, and insurance calls can feel like a full-time job on top of recovering. LawProactive is a free service — not a law firm — that connects injured people in Santa Paula with an independent personal injury attorney who can review what happened and explain your options. There's no upfront cost, and any attorney you're connected with works on contingency, meaning they only get paid if you recover compensation. You focus on healing; let someone else sort out the paperwork and the phone calls with insurance adjusters.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from falls on poorly maintained property"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation.,"
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "You generally have two years from the date of an injury to file a claim in California. Claims against a government agency can require notice in as little as six months, so waiting can cost you your case."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In an ordinary injury case, California places no limit on non-economic damages like pain and suffering. That means your recovery isn't artificially capped by state law."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no hourly bill and no upfront retainer. They only get paid if you win or settle your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Not knowing if you waited too long to take action",
+      "Wondering if being partly at fault means you can't recover anything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Santa Paula?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a lawsuit. If your claim involves a government entity, such as a city road defect, that window can shrink to as little as six months, so it's worth talking to someone sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault system, which means partial fault reduces your compensation but doesn't bar you from recovering altogether. An independent attorney can help evaluate how fault might apply to your specific situation."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Santa Paula?",
+        "answer": "Public collision records show SR-126, Harvard Boulevard, and Santa Paula Street as the corridors with the highest reported collision counts, with activity often peaking on Thursday evenings between 5 and 7 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people with an independent personal injury attorney who can evaluate their situation."
+      },
+      {
+        "question": "How much will an attorney cost if I do have a case?",
+        "answer": "Attorneys in our network work on contingency, meaning there's no fee unless they recover compensation for you. This lets you get legal help without worrying about upfront costs while you're already dealing with medical bills."
+      }
+    ]
+  }
+}

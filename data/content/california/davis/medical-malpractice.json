@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "davis medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Davis Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Davis? LawProactive connects you free with an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Davis hospital visit or Yolo County clinic appointment leads to a medical error, sorting out what happened next shouldn't fall entirely on you. LawProactive connects Davis patients with an independent attorney who can review the medical facts, free of charge."
+  },
+  "about": {
+    "title": "Davis Medical Malpractice Claims",
+    "longDescription": "Davis residents rely on a mix of local clinics and larger Sacramento-area hospital systems for everything from routine care to surgery, and most of those visits go exactly as expected. But when a diagnosis is missed, a surgical step goes wrong, or medication is mismanaged, the aftermath can be confusing and isolating. California's MICRA framework adds real complexity to these claims: strict notice deadlines, a cap on certain damages, and a near-universal requirement for expert medical review. That's a lot to sort through while also recovering physically. LawProactive doesn't practice law or evaluate medical charts ourselves — we're a free connection service that puts you in touch with an independent attorney who handles medical malpractice matters and can explain, in plain terms, whether your situation looks like it may have a legitimate claim. There's no obligation and no fee to use the service, and any attorney you're connected with only gets paid if your case results in a recovery.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect You About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-procedure recovery"
+    ],
+    "ctaText": "Get connected with an independent attorney to talk through what happened — free, no pressure."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Early About a Davis Medical Malpractice Concern",
+    "items": [
+      {
+        "title": "Strict Discovery-Based Deadlines",
+        "desc": "California generally gives you one year from when you discover the harm, capped at three years from the injury itself, and a 90-day pre-suit notice is required before filing. Waiting to sort this out can cost you the ability to bring a claim at all."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A qualified medical expert typically has to weigh in on whether the care fell below the accepted standard, since a poor outcome by itself doesn't establish malpractice. An attorney familiar with this process can help arrange that kind of review."
+      },
+      {
+        "title": "Damages Caps Change Over Time",
+        "desc": "California's cap on non-economic damages under MICRA rises annually by statute, so understanding how that figure applies to your situation matters. An independent attorney can walk you through how the current cap factors into your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Davis?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discover the injury, but never more than three years from when it happened. There's also a required 90-day notice period before a lawsuit can be filed, so the practical window to act can be shorter than it sounds. Talking to an attorney early helps preserve your options."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No — California law requires proof that the care provider fell below the accepted standard of care, not just that the result was disappointing. That's why a qualified medical expert almost always has to review the case. An independent attorney can help you understand whether your situation warrants that kind of review."
+      },
+      {
+        "question": "Do I need to have received care at a specific Davis facility to get help?",
+        "answer": "No, whether your care happened at a Davis-area clinic, a regional hospital, or elsewhere in Yolo County, LawProactive can still connect you with an attorney who handles these claims. What matters most is the timeline and medical facts, not the specific location of treatment."
+      },
+      {
+        "question": "What does it cost to get connected through LawProactive?",
+        "answer": "Nothing — LawProactive is a free service, and we're not a law firm. Attorneys in our network generally work on contingency, meaning they're only paid if your case results in a recovery."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "visalia city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Visalia, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Visalia or Tulare County? You generally have 2 years to file. Connect free with an independent injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From car crashes on SR-198 to slip-and-falls and dog bites, LawProactive connects injured people across Tulare County with an independent personal injury attorney. The connection is free, and there is no fee unless you recover."
+  },
+  "about": {
+    "title": "Personal Injury Help in Visalia, California",
+    "longDescription": "Visalia sits where Route 63, SR-198, and the long north-south run of S Mooney Boulevard meet, and those corridors carry a large share of the city's daily traffic. Public records for 2025 list 411 injury collisions in Visalia, with 558 people injured and 8 traffic deaths. S Demaree Street rounds out the corridors with the highest collision counts, and the same records show reported crashes tending to peak on Tuesdays between 5 p.m. and 7 p.m., as people head home across town. Behind each of those figures is someone sorting out an emergency room bill, a car that won't start, and a phone that keeps ringing with adjusters. That is where LawProactive fits in. We are a free service, not a law firm. Our role is straightforward: we listen to what happened and connect you with an independent personal injury attorney who handles cases in Tulare County. You pay nothing to be connected, and the attorneys in our network work on contingency, meaning there is no fee unless there is a recovery. Whether you were rear-ended on Mooney, knocked off a bicycle on Demaree, or hurt on someone else's property, a conversation costs nothing and can bring a little order to a difficult week.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Visalia",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken arms, wrists, and collarbones",
+      "Back and spinal disc injuries",
+      "Road rash and fractures from bicycle or motorcycle crashes",
+      "Knee and hip injuries from falls on unsafe property"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Visalia Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window",
+        "desc": "California gives most injury claims two years from the date of injury to file. Claims against a city, county, or state agency can require notice in as little as six months, so the clock matters."
+      },
+      {
+        "title": "Partial fault does not end your case",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not shut out entirely."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California does not cap non-economic damages such as pain, suffering, and loss of enjoyment of life. Those losses count alongside medical bills and missed wages."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in the LawProactive network work on contingency. You owe no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work while I heal, and rent in Visalia is still due.",
+      "My bills from Kaweah Health are stacking up faster than I can open them.",
+      "I'm worried I waited too long to talk to anyone."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Visalia?",
+        "answer": "For most personal injury claims in California, you have two years from the date you were hurt. If a government entity is involved — say, a city vehicle or a poorly maintained public sidewalk — you may need to file a formal claim within six months. Because these deadlines differ, it helps to speak with an attorney early."
+      },
+      {
+        "question": "Where do crashes tend to happen in Visalia?",
+        "answer": "Public collision records for Visalia show the highest counts along Route 63, S Demaree Street, SR-198, and S Mooney Boulevard. In 2025, the city recorded 411 injury collisions with 558 people injured, and reported crashes tended to peak on Tuesdays between 5 p.m. and 7 p.m. These are neutral counts from public data, not a judgment about any particular road."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses pure comparative fault, so being partly responsible reduces your recovery by your percentage of fault rather than eliminating it. Someone found 30 percent at fault, for example, could still recover 70 percent of their damages. An attorney can help sort out how fault is assigned in your situation."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney serving Tulare County. We are not a law firm. The attorneys in our network work on contingency, so there is no attorney fee unless there is a recovery."
+      },
+      {
+        "question": "Should I talk to the other driver's insurance company first?",
+        "answer": "You are not required to give a recorded statement to another party's insurer, and many people choose to speak with an attorney before doing so. Adjusters may ask questions designed to minimize a claim. Getting your own guidance first can help you avoid saying something that is later used against you."
+      }
+    ]
+  }
+}

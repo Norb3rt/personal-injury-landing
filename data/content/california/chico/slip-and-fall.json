@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "chico slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Chico Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Chico? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Chico store, apartment complex, or parking lot can leave you with real injuries and real questions about who is responsible. LawProactive connects you, at no cost, with an independent premises liability attorney who serves Butte County."
+  },
+  "about": {
+    "title": "Chico Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You are on the ground outside a store along the Esplanade or in a parking lot off East Avenue, embarrassed, checking whether anything is broken. Only later, once the wrist is in a splint or the back will not loosen up, does the question surface: was that hazard something the property owner should have handled? In California, that question is the heart of a premises liability claim. The injured person generally must show the owner knew, or reasonably should have known, about the wet floor, uneven walkway, or poor lighting and did not fix it or warn about it. Chico's mix of downtown storefronts, apartment complexes near campus, and shopping centers along Cohasset Road and SR-99 means these hazards take many forms. LawProactive is not a law firm. We are a free service that connects Butte County residents with an independent attorney who handles premises cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Seen in Chico Fall Cases",
+    "commonInjuries": [
+      "Wrist, arm, and shoulder fractures from bracing a fall",
+      "Hip fractures, especially among older adults",
+      "Knee ligament tears and meniscus damage",
+      "Concussions and other head injuries from striking the ground",
+      "Herniated discs and lower back strain",
+      "Deep bruising, lacerations, and torn tendons"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent Chico premises attorney for a free case review."
+  },
+  "whyChoose": {
+    "title": "Why Chico Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice Is the Whole Case",
+        "desc": "California requires proof that the owner knew or should have known about the hazard. An attorney in our network can move quickly to gather inspection logs, maintenance records, and witness statements before that evidence fades."
+      },
+      {
+        "title": "Surveillance Video Does Not Wait",
+        "desc": "Many Chico businesses overwrite camera footage within days. A prompt preservation letter from an attorney can keep the recording of your fall from disappearing."
+      },
+      {
+        "title": "Deadlines Differ by Defendant",
+        "desc": "You generally have two years to file against a private owner, but a claim against the City of Chico, Butte County, or another public entity comes with a much shorter clock. Getting connected early protects your options."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Chico. Does it matter who owns it?",
+        "answer": "Yes, a great deal. If the sidewalk or walkway belongs to the City of Chico, Butte County, or another government body, you must file a formal administrative claim on a much tighter timeline than the standard two years that applies to private owners. Sorting out ownership early is one of the first things an attorney will do, and it is a good reason not to wait."
+      },
+      {
+        "question": "The store says I was not paying attention. Does that end my claim?",
+        "answer": "Not in California. The state follows pure comparative fault, which means your recovery may be reduced by whatever share of blame is assigned to you, but it is not eliminated. An attorney can push back on exaggerated claims about your own carelessness and focus on whether the owner knew about the hazard and failed to act."
+      },
+      {
+        "question": "What should I do right now if I just fell?",
+        "answer": "Get medical care first, even if the pain seems manageable. Then photograph the exact spot, including the lighting, any liquid, debris, or uneven surface, and ask the business for an incident report. Write down the names of anyone who saw it and note whether cameras were pointed at the area, because an attorney will want to request that footage before it is erased."
+      }
+    ]
+  }
+}

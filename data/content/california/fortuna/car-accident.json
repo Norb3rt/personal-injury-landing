@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "fortuna car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fortuna Car Accident Help | LawProactive",
+    "metaDescription": "Hurt in a car accident in Fortuna, CA? Get connected free with an independent injury attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on S Fortuna Boulevard, Main Street, or Rohnerville Road left you hurt, LawProactive can connect you with an independent Fortuna attorney at no cost to you.  There's no obligation and no fee unless your case recovers."
+  },
+  "about": {
+    "title": "Fortuna Car Accident Claims",
+    "longDescription": "Fortuna is a small Humboldt County town, but its main corridors, S Fortuna Boulevard, Main Street, Rohnerville Road, and 12th Street, still see their share of collisions, with reported crashes clustering on Monday afternoons between 4 and 6 p.m. when commuters, school traffic, and errands overlap. Even a town this size can leave someone dealing with medical bills, missed work, and a damaged vehicle after one bad intersection encounter. Because California follows a pure comparative fault rule, you may still recover damages even if you were partly at fault, though the insurance company will look for any reason to shift blame onto you. That's why it matters to document the scene, get medical care promptly, and avoid giving a recorded statement to the other driver's insurer before you understand your rights. LawProactive doesn't handle your case directly, we're a free service that connects you with an independent local attorney who can evaluate what happened and explain your options, without any upfront cost or pressure to sign anything today.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Back and spinal injuries",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Shoulder and knee injuries",
+      "Cuts, bruising, and soft-tissue damage"
+    ],
+    "ctaText": "Find out if you have a claim, free and without obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before You Talk to the Insurer",
+    "items": [
+      {
+        "title": "California's Comparative Fault Rule Cuts Both Ways",
+        "desc": "Even if the other driver's insurer claims you share blame, California law lets you recover damages reduced by your percentage of fault, not zero. An attorney can push back on unfair fault assignments before they shrink your claim."
+      },
+      {
+        "title": "The Clock Starts Running Fast",
+        "desc": "California generally gives you two years from the crash date to file a lawsuit, but that window can shrink to as little as six months if a government entity, like a city road authority, is involved. Waiting too long to get advice can quietly close doors you didn't know were open."
+      },
+      {
+        "title": "No Cap Doesn't Mean No Fight",
+        "desc": "California places no cap on non-economic damages like pain and suffering in a typical car accident case, but insurers still try to minimize those amounts. Having someone review your medical records and communications with the adjuster can help make sure your full experience is accounted for."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement until you've spoken with an attorney, since adjusters often ask questions designed to get you to minimize your injuries or accept partial fault. Anything you say can be used later to reduce your claim. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if my crash happened on a Humboldt County road versus a Fortuna city street?",
+        "answer": "Whether a road like Rohnerville Road or 12th Street is maintained by the county or the city can affect who you may need to notify and how quickly, since claims against government entities in California often carry a much shorter deadline, sometimes just six months. This is one of the first things an attorney will want to sort out early. Don't assume the standard two-year window automatically applies."
+      },
+      {
+        "question": "Is there really no cost to use LawProactive?",
+        "answer": "Yes, LawProactive is a free connection service, not a law firm, and there's no charge to be matched with an independent attorney. Attorneys in the network typically work on contingency, meaning they only get paid if your case results in a recovery. You're never obligated to hire anyone after speaking with them."
+      }
+    ]
+  }
+}

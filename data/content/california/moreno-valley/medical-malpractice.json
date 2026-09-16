@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "moreno-valley medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Attorney in Moreno Valley, CA",
+    "metaDescription": "Harmed by a missed diagnosis or surgical error in Moreno Valley? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care in a Moreno Valley hospital or clinic falls short of what a careful provider would have done, you deserve a clear explanation and a real review of your options. We connect you, at no cost, with an independent attorney who handles medical negligence claims in Riverside County."
+  },
+  "about": {
+    "title": "Moreno Valley Medical Malpractice Claims",
+    "longDescription": "Hospitals and clinics in Moreno Valley serve a city of more than 204,000 people, and most visits end the way they should. Some do not. When a diagnosis is missed, a medication is mixed up, or a procedure goes wrong in a way that careful providers would have avoided, California law gives patients a path to answers. That path is narrow, though. Under MICRA, you generally have one year from the date you discovered the harm, and never more than three years from the injury itself, to act. A 90-day notice must go to the provider before any lawsuit is filed. And because a poor result by itself is not malpractice, a qualified medical expert almost always has to explain where the standard of care was breached. LawProactive is a free service, not a law firm. We connect Moreno Valley and Riverside County patients with an independent attorney who handles these cases on contingency, so nothing is owed unless there is a recovery. If you are unsure whether what happened to you counts, asking costs nothing.",
+    "commonInjuriesTitle": "Harm We Commonly See in Medical Negligence Claims",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up after treatment"
+    ],
+    "ctaText": "Not sure if it was malpractice? Ask for a free case review."
+  },
+  "whyChoose": {
+    "title": "Why Moreno Valley Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "The MICRA clock is short",
+        "desc": "One year from discovery, capped at three years from the injury, leaves little room for delay. A quick connection means the required 90-day notice can go out while there is still time to file."
+      },
+      {
+        "title": "Expert testimony is built in",
+        "desc": "California courts almost always expect a qualified medical expert to establish the standard of care. The independent attorneys in our network know how to line up that review early, before evidence goes stale."
+      },
+      {
+        "title": "Honest screening, no pressure",
+        "desc": "A bad outcome on its own is not malpractice, and a good attorney will tell you so. The goal is a straight answer about whether care fell below the standard, not a sales pitch."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Moreno Valley but live elsewhere in Riverside County. Does that change anything?",
+        "answer": "Generally no. What matters is where the care happened and who provided it, and a Riverside County case can be handled regardless of which city you call home. The attorney you are connected with can sort out venue details once the facts are in hand."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "MICRA places a statutory cap on non-economic damages such as pain and suffering, and that cap increases each year under current law. Economic losses like medical bills and lost wages are treated separately. An attorney can explain how the cap applies to the specific year your claim is filed."
+      },
+      {
+        "question": "Does LawProactive charge for connecting me with an attorney?",
+        "answer": "No. Our service is free, and we are not a law firm. The independent attorneys in our network work on contingency, which means no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

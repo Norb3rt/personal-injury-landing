@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "orange medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Attorney in Orange, CA | LawProactive",
+    "metaDescription": "Harmed by a medical error in Orange, CA? Learn how California's MICRA deadlines work and get a free connection to an independent malpractice attorney."
+  },
+  "hero": {
+    "subtitle": "If a provider in Orange missed a diagnosis, made a surgical mistake, or got a medication wrong, you should not have to untangle California's MICRA rules alone. LawProactive connects you, at no cost, with an independent attorney who handles medical negligence claims."
+  },
+  "about": {
+    "title": "Orange Medical Malpractice Claims",
+    "longDescription": "A hospital stay or a routine appointment in Orange is supposed to leave you better off, not worse. When a diagnosis is missed, a medication is mixed up, or a surgical error surfaces weeks later, the questions arrive faster than the answers. Orange County residents facing that situation deserve a straight explanation of how California handles these claims. Under MICRA, the clock is short: generally one year from the date you discovered the harm, and never more than three years from the injury. Before a lawsuit can be filed, the provider must receive 90 days' notice. Almost every case also depends on a qualified medical expert who can explain what the standard of care required and how it was breached, because a poor result on its own is not malpractice. LawProactive exists to take one task off your plate. We are not a law firm. We are a free service that connects you with an independent attorney who handles medical negligence cases and works on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Types of Medical Negligence We See in Orange",
+    "commonInjuries": [
+      "Missed or delayed cancer and stroke diagnoses",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Hospital-acquired infections tied to lapses in care"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Orange Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA's Deadlines Are Unforgiving",
+        "desc": "California generally gives you one year from discovering the harm, and in no case more than three years from the injury, plus a mandatory 90-day pre-suit notice. Getting connected early helps an attorney protect those dates."
+      },
+      {
+        "title": "Expert Review Comes First",
+        "desc": "A qualified medical expert is almost always required to show the standard of care was breached, since a bad outcome by itself is not malpractice. The attorneys in our network know how to arrange that review before deciding whether a claim can proceed."
+      },
+      {
+        "title": "Free to You, Contingency for the Attorney",
+        "desc": "LawProactive charges nothing to connect you, and the independent attorney works on contingency with no fee unless there is a recovery. The attorney can also explain how the annually rising MICRA cap on non-economic damages may apply to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated after a collision on Chapman Avenue and a fracture was missed in the ER. Is that malpractice or part of my car accident case?",
+        "answer": "It can be both, and they are handled differently. The crash itself may support a personal injury claim against the other driver, while a missed fracture during treatment may raise a separate question about whether the provider met the standard of care. An attorney will usually want the medical records reviewed by a qualified expert before drawing that line. Orange sees hundreds of injury collisions each year, so this overlap is not unusual."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Orange County?",
+        "answer": "Under MICRA, the general rule is one year from when you discovered, or reasonably should have discovered, the injury, and never more than three years from the date of the injury itself. You must also give the provider 90 days' written notice before filing suit. Because these periods can interact in tricky ways, it is wise to speak with an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages, such as pain and suffering, in medical malpractice cases, and that cap rises each year under current law. Economic losses like medical bills and lost income are treated separately. An attorney can walk you through how the cap applies to the facts of your case without anyone predicting a specific outcome."
+      }
+    ]
+  }
+}

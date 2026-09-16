@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "newman medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Newman Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Newman, CA? Get connected free with an independent malpractice attorney serving Stanislaus County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Newman left you worse off instead of better, you deserve straight answers about what happened. LawProactive can connect you at no cost with an independent attorney familiar with medical malpractice claims in Stanislaus County."
+  },
+  "about": {
+    "title": "Newman Medical Malpractice Claims",
+    "longDescription": "Newman is a small community, and many residents travel outside city limits for specialized medical care, which can add layers of complexity when something goes wrong during treatment. Whether the harm happened at a local clinic or a larger facility in Stanislaus County, medical malpractice cases hinge on proving that a provider departed from an accepted standard of care — not simply that an outcome was disappointing. These cases move on strict legal clocks and typically require a qualified medical expert to support the claim, so early action matters. LawProactive doesn't practice law or handle your case directly; instead, we listen to what happened, gather the basics, and connect you with an independent attorney in our network who can evaluate whether a viable claim exists. There's no cost to you for this connection, and the attorneys we work with take cases on contingency, meaning they're paid only if your case results in a recovery. Reaching out costs nothing and starts the clock working in your favor instead of against you.",
+    "commonInjuriesTitle": "Common Malpractice-Related Harms",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Delayed or missed cancer diagnosis",
+      "Medication errors or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to diagnose a treatable condition in time"
+    ],
+    "ctaText": "Talk with someone about what happened — it's free and confidential.\n"
+  },
+  "whyChoose": {
+    "title": "Why Timing and Evidence Matter So Much",
+    "items": [
+      {
+        "title": "MICRA's Tight Deadlines",
+        "desc": "California generally gives one year from when you discover the harm, and never more than three years from the injury itself, to file a medical malpractice claim. Missing either deadline can end a claim before it starts, so early review matters."
+      },
+      {
+        "title": "The 90-Day Notice Requirement",
+        "desc": "Before a lawsuit can be filed, California law requires giving the healthcare provider 90 days' advance notice of the intent to sue. An attorney familiar with this step can help make sure it's done correctly and on time."
+      },
+      {
+        "title": "Expert Testimony Is Almost Always Required",
+        "desc": "A poor result alone doesn't prove malpractice — California law requires a qualified medical expert to establish that the standard of care was actually violated. An independent attorney can help evaluate whether the facts support that showing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How do I know if what happened to me was actually malpractice?",
+        "answer": "A bad outcome by itself isn't enough under California law — the question is whether the provider's care fell below an accepted medical standard. An independent attorney, often working with a qualified medical expert, can review your records and help determine whether that standard was breached."
+      },
+      {
+        "question": "Does Newman being a smaller community affect my case?",
+        "answer": "Not in terms of your legal rights, but it may mean your treatment happened across multiple providers or facilities outside Stanislaus County, which can affect where records need to be gathered. An attorney can help sort out which providers and locations are relevant to your claim."
+      },
+      {
+        "question": "How long do I actually have to bring a claim?",
+        "answer": "Under MICRA, it's generally one year from when you discovered or reasonably should have discovered the injury, but never more than three years from when it occurred. There's also a required 90-day notice period before filing suit, so it's best not to wait to have your situation reviewed."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and the independent attorneys in our network work on contingency, meaning they only get paid if your case results in a recovery."
+      }
+    ]
+  }
+}

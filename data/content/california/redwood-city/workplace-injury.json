@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "redwood-city workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Redwood City Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Redwood City? LawProactive connects you free with an independent attorney for workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Injured at work in Redwood City? We connect you, at no cost, with an independent attorney who can explain what workers' compensation covers and whether someone outside your employer also owes you a claim."
+  },
+  "about": {
+    "title": "Redwood City Workplace Injury Claims",
+    "longDescription": "Redwood City is the San Mateo County seat, and many people here earn a living on scaffolding, in warehouses, or behind the wheel. When a shift ends with a trip to the emergency room, the questions come fast. Under California law, workers' compensation is usually your only claim against your employer, and it applies no matter who was at fault. That system covers medical care and a portion of lost wages, but it does not cover everything. If someone outside your employer contributed to the injury — a subcontractor on a job site off Woodside Road, a property owner along El Camino Real, the maker of a faulty tool, or another driver on US-101 — a separate third-party claim may be possible. That distinction matters in a city where 305 injury collisions were reported in 2025, because driving is part of the job for many local workers. LawProactive is not a law firm. We connect you, free, with an independent attorney who can sort out which paths fit your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Redwood City",
+    "commonInjuries": [
+      "Back and spinal strains from lifting or awkward movement",
+      "Falls from ladders, roofs, or scaffolding",
+      "Hand and crush injuries from machinery or equipment",
+      "Repetitive stress injuries from years of the same motion",
+      "Burns and chemical or fume exposure",
+      "Injuries from crashes while driving for work"
+    ],
+    "ctaText": "Ask a free question about your work injury"
+  },
+  "whyChoose": {
+    "title": "Why Redwood City Workers Use LawProactive",
+    "items": [
+      {
+        "title": "Two claims, not one",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but California also lets you pursue a negligent third party — a subcontractor, property owner, equipment maker, or another driver. An attorney in our network looks at both."
+      },
+      {
+        "title": "Deadlines handled early",
+        "desc": "You should report the injury to your employer within 30 days, and a third-party claim carries a two-year filing deadline. Getting connected quickly helps keep both on track."
+      },
+      {
+        "title": "Free connection, contingency attorneys",
+        "desc": "LawProactive charges nothing to connect you. The independent attorneys we work with handle these cases on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on US-101 while making deliveries for my Redwood City employer. Is workers' comp my only option?",
+        "answer": "Not necessarily. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of fault. The other driver is a third party, though, and California allows a separate injury claim against a negligent third party. An attorney can review the crash report and explain how the two claims interact."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury?",
+        "answer": "No. Retaliation against a worker for reporting an injury or filing a workers' compensation claim is illegal in California. You should still report the injury to your employer within 30 days so your rights are protected. If you are disciplined or let go after reporting, tell the attorney you are connected with right away."
+      },
+      {
+        "question": "How long do I have to act after a work injury in San Mateo County?",
+        "answer": "Two windows matter most. Report the injury to your employer within 30 days, and understand that a third-party claim generally must be filed within two years. Waiting can make evidence harder to gather, so it helps to talk with an attorney early even if you are unsure whether a third party was involved."
+      }
+    ]
+  }
+}

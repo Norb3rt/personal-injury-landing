@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "pico-rivera city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pico Rivera, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Pico Rivera, LA County? Connect free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash or a fall on someone else's property, we can connect you with an independent attorney at no cost, serving families throughout Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Pico Rivera, California",
+    "longDescription": "Pico Rivera sits along some of the busier corridors in southeast Los Angeles County, and traffic here reflects that. Public records show 185 injury collisions in the most recent final crash year, leaving 250 people hurt and 2 people killed. Roads like Rosemead Boulevard, Whittier Boulevard, Slauson Avenue, and Paramount Boulevard carry heavy volume through the city, and reported crashes tend to cluster on Thursday afternoons and early evenings between 5 and 7 p.m., when commuters and local traffic overlap. If you were hurt in a collision or another kind of accident here, sorting out medical bills, missed work, and insurance calls can feel like a full-time job on top of recovering. LawProactive is a free service, not a law firm — we connect injured people in Pico Rivera with an independent personal injury attorney who can look at what happened and explain the options. Attorneys in our network work on contingency, meaning there's no fee unless there's a recovery. Reaching out costs nothing and doesn't commit you to anything.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Herniated discs and back injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out if you have a case — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity is involved. Waiting too long can cost you your right to recover anything at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you share some blame for what happened, you can still recover compensation — it's just reduced by your percentage of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages, like pain and suffering, in a typical injury case, which matters when the injury affects your daily life long after the bills stop coming."
+      },
+      {
+        "title": "You Don't Pay Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning their fee only comes out of money they help you recover. There's no upfront cost to find out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Feeling pressured by an insurance adjuster to settle fast",
+      "Not knowing if you waited too long to do anything",
+      "Wondering if being partly at fault means you're out of luck"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after an accident in Pico Rivera?",
+        "answer": "In most California injury cases, you have two years from the date of the accident to file a lawsuit. If a government agency or vehicle was involved, that window can shrink to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses pure comparative fault, so being partly at fault doesn't bar you from recovering compensation. Your recovery is simply reduced by whatever percentage of fault is assigned to you."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Pico Rivera?",
+        "answer": "Public crash records show higher collision counts along corridors like Rosemead Boulevard, Whittier Boulevard, Slauson Avenue, and Paramount Boulevard, with reports peaking on Thursdays between 5 and 7 p.m. These are simply public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — California does not cap non-economic damages, such as pain and suffering, in a standard personal injury case. This is different from some other states and can matter significantly in serious injury claims."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, not a law firm, and connecting with an independent attorney costs you nothing. Attorneys in the network work on contingency, so they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

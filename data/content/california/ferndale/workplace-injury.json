@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "ferndale workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ferndale Workplace Injury Claim Help | LawProactive",
+    "metaDescription": "Hurt on the job in Ferndale? Get connected free with an independent attorney who handles workers' comp gaps and third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Ferndale, from the dairy farms and creameries to the shops along Main Street, we can connect you with an independent attorney who knows how these claims work in Humboldt County."
+  },
+  "about": {
+    "title": "Ferndale Workplace Injury Claims",
+    "longDescription": "Ferndale's economy leans heavily on agriculture, dairy operations, and the small businesses that line its Victorian-era Main Street. Workers here face real risks: equipment accidents on farms, falls in retail spaces, repetitive strain from physical labor, and vehicle incidents while making deliveries along routes like Bluff Street and Fairview Drive. When an injury happens on the job, California's workers' compensation system is usually the first path, but it isn't always the only one. If a piece of faulty equipment, a subcontractor, or another negligent party outside your employer contributed to the accident, you may have grounds for a separate injury claim. LawProactive doesn't practice law ourselves. We're a free service that connects injured Ferndale workers with an independent attorney who can look at the full picture, sort out what workers' comp covers, and determine whether a third-party claim applies to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, lofts, or uneven farm terrain",
+      "Equipment and machinery-related injuries",
+      "Repetitive strain from physical or manual labor",
+      "Vehicle collisions during work-related driving",
+      "Chemical or livestock-handling exposure injuries",
+      "Slip-and-fall accidents in retail or storage areas"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, free and with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Ferndale Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle Comp vs. Third-Party Claims",
+        "desc": "California generally treats workers' compensation as the exclusive remedy against your employer, but a negligent third party like an equipment manufacturer or subcontractor can still be pursued separately. An attorney can help figure out which path, or both, fits your case."
+      },
+      {
+        "title": "We Understand the 30-Day Reporting Window",
+        "desc": "California law requires injured workers to report the incident to their employer within 30 days to preserve their claim. We connect you quickly so you don't lose time you can't get back."
+      },
+      {
+        "title": "Retaliation Protection Matters",
+        "desc": "It's illegal for an employer to punish you for reporting a workplace injury or filing a claim. If you're worried about your job, an independent attorney can advise you on your rights before you say anything to your employer."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a dairy farm outside Ferndale. Does workers' comp cover that?",
+        "answer": "In most cases, yes, agricultural workers are covered by California workers' compensation regardless of fault. However, if faulty equipment, a contractor, or another company outside your employer played a role, you may also have a separate third-party claim worth exploring. An attorney can review the details of your specific job site and incident."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer?",
+        "answer": "California law generally requires you to notify your employer within 30 days of the injury. Missing this window can complicate your claim, so it's best to report as soon as possible, even if the injury seems minor at first."
+      },
+      {
+        "question": "Can my employer fire me for filing a workers' comp claim in Ferndale?",
+        "answer": "No. Retaliation against an employee for reporting a workplace injury or filing a claim is illegal under California law. If you believe you've faced retaliation, an independent attorney can help you understand your options."
+      }
+    ]
+  }
+}

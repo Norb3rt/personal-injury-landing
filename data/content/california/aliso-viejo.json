@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "aliso-viejo city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Aliso Viejo, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Aliso Viejo? Orange County residents have 2 years to file. Free, no-obligation connection to an attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash or a slip-and-fall, we can connect you with an independent attorney at no cost to you, serving Aliso Viejo and all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Aliso Viejo, California",
+    "longDescription": "Aliso Viejo's roads carry a steady mix of commuters, families, and cyclists, and public records show 73 injury collisions in the most recent full year, resulting in 103 people hurt. Corridors like Aliso Creek Road, Pacific Park Drive, Aliso Viejo Parkway, and Alicia Parkway see the highest volume of reported collisions in the city, simply because they carry the most daily traffic between neighborhoods and retail centers. If you were hurt in one of these crashes, or in any other type of accident around town, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — we are not a law firm — that connects injured people in Aliso Viejo with an independent personal injury attorney who can review the details of what happened. Attorneys in our network work on contingency, meaning there's no upfront cost and no fee unless they recover compensation for you. Reaching out costs nothing and puts you under no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why People in Aliso Viejo Turn to LawProactive",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government entity can require notice in as little as six months. Acting sooner preserves your options and evidence."
+      },
+      {
+        "title": "Fault Doesn't Have to Be Clear-Cut",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "California does not cap non-economic damages, like pain and suffering, in typical injury cases. That means your claim can reflect the full impact of what you've been through, not an arbitrary limit."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. This lets you focus on recovery instead of legal bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Fear that admitting any fault will end your claim",
+      "Uncertainty about how much time you have left to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Aliso Viejo?",
+        "answer": "California law generally allows two years from the date of the injury to file a personal injury lawsuit. If a government agency was involved, such as a city road issue, the notice deadline can be as short as six months, so it's wise not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your total award is just reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do collisions tend to be reported most often in Aliso Viejo?",
+        "answer": "Public collision records show that Aliso Creek Road, Pacific Park Drive, Aliso Viejo Parkway, and Alicia Parkway have the highest reported collision counts in the city, and reports tend to cluster on Fridays between 3 and 5 p.m. These are simply the busiest corridors by traffic volume, not a judgment about any particular location."
+      },
+      {
+        "question": "Will I owe any money upfront to get help?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency, meaning they only get paid if they recover money for you. There's no cost or obligation to reach out and ask questions."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We're a free service that connects injured people with independent personal injury attorneys who can evaluate their situation and explain their options."
+      }
+    ]
+  }
+}

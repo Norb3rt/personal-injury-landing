@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "ontario medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ontario, CA Medical Malpractice Attorney Match",
+    "metaDescription": "Hurt by a medical error in Ontario, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital, clinic, or provider in Ontario fell short of the standard of care and you were harmed, LawProactive can connect you at no cost with an independent medical malpractice attorney who knows California's MICRA rules."
+  },
+  "about": {
+    "title": "Ontario Medical Malpractice Claims",
+    "longDescription": "Ontario is home to more than 171,000 people, and a good share of them are sitting in a clinic waiting room, an urgent care along Euclid Avenue, or an emergency department after a collision on I-10 or the 60. Most of that care is handled well. Some of it is not. When a diagnosis gets missed, a medication is dosed wrong, or a surgery goes sideways for reasons that had nothing to do with your condition, you deserve a straight answer about whether the standard of care was met. LawProactive is a free connection service, not a law firm. We match Ontario residents with an independent medical malpractice attorney who handles these cases in San Bernardino County courts, understands California's MICRA framework, and works on contingency. There is no charge to be connected and no fee unless your attorney secures a recovery. Malpractice claims are technical: they generally require a qualified medical expert, a 90-day notice before filing, and close attention to a one-year discovery clock. An early conversation costs nothing and preserves your options.",
+    "commonInjuriesTitle": "Harm Commonly Seen in Ontario Malpractice Cases",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Emergency room discharge errors after trauma"
+    ],
+    "ctaText": "Ask a free question about your Ontario care"
+  },
+  "whyChoose": {
+    "title": "Why Ontario Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are short and layered",
+        "desc": "California generally gives you one year from the date you discovered the harm, and never more than three years from the injury itself, plus a 90-day notice must go to the provider before suit. Getting connected early keeps those windows open."
+      },
+      {
+        "title": "Expert review is built into the process",
+        "desc": "Nearly every California malpractice case needs a qualified medical expert to explain how the standard of care was breached. The attorneys in our network know how to arrange that review before filing anything."
+      },
+      {
+        "title": "Honest screening, not false hope",
+        "desc": "A bad outcome by itself is not malpractice, and non-economic damages are capped under MICRA at a figure that rises each year. An independent attorney can tell you plainly whether your situation fits the law."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at an Ontario emergency room after a crash on the 10. Could that be a malpractice case too?",
+        "answer": "It can be, though the two claims are separate. If the collision caused your injuries, that is a personal injury matter against the at-fault driver; if the ER then missed a fracture or internal bleeding and sent you home, that discharge decision may be evaluated under the medical standard of care. An attorney can look at both pieces together so nothing is overlooked."
+      },
+      {
+        "question": "How long do I have to act in San Bernardino County?",
+        "answer": "MICRA applies statewide, so the same clock runs in Ontario as anywhere else in California: generally one year from when you discovered, or reasonably should have discovered, the injury, and no more than three years from the date it occurred. You must also give the provider at least 90 days' written notice before filing. Because those periods can overlap in confusing ways, it is wise to speak with an attorney sooner rather than later."
+      },
+      {
+        "question": "Does LawProactive charge anything, and what does the attorney cost?",
+        "answer": "LawProactive is free; we are a connection service, not a law firm, and we do not bill you at any point. The independent attorneys we work with take medical malpractice cases on contingency, which means no attorney fee unless there is a recovery. If an attorney reviews your records and concludes the case does not meet MICRA's standards, you owe nothing for that review."
+      }
+    ]
+  }
+}

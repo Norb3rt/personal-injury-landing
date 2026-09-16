@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "lemoore workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lemoore Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Lemoore? Get connected free with an independent attorney who can review your workers' comp or third-party claim."
+  },
+  "hero": {
+    "subtitle": "When a workplace injury sidelines you in Lemoore, sorting out workers' comp from a possible third-party claim can feel confusing. LawProactive connects you, at no cost, with an independent attorney who works in Kings County."
+  },
+  "about": {
+    "title": "Lemoore Workplace Injury Claims",
+    "longDescription": "Lemoore's economy runs on a mix of agriculture, manufacturing, and the naval air station nearby, which means workplace injuries here range from equipment accidents on farms to falls on job sites off routes like N Lemoore Avenue and W Bush Street. In most cases, California workers' compensation is the only path against your employer, regardless of who was at fault. But if a subcontractor, equipment manufacturer, or another company's driver contributed to your injury, a separate claim against that third party may be possible alongside your workers' comp benefits. Timing matters: you generally must report a work injury to your employer within 30 days, while any third-party claim carries its own two-year deadline. LawProactive doesn't practice law or charge you anything to connect with an independent attorney who can look at the specifics of your Lemoore workplace accident and explain what options may exist.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Machinery and equipment-related injuries",
+      "Vehicle and forklift accidents on job sites",
+      "Repetitive strain and overexertion injuries",
+      "Chemical exposure or respiratory harm",
+      "Struck-by or caught-in equipment incidents"
+    ],
+    "ctaText": "Find out where you stand — connect with an independent attorney today, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Lemoore Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Clarity on Workers' Comp vs. Third-Party Claims",
+        "desc": "Workers' comp is usually your only remedy against an employer, but a negligent third party like a subcontractor or equipment maker may open a separate path to compensation. An independent attorney can help sort out which applies to your situation."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury. If you're worried about your job after getting hurt, an attorney can explain your protections."
+      },
+      {
+        "title": "Attention to Deadlines That Matter",
+        "desc": "You generally have 30 days to report an injury to your employer, and any third-party claim carries a separate two-year deadline. Missing either window can limit your options, so timing is worth reviewing early."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working on a farm near Lemoore — does workers' comp still apply?",
+        "answer": "In most cases, yes — agricultural employers in California are generally required to carry workers' compensation coverage. If equipment failure or a third-party contractor played a role in your injury, there may also be a separate claim worth exploring. An independent attorney can review the details of your job and injury to explain your options."
+      },
+      {
+        "question": "Can I still file a claim if I was partly at fault for the accident?",
+        "answer": "Workers' compensation in California is generally a no-fault system, meaning your own carelessness usually doesn't bar you from benefits. Fault becomes more relevant if you're pursuing a separate claim against a third party. This is something an attorney can walk through with you based on your specific facts."
+      },
+      {
+        "question": "What if my employer says I have to use my own health insurance instead?",
+        "answer": "That's not how it's supposed to work — a legitimate work injury should generally go through workers' compensation, not your personal health plan. If you're getting pushback from your employer, it's worth having an independent attorney look at what happened. Retaliation or pressure to avoid a workers' comp claim can itself raise legal concerns."
+      }
+    ]
+  }
+}

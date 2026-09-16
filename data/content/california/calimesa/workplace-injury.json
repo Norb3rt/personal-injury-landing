@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "calimesa workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calimesa Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Calimesa, CA? Learn how workers' comp and third-party claims differ, then get connected free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Hurt while working in Calimesa, whether at a site off County Line Road or behind the wheel on I-10? We connect you, free of charge, with an independent attorney who can sort out what workers' comp covers and what it does not."
+  },
+  "about": {
+    "title": "Calimesa Workplace Injury Claims",
+    "longDescription": "Calimesa is a Riverside County city of roughly 8,500 people, and much of its work happens along I-10 and County Line Road: warehouse shifts, delivery routes, construction sites, roadside crews, and the small businesses strung along Calimesa Boulevard. When someone gets hurt doing that work, the first question is usually not about fault. Under California law, workers' compensation generally covers an injured employee regardless of who caused the accident, and it is normally the only remedy available against the employer itself. That is where many people stop looking. Yet a different party is often involved: a subcontractor who left a hazard, a property owner who ignored a broken stairwell, a manufacturer whose equipment failed, or another driver who struck a worker on the eastbound I-10. Those third-party claims stand apart from workers' comp and follow their own two-year filing window. LawProactive is a free service, not a law firm. We listen to what happened, then connect Calimesa workers with an independent attorney who handles these cases on contingency.",
+    "commonInjuriesTitle": "Injuries Calimesa Workers Commonly Report",
+    "commonInjuries": [
+      "Back and spine strains from lifting or repetitive loading",
+      "Fractures from falls off ladders, docks, or scaffolding",
+      "Crush injuries involving forklifts or heavy equipment",
+      "Burns and lacerations from tools and machinery",
+      "Heat illness during outdoor shifts in the Pass",
+      "Whiplash and head trauma from on-the-job vehicle collisions"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Calimesa Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Claims, Not One",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver can be held separately responsible. An attorney can tell you whether both paths apply to your injury."
+      },
+      {
+        "title": "Deadlines Explained Plainly",
+        "desc": "California expects you to report a workplace injury to your employer within 30 days, and any third-party claim carries a two-year deadline. We help you reach an attorney before those windows close."
+      },
+      {
+        "title": "Protection From Retaliation",
+        "desc": "It is illegal for an employer to punish you for reporting an injury or filing a claim. If you are worried about your job, an independent attorney can explain your rights and how to document what is happening."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on I-10 while driving for my Calimesa employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Calimesa recorded 59 injury collisions in 2025, with I-10 and its eastbound lanes among the corridors with the most reported crashes, and workers on the clock are sometimes among those hurt. Workers' compensation would typically cover your medical care and lost wages regardless of fault, while a separate claim against the other driver may address losses comp does not. An attorney can review both at once so nothing is overlooked."
+      },
+      {
+        "question": "What if I missed the 30-day window to report my injury to my employer?",
+        "answer": "Reporting within 30 days is the rule California sets, and doing it promptly protects your claim. Missing it does not always end things, especially if your employer already knew about the injury or you needed time to realize how serious it was. Talk to an attorney soon rather than assuming you are out of options."
+      },
+      {
+        "question": "Does using LawProactive cost me anything?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not charge you to be matched with an independent attorney. The attorneys in our network handle workplace injury cases on contingency, which means there is no fee unless they recover something for you."
+      }
+    ]
+  }
+}

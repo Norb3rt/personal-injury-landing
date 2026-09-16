@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "fontana city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fontana, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Fontana or San Bernardino County? California gives you 2 years to file. Get connected free to an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a crash on Sierra Avenue left you with a back injury or a fall at work broke a bone, LawProactive connects you at no cost with an independent injury attorney serving San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Fontana, California",
+    "longDescription": "Fontana sits where the I-10 San Bernardino Freeway meets a grid of long surface streets, and that layout shows up in the public record. In 2025, the most recent final reporting year, the city logged 799 injury collisions. Those crashes hurt 1,105 people and took 21 lives. Collision counts run highest along Sierra Avenue, the I-10, Citrus Avenue, and Foothill Boulevard, and reports tend to bunch up on Friday afternoons between 3 and 5 p.m., when much of the city is heading home at once.\n\nIf one of those numbers now describes you, here is what LawProactive does. We are a free service, not a law firm. We do not give legal advice and no attorney works for us. What we do is connect you with an independent personal injury attorney who handles cases in San Bernardino County, so you are not calling around while you are still sore and off work. The attorneys in our network take injury cases on contingency, which means there is no fee unless there is a recovery. You pay nothing to be matched, and the first conversation with the attorney costs nothing either. From there, the choice about how to proceed stays with you.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Fontana Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions on the I-10",
+      "Concussions and other head trauma",
+      "Fractured wrists, arms, and collarbones",
+      "Herniated discs and lower back injuries",
+      "Knee and shoulder damage from falls",
+      "Road rash and soft-tissue injuries in motorcycle and bicycle crashes"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Fontana Claim",
+    "items": [
+      {
+        "title": "The clock is real: two years, sometimes six months",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, the deadline to give notice can be as short as six months, so waiting is rarely in your favor."
+      },
+      {
+        "title": "Being partly at fault doesn't end your case",
+        "desc": "California follows pure comparative fault. If you were 30 percent responsible, your recovery is reduced by 30 percent, not wiped out."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For a typical car, truck, or fall injury, California places no statutory ceiling on non-economic damages such as pain, loss of enjoyment of life, and emotional distress. Medical malpractice claims have separate rules."
+      },
+      {
+        "title": "Contingency means no fee unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. Their fee comes out of any recovery, and if there isn't one, you don't owe them a fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work right now and the bills from Kaiser and the ER are stacking up.",
+      "My car is totaled and I still need to get to appointments across Fontana.",
+      "I wasn't sure who was at fault, and I'm worried that hurts my case."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do most collisions in Fontana happen?",
+        "answer": "Public-record counts for Fontana show the highest collision volumes along Sierra Avenue, the I-10 San Bernardino Freeway, Citrus Avenue, and Foothill Boulevard. These are simply the corridors with the most reported crashes, which tracks with how much traffic they carry. Reports also cluster on Fridays between 3 and 5 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California gives you two years from the date of injury. Claims against a government entity, such as a city bus or a poorly maintained public sidewalk, often require a formal claim within six months. An attorney can pin down which deadline applies to your situation."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We don't represent clients or give legal advice, and there's no charge to use us."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault. Your share of responsibility reduces what you can recover by that same percentage, but it doesn't bar you from recovering. Even someone found mostly at fault can still pursue a claim for the other party's share."
+      },
+      {
+        "question": "How much does it cost to hire an attorney through your network?",
+        "answer": "Being connected costs nothing. Attorneys in the network handle injury cases on contingency, meaning their fee is a percentage of any recovery rather than an upfront charge. If there is no recovery, there is no attorney fee."
+      }
+    ]
+  }
+}

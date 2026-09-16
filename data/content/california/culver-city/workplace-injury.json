@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "culver-city workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Culver City Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Culver City? Free connection to an independent attorney who can review a third-party workplace injury claim. No cost unless you recover."
+  },
+  "hero": {
+    "subtitle": "Culver City's mix of studio lots, office campuses, and warehouses near I-405 sees its share of on-the-job injuries. If a subcontractor, property owner, or equipment maker contributed to yours, we can connect you with an independent attorney to look into it."
+  },
+  "about": {
+    "title": "Culver City Workplace Injury Claims",
+    "longDescription": "Culver City's economy runs on production studios, tech offices, retail, and logistics work along corridors like Washington Boulevard and Sepulveda Boulevard, and each of these settings carries its own injury risks. Most workplace injuries in California go through the workers' compensation system, which generally applies regardless of who was at fault. But that system doesn't always tell the whole story. When a subcontractor, equipment manufacturer, delivery driver, or outside property owner played a role in the incident, a separate third-party injury claim may be available alongside any workers' comp benefits. LawProactive doesn't practice law or handle claims directly — we're a free service that connects injured workers in Culver City with an independent personal injury attorney who can review the facts, explain whether a third-party claim might apply, and outline next steps. There's no cost to find out where you stand.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from malfunctioning equipment or machinery",
+      "Forklift and warehouse vehicle accidents",
+      "Repetitive strain and overexertion injuries",
+      "Struck-by incidents involving falling materials",
+      "Injuries caused by a negligent contractor or vendor on-site"
+    ],
+    "ctaText": "Find out if a third-party claim applies to your workplace injury — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "California treats workers' comp as the usual exclusive remedy against an employer, but it doesn't shield a negligent third party like a subcontractor or equipment maker. An attorney can help sort out whether a separate claim exists."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days. Missing that window can complicate your options, so early advice matters."
+      },
+      {
+        "title": "Retaliation Is Illegal — But Timing Still Counts",
+        "desc": "Employers can't legally retaliate against you for reporting an injury, and a third-party claim carries its own two-year deadline. An attorney can help make sure that clock doesn't run out while other matters get sorted."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I already filed for workers' comp — can I still pursue something else?",
+        "answer": "Yes, in many cases. Workers' comp and a third-party claim aren't mutually exclusive if someone other than your employer contributed to the injury. An independent attorney can review your situation and explain how the two might work together."
+      },
+      {
+        "question": "My injury happened near the studios or warehouses off Washington Boulevard — does that change anything?",
+        "answer": "Not the underlying law, but the facts on the ground matter. Culver City's mix of production facilities, offices, and logistics sites near Washington Boulevard and Sepulveda Boulevard often means multiple companies or contractors are present at a single worksite, which can open the door to a third-party claim. An attorney can look at who was actually involved."
+      },
+      {
+        "question": "What if my employer discourages me from reporting the injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal in California, and you generally have 30 days to report it. If you're facing pushback, it's worth speaking with an independent attorney sooner rather than later to understand your options."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "cloverdale workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Cloverdale Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Cloverdale? Get connected free with an independent attorney who handles work injury and third-party claims in Sonoma County."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Cloverdale, whether on a vineyard crew, a job site off S Cloverdale Boulevard, or delivering along US-101, we can connect you with an independent attorney who understands the mix of workers' comp and third-party claims that often applies here."
+  },
+  "about": {
+    "title": "Cloverdale Workplace Injury Claims",
+    "longDescription": "Cloverdale's economy runs on agriculture, hospitality, and the trucking and delivery traffic that moves along US-101 and Cloverdale Boulevard. That mix means workplace injuries here take many forms: a fall on a vineyard slope, a forklift accident at a warehouse near N Cloverdale Boulevard, or a collision involving a delivery driver during the Friday evening rush that Sonoma County records tend to show. Most injured workers start with a workers' compensation claim through their employer, but California law also allows a separate claim against a negligent third party, such as a subcontractor, property owner, or another driver, when one contributed to the injury. Sorting out which path applies, and whether both can move forward together, is where an independent attorney can help. LawProactive doesn't practice law ourselves; we simply connect you with someone in our network who can look at your situation and explain your options at no upfront cost.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven vineyard terrain",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Machinery entanglement or crush injuries",
+      "Burns or chemical exposure on job sites"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, free and with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Cloverdale Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help You Sort Comp From Third-Party Claims",
+        "desc": "California generally treats workers' comp as the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker can still be liable. An attorney can help identify whether your case involves both paths."
+      },
+      {
+        "title": "We Understand the 30-Day Reporting Window",
+        "desc": "California law requires reporting a workplace injury to your employer within 30 days to preserve your comp rights. If you're unsure whether you met that window or what happens next, an attorney in our network can review your timeline."
+      },
+      {
+        "title": "We Know Retaliation Is Illegal",
+        "desc": "If you're worried about reporting an injury because of your job, California law prohibits retaliation against workers who file claims. An independent attorney can advise you on your rights if you feel pressured or discouraged."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if my injury happened on a job site near S Cloverdale Boulevard but I wasn't driving?",
+        "answer": "Yes. Workplace injuries on job sites, not just vehicle-related ones, are typically covered by workers' compensation regardless of fault. If a third party, like a property owner or subcontractor, contributed to the hazard, there may also be a separate claim worth exploring. An attorney can review the specifics of the site and incident."
+      },
+      {
+        "question": "What if my employer says I waited too long to report my injury?",
+        "answer": "California generally requires reporting a work injury to your employer within 30 days, but there can be exceptions depending on when symptoms appeared or were discovered. Even if there's a dispute about timing, it's worth having an attorney review the facts before assuming your claim is barred. Missing the initial report doesn't always mean you have no options."
+      },
+      {
+        "question": "I was hurt driving for work near US-101 in Cloverdale. Does workers' comp cover that, or can I sue the other driver too?",
+        "answer": ""
+      }
+    ]
+  }
+}

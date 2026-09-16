@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "orland medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Orland Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Orland, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Orland went wrong and left you injured, LawProactive can connect you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Orland Medical Malpractice Claims",
+    "longDescription": "Glenn County residents rely on a small handful of clinics and outlying hospital systems for care, and when something goes wrong during treatment, the effects can ripple through a small community fast. Medical malpractice covers situations where a provider's care fell below the accepted medical standard and caused real harm — not simply cases where treatment didn't produce the hoped-for result. California law places specific and fairly tight deadlines on these claims, along with a required pre-suit notice step and expert medical review, so timing matters from the day you first suspect something was wrong. LawProactive doesn't practice law or evaluate your medical records ourselves; we simply connect Orland residents, free of charge, with an independent attorney who can review what happened, explain your options, and take on the case on contingency if they agree to represent you. There's no upfront cost to find out where you stand.",
+    "commonInjuriesTitle": "Types of Cases We Help Connect",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Failure to monitor a patient properly"
+    ],
+    "ctaText": "Get connected with an independent malpractice attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Orland Families Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Know the Clock Is Short",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, plus a required 90-day notice before suit. We help you get connected quickly so that window doesn't close."
+      },
+      {
+        "title": "Cases Require Real Medical Proof",
+        "desc": "Because California requires a qualified medical expert to support most malpractice claims, a poor outcome by itself isn't enough — the attorney you're matched with will look at whether the standard of care was actually breached."
+      },
+      {
+        "title": "Understanding the Damages Cap",
+        "desc": "California law caps non-economic damages, though that cap rises annually under MICRA; an independent attorney can walk you through how that limit and other damages might apply to your specific situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Orland?",
+        "answer": "Generally, California law gives you one year from when you discovered — or reasonably should have discovered — the injury, and no more than three years from the date it happened. Before filing suit, a 90-day pre-suit notice to the provider is also required. Because these deadlines are strict and case-specific, it's worth getting a free case review sooner rather than later."
+      },
+      {
+        "question": "Is Orland's limited number of hospitals a factor in these cases?",
+        "answer": "Because Glenn County residents often travel to a small set of clinics or nearby regional hospitals for treatment, malpractice cases here can involve providers outside city limits. LawProactive can still connect you with an attorney experienced in California malpractice claims regardless of which facility was involved."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No — California law requires proof that a provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. Most claims require a qualified medical expert to establish that breach and connect it to your injury. An attorney can review your records to see whether that standard was actually met."
+      }
+    ]
+  }
+}

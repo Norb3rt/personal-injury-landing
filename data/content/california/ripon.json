@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "ripon city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ripon, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Ripon, San Joaquin County? Get connected free to an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, fall, or other accident in Ripon, we'll connect you at no cost with an independent attorney serving San Joaquin County. There's no obligation, and it costs nothing to find out where you stand."
+  },
+  "about": {
+    "title": "Personal Injury Help in Ripon, California",
+    "longDescription": "Ripon is a small city, but its roads carry a steady stream of traffic every day, especially where SR-99 meets local streets like N Jack Tone Road and W Main Street. In the most recent full year on record, Ripon saw 49 injury collisions and 64 people hurt, with no reported traffic deaths. Public records show these crashes tend to cluster on Friday afternoons between 4 and 6 p.m., when commuters, shoppers, and school traffic overlap. Whether you were driving on SR-99, crossing Main Street, or turning off Jack Tone Road, the aftermath of a crash can leave you dealing with medical bills, missed work, and insurance calls you didn't ask for. LawProactive is a free service that connects injured people in Ripon with an independent personal injury attorney - we are not a law firm, and we don't charge you anything to make that connection. If an attorney takes your case, they work on contingency, meaning there's no fee unless you recover money. Below are some of the injuries people in Ripon commonly deal with after a collision or accident.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out if you have a case - the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Generally Have Two Years",
+        "desc": "California law gives most injury victims two years from the date of the accident to file a claim. That window shrinks to as little as six months if a government entity is involved, so it's worth checking your timeline early."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you share some blame for the crash, you can still recover damages - just reduced by your percentage of fault."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "Unlike some states, California doesn't cap non-economic damages like pain and suffering in typical injury cases, which can matter a lot depending on how the injury affects your life."
+      },
+      {
+        "title": "You Pay Nothing Unless You Win",
+        "desc": "Attorneys in our network work on contingency. That means there's no upfront fee, and they only get paid if you receive a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about who pays the medical bills piling up",
+      "Feeling pressured by an insurance adjuster calling too soon",
+      "Losing income while unable to work",
+      "Not knowing if the deadline to file has already started ticking"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Ripon?",
+        "answer": "In most cases, California gives you two years from the date of the accident to file a personal injury claim. If a government vehicle or agency was involved, that deadline can shrink to as little as six months, so it's smart to look into your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so being partly responsible doesn't bar you from recovering compensation. Your recovery would simply be reduced by your share of fault, which an attorney can help evaluate."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Ripon?",
+        "answer": "Public collision records show higher counts along corridors like SR-99, N Jack Tone Road, and W Main Street, with crashes tending to peak on Fridays between 4 and 6 p.m. These are simply reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people with an independent attorney who may be able to help."
+      },
+      {
+        "question": "Will I have to pay an attorney upfront?",
+        "answer": "Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. This lets you get help without worrying about upfront legal costs."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "beaumont car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Beaumont, CA Car Accident Help | LawProactive",
+    "metaDescription": "Hurt in a Beaumont car accident? Get connected free with an independent injury attorney serving Riverside County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a collision on I-10, Beaumont Avenue, or Oak Valley Parkway left you hurt, we can connect you free with an independent attorney who handles Beaumont car accident claims."
+  },
+  "about": {
+    "title": "Beaumont Car Accident Claims",
+    "longDescription": "Beaumont sits along the I-10 corridor between the Banning Pass and the San Gorgonio Pass wind farms, and that traffic funnels straight through local streets like Beaumont Avenue, Oak Valley Parkway, and 6th Street. Public crash records show 86 injury collisions and 129 people hurt in the most recent final year, with Friday afternoons between 3 and 5 p.m. seeing a noticeable share of reported crashes — likely tied to weekend travel and commuter volume heading toward the pass. Whether your crash happened at a busy intersection or on the freeway itself, the first days afterward matter: insurers move fast, and evidence like skid marks, dashcam footage, or witness contact information can disappear. LawProactive doesn't practice law — we're a free service that connects injured Beaumont residents with an independent personal injury attorney who can evaluate your situation and explain your options, with no upfront cost to you.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Herniated or bulging discs",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Shoulder and knee ligament tears",
+      "Lacerations requiring stitches or surgery"
+    ],
+    "ctaText": "Tell us what happened — it's free, and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the crash date to file a personal injury lawsuit, but that window shrinks to as little as six months if a government entity — like a city road crew or Caltrans — may be involved. Waiting to sort out fault could cost you the right to recover anything at all."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California uses pure comparative fault, meaning your compensation can be reduced by whatever percentage you're found responsible for the crash — even if that's mostly the other driver's fault. An early recorded statement to an adjuster can be used to shift blame onto you before you've even seen a police report."
+      },
+      {
+        "title": "No Cap Doesn't Mean No Fight",
+        "desc": "California places no cap on non-economic damages like pain and suffering in most car accident cases, but insurers still try to minimize what they offer. An attorney working on contingency — meaning no fee unless you recover — has an incentive to push back on lowball settlements."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit near the I-10 and Beaumont Avenue interchange — does it matter that it's near a freeway on-ramp?",
+        "answer": "It can matter for evidence and jurisdiction purposes, since Caltrans maintains some interchange areas while the city maintains local streets. An attorney can help sort out which agency, if any, is involved and whether a shorter claims deadline applies. This is exactly the kind of detail worth raising early rather than after time has passed."
+      },
+      {
+        "question": "The other driver's insurance company already called me — should I give them a recorded statement?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney, since anything you say can be used to argue you share more fault under California's comparative fault rule. You're not required to provide one right away. A free consultation can help you understand what to say and what to hold off on."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California's pure comparative fault law still allows you to recover compensation even if you were partially responsible, though your award would be reduced by your percentage of fault. This means a shared-fault crash on a busy corridor like Oak Valley Parkway doesn't automatically bar your claim. An attorney can help evaluate how fault might be allocated in your specific case."
+      }
+    ]
+  }
+}

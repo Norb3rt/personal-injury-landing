@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "fontana workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fontana Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Fontana? Learn how workers' comp and third-party claims differ, and get connected free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "A job injury in Fontana can leave you juggling medical visits, missed shifts and forms you never asked for. We connect you, at no cost, with an independent attorney who can explain whether workers' comp is your only option or whether someone else should also answer for what happened."
+  },
+  "about": {
+    "title": "Fontana Workplace Injury Claims",
+    "longDescription": "Fontana's workday runs on movement: goods rolling across loading docks, crews on job sites, and drivers threading through traffic on Sierra Avenue, Citrus Avenue, Foothill Boulevard and the I-10. When a shift ends in an ambulance instead of a paycheck, the questions come fast. In California, workers' compensation is normally your only remedy against your own employer, and it pays regardless of who was at fault. That system covers medical care and a portion of lost wages, but it stops there. What many Fontana workers never hear is that a separate injury claim may exist when someone outside your employer caused the harm: a subcontractor who left a hazard, a property owner who ignored a defect, the maker of a machine that failed, or another driver who hit you while you were working. Public records logged 799 injury collisions in Fontana in 2025, and some of those involved people on the clock. LawProactive is not a law firm. We are a free service that connects you with an independent attorney who can sort out which path fits your situation.",
+    "commonInjuriesTitle": "Injuries We Commonly See From Fontana Workplaces",
+    "commonInjuries": [
+      "Back and spinal strains from repetitive lifting",
+      "Forklift and pallet-jack collisions on warehouse floors",
+      "Falls from ladders, scaffolds and loading docks",
+      "Crush and amputation injuries from machinery",
+      "Heat illness on outdoor and yard assignments",
+      "Crash injuries while driving for work on I-10 or Sierra Avenue"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Fontana Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look past the workers' comp ceiling",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but it was never meant to cover everything. The attorneys we connect you with check whether a negligent third party, such as a subcontractor, property owner or equipment maker, opens a separate claim."
+      },
+      {
+        "title": "We help you protect your job while you heal",
+        "desc": "California requires you to report a work injury to your employer within 30 days, and it makes retaliation for doing so illegal. An attorney can help you document the report and respond if your employer pushes back."
+      },
+      {
+        "title": "We respect the clock so you don't have to watch it alone",
+        "desc": "Third-party injury claims in California carry a two-year deadline, and evidence from a job site or a crash scene fades faster than that. Getting connected early gives your attorney room to investigate."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on the I-10 while making deliveries for my Fontana employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It may be both. Because you were working, workers' compensation should cover your medical treatment and part of your lost wages no matter who caused the crash. If the other driver was at fault, you may also have a separate injury claim against that driver, and that claim can address losses workers' comp does not. An attorney can coordinate the two so one does not undercut the other."
+      },
+      {
+        "question": "Do I need to report my injury right away?",
+        "answer": "Yes. California asks you to notify your employer within 30 days, and waiting can complicate your benefits. Put the report in writing if you can, keep a copy, and note who you told and when. If your employer discourages you from reporting or treats you differently afterward, that retaliation is illegal and worth raising with an attorney."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free connection service, not a law firm. The independent attorneys in our network handle injury claims on contingency, which means they receive a fee only if there is a recovery. You can ask them directly about how that works before agreeing to anything."
+      }
+    ]
+  }
+}

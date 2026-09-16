@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "ridgecrest medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ridgecrest Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Ridgecrest? LawProactive connects you free with an independent CA malpractice attorney to review your case."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or procedure at a Ridgecrest medical facility goes wrong, sorting out what happened can feel overwhelming. LawProactive can connect you at no cost with an independent California attorney who understands medical malpractice claims in Kern County."
+  },
+  "about": {
+    "title": "Ridgecrest Medical Malpractice Claims",
+    "longDescription": "Ridgecrest residents rely on a limited number of local medical providers, and when something goes wrong during treatment, it can be hard to know where to turn. Medical malpractice covers situations where a healthcare provider's care fell below the accepted standard and caused harm — not simply an outcome the patient didn't want. Because Ridgecrest sits somewhat apart from larger Kern County medical centers, some patients here are referred out for specialized care, which can add layers of complexity when more than one provider or facility is involved in a claim. California law places specific requirements on these cases, including strict notice periods and expert review, so early guidance matters. LawProactive doesn't practice law or handle claims directly — we simply connect people in Ridgecrest with an independent attorney, free of charge, so they can get informed about their options before time limits pass. There's no obligation to move forward, and you're never charged for the introduction.",
+    "commonInjuriesTitle": "Types of Cases We Help Connect",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors",
+      "Medication or dosage mistakes",
+      "Birth injury complications",
+      "Anesthesia errors",
+      "Failure to monitor a patient's condition"
+    ],
+    "ctaText": "Get connected with an independent attorney to discuss your situation."
+  },
+  "whyChoose": {
+    "title": "What Ridgecrest Patients Should Know About These Claims",
+    "items": [
+      {
+        "title": "Strict Filing Windows",
+        "desc": "California generally requires malpractice claims within one year of discovering the harm, and never more than three years after the injury itself. Missing these MICRA deadlines can end a claim before it starts."
+      },
+      {
+        "title": "Required Pre-Suit Notice",
+        "desc": "State law requires a 90-day written notice to the healthcare provider before a lawsuit can be filed. An attorney can help make sure this step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "A qualified medical expert typically must confirm that a provider's care fell below the accepted standard. This is a key reason a bad outcome by itself doesn't automatically mean malpractice occurred."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is every bad medical outcome considered malpractice?",
+        "answer": "No. California law recognizes that medicine involves risk, so a poor result alone isn't enough. There has to be evidence that a provider's care fell below the accepted standard and that this caused the harm."
+      },
+      {
+        "question": "How long do I have to bring a claim in Ridgecrest?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it occurred. Because Ridgecrest patients sometimes receive follow-up care at facilities outside Kern County, it's worth getting an attorney's read on your specific timeline sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I can recover?",
+        "answer": "California caps non-economic damages in these cases, though that cap rises each year under state law. Economic damages, like medical bills and lost income, are handled separately. An independent attorney can walk you through how this applies to your circumstances."
+      }
+    ]
+  }
+}

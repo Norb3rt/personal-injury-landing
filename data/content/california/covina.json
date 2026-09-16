@@ -1,0 +1,86 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "covina city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Covina, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Covina? Free connection to an LA County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on Grand Avenue or a fall that wasn't your fault, we can connect you with an independent attorney at no cost, serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Covina, California",
+    "longDescription": "Covina is a compact, busy community of nearly 49,000 people, and its streets carry a steady flow of daily traffic. In the most recent year on record, Covina saw 117 injury collisions and 165 people hurt on its roads — figures that come from public crash records, not guesswork. Corridors like Badillo Street, Grand Avenue, San Bernardino Road, and Citrus Avenue see the highest volume of reported collisions in the city, and crash reports tend to cluster on Thursday afternoons between 3 and 5 p.m., when commuters, students, and errands overlap. If you were hurt in a crash, a fall, or another accident on one of these routes or anywhere else in Covina, you don't have to sort through the aftermath by yourself. LawProactive is a free service — we are not a law firm — that connects injured people with an independent personal injury attorney in the area. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and puts no obligation on you.",
+    "commonInjuriesTitle": "Common Injuries We See Connections For",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out if you have a case — reach out for a free, no-obligation connection today."
+  },
+  "whyChoose": {
+    "title": "Why Covina Residents Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "You Have Limited Time to Act",
+        "desc": "California law generally gives you two years from the date of injury to file a personal injury claim. If a government entity is involved, that window can shrink to as little as six months, so it pays to move early."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply adjusted to reflect your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no limit on non-economic damages like pain and suffering. That means your claim can reflect the real impact the injury had on your life, not just medical bills."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless there's a recovery. That structure lets injured people get legal help without worrying about hourly rates."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Mounting medical bills with no clear way to pay them",
+      "Missed paychecks while unable to work",
+      "Uncertainty about whether the insurance company's offer is fair",
+      "Fear that too much time has passed to still take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Covina?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a lawsuit. If your claim involves a city or county entity, the deadline can be much shorter — sometimes just six months — so it's wise to look into your options sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still pursue compensation even if you share some blame. Your recovery would be reduced by your percentage of fault, but it isn't eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Covina?",
+        "answer": "Public crash records show that Badillo Street, Grand Avenue, San Bernardino Road, and Citrus Avenue have the highest reported collision counts in the city, with reports peaking on Thursday afternoons between 3 and 5 p.m. These are neutral, publicly reported figures and not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge any fees?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we are not a law firm ourselves. Attorneys in the network work on contingency, so there's no fee unless you recover compensation."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most standard personal injury cases in California, there's no cap on non-economic damages such as pain and suffering. This can matter significantly if your injury affects your daily life beyond just medical costs."
+      },
+      {
+        "question": "What should I do right after an accident in Covina?",
+        "answer": "Seek medical attention even if injuries seem minor, since some symptoms surface later. Document what happened if you're able, and consider reaching out for a free connection to an attorney who can help you understand your options before deadlines pass."
+      }
+    ]
+  }
+}

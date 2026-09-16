@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "cypress car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Cypress Car Accident Help | LawProactive",
+    "metaDescription": "Hurt in a Cypress car accident? LawProactive connects you free with an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Valley View, Walker, Ball, or Lincoln left you hurt, LawProactive can connect you with an independent Cypress-area attorney at no cost to you."
+  },
+  "about": {
+    "title": "Cypress Car Accident Claims",
+    "longDescription": "Cypress sees its share of injury collisions every year, and Orange County crash data shows a recurring pattern: Wednesday afternoons between 2 and 4 p.m. tend to bring the heaviest reported crash activity, often along busy corridors like Valley View Street, Walker Street, Ball Road, and Lincoln Avenue. In one recent year, 145 injury collisions on Cypress-area roads left 197 people hurt. If you were one of them, the days right after a crash matter — insurance adjusters move fast, and evidence like skid marks, vehicle damage, and witness memories fade quickly. LawProactive doesn't practice law or charge you anything; we simply connect people who've been injured with an independent, contingency-fee California attorney who can evaluate what happened and explain your options. There's no obligation to move forward, and no cost unless your case results in a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Herniated or bulging discs",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Torn ligaments or rotator cuff injuries",
+      "Lower back and spinal injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon After a Cypress Crash",
+    "items": [
+      {
+        "title": "California's Filing Clock Is Shorter Than You Think",
+        "desc": "You generally have two years from the crash to file a lawsuit, but if a government entity (like a city vehicle) was involved, that window can shrink to as little as six months. Waiting too long can close the door on your claim entirely."
+      },
+      {
+        "title": "Comparative Fault Can Work in Your Favor",
+        "desc": "California follows pure comparative fault, meaning you can still recover compensation even if you were partly responsible for the crash — your share of fault simply adjusts the amount. An attorney can help make sure fault isn't unfairly pinned on you early in the process."
+      },
+      {
+        "title": "No Cap Means No Reason to Undersell Your Claim",
+        "desc": "California places no limit on non-economic damages like pain and suffering in most car accident cases. That's exactly why insurers often ask for a recorded statement early — an attorney can advise you against giving one until your claim is properly evaluated."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement until you've spoken with an attorney. Insurers often use these statements to find ways to reduce or deny claims. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if my accident happened at a busy Cypress intersection like Ball Road or Lincoln Avenue?",
+        "answer": "Crashes reported along high-traffic Cypress corridors often involve multiple vehicles or disputed fault, which can complicate a claim. Preserving evidence quickly — photos, witness contact info, and traffic camera footage if available — helps an attorney evaluate what happened. Public crash-count data for these roads can also be useful context for your case."
+      },
+      {
+        "question": "How long do I have to take legal action after a Cypress car accident?",
+        "answer": "California generally gives you two years from the date of the crash to file a lawsuit, though claims involving a government vehicle or road defect can require action within six months. Because these deadlines vary by circumstance, it's worth having an attorney review your situation sooner rather than later."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "downey product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Downey Product Liability Attorney Connection | LawProactive",
+    "metaDescription": "Hurt by a defective product in Downey, CA? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A faulty appliance, a failed car part, a medication with no warning on the label — when a product hurts someone in Downey, California's strict liability rules may put the responsibility on the companies that made and sold it, not on you."
+  },
+  "about": {
+    "title": "Downey Product Liability Claims",
+    "longDescription": "A product should do what the box says it will do. When it doesn't — when a space heater bought at a store off Firestone Boulevard catches fire, when a child's car seat fails on Lakewood Boulevard, when a power tool's guard slips in a garage on Florence Avenue — the harm lands on a Downey family that trusted the label. Product liability claims in California deal with that broken trust. Under strict liability, you generally don't have to prove the manufacturer was careless. Showing the product had a design flaw, a manufacturing error, or a missing warning, and that the defect caused your injury, is usually the core of the case. Responsibility can reach the maker, the distributor, and the retailer that sold it. LawProactive is a free service, not a law firm. We connect Downey residents in Los Angeles County with an independent personal injury attorney who handles product cases on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from appliances, batteries, or e-bike chargers",
+      "Lacerations from tools or equipment missing guards",
+      "Injuries from airbag, seatbelt, or tire failures",
+      "Poisoning or reactions from unlabeled medications",
+      "Choking or entrapment involving children's products",
+      "Falls caused by collapsing furniture, ladders, or chairs"
+    ],
+    "ctaText": "Tell us what happened. We'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What Sets a Product Case Apart in Downey",
+    "items": [
+      {
+        "title": "You usually don't have to prove carelessness",
+        "desc": "California applies strict liability to many product claims, so the question is generally whether the product was defective and caused your injury — not whether the company meant to cut corners."
+      },
+      {
+        "title": "The product is the evidence",
+        "desc": "Hold on to the item, its packaging, receipts, and any photos of the scene. A Downey attorney will want to examine the actual product before anyone else does."
+      },
+      {
+        "title": "More than one company may answer for it",
+        "desc": "Manufacturers, distributors, and the retailer that sold the product can all share responsibility under California law, which matters when one link in that chain has gone out of business or is overseas."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My car's airbag didn't deploy in a crash on Firestone Boulevard. Is that a product claim or a car accident claim?",
+        "answer": "It can be both. Downey logged 829 injury collisions in 2025, and some of those involve a vehicle part that didn't perform as designed. A product liability claim looks at the defect itself, while a separate claim may address the other driver. An attorney can sort out which path fits your situation, but keep the vehicle from being scrapped or repaired until it's inspected."
+      },
+      {
+        "question": "What counts as a 'defect' under California law?",
+        "answer": "There are three general types. A design defect means the product is unsafe as planned, a manufacturing defect means something went wrong making that particular unit, and a warning defect means the instructions or labels failed to alert you to a known risk. You typically only need to show one of these applies and that it caused your injury."
+      },
+      {
+        "question": "I bought the product used or at a swap meet. Can I still bring a claim?",
+        "answer": "Possibly. Strict liability in California is aimed at businesses in the chain of distribution, so the manufacturer may still be responsible even if you weren't the first owner. The details of where and how you got it matter, which is why speaking with an attorney early is helpful. LawProactive can connect you with one for free."
+      }
+    ]
+  }
+}

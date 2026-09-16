@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "santa-cruz car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Cruz Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Santa Cruz car crash? Get connected free to an independent injury attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Ocean Street, Soquel Avenue, or Highway 1 left you hurt, LawProactive can connect you with an independent Santa Cruz attorney at no upfront cost."
+  },
+  "about": {
+    "title": "Santa Cruz Car Accident Claims",
+    "longDescription": "Santa Cruz sees a steady flow of injury collisions each year, with public records showing 159 injury crashes and 185 people hurt in the most recent reporting year. Traffic tends to bunch up on corridors like Rt 1, Ocean Street, Soquel Avenue, and Water Street, especially as Friday evening commutes overlap with beach traffic and weekend visitors. Whether you were rear-ended near a Water Street intersection or sideswiped merging onto Highway 1, the aftermath usually means medical appointments, missed work, and calls from an insurance adjuster who wants a quick statement. LawProactive doesn't handle your claim directly — we connect you, free of charge, with an independent personal injury attorney who can review the crash details, help you understand your options under California law, and work on a contingency basis so there's no fee unless you recover. The goal is simple: get you talking to someone who can protect your interests early, while evidence and witness memories are still fresh.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head trauma",
+      "Back and spinal disc injuries",
+      "Broken bones and fractures",
+      "Shoulder and knee ligament tears",
+      "Cuts, bruises, and soft-tissue damage"
+    ],
+    "ctaText": "Get matched with a Santa Cruz attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before You Talk to the Insurer",
+    "items": [
+      {
+        "title": "California's Deadline Is Closer Than It Feels",
+        "desc": "You generally have two years from the crash date to file a car accident lawsuit in California, but that window shrinks dramatically — sometimes to six months — if a government entity's road or vehicle is involved, which matters given how many claims touch city-maintained corridors like Ocean Street."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You Fast",
+        "desc": "California uses pure comparative fault, meaning your compensation can be reduced by whatever percentage you're found responsible; an early recorded statement to the other driver's insurer can be used to shift blame onto you before you've even seen the full picture."
+      },
+      {
+        "title": "No Cap Means Your Full Story Matters",
+        "desc": "California places no cap on non-economic damages like pain and suffering, so documenting how the crash affected your daily life — not just your medical bills — can matter, and an attorney can help make sure that story doesn't get lost."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to give the other driver's insurance company a recorded statement?",
+        "answer": "No, you're not required to give a recorded statement to the other driver's insurer, and it's often better to speak with an attorney first. Insurers sometimes use early statements to find inconsistencies or shift fault. An independent attorney can advise you on what, if anything, to share."
+      },
+      {
+        "question": "How long do I have to file a claim after a Santa Cruz crash?",
+        "answer": "California generally allows two years from the date of the accident to file a lawsuit, but if a public road defect or government vehicle was involved — which can come up on busier routes like Highway 1 or Water Street — the deadline may be as short as six months. It's worth getting your situation reviewed early rather than waiting."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California's pure comparative fault rule means you can still recover compensation even if you were partly responsible, though your recovery may be reduced by your percentage of fault. This makes it important to have someone evaluate the specific facts of your crash rather than assume you're out of options."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, LawProactive is a free service, and attorneys in our network typically work on contingency, meaning there's no fee unless you recover compensation. We simply help connect you with an independent attorney who can evaluate your situation."
+      }
+    ]
+  }
+}

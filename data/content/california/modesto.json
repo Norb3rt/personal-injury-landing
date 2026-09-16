@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "modesto city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Modesto, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Modesto or Stanislaus County? You generally have 2 years to file. Get connected free to an independent attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Car crashes, slip-and-falls, and other injuries can upend life fast. LawProactive connects people across Stanislaus County with an independent injury attorney at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in Modesto, California",
+    "longDescription": "Modesto is a city people drive through as much as they drive in. Coffee Road, Oakdale Road, Tully Road and Briggsmore Avenue carry a large share of daily traffic, and public records show they also account for a large share of the city's collisions. In 2025, Modesto logged 1,365 injury collisions. Those crashes left 1,992 people hurt and took 20 lives. Reports tend to cluster late on Friday afternoons, roughly between 5 and 7 p.m., when the work week ends and the roads fill up. Behind each of those numbers is someone sorting out an ER bill, a totaled car, or missed shifts at work. That is where LawProactive comes in. We are a free service, not a law firm. Our role is simple: listen to what happened, then connect you with an independent personal injury attorney who handles cases in Stanislaus County. You pay nothing for the connection, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. Whether you were rear-ended on Briggsmore, hit while crossing near Tully, or injured in a fall at a business, the first step is the same. Reach out, tell us what happened, and let someone who knows California injury law take it from there.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Modesto",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken arms, wrists, and collarbones",
+      "Back and spinal disc injuries",
+      "Knee and hip injuries from falls",
+      "Cuts, bruising, and soft-tissue damage"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Modesto Claim",
+    "items": [
+      {
+        "title": "Two years to act, sometimes less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, the window can shrink to as little as six months, so waiting is risky."
+      },
+      {
+        "title": "Partial fault does not shut you out",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not barred from recovering."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "California does not cap non-economic damages in typical injury cases. Your physical pain, emotional distress, and lost quality of life can all be part of the claim."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in the LawProactive network work on contingency. You do not pay attorney fees unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "My car is wrecked and I can't get to work without it.",
+      "Medical bills are piling up while I'm still off my feet.",
+      "I'm not sure whether the crash was partly my fault."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Modesto?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date you were hurt. That drops sharply, sometimes to six months, when a government entity such as the City of Modesto or Stanislaus County is involved. Because the clock is already running, it helps to get your questions answered early."
+      },
+      {
+        "question": "Where do crashes tend to happen in Modesto?",
+        "answer": "Public collision records for Modesto show the highest counts along Coffee Road, Oakdale Road, Tully Road, and Briggsmore Avenue. These are among the city's busiest corridors, and reports tend to peak on Fridays between 5 p.m. and 7 p.m. These are simply counts from public data, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses a pure comparative fault system. Your compensation is reduced by whatever percentage of fault is assigned to you, but you can still recover for the rest. An attorney can help make sure your share of fault is assessed fairly rather than accepted at the insurer's word."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not give legal advice or represent you. We connect you with an independent personal injury attorney who serves Stanislaus County, and that attorney handles your case directly."
+      },
+      {
+        "question": "How much will it cost me to hire an attorney?",
+        "answer": "Our connection service costs you nothing. The attorneys in our network work on contingency, which means their fee comes out of any recovery rather than out of your pocket up front. If there is no recovery, there is no attorney fee."
+      }
+    ]
+  }
+}

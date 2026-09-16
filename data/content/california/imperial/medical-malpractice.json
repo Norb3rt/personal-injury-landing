@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "imperial medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Imperial Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free help connecting Imperial, CA patients harmed by medical errors with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or treatment goes wrong at an Imperial County medical facility, understanding your options shouldn't add to the stress. LawProactive connects Imperial patients and families with an independent attorney who can review what happened, free of charge."
+  },
+  "about": {
+    "title": "Imperial Medical Malpractice Claims",
+    "longDescription": "Imperial is a small community, and many residents rely on a handful of local clinics and hospitals or travel within Imperial County for specialized care. When something goes wrong during treatment — a missed diagnosis, a surgical mistake, a medication error — patients are often left confused about whether what happened was simply an unfortunate outcome or something more. California law sets a genuinely high bar for these cases: a bad result alone isn't enough to prove malpractice, and claims require a qualified medical expert to establish that a provider fell below the accepted standard of care. LawProactive doesn't practice law or evaluate your case ourselves. Instead, we connect Imperial residents with an independent attorney who handles these claims and can explain, in plain terms, whether your situation may qualify for further review. The conversation is free, and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Types of Harm We Commonly Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Starts Early",
+        "desc": "Under MICRA, you generally have one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim. Waiting to sort out what happened can cost you the ability to act at all."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "California law requires giving the healthcare provider 90 days' written notice before a malpractice lawsuit can be filed, which affects how soon paperwork needs to start moving."
+      },
+      {
+        "title": "Expert Review Is Required",
+        "desc": "Because a poor outcome by itself isn't proof of malpractice, California requires a qualified medical expert to evaluate whether the standard of care was actually violated — a step an independent attorney can help arrange."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Imperial — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law is clear that a poor result alone doesn't establish malpractice; there has to be evidence that a provider's care fell below the accepted medical standard. An independent attorney, working with a medical expert, can help determine whether your situation meets that threshold."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from the date it occurred, under MICRA. Because Imperial has limited local legal resources, it's worth getting a free case review sooner rather than later so the timeline doesn't work against you."
+      },
+      {
+        "question": "What does LawProactive actually do?",
+        "answer": "We're a free connection service, not a law firm — we match you with an independent attorney in our network who handles medical malpractice matters. There's no cost to speak with them, and attorneys typically work on contingency, meaning no fee unless you recover."
+      }
+    ]
+  }
+}

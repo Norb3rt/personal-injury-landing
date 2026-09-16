@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "el-monte medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Help in El Monte, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in El Monte? LawProactive connects you, free, with an independent malpractice attorney. MICRA deadlines are short."
+  },
+  "hero": {
+    "subtitle": "If a provider in El Monte missed something, mixed something up, or left you worse than when you walked in, you deserve a straight answer about whether it was malpractice. LawProactive connects you with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "El Monte Medical Malpractice Claims",
+    "longDescription": "Medical care in El Monte comes from a mix of neighborhood clinics, urgent care storefronts along Valley Boulevard, and larger hospitals a short drive away on the I-10. Most visits go fine. When they don't — when a diagnosis is missed, a medication is confused, or a procedure leaves you worse off than before — it can be hard to know whether what happened was an honest limitation of medicine or a genuine error. California's MICRA rules draw that line carefully: a bad outcome by itself is not malpractice. What matters is whether the provider fell below the accepted standard of care, and proving that almost always requires a qualified medical expert. Timing matters as well. You generally have one year from the date you discovered the harm, never more than three years from the injury itself, and a 90-day notice must reach the provider before any lawsuit is filed. LawProactive is not a law firm. We simply connect El Monte residents, free of charge, with an independent attorney who handles these claims on contingency.",
+    "commonInjuriesTitle": "Common Medical Errors We See in El Monte Cases",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Medication and dosage mistakes",
+      "Surgical errors, including wrong-site procedures",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections tied to poor hospital sanitation"
+    ],
+    "ctaText": "Ask a Malpractice Attorney About Your Case"
+  },
+  "whyChoose": {
+    "title": "Why El Monte Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA's Clock Is Shorter Than Most People Expect",
+        "desc": "California generally gives you one year from discovering the harm and no more than three years from the injury, plus a mandatory 90-day pre-suit notice. Getting connected early leaves room to meet those steps."
+      },
+      {
+        "title": "Experts Are Nearly Always Required",
+        "desc": "A malpractice claim in California almost always needs a qualified medical expert to explain how the care fell short. The attorneys in our network know how to evaluate whether a case can clear that bar before anyone commits."
+      },
+      {
+        "title": "Free to Use, Contingency Representation",
+        "desc": "LawProactive charges you nothing to connect. Network attorneys take medical malpractice cases on contingency, meaning no attorney fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "An El Monte emergency room treated me after a collision on the I-10 and missed a fracture. Is that malpractice?",
+        "answer": "It might be, but a missed finding alone does not decide it. The question is whether a reasonably careful ER physician, with the same information, would have caught the fracture or ordered further imaging. A qualified medical expert has to weigh in on that, which is why an attorney will typically want your records from the ER visit and any follow-up care before giving an opinion."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "Yes, for one category. California caps non-economic damages such as pain and suffering in medical malpractice cases, and that cap increases each year under MICRA. Economic losses like medical bills and lost wages are not subject to the same cap. An attorney can explain how the current figures apply to your situation."
+      },
+      {
+        "question": "My doctor apologized and said the outcome was just bad luck. Do I still have a case?",
+        "answer": "Possibly. A poor result is not malpractice on its own, so the apology itself does not settle anything either way. What matters is whether the care met the accepted standard, and that takes an independent review of your records by someone with the right medical background. Since the discovery deadline can be as short as one year, it is worth asking sooner rather than later."
+      }
+    ]
+  }
+}

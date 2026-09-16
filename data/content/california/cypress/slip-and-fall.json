@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "cypress slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Cypress Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Injured in a slip and fall in Cypress, CA? Get connected free to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Cypress store, apartment complex, or parking lot along Valley View Street or Ball Road can leave you with real injuries and real bills. LawProactive connects you at no cost with an independent attorney who handles premises liability claims in Orange County."
+  },
+  "about": {
+    "title": "Cypress Slip & Fall & Premises Liability Claims",
+    "longDescription": "Slip and fall cases in Cypress often happen in the same everyday places residents pass through constantly: grocery stores near Lincoln Avenue, apartment walkways off Walker Street, or retail lots along Ball Road. What separates a strong claim from a weak one usually comes down to proof — did the property owner or manager know about the wet floor, broken step, or uneven pavement, and did they fail to act on it? California law requires showing that notice, whether the hazard existed long enough that it should have been discovered or someone was actually told about it. Because surveillance footage at Cypress businesses is often overwritten within days or weeks, and because torn clothing, spilled liquids, or debris get cleaned up fast, early documentation matters. LawProactive doesn't practice law or promise any result — we simply connect you, free of charge, with an independent attorney in the network who can evaluate what happened and help you understand your options while evidence still exists.",
+    "commonInjuriesTitle": "Injuries Commonly Reported in Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures from bracing a fall",
+      "Torn knee ligaments (ACL/meniscus)",
+      "Head injuries and concussions",
+      "Shoulder dislocations or rotator cuff tears",
+      "Spinal disc injuries and chronic back pain"
+    ],
+    "ctaText": "Tell us what happened — get connected with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Acting Early Matters in a Cypress Premises Case",
+    "items": [
+      {
+        "title": "Notice Has to Be Proven",
+        "desc": "California requires showing the property owner knew or reasonably should have known about the hazard. An independent attorney can help gather maintenance logs, prior complaints, or incident reports that speak to that knowledge."
+      },
+      {
+        "title": "Surveillance Footage Disappears Fast",
+        "desc": "Many Cypress retailers and property managers overwrite security video within days. Getting a preservation request out quickly can be the difference between having footage and having none."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, a Claim",
+        "desc": "Even if you're found partly at fault for a fall, California's pure comparative fault rule allows you to still recover a share tied to the other party's responsibility."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell at a store on Valley View Street — what should I do first?",
+        "answer": "If you're able, take photos of the hazard, your injuries, and the surrounding area before anything is cleaned up or moved. Report the fall to a manager and ask that it be documented in writing, and try to get names of any witnesses nearby. From there, LawProactive can connect you with an independent attorney who can help request surveillance footage before it's deleted."
+      },
+      {
+        "question": "How long do I have to file a premises liability claim in California?",
+        "answer": "Generally you have two years from the date of the fall to file a lawsuit, though claims against a government-owned property, like a city building or park, carry a much shorter deadline. Because evidence like video and witness memory fades quickly, waiting even a few weeks can weaken a claim regardless of the legal deadline."
+      },
+      {
+        "question": "What if I was partly to blame for the fall, like not seeing a warning sign?",
+        "answer": "California follows a pure comparative fault system, meaning your recovery can be reduced by your percentage of fault rather than eliminated entirely. An independent attorney can help evaluate how much the specific facts — lighting, signage, or hazard visibility — might affect that percentage."
+      }
+    ]
+  }
+}

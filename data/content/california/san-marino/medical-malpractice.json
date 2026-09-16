@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "san-marino medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Marino Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Marino? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or medication error in San Marino leaves you or a loved one hurt, sorting out what happened can feel overwhelming. LawProactive connects you, at no cost, with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "San Marino Medical Malpractice Claims",
+    "longDescription": "San Marino residents often receive care through Los Angeles County hospital systems and specialty clinics outside city limits, which means a malpractice claim can involve providers, records, and insurers spread across several facilities. That complexity is part of why California built specific rules around these cases, including MICRA's strict notice and filing deadlines and its requirement for qualified medical expert review. A missed step in any part of that process can affect a case before it ever gets a real look. LawProactive doesn't practice law or represent clients directly — we're a free service that reviews what you share and connects you with an independent attorney in our network who takes California malpractice cases seriously. From there, the attorney can evaluate your medical records, talk with qualified experts, and explain honestly whether your situation meets the legal bar for malpractice, since a poor outcome by itself isn't enough under California law.",
+    "commonInjuriesTitle": "Injuries That Often Lead to Malpractice Review",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries during labor or delivery",
+      "Anesthesia complications",
+      "Failure to treat a worsening condition"
+    ],
+    "ctaText": "Talk with an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Matters in a California Malpractice Case",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives one year from when you discover the harm, capped at three years from the injury, plus a required 90-day pre-suit notice to the provider. Missing any one of these can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California law typically requires a qualified medical expert to weigh in before a malpractice claim can move forward. An attorney familiar with this process knows how to line up that review early."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "MICRA sets a statutory limit on non-economic damages, and that cap increases each year under current law. Understanding where the cap sits in a given year matters when an attorney evaluates a claim's scope."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I think a doctor missed something, but I'm not sure it's malpractice. What now?",
+        "answer": "That uncertainty is common, and it's exactly why California requires expert review before a case can proceed. A bad outcome alone doesn't establish malpractice, but an independent attorney can help determine whether the care fell below the accepted standard. LawProactive can connect you with someone who reviews these situations regularly."
+      },
+      {
+        "question": "Does it matter that I live in San Marino but was treated at a hospital elsewhere in Los Angeles County?",
+        "answer": "No, the treatment location matters more than your home address for legal purposes. Many San Marino residents are treated at nearby LA County facilities, and an attorney will look at where the care happened and which providers were involved. Your San Marino residence is simply part of your overall case picture."
+      },
+      {
+        "question": "How soon do I need to act after realizing something went wrong?",
+        "answer": "California generally requires filing within one year of discovering the harm, with an outer limit of three years from the injury itself, and a 90-day pre-suit notice is required before a lawsuit can be filed. These deadlines can be easy to miscalculate, so speaking with an attorney sooner rather than later helps protect your options."
+      }
+    ]
+  }
+}

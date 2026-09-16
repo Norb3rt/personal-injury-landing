@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "sausalito workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sausalito Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Sausalito? LawProactive connects injured workers with an independent attorney at no cost. Free, no obligation."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Sausalito, from a Bridgeway job site to a marina or shop near US-101, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "Sausalito Workplace Injury Claims",
+    "longDescription": "Sausalito's small footprint hides a mix of workplaces, waterfront businesses along Bridgeway, marine services, hospitality, retail, and contractors who travel in and out via US-101. When someone gets hurt on the job here, the first path is usually workers' compensation through the employer, regardless of who was at fault. But that's not always the end of the story. If a subcontractor, property owner, delivery driver, or piece of faulty equipment contributed to the injury, a separate claim against that third party may be possible alongside workers' comp. LawProactive doesn't practice law ourselves, we're a free connection service that matches injured workers in Sausalito with an independent attorney who can sort out which paths apply. There's no cost to find out where you stand, and no obligation to move forward until you're ready.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, docks, or scaffolding",
+      "Back and spinal strain from lifting or repetitive motion",
+      "Crush or equipment-related injuries",
+      "Vehicle collisions while working near Bridgeway or US-101",
+      "Burns or chemical exposure in kitchens or maintenance work",
+      "Slip-and-fall injuries on wet decks or marina surfaces"
+    ],
+    "ctaText": "Get matched with an independent attorney, free, no pressure."
+  },
+  "whyChoose": {
+    "title": "Why Sausalito Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Sort Out Which Claim Applies",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker can open a separate injury claim. An independent attorney can help identify whether that applies to your situation."
+      },
+      {
+        "title": "We Understand the Reporting Clock",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days. Missing that window can complicate things, so getting guidance early matters."
+      },
+      {
+        "title": "Retaliation Protections Are on Your Side",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a claim. If you're worried about your job, an attorney can explain your rights before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job site off Bridgeway. Do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer no matter who was at fault. However, if a third party, like a subcontractor, delivery driver, or property owner, contributed to your injury, you may also have a separate claim against them. An independent attorney can look at the details and tell you which paths are open."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim?",
+        "answer": "You generally need to report a workplace injury to your employer within 30 days. If a third-party claim applies, California generally allows two years from the date of injury to file that separate lawsuit. Waiting too long on either front can limit your options, so it helps to get clarity early."
+      },
+      {
+        "question": "Can my employer fire me for reporting an injury?",
+        "answer": "No, retaliation against an employee for reporting a workplace injury or pursuing a claim is illegal under California law. If you're being pressured or worried about your job because of an injury, an independent attorney can help you understand your protections and next steps."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "madera workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Madera Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Madera, CA? Get connected free to an independent attorney who can review your workers' comp and third-party options."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Madera, whether on a farm route off Rt 145 or a jobsite near Cleveland Avenue, LawProactive can connect you free with an attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "Madera Workplace Injury Claims",
+    "longDescription": "Madera's economy runs on agriculture, distribution, and construction, and workers in these fields often face real hazards, from equipment failures to vehicle collisions on corridors like Cleveland Avenue and Tozer Street. When a job injury happens, most workers assume their only option is filing a workers' compensation claim through their employer. That's often true, since California generally treats workers' comp as the exclusive remedy against an employer. But when a subcontractor, equipment manufacturer, property owner, or another driver contributed to the accident, a separate third-party injury claim may also be possible. Sorting out which path applies, and whether both apply, can be confusing, especially while recovering from an injury. LawProactive is a free service, not a law firm, that connects injured Madera workers with an independent attorney who can look at the details of the incident and explain the realistic options, without any upfront cost.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Fractures from falls at construction or agricultural sites",
+      "Crush injuries from machinery or heavy equipment",
+      "Vehicle-related injuries during work travel on local roads",
+      "Burns or chemical exposure incidents",
+      "Repetitive stress and joint injuries from manual labor"
+    ],
+    "ctaText": "Get connected free with an attorney who can review your workplace injury options."
+  },
+  "whyChoose": {
+    "title": "Why Madera Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Third-Party Path",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker may still be liable. An attorney can help identify whether that separate claim applies to your situation."
+      },
+      {
+        "title": "Knowing the Reporting Window",
+        "desc": "California generally requires reporting a workplace injury to your employer within 30 days. Missing that window can complicate a claim, so getting guidance early matters."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Retaliation for reporting a workplace injury is illegal in California. An attorney can help you understand your rights if you're worried about how reporting might affect your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near Cleveland Avenue in Madera. Does workers' comp cover that?",
+        "answer": "Possibly, since injuries during work-related travel are often covered by workers' comp. But if another driver caused the crash, you may also have a separate third-party claim against that driver, which carries its own 2-year deadline. An attorney can help sort out which claims apply."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury in Madera?",
+        "answer": "No, retaliation for reporting a workplace injury is illegal under California law. If you believe you've faced retaliation, it's worth having an attorney review what happened. LawProactive can connect you with someone free of charge to discuss it."
+      },
+      {
+        "question": "What if equipment failure caused my injury on a Madera jobsite?",
+        "answer": "If a piece of equipment malfunctioned due to a manufacturer's defect or a third party's negligence, you may have a claim separate from workers' comp. These third-party claims generally must be filed within two years. An independent attorney can evaluate whether this applies to your case."
+      }
+    ]
+  }
+}

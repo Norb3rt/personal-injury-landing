@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "santa-rosa product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Rosa Product Liability Lawyer | LawProactive",
+    "metaDescription": "Injured by a defective product in Santa Rosa? Get connected free with an independent Sonoma County attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When a product sold or used in Santa Rosa fails and hurts someone, California's strict liability rules can hold the maker, distributor, and seller accountable. LawProactive connects you, at no cost, with an independent attorney who handles defective product claims in Sonoma County."
+  },
+  "about": {
+    "title": "Santa Rosa Product Liability Claims",
+    "longDescription": "Most people in Santa Rosa never think about who built the ladder in the garage or the airbag in the dash until one of them fails. When that happens, California law treats the situation differently from an ordinary accident. Under strict liability, you generally do not have to prove the manufacturer was careless. What matters is whether the product had a defect in its design, its manufacturing, or its warnings, and whether that defect caused your injury. Responsibility can reach the company that made it, the distributor that moved it, and the store that sold it. Some Sonoma County cases grow out of traffic collisions; Santa Rosa logged 562 injury collisions in 2025, and a share of crashes on corridors like US-101 or Route 12 raise questions about tires, brakes, or restraint systems that did not perform as designed. Others involve household goods, power tools, medical devices, or children's products. LawProactive is a free connection service, not a law firm. The independent attorneys we connect you with work on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating appliances, chargers, or batteries",
+      "Lacerations and amputations from tools with failed guards",
+      "Fractures from collapsing ladders, chairs, or furniture",
+      "Crash injuries worsened by airbag or seatbelt failure",
+      "Illness or poisoning from contaminated food, supplements, or medications",
+      "Choking, strangulation, or fall injuries from children's products"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Santa Rosa Residents Use LawProactive for Product Cases",
+    "items": [
+      {
+        "title": "Attorneys who work with strict liability",
+        "desc": "In California, a product case usually turns on proving a defect and a causal link, not on proving negligence. The attorneys in our network build claims around that standard from the first conversation."
+      },
+      {
+        "title": "Guidance on preserving the product",
+        "desc": "The failed item, its packaging, and any receipts are often the most important evidence you have. Getting connected early means someone can tell you how to store them before they are lost or repaired."
+      },
+      {
+        "title": "The whole chain of distribution in view",
+        "desc": "Manufacturers, distributors, and retailers may each be liable under California law. An independent attorney can identify every party that handled the product before it reached your home in Santa Rosa."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag never deployed in a crash on US-101 near Santa Rosa. Could that be a product liability case?",
+        "answer": "It might be. If a restraint system, tire, or brake component failed to work as designed, the claim can extend beyond the other driver to the companies that made and sold that part. The vehicle itself becomes evidence, so try to keep it from being repaired, sold, or scrapped until an attorney has reviewed it. This is separate from, and can run alongside, a standard collision claim."
+      },
+      {
+        "question": "Do I have to prove the company was careless?",
+        "answer": "Generally, no. California product liability often runs on strict liability, meaning you typically need to show the product was defective in its design, manufacturing, or warnings and that the defect caused your injury. Whether the manufacturer meant well or followed its own procedures is usually not the deciding question."
+      },
+      {
+        "question": "I already threw away the box and instructions. Does that end my claim?",
+        "answer": "Not necessarily, but do not discard anything else. Keep the product itself in its current condition, along with any receipts, photos, or order confirmations you still have. An attorney can often track down manuals, recall notices, and warning labels through other sources, though the physical item remains the centerpiece of the case."
+      }
+    ]
+  }
+}

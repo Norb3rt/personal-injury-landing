@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "carson product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Carson Product Liability Attorney Connection | LawProactive",
+    "metaDescription": "Hurt by a defective product in Carson, CA? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A product bought or used in Carson should not send you to the hospital. If a defective item did, LawProactive can connect you at no cost with an independent attorney who handles California strict liability claims."
+  },
+  "about": {
+    "title": "Carson Product Liability Claims",
+    "longDescription": "Carson sits at a working crossroads of Los Angeles County, where warehouses, refineries, and retail centers along Avalon Boulevard and Carson Street move a steady stream of goods into homes and job sites. Most of those products work as intended. When one does not — a power tool that overheats, a car part that gives out on I-405 or SR-91, a medication whose label left something out — the people hurt often assume they must prove someone was careless. Under California law, that is usually not the burden. Product liability claims here typically rest on strict liability: you show the item had a design, manufacturing, or warning defect and that the defect caused your injury. Whether the maker was negligent is beside the point. Manufacturers, distributors, and the store that sold the item may each share responsibility. LawProactive is not a law firm. We are a free service that connects Carson residents with an independent personal injury attorney who takes these cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, appliances, or tools",
+      "Crush and amputation injuries from machinery guards that fail",
+      "Lacerations from blades, glass, or housings that break apart",
+      "Head and spinal injuries from collapsing furniture, ladders, or car seats",
+      "Poisoning or organ damage from contaminated food, drugs, or supplements",
+      "Crash injuries caused by defective tires, brakes, or airbags"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Carson Residents Use LawProactive",
+    "items": [
+      {
+        "title": "Strict liability, explained plainly",
+        "desc": "The attorney we connect you with can walk you through how California strict liability works, so you understand that proving a defect and causation is usually enough — not proving the company was negligent."
+      },
+      {
+        "title": "Help preserving the product",
+        "desc": "The item that hurt you is the heart of the case. An attorney can advise you right away on keeping it, its packaging, and receipts intact rather than tossing or returning it."
+      },
+      {
+        "title": "Every link in the supply chain",
+        "desc": "Manufacturers, distributors, and retailers may all be liable under California law. The attorneys in our network look at the whole chain, not just the name on the box."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My brakes or tire failed on the 405 near Carson. Is that a product liability case or a car accident case?",
+        "answer": "It can be both. Carson recorded 383 injury collisions in 2025, and while most involve driver error, some trace back to a part that did not perform as designed. If a defective component contributed, the manufacturer and seller may be liable under strict liability in addition to any driver claim. Keep the vehicle and the failed part exactly as they are until an attorney has looked at them."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was defective?",
+        "answer": "Generally, no. California strict liability focuses on the product, not the company's state of mind. You typically need to show a design, manufacturing, or warning defect existed and that it caused your injury. That said, an attorney will still gather evidence about how the product was made and sold to build the strongest claim."
+      },
+      {
+        "question": "What does it cost to get connected through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and we are not a law firm. The independent attorneys in our network work on contingency, meaning they are paid only if there is a recovery in your case. You can ask them about fee percentages and case costs before deciding anything."
+      }
+    ]
+  }
+}

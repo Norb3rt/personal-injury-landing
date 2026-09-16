@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "morro-bay workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Morro Bay Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Morro Bay? Get connected free with an independent attorney who can review your work injury or third-party claim."
+  },
+  "hero": {
+    "subtitle": "Whether you were injured on a fishing vessel, at a job site off South Bay Boulevard, or working a shift near the Embarcadero, LawProactive can connect you with an independent attorney who handles Morro Bay workplace injury matters at no upfront cost."
+  },
+  "about": {
+    "title": "Morro Bay Workplace Injury Claims",
+    "longDescription": "Morro Bay's economy runs on a mix of tourism, fishing, retail, and small-scale construction, and each of these trades carries its own injury risks — from slips on wet docks near the harbor to falls at job sites along Main Street and Atascadero Road. Most workplace injuries in California go through the workers' compensation system, which generally serves as the exclusive remedy against your employer no matter who was at fault. But when a subcontractor, equipment manufacturer, property owner, or another driver contributed to the accident, a separate third-party claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law — we're a free service that connects injured workers in Morro Bay with an independent attorney who can look at the details of your incident, explain your options, and help you understand whether a third-party claim applies to your situation. There's no fee unless your case results in a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or boat decks",
+      "Back and spine strain from repetitive lifting",
+      "Equipment or machinery-related injuries",
+      "Slip-and-fall accidents on wet or uneven surfaces",
+      "Injuries from being struck by vehicles or forklifts",
+      "Repetitive motion injuries from food service or retail work"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and comes with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Morro Bay Work Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California generally treats workers' compensation as the exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can still be separately liable. An attorney can help sort out whether your case has this added layer."
+      },
+      {
+        "title": "Reporting Deadlines Matter Early On",
+        "desc": "Workers generally need to report a job injury to their employer within 30 days to preserve comp benefits, and third-party claims carry a separate two-year deadline. Missing either window can limit your options, so early guidance matters."
+      },
+      {
+        "title": "Retaliation for Reporting Is Illegal",
+        "desc": "California law prohibits employers from punishing workers for reporting an on-the-job injury. If you're worried about your job security after an accident, an attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working near the Morro Bay harbor — does workers' comp still apply?",
+        "answer": "In most cases, yes — workers' compensation typically applies regardless of where in Morro Bay the injury happened, including harbor-adjacent or waterfront job sites. However, maritime work can sometimes involve different rules, so it's worth having an independent attorney review the specifics of your job and the incident."
+      },
+      {
+        "question": "Can I sue my employer directly for my injury?",
+        "answer": "Generally, no — California workers' compensation is usually the exclusive remedy against your employer, even if they were careless. That said, if a third party, like a contractor or manufacturer, contributed to your injury, you may have a separate claim against them worth exploring."
+      },
+      {
+        "question": "What if my employer says I waited too long to report my injury?",
+        "answer": "California generally requires injury reports within 30 days of the incident, so timing matters. An independent attorney can review your specific circumstances, including any exceptions that might apply, and help you understand where you stand."
+      }
+    ]
+  }
+}

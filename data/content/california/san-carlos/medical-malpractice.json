@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "san-carlos medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Carlos Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Carlos? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong at a San Carlos clinic or hospital, sorting out what happened can feel overwhelming. LawProactive connects you, free of charge, with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "San Carlos Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases in San Carlos, a San Mateo County community of nearly 30,000 residents, often involve local clinics, urgent care centers, or nearby hospital systems that serve this part of the Peninsula. These claims are different from a typical injury case: California's MICRA law requires a qualified medical expert to review the care you received, a strict notice period before any lawsuit can move forward, and firm deadlines tied to when the error was discovered. A bad medical outcome by itself doesn't mean malpractice occurred — the law requires showing that a provider deviated from the accepted standard of care and that this deviation caused harm. If you believe something went wrong with your treatment in San Carlos, LawProactive can connect you with an independent attorney, at no cost to you, who can help evaluate the details of your care and explain your options under California law.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect You On",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosing or prescription mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Understanding MICRA Matters in San Carlos",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives you one year from discovering the harm and no more than three years from the injury itself to act, and a 90-day pre-suit notice must be sent to the provider before a lawsuit is filed. Missing either window can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor medical result alone isn't enough to prove malpractice, California law generally requires a qualified medical expert to confirm that a provider's care fell below the accepted standard and caused injury. An independent attorney can help arrange this kind of review."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "MICRA places a statutory limit on non-economic damages such as pain and suffering, though this cap increases each year under current law. Understanding how that cap applies to your situation is something an attorney can walk you through directly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in San Carlos but received treatment at a facility outside the city — does that matter?",
+        "answer": "Not necessarily. What matters most is where the care was provided and which laws govern that provider, not simply your home address. An independent attorney can review where and how your treatment occurred to determine the right next steps."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the harm, and no more than three years from the date of the injury itself. There's also a required 90-day notice period before a lawsuit can be filed. Because these deadlines are strict, it helps to speak with an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No — a disappointing or difficult result doesn't by itself mean a provider did anything wrong. California law requires showing that the provider's care fell below an accepted medical standard and that this failure caused your injury. A qualified medical expert typically has to weigh in to support that kind of claim."
+      }
+    ]
+  }
+}

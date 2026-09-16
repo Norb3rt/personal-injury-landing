@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "american-canyon medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "American Canyon Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in American Canyon? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or medication error at a Napa County facility leaves you or a loved one worse off, American Canyon families deserve straight answers about what happened and what comes next."
+  },
+  "about": {
+    "title": "American Canyon Medical Malpractice Claims",
+    "longDescription": "American Canyon sits between larger Napa Valley and Solano County medical networks, which means residents here often travel for specialty care, referrals, or hospital admissions. When something goes wrong in that chain — a missed test result, a surgical mistake, a medication mix-up — it's not always obvious whether it was an unavoidable complication or a preventable error. California law sets a high bar for proving medical malpractice, and it moves on a strict clock. LawProactive doesn't practice law or take a cut of any settlement; we simply listen to what happened, then connect you at no cost with an independent attorney in our network who handles malpractice cases on contingency. If you're trying to figure out whether your experience with a local clinic, urgent care, or hospital rises to the level of malpractice, having someone review the medical record early can make a real difference in what options remain open to you.",
+    "commonInjuriesTitle": "Common Malpractice Scenarios We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosing or prescription mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What California Malpractice Law Means for Your Timeline",
+    "items": [
+      {
+        "title": "The Clock Starts Sooner Than You'd Think",
+        "desc": "Under MICRA, you generally have one year from when the harm was discovered, and never more than three years from the original injury, to file. Waiting to see if things improve can quietly cost you your claim."
+      },
+      {
+        "title": "A 90-Day Notice Comes Before Any Lawsuit",
+        "desc": "California requires a formal notice to the provider at least 90 days before a malpractice suit is filed, which affects how and when a case can move forward. An attorney can help make sure that notice is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad medical outcome isn't automatically malpractice, California cases typically need a qualified medical expert to establish that the care fell below the accepted standard. Getting that review started early gives your case the best chance to be evaluated fairly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery near American Canyon — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law recognizes that medicine carries inherent risk, so a poor result alone doesn't establish malpractice. What matters is whether the care you received fell below the standard a qualified provider should have met, which is why a medical expert review is usually part of any claim."
+      },
+      {
+        "question": "How long do I actually have to bring a claim in California?",
+        "answer": "Generally, it's one year from when you discovered or reasonably should have discovered the harm, capped at three years from the date of the injury itself. There's also a required 90-day notice period before filing suit, so the practical window to act is often shorter than it looks on paper."
+      },
+      {
+        "question": "Is there a limit on what I could recover for pain and suffering?",
+        "answer": "California's MICRA law caps non-economic damages — things like pain and suffering — though that cap rises each year under current law. Economic damages, such as medical bills and lost income, are handled separately and aren't subject to that same cap."
+      }
+    ]
+  }
+}

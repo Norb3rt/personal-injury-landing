@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "isleton city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Isleton, CA Personal Injury Help | Free Connection",
+    "metaDescription": "Injured in Isleton, Sacramento County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Isleton, we'll connect you with an independent attorney at no cost. Serving residents throughout Sacramento County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Isleton, California",
+    "longDescription": "Isleton is a small Delta town, and its roads reflect that — SR-160, H Street, SR-160 Northbound, and Isleton Road handle most of the local traffic. Public records for the most recent final crash year show no reported injury collisions and no traffic deaths in Isleton, which is consistent with the town's small population of around 804 people and its lighter traffic volume compared to larger Sacramento County cities. That said, collisions still happen here, including on weekends — reported crashes in the area tend to cluster on Saturday afternoons between 4 and 6 p.m., a pattern worth knowing whether you're a driver, cyclist, or pedestrian passing through town. If you've been hurt in or around Isleton, whether on SR-160 or a quieter side street, LawProactive can help. We are a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we don't decide your case or handle your claim ourselves. The attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs you nothing and puts you in touch with someone who can explain your options under California law.",
+    "commonInjuriesTitle": "Types of Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end impacts",
+      "Broken bones from vehicle collisions",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from pedestrian or bicycle accidents"
+    ],
+    "ctaText": "Get connected with an independent attorney today — there's no cost to reach out."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but claims against a government entity can require notice in as little as six months. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on What You've Suffered",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in typical injury cases. That means your losses beyond medical bills and lost wages can still be part of the conversation."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless you actually recover money. That removes the financial barrier to finding out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while you're unable to work",
+      "Feeling unsure whether you can afford to hire an attorney",
+      "Being confused about how much time you have left to act",
+      "Not knowing if partial fault means you have no case at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Isleton?",
+        "answer": "In most cases, California law gives you two years from the date of the accident to file a personal injury lawsuit. If your claim involves a government entity, such as a public road agency, the deadline to file a notice can be as short as six months, so it's worth acting quickly."
+      },
+      {
+        "question": "Where do crashes tend to happen in Isleton?",
+        "answer": "Public collision records show the highest volumes of reported crashes along SR-160, H Street, SR-160 Northbound, and Isleton Road, with reports tending to cluster on Saturdays between roughly 4 and 6 p.m. These are simply the corridors with the most recorded activity, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some responsibility for what happened. Your total recovery would be reduced by your percentage of fault, but it wouldn't bar you from filing a claim."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in our network work on contingency, so they only get paid if you recover compensation."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases, California does not cap non-economic damages like pain and suffering. This is different from some other states, so it's worth discussing your specific situation with an attorney to understand what may apply to you."
+      }
+    ]
+  }
+}

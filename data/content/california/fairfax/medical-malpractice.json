@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "fairfax medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fairfax Medical Malpractice Claims | LawProactive",
+    "metaDescription": "Hurt by a medical error in Fairfax, CA? Get connected free with an independent Marin County medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Fairfax medical provider's mistake leaves you injured, understanding your options under California's strict malpractice rules matters. LawProactive connects you at no cost with an independent attorney familiar with Marin County medical malpractice claims."
+  },
+  "about": {
+    "title": "Fairfax Medical Malpractice Claims",
+    "longDescription": "Fairfax residents rely on nearby Marin County clinics and hospitals for care, and most visits go as expected. But when a diagnosis is missed, a surgery goes wrong, or medication is mishandled, the harm can be serious and lasting. California's medical malpractice laws are notably strict compared to other injury claims — tight filing windows, a required pre-suit notice, and a cap on non-economic damages all shape how these cases move forward. A small town like Fairfax means fewer local specialists, which can mean care was referred out to larger Marin or Bay Area facilities, adding another layer to sort out. If you believe a healthcare provider's error caused your injury, it helps to talk with someone who understands how these claims are evaluated. LawProactive doesn't practice law — we simply connect you, free of charge, with an independent attorney who can review what happened and explain your options in plain terms.",
+    "commonInjuriesTitle": "Common Types of Medical Malpractice Cases",
+    "commonInjuries": [
+      "Misdiagnosis or delayed diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Speak with an independent attorney about your situation — free and confidential."
+  },
+  "whyChoose": {
+    "title": "What Fairfax Patients Should Know About MICRA",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally requires malpractice claims within one year of discovering the injury, and never more than three years from when it occurred. Missing these windows can end a claim before it starts, so timing matters."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before filing suit, California law requires giving the healthcare provider 90 days' advance notice. An attorney can help make sure this step is handled correctly and doesn't jeopardize your claim."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "A bad medical outcome by itself isn't proof of malpractice — California generally requires a qualified medical expert to support the claim. An independent attorney can help arrange the kind of case evaluation this standard demands."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Fairfax?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it happened. These deadlines are strict and can vary by circumstance, so it's best to have an attorney review your specific timeline as soon as possible."
+      },
+      {
+        "question": "Is there a limit on what I can recover for a malpractice injury?",
+        "answer": "California caps non-economic damages, like pain and suffering, in medical malpractice cases, though the cap rises each year under current law. Economic damages, such as medical bills and lost income, are generally not subject to this cap. An attorney can walk through how this applies to your situation."
+      },
+      {
+        "question": "I was treated at a clinic near Fairfax but the specialist was somewhere else in Marin County — does that change anything?",
+        "answer": "It can add complexity, since more than one provider or facility may be involved in reviewing what happened. This doesn't prevent you from pursuing a claim, but it's exactly the kind of detail an independent attorney should look at closely before any notice or filing occurs."
+      },
+      {
+        "question": "Does a bad outcome automatically mean malpractice occurred?",
+        "answer": "No — California law requires more than just a disappointing result; it requires showing the provider failed to meet the accepted standard of care. That's why a qualified medical expert is almost always needed to support a claim. An attorney can help determine whether your case has that kind of support."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "culver-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Culver City, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Culver City? Free connection to an LA County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Sepulveda Boulevard or a slip-and-fall near downtown Culver City, we'll connect you with an independent attorney at no cost. Serving injured residents throughout Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Culver City, California",
+    "longDescription": "Culver City sees its share of collisions along busy corridors like Washington Boulevard, Sepulveda Boulevard, and the stretch of I-405 running through town. In the most recent full year on record, the city logged 80 injury collisions, with 113 people hurt and 1 traffic death — numbers that reflect how much local traffic funnels through these same streets every day, especially heading into the weekend rush on Fridays between 4 and 6 p.m. If you were hurt in one of these crashes, or in a fall, dog bite, or another type of accident, sorting out what comes next can feel overwhelming on top of dealing with pain, missed work, and medical bills. LawProactive is a free service — we are not a law firm — that connects injured people in Culver City with an independent personal injury attorney who can review the details of what happened. There's no cost to get connected, and any attorney you work with through our network operates on contingency, meaning no fee unless there's a recovery. You focus on healing; let someone with the right experience look at your situation.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from dog bites or falls"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Act Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but if a government entity is involved, that window can shrink to as little as six months. Missing a deadline can end your ability to recover anything."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of the fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages — like pain and suffering — in ordinary injury cases. That matters when an injury affects your daily life long after medical bills are paid."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to have your case reviewed or pursued. Legal fees only come out of a settlement or award if you win."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while unable to work",
+      "Fear that admitting any fault means losing the right to compensation",
+      "Uncertainty about how much time is left to take legal action",
+      "Feeling like insurance companies are more interested in a quick payout than a fair one"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Culver City?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a personal injury claim. If your claim involves a government entity, such as a city vehicle or public property, that deadline can be as short as six months, so it's important not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some responsibility for what happened. Your total recovery would be reduced by your percentage of fault, but it wouldn't bar you from recovering entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Culver City?",
+        "answer": "Public collision records show higher volumes of reported crashes along corridors like Washington Boulevard, Sepulveda Boulevard, and I-405, with reports tending to peak on Fridays between 4 and 6 p.m. These are simply counts from public records, not a judgment about any particular road or area."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves — we simply help connect injured people with an independent attorney in our network. Any fees related to your case would only apply if the attorney you work with takes on your case and recovers compensation."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases in California, there is no cap on non-economic damages like pain and suffering. This is different from some other states, and it can matter significantly depending on how an injury has affected your daily life."
+      }
+    ]
+  }
+}

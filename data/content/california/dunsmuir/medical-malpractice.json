@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "dunsmuir medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dunsmuir Medical Malpractice Attorney Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Dunsmuir? Get connected free to an independent Siskiyou County medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or treatment goes wrong in Dunsmuir, the aftermath can be confusing and isolating in a small mountain town with limited nearby specialists. LawProactive can connect you at no cost with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Dunsmuir Medical Malpractice Claims",
+    "longDescription": "Dunsmuir sits along the I-5 corridor in Siskiyou County, and residents here often travel outside the immediate area for specialized medical care, which can add complications when something goes wrong during treatment. Whether the issue arose at a local clinic, an urgent care visit, or a hospital further down the corridor, medical malpractice cases hinge on proving that a provider departed from the accepted standard of care and that departure caused real harm. A disappointing result or a difficult recovery isn't automatically malpractice — California law requires a qualified medical expert to weigh in on whether care fell below professional standards. LawProactive doesn't practice law itself; we simply connect Dunsmuir residents with an independent attorney who can review medical records, evaluate timing under California's strict rules, and explain what options may exist. There's no cost to start that conversation, and no obligation to move forward until you understand where you stand.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect People About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or complications",
+      "Medication mistakes or dosage errors",
+      "Birth injuries to mother or infant",
+      "Anesthesia errors",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Dunsmuir Residents Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Timelines Are Strict",
+        "desc": "California generally gives one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim, plus a required 90-day pre-suit notice. Missing these windows can end a case before it starts, which matters even more when records are held at a hospital outside Siskiyou County."
+      },
+      {
+        "title": "Damage Caps Change Every Year",
+        "desc": "California's cap on non-economic damages in medical malpractice cases rises annually under MICRA, and understanding the current figure is part of evaluating any claim. An attorney can walk you through how that cap may apply to your specific circumstances."
+      },
+      {
+        "title": "Expert Review Is Required, Not Optional",
+        "desc": "A qualified medical expert almost always has to confirm that a provider's care fell below the accepted standard before a malpractice claim can move forward. LawProactive connects you with attorneys equipped to arrange that kind of medical review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How do I know if what happened to me counts as malpractice?",
+        "answer": "A bad outcome by itself doesn't mean malpractice occurred — the question is whether the provider's care fell below what a reasonably careful professional would have done. That determination typically requires review by a qualified medical expert. An independent attorney can help arrange that review after looking at your medical records."
+      },
+      {
+        "question": "Does it matter that I live in a small town like Dunsmuir?",
+        "answer": "It can. Many Dunsmuir residents receive care at clinics or hospitals further along the I-5 corridor, which means records and providers may be located outside Siskiyou County. An attorney familiar with these logistics can help track down the right documentation and identify where a claim should be filed."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Under MICRA, you generally have one year from when you discovered the harm, and no more than three years from the date of injury, though there are exceptions. A 90-day pre-suit notice is also typically required before filing. Because these deadlines are unforgiving, it's worth discussing your timeline with an attorney as soon as possible."
+      }
+    ]
+  }
+}

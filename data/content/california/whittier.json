@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "whittier city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Whittier, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Whittier? LawProactive connects Los Angeles County residents with an independent injury attorney free. 2 years to file; no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end collision on Whittier Boulevard, a fall at a store, or a bicycle crash left you injured, LawProactive connects you with an independent personal injury attorney at no cost. We serve Whittier and all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Whittier, California",
+    "longDescription": "Whittier sits in the southeastern part of Los Angeles County, and its main streets carry a lot of daily traffic. Public records for 2025, the most recent complete year, show 443 injury collisions inside city limits, leaving 599 people hurt and 7 people dead. The largest share of those reports came from four corridors: Whittier Boulevard, Lambert Road, Beverly Boulevard and Painter Avenue. Fridays between 5 p.m. and 7 p.m. account for the busiest stretch of the week. Behind every one of those numbers is someone dealing with an emergency room bill, a car that no longer runs, or a job they can't get back to yet. If that describes you, LawProactive can help you find your footing. We are a free service that connects injured people with an independent personal injury attorney who handles cases in Whittier and the rest of Los Angeles County. We are not a law firm, and we do not give legal advice. What we do is listen to what happened, then match you with a lawyer who can evaluate your claim. The attorneys in our network work on contingency. That means no fee unless there is a recovery. Under California law you generally have two years to file, and shorter deadlines apply when a city or county is involved, so starting early matters.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Whittier Residents",
+    "commonInjuries": [
+      "Whiplash and other neck strains from rear-end collisions",
+      "Concussions and traumatic brain injuries",
+      "Broken arms, wrists and collarbones",
+      "Herniated discs and lower back injuries",
+      "Road rash and fractures from motorcycle or bicycle crashes",
+      "Knee and hip injuries from slip-and-fall incidents"
+    ],
+    "ctaText": "Tell us what happened. We'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Whittier Claim",
+    "items": [
+      {
+        "title": "Two Years, Sometimes Much Less",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a government entity such as the City of Whittier, Los Angeles County or a transit agency may be responsible, the window to file a claim can be as short as six months."
+      },
+      {
+        "title": "Partial Fault Doesn't Close the Door",
+        "desc": "California uses pure comparative fault. If you were partly responsible for a crash on Lambert Road, your recovery is reduced by your share of the blame, but you are not barred from recovering."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "In ordinary personal injury cases, California places no cap on non-economic damages. Your losses beyond medical bills and missed paychecks, such as pain, sleeplessness or lost enjoyment of daily life, can be part of the claim."
+      },
+      {
+        "title": "Contingency Fees, Not Retainers",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay nothing up front, and there is no attorney fee unless there is a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "My doctor wants follow-up visits but I'm not sure who's paying for them.",
+      "I missed shifts at work and the bills didn't stop coming.",
+      "I was told I might be partly at fault and I'm worried that ends everything."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do most injury crashes in Whittier happen?",
+        "answer": "According to public collision records, the highest counts in Whittier are reported along Whittier Boulevard, Lambert Road, Beverly Boulevard and Painter Avenue. These are simply the streets with the largest number of reported incidents, which tends to track with how heavily they are traveled. Records also show reports peaking on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not give legal advice. We take in the basics of what happened and match you with an independent personal injury attorney who handles cases in Los Angeles County. Any attorney-client relationship is between you and that lawyer."
+      },
+      {
+        "question": "How long do I have to file a claim after a crash in Whittier?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date of the injury. When a public agency may share responsibility, for example a city vehicle or a poorly maintained public roadway, a claim often must be filed within six months. Because these deadlines vary, it helps to talk with an attorney early."
+      },
+      {
+        "question": "What if the insurance company says I was partly to blame?",
+        "answer": "California follows pure comparative fault, so partial responsibility does not eliminate your claim. Your compensation is reduced in proportion to your share of fault, whatever that percentage turns out to be. An attorney can review the police report and evidence to challenge an insurer's version of who was at fault."
+      },
+      {
+        "question": "What will it cost me to work with an attorney through LawProactive?",
+        "answer": "Our connection service is free. The attorneys in our network work on a contingency basis, which means there is no attorney fee unless there is a recovery in your case. Fee terms are spelled out in a written agreement with the attorney before any work begins."
+      }
+    ]
+  }
+}

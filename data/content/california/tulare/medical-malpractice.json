@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "tulare medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tulare Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Tulare? LawProactive connects you free with an independent attorney to review your case. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Tulare hospital or clinic visit ends in a preventable injury, understanding your options matters. LawProactive can connect you with an independent attorney familiar with California's medical malpractice rules at no cost to you."
+  },
+  "about": {
+    "title": "Tulare Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases in Tulare often stem from care received at local hospitals, urgent care clinics, or physician offices serving this Tulare County community of over 62,000 residents. Whether the concern involves a delayed diagnosis, a surgical complication, or a medication error, these cases hinge on whether the care fell below an accepted medical standard — not simply whether the outcome was disappointing. California law places specific procedural requirements on these claims, including a pre-suit notice period and firm filing deadlines, which makes early guidance valuable. LawProactive doesn't practice law or handle your case directly; instead, we connect Tulare residents with an independent attorney who can evaluate the medical records, determine whether a qualified expert supports a malpractice theory, and explain next steps. There's no cost to get connected, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Birth injuries to mother or newborn",
+      "Medication or dosage errors",
+      "Anesthesia complications",
+      "Failure to treat or monitor a known condition"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Tulare Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Are Strict and Short",
+        "desc": "California generally gives one year from when you discover the injury, and no more than three years from the injury itself, to bring a claim. A 90-day pre-suit notice is also required before filing, so early action matters."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a bad medical outcome alone isn't proof of malpractice, California claims almost always need a qualified medical expert to establish that the standard of care was breached."
+      },
+      {
+        "title": "Damages Caps Change Over Time",
+        "desc": "California's cap on non-economic damages rises annually under MICRA, so an attorney familiar with the current figures can help set realistic expectations from the start."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Tulare?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the injury, with an outer limit of three years from the date of injury. A required 90-day pre-suit notice must also be sent before a lawsuit is filed, so it's wise to act sooner rather than later."
+      },
+      {
+        "question": "Does a poor medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law requires showing that a healthcare provider's care fell below the accepted medical standard, not just that the result was unfortunate. This is why a qualified medical expert almost always has to review the records before a claim can move forward."
+      },
+      {
+        "question": "I was treated at a facility near Bardsley or SR-99 in Tulare — does location matter for my claim?",
+        "answer": "The specific facility or corridor doesn't change the legal standard, but records tied to that provider's location can help an attorney identify who was involved in your care. What matters most is documenting the treatment timeline and getting medical records reviewed promptly."
+      }
+    ]
+  }
+}

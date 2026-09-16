@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "mill-valley workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mill Valley Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Mill Valley? Get connected free to an independent CA attorney who handles third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Mill Valley, LawProactive can connect you with an independent attorney who understands both workers' comp and any third-party claim that might apply to your situation."
+  },
+  "about": {
+    "title": "Mill Valley Workplace Injury Claims",
+    "longDescription": "Mill Valley's small footprint hides a mix of work settings, from retail shops along Miller Avenue to contractors and delivery drivers moving between job sites near Camino Alto, E Blithedale Avenue, and US-101. When someone is injured on the job here, California law generally routes the claim through workers' compensation, which pays regardless of fault but limits what you can recover from your employer directly. That's not always the end of the story, though. If a subcontractor, property owner, equipment manufacturer, or another driver on the road contributed to your injury, a separate third-party claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law or handle claims itself. We simply connect injured workers in Mill Valley with an independent attorney in our network who can review the details, explain your options, and take on a case at no upfront cost to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connections For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven work surfaces",
+      "Vehicle collisions while driving for work",
+      "Repetitive strain and overuse injuries",
+      "Equipment or machinery-related injuries",
+      "Struck-by or falling object incidents",
+      "Injuries from slips on wet or icy surfaces at a job site"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Automatically Ruled Out",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party like a subcontractor, property owner, or equipment maker can still be held separately accountable. An independent attorney can help sort out whether that applies to your case."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires reporting a workplace injury to your employer within 30 days, and a related third-party claim carries its own 2-year deadline. Missing either window can limit your options, so timing matters."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or pursuing a claim. If you're worried about your job, an independent attorney can help you understand your protections before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near US-101 or Camino Alto — does workers' comp cover that?",
+        "answer": "Generally, yes, if you were injured while performing job duties, including driving, workers' compensation likely applies regardless of fault. However, if another driver caused the crash, there may also be a separate third-party claim against that driver. An independent attorney can look at the specifics of what happened on the road."
+      },
+      {
+        "question": "My employer says I can't sue them for my injury. Is that true?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer, meaning you generally can't file a separate lawsuit against them for a workplace injury. But this exclusivity doesn't extend to other parties whose negligence contributed to your injury, like a subcontractor or equipment supplier. That distinction is worth discussing with an attorney."
+      },
+      {
+        "question": "What if my employer is based outside Mill Valley but I work here?",
+        "answer": "California workers' comp rules generally follow where the work is performed and where the employment relationship is based, not just the physical location of the injury. If you were working in Mill Valley when you were hurt, that typically supports a claim regardless of where your employer's office sits. An attorney can confirm how this applies to your specific job arrangement."
+      }
+    ]
+  }
+}

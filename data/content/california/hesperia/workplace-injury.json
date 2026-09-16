@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "hesperia workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hesperia Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Hesperia? Learn how workers' comp and third-party claims differ, and get connected free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Hurt while working in Hesperia, whether on a job site off Bear Valley Road or driving a route along I-15? We connect you, at no cost, with an independent attorney who can explain what workers' comp covers and whether a separate claim exists."
+  },
+  "about": {
+    "title": "Hesperia Workplace Injury Claims",
+    "longDescription": "Hesperia's workforce spends a lot of its day on the move. Warehouse and distribution jobs cluster near I-15, delivery routes run along Main Street and Bear Valley Road, and construction crews follow the area's growth. When someone gets hurt doing that work, the first question is usually simple: who pays? In California, your employer's workers' compensation coverage is normally the only route against the employer itself, regardless of fault. It covers medical care and part of your lost wages, but not pain or the full weight of what changed. A separate personal injury claim becomes possible when a third party contributed — a subcontractor on a Hesperia job site, a property owner who ignored a hazard, the maker of a defective tool, or another driver who hit you while you were working. Public records list 442 injury collisions in Hesperia for 2025, and people driving for work share those same roads. LawProactive is a free service that connects you with an independent attorney who can sort out which paths fit your situation.",
+    "commonInjuriesTitle": "Injuries We Often See in Hesperia Workplace Claims",
+    "commonInjuries": [
+      "Back and spine injuries from lifting or repetitive strain",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Crush and pinch injuries from forklifts or machinery",
+      "Heat illness during outdoor work in the High Desert",
+      "Fractures and head trauma from work-related vehicle collisions",
+      "Burns, lacerations, and injuries from defective equipment"
+    ],
+    "ctaText": "Get connected with an independent Hesperia workplace injury attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Hesperia Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Systems, One Clear Explanation",
+        "desc": "Workers' compensation is usually your exclusive remedy against your employer, but a negligent third party can open a separate injury claim. The attorney you're matched with can walk you through both without the jargon."
+      },
+      {
+        "title": "Deadlines Handled Early",
+        "desc": "You generally need to report a work injury to your employer within 30 days, and any third-party claim carries a two-year deadline. Getting connected quickly helps make sure nothing slips."
+      },
+      {
+        "title": "Protection Against Pushback",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting an injury or filing a claim. An independent attorney can step in if your hours, pay, or job status change after you speak up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver while making deliveries on Main Street in Hesperia. Is that just a workers' comp case?",
+        "answer": "Not necessarily. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of fault. But the other driver is a third party, so you may also have a separate personal injury claim against them under California's two-year deadline. An attorney can look at both and explain how they interact."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury?",
+        "answer": "No. Retaliation for reporting an injury or filing a workers' compensation claim is illegal in California. If you notice your schedule shrinking or your position changing after you report, tell your attorney right away so it can be documented."
+      },
+      {
+        "question": "How much does it cost to use LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney — we are not a law firm and do not charge you for the connection. Attorneys in the network typically work on contingency, meaning there is no fee unless there is a recovery."
+      }
+    ]
+  }
+}

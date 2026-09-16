@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "jackson workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Jackson CA Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Jackson? Get connected free with an independent attorney who handles workers' comp and third-party claims in Amador County."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Jackson, whether on a job site near Rt 49/88 or inside an Amador County business, LawProactive can connect you with an independent attorney at no cost to figure out what your claim really involves."
+  },
+  "about": {
+    "title": "Jackson Workplace Injury Claims",
+    "longDescription": "Workplace injuries in a town the size of Jackson often involve small crews, family-run shops, or contractors moving between job sites along Rt 49 and State Route 88. When someone gets hurt, the instinct is to assume workers' compensation is the only path forward, and usually it is the main one. But California law also allows a separate claim against a negligent third party, such as an equipment manufacturer, a subcontractor, or a property owner, when their carelessness contributed to the injury. Sorting out which category your situation falls into matters, because it affects what you can recover and how quickly you need to act. LawProactive doesn't handle claims itself. We're a free connection service that puts injured workers in Jackson in touch with an independent attorney who can look at the facts, explain the workers' comp process, and flag any third-party angle worth pursuing before deadlines close in.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders or scaffolding",
+      "Equipment and machinery accidents",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle-related injuries on the job (near Rt 49, Rt 88)",
+      "Slip-and-fall incidents at worksites",
+      "Injuries from defective tools or equipment"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, free and with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Injured Workers in Jackson Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the Exclusive-Remedy Rule",
+        "desc": "California generally requires injured workers to go through workers' compensation rather than sue their employer directly. An attorney can help you understand how this rule applies to your specific job and injury."
+      },
+      {
+        "title": "Third-Party Claims Get Looked At Too",
+        "desc": "If a subcontractor, property owner, or equipment maker contributed to your injury, that may open a separate legal path outside workers' comp. These claims carry their own two-year deadline, so timing matters."
+      },
+      {
+        "title": "Retaliation Protections Are Explained Clearly",
+        "desc": "It's illegal for an employer to punish you for reporting an injury, and you generally have 30 days to make that report. An attorney can walk you through what protection actually looks like in practice."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work for a small employer in Jackson. Does workers' comp still apply?",
+        "answer": "In California, most employers, regardless of size, are required to carry workers' compensation coverage. Even a small shop or family business in Jackson typically falls under this system. An independent attorney can confirm how it applies to your specific employer."
+      },
+      {
+        "question": "Can I sue my employer if I was hurt at work in Amador County?",
+        "answer": "Generally, no. Workers' compensation is usually the exclusive remedy against your employer regardless of fault, meaning you can't sue them directly in most cases. However, if a third party, like a subcontractor or equipment maker, contributed to your injury, a separate claim may be possible."
+      },
+      {
+        "question": "How long do I have to report a workplace injury?",
+        "answer": "You generally need to notify your employer within 30 days of the injury to protect your workers' comp rights. Waiting longer can complicate your claim, so it's worth reporting as soon as you're able. An attorney can help if you're unsure whether you missed that window."
+      },
+      {
+        "question": "What if my injury happened on Route 49 or Route 88 while working?",
+        "answer": "Injuries that happen while driving for work, including along corridors like Rt 49/88, can sometimes involve both workers' comp and a separate claim against another driver. These situations get complicated quickly, which is why it helps to have an independent attorney review the specifics."
+      }
+    ]
+  }
+}

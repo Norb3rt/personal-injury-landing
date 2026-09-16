@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "eastvale workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Eastvale Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Eastvale? Get connected free with an independent attorney who reviews workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Eastvale's warehouses, distribution centers, and job sites along I-15 and Hamner Avenue see their share of on-the-job injuries. LawProactive can connect you with an independent attorney to sort out what your workers' comp claim covers—and whether a third party shares the blame."
+  },
+  "about": {
+    "title": "Eastvale Workplace Injury Claims",
+    "longDescription": "Eastvale's logistics and warehouse corridors near I-15 and Limonite Avenue keep a steady stream of trucks, forklifts, and heavy equipment moving through town, and that kind of work carries real risk. When someone is hurt on the job here, California's workers' compensation system is usually the first stop, covering medical bills and partial wage loss regardless of fault. But that system doesn't always tell the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the accident, a separate injury claim against that third party may be possible alongside workers' comp. LawProactive doesn't practice law or handle claims directly—we simply connect injured workers in Eastvale with an independent attorney who can look at the details, explain the options in plain terms, and help figure out which paths apply. There's no cost to start the conversation.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Warehouse and forklift accidents",
+      "Falls from ladders or loading docks",
+      "Repetitive strain and back injuries",
+      "Equipment and machinery malfunctions",
+      "Struck-by or crush injuries on job sites",
+      "Injuries from work-related vehicle collisions"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury—free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Eastvale Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Full Picture",
+        "desc": "Workers' compensation is generally the exclusive remedy against your employer no matter who was at fault, but it doesn't rule out a separate claim against a negligent third party like a subcontractor or equipment maker."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California law gives you 30 days to report a workplace injury to your employer, and missing that window can complicate your claim—an attorney can help you understand what still applies to your situation."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "Employers cannot legally punish you for reporting an injury or filing a claim, and if a third-party claim is involved, that separate case follows California's standard two-year deadline."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a warehouse job near I-15 in Eastvale—do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is your primary path against your employer since it applies regardless of fault. However, if equipment failure, a subcontractor, or another company's negligence contributed to your injury, a separate third-party claim may also be possible. An independent attorney can review the specifics and explain which routes make sense."
+      },
+      {
+        "question": "What if my employer tries to punish me for reporting an injury?",
+        "answer": "California law prohibits retaliation against employees who report workplace injuries or file workers' comp claims. If you believe you've faced retaliation, that's worth discussing with an attorney right away, since it can affect both your job and your claim."
+      },
+      {
+        "question": "How long do I have to take action after a workplace injury in Eastvale?",
+        "answer": "You generally need to report the injury to your employer within 30 days to preserve your workers' comp rights. If a third party is involved, California law typically allows two years from the date of injury to file that separate claim, so getting guidance early matters."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "ukiah city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ukiah, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Mendocino County? Free connection to an independent Ukiah personal injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on State Street or suffered a slip-and-fall injury elsewhere in Ukiah, we can connect you with an independent attorney at no cost, serving all of Mendocino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Ukiah, California",
+    "longDescription": "Ukiah is a small city, but its roads see a steady stream of traffic accidents. In the most recent full year on record, Ukiah logged 48 injury collisions and 53 people injured, with no traffic deaths reported. Public-record data shows crash reports cluster along N State Street, S State Street, Talmage Road, and Airport Park Boulevard, with Tuesday afternoons between 3 and 5 p.m. showing more reported incidents than other times. If you were hurt in one of these collisions, or in any other kind of accident around town, sorting out medical bills, insurance calls, and missed work can feel overwhelming on top of recovering physically. LawProactive is a free service that connects injured people in Ukiah and throughout Mendocino County with an independent personal injury attorney — we are not a law firm ourselves, and we never charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and puts you in touch with someone who can look at the specifics of your situation.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Emotional distress following a crash"
+    ],
+    "ctaText": "Find out if you have a case — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney After an Injury",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government agency can require notice in as little as six months. Waiting too long can permanently close the door on your claim."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the accident. Your compensation is simply adjusted to reflect your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in standard injury cases. That means compensation isn't artificially limited to medical bills and lost wages alone."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. This lets injured people get legal help without worrying about hourly rates or retainers."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if the accident was partly your fault",
+      "Wondering whether it's too late to do anything at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and connecting you with an independent attorney costs you nothing upfront. If you move forward with an attorney, they typically work on contingency, meaning they only get paid if you recover compensation."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a connection service that links injured people with independent personal injury attorneys. We don't provide legal representation ourselves; the attorney you're connected with handles your case."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Ukiah?",
+        "answer": "In most California personal injury cases, you generally have two years from the date of the injury to file a claim. If a government entity was involved, such as a city vehicle, the deadline to file a notice can be as short as six months, so it's worth getting information sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to happen in Ukiah?",
+        "answer": "Public-record collision counts show reports clustering along N State Street, S State Street, Talmage Road, and Airport Park Boulevard, with more reports on Tuesday afternoons between 3 and 5 p.m. than other times. This reflects reported collision volume only, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still pursue compensation even if you share some responsibility for the accident. Your recovery would be reduced by your percentage of fault, but it isn't barred outright."
+      }
+    ]
+  }
+}

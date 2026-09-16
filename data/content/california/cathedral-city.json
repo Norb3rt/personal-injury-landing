@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "cathedral-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Cathedral City, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Cathedral City? Riverside County residents have 2 years to file. Connect free with an attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you or someone you love was hurt in a car crash or fall in Cathedral City, we can connect you free of charge with an independent attorney serving Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Cathedral City, California",
+    "longDescription": "Cathedral City sits at the edge of the Coachella Valley, and its streets carry a steady mix of local traffic and visitors passing through on Date Palm Drive, Ramon Road, Cathedral Canyon Drive, and E Palm Canyon Drive. Public records for the most recent year show 105 injury collisions in the city, with 133 people injured and 5 traffic deaths — numbers that translate into real families dealing with medical bills, missed work, and long recoveries. Reports also show that collisions tend to cluster on Saturdays between midnight and 2 a.m., a pattern worth knowing if you're trying to understand how your own crash happened. If you were hurt in one of these incidents, sorting out insurance claims and paperwork on top of healing can feel like too much at once. LawProactive is a free service that connects injured people in Cathedral City with an independent personal injury attorney — we are not a law firm, and we don't charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and can help you understand your options.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Soft tissue and joint injuries",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection with an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "You generally have two years from the date of injury to file a personal injury claim in California, though claims against a government agency can require notice in as little as six months. Waiting too long can mean losing your right to recover."
+      },
+      {
+        "title": "Comparative Fault Won't Automatically Block You",
+        "desc": "California follows pure comparative fault, so even if you're partly responsible for what happened, you can still recover compensation reduced by your share of fault. An attorney can help make sure fault is assessed fairly."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In most ordinary injury cases, California places no cap on compensation for pain, suffering, and other non-economic losses. That means your recovery isn't limited by an arbitrary ceiling."
+      },
+      {
+        "title": "No Fee Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so you pay nothing upfront and owe no fee unless you receive a settlement or award. This lets you focus on recovery instead of legal bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while unable to work",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Not knowing whether you waited too long to take action",
+      "Wondering if being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Cathedral City?",
+        "answer": "California generally gives you two years from the date of the injury to file a claim. If a government entity is involved, such as the city or county, the notice period can be as short as six months, so it's wise to act quickly."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows a pure comparative fault rule, meaning you can still recover compensation even if you share some blame. Your recovery would simply be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to happen in Cathedral City?",
+        "answer": "Public collision records show higher counts along corridors like Date Palm Drive, Ramon Road, Cathedral Canyon Drive, and E Palm Canyon Drive. These are simply where crash reports have clustered, not a judgment about any particular road or area."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in the network work on contingency, so you owe nothing unless you recover compensation."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In most standard personal injury cases in California, there is no cap on non-economic damages like pain and suffering. An attorney can help you understand what factors might affect the value of your specific case."
+      }
+    ]
+  }
+}

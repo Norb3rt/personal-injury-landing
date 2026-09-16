@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "isleton medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Isleton Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Isleton, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or treatment went wrong at a clinic or hospital serving the Isleton area, LawProactive can connect you with an independent medical malpractice attorney at no cost to you."
+  },
+  "about": {
+    "title": "Isleton Medical Malpractice Claims",
+    "longDescription": "Isleton is a small Sacramento County community, and residents here often travel to nearby cities for hospital care, specialists, or surgical procedures. When that care falls short of the accepted standard, the effects can follow someone home to Isleton for months or years. Medical malpractice claims are different from most injury cases: California's MICRA law sets specific deadlines and requires a qualified medical expert to weigh in before a case can move forward. A bad outcome by itself doesn't mean malpractice occurred, but a preventable error, a missed diagnosis, or a surgical mistake might. LawProactive doesn't practice law or decide your case; we simply listen to what happened, ask a few questions, and connect you free of charge with an independent attorney in our network who handles these claims on a contingency basis, meaning there's no fee unless a recovery is made. If something felt wrong about your treatment, it may be worth having someone with medical-malpractice experience take a closer look.",
+    "commonInjuriesTitle": "Common Types of Medical Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or baby",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Isleton Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Are Stricter Than You Might Think",
+        "desc": "California generally gives you one year from when you discover the harm, but never more than three years from the date of injury. Missing that window can end a claim before it starts, so timing matters."
+      },
+      {
+        "title": "A 90-Day Notice Requirement Comes First",
+        "desc": "Before a malpractice lawsuit can even be filed, California law usually requires a 90-day notice to the provider. An attorney familiar with this step can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad outcome alone isn't proof of malpractice, California cases typically need a qualified medical expert to review the care given. LawProactive connects you with attorneys who understand how to build that kind of case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Isleton but was treated at a hospital in another city — can I still get help?",
+        "answer": "Yes. Where you were treated matters more for jurisdiction purposes than where you live, so being an Isleton resident doesn't limit your options. An attorney connected through LawProactive can review the details of your care regardless of which facility was involved."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the harm, but no more than three years from the date the injury occurred. There are limited exceptions, so it's best not to wait to have your situation reviewed."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "California's MICRA law places a cap on non-economic damages, such as pain and suffering, though that cap rises each year under current law. Economic damages, like medical bills and lost income, are generally handled separately and are not subject to that same cap."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, LawProactive is a free service and we are not a law firm. Attorneys in our network typically work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

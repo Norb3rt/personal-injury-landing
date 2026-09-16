@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "guadalupe city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Guadalupe, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Guadalupe, Santa Barbara County? Get connected free to an independent attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, fall, or workplace accident in Guadalupe, we'll connect you free of charge with an independent attorney serving Santa Barbara County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Guadalupe, California",
+    "longDescription": "Guadalupe is a small, tight-knit community, but its streets still see their share of collisions. In the most recent full year on record, the city logged 8 injury collisions and 14 people hurt, with no traffic deaths reported. Local roads like Guadalupe Street, 11th Street, W Main Street, and Rt 166 carry much of the everyday traffic, and public records show reported crashes tend to cluster on Fridays between 3 and 5 p.m., likely tied to end-of-week commuting and errands. If you were injured in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service, not a law firm, that connects injured people in Guadalupe with an independent personal injury attorney who can review the details of what happened. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. There's no cost and no obligation to find out where you stand — just a straightforward way to get information and, if you choose, legal representation while you focus on healing.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney today, free and with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Getting Legal Guidance Matters in California",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government agency can require notice in as little as six months. Missing these windows can end your ability to recover, so it helps to understand your timeline early."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault. An attorney can help make sure your percentage of blame is fairly assessed."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Unlike some states, California places no cap on non-economic damages like pain and suffering in ordinary injury cases. That means the full impact of your injury can be considered, not just your medical bills."
+      },
+      {
+        "title": "You Pay Nothing Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to get legal help. Fees only come out of a recovery, so you're not risking money you don't have while you're already dealing with an injury."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if the crash was partly your fault and whether that matters",
+      "Fear that too much time has already passed to do anything about it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Guadalupe?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If a government entity was involved — like a city vehicle or road defect — the deadline to file a claim can be as short as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, so being partially responsible doesn't bar you from recovering compensation. Your recovery would simply be reduced by your percentage of fault, and an attorney can help make sure that percentage is calculated fairly."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Guadalupe?",
+        "answer": "Public crash records show reported collisions on corridors like Guadalupe Street, 11th Street, W Main Street, and Rt 166, with activity often peaking on Fridays between 3 and 5 p.m. These are simply neutral counts from public records, not a statement about any road being unsafe."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, such as pain and suffering, in typical personal injury cases. This means your claim can reflect the full scope of how the injury has affected your life, not just medical costs."
+      },
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects injured people with independent attorneys, and it is not a law firm itself. Attorneys in the network work on contingency, so you don't pay a fee unless you actually recover compensation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "sutter-creek medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sutter Creek Medical Malpractice Claims | LawProactive",
+    "metaDescription": "Injured by a medical error in Sutter Creek? LawProactive connects you free with an independent Amador County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in Sutter Creek goes wrong, the aftermath can feel isolating in a small Amador County community. LawProactive can connect you at no cost with an independent attorney who understands California's strict rules for these claims."
+  },
+  "about": {
+    "title": "Sutter Creek Medical Malpractice Claims",
+    "longDescription": "Sutter Creek residents often travel to regional facilities for specialized care, and when something goes wrong along the way, sorting out what happened can be confusing. Medical malpractice cases are different from ordinary injury claims: California's MICRA law imposes a short notice window, a formal 90-day pre-suit requirement, and a rule that a qualified medical expert must generally review the case before it can move forward. Because the population here is small and healthcare options limited, families sometimes hesitate to ask hard questions about their care. That hesitation shouldn't cost you your legal options. LawProactive doesn't practice law or decide claims — we simply listen to what happened and, if it looks like a fit, connect you with an independent attorney in our network who handles medical negligence matters. There's no cost to find out where you stand, and no obligation to move forward if you don't want to.",
+    "commonInjuriesTitle": "Injuries We See Reported",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Hospital-acquired infections from poor protocol"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Makes These Claims Different",
+    "items": [
+      {
+        "title": "Strict Filing Windows",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the harm, and never more than three years from the injury itself — deadlines that can pass quickly if you're still recovering."
+      },
+      {
+        "title": "Mandatory 90-Day Notice",
+        "desc": "Before a lawsuit can even be filed, California law requires a formal 90-day notice to the healthcare provider, a step that has to be handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Requirement",
+        "desc": "Because a poor outcome alone doesn't prove malpractice, California cases almost always need a qualified medical expert to establish that the care fell below an accepted standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Sutter Creek?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it occurred. Certain exceptions exist, so it's worth having the timeline reviewed rather than assuming you're too late or have plenty of time."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law recognizes that medicine carries inherent risk, so a poor result by itself isn't enough — the case has to show the provider's care fell below an accepted medical standard. That's typically established through a qualified medical expert's review."
+      },
+      {
+        "question": "Does Sutter Creek's small size affect how these cases work?",
+        "answer": "The legal rules under MICRA apply the same way regardless of city size, but Amador County's limited number of local providers can make finding an independent reviewing expert or navigating shared care networks feel more sensitive. An attorney experienced with rural California claims can help manage those dynamics."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "santa-clara workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Clara Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt at work in Santa Clara? LawProactive connects you, free, with an independent attorney to review workers' comp and third-party options."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in Santa Clara? We connect you at no cost with an independent attorney who can explain how workers' compensation and any third-party claim fit together."
+  },
+  "about": {
+    "title": "Santa Clara Workplace Injury Claims",
+    "longDescription": "Santa Clara's workforce is spread across tech campuses, warehouses, construction sites near Lafayette Street, and delivery routes that run El Camino Real and the San Tomas Expressway. When someone gets hurt doing that work, the first question is usually simple: who pays for it? In California, workers' compensation normally covers medical care and part of lost wages no matter who was at fault, and it is typically the only claim you can bring against your employer. That is not always the end of the story, though. If a subcontractor, a property owner, the maker of a faulty tool, or another driver contributed to the injury, a separate third-party claim may be available. That distinction matters for anyone who drives for work here. Santa Clara recorded 367 injury collisions in 2025, with 496 people hurt, and reported crashes tend to cluster on Tuesdays between 5 and 7 p.m. LawProactive is a free service, not a law firm; we connect you with an independent attorney who can sort out which paths fit your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Santa Clara",
+    "commonInjuries": [
+      "Falls from ladders, lifts, or scaffolding",
+      "Back and shoulder strains from lifting",
+      "Crush and pinch injuries from machinery",
+      "Burns or chemical exposure in production areas",
+      "Repetitive stress injuries from desk or line work",
+      "Injuries in on-the-job vehicle collisions"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Santa Clara Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Claims, Not One",
+        "desc": "Workers' comp is usually your only remedy against your employer, but a negligent third party can be held separately responsible. An attorney can check whether both apply to you."
+      },
+      {
+        "title": "Deadlines Kept Straight",
+        "desc": "You generally have 30 days to report an injury to your employer, and a third-party injury claim carries a two-year deadline. Getting connected early keeps both clocks in view."
+      },
+      {
+        "title": "Protection From Pushback",
+        "desc": "California law makes it illegal to fire or punish you for reporting a work injury. The attorneys in our network work on contingency, so there is no fee unless you recover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on El Camino Real while driving a company van. Is that just workers' comp?",
+        "answer": "Not necessarily. Because you were working, workers' compensation should cover your medical treatment and a portion of lost wages regardless of fault. The other driver, however, is a third party, so you may also have a separate injury claim against them. An attorney can review the collision report and explain how the two interact."
+      },
+      {
+        "question": "How quickly do I need to tell my employer I was hurt?",
+        "answer": "California asks you to report a work injury to your employer within 30 days. Sooner is better, and putting it in writing helps avoid disputes later. If you're worried about how your employer will react, keep in mind that retaliation for reporting an injury is against the law."
+      },
+      {
+        "question": "Does LawProactive charge me anything to get connected?",
+        "answer": "No. LawProactive is a free connection service, not a law firm. We match you with an independent attorney in Santa Clara County who handles workplace injury matters, and those attorneys work on contingency, meaning no fee unless there is a recovery."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "car-accident",
+    "note": "concord car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Concord Car Accident Lawyer Match | LawProactive",
+    "metaDescription": "Hurt in a Concord car crash? LawProactive connects you, free, with an independent Contra Costa attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A collision on Clayton Road, Willow Pass Road or SR-4 can upend an ordinary Concord week in seconds. We connect you, at no cost, with an independent attorney who handles Contra Costa County car accident claims on contingency."
+  },
+  "about": {
+    "title": "Concord Car Accident Claims",
+    "longDescription": "Concord sits where Clayton Road, Willow Pass Road, SR-242 and SR-4 funnel commuters through Contra Costa County, and those four corridors account for the largest share of the city's reported collisions. In 2025, the most recent final crash year, Concord recorded 481 injury collisions, with 611 people hurt and 10 lives lost. Reports cluster on Tuesdays between 5 p.m. and 7 p.m., when the evening drive home is heaviest. If one of those numbers is now your story, the next few weeks matter. California gives you two years to file a claim against a private driver, but the window can shrink to six months when a city or state agency is involved. Photos, dashcam clips, witness contacts and repair estimates fade quickly, and the other driver's insurer may call asking for a recorded statement — you are not obligated to give one. LawProactive is a free connection service, not a law firm. We match you with an independent attorney who takes Concord car accident cases on contingency — no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Concord Car Crashes",
+    "commonInjuries": [
+      "Whiplash and cervical strain",
+      "Concussion and other traumatic brain injuries",
+      "Herniated or bulging spinal discs",
+      "Fractured ribs, collarbone or sternum from seatbelt force",
+      "Knee, wrist and ankle fractures",
+      "Airbag burns and facial lacerations"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Concord Drivers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Partial fault does not shut the door",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for a crash on Willow Pass Road, you can still pursue a claim reduced by your share of blame. An attorney can push back when an insurer tries to inflate that share."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "California places no statutory ceiling on non-economic damages in ordinary car accident cases, meaning the human side of your injury counts, not just the medical bills. The attorneys in our network work on contingency, so you pay nothing unless there is a recovery."
+      },
+      {
+        "title": "Deadlines and evidence handled early",
+        "desc": "Two years sounds generous until you learn a government-entity claim may need to be filed within six months. Getting connected quickly helps preserve skid marks, camera footage and witness memories before they disappear."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My crash was on SR-4 near Concord. Does that change my deadline?",
+        "answer": "It might. If a state or local agency could share responsibility — for example, over signage, lane markings or road maintenance — California requires a government claim within six months, far sooner than the usual two-year statute of limitations. Most SR-4 and SR-242 collisions still involve only private drivers, but an attorney should evaluate that question early rather than late."
+      },
+      {
+        "question": "The other driver's insurance adjuster wants a recorded statement. Should I give one?",
+        "answer": "You are under no obligation to give the other party's insurer a recorded statement, and doing so rarely helps you. Adjusters are trained to ask questions that can later be used to shift fault under California's comparative fault rules. Speak with an attorney first; they can handle that communication for you."
+      },
+      {
+        "question": "How does LawProactive get paid if the service is free?",
+        "answer": "We are not a law firm and we do not charge you anything for the connection. The independent attorney you are matched with works on a contingency basis, which means their fee comes only from a recovery in your case. If there is no recovery, there is no attorney fee."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "lancaster city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lancaster, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Lancaster, Los Angeles County? Connect free with an independent injury attorney. 2 years to file in California. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on Avenue K, knocked down in a crosswalk, or hurt in a fall on someone else's property, LawProactive connects you at no cost with an independent injury attorney serving Lancaster and Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Lancaster, California",
+    "longDescription": "Getting hurt changes the shape of an ordinary week. In Lancaster, a city of about 161,000 people in Los Angeles County, public records for 2025 list 1,051 injury collisions, 1,723 people injured, and 12 traffic deaths. Those numbers come from ordinary streets: the lettered avenues — Avenue I, Avenue J, and Avenue K — along with Sierra Highway account for the largest share of reported collisions. Records also show a bump in crashes on Fridays between 5 p.m. and 7 p.m., when the workweek lets out. Not every injury happens behind the wheel. A fall in a parking lot, a dog bite on a neighborhood walk, or a collision on a bicycle can leave you with the same questions about medical bills and missed paychecks. LawProactive is a free service, not a law firm. We do not give legal advice or represent anyone. What we do is connect you with an independent personal injury attorney who handles cases in Lancaster and the rest of Los Angeles County. That attorney works on contingency, meaning there is no fee unless your case ends in a recovery. You can ask questions, learn about your options, and decide what feels right for you — without spending anything to start.",
+    "commonInjuriesTitle": "Injuries People in Lancaster Ask Us About",
+    "commonInjuries": [
+      "Whiplash and neck strain after a rear-end collision",
+      "Broken wrists, arms, and hips from falls",
+      "Concussions and other head injuries",
+      "Back and spinal disc injuries",
+      "Road rash and fractures from motorcycle or bicycle crashes",
+      "Dog bite wounds and scarring"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Lancaster Claim",
+    "items": [
+      {
+        "title": "You generally have two years",
+        "desc": "California gives most injury claims a two-year filing window from the date of the injury. Claims involving a city, county, or state agency can require notice in as little as six months, so the clock matters."
+      },
+      {
+        "title": "Being partly at fault does not end your claim",
+        "desc": "California follows pure comparative fault. If you share some of the blame, your recovery is reduced by your percentage of fault rather than wiped out."
+      },
+      {
+        "title": "No fixed ceiling on pain and suffering",
+        "desc": "In an ordinary California injury case, there is no statutory cap on non-economic damages such as pain, lost enjoyment, and emotional distress."
+      },
+      {
+        "title": "Attorneys in our network work on contingency",
+        "desc": "The independent attorney you are connected with is paid only from a recovery. If there is no recovery, there is no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say",
+      "My car is totaled and I can't get to work in the Antelope Valley without it",
+      "The ER bill arrived before I even understood how badly I was hurt",
+      "I was told I was partly to blame, so I assumed I had no case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do reported crashes cluster in Lancaster?",
+        "answer": "Public collision records for Lancaster show the highest counts along Avenue J, Avenue K, Avenue I, and Sierra Highway. The same records note that reported crashes tend to peak on Fridays between 5 p.m. and 7 p.m. These are simply counts from the record — where a crash happened does not decide who was responsible for it."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of the injury. If a government entity is involved — say, a city vehicle or a public sidewalk — a formal claim may be due within six months. Speaking with an attorney early helps you avoid missing a deadline you did not know about."
+      },
+      {
+        "question": "I was partly at fault. Can I still recover anything?",
+        "answer": "Yes. California uses pure comparative fault, which means your compensation is reduced by your share of responsibility but not eliminated. Someone found 30 percent at fault, for example, could still pursue the remaining 70 percent."
+      },
+      {
+        "question": "What does it cost to use LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent personal injury attorney; we are not a law firm and do not charge you. The attorney works on contingency, so there is no fee unless your case results in a recovery."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In an ordinary California injury case, there is no cap on non-economic damages like pain, anxiety, or loss of enjoyment of life. The amount in any given case depends on the specific injuries and evidence, which is something an attorney can walk through with you."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "watsonville city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Watsonville, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Watsonville, Santa Cruz County? Free attorney connection. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident in Watsonville, we can connect you with an independent attorney for free — serving Santa Cruz County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Watsonville, California",
+    "longDescription": "Watsonville sees its share of everyday traffic — Main Street, Freedom Boulevard, Green Valley Road, and Airport Boulevard all carry steady volumes of local and commuter traffic. In the most recent full year on record, Watsonville logged 106 injury collisions, with 129 people hurt and 2 lives lost. Behind those numbers are real people dealing with pain, missed work, and medical bills they didn't expect. LawProactive is a free service that helps injured people in Watsonville get connected with an independent personal injury attorney — we are not a law firm, and we don't decide or handle your case. The attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Whether you were hurt in a vehicle collision, a fall, or another type of accident, getting informed early matters, especially given California's filing deadlines. We simply make the first connection faster and easier, so you can focus on recovering while someone with legal experience looks at what happened and what your options might be.",
+    "commonInjuriesTitle": "Common Injuries We See Connections For",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from pedestrian or bicycle accidents"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you 2 years from the date of injury to file a claim, but that window can shrink to as little as 6 months if a government entity was involved."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible — your share of fault simply reduces the amount, not the right to pursue it."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no limit on non-economic damages like pain and suffering, unlike some other states."
+      },
+      {
+        "title": "You Don't Pay Upfront",
+        "desc": "Attorneys connected through our network work on contingency, so there's no fee unless they actually recover money on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if you waited too long to take action",
+      "Fear that admitting any fault means losing your case entirely",
+      "Feeling unsure whether your injury is even 'serious enough' to matter"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after an accident in Watsonville?",
+        "answer": "In most cases, California law gives you 2 years from the date of the injury to file a personal injury claim. If a government agency was involved, that deadline can be much shorter, sometimes only 6 months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means being partly at fault doesn't stop you from recovering compensation. Your percentage of fault would reduce the amount you might receive, but it doesn't eliminate your ability to pursue a claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Watsonville?",
+        "answer": "Based on public-record collision counts, higher volumes have been reported along Main Street, Freedom Boulevard, Green Valley Road, and Airport Boulevard, with reported crashes tending to peak on Fridays between 5 and 7 p.m. These are simply reported patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't provide legal representation ourselves, and we're not involved in handling or deciding your case."
+      },
+      {
+        "question": "Will I owe money if I use this service?",
+        "answer": "There's no cost to use LawProactive to get connected with an attorney. The attorneys in the network typically work on contingency, meaning they only get paid if they recover money for you."
+      }
+    ]
+  }
+}

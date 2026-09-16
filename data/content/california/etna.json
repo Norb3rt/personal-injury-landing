@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "etna city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Etna, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Etna, Siskiyou County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident near Etna, we can connect you free of charge with an independent attorney serving Siskiyou County. There's no cost to find out where you stand."
+  },
+  "about": {
+    "title": "Personal Injury Help in Etna, California",
+    "longDescription": "Etna is a small town, but that doesn't mean crashes don't happen here. State records show 1 injury collision and 1 person injured in 2023, with no traffic deaths reported that year. Local reports tend to cluster on Fridays between 2 and 4 p.m., often along Main Street, State Route 3, and Rt 3 — the corridors that carry most of the town's traffic. If you were hurt in one of these incidents, or in any other kind of accident around town, you may have options worth understanding. LawProactive is a free service, not a law firm. We don't represent you directly — instead, we connect people in Etna with an independent personal injury attorney who can review the details of what happened and explain what California law allows. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Given California's two-year filing deadline for most injury claims (and shorter windows if a government entity is involved), it helps to get information sooner rather than later. Reaching out costs nothing and doesn't commit you to anything.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from falls or slip-and-fall accidents"
+    ],
+    "ctaText": "Find out where you stand — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Early",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity is involved. Waiting can quietly cost you your right to recover anything."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover a reduced amount. An attorney can help sort out how fault actually applies to your situation."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering. That means these losses deserve a full, careful look, not a quick estimate."
+      },
+      {
+        "title": "You Risk Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That structure exists so cost isn't a barrier to getting help."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling like a small town means fewer options for help",
+      "Uncertainty about whether a deadline has already passed"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to pay anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney at no cost to you. If you decide to move forward, that attorney typically works on contingency, meaning there's no fee unless they recover compensation for you."
+      },
+      {
+        "question": "How long do I have to file a claim after being hurt in Etna?",
+        "answer": "California generally allows two years from the date of injury to file most personal injury claims. If a government agency or vehicle was involved, that window can shrink to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to happen in Etna?",
+        "answer": "Public collision records show reports clustering along Main Street, State Route 3, and Rt 3, with activity often peaking on Fridays between 2 and 4 p.m. These are simply the corridors where recorded incidents have occurred, not a judgment about any road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, so being partly responsible doesn't automatically block you from recovering compensation. Your recovery would be reduced by your share of fault, but you're not shut out entirely."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In most ordinary injury cases, California does not cap non-economic damages such as pain and suffering. Every case is different, so an independent attorney can help explain what factors might apply to your specific situation."
+      }
+    ]
+  }
+}

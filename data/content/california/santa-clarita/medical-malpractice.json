@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "santa-clarita medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Clarita Medical Malpractice Attorney | LawProactive",
+    "metaDescription": "Hurt by a medical error in Santa Clarita? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines apply — learn more."
+  },
+  "hero": {
+    "subtitle": "If a provider in Santa Clarita missed a diagnosis, made a surgical error, or got a medication wrong, you deserve clear answers. LawProactive connects you, at no cost, with an independent attorney who understands California's MICRA rules."
+  },
+  "about": {
+    "title": "Santa Clarita Medical Malpractice Claims",
+    "longDescription": "Medical care in Santa Clarita reaches roughly 182,000 residents across Los Angeles County's northern valley, and most of it goes the way it should. When it doesn't — a delayed diagnosis, a surgical slip, a prescription that never should have been written — the aftermath can be confusing and expensive. California handles these claims under MICRA, a set of rules that differs from an ordinary injury case. You generally have one year from the date you discovered the harm, and never more than three years from the injury itself, to file. A 90-day notice must go to the provider before a lawsuit begins. Non-economic damages are capped, though that cap rises every year. And nearly every case needs a qualified medical expert to explain what a careful provider would have done differently. A disappointing result on its own is not malpractice; the question is whether the standard of care was breached. LawProactive is a free service that connects Santa Clarita residents with an independent attorney who handles these cases on contingency.",
+    "commonInjuriesTitle": "Harm We Commonly See in Medical Malpractice Cases",
+    "commonInjuries": [
+      "Missed or delayed cancer and stroke diagnoses",
+      "Surgical mistakes, including wrong-site procedures",
+      "Medication and dosage errors",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections tied to lapses in care"
+    ],
+    "ctaText": "Get connected with a Santa Clarita malpractice attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Santa Clarita Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Short",
+        "desc": "California gives you one year from discovering the harm, and no more than three years from the injury, plus a required 90-day notice before filing. Connecting early keeps those windows open."
+      },
+      {
+        "title": "Expert Review Is Built In",
+        "desc": "A qualified medical expert is almost always needed to show the standard of care was breached. The attorneys we connect you with know how to line that review up before time runs out."
+      },
+      {
+        "title": "Free Connection, Contingency Representation",
+        "desc": "LawProactive charges nothing to match you with an independent attorney. Network attorneys work on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on Sierra Highway and the emergency room missed a fracture. Is that a malpractice case or a car accident case?",
+        "answer": "It may be both, and they are handled differently. Santa Clarita recorded 706 injury collisions in 2025, and a fair number of those patients later discover that a follow-up problem came from treatment rather than the crash itself. The auto claim runs on ordinary injury rules, while the missed-fracture claim falls under MICRA with its own deadlines and expert requirement. An attorney can sort out which is which and pursue each on its own track."
+      },
+      {
+        "question": "My surgery didn't go well. Does that mean I have a malpractice claim?",
+        "answer": "Not necessarily. California law is clear that a bad outcome alone is not malpractice; the question is whether the provider fell below the standard of care a careful practitioner would have met. That usually requires a qualified medical expert to review your records and weigh in. An attorney can arrange that review and tell you honestly where things stand."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California medical malpractice case?",
+        "answer": "MICRA caps non-economic damages — things like pain and loss of enjoyment of life — and that cap increases every year under current law. Economic losses such as medical bills and lost income are not subject to that cap. Every case is different, so an attorney can explain how these rules apply to your particular situation without anyone promising a result."
+      }
+    ]
+  }
+}

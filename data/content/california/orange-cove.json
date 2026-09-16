@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "orange-cove city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Orange Cove, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Orange Cove? Connect free with an independent Fresno County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Hills Valley Road or suffered a fall or workplace injury elsewhere in town, we'll connect you with an independent attorney serving Fresno County — free, with no obligation."
+  },
+  "about": {
+    "title": "Personal Injury Help in Orange Cove, California",
+    "longDescription": "Orange Cove is a small city, but the roads that connect it to the rest of Fresno County still see their share of collisions. Public crash records show reported crashes here tend to cluster on Mondays between 11 a.m. and 1 p.m., with the busiest corridors being Hills Valley Road, Anchor Avenue, American Avenue, and Serna Avenue. The most recent finalized data available, from 2020, recorded zero injury collisions, zero injuries, and zero traffic deaths for the year — a reminder that year-to-year numbers can shift, and that any single crash can still upend a family's routine, finances, and health. If you were hurt in a crash, a fall, or another type of accident anywhere in Orange Cove, LawProactive can help you take a next step. We are a free service that connects injured people with an independent personal injury attorney in the area — we are not a law firm, we don't charge you anything to make that connection, and any attorney you're matched with typically works on contingency, meaning there's no fee unless they recover money for you. You focus on healing; we help you find someone who can look at the details of your situation.",
+    "commonInjuriesTitle": "Types of Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slips, trips, and falls"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and only takes a minute."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Time Runs Out",
+    "items": [
+      {
+        "title": "California's Filing Deadline Is Firm",
+        "desc": "Most personal injury claims in California must be filed within two years of the incident. If a government entity or public road is involved, that window can shrink to as little as six months, so it helps to get informed early."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Bar You",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partially responsible for what happened. Your compensation is simply adjusted to reflect your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering Damages",
+        "desc": "In ordinary injury cases, California does not limit the amount you can seek for non-economic harm like pain, suffering, or emotional distress. That's a detail worth discussing with someone who understands your specific case."
+      },
+      {
+        "title": "You Pay Nothing Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to have your case reviewed. Fees only apply if your case results in a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the crash was partly your fault and whether that ruins your claim",
+      "Feeling unsure whether it's even worth talking to an attorney about a smaller accident",
+      "Running out of time to file without realizing a deadline was approaching"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "In most cases, you have two years from the date of the injury to file a lawsuit. If your injury involved a government vehicle or agency, that deadline can be as short as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to happen in Orange Cove?",
+        "answer": "Public collision records point to Hills Valley Road, Anchor Avenue, American Avenue, and Serna Avenue as the corridors with the highest reported crash counts in the area. This is simply a reflection of where more crashes have been recorded, not a judgment about any particular road or intersection."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some blame. Your total award is reduced by your percentage of fault, but it isn't blocked outright."
+      },
+      {
+        "question": "Will it cost me anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Most attorneys in the network work on contingency, so you generally don't pay unless they recover money for you."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In typical personal injury cases in California, there is no cap on non-economic damages such as pain and suffering. The right amount depends heavily on the facts of your case, which is something an attorney can help evaluate."
+      }
+    ]
+  }
+}

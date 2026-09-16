@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "lemoore city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lemoore, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Lemoore or Kings County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Lemoore, we'll connect you free with an independent attorney serving Kings County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Lemoore, California",
+    "longDescription": "Lemoore may be a smaller city, but its roads carry plenty of daily traffic, and crashes happen here just like anywhere else. In the most recent full year of public records, Lemoore saw 25 injury collisions, 36 people injured, and 1 traffic death. Corridors like N Lemoore Avenue, Rt 41, W Hanford Armona Road, and W Bush Street see the highest volume of reported collisions, and Saturday afternoons between 3 and 5 p.m. tend to be when crashes are most often reported. None of this means any particular road is unsafe — it simply reflects where and when more driving happens. If you were hurt in one of these collisions or in another kind of accident, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service that connects injured people in Lemoore and throughout Kings County with an independent personal injury attorney. We are not a law firm, and we don't handle your case ourselves. Attorneys in our network work on contingency, meaning there's no fee unless you recover money. Reaching out costs nothing and puts you in touch with someone who can look at your situation.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Knee, shoulder, and joint injuries"
+    ],
+    "ctaText": "Get connected with an attorney today — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "Why Act Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most personal injury claims in California must be filed within two years of the incident. If a government entity is involved, that window can shrink to as little as six months, so early action matters."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. This means your compensation isn't artificially limited the way it is in some other states."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so you pay nothing upfront and owe no fee unless there's a financial recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay mounting medical bills",
+      "Losing income while unable to work",
+      "Feeling pressured by insurance adjusters to settle quickly",
+      "Not knowing if you waited too long to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "Generally, you have two years from the date of the incident to file most personal injury claims in California. If your claim involves a government agency, that deadline can be as short as six months, so it's wise not to delay."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California's pure comparative fault rule means you can still pursue compensation even if you share some responsibility. Your total recovery is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Lemoore?",
+        "answer": "Public collision records show higher volumes along N Lemoore Avenue, Rt 41, W Hanford Armona Road, and W Bush Street, with more reports occurring on Saturday afternoons between 3 and 5 p.m. These are simply where more collisions have been recorded, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that puts injured people in touch with independent personal injury attorneys. We don't provide legal representation ourselves, and using our service doesn't create an attorney-client relationship."
+      }
+    ]
+  }
+}

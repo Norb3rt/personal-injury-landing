@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "car-accident",
+    "note": "oakland car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oakland Car Accident Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in an Oakland car crash? LawProactive connects you free with an independent California injury attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "After a car crash on I-880, I-580, or International Boulevard, the paperwork starts before the bruises fade. LawProactive is a free service that pairs Oakland drivers, passengers, and pedestrians with an independent personal injury attorney."
+  },
+  "about": {
+    "title": "Oakland Car Accident Claims",
+    "longDescription": "Traffic in Oakland moves through a tight knot of freeways and surface streets, and when it goes wrong, the fallout lands on ordinary people. In 2025, Alameda County's largest city recorded 2,054 injury collisions. Those crashes left 2,680 people hurt and took 28 lives. Public records point to three corridors with the heaviest collision volume: International Boulevard, I-580, and I-880. Reports also cluster on Fridays between 5 p.m. and 7 p.m., when the commute home is at its thickest. If one of those numbers now describes your week, you probably have questions about medical bills, a damaged car, and an adjuster who keeps calling. LawProactive exists to answer the first one: who can help. We are a free service, not a law firm. Tell us what happened, and we connect you with an independent personal injury attorney who handles Oakland car accident claims on contingency, meaning no fee unless there is a recovery. The attorney takes it from there; you focus on getting better.",
+    "commonInjuriesTitle": "Injuries Common in Oakland Car Crashes",
+    "commonInjuries": [
+      "Whiplash and cervical strain",
+      "Concussion and other head trauma",
+      "Fractured wrists, arms, and collarbones",
+      "Herniated or bulging discs",
+      "Knee and hip damage from dashboard impact",
+      "Bruising and internal injuries from seat belts and airbags"
+    ],
+    "ctaText": "Tell us about your Oakland crash. It's free to ask."
+  },
+  "whyChoose": {
+    "title": "What Oakland Drivers Should Know Before Calling an Insurer",
+    "items": [
+      {
+        "title": "The clock is shorter than most people assume",
+        "desc": "California gives you two years to file most car accident lawsuits, but a claim involving a city bus, a public agency vehicle, or a road maintained by a government entity can require a written claim in as little as six months. An attorney can pin down which deadline applies to you."
+      },
+      {
+        "title": "Partial blame does not end your case",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for a collision on I-880, you can still recover, with your share of fault reducing the amount rather than erasing it. That is worth knowing before an adjuster suggests otherwise."
+      },
+      {
+        "title": "Skip the recorded statement, save the evidence",
+        "desc": "You are not required to give the other driver's insurer a recorded statement, and doing so early rarely helps you. Keep photos, the police report number, medical records, and witness contacts; an attorney working on contingency can handle the insurer for you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit near International Boulevard and the other driver had no insurance. Is there anything I can do?",
+        "answer": "Possibly, yes. If your own policy includes uninsured or underinsured motorist coverage, it may step in to cover your injuries. An attorney can review your declarations page and any other coverage that might apply. Because there is no cap on non-economic damages in California car accident cases, it matters to identify every available source of recovery."
+      },
+      {
+        "question": "How much does it cost to connect with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is free, and we are not a law firm. The independent attorneys in our network take car accident cases on contingency, which means they are paid a percentage of any recovery and nothing if there is none."
+      },
+      {
+        "question": "The insurance adjuster wants a recorded statement this week. Should I give one?",
+        "answer": "You do not have to, and most attorneys will tell you to wait. Recorded statements taken days after a crash, while you are still sorting out symptoms, are often used later to question your injuries or shift fault under comparative negligence rules. Speak with an attorney first, and let them decide what information goes to the other insurer and when."
+      }
+    ]
+  }
+}

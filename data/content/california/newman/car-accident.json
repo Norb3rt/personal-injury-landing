@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "newman car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Newman Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Newman car accident? LawProactive connects you free with an independent Stanislaus County attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on N Street, Balsam Drive, or Merced Street left you hurt, LawProactive can connect you with an independent Newman-area attorney at no cost to you."
+  },
+  "about": {
+    "title": "Newman Car Accident Claims",
+    "longDescription": "Newman is a small, close-knit Stanislaus County community, but its streets still see their share of injury collisions. Public records show 7 injury crashes and 8 injured people in the most recent final reporting year, with Thursday afternoons between 3 and 5 p.m. showing up more often than other times. Corridors like N Street, Balsam Drive, Inyo Avenue, and Merced Street carry a good portion of local traffic, and that volume brings risk. If you were hurt in one of these crashes, the moments right after matter: photos, witness names, and medical records can fade or disappear quickly. LawProactive doesn't practice law. We simply listen to what happened, then connect you with an independent personal injury attorney in the network who can review your situation and explain your options. There's no cost to talk, and no obligation to move forward until you're ready.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head injuries",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Shoulder and knee damage",
+      "Cuts, bruises, and soft-tissue trauma"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free.\n"
+  },
+  "whyChoose": {
+    "title": "Why Newman Residents Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "California's Clock Is Already Running",
+        "desc": "You generally have two years from the crash to file a personal injury claim in California, but that window can shrink to as little as six months if a government entity — like a city road crew or county vehicle — was involved. An attorney can help you figure out which deadline applies before it's too late."
+      },
+      {
+        "title": "Comparative Fault Won't Shut You Out",
+        "desc": "California allows recovery even if you were partly at fault for the crash; your compensation is simply reduced by your share of responsibility. That means a disputed intersection near N Street or Balsam Drive doesn't automatically end your claim."
+      },
+      {
+        "title": "No Cap on Pain and Suffering, No Upfront Cost",
+        "desc": "California places no limit on non-economic damages like pain and suffering in most car accident cases, and attorneys in this network work on contingency — meaning there's no fee unless you recover. That's why it costs nothing to have your case reviewed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally safer to avoid giving a detailed recorded statement before speaking with an attorney. Insurance adjusters are trained to ask questions that can be used to minimize your claim later. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if my accident happened on a city street like N Street or Merced Street?",
+        "answer": "Crashes on well-traveled Newman corridors like N Street, Balsam Drive, Inyo Avenue, or Merced Street are handled the same way as any other collision under California law, though road design or maintenance issues can sometimes raise separate questions. An attorney can look at the specifics of where and how your crash occurred. If a government entity is involved, shorter deadlines may apply."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and attorneys in the network work on contingency, meaning they only get paid if you recover money. There's no obligation to hire anyone after your initial conversation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "santa-cruz city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Cruz, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Santa Cruz County? Get connected free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've suffered whiplash, broken bones, or a more serious injury on Santa Cruz roads, we'll connect you with an independent attorney at no cost, serving all of Santa Cruz County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Santa Cruz, California",
+    "longDescription": "Santa Cruz's mix of coastal visitors, commuters, and beach traffic keeps roads like Rt 1, Ocean Street, Soquel Avenue, and Water Street busy year-round. Public records show 159 injury collisions in the most recent final year, with 185 people hurt and 1 traffic death — numbers that reflect how often everyday drives here end in an unexpected trip to urgent care or worse. If you were hurt in a crash anywhere in the city, from downtown to the corridors near the harbor, you may be weighing medical bills, missed work, and confusing next steps all at once. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we never charge you for the connection. The attorneys in our network work on contingency, meaning there's no fee unless they recover something for you. Our goal is simple: help you figure out what to do next without adding to your stress, so you can focus on healing while someone experienced looks at what happened and what options you may have.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken or fractured bones",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and road rash",
+      "Shoulder and knee ligament damage"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window can shrink to as little as six months if a government entity was involved. Waiting too long can cost you the right to recover at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar You",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the crash. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means your full experience of the injury can factor into what's pursued."
+      },
+      {
+        "title": "No Fee Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so you don't pay upfront and owe nothing unless they win money for you. This keeps legal help accessible regardless of your financial situation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Mounting medical bills with no clear way to pay them",
+      "Missed paychecks while unable to work",
+      "Confusion over who's liable and what to do next",
+      "Worry that speaking up might hurt their case with insurance"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a crash in Santa Cruz?",
+        "answer": "California generally allows two years from the date of the injury to file a personal injury claim. If a government entity was involved, such as a city vehicle, that window can be as short as six months, so it's best not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows pure comparative fault, which means you can still recover compensation even if you share some blame. Your recovery is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Santa Cruz?",
+        "answer": "Public records show higher collision counts along corridors like Rt 1, Ocean Street, Soquel Avenue, and Water Street, with reported crashes often peaking on Fridays between 5 and 7 p.m. These are simply neutral counts from public data, not a judgment about any specific road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, LawProactive is a completely free service. We are not a law firm, and connecting you with an independent attorney never costs you anything."
+      },
+      {
+        "question": "How does contingency-fee representation work?",
+        "answer": "Attorneys in our network work on contingency, meaning they only get paid if they recover compensation for you. There's no upfront cost, and you owe nothing if there's no recovery."
+      }
+    ]
+  }
+}

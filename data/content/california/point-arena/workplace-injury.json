@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "point-arena workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Point Arena Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Point Arena? Get connected free with an independent CA attorney who handles third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt while working near Port Road or along Highway 1 in Point Arena, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims. There's no cost to find out where you stand."
+  },
+  "about": {
+    "title": "Point Arena Workplace Injury Claims",
+    "longDescription": "Point Arena is a small coastal town in Mendocino County, but its workers still face real risks — from fishing and timber-related jobs to roadside work along Port Road, Highway 1, Lake Street, and Main Street. When a workplace injury happens here, California law usually routes the claim through workers' compensation, regardless of who was at fault. But that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the accident, you may have a separate legal path outside the workers' comp system. Because Point Arena is such a small community, workers here often wear multiple hats — meaning injuries can involve more than one responsible party. LawProactive connects injured workers with an independent attorney who can review the details, explain your options, and help you understand whether a third-party claim applies to your situation. This service is completely free, and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, docks, or elevated work areas",
+      "Equipment or machinery-related injuries",
+      "Vehicle collisions during work-related driving",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from falling objects or unstable loads",
+      "Burns or injuries from faulty tools and equipment"
+    ],
+    "ctaText": "Find out if you have a third-party claim — free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "California treats workers' comp as the exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can still be held separately liable."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and missing that window can complicate your ability to pursue benefits or a claim."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "Employers cannot legally punish you for reporting an injury or pursuing a claim, and an attorney can help you understand your protections if you feel pressured."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job site near Port Road. Can I file more than a workers' comp claim?",
+        "answer": "It depends on who or what caused the injury. If a third party — such as a delivery driver, equipment supplier, or another business's employee — contributed to the accident, you may be able to pursue a separate claim in addition to workers' comp. An independent attorney can look at the specifics and let you know."
+      },
+      {
+        "question": "Point Arena is small — does that affect my case?",
+        "answer": "Not in terms of your legal rights, but it can affect the practical details, like which contractors or businesses were involved and how evidence is gathered. Attorneys who work with LawProactive's network are used to handling cases in smaller communities where multiple parties may overlap on a job site."
+      },
+      {
+        "question": "What if my employer retaliates against me for reporting an injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal in California, regardless of the size of your employer or the town you work in. If you believe you're facing retaliation, an attorney can help explain your options and next steps."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "lomita city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lomita, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Lomita, LA County? Get a free connection to an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've suffered a broken bone in a car wreck or soft-tissue injuries from a fall, we can connect you at no cost with an independent personal injury attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Lomita, California",
+    "longDescription": "Lomita is a small, tight-knit city in Los Angeles County, but its streets still carry a steady flow of traffic — much of it funneling through Pacific Coast Highway, Western Avenue, Lomita Boulevard, and Palos Verdes Drive N. Public records show 29 injury collisions in the most recent final crash year, leaving 36 people hurt and, tragically, 1 person dead. Those aren't abstract numbers if you or someone you love was one of them. Maybe you were stopped at a light on Western Avenue when someone rear-ended you, or you were crossing Lomita Boulevard when a driver failed to yield. Whatever happened, the days after a crash are often filled with pain, paperwork, and uncertainty about what comes next. LawProactive is a free service — not a law firm — that helps injured people in Lomita get connected with an independent attorney who can look at their situation and explain their options. There's no obligation, and if an attorney agrees to take your case, you won't owe legal fees unless there's a recovery. You've got enough to deal with; let us help you find someone who can carry some of that weight.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord damage",
+      "Deep cuts and lacerations",
+      "Torn ligaments and soft-tissue injuries"
+    ],
+    "ctaText": "Find out if you have a case — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California law generally gives you two years from the date of injury to file a personal injury claim. If a government entity is involved, that window can shrink to as little as six months, so it pays to act sooner rather than later."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End It",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California doesn't cap non-economic damages — like pain and suffering — in ordinary injury cases, which matters when an injury changes your daily life."
+      },
+      {
+        "title": "You Don't Pay Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost. Legal fees only come out of a settlement or judgment if your case succeeds."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "How am I going to pay medical bills that keep piling up?",
+      "Will the insurance company blame me for what happened?",
+      "I can't work right now — how do I cover rent?",
+      "What if I run out of time to do anything about this?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Lomita?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If your claim involves a government agency or public road authority, that deadline can be as short as six months, so it's worth checking your situation early."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, so being partially at fault doesn't stop you from recovering compensation. Your recovery would simply be reduced by your percentage of responsibility."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Lomita?",
+        "answer": "Public crash records show that Pacific Coast Highway, Western Avenue, Lomita Boulevard, and Palos Verdes Drive N. see the highest volume of reported collisions in the city, with activity often peaking on Fridays between 3 and 5 p.m. These are neutral collision counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent attorneys — we are not a law firm and don't charge for the connection. If an attorney takes your case, they typically work on contingency, meaning no fee unless you recover compensation."
+      },
+      {
+        "question": "What kind of compensation might be available for pain and suffering?",
+        "answer": "California doesn't place a cap on non-economic damages, like pain and suffering, in standard personal injury cases. An attorney can review your specific injuries and circumstances to explain what might apply to your situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "torrance product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Torrance Product Liability Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt by a defective product in Torrance? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A defective product does not care whether you were careful. If something you bought, drove, or used in Torrance failed and injured you, we can connect you with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "Torrance Product Liability Claims",
+    "longDescription": "Torrance is home to just under 150,000 people, and most of them use dozens of manufactured products before lunch: a coffee maker, a car seat, a phone charger, a power tool in the garage. When one of those items fails and someone gets hurt, California law asks a narrower question than most people expect. You usually do not have to prove the company was careless. Under strict liability, the focus is on whether the product had a design defect, a manufacturing defect, or a missing or inadequate warning, and whether that defect caused your injury. Vehicles count too. Of the 490 people injured on Torrance roads in 2025, some collisions along Hawthorne Boulevard, Crenshaw Boulevard, Pacific Coast Highway, or the I-405 may have involved a failed airbag, a tire separation, or a brake that gave out. LawProactive is a free service, not a law firm. We connect Torrance residents with an independent attorney who handles product cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries or appliances",
+      "Lacerations and amputations from power tools",
+      "Crush injuries from collapsing furniture or ladders",
+      "Airbag, seatbelt, or tire-failure crash injuries",
+      "Choking or poisoning from mislabeled consumer goods",
+      "Internal injuries from defective medical devices"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Torrance Residents Start With LawProactive",
+    "items": [
+      {
+        "title": "Strict liability works in your favor",
+        "desc": "In California you generally need to show the product was defective and that the defect caused your injury, not that anyone was negligent. The attorneys we connect you with know how to frame a claim around that standard."
+      },
+      {
+        "title": "Preserving the product comes first",
+        "desc": "The broken item, its packaging, and the receipt are often the heart of the case. An attorney can tell you right away how to store the product safely and stop it from being discarded or repaired."
+      },
+      {
+        "title": "More than one company may owe you",
+        "desc": "Manufacturers, distributors, and retailers can all be held responsible for a defective product under California law. That matters when the maker is overseas or hard to reach, and it is one reason to have an independent attorney review the chain of sale."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I bought the product at a store in Torrance, not directly from the manufacturer. Does that limit my claim?",
+        "answer": "Usually not. California allows claims against retailers and distributors as well as the manufacturer, so a local store can be part of the case even if it did nothing wrong beyond selling the item. An attorney can sort out who belongs in the claim after reviewing your receipt and the product."
+      },
+      {
+        "question": "My airbag did not deploy in a crash on the 405 near Torrance. Is that a product case or a car accident case?",
+        "answer": "It can be both. The other driver may be responsible for the collision itself, while the vehicle or airbag maker may be responsible for injuries the airbag should have prevented. Keep the car from being scrapped or repaired until an attorney has looked at it, since the vehicle is the key evidence."
+      },
+      {
+        "question": "What if I threw the product away after I got hurt?",
+        "answer": "Do not assume the case is over. Photos, the box, purchase records, medical notes describing the injury, and any recall notices can still support a claim. An attorney can also check whether the same model has a documented defect history, which sometimes fills the gap left by a missing item."
+      }
+    ]
+  }
+}

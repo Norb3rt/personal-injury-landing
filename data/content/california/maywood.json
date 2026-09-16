@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "maywood city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Maywood, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Maywood, LA County? Free attorney connection. 2 years to file. No fee unless you win. Get help now."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash, a slip and fall, or another accident, we connect you with an independent attorney at no cost, serving Maywood and Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Maywood, California",
+    "longDescription": "Maywood is a small, tightly packed city in Los Angeles County, and its main streets carry a lot of daily traffic. Corridors like Slauson Avenue, Atlantic Boulevard, Pine Avenue, and 59th Place see steady use from commuters, delivery trucks, and local residents moving through this compact community. In the most recent year of public record, Maywood logged 63 injury collisions, with 79 people hurt and one traffic death. Collision reports also show that Fridays between 5 and 7 p.m. tend to have more reported crashes than other times, likely tied to end-of-week traffic building up on these corridors. If you were hurt in a crash on any of these streets, or in another kind of accident anywhere in Maywood, sorting out medical bills, insurance calls, and next steps can feel overwhelming. LawProactive is not a law firm — we're a free service that connects injured people with an independent personal injury attorney who can review your situation. There's no cost to reach out, and any attorney you're connected with works on contingency, meaning they only get paid if you recover compensation. Reaching out costs you nothing and doesn't obligate you to anything.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft-tissue damage",
+      "Knee and joint injuries"
+    ],
+    "ctaText": "Connect with an independent attorney today — it costs nothing to ask."
+  },
+  "whyChoose": {
+    "title": "Why People in Maywood Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Don't Have Forever to Act",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but that window shrinks to as little as six months if a government entity is involved. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows a pure comparative fault rule, so even if you're found partly responsible for what happened, you can still recover a portion of damages. Fault gets divided, not used as an all-or-nothing bar."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Unlike some states, California places no cap on non-economic damages — like pain, suffering, and loss of enjoyment of life — in ordinary injury cases. That matters when an injury changes how you live day to day."
+      },
+      {
+        "title": "You Pay Nothing Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront fee to get help. They only collect a fee if your case results in a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how medical bills will get paid while you're out of work",
+      "Feeling pressured by insurance adjusters calling before you've healed",
+      "Not knowing if you missed a deadline to take legal action",
+      "Fear that admitting any fault means losing your right to a claim"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Maywood?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If a government agency or public entity was involved, that deadline can shrink to as little as six months, so it's worth checking your situation early."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means your compensation gets reduced by your percentage of fault rather than eliminated entirely. Even if you were 30% or 50% at fault, you may still be able to recover the remaining share."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Maywood?",
+        "answer": "Public collision records show higher crash counts along corridors like Slauson Avenue, Atlantic Boulevard, Pine Avenue, and 59th Place. These are simply the roads with the most recorded incidents, not a judgment about any particular route."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, such as pain and suffering, in standard personal injury cases. This differs from some other states that impose limits."
+      },
+      {
+        "question": "Does it cost anything to talk to LawProactive?",
+        "answer": "No, connecting with LawProactive is free, and we are not a law firm ourselves. Any independent attorney you're matched with works on a contingency basis, meaning they only get paid if your case results in a recovery."
+      }
+    ]
+  }
+}

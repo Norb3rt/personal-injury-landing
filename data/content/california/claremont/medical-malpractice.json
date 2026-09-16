@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "claremont medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Claremont Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Claremont? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment at a Claremont-area medical facility goes wrong, the aftermath can be confusing and isolating. LawProactive connects you at no cost with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Claremont Medical Malpractice Claims",
+    "longDescription": "Claremont sits in Los Angeles County, home to a mix of small practices, urgent care clinics, and larger regional hospitals that many residents rely on for care. When something goes wrong during treatment, whether it's a missed diagnosis, a surgical error, or a medication mistake, families are often left with more questions than answers. Medical malpractice cases are different from typical injury claims: California's MICRA law requires a qualified medical expert to review the case, and strict timelines apply, generally one year from when the harm is discovered and no more than three years from the date of injury, along with a 90-day pre-suit notice requirement. A bad medical outcome by itself doesn't automatically mean malpractice occurred. LawProactive doesn't practice law or charge any fee; we simply connect Claremont residents with an independent attorney who can evaluate what happened and explain your options in plain terms.",
+    "commonInjuriesTitle": "Common Medical Malpractice Situations We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk with an independent attorney about your situation, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Claremont Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Deadlines Matter",
+        "desc": "California generally requires malpractice claims within one year of discovery and no later than three years from the injury, plus a 90-day pre-suit notice. Missing these windows can end a claim before it starts, so timing matters from day one."
+      },
+      {
+        "title": "Expert Review Is Required",
+        "desc": "California law almost always requires a qualified medical expert to support a malpractice claim. An independent attorney can help arrange that review and determine whether the standard of care was actually violated."
+      },
+      {
+        "title": "Understanding the Damages Cap",
+        "desc": "MICRA sets a cap on non-economic damages that rises each year, which affects how a case may be valued. An attorney familiar with the current cap can explain how it applies to your specific circumstances."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Claremont?",
+        "answer": "Under California's MICRA law, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it happened. There's also a required 90-day notice before filing suit. Because these deadlines can be tricky to calculate, it helps to talk to an attorney as soon as possible."
+      },
+      {
+        "question": "Does a bad outcome from surgery or treatment automatically mean malpractice happened?",
+        "answer": "No. Medicine involves risk, and not every complication or disappointing result is the result of negligence. Malpractice requires showing that a provider failed to meet the accepted standard of care, which is why a qualified medical expert review is almost always needed."
+      },
+      {
+        "question": "I received care at a Claremont-area clinic but I'm not sure if what happened qualifies as malpractice. What should I do?",
+        "answer": "That uncertainty is common, and it's exactly the kind of question an independent attorney can help sort through. LawProactive can connect you with someone who reviews the details of your care at no cost to you, so you can understand your options before any deadlines pass."
+      },
+      {
+        "question": "Is there a limit on how much I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages, like pain and suffering, under MICRA, and that cap increases annually by statute. Economic damages, such as medical bills and lost income, are generally handled separately. An attorney can walk you through how these categories apply to your situation."
+      }
+    ]
+  }
+}

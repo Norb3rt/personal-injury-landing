@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "eastvale product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Eastvale Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Eastvale? LawProactive connects you free with an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a defective product injures someone in Eastvale, the path to accountability often runs through California's strict liability rules rather than a fight over negligence. LawProactive can connect you with an independent attorney who handles these claims, at no upfront cost."
+  },
+  "about": {
+    "title": "Eastvale Product Liability Claims",
+    "longDescription": "Eastvale's growth along the I-15 corridor and its logistics-heavy commercial footprint mean residents encounter a wide range of consumer, industrial, and household products daily. When one of those products fails — a tool malfunctions, an appliance overheats, a vehicle part breaks, or a warning label leaves out a real hazard — the resulting injury can upend a family's routine fast. California law generally lets an injured person pursue the manufacturer, distributor, or retailer under strict liability, meaning the focus stays on whether the product itself was defective, not on proving carelessness. That distinction matters in a city like Eastvale, where warehouses, retail centers, and everyday households all rely on products sourced from multiple supply chains. If you've been hurt, keeping the product exactly as it was at the time of injury can matter. LawProactive connects Eastvale residents with an independent attorney, free of charge, so you can understand your options without added stress.",
+    "commonInjuriesTitle": "Injuries We See in Product Liability Cases",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances",
+      "Lacerations from defective tools or machinery",
+      "Crush or amputation injuries from faulty equipment",
+      "Chemical exposure or poisoning from mislabeled products",
+      "Traumatic injuries from failed vehicle components",
+      "Electrical shock from wiring or design defects"
+    ],
+    "ctaText": "Tell us what happened — connect with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Eastvale Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Path",
+        "desc": "Because California often applies strict liability to defective products, you generally don't have to prove the maker was careless — just that the product was defective and caused harm."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can each potentially be held liable, giving an attorney more avenues to pursue accountability on your behalf."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "An independent attorney can advise you on keeping the product intact and unaltered, since it often serves as central evidence in a defect claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt by a product I bought online and shipped through an Eastvale warehouse — does that change anything?",
+        "answer": "Not necessarily. Liability generally follows the product's defect and the chain of parties involved in making or selling it, regardless of where it was shipped from or through. An attorney can look at the specific supply chain to determine which parties may be responsible."
+      },
+      {
+        "question": "Do I need to prove the manufacturer was negligent?",
+        "answer": "Usually not. California's strict liability approach typically focuses on whether the product itself was defective — in design, manufacturing, or warnings — rather than requiring proof of carelessness. This can make the claim more straightforward in some respects."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Try to keep it exactly as it was when the injury happened, without cleaning, repairing, or discarding it. It often becomes key evidence, so an independent attorney can advise you on how to preserve it properly."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free connection service, and attorneys in the network typically work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

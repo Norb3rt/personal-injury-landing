@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "carlsbad city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Carlsbad, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Carlsbad? Connect free with a San Diego County injury attorney. Most claims allow 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a crash on I-5 or a fall at a Palomar Airport Road business left you hurt, LawProactive connects you at no cost with an independent injury attorney serving San Diego County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Carlsbad, California",
+    "longDescription": "Carlsbad sits along the coast between its lagoons and the freeway, and most of its traffic funnels through a handful of routes: I-5, Palomar Airport Road, Carlsbad Boulevard, and El Camino Real. Public records for 2025 show 499 injury collisions in the city, with 682 people hurt and 5 lives lost. Reports tend to rise on Fridays between 5 p.m. and 7 p.m., when commuters, beachgoers, and delivery traffic share the same lanes. Those figures are counts, not judgments about any street, but each one represents someone who suddenly had medical bills, missed work, and an insurance adjuster on the phone. LawProactive exists for that moment. We are a free service, not a law firm. When you reach out, we connect you with an independent personal injury attorney who handles cases in San Diego County. You pay nothing to be connected, and the attorneys in our network work on contingency, meaning there is no fee unless there is a recovery in your case. Maybe you were rear-ended on El Camino Real, struck while cycling on Carlsbad Boulevard near the Village, or injured in a fall at a local shop. The first step is simple: tell us what happened, and we will help you find someone to talk to.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Carlsbad",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Broken bones from bicycle and pedestrian crashes along the coast",
+      "Concussions and other head injuries",
+      "Back and spinal injuries after high-speed impacts",
+      "Slip-and-fall injuries at stores, hotels, and restaurants",
+      "Cuts, burns, and soft-tissue damage from motorcycle crashes"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Carlsbad Claim",
+    "items": [
+      {
+        "title": "Two years to act, sometimes far less",
+        "desc": "California gives most injury victims two years from the date of injury to file a lawsuit. If a city, county, or state agency was involved, the deadline to file a claim can be as short as six months, so early guidance matters."
+      },
+      {
+        "title": "Partial fault does not end your case",
+        "desc": "California follows pure comparative fault. Even if you were partly responsible for a collision, you can still recover; your share of fault reduces the amount rather than erasing it."
+      },
+      {
+        "title": "No fixed ceiling on pain and suffering",
+        "desc": "In ordinary personal injury cases, California does not cap non-economic damages such as pain, emotional distress, or loss of enjoyment of life. An attorney can help document the full impact on your daily routine."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. You do not pay hourly fees, and if there is no recovery, you owe no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work while I heal, and the bills are already arriving.",
+      "I might have been partly at fault, so I'm afraid I have no case.",
+      "I don't know how long I have before it's too late to do anything."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Carlsbad tend to occur?",
+        "answer": "Public collision records show the highest counts along I-5, Palomar Airport Road, Carlsbad Boulevard, and El Camino Real. These are simply the corridors that carry the most traffic and therefore log the most reports. Records also show reported crashes tend to peak on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date you were hurt. If a government entity is involved, such as a claim over a city-maintained road or a public vehicle, you may have as little as six months to file a formal claim. An attorney can confirm which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault, which means being partly responsible does not bar you from recovering. Your compensation is reduced in proportion to your share of fault. Insurers sometimes overstate a victim's fault, so it helps to have someone review the facts on your side."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free connection service and is not a law firm. The independent attorneys we connect you with work on contingency, so there is no attorney fee unless there is a recovery in your case."
+      },
+      {
+        "question": "Should I talk to the other driver's insurance company first?",
+        "answer": "You are not required to give a recorded statement to another party's insurer, and what you say can be used to minimize your claim. Many people choose to speak with an attorney before answering detailed questions. Getting connected early lets you understand your options before making any commitments."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "aliso-viejo medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Aliso Viejo Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Aliso Viejo? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or medication error causes harm in Aliso Viejo, the rules for holding a provider accountable are narrow and time-sensitive. We connect you with an independent attorney who can review what happened."
+  },
+  "about": {
+    "title": "Aliso Viejo Medical Malpractice Claims",
+    "longDescription": "Aliso Viejo residents rely on nearby Orange County hospitals, urgent care clinics, and specialty practices for everyday medical needs, from routine procedures to more serious interventions. Most of these visits go as expected, but when a provider's error causes real harm — a missed diagnosis, a surgical mistake, or a medication mix-up — patients are often left confused about whether what happened crosses the line into malpractice. California law sets a high bar: a bad outcome by itself isn't enough, and the case must show the provider fell below the accepted standard of care. Add in strict notice requirements and short filing windows, and it's easy to see why people wait too long or give up on a legitimate claim. LawProactive doesn't practice law or charge you anything — we simply connect Aliso Viejo residents with an independent attorney who can look at the medical records, evaluate the standard-of-care question, and explain what comes next, all on a contingency basis.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect Cases For",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on results"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Aliso Viejo Patients Should Know Before Waiting",
+    "items": [
+      {
+        "title": "The Filing Window Is Narrow",
+        "desc": "California generally gives you one year from when you discover the injury and no more than three years from the date it occurred, so records and details matter early."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can be filed, California law requires a 90-day notice to the provider, which affects timing and strategy from day one."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor outcome alone isn't proof of malpractice, a qualified medical expert typically must confirm the standard of care was breached before a claim can move forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery near Aliso Viejo — does that mean malpractice happened?",
+        "answer": "Not necessarily. California law requires showing the provider's care fell below the accepted medical standard, not just that the result was disappointing. An attorney can review your records to see whether the standard-of-care requirement is met."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally you have one year from when you discover the injury, and no more than three years from when it happened, though exceptions can apply. Because a 90-day pre-suit notice is also required, it's best not to wait to have your situation reviewed."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes, California law (MICRA) caps non-economic damages, though that cap rises each year under current law. Economic damages, like medical bills and lost income, are generally handled separately and aren't subject to that same cap."
+      }
+    ]
+  }
+}

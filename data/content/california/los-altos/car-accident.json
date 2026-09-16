@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "los-altos car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Altos Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Los Altos car accident? LawProactive connects you free with an independent CA attorney near Foothill Expwy, El Camino Real, or I-280."
+  },
+  "hero": {
+    "subtitle": "If a crash on Foothill Expressway, El Camino Real, or near the I-280 interchange has left you hurt, LawProactive can connect you with an independent Los Altos attorney at no cost to you."
+  },
+  "about": {
+    "title": "Los Altos Car Accident Claims",
+    "longDescription": "Los Altos sees a steady flow of traffic along Foothill Expressway, El Camino Real, Fremont Avenue, and the I-280 corridor, and public records show dozens of injury collisions here each year, many clustering on Thursday mornings as commuters and school traffic overlap. Whether you were rear-ended stopped at a signal on El Camino or sideswiped merging onto I-280, the aftermath usually means insurance calls, medical appointments, and missed work all at once. LawProactive is not a law firm — we're a free service that connects you with an independent personal injury attorney working in Santa Clara County. That attorney can review the police report, help you understand your options, and deal with the insurance company so you're not doing it alone. There's no obligation to move forward, and if you do, attorneys in our network work on contingency, meaning no fee unless there's a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Car Accidents",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head trauma",
+      "Back and spinal disc injuries",
+      "Broken bones and fractures",
+      "Shoulder and knee ligament tears",
+      "Cuts, bruises, and soft-tissue damage"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and takes minutes."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Dealing With the Insurer",
+    "items": [
+      {
+        "title": "California's Two-Year Clock Is Shorter Than You Think",
+        "desc": "You generally have two years from the crash date to file a lawsuit in California, but if a government vehicle or road defect was involved, that window can shrink to as little as six months. An attorney can flag this early so you don't lose your claim to a missed deadline."
+      },
+      {
+        "title": "Comparative Fault Means Partial Blame Doesn't End Your Case",
+        "desc": "California allows you to recover damages even if you're partly at fault, with your compensation reduced by your share of responsibility. Insurers often try to shift blame onto you early, so having someone review the facts before you speak to them matters."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "Unlike some states, California doesn't limit compensation for pain, suffering, and other non-economic losses in a typical car accident case. An attorney can help make sure those harder-to-quantify impacts aren't overlooked when a claim is evaluated."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurance adjusters are trained to ask questions that can be used to minimize your claim later. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What should I do about evidence from a crash on a busy road like El Camino Real?",
+        "answer": "Try to preserve anything you can — photos of the scene, damage, any dashcam footage, and the names of witnesses — since evidence at high-traffic locations can disappear quickly once traffic clears. Surveillance footage from nearby businesses along corridors like El Camino Real or Foothill Expressway may also exist but often gets overwritten within days or weeks. An attorney connected through LawProactive can move quickly to request that footage before it's gone."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent personal injury attorney, and there's no cost to have your situation reviewed. If you choose to move forward, attorneys in our network work on contingency, so they only get paid if there's a recovery."
+      }
+    ]
+  }
+}

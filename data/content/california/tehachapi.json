@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "tehachapi city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tehachapi, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Tehachapi, Kern County? Free attorney connection. 2 years to file. No fee unless you win. Get help now."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash on Tucker Road or suffered a fall or work injury elsewhere in Tehachapi, we can connect you with an independent attorney at no cost. Serving Kern County residents free of charge."
+  },
+  "about": {
+    "title": "Personal Injury Help in Tehachapi, California",
+    "longDescription": "Tehachapi sits along mountain passes where daily life depends on a handful of key roads — Tucker Road, W Tehachapi Boulevard, E Tehachapi Boulevard, and Valley Boulevard carry much of the town's traffic. In the most recent reporting year, Kern County recorded 24 injury collisions and 35 injured people within city limits, with no traffic deaths reported. Crashes here have tended to cluster on Tuesday afternoons between 2 and 4 p.m., a pattern drawn strictly from public collision records, not a judgment about any particular street. If you or someone you love was hurt in a wreck, a fall, or another accident caused by someone else's carelessness, you deserve real answers about your options. LawProactive is a free service — we are not a law firm — that connects injured people in Tehachapi with independent personal injury attorneys who work on contingency, meaning there's no fee unless they recover money for you. We don't practice law or give legal advice ourselves; we simply help you find someone who can. Reaching out costs nothing and puts no obligation on you.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Act Now Matters",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can require notice in as little as six months. Waiting too long can cost you your right to recover."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "California places no limit on non-economic damages, like pain and suffering, in typical injury cases. This means your losses beyond medical bills and lost wages can still be fully considered."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. This lets you get legal help without worrying about costs while you're already dealing with an injury."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "How will I pay medical bills piling up after the crash?",
+      "Will missing work because of my injuries cost me my job?",
+      "Am I going to be blamed for something that wasn't my fault?",
+      "Is it already too late for me to do anything about this?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Tehachapi?",
+        "answer": "California generally allows two years from the date of the injury to file most personal injury claims. If your claim involves a government entity, such as a city road defect, the deadline can be as short as six months, so it's wise not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, meaning you can still recover compensation even if you share some blame. Your total recovery is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Tehachapi?",
+        "answer": "Public collision records show higher volumes of reported crashes along Tucker Road, W Tehachapi Boulevard, E Tehachapi Boulevard, and Valley Boulevard, with activity often peaking on Tuesday afternoons between 2 and 4 p.m. These are neutral, publicly reported counts and not a statement about the safety of any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No, California does not cap non-economic damages like pain and suffering in ordinary personal injury cases. This is different from some medical malpractice claims, which have separate rules."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney through LawProactive?",
+        "answer": "No, our service is completely free and comes with no obligation. LawProactive is not a law firm; we simply help connect you with an independent attorney who works on contingency, meaning they only get paid if you receive a settlement or award."
+      }
+    ]
+  }
+}

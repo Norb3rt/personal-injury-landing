@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "morro-bay medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Morro Bay Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error near Morro Bay? Free connection to an independent malpractice attorney. No fee unless you recover. MICRA deadlines apply."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis was missed or a procedure went wrong at a Morro Bay-area clinic or hospital, LawProactive can connect you with an independent attorney who handles California medical malpractice claims at no upfront cost."
+  },
+  "about": {
+    "title": "Morro Bay Medical Malpractice Claims",
+    "longDescription": "Morro Bay's small size means many residents rely on a handful of local clinics, urgent care centers, or a short drive into San Luis Obispo for hospital-level care. When a provider misreads test results, delays a referral, or makes a surgical error, the harm can be serious and the questions overwhelming. California treats medical malpractice differently than a typical injury claim — MICRA sets specific notice periods, filing deadlines, and rules around expert testimony that make these cases harder to pursue without guidance. LawProactive doesn't practice law or represent you directly; we simply connect Morro Bay residents with an independent attorney experienced in evaluating whether a bad medical outcome may have crossed into negligence. There's no cost to ask, and no fee unless the attorney recovers compensation on your behalf. A poor result doesn't automatically mean malpractice occurred, which is exactly why an informed review matters.",
+    "commonInjuriesTitle": "Situations We Help Connect",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Ask about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why California's Malpractice Rules Matter",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally allows one year from when you discover the harm, and never more than three years from the injury itself, plus a required 90-day pre-suit notice to the provider. Missing any part of this sequence can end a claim before it starts."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped — But the Cap Rises",
+        "desc": "MICRA places a statutory limit on non-economic damages like pain and suffering, and that cap increases annually. An attorney familiar with the current-year figure can help you understand what's realistically at stake."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California law generally requires a qualified medical expert to support a malpractice claim, since a bad outcome alone doesn't prove negligence. Independent attorneys in our network work with the right medical experts to evaluate whether the standard of care was actually breached."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Morro Bay — is that automatically malpractice?",
+        "answer": "No. California law recognizes that medicine involves risk, and a poor result by itself doesn't establish negligence. An independent attorney would need to review your records alongside a qualified medical expert to determine whether the care fell below the accepted standard. That's the kind of review LawProactive can help you access at no cost."
+      },
+      {
+        "question": "How much time do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it occurred. There's also a mandatory 90-day notice period before a lawsuit can be filed, so acting sooner rather than later matters. An attorney can confirm exact dates based on your specific facts."
+      },
+      {
+        "question": "Does Morro Bay's small size affect how these cases are handled?",
+        "answer": "Not in terms of the law itself — MICRA and California's malpractice rules apply the same way regardless of city size. It can mean your care involved a local clinic before a referral or transfer to a larger San Luis Obispo County facility, which is a detail an attorney will want to understand when reviewing your treatment timeline."
+      }
+    ]
+  }
+}

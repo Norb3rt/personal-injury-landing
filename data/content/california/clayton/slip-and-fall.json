@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "clayton slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Slip & Fall Attorney Connection | Clayton, CA",
+    "metaDescription": "Hurt in a fall in Clayton, CA? Get connected to an independent premises liability attorney free through LawProactive. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hazardous property along Clayton Road or elsewhere in town caused your fall, LawProactive can connect you with an independent attorney who handles premises liability claims in Contra Costa County.  There's no cost to you unless your case results in a recovery."
+  },
+  "about": {
+    "title": "Clayton Slip & Fall Claims",
+    "longDescription": "Falls on someone else's property don't always look dramatic, but the injuries can be serious, and the legal path to compensation isn't automatic. In Clayton, a small city tucked against Mount Diablo with just under 12,000 residents, these cases often involve local shops along Clayton Road, parking areas near Oakhurst Drive, or common areas at residential complexes off Marsh Creek Road and Keller Ridge Drive. Under California law, you generally need to show the property owner knew or reasonably should have known about the hazard and didn't fix it or warn you. That's why documenting the scene, getting photos of the actual hazard, and pushing to preserve any surveillance footage matters so much, evidence like that can disappear fast. LawProactive doesn't practice law ourselves; we simply connect you with an independent attorney in our network who can evaluate what happened and explain your options, at no upfront cost.",
+    "commonInjuriesTitle": "Common Injuries From Falls",
+    "commonInjuries": [
+      "Hip fractures",
+      "Wrist and arm fractures",
+      "Traumatic brain injuries",
+      "Spinal cord and back injuries",
+      "Torn ligaments or knee injuries",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Find out if you have a claim, connect free with an attorney today."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Notice and Evidence",
+    "items": [
+      {
+        "title": "Notice Has to Be Proven",
+        "desc": "California requires showing the property owner knew or should have known about the hazard before your fall. An attorney can help identify prior complaints, maintenance logs, or repeat incidents that establish that knowledge."
+      },
+      {
+        "title": "Surveillance Footage Disappears Quickly",
+        "desc": "Many businesses overwrite security video within days or weeks. Getting a preservation request out early can be the difference between having proof of the hazard and having none."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, Your Case",
+        "desc": "Even if you were partly responsible for how the fall happened, California's pure comparative fault rule still allows you to recover a reduced amount rather than nothing at all."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Clayton?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a premises liability lawsuit. If the property involved is owned by a public entity, such as a city building or park, that window is much shorter and requires an early claim filing. It's worth talking to an attorney soon after the fall so deadlines don't slip by."
+      },
+      {
+        "question": "What if the store or property owner says they didn't know about the hazard?",
+        "answer": "That's actually the central legal question in most of these cases. You don't need to prove they knew, only that they knew or reasonably should have known, which can come from prior incident reports, maintenance schedules, or how long the hazard existed. An attorney can help gather that evidence."
+      },
+      {
+        "question": "Does Clayton being a small town affect my case?",
+        "answer": "Not in terms of the legal standard, California premises liability law applies the same way whether the fall happened at a shop on Clayton Road or a larger retailer elsewhere in Contra Costa County. What can differ is the type of property owner involved and how quickly evidence like footage needs to be requested."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "lodi city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lodi, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in San Joaquin County? Connect free with an independent Lodi attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Cherokee Lane or injured as a pedestrian near downtown Lodi, we'll connect you with an independent attorney at no cost, serving all of San Joaquin County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Lodi, California",
+    "longDescription": "Lodi's roads carry a steady mix of local traffic and drivers passing through on SR-99, and that mix shows up in the numbers: 128 injury collisions in the most recent reporting year, with 178 people hurt and one life lost. Corridors like Cherokee Lane, Kettleman Lane, and Lower Sacramento Road see the heaviest reported volume, and collisions tend to cluster on Friday afternoons between 2 and 4 p.m. as commuters and weekend traffic overlap. If you were hurt in one of these crashes, sorting out medical bills, missed work, and insurance calls can feel like a full-time job on top of recovering. LawProactive is a free service — not a law firm — that connects injured people in Lodi with an independent personal injury attorney who can look at what happened and explain your options. There's no cost to get connected, and attorneys in our network only get paid if you recover compensation. You don't have to figure this out on your own or guess whether you have a case; a quick, no-pressure conversation can help you understand where things stand.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and brain injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Get connected with an independent attorney today, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Reach Out Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "You generally have two years from the date of injury to file a personal injury claim in California, and that window can shrink to as little as six months if a government entity is involved. Waiting can cost you options, so it helps to understand your timeline early."
+      },
+      {
+        "title": "Shared Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash. Your compensation is simply adjusted to reflect your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California doesn't limit the amount you can recover for non-economic damages like pain and suffering. That's an important distinction from some other states."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to you. They only get paid if your case results in a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Mounting medical bills with no clear way to pay them",
+      "Missing paychecks while unable to work",
+      "Insurance adjusters calling before you've even seen a doctor",
+      "Uncertainty about whether you waited too long to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Lodi?",
+        "answer": "California generally gives you two years from the date of the injury to file a claim. If your injury involved a government vehicle or property, that deadline can be as short as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses pure comparative fault, so being partly responsible doesn't bar you from recovering compensation. Your recovery amount is reduced by your percentage of fault, but you can still pursue a claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Lodi?",
+        "answer": "Public collision records show higher counts along corridors like Cherokee Lane, SR-99, Kettleman Lane, and Lower Sacramento Road, with reported crashes peaking on Fridays between 2 and 4 p.m. These are simply reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney, and we are not a law firm ourselves. There's no cost to you for the connection."
+      },
+      {
+        "question": "What if I can't afford an attorney upfront?",
+        "answer": "Attorneys in our network work on contingency, meaning they only collect a fee if you recover compensation. This lets you get legal guidance without paying out of pocket first."
+      }
+    ]
+  }
+}

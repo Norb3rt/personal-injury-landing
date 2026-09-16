@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "paradise workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Paradise CA Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Paradise? LawProactive connects injured workers with an independent attorney at no upfront cost. Free, no-obligation call."
+  },
+  "hero": {
+    "subtitle": "If you were hurt working in Paradise, whether on a rebuild site along Skyway or delivering along Clark Road, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims at no cost to you."
+  },
+  "about": {
+    "title": "Paradise Workplace Injury Claims",
+    "longDescription": "Paradise has spent years rebuilding after the Camp Fire, which means construction crews, utility workers, landscapers, and tradespeople are a common sight along Skyway, Clark Road, Pearson Road, and Pentz Road. That rebuilding activity brings real risk: falls from ladders and scaffolding, equipment injuries, vehicle collisions during work travel, and strain injuries from repetitive labor. In California, workers' compensation is generally the only remedy against your employer, even if someone made a mistake. But when a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, you may have a separate claim outside the workers' comp system. LawProactive doesn't practice law or charge fees; we simply connect injured workers in Paradise with an independent attorney who can look at both angles of your situation, explain your options in plain terms, and help you understand what comes next.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, roofs, or scaffolding",
+      "Injuries from heavy equipment or power tools",
+      "Vehicle collisions while driving for work",
+      "Repetitive strain and back injuries from manual labor",
+      "Burns or electrical injuries on rebuild sites",
+      "Injuries from falling debris or unstable structures"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, free and with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Paradise Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Help Sort Comp From Third-Party Claims",
+        "desc": "Workers' comp usually covers your employer, but a negligent third party like a subcontractor or equipment maker may owe you more. An attorney can help you see if both paths apply to your case."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires you to report a workplace injury to your employer within 30 days, and a separate third-party claim carries its own 2-year deadline. Missing either window can limit your options, so timing matters."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury or filing a claim. If you're worried about your job, an attorney can explain your protections before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working on a rebuild project in Paradise, do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' comp is your primary path against your employer regardless of fault. But if a subcontractor, property owner, or equipment supplier contributed to your injury, you may also have a separate third-party claim. An independent attorney can review the details and explain which options apply to your situation."
+      },
+      {
+        "question": "What if my injury happened driving between job sites on Clark Road or Pentz Road?",
+        "answer": "Injuries during work-related driving are often covered by workers' comp, and if another driver caused the crash, that driver's insurance may also be responsible through a separate claim. Both paths can sometimes apply at once. An attorney can sort out which applies based on how the incident happened."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury?",
+        "answer": "No, California law makes it illegal for an employer to retaliate against you for reporting an injury or filing a workers' comp claim. If you're facing pressure at work after an injury, it's worth speaking with an attorney about your rights before making any decisions."
+      }
+    ]
+  }
+}

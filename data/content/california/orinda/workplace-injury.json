@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "orinda workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Orinda Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Orinda? Get connected free with an independent attorney who handles work injury and third-party claims in Contra Costa County."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Orinda, you may have options beyond a standard workers' comp claim, especially if a contractor, driver, or equipment maker played a role. LawProactive can connect you free with an independent attorney familiar with Contra Costa County work injury cases."
+  },
+  "about": {
+    "title": "Orinda Workplace Injury Claims",
+    "longDescription": "Orinda's mix of hillside construction, local businesses along roads like SR-24, and commuters heading into the corridor means workplace injuries here take many forms — from falls on job sites to collisions during work travel. Because SR-24 and its eastbound and westbound approaches see notable injury-collision counts, workers who drive for their job or travel between sites in Orinda face real on-the-road risk. Under California law, workers' compensation is typically the exclusive path against your employer, but that doesn't close every door. If a subcontractor, property owner, or another driver contributed to your injury, a separate third-party claim may be available alongside your comp benefits. Timing matters: you generally have 30 days to report a workplace injury to your employer, and a strict 2-year deadline applies to third-party claims. LawProactive doesn't practice law — we simply help connect injured Orinda workers with an independent attorney who can look at the full picture of what happened.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or hillside job sites",
+      "Injuries from work-related vehicle collisions",
+      "Repetitive strain and overexertion injuries",
+      "Struck-by injuries from falling tools or materials",
+      "Machinery and equipment-related injuries",
+      "Burns or chemical exposure on the job"
+    ],
+    "ctaText": "Get connected with an independent attorney about your Orinda workplace injury."
+  },
+  "whyChoose": {
+    "title": "Why Orinda Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Exclusive Remedy Rule",
+        "desc": "California generally limits injured workers to workers' compensation against their employer, regardless of fault. An attorney can help you understand how this applies to your specific job situation in Orinda."
+      },
+      {
+        "title": "Spotting a Third-Party Claim",
+        "desc": "When a subcontractor, equipment maker, or another driver on roads like SR-24 contributes to a workplace injury, a separate claim outside the comp system may be possible. Recognizing this distinction early can matter."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Reporting a workplace injury within 30 days is required, and California law prohibits employers from retaliating against workers who do so. An attorney can help you understand your rights if you feel pressured after reporting."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near SR-24 in Orinda. Do I file workers' comp or a lawsuit?",
+        "answer": "Possibly both. Workers' compensation usually applies first since it doesn't depend on fault, but if another driver caused the crash, you may also have a separate third-party claim against that driver. An independent attorney can review the details and explain how the two paths work together."
+      },
+      {
+        "question": "What happens if I don't report my injury to my employer right away?",
+        "answer": "California generally requires you to report a workplace injury within 30 days, and missing that window can complicate your claim. It's best to report as soon as reasonably possible, even if the injury seems minor at first. An attorney can help if you're unsure how a delayed report might affect your situation."
+      },
+      {
+        "question": "Can my employer fire me for filing a workers' comp claim in Orinda?",
+        "answer": "No. California law prohibits retaliation against employees for reporting a workplace injury or filing a workers' comp claim. If you believe you've faced retaliation, an independent attorney can help you understand what protections may apply to your case."
+      }
+    ]
+  }
+}

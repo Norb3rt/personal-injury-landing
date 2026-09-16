@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "huron city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Huron, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Huron, Fresno County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Lassen Avenue or injured some other way, we'll connect you free of charge with an independent attorney serving Fresno County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Huron, California",
+    "longDescription": "Huron is a small farming community in Fresno County, and most people here know their way around Lassen Avenue, Palmer Avenue, S Lassen Avenue, and 4th Street from daily errands, work commutes, or school runs. Public crash records for the most recent finalized year show no reported injury collisions in Huron, which is good news, but collisions do happen on these corridors in other years, and when they do, the aftermath can be disorienting. Reported crashes elsewhere in similar communities tend to cluster on weekday mornings, often Tuesdays between 6 and 8 a.m., when traffic is heaviest getting people to work or school. If you or someone you love has been hurt in a crash or other accident in Huron, LawProactive can help you find direction. We are a free service that connects injured people with an independent personal injury attorney - we are not a law firm ourselves, and we never charge you anything. Attorneys in our network work on contingency, meaning there's no fee unless they recover compensation for you.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft-tissue damage",
+      "Emotional distress after a crash"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, though claims against a government entity can require notice in as little as six months. Acting sooner helps preserve evidence while it's fresh."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply adjusted to reflect your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and loss of enjoyment of life. This matters when injuries affect your daily life long after medical bills are paid."
+      },
+      {
+        "title": "No Financial Risk to Get Started",
+        "desc": "Independent attorneys in our network work on contingency, so there's no upfront cost and no fee unless they win your case. That means reaching out costs you nothing."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if you waited too long to take action",
+      "Fearing an insurance adjuster will blame you for the crash",
+      "Feeling overwhelmed about where to even start"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Huron?",
+        "answer": "California law generally allows two years from the date of the injury to file a personal injury lawsuit. If a government entity is involved, such as a city vehicle or a hazard on public property, that window can shrink to as little as six months, so it's wise not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses pure comparative fault, which means you can still pursue compensation even if you share some blame. Your recovery would just be reduced by your percentage of fault, not eliminated entirely."
+      },
+      {
+        "question": "Are certain roads in Huron more likely to see crashes?",
+        "answer": "Public collision records point to corridors like Lassen Avenue, Palmer Avenue, S Lassen Avenue, and 4th Street as the highest-volume roads for reported crashes in the area. These are neutral counts based on traffic volume and reporting, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge any fees?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney - we never charge for that connection. Attorneys in the network work on contingency, so they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases in California, there is no cap on non-economic damages such as pain and suffering. This is different from some other states, and it can matter significantly depending on how an injury affects your life."
+      }
+    ]
+  }
+}

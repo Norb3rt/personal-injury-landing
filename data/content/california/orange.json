@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "orange city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Orange, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Orange, CA? Connect free with an independent injury attorney serving Orange County. 2 years to file in California. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Car crashes, pedestrian collisions, slip-and-falls, and other injuries in Orange leave people with bills and questions. LawProactive connects you free with an independent personal injury attorney serving Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Orange, California",
+    "longDescription": "Orange sits near the geographic center of Orange County, and its streets carry a heavy daily load. In 2025, the most recent final crash year, the city recorded 819 injury collisions, 1,136 people injured and 6 traffic deaths. Public collision records show the highest counts along Tustin Street and Chapman Avenue, along with the southbound SR-55 and westbound SR-22. Reports tend to climb on Fridays between 5 p.m. and 7 p.m., when commuters and weekend traffic overlap around Old Towne and the Plaza. Behind each of those numbers is a person dealing with pain, missed shifts and a phone that keeps ringing with adjusters. That is where LawProactive comes in. We are a free service, not a law firm. You tell us what happened, and we connect you with an independent personal injury attorney who handles cases in Orange County. The attorneys in our network work on contingency, which means no fee unless there is a recovery in your case. California gives most people two years to file an injury claim, and being partly at fault does not shut the door on compensation. Whether you were rear-ended on Chapman, struck while crossing Tustin Street, or hurt somewhere else in Orange, you can get your questions answered without cost or pressure.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Orange",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken bones from pedestrian and bicycle collisions",
+      "Back and spinal injuries",
+      "Soft-tissue injuries from slip-and-falls",
+      "Injuries from rideshare, motorcycle and commercial vehicle crashes"
+    ],
+    "ctaText": "Tell us what happened. The connection is free, and there is no fee unless there is a recovery."
+  },
+  "whyChoose": {
+    "title": "Why Orange Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "The clock starts sooner than you think",
+        "desc": "California allows two years for most injury claims, but a claim against a city, county or state agency can require action in as little as six months. An attorney can sort out which deadline applies to you."
+      },
+      {
+        "title": "Partial fault does not erase your claim",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share, not wiped out."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "California places no cap on non-economic damages in typical injury cases, so an attorney can pursue the full human cost of what you went through, not just the bills."
+      },
+      {
+        "title": "Nothing out of pocket to get started",
+        "desc": "Our service is free, and the independent attorneys we connect you with work on contingency. There is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are stacking up while I am off work",
+      "The insurance adjuster keeps pushing me to settle fast",
+      "I was partly at fault, so I assume I have no case",
+      "I cannot afford a lawyer right now"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Orange, California?",
+        "answer": "For most injury claims in California, the statute of limitations is two years from the date of the injury. If a government entity is involved, such as a city bus or a poorly maintained public sidewalk, you may have as little as six months to file a formal claim. Talking with an attorney early helps make sure no deadline slips past."
+      },
+      {
+        "question": "Where do crashes tend to happen in Orange?",
+        "answer": "Public collision records for Orange show the highest counts along Tustin Street, Chapman Avenue, southbound SR-55 and westbound SR-22. In 2025 the city recorded 819 injury collisions, and reports tend to peak on Fridays between 5 p.m. and 7 p.m. These are neutral counts from the public record, reflecting traffic volume rather than any judgment about a specific road."
+      },
+      {
+        "question": "What if I was partly to blame for my accident?",
+        "answer": "California uses pure comparative fault. Your compensation is reduced by your percentage of responsibility, but you are not barred from recovering. Even someone found mostly at fault can still pursue the portion attributable to the other party."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match you with an independent personal injury attorney who serves Orange County, and that attorney handles your case directly."
+      },
+      {
+        "question": "How much does it cost to hire an attorney through LawProactive?",
+        "answer": "Our service costs you nothing. The attorneys in our network work on contingency, meaning they are paid a percentage only if there is a recovery in your case. If there is no recovery, there is no attorney fee."
+      }
+    ]
+  }
+}

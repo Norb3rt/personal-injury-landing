@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "bell-gardens city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bell Gardens, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Bell Gardens, LA County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, pedestrian collision, or workplace accident in Bell Gardens, you can connect with an independent attorney at no cost. LawProactive serves people throughout Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Bell Gardens, California",
+    "longDescription": "Bell Gardens is a tightly packed community where daily life runs along a handful of busy corridors — Florence Avenue, Eastern Avenue, Gage Avenue, and Garfield Avenue carry much of the city's traffic. In the most recent full year on record, Bell Gardens saw 140 injury collisions, with 185 people hurt and 1 traffic death. Those aren't abstract numbers — they represent neighbors, parents driving to work, and kids walking near school zones. If you were one of the people affected, you may be dealing with medical bills, missed paychecks, and a lot of uncertainty about what happens next. LawProactive is a free service that connects injured people in Bell Gardens with an independent personal injury attorney who can review what happened and explain your options. We are not a law firm, we don't provide legal advice ourselves, and we never charge you anything for the connection. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and starts the conversation on your terms.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord damage",
+      "Cuts, bruises, and road rash",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out what your options might be — connecting is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, though claims against a government agency can require notice in as little as six months. Acting sooner protects your options and preserves evidence."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Case",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened. Any compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no cap on non-economic damages like pain, suffering, or loss of enjoyment of life. Your losses aren't limited to medical bills and lost wages alone."
+      },
+      {
+        "title": "Pay Nothing Unless There's a Recovery",
+        "desc": "Attorneys connected through LawProactive work on contingency, so there's no upfront cost or hourly fee. They only get paid if they recover compensation on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance company's settlement offer is fair",
+      "Feeling overwhelmed trying to handle paperwork while recovering",
+      "Wondering if it's too late, or too soon, to talk to an attorney"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Bell Gardens?",
+        "answer": "California law generally gives you two years from the date of the injury to file a lawsuit. If a government entity was involved, such as a city vehicle or a hazard on public property, the window to file a claim can be as short as six months. It's wise to get information early rather than wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows pure comparative fault, which means partial responsibility reduces your compensation but doesn't prevent you from recovering it. An independent attorney can help evaluate how fault might be allocated in your specific situation."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Bell Gardens?",
+        "answer": "Public collision records show that reported crashes in Bell Gardens tend to peak on Fridays between 4 and 6 p.m., with higher collision counts along Florence Avenue, Eastern Avenue, Gage Avenue, and Garfield Avenue. These are simply reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We connect you with an independent attorney who works on contingency, meaning they only get paid if they recover compensation for you."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most standard personal injury cases in California, there is no cap on non-economic damages such as pain and suffering. The specific facts of your case will determine what damages an attorney believes may be pursued."
+      }
+    ]
+  }
+}

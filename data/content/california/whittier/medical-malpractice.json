@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "whittier medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Lawyer in Whittier, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Whittier? LawProactive connects you, free, with an independent malpractice attorney familiar with MICRA rules."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, procedure, or prescription goes wrong in Whittier, the clock under California's MICRA rules starts early. We connect you, at no cost, with an independent attorney who can review what happened."
+  },
+  "about": {
+    "title": "Whittier Medical Malpractice Claims",
+    "longDescription": "Medical care in Whittier follows the same rhythm as the rest of Los Angeles County: a Friday-evening collision on Whittier Boulevard or Lambert Road sends someone to an emergency room, a specialist orders imaging, a pharmacy fills a prescription. In 2025, 599 people were injured in local traffic collisions, and most moved through that system without a problem. Sometimes, though, a step gets skipped. A fracture is read as a sprain. A dosage is written wrong. A surgical count comes up short and nobody catches it. When a provider falls below the accepted standard of care and that lapse causes real harm, California law gives you a path forward, but it is a narrow one. MICRA sets short deadlines, requires a 90-day notice before filing, and caps non-economic damages at a figure that adjusts upward every year. Nearly every case also needs a qualified medical expert to explain what should have happened. LawProactive is not a law firm. We connect Whittier residents, free of charge, with an independent attorney who can review the records and tell you plainly whether a claim exists.",
+    "commonInjuriesTitle": "Harm Commonly Tied to Medical Errors",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of fractures, infections, or cancer",
+      "Medication and dosage mistakes",
+      "Surgical errors, including retained instruments or wrong-site procedures",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Untreated post-operative infections or bedsores"
+    ],
+    "ctaText": "Ask a Whittier attorney to review your records"
+  },
+  "whyChoose": {
+    "title": "Why Whittier Residents Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are unforgiving",
+        "desc": "You generally have one year from the date you discovered the injury, and never more than three years from when it happened. An attorney who tracks these dates can also handle the required 90-day pre-suit notice."
+      },
+      {
+        "title": "Expert review comes first",
+        "desc": "A bad result by itself is not malpractice under California law. The attorneys in our network work with qualified medical experts to determine whether the standard of care was actually breached."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Our connection service is free, and network attorneys work on contingency. They can also explain how MICRA's annually rising cap on non-economic damages applies to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at a Whittier emergency room after a crash on Whittier Boulevard and they missed a broken bone. Is that malpractice?",
+        "answer": "It might be, but the answer depends on what a reasonably careful ER physician would have done with the same symptoms and imaging. If the fracture should have been caught and the delay made your injury worse, a claim may exist. A medical expert would need to review your chart to say so. An attorney can also sort out how this interacts with any claim against the driver who hit you."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice case in California?",
+        "answer": "Under MICRA, you generally have one year from when you discovered, or reasonably should have discovered, the injury. There is also an outer limit of three years from the date the harm occurred, with limited exceptions. Before filing, a 90-day notice of intent must be sent to the provider. Because these windows are short, it helps to speak with an attorney early."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a malpractice case?",
+        "answer": "California caps non-economic damages such as pain and suffering, and that cap increases every year under MICRA. Economic losses like medical bills and lost wages are not subject to the same cap. An attorney can explain which limit applies to the year and type of your claim."
+      }
+    ]
+  }
+}

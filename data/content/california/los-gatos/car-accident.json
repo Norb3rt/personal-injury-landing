@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "los-gatos car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Gatos Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Los Gatos car accident? Get connected free to an independent attorney serving Santa Clara County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on SR-17, Los Gatos Boulevard, or Blossom Hill Road left you hurt, LawProactive can connect you with an independent Santa Clara County attorney at no cost to you.​"
+  },
+  "about": {
+    "title": "Los Gatos Car Accident Claims",
+    "longDescription": "Los Gatos sits at a busy crossing point where SR-17 traffic climbing toward the Santa Cruz Mountains meets local streets like Los Gatos Boulevard, Blossom Hill Road, and SR-85. Public crash records show 119 injury collisions and 146 people injured in the most recent full year, with reports clustering on Friday afternoons as commuters and weekend travelers overlap. Whether you were rear-ended near a Blossom Hill intersection or caught in slow SR-17 merge traffic, the aftermath is rarely simple: medical visits, missed work, and calls from an insurance adjuster who wants a recorded statement. LawProactive doesn't practice law — we're a free service that connects injured Los Gatos residents and visitors with an independent personal injury attorney who can review the crash, help preserve evidence like dashcam footage or skid patterns, and explain your options before you say anything that could affect your claim. There's no obligation, and attorneys in our network work on contingency, so you owe nothing unless there's a recovery.",
+    "commonInjuriesTitle": "Injuries We See From Los Gatos Crashes",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Back and spinal disc injuries",
+      "Broken bones and fractures",
+      "Shoulder and knee ligament tears",
+      "Soft tissue bruising and lacerations"
+    ],
+    "ctaText": "Get connected with an independent attorney today, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "The clock is running",
+        "desc": "California generally gives you two years from the crash date to file a car accident lawsuit, but that window can shrink to as little as six months if a government vehicle or roadway defect was involved. Talking to an attorney early helps make sure a shorter deadline doesn't quietly pass you by."
+      },
+      {
+        "title": "Comparative fault can affect your claim",
+        "desc": "California uses pure comparative fault, meaning you can still recover damages even if you're found partly responsible for a collision — your share of fault simply reduces the amount. An independent attorney can help make sure fault isn't overstated by the other side's insurer."
+      },
+      {
+        "title": "No cap on your non-economic losses",
+        "desc": "California places no cap on non-economic damages like pain and suffering in a standard car accident case. That makes it worth having someone document the full impact of your injuries rather than accepting an early settlement offer."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurance adjusters are trained to ask questions that can be used to minimize your claim later, even if you're just trying to be cooperative. An independent attorney connected through LawProactive can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if my accident happened on SR-17 or SR-85, a state highway?",
+        "answer": "Crashes on state highways can sometimes involve additional considerations, such as road design or maintenance by a state agency, which may carry a shorter claim deadline than the standard two years. It's worth having an attorney look at the specifics of where on SR-17 or SR-85 the collision occurred before you assume the usual timeline applies."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. Attorneys in our network typically work on a contingency basis, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

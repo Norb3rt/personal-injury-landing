@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "parlier workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Parlier Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Parlier, CA? Get connected free with an independent attorney who understands workers' comp and third-party claims in Fresno County."
+  },
+  "hero": {
+    "subtitle": "If you were hurt working in Parlier, whether on a farm along Manning Avenue, at a packing facility, or driving for a local employer, we can connect you with an independent attorney who handles workplace injury claims in Fresno County at no cost to you."
+  },
+  "about": {
+    "title": "Parlier Workplace Injury Claims",
+    "longDescription": "Parlier's economy runs on agriculture, packing houses, and the trucking that moves goods along Manning Avenue and Parlier Avenue, work that carries real physical risk. When someone is hurt on the job here, California's workers' compensation system usually becomes the path forward, covering medical bills and lost wages without needing to prove employer fault. But workers' comp isn't always the whole story. If your injury involved a piece of defective equipment, a subcontractor's negligence, or someone outside your employer entirely, a separate third-party injury claim may also be available. LawProactive doesn't practice law ourselves; we simply connect injured Parlier workers with an independent attorney who can look at both angles of a case, workers' comp and any third-party liability, and explain what applies to your situation. There's no cost to find out, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Machinery and equipment-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Chemical or pesticide exposure incidents",
+      "Crush or caught-between injuries near heavy equipment"
+    ],
+    "ctaText": "Get connected with an independent workplace injury attorney today."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Only Option",
+        "desc": "California treats workers' comp as the usual exclusive remedy against an employer, but a negligent third party like a subcontractor, property owner, or equipment maker can still be held separately liable."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and missing that window can complicate your ability to receive benefits."
+      },
+      {
+        "title": "You're Protected From Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting an injury or pursuing a claim, and an attorney can help you understand your rights if that happens."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I already filed a workers' comp claim in Fresno County. Can I still talk to an attorney?",
+        "answer": "Yes. Workers' comp and a potential third-party claim aren't mutually exclusive, and many injured workers pursue both. An independent attorney can review your situation and let you know if a third party, separate from your employer, may share responsibility."
+      },
+      {
+        "question": "What if my injury happened on a farm outside city limits near Parlier?",
+        "answer": "California workers' comp rules generally apply regardless of exactly where within Fresno County the injury occurred, as long as it happened in the course of employment. An attorney can help sort out jurisdiction and which claims may apply."
+      },
+      {
+        "question": "Is there a deadline if a third party caused my injury, not just my employer?",
+        "answer": "Yes, third-party injury claims in California generally must be filed within two years of the injury. That's separate from workers' comp deadlines, so it's worth having both reviewed sooner rather than later."
+      }
+    ]
+  }
+}

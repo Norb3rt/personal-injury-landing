@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "biggs city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Biggs, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Biggs, Butte County? Connect free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on SR-99 or a fall somewhere around town, we can connect you free of charge with an independent personal injury attorney serving Butte County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Biggs, California",
+    "longDescription": "Biggs is a small town, but its residents still travel daily along 5th Street, SR-99, E Street, and the Midway corridor near 9386 Midway — routes that see steady local and pass-through traffic. Public safety records for the most recent final reporting year showed zero injury collisions and zero traffic deaths in Biggs, a reminder that most trips end safely, but collisions can still happen without warning and change someone's life in an instant. When they do, the aftermath — medical bills, missed work, insurance calls — can feel overwhelming for a family already dealing with pain and stress. LawProactive is a free service that helps injured people in Biggs get connected with an independent personal injury attorney who can review what happened and explain their options. We are not a law firm, we do not represent clients directly, and we never charge a fee for making this connection. Attorneys in our network handle cases on contingency, meaning there's no fee unless there's a recovery. If you were hurt near 5th Street, E Street, SR-99, or anywhere else in town, reaching out costs nothing and can help you understand where things stand.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Emotional and psychological trauma"
+    ],
+    "ctaText": "Find out your options — reach out for a free, no-obligation connection today."
+  },
+  "whyChoose": {
+    "title": "Why This Matters Under California Law",
+    "items": [
+      {
+        "title": "Time Limits Apply",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government agency can require notice in as little as six months. Acting sooner helps preserve evidence and options."
+      },
+      {
+        "title": "Shared Fault Doesn't Bar You",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you may still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California does not limit the amount of non-economic damages, such as compensation for pain and suffering, that a jury may award."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money on your behalf. This lets injured people pursue a claim without paying out of pocket."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if the crash was partly your fault and what that means",
+      "Fear that time is running out to do anything about it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much time do I have to file a claim in Biggs?",
+        "answer": "California generally allows two years from the date of the injury to file a personal injury lawsuit. If a government entity was involved, the notice window can be as short as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so being partially responsible doesn't stop you from recovering compensation. Your total award would simply be reduced by the percentage of fault assigned to you."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Biggs?",
+        "answer": "Public crash records show reported collisions in the area tend to occur most often on Sundays between roughly 3 p.m. and 5 p.m., with counts concentrated along corridors like 5th Street, SR-99, E Street, and near 9386 Midway. These are simply public-record counts, not a statement that any location is unsafe."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we never charge injured people for helping them connect with an independent attorney. We are not a law firm and do not provide legal advice ourselves."
+      },
+      {
+        "question": "Will I have to pay the attorney upfront?",
+        "answer": "Attorneys in our network typically work on contingency, meaning they only get paid if they recover compensation for you. There's generally no upfront cost to start the conversation."
+      }
+    ]
+  }
+}

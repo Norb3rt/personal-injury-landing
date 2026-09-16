@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "lawndale city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lawndale, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Lawndale, LA County? Free attorney connection, no fee unless you win. CA gives just 2 years to file—learn your options today."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car wreck on Hawthorne Boulevard or another type of accident, we'll connect you free of charge with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Lawndale, California",
+    "longDescription": "Lawndale sits along some heavily traveled corridors, including Hawthorne Boulevard, the I-405 freeway, Rosecrans Avenue, and Inglewood Avenue. In the most recent year on record, the city logged 125 injury collisions, with 167 people hurt and 2 lives lost. Numbers like these reflect how much daily traffic moves through this small city of roughly 33,430 residents, and how often ordinary trips can turn into something far more serious. If you or someone you love was hurt in a crash, a fall, or another type of accident here, you may have options worth exploring. LawProactive is a free service — not a law firm — that connects injured people with an independent personal injury attorney in the area. There's no cost to talk, and no fee owed to any attorney unless there's a recovery on your behalf. We simply help you find someone who can look at what happened and explain where you stand.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Deep cuts and lacerations",
+      "Torn ligaments and soft-tissue injuries"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline Is Real",
+        "desc": "Most injury claims in California must be filed within two years, and that window can shrink to as little as six months if a government entity was involved. Waiting too long can close the door on a claim entirely."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar Your Claim",
+        "desc": "California follows a pure comparative fault rule, meaning you can still recover damages even if you were partly responsible for what happened. Your share of fault only reduces the amount, it doesn't eliminate it."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means what you've been through can be part of the conversation, not just medical bills."
+      },
+      {
+        "title": "You Pay Nothing Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to you. Fees only come out of a settlement or award if one is reached."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if the other driver's insurance will actually cover your losses",
+      "Feeling pressured to accept a quick settlement offer",
+      "Wondering if it's too late, or too early, to talk to someone about your options"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "Generally, you have two years from the date of the injury to file a claim. If a government agency or vehicle was involved, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, so being partly responsible doesn't stop you from recovering compensation. Your fault percentage simply reduces what you might be owed, it doesn't erase your claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Lawndale?",
+        "answer": "Public collision records show higher volumes along corridors like Hawthorne Boulevard, the I-405 freeway, Rosecrans Avenue, and Inglewood Avenue, with reported crashes tending to peak on Friday evenings between 5 and 7 p.m. These are simply the roads that see the most traffic and reported incidents, not a judgment about any particular location."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm. We simply help connect you with an independent attorney who may be able to assist with your situation."
+      },
+      {
+        "question": "Will I owe attorney fees if my case doesn't result in a recovery?",
+        "answer": "Attorneys in our network work on contingency, which means they only get paid if you receive a settlement or award. If there's no recovery, there's typically no attorney fee owed."
+      }
+    ]
+  }
+}
