@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "petaluma medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Petaluma Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Petaluma? LawProactive connects you free with an independent attorney who understands MICRA rules and deadlines."
+  },
+  "hero": {
+    "subtitle": "When a Petaluma hospital or clinic visit ends in an unexpected injury, sorting out what happened next shouldn't fall entirely on you. LawProactive can connect you with an independent attorney who can look at your care and explain your options at no cost."
+  },
+  "about": {
+    "title": "Petaluma Medical Malpractice Claims",
+    "longDescription": "Sonoma County residents rely on a mix of local clinics and larger regional hospitals for care, and most visits go the way they should. But when a diagnosis is missed, a surgery goes wrong, or medication errors cause harm, the aftermath can be confusing and frightening. California's malpractice rules, known as MICRA, add extra layers that don't apply to a typical injury claim — strict notice periods, expert review requirements, and specific damage rules. If you or a family member were harmed during treatment in Petaluma, understanding whether what happened crosses the line from a poor outcome into malpractice usually takes a professional review. LawProactive doesn't practice law itself; we simply connect Petaluma residents with an independent attorney, free of charge, who can review the medical records and explain whether a claim may be worth pursuing. There's no obligation to move forward after that conversation.",
+    "commonInjuriesTitle": "Types of Harm We Commonly Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Get connected with an independent attorney for a free case review."
+  },
+  "whyChoose": {
+    "title": "What Matters Most in a MICRA Claim",
+    "items": [
+      {
+        "title": "Strict Timing Rules",
+        "desc": "California generally gives one year from when you discover the harm, and no more than three years from the injury itself, so acting sooner rather than later matters."
+      },
+      {
+        "title": "Mandatory 90-Day Notice",
+        "desc": "Before a lawsuit can even be filed, California law requires a 90-day notice to the healthcare provider, which needs to be handled correctly and early."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad medical outcome alone isn't enough to prove malpractice, a qualified medical expert typically has to weigh in on whether the care fell below accepted standards."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a bad outcome from surgery mean malpractice occurred?",
+        "answer": "Not necessarily. California law recognizes that medicine involves risk, so a poor result by itself isn't proof of malpractice. An attorney typically needs a qualified medical expert to review the case and determine whether the care provided fell below the accepted standard."
+      },
+      {
+        "question": "How long do I have to bring a claim after treatment in Petaluma?",
+        "answer": "Under MICRA, you generally have one year from when you discover the injury, but no more than three years from when it happened, whichever comes first. There's also a required 90-day notice period before a lawsuit can be filed, so it helps to start the review process well before any deadline gets close."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes. California law caps non-economic damages — things like pain and suffering — in medical malpractice cases, though that cap rises annually under current law. Economic damages, such as medical bills and lost income, aren't subject to that same cap."
+      }
+    ]
+  }
+}

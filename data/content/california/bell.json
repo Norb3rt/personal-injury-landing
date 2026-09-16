@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "bell city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bell, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Bell? Connect free with an independent LA County attorney. 2 years to file, pure comparative fault, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end crash on Florence Avenue or a fall that wasn't your fault, we'll connect you free with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Bell, California",
+    "longDescription": "Bell sits along some of southeast Los Angeles County's busiest surface streets, and the numbers reflect it: in the most recent full year on record, Bell saw 182 injury collisions and 249 people injured. Florence Avenue, Gage Avenue, and the I-710 corridor carry heavy volumes of daily traffic, and reported crashes here tend to bunch up on Saturday evenings between 5 and 7 p.m., when errands, family visits, and weekend outings overlap. If you were hurt in one of these collisions, or in a fall, dog bite, or other accident somewhere else in the city, sorting out medical bills and insurance calls can feel like a full-time job on top of recovering. LawProactive is a free service — not a law firm — that connects injured people in Bell with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk, and attorneys in our network only get paid if you recover money. You focus on healing; let someone with legal experience handle the back-and-forth.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Torn ligaments and joint damage",
+      "Cuts, bruises, and soft tissue injuries"
+    ],
+    "ctaText": "Find out where you stand — talk to an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but that window can shrink to as little as six months if a government entity is involved. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages — like pain, suffering, and loss of enjoyment of life — in a typical injury case. That matters when an insurer tries to lowball what your recovery is worth."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, which means there's no fee unless they recover money for you. That takes the financial pressure off while you're already dealing with medical bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Fear the insurance company won't take the injury seriously",
+      "Not knowing if waiting too long means losing the right to file",
+      "Uncertainty about being blamed for part of the accident"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Bell?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If a government agency or vehicle was involved — like a city bus or a road maintenance crew — that deadline can be as short as six months, so it's worth getting advice early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some blame. Your total recovery is reduced by your percentage of fault, but it isn't barred outright."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Bell?",
+        "answer": "Public collision records show Florence Avenue, Gage Avenue, and the I-710 corridor carry some of the highest volumes of reported crashes in the city, with activity often clustering on Saturdays between 5 and 7 p.m. These are neutral counts of reported collisions, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that puts injured people in touch with independent personal injury attorneys. We don't provide legal representation ourselves, and there's never a cost to use our service."
+      },
+      {
+        "question": "What does it cost to work with an attorney through LawProactive?",
+        "answer": "Attorneys in our network handle cases on contingency, meaning you pay nothing upfront and there's no fee unless they recover compensation for you. This lets you get legal help without adding financial strain during recovery."
+      }
+    ]
+  }
+}

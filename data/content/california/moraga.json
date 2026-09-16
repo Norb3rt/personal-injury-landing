@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "moraga city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Moraga, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Moraga? Free help finding a Contra Costa County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Moraga Road or a fall somewhere in town, we'll connect you with an independent attorney free of charge, serving Contra Costa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Moraga, California",
+    "longDescription": "Moraga is a quiet town of about 17,256 people, but that doesn't mean collisions never happen here. Public records show 4 injury collisions in the most recent full year, with 7 people hurt and thankfully no traffic deaths reported. Crashes here tend to cluster on Mondays, especially in the late afternoon between 3 and 5 p.m., and the roads that see the most reported activity include Moraga Road, Canyon Road, Moraga Way, and Street Marys Road. If you've been hurt in one of these incidents, or in a fall, dog bite, or another type of accident anywhere in town, sorting out what comes next can feel overwhelming, especially while you're trying to recover. LawProactive is a free service that connects injured people in Moraga with an independent personal injury attorney who can review what happened and explain your options. We are not a law firm ourselves, and we don't charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless they recover something for you. Reaching out costs nothing and puts no obligation on you.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Find out your options with a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity was involved, that window can shrink to as little as six months, so it helps to know where you stand early."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover compensation, just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on What You Can Seek for Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no cap on non-economic damages like pain and suffering, so your losses aren't limited to a fixed number."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, which means their fee comes out of any settlement or award. If there's no recovery, you owe no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the other driver's insurance will actually cover your losses",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Wondering if it's too late, or too soon, to talk to someone about your case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Moraga?",
+        "answer": "California generally allows two years from the date of the injury to file a personal injury lawsuit. If your claim involves a government agency, such as a public road issue, that deadline can be as short as six months, so it's worth checking your specific situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you were partly to blame. Your total recovery would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do collisions tend to cluster in Moraga?",
+        "answer": "Public crash records show reported collisions concentrated on Moraga Road, Canyon Road, Moraga Way, and Street Marys Road, with activity tending to peak on Mondays between 3 and 5 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most standard personal injury cases in California, there's no cap on non-economic damages like pain and suffering. The amount depends on the specifics of your case rather than a fixed legal ceiling."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in our network work on contingency, so you don't pay a fee unless they recover money for you."
+      }
+    ]
+  }
+}

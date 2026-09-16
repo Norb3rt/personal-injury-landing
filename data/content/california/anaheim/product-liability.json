@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "anaheim product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Anaheim Product Liability Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt by a defective product in Anaheim? LawProactive connects you free with an independent Orange County attorney. Strict liability rules may apply."
+  },
+  "hero": {
+    "subtitle": "A product that failed you in Anaheim shouldn't leave you carrying the cost alone. LawProactive connects you, at no charge, with an independent attorney who handles defective-product claims in Orange County."
+  },
+  "about": {
+    "title": "Anaheim Product Liability Claims",
+    "longDescription": "Anaheim is home to more than 350,000 people, and every one of them relies on products working the way the box says they will. Most do. When one doesn't — a space heater that ignites, a ladder rung that snaps, a tire that separates on SR-91, a child's toy with a hidden choking hazard — California law takes a different approach than it does for ordinary carelessness. Product liability here often runs on strict liability. You generally need to show the product had a defect in its design, its manufacture, or its warnings, and that the defect caused your injury. Proving the company was negligent is usually not required. That distinction matters for Orange County families who simply want answers. It also means the chain of responsibility can be wide: the manufacturer, the distributor, and the store on Lincoln Avenue or Ball Road that sold the item may each share liability. LawProactive is not a law firm. We connect injured Anaheim residents with an independent attorney, for free, and every attorney in our network works on contingency.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating appliances or lithium batteries",
+      "Lacerations and crush injuries from power tools",
+      "Traumatic brain injury from failed helmets or restraints",
+      "Poisoning or organ damage from contaminated goods",
+      "Fractures from collapsing furniture or ladders",
+      "Airbag, seatbelt, or tire failures in a crash"
+    ],
+    "ctaText": "Tell us what happened. We'll connect you with an independent Anaheim attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Anaheim Residents Use LawProactive for Product Claims",
+    "items": [
+      {
+        "title": "Strict liability puts the focus on the product",
+        "desc": "In California, you typically need to show the defect and the harm it caused — not that the maker was careless. An attorney in our network can help evaluate whether that framework fits your situation."
+      },
+      {
+        "title": "Preserving the evidence is step one",
+        "desc": "The defective item itself is often the heart of the claim. We connect you quickly so an attorney can advise you on keeping the product, packaging, and receipts intact before anything is discarded or repaired."
+      },
+      {
+        "title": "More than one party may answer for the defect",
+        "desc": "Manufacturers, distributors, and retailers can all be held liable under California law. An independent attorney can help sort out who belongs in the claim rather than leaving you to guess."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My tire blew out on SR-91 in Anaheim and I crashed. Is that a product liability case?",
+        "answer": "It might be, if the tire had a manufacturing or design defect that caused the failure. Because California applies strict liability to defective products, you generally would not have to prove the tire maker was negligent — only that the defect existed and caused your injury. Keep the tire, the wheel, and any service records, and avoid letting a shop dispose of them. An attorney can arrange for the components to be examined."
+      },
+      {
+        "question": "I threw away the product that hurt me. Do I still have a claim?",
+        "answer": "Losing the item makes the claim harder, but it doesn't always end it. Photos, packaging, purchase records, medical notes describing the injury, and reports of the same defect in other units can still support a case. Talk to an attorney before assuming it's over."
+      },
+      {
+        "question": "Do I have to sue the store in Orange County that sold me the item?",
+        "answer": "Not necessarily, but California law allows retailers to be held liable alongside manufacturers and distributors. Which parties end up in a claim depends on the facts, including who made, shipped, and sold the product. An independent attorney from our network can walk through those options with you at no upfront cost."
+      }
+    ]
+  }
+}

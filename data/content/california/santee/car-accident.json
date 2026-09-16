@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "santee car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santee Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Santee car accident? Get connected free with an independent attorney. No fee unless you recover. Serving San Diego County."
+  },
+  "hero": {
+    "subtitle": "If a crash on Mission Gorge Road, SR-52, or another Santee corridor left you hurt, LawProactive can connect you with an independent attorney at no cost to you."
+  },
+  "about": {
+    "title": "Santee Car Accident Claims",
+    "longDescription": "Santee sees a steady flow of traffic where SR-52 meets local streets like Mission Gorge Road, N Magnolia Avenue, and Cuyamaca Street, and public crash records show dozens of injury collisions here each year, with Monday mornings between 7 and 9 a.m. showing up often in the reports. If you were hurt in one of these crashes, the days right after matter — insurance adjusters move fast, and what you say to them can shape your claim before you've even seen a doctor twice. LawProactive doesn't represent you directly; we're a free service that connects injured Santee residents with an independent personal injury attorney who can review the details, help preserve evidence like photos and witness contacts, and handle communication with insurers so you don't have to. There's no obligation to move forward, and attorneys in our network work on contingency, meaning there's no fee unless you recover.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Back and spinal injuries",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Torn ligaments or joint damage",
+      "Cuts, bruises, and soft-tissue injuries"
+    ],
+    "ctaText": "Get connected with an attorney - free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Ticking",
+        "desc": "You generally have two years from the crash date to file a personal injury claim, but if a government vehicle or road defect was involved, that window can shrink to as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Comparative Fault Can Cut Into Your Claim",
+        "desc": "California allows recovery even if you're partly at fault, but your share of fault reduces your payout. An attorney can help make sure the insurer isn't unfairly shifting blame onto you to lower what you're owed."
+      },
+      {
+        "title": "No Cap Doesn't Mean No Fight",
+        "desc": "California doesn't limit non-economic damages like pain and suffering in most car accident cases, but insurers still push back hard on these amounts. Having someone negotiate on your behalf, on contingency with no upfront fee, can make a real difference."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's best to avoid giving a recorded statement before speaking with an attorney. Insurance adjusters are trained to ask questions that can be used to minimize your claim later. An independent attorney can advise you on what to say and when."
+      },
+      {
+        "question": "What if my accident happened near the SR-52 and Mission Gorge Road area?",
+        "answer": "Corridors like SR-52, Mission Gorge Road, N Magnolia Avenue, and Cuyamaca Street see a notable share of Santee's reported injury collisions. Wherever your crash happened, an attorney can request traffic camera footage, police reports, and other evidence tied to that specific location before it's lost."
+      },
+      {
+        "question": "How much does it cost to use LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no upfront cost or obligation to move forward."
+      }
+    ]
+  }
+}

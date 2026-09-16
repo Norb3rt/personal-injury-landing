@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "arroyo-grande workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Arroyo Grande Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Arroyo Grande? Get connected free with an independent attorney who can review your workers' comp or third-party claim."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Arroyo Grande, whether at a farm, warehouse, or job site near US-101, figuring out who's responsible and what to file can feel overwhelming. LawProactive connects you at no cost with an independent attorney who can sort out your options."
+  },
+  "about": {
+    "title": "Arroyo Grande Workplace Injury Claims",
+    "longDescription": "Arroyo Grande's economy runs on a mix of agriculture, hospitality, retail, and small industry, and workplace injuries here can happen anywhere from a vineyard off El Camino Real to a delivery route along E Grand Avenue. Most workers hurt on the job in California go through the workers' compensation system, which covers medical costs and lost wages regardless of fault but generally bars a separate lawsuit against the employer. That said, San Luis Obispo County job sites often involve subcontractors, delivery vehicles, or equipment made by outside companies, and any of those third parties can potentially be held liable in a separate injury claim. Sorting out whether your situation involves only workers' comp or also a third-party claim isn't something you should have to figure out alone. LawProactive is a free connection service, not a law firm, and we can put you in touch with an independent attorney who reviews the facts and explains what applies to your case.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or falls",
+      "Repetitive motion injuries from packing or assembly work",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from farm or vineyard equipment",
+      "Vehicle collisions during work deliveries or travel",
+      "Burns or chemical exposure on job sites"
+    ],
+    "ctaText": "Get connected with an independent attorney about your workplace injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California generally treats workers' comp as the exclusive remedy against your employer, but a negligent third party like a subcontractor, property owner, or equipment maker may still be liable separately. An attorney can spot when a third-party claim applies alongside your comp case."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "You typically need to notify your employer of a workplace injury within 30 days, and missing that window can complicate your benefits. Getting guidance early helps make sure this step isn't overlooked."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to punish you for reporting an injury or filing a claim. If you're worried about your job while dealing with an injury, an attorney can explain your protections under California law."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I still file a claim if my injury happened on a farm or agricultural job near Arroyo Grande?",
+        "answer": "Yes, agricultural workers are generally covered by California workers' compensation just like other employees. If your injury involved defective equipment or a contractor outside your direct employer, there may also be a separate third-party claim worth exploring. An independent attorney can look at the specifics of your job site and situation."
+      },
+      {
+        "question": "What if my workplace injury happened during a work-related drive on US-101 or E Grand Avenue?",
+        "answer": "If you were injured in a vehicle collision while performing job duties, you may have both a workers' comp claim and a separate claim against another driver if they were at fault. Third-party injury claims in California generally carry a two-year filing deadline. An attorney can help determine how both claims interact in your case."
+      },
+      {
+        "question": "Will reporting my injury put my job at risk?",
+        "answer": "California law prohibits employers from retaliating against workers who report injuries or file claims in good faith. If you're experiencing pressure or pushback at work after an injury, that's worth discussing with an attorney. LawProactive can connect you with someone who handles these situations regularly."
+      }
+    ]
+  }
+}

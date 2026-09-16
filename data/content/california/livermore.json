@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "livermore city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Livermore, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Livermore or elsewhere in Alameda County? You have 2 years to file. Get connected free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From freeway collisions on I-580 to slip-and-fall injuries and dog bites, LawProactive connects Livermore residents with an independent personal injury attorney at no cost. Serving all of Alameda County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Livermore, California",
+    "longDescription": "Livermore sits at the eastern edge of Alameda County, where I-580 carries commuters in both directions and Isabel Avenue links the freeway to the rest of town. Public records for 2025, the most recent finalized year, list 364 injury collisions in the city, 486 people injured, and 5 traffic deaths. The corridors that show up most often in those counts are I-580 Eastbound, I-580 Westbound, I-580 generally, and Isabel Avenue, and reported crashes tend to peak on Fridays between 5 p.m. and 7 p.m. Behind each number is a person who now has to deal with medical bills, missed work, and an insurance adjuster who calls before the bruises fade. LawProactive exists to take one task off that list. We are a free service, not a law firm. When you reach out, we connect you with an independent personal injury attorney who handles cases in Livermore and the surrounding parts of Alameda County. There is no charge for the connection, and the attorneys in our network work on contingency, meaning you owe no attorney fee unless there is a recovery. Whether you were hurt on the freeway, on a city street, or on someone else's property, a conversation costs nothing and can help you understand your options before deadlines start to matter.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Livermore Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken bones from car, motorcycle, and bicycle crashes",
+      "Back and spinal disc injuries",
+      "Pedestrian injuries at crosswalks and parking lots",
+      "Fall injuries at stores, restaurants, and rental properties"
+    ],
+    "ctaText": "Tell us what happened. We'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Livermore Claim",
+    "items": [
+      {
+        "title": "Two years to act, and sometimes far less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, a claim may need to be presented in as little as six months, so timing matters more than people expect."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "California follows pure comparative fault. Even if you were partly responsible, you can still pursue compensation; your share of fault reduces the recovery rather than eliminating it."
+      },
+      {
+        "title": "No statutory cap on pain-and-suffering damages",
+        "desc": "In ordinary personal injury cases, California places no legal cap on non-economic damages such as pain, suffering, and loss of enjoyment of life. Those losses count, and an attorney can help document them."
+      },
+      {
+        "title": "No attorney fee unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay no attorney fee up front, and none at all unless your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance company is pressuring me to accept a quick offer.",
+      "I can't work right now and the bills keep arriving.",
+      "I was partly at fault and don't know if I still have a case.",
+      "I'm not sure I can afford a lawyer at all."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes in Livermore tend to happen?",
+        "answer": "According to public collision records, the corridors with the highest counts in Livermore are I-580 Eastbound, I-580 Westbound, I-580 generally, and Isabel Avenue. In 2025, the city recorded 364 injury collisions involving 486 injured people and 5 traffic deaths. Reported crashes tend to peak on Fridays between 5 p.m. and 7 p.m. These figures are simply counts from the record and reflect traffic volume, not a judgment about any particular road."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date of the injury. If your claim is against a government entity, such as a city or Caltrans, you may need to file a formal claim within six months. Because the rules differ by situation, it helps to speak with an attorney early rather than waiting."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault, so being partly responsible does not bar you from recovering. Your compensation is reduced by your percentage of fault. For example, if you are found 20 percent at fault, you could still recover the remaining 80 percent of your damages."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not give legal advice or represent you; the attorney you are connected with does. There is no cost to use our service."
+      },
+      {
+        "question": "How does a contingency fee work?",
+        "answer": "The attorneys in our network work on contingency, which means they are paid a percentage of any recovery rather than an hourly fee. If there is no recovery, you owe no attorney fee. The specific percentage and terms are explained in the written agreement you sign with the attorney before any work begins."
+      }
+    ]
+  }
+}

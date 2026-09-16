@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "mountain-view medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mountain View Medical Malpractice Lawyer Connection",
+    "metaDescription": "Hurt by a medical error in Mountain View? LawProactive connects you free with an independent malpractice attorney who knows California's MICRA rules."
+  },
+  "hero": {
+    "subtitle": "When treatment in Mountain View leaves you worse off than you should be, sorting out whether a provider fell below the standard of care is not something you have to do alone. LawProactive connects you, at no cost, with an independent attorney who handles medical negligence claims in Santa Clara County."
+  },
+  "about": {
+    "title": "Mountain View Medical Malpractice Claims",
+    "longDescription": "Medical care in Mountain View happens at a brisk pace. Roughly 80,000 people live here, and many more commute in along US-101, SR-85 and El Camino Real each weekday, so clinics and specialists across Santa Clara County stay busy. Most visits go the way they should. Sometimes they do not, and the harm is not simply bad luck but a provider falling below the accepted standard of care. That distinction matters under California law. A poor result on its own is not malpractice; a medical malpractice claim has to show what a reasonably careful provider would have done differently and that the difference caused the injury. LawProactive exists to take one task off your plate. Tell us what happened, and at no cost we connect you with an independent attorney who handles medical negligence cases and understands the MICRA framework, from the one-year discovery clock to the 90-day notice requirement. The attorney works on contingency, so there is no fee unless your case recovers something. You are never obligated to move forward.",
+    "commonInjuriesTitle": "Harm Commonly Tied to Medical Negligence",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors and retained instruments",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from lapses in sterile procedure"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Mountain View Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA's Clock Is Short",
+        "desc": "California generally gives you one year from the date you discovered the harm, and never more than three years from the injury itself, to file a medical malpractice case. The attorney we connect you with can pin down which deadline applies to your situation before time runs out."
+      },
+      {
+        "title": "The 90-Day Notice Step",
+        "desc": "Before a malpractice lawsuit can be filed in California, the provider must receive a written notice of intent at least 90 days in advance. An attorney handles that notice so a procedural misstep doesn't sink an otherwise solid claim."
+      },
+      {
+        "title": "Expert Review Up Front",
+        "desc": "Nearly every malpractice case needs a qualified medical expert to explain how the care fell short and why that lapse caused the injury. Independent attorneys in our network arrange that review, and because they work on contingency, you owe nothing unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Mountain View but the provider's group is based in another city. Does that change anything?",
+        "answer": "Usually not in a way that should worry you. Claims arising from care received in Mountain View are typically handled through the Santa Clara County court system, regardless of where a medical group keeps its main office. The attorney you're connected with sorts out venue, identifies every responsible party, and makes sure the 90-day notice reaches each of them."
+      },
+      {
+        "question": "My surgery didn't turn out the way I hoped. Is that automatically malpractice?",
+        "answer": "No. California law is clear that a bad outcome by itself is not negligence, since even careful medicine carries risk. What matters is whether the provider did something a reasonably skilled provider would not have done, or skipped something they should have done, and whether that caused your harm. An attorney working with a medical expert can tell you whether your case fits that test."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California's MICRA law caps non-economic damages, meaning compensation for things like pain and loss of enjoyment of life, and that cap increases every year under the current statute. Economic losses such as medical bills and lost income are not subject to that cap. An attorney can explain how the figures apply to your specific claim; no one can promise a particular result."
+      }
+    ]
+  }
+}

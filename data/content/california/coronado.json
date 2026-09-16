@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "coronado city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Coronado, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Coronado? Connect free with an independent San Diego County attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash, a bike collision, or a fall, we'll connect you free with an independent attorney serving San Diego County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Coronado, California",
+    "longDescription": "Coronado's compact island streets carry a steady stream of visitors, cyclists, and residents, and that mix shows up in the numbers: 103 injury collisions and 140 people injured in the most recent full year, with no traffic deaths reported. Silver Strand Boulevard, Orange Avenue, 4th Street, and 3rd Street see the highest volume of reported collisions, and crash reports tend to cluster on Friday afternoons between 3 and 5 p.m., likely tied to weekend travel and beach traffic. If you were hurt anywhere in Coronado, sorting out medical care, insurance calls, and paperwork can feel like a lot on top of recovering. LawProactive is a free service — not a law firm — that connects injured people in San Diego County with an independent personal injury attorney who can look at what happened and explain your options. There's no cost to talk, and attorneys in our network work on contingency, meaning no fee unless there's a recovery. You don't have to figure out California's filing deadlines or fault rules alone; a quick conversation can help you understand where things stand before time works against you.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Road rash and cuts from bike or scooter falls",
+      "Back and spinal injuries",
+      "Shoulder and knee ligament damage"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Clock Is Real",
+        "desc": "Most injury claims in California must be filed within 2 years, but claims against a government entity can require notice in as little as 6 months. Waiting too long can close doors you didn't know were closing."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Claim",
+        "desc": "California follows pure comparative fault, so even if you share some blame for what happened, you may still recover a reduced amount. An attorney can help explain how fault might be assessed in your situation."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means your losses beyond medical bills and lost wages can still be part of the conversation."
+      },
+      {
+        "title": "You Pay Nothing Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to have your case reviewed. If there's no recovery, there's no fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Wondering who pays the medical bills piling up",
+      "Worrying that admitting any fault means losing everything",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing how much time is left to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Coronado?",
+        "answer": "California generally gives you 2 years from the date of the injury to file most personal injury claims. If a government entity, like the city, is involved, the window can be as short as 6 months to file a formal claim. An attorney can help you figure out which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means being partly responsible doesn't bar you from recovering compensation. Your recovery may simply be reduced by your percentage of fault. It's worth discussing the details with an attorney rather than assuming you're out of options."
+      },
+      {
+        "question": "Where do crashes tend to happen in Coronado?",
+        "answer": "Public collision records show Silver Strand Boulevard, Orange Avenue, 4th Street, and 3rd Street have the highest volume of reported collisions in Coronado, with Friday afternoons between 3 and 5 p.m. showing more reports than other times. These are neutral count-based observations, not a judgment about any location's safety."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases, California does not cap non-economic damages such as pain and suffering. Your specific damages depend on the facts of your case, which an attorney can review with you."
+      },
+      {
+        "question": "Does it cost anything to speak with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in our network work on contingency, so there's no fee unless you actually recover compensation."
+      }
+    ]
+  }
+}

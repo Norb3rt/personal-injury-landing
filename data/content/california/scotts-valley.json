@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "scotts-valley city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Scotts Valley, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Scotts Valley or Santa Cruz County? Free attorney connection, 2 years to file, no fee unless you win. Reach out today."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on SR-17 or injured in a fall somewhere else in town, we'll connect you with an independent attorney at no cost, serving all of Santa Cruz County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Scotts Valley, California",
+    "longDescription": "Scotts Valley is a small city, but its roads carry a steady flow of daily traffic — Mt Hermon Road, Scotts Valley Drive, SR-17, and Glenwood Drive all see regular use as commuters move between the San Lorenzo Valley and Silicon Valley. In the most recent reporting year, the city recorded 16 injury collisions and 16 people injured, with no traffic deaths. Reported crashes here tend to cluster on Tuesday afternoons between 3 and 5 p.m., a pattern consistent with commute-hour congestion rather than any single hazardous spot. If you were hurt in a crash, a fall, or another accident caused by someone else's carelessness, sorting out medical bills and insurance calls on top of recovering can feel like too much at once. LawProactive is a free service that connects injured people in Scotts Valley with an independent personal injury attorney — we are not a law firm, and we don't charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from vehicle or bicycle crashes",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from slip-and-fall or premises accidents"
+    ],
+    "ctaText": "Tell us what happened — the connection is free, with no pressure to proceed."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before Moving Forward",
+    "items": [
+      {
+        "title": "A Filing Deadline Applies",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government agency can require notice in as little as six months. Waiting too long can close the door on your options."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "Under California's pure comparative fault rule, you can still recover compensation even if you shared some responsibility for what happened. Your recovery is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain-and-Suffering Damages",
+        "desc": "In an ordinary injury case, California places no limit on non-economic damages like pain and suffering. That means the full impact of your injury on your life can be part of the conversation."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money on your behalf. That structure lets you focus on healing instead of legal bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Feeling pressured by an insurance adjuster to accept a fast, low settlement",
+      "Not knowing whether you can still file if you were partly at fault",
+      "Fearing that hiring help will cost money you don't have right now"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Scotts Valley?",
+        "answer": "California generally allows two years from the date of injury to file most personal injury claims. If a government entity, like a city or county road department, was involved, the deadline can be as short as six months, so it's worth acting sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you were partially responsible. Your total recovery is reduced by your share of fault, but it isn't barred outright."
+      },
+      {
+        "question": "Where do crashes tend to be reported in Scotts Valley?",
+        "answer": "Public collision records show that Mt Hermon Road, Scotts Valley Drive, SR-17, and Glenwood Drive are the corridors with the highest reported collision counts in the city, with activity often clustering on Tuesday afternoons between 3 and 5 p.m. These are simply the roads that see the most reported activity, not a judgment about any particular location."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. In a standard personal injury case in California, there's no statutory cap on non-economic damages such as pain and suffering. Every case is different, and outcomes depend on the specific facts involved."
+      },
+      {
+        "question": "Will I owe money upfront to get help?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on a contingency basis, meaning they only get paid if you recover compensation. There's no obligation to move forward after speaking with someone."
+      }
+    ]
+  }
+}

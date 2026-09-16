@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "piedmont car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Piedmont Car Accident Help | LawProactive",
+    "metaDescription": "Hurt in a Piedmont car accident? Get connected free with an independent CA attorney. No fee unless you recover. Fast, no-obligation help."
+  },
+  "hero": {
+    "subtitle": "If a crash on Grand Avenue, Highland Avenue, or the Hampton Road corridor left you hurt, LawProactive can connect you with an independent Piedmont-area attorney at no cost to you."
+  },
+  "about": {
+    "title": "Piedmont Car Accident Claims",
+    "longDescription": "Piedmont is a small, quiet city inside Alameda County, but its residential streets still see their share of collisions. Public records show 12 injury crashes and 13 injured people in the most recent full year, with reported crashes trending toward Wednesday nights between midnight and 2 a.m. Corridors like Hampton Road, Grand Avenue, Oakland Avenue, and Highland Avenue account for a notable share of these incidents. If you were hurt in one of these crashes, the period right after matters — insurers move fast, and evidence like skid marks, damaged vehicles, and witness memories fade quickly. LawProactive isn't a law firm; we're a free service that connects injured Piedmont residents with an independent personal injury attorney who can evaluate what happened, explain your options under California law, and work on a contingency basis, meaning there's no fee unless you recover something.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Broken bones or fractures",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries from impact"
+    ],
+    "ctaText": "Get connected with an independent attorney today, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Shorter Than You Think",
+        "desc": "You generally have two years to file a car accident claim in California, but if a government vehicle or roadway defect was involved, that window can shrink to as little as six months. An attorney can help you figure out which deadline applies before it's too late."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California uses pure comparative fault, meaning any statement you make to an insurer about how the crash happened can be used to shift blame onto you and reduce your recovery. It's wise to avoid giving a recorded statement until you've spoken with someone representing your interests."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to find out where you stand. This also means there's no cap on non-economic damages like pain and suffering under California law, which matters when injuries affect daily life."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I really need a lawyer for a crash on a street like Hampton Road?",
+        "answer": "Not every fender-bender requires an attorney, but if you were injured, even on a quieter residential block like Hampton Road, it's worth having someone review the details. Insurers still look for ways to reduce payouts regardless of how minor the road may seem. A quick, free consultation can tell you whether it's worth pursuing."
+      },
+      {
+        "question": "What if the crash happened late at night and there were no witnesses?",
+        "answer": "Piedmont's crash data shows a tendency for incidents to cluster late Wednesday nights, often with fewer people around. An attorney can help gather other evidence, like traffic camera footage, vehicle damage patterns, or 911 call records, to help reconstruct what happened."
+      },
+      {
+        "question": "How long do I have to bring a claim after a car accident in Piedmont?",
+        "answer": "California generally allows two years from the date of the crash to file a personal injury lawsuit. That said, if any part of the accident involved a government entity, such as a city-maintained road defect, the deadline can be far shorter, sometimes just six months. It's best to get guidance early rather than risk missing a shortened window."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "costa-mesa city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Costa Mesa, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Costa Mesa? Connect free with an Orange County injury attorney. Most claims allow 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a crash on Harbor Boulevard, a fall in a store, or a dog bite left you hurt, LawProactive connects you with an independent injury attorney at no cost. Serving Costa Mesa and all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Costa Mesa, California",
+    "longDescription": "Costa Mesa sits where two heavily traveled routes meet, and the public record reflects that. In 2025, the city's final count showed 619 injury collisions, 847 people hurt, and 4 traffic deaths. The highest collision volumes were logged along Newport Boulevard, Harbor Boulevard, and both directions of SR-55, with reported crashes tending to cluster on Fridays between 5 p.m. and 7 p.m., when the afternoon commute and weekend traffic overlap. A collision is only one way to get hurt here. A slip inside a shop off Harbor, a dog bite on a neighborhood walk, a cyclist clipped at a driveway, or a wreck with a delivery van can all leave you juggling medical bills and missed paychecks at once. That is where LawProactive fits in. We are a free service, not a law firm. We do not give legal advice and we do not handle your claim. What we do is connect you with an independent personal injury attorney who serves Costa Mesa and the wider Orange County area. Attorneys in the network work on contingency, meaning there is no fee unless there is a recovery. Reaching out costs nothing, and you decide whether to move forward after you have talked things through.",
+    "commonInjuriesTitle": "Injuries Costa Mesa Residents Commonly Report",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken wrists, hips, and ankles after falls",
+      "Concussions and other head trauma",
+      "Back and spinal disc injuries",
+      "Road rash and fractures from motorcycle or bicycle crashes",
+      "Puncture wounds and scarring from dog bites"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Costa Mesa Claim",
+    "items": [
+      {
+        "title": "You generally have two years, but not always",
+        "desc": "California gives most injury claims a two-year filing window. Claims against a city, county, or state agency can require notice in as little as six months, so it pays to act early."
+      },
+      {
+        "title": "Partial fault doesn't shut you out",
+        "desc": "California follows pure comparative fault. If you share some blame for a crash on Newport Boulevard, your recovery is reduced by your percentage, not erased."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For typical injury claims in California, there is no statutory ceiling on non-economic damages like pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay no fee unless there is a recovery, and connecting through us is always free."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling, and I don't know what to say.",
+      "I can't work right now, and the bills are piling up.",
+      "I was partly at fault, so I assume I have no case.",
+      "I've never hired a lawyer and I'm worried about what it costs."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Costa Mesa tend to occur, according to public records?",
+        "answer": "The 2025 public-record counts show the highest collision volumes along Newport Boulevard, Harbor Boulevard, and SR-55 in both the northbound and southbound directions. Reported crashes tend to peak on Fridays between 5 p.m. and 7 p.m. These are neutral counts that reflect traffic volume and reporting, not a judgment about any particular road."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Costa Mesa?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date of injury. If a government entity is involved, such as a city vehicle or a public sidewalk, you may need to file a claim within six months. An attorney can help you sort out which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses pure comparative fault, which means sharing blame reduces your recovery rather than eliminating it. If you were found 25 percent responsible, for example, your compensation would be reduced by that share. Many people assume they have no claim when they actually do."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not provide legal advice or represent you. Once connected, your relationship is directly with the attorney."
+      },
+      {
+        "question": "What will it cost me to talk to an attorney?",
+        "answer": "Connecting through LawProactive is free, and the attorneys in our network work on contingency. That means there is no fee unless there is a recovery in your case. You can ask questions and understand your options before deciding anything."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "san-luis-obispo workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Help in San Luis Obispo, CA | LawProactive",
+    "metaDescription": "Hurt on the job in San Luis Obispo? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "When a job site injury sidelines you in San Luis Obispo, the paperwork and deadlines can feel like a second full-time job. LawProactive connects you, at no cost, with an independent attorney who can sort out what you're owed."
+  },
+  "about": {
+    "title": "San Luis Obispo Workplace Injury Claims",
+    "longDescription": "San Luis Obispo's economy runs on a mix of construction, agriculture, hospitality, retail, and Cal Poly-adjacent services — and each of those settings carries its own injury risks, from ladder falls on a Higuera Street remodel to strains at a warehouse near Broad Street. Most workplace injuries here route through California's workers' compensation system, which pays medical care and partial wage replacement regardless of fault but generally blocks a lawsuit against your own employer. That said, if a subcontractor, equipment manufacturer, property owner, or someone outside your employer contributed to the accident, a separate third-party injury claim may be available alongside your comp benefits. LawProactive doesn't practice law — we simply connect you with an independent attorney in our network who can look at your situation, explain your options in plain terms, and help you understand whether a third-party claim applies. There's no cost to get that conversation started.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or roofs",
+      "Repetitive strain and overexertion injuries",
+      "Machinery and equipment-related injuries",
+      "Vehicle or forklift accidents at worksites",
+      "Burns or chemical exposure incidents",
+      "Slip-and-fall injuries on wet or uneven surfaces"
+    ],
+    "ctaText": "Find out if you also have a third-party claim — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your SLO Workplace Injury",
+    "items": [
+      {
+        "title": "Comp Isn't Always the Whole Picture",
+        "desc": "California generally makes workers' comp your exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can still be held separately liable. An attorney can spot when that door is open."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "You typically have 30 days to report a workplace injury to your employer, and missing that window can jeopardize your comp benefits. Getting guidance early helps make sure that step isn't overlooked."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting an injury or filing a claim. An attorney can help you understand your rights if you feel pressured after speaking up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working near US-101 or Los Osos Valley Road — is that a workplace claim or a car accident claim?",
+        "answer": "It could be both. If you were driving or working near traffic on a job-related task, workers' comp may cover your medical costs and lost wages, while a separate third-party claim against another driver could address damages comp doesn't cover. An attorney can look at the specifics of your San Luis Obispo incident and sort out which claims apply."
+      },
+      {
+        "question": "Can I sue my employer directly for my injury?",
+        "answer": "In most cases, no — California's workers' compensation system is the exclusive remedy against your employer regardless of fault. However, if someone outside your employer, like a subcontractor or a product manufacturer, contributed to your injury, you may have a separate claim against them."
+      },
+      {
+        "question": "What if my employer discourages me from reporting my injury?",
+        "answer": "That kind of pressure is not allowed — retaliation for reporting a workplace injury or filing a claim is illegal under California law. Documenting what happened and speaking with an independent attorney can help protect your rights going forward."
+      }
+    ]
+  }
+}

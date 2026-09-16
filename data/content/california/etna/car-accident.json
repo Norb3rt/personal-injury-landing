@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "etna car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Etna Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a car accident in Etna, CA? Get connected free with an independent injury attorney near Siskiyou County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Main Street, State Route 3, or Rt 3 in Etna left you hurt, you don't have to sort out insurance calls and medical bills alone. LawProactive connects you, at no cost, with an independent California attorney who handles cases like yours."
+  },
+  "about": {
+    "title": "Etna Car Accident Claims",
+    "longDescription": "Etna is a small town, and that's part of why a single crash here can feel so disruptive — everyone seems to hear about it within a day. Siskiyou County's most recent full-year data shows just one injury collision and one person hurt, which reflects Etna's low traffic volume rather than any indication about your own situation. Most reported crashes cluster on Fridays in the early afternoon, often along Main Street or State Route 3, where local traffic mixes with through-travelers on Rt 3. Whether you were rear-ended near town or sideswiped out on the highway, the days right after a crash matter: photos fade from phones, vehicles get repaired or scrapped, and insurance adjusters start building their file quickly. LawProactive doesn't practice law or charge you anything — we simply connect you with an independent attorney who can look at what happened and explain your options under California law.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Car Accidents",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Back and spinal disc injuries",
+      "Concussions and other head trauma",
+      "Broken bones or fractures",
+      "Deep cuts and lacerations",
+      "Shoulder or knee ligament tears"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "California's Filing Clock Is Short",
+        "desc": "You generally have two years from the crash to file a car accident lawsuit in California, but that window can shrink to as little as six months if a government entity — like a road authority responsible for State Route 3 — is involved. Waiting too long to talk to someone can close doors you didn't know were open."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California uses pure comparative fault, meaning your compensation can be reduced by whatever percentage of blame gets assigned to you, even if that's just a small share. Anything you say to an insurance adjuster before understanding this can be used to inflate your share of fault."
+      },
+      {
+        "title": "No Cap on What You're Owed for Pain and Suffering",
+        "desc": "California doesn't limit non-economic damages like pain, suffering, or loss of enjoyment of life in most car accident cases. An attorney working on contingency has no incentive to undervalue that part of your claim, since they're only paid if you recover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I really need a lawyer for a crash in a town as small as Etna?",
+        "answer": "Even in a small community like Etna, insurance companies apply the same tactics they'd use in a big city — they're just as likely to dispute fault or downplay injuries. An independent attorney can look at your specific crash, whether it happened on Main Street or out on Rt 3, and tell you honestly whether representation would help. There's no cost to find out."
+      },
+      {
+        "question": "Should I give the other driver's insurance company a recorded statement?",
+        "answer": "It's best to avoid giving a recorded statement until you've spoken with an attorney, since insurers often use those statements to find ways to reduce or deny a claim. You're not obligated to provide one right away, and anything you say can be taken out of context later. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "How long do I have to bring a claim after a crash on State Route 3?",
+        "answer": "In California, you typically have two years from the date of the crash to file a personal injury lawsuit. If your crash involved a government-maintained road or vehicle, that deadline can be as short as six months, so it's worth having someone review the details of your situation sooner rather than later."
+      }
+    ]
+  }
+}

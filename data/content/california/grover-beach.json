@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "grover-beach city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Grover Beach, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Grover Beach? Connect free with an independent SLO County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on W Grand Avenue or injured as a pedestrian near N 4th Street, we can connect you at no cost with an independent attorney serving San Luis Obispo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Grover Beach, California",
+    "longDescription": "Grover Beach may be a small coastal town of about 13,600 people, but its streets still see their share of collisions. Recent public records show 24 injury collisions in a single year, leaving 34 people hurt — thankfully with no traffic deaths reported that year. Corridors like W Grand Avenue, N 4th Street, N Oak Park Boulevard, and S Oak Park Boulevard carry heavier volumes of reported crashes than side streets, and reports tend to cluster on Friday afternoons between 4 and 6 p.m., likely tied to end-of-week traffic. If you were hurt in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — that helps injured people in Grover Beach get connected with an independent personal injury attorney who can review what happened. There's no cost to reach out, and attorneys in the network only get paid if you recover compensation. Understanding your options early can matter, especially with California's filing deadlines in mind.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and lacerations",
+      "Soft tissue damage"
+    ],
+    "ctaText": "Reach out today to see if a free connection could help your situation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Two-Year Filing Window",
+        "desc": "Most injury claims in California must be filed within two years of the incident. Claims against a government entity can require notice in as little as six months, so timing matters."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible — your share of fault simply reduces the amount."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California does not limit compensation for pain, suffering, and other non-economic losses tied to your injury."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in the network work on contingency, so there's no upfront cost and no fee unless you actually recover compensation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you can still get help because you were partly at fault",
+      "Fearing you've already missed a deadline to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Grover Beach?",
+        "answer": "California generally gives you two years from the date of the incident to file a personal injury claim. If a government entity was involved, such as a city road issue, that window can shrink to as little as six months, so it helps to act early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your recovery is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do reported crashes tend to cluster in Grover Beach?",
+        "answer": "Public collision records show higher counts along W Grand Avenue, N 4th Street, N Oak Park Boulevard, and S Oak Park Boulevard, with reports often peaking on Fridays between 4 and 6 p.m. These are simply neutral counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in the network work on contingency, meaning they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We're a free service that helps connect injured people in Grover Beach with an independent attorney who can evaluate their situation."
+      }
+    ]
+  }
+}

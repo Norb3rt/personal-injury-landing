@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "monte-sereno medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Monte Sereno Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error near Monte Sereno? Get connected free to an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay near Monte Sereno goes wrong, California's medical malpractice rules are strict and time-sensitive. LawProactive can connect you with an independent attorney who handles these claims, at no cost to you."
+  },
+  "about": {
+    "title": "Monte Sereno Medical Malpractice Claims",
+    "longDescription": "Monte Sereno is a small hillside community of about 3,556 residents tucked into Santa Clara County, and most people here rely on hospitals and specialists in Los Gatos, Campbell, or San Jose for anything beyond routine care. That distance can matter when something goes wrong during treatment. A missed diagnosis, a surgical mistake, or a medication mix-up doesn't always look like malpractice at first; it can take time and a qualified medical expert to sort out whether a provider fell below the accepted standard of care. California's MICRA law adds its own layer of complexity, with a short window to act and specific notice requirements before a lawsuit can even be filed. LawProactive doesn't practice law itself; we simply connect Monte Sereno residents with independent attorneys who evaluate these cases on contingency, so there's no upfront cost to find out where you stand.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect You On",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical or procedural errors",
+      "Medication and dosage mistakes",
+      "Anesthesia complications",
+      "Birth injuries to mother or child",
+      "Hospital-acquired infections"
+    ],
+    "ctaText": "Ask about your situation, free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Understanding MICRA Matters Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Starts Early",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim. Waiting to sort out what happened can quietly cost you the right to pursue it at all."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can be filed, California law typically requires a 90-day notice to the provider or facility. Missing this step, or handling it incorrectly, can delay or derail an otherwise valid claim."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "California places a statutory limit on non-economic damages like pain and suffering, and that cap increases annually. An independent attorney can walk you through how this affects your specific case and what other damages may still be pursued."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Monte Sereno but was treated at a hospital in San Jose or Los Gatos. Does that change anything?",
+        "answer": "Not usually. California's MICRA rules apply based on where the treatment occurred and the type of provider involved, not your home address. Many Monte Sereno residents are treated at nearby Santa Clara County facilities, and an attorney can review records from any of them."
+      },
+      {
+        "question": "How do I know if a bad medical outcome was actually malpractice?",
+        "answer": "A poor result alone isn't enough under California law; the provider must have deviated from the accepted standard of care and caused harm. This almost always requires review by a qualified medical expert, which is something an independent attorney can arrange as part of evaluating your case."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing upfront. LawProactive is a free connection service, and the independent attorneys in the network typically work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

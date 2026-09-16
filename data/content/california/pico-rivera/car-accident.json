@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "pico-rivera car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pico Rivera Car Accident Help | LawProactive",
+    "metaDescription": "Free connection to an independent injury attorney for Pico Rivera car accident cases. No fee unless you recover. Learn your options today."
+  },
+  "hero": {
+    "subtitle": "After a car accident on Rosemead Boulevard or Slauson Avenue, the paperwork and insurance calls can feel like a second collision. LawProactive connects Pico Rivera drivers with an independent attorney who can help sort it out, free of charge."
+  },
+  "about": {
+    "title": "Pico Rivera Car Accident Claims",
+    "longDescription": "Pico Rivera's busiest streets — Rosemead Boulevard, Whittier Boulevard, Slauson Avenue, and Paramount Boulevard — see a steady flow of traffic every day, and public records show 185 injury collisions here in the most recent full year, with 250 people hurt. Thursday evenings between 5 and 7 p.m. tend to see more reported crashes, likely tied to commute and errand traffic converging at once. If you were hurt in one of these collisions, what happens in the days right after matters. Insurance adjusters often move fast, sometimes asking for a recorded statement before you've even seen a doctor. LawProactive doesn't practice law itself — we're a free service that connects injured Pico Rivera residents with an independent personal injury attorney who can evaluate the crash, help preserve evidence like dashcam footage or skid marks, and handle communication with insurers so you don't have to navigate it alone.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Herniated or bulging discs",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Torn ligaments or soft tissue damage",
+      "Back and spinal injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer Calls Back",
+    "items": [
+      {
+        "title": "California's Clock Is Already Running",
+        "desc": "You generally have two years from the crash date to file a car accident claim in California, but that window can shrink to as little as six months if a government entity — like a city vehicle or a defect in a public road — was involved. An attorney can help you figure out which deadline applies before it passes."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You Fast",
+        "desc": "California allows you to recover damages even if you were partly at fault, but your share of blame reduces your payout. What you say in an early recorded statement to the other driver's insurer can be used to shift more fault onto you, which is why many attorneys recommend avoiding those calls until you've had guidance."
+      },
+      {
+        "title": "No Cap Means Your Full Losses Can Be Considered",
+        "desc": "California doesn't limit non-economic damages like pain and suffering in car accident cases, so a thorough evaluation of how the crash affected your daily life matters. Attorneys in our network work on contingency, meaning there's no upfront cost and no fee unless you recover something."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What should I do if my accident happened on Whittier Boulevard or another busy Pico Rivera corridor?",
+        "answer": "Try to document the scene with photos, get contact information from any witnesses, and seek medical attention even if you feel okay at first. Public crash data shows these corridors carry heavy volume, so nearby traffic cameras or business surveillance may have captured the incident — an attorney can help track that down before it's deleted."
+      },
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid this until you've spoken with an attorney. Insurers sometimes use recorded statements to find ways to reduce or deny a claim, and California's comparative fault rules mean even small admissions can affect what you're owed."
+      },
+      {
+        "question": "How much does it cost to work with an attorney through LawProactive?",
+        "answer": "LawProactive's connection service is free, and attorneys in the network typically work on contingency, meaning you pay nothing upfront and no fee unless there's a recovery. This lets you get legal guidance without worrying about cost while you focus on recovering."
+      }
+    ]
+  }
+}

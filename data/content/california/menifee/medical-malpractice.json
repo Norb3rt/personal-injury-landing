@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "menifee medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Menifee Medical Malpractice Attorney Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Menifee? LawProactive connects Riverside County patients with an independent malpractice attorney at no cost. Free case review."
+  },
+  "hero": {
+    "subtitle": "When care in Menifee falls short of what a competent provider should have done, you deserve a clear answer about what happened. LawProactive connects you, free of charge, with an independent medical malpractice attorney who handles Riverside County cases."
+  },
+  "about": {
+    "title": "Menifee Medical Malpractice Claims",
+    "longDescription": "Menifee has grown quickly, and with 87,174 residents spread across neighborhoods along Newport Road, Menifee Road, Murrieta Road and Scott Road, plenty of families here depend on local clinics, urgent care offices and regional hospitals for everyday treatment. Most visits go fine. Some do not, and it can be hard to tell whether a poor result was simple bad luck or a preventable mistake. California draws that line carefully. Under MICRA, a bad outcome by itself is not malpractice; you generally have to show a provider departed from the accepted standard of care and that the departure caused harm, which almost always calls for a qualified medical expert to review the records. Deadlines are tight too, typically one year from when you discovered the injury and never more than three years from the date it occurred, with a 90-day notice sent to the provider before any lawsuit is filed. LawProactive is not a law firm. We simply connect Menifee patients with an independent attorney who can evaluate the facts, at no cost to you.",
+    "commonInjuriesTitle": "Harm Frequently Tied to Medical Errors in Menifee",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of cancer, stroke or infection",
+      "Surgical mistakes, including wrong-site procedures",
+      "Medication and dosing errors",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Emergency room discharge without proper workup"
+    ],
+    "ctaText": "Ask an independent attorney whether your Menifee case qualifies. Free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Menifee Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Unforgiving",
+        "desc": "The one-year discovery rule and three-year outer limit leave little room for hesitation, and the 90-day pre-suit notice has to be handled correctly. An attorney in our network can map those dates to your situation right away."
+      },
+      {
+        "title": "Expert Review Comes Standard",
+        "desc": "California courts nearly always require a qualified medical expert to establish that care fell below the accepted standard. The independent attorneys we connect you with know how to line up that review before a claim is filed."
+      },
+      {
+        "title": "No Fee Unless There Is a Recovery",
+        "desc": "Our connection service is free, and network attorneys work on contingency. Because MICRA's cap on non-economic damages rises each year, having someone who tracks the current figure matters for valuing your claim honestly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Menifee but referred to a hospital elsewhere in Riverside County. Where would my claim be handled?",
+        "answer": "Many Menifee residents receive part of their care locally and part at larger facilities across the county, which is common in a fast-growing city. Venue usually depends on where the negligent act occurred and where the providers are located, not where you live. An independent attorney can sort out which providers are potentially responsible and where the case belongs. LawProactive will connect you with one who takes Riverside County matters."
+      },
+      {
+        "question": "My surgery did not go well. Does that mean I have a malpractice case?",
+        "answer": "Not necessarily. California law is explicit that a poor outcome alone is not malpractice; there must be a departure from the standard of care that actually caused your injury. A qualified medical expert generally has to review the records and confirm that departure. The only way to know is to have the facts evaluated, which is exactly the step we help arrange at no cost."
+      },
+      {
+        "question": "How long do I have to act, and what does the 90-day notice mean?",
+        "answer": "Under MICRA you generally have one year from the date you discovered, or reasonably should have discovered, the injury, and no more than three years from when the injury happened. Before filing suit, a written notice of intent must be sent to the provider at least 90 days in advance. Because these rules interact in ways that trip people up, the sooner an attorney reviews your timeline, the better."
+      }
+    ]
+  }
+}

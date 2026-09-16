@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "san-jacinto slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Jacinto Slip & Fall Attorney Help | LawProactive",
+    "metaDescription": "Hurt in a fall in San Jacinto? Get connected with an independent premises liability attorney. Free, no obligation. Contingency fee only."
+  },
+  "hero": {
+    "subtitle": "Fell at a store, apartment complex, or public building in San Jacinto? We'll connect you with an independent attorney who handles premises liability claims across Riverside County.'"
+  },
+  "about": {
+    "title": "San Jacinto Slip & Fall Claims",
+    "longDescription": "A fall can happen in seconds, but the aftermath often stretches on for weeks or months, medical visits, missed work, and questions about who's responsible. In San Jacinto, these cases arise in grocery stores and shopping areas along State Street, apartment complexes near San Jacinto Avenue, and public sidewalks throughout the city. California law requires showing that a property owner knew, or reasonably should have known, about a hazard and didn't fix it or warn people. That's why documentation matters so much: photos of the spill, torn carpet, or broken step; witness names; and any surveillance footage before it's deleted. LawProactive doesn't practice law, but we can connect you with an independent attorney in our network who understands how these claims are built and evaluated, and who works on contingency, meaning there's no upfront cost to you.",
+    "commonInjuries": [
+      "Hip and pelvis fractures",
+      "Wrist and arm fractures",
+      "Traumatic brain injury or concussion",
+      "Torn ligaments and tendons",
+      "Spinal disc injuries",
+      "Shoulder dislocations"
+    ],
+    "ctaText": "Get connected with an attorney about your fall — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a San Jacinto Fall",
+    "items": [
+      {
+        "title": "Notice Is Everything",
+        "desc": "Under California law, you generally must show the property owner knew or should have known about the hazard. An attorney can help identify inspection logs, prior complaints, or maintenance records that establish this."
+      },
+      {
+        "title": "Surveillance Video Disappears Fast",
+        "desc": "Many businesses overwrite security footage within days or weeks. Getting a preservation request out quickly can be the difference between having proof and having nothing."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, Your Claim",
+        "desc": "California uses pure comparative fault, so even if you're found partly responsible for the fall, you may still recover a reduced amount. An attorney can help present your side accurately."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in San Jacinto?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit. If a government-owned property in Riverside County was involved, like a public sidewalk or building, the deadline is much shorter and requires an early claim. It's best to get guidance as soon as possible so deadlines aren't missed."
+      },
+      {
+        "question": "What if I fell at a business on State Street or Ramona Expressway and there were no witnesses?",
+        "answer": "Witnesses help, but they aren't required to build a case. Surveillance video, incident reports, photos of the hazard, and your own written account of what happened can all support a claim. An attorney can help figure out what evidence is realistically available."
+      },
+      {
+        "question": "Do I need to prove the store or landlord actually knew about the hazard?",
+        "answer": "Not necessarily actual knowledge, California law also allows claims where the owner reasonably should have known about a dangerous condition, based on how long it existed or how obvious it was. This is often shown through cleaning schedules, past complaints, or how long the hazard was present before your fall."
+      }
+    ]
+  }
+}

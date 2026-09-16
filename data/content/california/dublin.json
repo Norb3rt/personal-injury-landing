@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "dublin city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dublin, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Dublin, Alameda County? Free connection to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash or fall in Dublin, we can connect you at no cost with an independent attorney serving Alameda County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Dublin, California",
+    "longDescription": "Dublin sits at a busy crossroads in Alameda County, and its growth has brought steady traffic to corridors like Dublin Boulevard, Dougherty Road, Amador Valley Boulevard, and Tassajara Road. In the most recent recorded year, the city logged 153 injury collisions and 197 people injured, along with 2 traffic deaths — numbers that reflect a community of nearly 58,000 residents moving through a network of arterial roads every day. Reports show crashes tend to cluster on Tuesdays between 5 and 7 p.m., a pattern likely tied to evening commute volume. Whether the injury happened in a car accident, a pedestrian incident, or a slip-and-fall, the aftermath is often confusing — medical bills pile up while questions about fault and insurance linger. LawProactive is a free service that connects injured people in Dublin with an independent personal injury attorney. We are not a law firm, we don't decide cases, and we never charge a fee for the connection. Any attorney you're matched with works on contingency, meaning there's no cost unless they recover money for you.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal injuries",
+      "Torn ligaments and joint damage",
+      "Cuts, bruises, and soft tissue injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Generally Have Two Years",
+        "desc": "California law gives most injury victims two years from the date of the incident to file a claim. If a government entity is involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you're found partly responsible for what happened, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages, such as pain and suffering, in standard injury cases."
+      },
+      {
+        "title": "You Pay Nothing Unless They Win",
+        "desc": "Attorneys connected through LawProactive work on contingency, so there's no upfront cost and no fee unless there's a recovery on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Fearing that being partly at fault means losing the right to any compensation",
+      "Feeling overwhelmed trying to find the right attorney while recovering"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after an injury in Dublin?",
+        "answer": "Under California law, you generally have two years from the date of the incident to file a personal injury claim. If your injury involved a government entity or vehicle, that deadline can be much shorter, sometimes six months, so it's wise to act promptly."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Dublin?",
+        "answer": "Public crash records show higher collision counts along corridors such as Dublin Boulevard, Dougherty Road, Amador Valley Boulevard, and Tassajara Road, with reports often peaking on Tuesdays between 5 and 7 p.m. These are simply recorded patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so you can still recover compensation even if you share some responsibility. Your recovery would just be reduced by your percentage of fault."
+      },
+      {
+        "question": "Will I owe anything upfront if I use LawProactive?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no cost to get connected."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most standard personal injury cases in California, there is no cap on non-economic damages like pain and suffering. The specific amount depends on the facts of your case, which an attorney can evaluate."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "corning medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Corning Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for Corning, CA patients. No fee unless you recover. Get informed about your options today."
+  },
+  "hero": {
+    "subtitle": "If you or a loved one were harmed by a misdiagnosis, surgical error, or medication mistake at a Corning-area facility, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California law."
+  },
+  "about": {
+    "title": "Corning Medical Malpractice Claims",
+    "longDescription": "Corning is a small Tehama County community, and many residents rely on nearby clinics and regional hospitals for care rather than large medical centers. When that care falls short — a delayed diagnosis, a surgical slip, or a medication error — the physical and emotional toll can be significant, especially in a town where healthcare options are limited. California law places strict rules around medical malpractice claims, including short deadlines and specific notice requirements, which makes it important to act promptly. LawProactive doesn't practice law or take on cases directly; instead, we connect Corning residents with independent attorneys who focus on medical negligence matters and can evaluate whether a case meets the legal standard for malpractice. A bad medical outcome by itself isn't proof of wrongdoing, so having someone review the specifics of what happened matters. Our service costs nothing upfront, and connected attorneys typically work on contingency, meaning there's no fee unless there's a recovery.",
+    "commonInjuriesTitle": "Common Types of Medical Malpractice We Help Connect",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to properly monitor a patient's condition"
+    ],
+    "ctaText": "Speak with an independent attorney about what happened — there's no cost to find out where you stand."
+  },
+  "whyChoose": {
+    "title": "Why Corning Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding of MICRA's Strict Timelines",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the harm, and no later than three years from the injury itself. Attorneys in our network know how to track these deadlines and the required 90-day pre-suit notice."
+      },
+      {
+        "title": "Familiarity with the Non-Economic Damages Cap",
+        "desc": "California law caps non-economic damages in malpractice cases, though that cap rises annually. An independent attorney can explain how this cap may apply to your specific circumstances."
+      },
+      {
+        "title": "Access to Qualified Medical Experts",
+        "desc": "Because California almost always requires expert testimony to support a malpractice claim, connected attorneys typically work with medical experts to determine whether the applicable standard of care was met."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Corning?",
+        "answer": "California generally gives you one year from when you discover the injury, or three years from when it happened, whichever comes first. There's also a required 90-day notice period before filing suit. Because these deadlines are strict and can vary by circumstance, it's worth having an attorney review your timeline soon."
+      },
+      {
+        "question": "Does a bad medical result automatically mean malpractice occurred?",
+        "answer": "No — an unfavorable outcome alone doesn't establish malpractice under California law. The claim generally requires showing that a provider deviated from the accepted standard of care and that deviation caused harm. A qualified medical expert is almost always needed to make that determination."
+      },
+      {
+        "question": "Corning is a small town — are there local hospitals or clinics involved in these claims?",
+        "answer": "Corning residents often receive care through smaller local clinics or travel to nearby Tehama County facilities for more complex treatment. Malpractice claims can involve any licensed provider, from primary care physicians to specialists at regional hospitals. An independent attorney can look into the specific facility and provider involved in your case."
+      }
+    ]
+  }
+}

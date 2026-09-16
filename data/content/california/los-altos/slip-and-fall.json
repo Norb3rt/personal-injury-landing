@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "los-altos slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Altos Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Los Altos? Get connected free to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Los Altos shopping center, office, or apartment complex can leave you with more questions than answers. LawProactive helps you connect, at no cost, with an independent attorney who handles Santa Clara County premises liability claims."
+  },
+  "about": {
+    "title": "Los Altos Slip & Fall & Premises Liability Claims",
+    "longDescription": "Los Altos blends quiet residential streets with busy retail stretches along El Camino Real and Foothill Expressway, and falls happen in both settings — a slick tile floor at a store, a cracked walkway outside an office park, a poorly lit stairwell in an apartment building near Fremont Avenue. Under California law, proving a premises liability claim means showing the property owner or manager knew, or reasonably should have known, about the hazard and didn't fix it or warn visitors in time. That's often the hardest part of these cases, which is why acting quickly to document the scene and identify any surveillance footage matters. LawProactive doesn't represent you directly; we're a free service that connects Los Altos residents and visitors who've been hurt with an independent local attorney who can evaluate the notice issue, the property's maintenance history, and what your claim might involve. There's no upfront cost, and attorneys in our network work on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures from bracing a fall",
+      "Traumatic brain injury or concussion",
+      "Torn ligaments and knee injuries",
+      "Spinal disc injuries and herniation",
+      "Shoulder dislocation or rotator cuff tears"
+    ],
+    "ctaText": "Get connected with an independent Los Altos premises liability attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Notice Requirement",
+        "desc": "California requires showing a property owner knew or should have known about a hazard before it can be held liable. An attorney can help identify what evidence — inspection logs, prior complaints, maintenance records — might establish that notice."
+      },
+      {
+        "title": "Preserving Surveillance Video Before It's Gone",
+        "desc": "Many Los Altos retailers and apartment complexes overwrite security footage within days or weeks. Acting quickly to request preservation of that footage can make a real difference in a premises claim."
+      },
+      {
+        "title": "Navigating Comparative Fault Fairly",
+        "desc": "California follows pure comparative fault, meaning your recovery can be reduced by your percentage of fault but isn't automatically barred. An independent attorney can help make sure your side of the story about the hazard is properly presented."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Los Altos?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit for injuries. If the property involved is owned by a government entity — such as a city building or public park — the deadline is much shorter and requires a claim filing first. Because the clock can vary, it's worth talking to an attorney sooner rather than later."
+      },
+      {
+        "question": "What if I fell at a business along El Camino Real or Foothill Expressway?",
+        "answer": "Commercial properties along these corridors are held to the same notice standard as any other premises: the owner or operator needs to have known, or reasonably should have known, about the hazard. Documenting where you fell, taking photos of the condition, and noting the time can help an attorney evaluate whether that standard is met."
+      },
+      {
+        "question": "Do I need proof the property owner knew about the hazard?",
+        "answer": "Yes, in most cases you need to show actual or constructive notice — meaning the owner either knew about the dangerous condition or should have discovered it through reasonable inspection. This is often the central issue in premises liability cases. An independent attorney can help gather records, witness statements, or footage that speaks to this."
+      }
+    ]
+  }
+}

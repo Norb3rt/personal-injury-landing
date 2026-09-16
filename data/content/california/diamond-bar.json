@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "diamond-bar city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Diamond Bar, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Diamond Bar? LA County resident, 2 years to file. Free, no-obligation connection to an attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident in Diamond Bar, you can connect free with an independent attorney serving Los Angeles County. There's no cost or obligation to get answers."
+  },
+  "about": {
+    "title": "Personal Injury Help in Diamond Bar, California",
+    "longDescription": "Diamond Bar sits at a crossroads of two major freeways, SR-60 and SR-57, along with busy surface streets like Diamond Bar Boulevard and Golden Springs Drive that carry commuters and local traffic through town every day. In the most recent full year of record, the city saw 355 injury collisions, with 492 people hurt and 5 lives lost. Crash reports tend to cluster on Friday afternoons between 3 and 5 p.m., when work traffic, school pickups, and weekend plans overlap on these corridors. Whether your accident happened merging onto SR-60, waiting at a light on Golden Springs, or crossing a Diamond Bar Boulevard intersection, the aftermath can leave you sorting through medical bills, insurance calls, and missed work. LawProactive is a free service — not a law firm — that connects injured people in Diamond Bar with an independent personal injury attorney who can review what happened. There's never a fee unless your case results in a recovery, and reaching out costs you nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Cuts, bruises, and soft-tissue injuries",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Get connected with an attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, but that window can shrink to as little as six months if a government entity, like a city road authority, is involved. Talking to someone early helps make sure you don't miss a deadline."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for the accident, you can still pursue compensation — it's simply reduced by your share of fault. An attorney can help sort out how fault is likely to be allocated in your situation."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Unlike some states, California places no cap on non-economic damages, like pain and suffering, in standard injury cases. That means your claim isn't artificially limited before it's even evaluated."
+      },
+      {
+        "title": "You Don't Pay Out of Pocket to Find Out Where You Stand",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That structure lets you get informed advice without adding to your financial stress."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Feeling pressured by insurance adjusters calling before you've even seen a doctor",
+      "Not knowing if what happened to you is even worth pursuing",
+      "Fear that admitting any fault means giving up your right to compensation"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Diamond Bar?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If a government entity is involved, like a city or county road agency, that deadline can be as short as six months, so it's worth checking your specific situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly responsible doesn't bar you from recovering damages. Your compensation would simply be reduced by your percentage of fault, which an attorney can help evaluate."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Diamond Bar?",
+        "answer": "Public-record collision counts show higher volumes along SR-60, SR-57, Diamond Bar Boulevard, and Golden Springs Drive, with reports peaking on Fridays between 3 and 5 p.m. These are simply neutral traffic-count observations, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, such as pain and suffering, in typical personal injury cases. This differs from some other states and can matter significantly in how a claim is valued."
+      },
+      {
+        "question": "Does it cost anything to speak with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and there's no cost to be matched with an independent attorney. Attorneys in the network work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "coronado workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Coronado Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Coronado? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Coronado's mix of hospitality, military support, and marine trades means job injuries range from falls at Orange Avenue hotels to equipment mishaps near the Naval base. If you were hurt at work, we can connect you with an independent attorney who can sort out what you're owed."
+  },
+  "about": {
+    "title": "Coronado Workplace Injury Claims",
+    "longDescription": "Coronado's economy leans heavily on tourism, hospitality, and its ties to naval operations, which brings a particular mix of on-the-job risks: hotel staff dealing with slick floors and heavy lifting, maintenance crews working around aging infrastructure, and contractors moving equipment near the ferry landing and Silver Strand corridor. When someone gets hurt at work here, California's workers' compensation system usually covers medical bills and a portion of lost wages, no matter who was at fault. But that system doesn't always tell the whole story. If a subcontractor, property owner, or equipment manufacturer contributed to the injury, a separate claim against that third party may be possible on top of workers' comp. An independent attorney can look at the details of your incident, figure out whether a third party played a role, and help you understand your options without any pressure to guess at outcomes.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Slip-and-fall injuries in hotel and restaurant settings",
+      "Back and shoulder strains from repetitive lifting",
+      "Ladder or scaffolding falls during maintenance work",
+      "Equipment-related crush or laceration injuries",
+      "Vehicle or forklift accidents on job sites",
+      "Repetitive stress injuries from prolonged standing or motion"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Coronado Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Full Picture",
+        "desc": "California law generally makes workers' compensation the exclusive remedy against your employer, but if a third party like a subcontractor or equipment maker contributed to your injury, a separate claim may be available."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You typically have 30 days to report a workplace injury to your employer, and missing that window can complicate your claim, so getting guidance early matters."
+      },
+      {
+        "title": "Retaliation Is Illegal, But Fear Is Common",
+        "desc": "California law prohibits employers from punishing workers for reporting injuries or filing claims, and an independent attorney can help you understand your protections if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work at a hotel on Orange Avenue and hurt my back lifting a cart. Can I still file a claim if I'm not sure who's at fault?",
+        "answer": "California workers' compensation generally doesn't require proving fault, so an on-the-job back injury is typically covered regardless of how it happened. If faulty equipment or a maintenance contractor played a role, there could also be a separate third-party claim worth exploring. An independent attorney can review the specifics and explain what applies to your situation."
+      },
+      {
+        "question": "My employer said reporting my injury will hurt my job. Is that legal?",
+        "answer": "No, California law makes it illegal for employers to retaliate against workers for reporting an on-the-job injury or filing a workers' compensation claim. If you're facing pressure or threats, that's something an attorney should know about right away. Documenting what's happening can help protect your position."
+      },
+      {
+        "question": "I was injured while working near the ferry landing and a delivery truck driver was involved. Does that change anything?",
+        "answer": "It might. If a third party, like another driver, contributed to your injury, you could have a claim separate from workers' compensation, and that type of claim generally carries a two-year deadline under California law. It's worth having an independent attorney look at the details to see whether that applies to your case."
+      }
+    ]
+  }
+}

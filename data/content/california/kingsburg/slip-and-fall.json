@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "kingsburg slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Kingsburg Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Kingsburg? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Fell at a Kingsburg store, apartment complex, or public building? We connect you with an independent attorney who can help you sort out what happened and what comes next.SelectedIndex"
+  },
+  "about": {
+    "title": "Kingsburg Slip & Fall Claims",
+    "longDescription": "Kingsburg is a small, walkable Fresno County city, but that doesn't mean falls on someone else's property are rare or simple. Wet floors at a Draper Street shop, uneven pavement near Sierra Street storefronts, or a poorly lit stairwell in an apartment complex can all lead to real injuries. California premises liability law requires showing the property owner or manager knew, or reasonably should have known, about the hazard and didn't fix it or warn people. That's often the hardest part of these claims, because grocery stores, landlords, and business owners rarely admit fault right away. LawProactive doesn't practice law ourselves, we're a free service that connects injured people in Kingsburg with an independent personal injury attorney who can look at the specifics of your fall, help gather evidence like surveillance footage before it's deleted, and explain your options. There's no fee unless your case results in a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvis fractures",
+      "Wrist and arm fractures",
+      "Traumatic brain injury or concussion",
+      "Torn ligaments and knee injuries",
+      "Spinal disc injuries",
+      "Shoulder dislocations or rotator cuff tears"
+    ],
+    "ctaText": "Get connected with an attorney about your fall today"
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Kingsburg Fall",
+    "items": [
+      {
+        "title": "Proving notice takes real work",
+        "desc": "California law requires showing the property owner knew or should have known about the hazard. An attorney can help track down maintenance logs, prior complaints, or inspection records that support that."
+      },
+      {
+        "title": "Surveillance video disappears fast",
+        "desc": "Many Kingsburg businesses overwrite security footage within days or weeks. Acting quickly to request preservation of that video can matter more than people realize."
+      },
+      {
+        "title": "Comparative fault can reduce, not erase, your claim",
+        "desc": "California is a pure comparative fault state, so even if you're partly responsible for the fall, you may still recover a reduced amount. An attorney can help present your side clearly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Kingsburg?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a premises liability lawsuit. If the property involved is owned by a public entity, like a city building, the deadline is much shorter and requires an early claim filing. It's worth talking to an attorney soon after the fall so you don't lose options."
+      },
+      {
+        "question": "What if I was partly at fault for my own fall?",
+        "answer": "California follows pure comparative fault, meaning your recovery can be reduced by your percentage of fault rather than eliminated entirely. For example, if you were distracted but the hazard was also unreasonably dangerous, you might still recover a portion of your damages. An attorney can help evaluate how fault might be allocated in your specific situation."
+      },
+      {
+        "question": "Does a small town like Kingsburg change how these claims work?",
+        "answer": "The legal standards are the same statewide, but Kingsburg's smaller commercial corridors, like Draper Street and Sierra Street, mean fewer businesses and potentially fewer witnesses or camera systems than a larger city. That can make timely evidence gathering even more important. An independent attorney can help you figure out what's realistically available in your case."
+      }
+    ]
+  }
+}

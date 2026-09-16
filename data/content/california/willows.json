@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "willows city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Willows, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Willows, Glenn County? Free connection to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash or fall in Willows, we'll connect you with an independent personal injury attorney at no cost, serving families throughout Glenn County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Willows, California",
+    "longDescription": "Willows is a small city, but its roads still see their share of collisions. Public records for the most recent year show 1 injury collision and 1 person hurt in traffic crashes here. Local corridors like Interstate 5 Northbound, W Wood Street, Sycamore Street, and Rt 162 carry a steady mix of local and through traffic, and reported crashes tend to cluster on Wednesdays between 11 a.m. and 1 p.m., likely tied to midweek work and errand traffic. If you or someone you love was injured on one of these roads, or anywhere else in Glenn County, sorting out medical bills, missed work, and vehicle repairs can feel overwhelming on top of recovering physically. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we don't handle your case ourselves. Instead, we help you get in touch with an attorney in our network who can review what happened and explain your options. Attorneys we connect you with work on contingency, meaning there's no fee unless they recover compensation for you. Reaching out costs nothing and starts the process of understanding what comes next.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "You generally have two years from the date of injury to file a personal injury claim in California, though claims against a government agency can require notice in as little as six months. Waiting too long can mean losing your right to recover anything."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for the crash, you can still recover compensation reduced by your share of fault. An attorney can help make sure fault is assessed fairly."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no cap on damages for pain, suffering, and other non-economic losses. That makes a thorough case evaluation especially worthwhile."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so you don't pay out of pocket to get advice or representation. Fees only come from a settlement or award if your case succeeds."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about who pays the growing medical bills",
+      "Fearing insurance will blame you for the crash",
+      "Losing income while unable to work and recover",
+      "Feeling unsure if the deadline to file has already passed"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "In most cases you have two years from the date of the injury to file a lawsuit. If your claim involves a government entity, such as a city vehicle, the notice period can be as short as six months, so it's best not to wait."
+      },
+      {
+        "question": "Where do crashes tend to happen in Willows?",
+        "answer": "Public collision records show higher activity along corridors like Interstate 5 Northbound, W Wood Street, Sycamore Street, and Rt 162, with reports peaking on Wednesdays between 11 a.m. and 1 p.m. These are simply reported counts, not a judgment about any road's safety."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some responsibility. Your recovery would be reduced by your percentage of fault, but it isn't eliminated."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No, California does not cap non-economic damages like pain and suffering in standard personal injury cases. Every case is different, and an attorney can explain what factors matter for your situation."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves — we simply help connect you with an independent attorney. Attorneys in our network work on contingency, so they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

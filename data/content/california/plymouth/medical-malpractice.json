@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "plymouth medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Plymouth Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Plymouth, CA? Get connected free with an independent malpractice attorney serving Amador County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or treatment goes wrong at a Plymouth or Amador County medical facility, LawProactive can connect you with an independent attorney who understands the strict deadlines built into California malpractice law."
+  },
+  "about": {
+    "title": "Plymouth Medical Malpractice Claims",
+    "longDescription": "Plymouth is a small Amador County community, and many residents rely on nearby regional clinics and hospitals in Sutter Creek, Jackson, or Sacramento for anything beyond routine care. When something goes wrong during that care — a missed diagnosis, a surgical error, a medication mistake — the aftermath can be disorienting, especially in a tight-knit town where medical options are limited. LawProactive doesn't practice law; we simply connect Plymouth residents with independent attorneys experienced in California's medical malpractice rules. These claims are technical: state law requires a qualified medical expert to review the case, a 90-day pre-suit notice before filing, and strict timing under MICRA. An attorney in our network can review your records, help you understand whether what happened meets the legal bar for malpractice, and explain your options going forward — all without any upfront cost to you.",
+    "commonInjuriesTitle": "Common Types of Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on results"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Plymouth Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the Clock Is Ticking",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to bring a malpractice claim. Attorneys in our network can help you figure out where you stand before that window closes."
+      },
+      {
+        "title": "We Know the Pre-Suit Requirements",
+        "desc": "California law requires a 90-day notice to the medical provider before a malpractice lawsuit can be filed. An attorney can help make sure this step is handled correctly so your claim isn't delayed or dismissed on a technicality."
+      },
+      {
+        "title": "We Connect You With Attorneys Who Know MICRA's Nuances",
+        "desc": "California's cap on non-economic damages rises each year under MICRA, and a qualified medical expert is almost always required to support the claim. The independent attorneys we work with are familiar with these requirements and can explain how they may apply to your case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law requires showing that a provider failed to meet the accepted standard of care and that this failure caused harm. A poor result alone, even a serious one, isn't enough on its own — an attorney can help evaluate whether your situation meets that legal standard."
+      },
+      {
+        "question": "What if my care happened outside Plymouth, since there isn't a hospital in town?",
+        "answer": "That's common — many Plymouth residents receive treatment in Jackson, Sutter Creek, or Sacramento. The location of the care doesn't prevent you from pursuing a claim; what matters is where the treatment occurred and the records from that facility, which an attorney can help gather regardless of where you live."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the harm, but no more than three years from the date of the injury itself. There's also a required 90-day notice period before filing suit, so it's worth speaking with an attorney sooner rather than later to protect your options."
+      }
+    ]
+  }
+}

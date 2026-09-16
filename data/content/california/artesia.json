@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "artesia city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Artesia, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Artesia? Free connection to an LA County injury attorney. 2 years to file, no fee unless you win. Fast, no-obligation review."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Pioneer Boulevard or injured in a fall or workplace accident, we'll connect you with an independent attorney serving Los Angeles County — free, with no obligation."
+  },
+  "about": {
+    "title": "Personal Injury Help in Artesia, California",
+    "longDescription": "Artesia is a small but busy city, and its roads carry a steady flow of daily traffic. Recent public records show 75 injury collisions in a single year, with 106 people hurt on local streets — most often on weekends, with reported crashes clustering on Saturdays between 5 and 7 p.m. Corridors like Pioneer Boulevard, the SR-91 Artesia Freeway, and South Street see the highest volume of reported collisions, simply because that's where the traffic is heaviest. If you were hurt in one of these crashes, or in any accident around Artesia, you may be facing medical bills, missed work, and a lot of uncertainty about what comes next. LawProactive is a free service — not a law firm — that connects injured people in Artesia with an independent personal injury attorney who can review what happened and explain your options. There's no cost to get connected, and attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. You don't have to sort through this alone or guess at your next step.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft-tissue injuries",
+      "Injuries requiring physical therapy or surgery"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity is involved, that window can shrink to as little as six months, so it helps to know where you stand early."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "In an ordinary injury case, California places no cap on non-economic damages like pain and suffering, so your claim isn't automatically limited to a fixed number."
+      },
+      {
+        "title": "You Don't Pay Upfront",
+        "desc": "Attorneys in our network work on contingency, which means they only get paid if you recover money. There's no retainer and no bill just to have your case reviewed."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about who pays the medical bills piling up",
+      "Wondering if missing work will cost you your job",
+      "Feeling unsure whether the accident was partly your fault",
+      "Not knowing how much time you actually have to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Artesia?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If your injury involved a government vehicle or entity, that deadline can be as short as six months, so it's worth checking your specific situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly responsible doesn't bar you from recovering compensation. Your recovery is simply reduced by your percentage of fault, which an attorney can help evaluate."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Artesia?",
+        "answer": "Public collision records show higher counts along corridors like Pioneer Boulevard, the SR-91 Artesia Freeway, and South Street, with reported crashes peaking on Saturdays between 5 and 7 p.m. These are simply where traffic volume and reported incidents tend to be higher, not a judgment about the safety of any particular road."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and there's no cost for the initial conversation. LawProactive itself is not a law firm and doesn't charge any fees."
+      },
+      {
+        "question": "What if my injuries seem minor right now?",
+        "answer": "Some injuries, like whiplash or soft-tissue damage, don't always show symptoms right away. It's still worth having a conversation with an attorney, especially given the filing deadlines under California law."
+      }
+    ]
+  }
+}

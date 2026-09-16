@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "temple-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Temple City, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Temple City? Free connection to an LA County injury attorney. 2 years to file, no fee unless you win. Get help now."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Rosemead Boulevard or injured as a pedestrian near Las Tunas Drive, we connect you free of charge with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Temple City, California",
+    "longDescription": "Temple City may be a small community, but its streets see real traffic. In the most recent recorded year, 93 injury collisions left 111 people hurt and 3 people dead on local roads. Corridors like Temple City Boulevard, Las Tunas Drive, Lower Azusa Road, and Rosemead Boulevard carry the heaviest share of reported crashes, and Thursday evenings between 5 and 7 p.m. tend to see the most activity. If you or someone you love was hurt in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — built to connect injured people in Temple City with an independent personal injury attorney who can review what happened and explain your options. There's no cost to connect, and any attorney you're matched with in our network works on contingency, meaning there's no fee unless they recover money for you. You don't have to figure this out alone or guess at what your claim might be worth. Reaching out costs nothing and can help you understand where you stand before time limits under California law start working against you.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Herniated discs and back injuries",
+      "Pedestrian and cyclist injuries",
+      "Deep cuts and scarring"
+    ],
+    "ctaText": "Connect free with an attorney to discuss what happened."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most injury claims in California must be filed within two years, but claims against a government entity can require notice in as little as six months. Waiting too long can close the door on your claim entirely."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no cap on compensation for pain, suffering, and other non-economic losses, which matters when injuries affect your daily life long-term."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning you owe nothing upfront and pay no fee unless they secure a recovery on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if the pain will get worse or heal fully",
+      "Fearing you'll miss a deadline you didn't even know existed"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to connect with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects injured people with an independent attorney, and we are not a law firm ourselves. If you're matched with an attorney, they work on contingency, so there's no fee unless they win a recovery for you."
+      },
+      {
+        "question": "How long do I have to file a claim after an injury in Temple City?",
+        "answer": "Under California law, most personal injury claims must be filed within two years of the incident. If your claim involves a government entity, such as a city road maintenance issue, the notice window can be as short as six months, so it's wise to act quickly."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Temple City?",
+        "answer": "Public crash records show higher collision counts along corridors like Temple City Boulevard, Las Tunas Drive, Lower Azusa Road, and Rosemead Boulevard, with Thursday evenings between 5 and 7 p.m. showing more reported activity. These are simply public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some responsibility for the crash. Your recovery would be reduced by your percentage of fault, but it wouldn't be barred outright."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases, California does not cap non-economic damages like pain and suffering. This can matter significantly if an injury has a lasting impact on your quality of life or ability to work."
+      }
+    ]
+  }
+}

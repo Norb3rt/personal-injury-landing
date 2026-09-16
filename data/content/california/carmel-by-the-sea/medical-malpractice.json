@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "carmel-by-the-sea medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Carmel Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney serving Carmel, CA. No fee unless you recover. MICRA deadlines apply—act promptly."
+  },
+  "hero": {
+    "subtitle": "When a Carmel medical visit leaves you worse off rather than better, LawProactive can connect you with an independent attorney who understands California's medical malpractice rules. There's no cost to you unless your case results in a recovery."
+  },
+  "about": {
+    "title": "Carmel Medical Malpractice Claims",
+    "longDescription": "Medical malpractice in a small coastal community like Carmel often means a delayed diagnosis, a surgical complication, or a medication mix-up at a local clinic or nearby hospital that sends patients seeking care further up the coast. These cases are rarely simple. California's MICRA law requires a qualified medical expert to review the care you received before a claim can move forward, and a poor result by itself doesn't establish fault—the question is whether the provider deviated from accepted medical standards. Timing matters too: claims generally must be filed within one year of discovering the injury, no later than three years from when it happened, and a 90-day pre-suit notice is required before a lawsuit can be filed. LawProactive doesn't practice law or take a side in your case—we simply connect you with an independent, contingency-based attorney in the network who can evaluate what happened and explain your options in plain terms, at no upfront cost to you.",
+    "commonInjuriesTitle": "Common Types of Medical Malpractice We See",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or complications",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia errors",
+      "Failure to monitor post-treatment condition"
+    ],
+    "ctaText": "Get connected with an independent attorney—free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "MICRA's Notice and Filing Windows",
+        "desc": "California generally gives you one year from discovering the injury, and no more than three years from when it occurred, to file a claim. A 90-day pre-suit notice must also go to the provider before a lawsuit begins, so early legal guidance helps avoid missed deadlines."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Under MICRA, a qualified medical expert typically has to evaluate the care provided before a malpractice claim can proceed. An attorney connected through LawProactive can help arrange that kind of review."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Changes",
+        "desc": "California law places a statutory limit on non-economic damages in these cases, and that cap adjusts upward each year. Understanding how that cap applies to your situation is something an experienced malpractice attorney can walk you through."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after a procedure near Carmel—does that mean it was malpractice?",
+        "answer": "Not necessarily. Under California law, a poor result alone doesn't prove negligence; the question is whether the provider's care fell below the accepted medical standard. An attorney can help review your records with a qualified medical expert to determine whether that standard was met."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it occurred. There's also a required 90-day pre-suit notice to the healthcare provider before filing suit, so it's wise not to wait too long to get advice."
+      },
+      {
+        "question": "Does LawProactive have attorneys who serve the Carmel area?",
+        "answer": "LawProactive connects people in Carmel and surrounding communities with independent attorneys who handle medical malpractice matters. We're not a law firm ourselves—we simply make the introduction, and there's no cost to you unless your case leads to a recovery."
+      }
+    ]
+  }
+}

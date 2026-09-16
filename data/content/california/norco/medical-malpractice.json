@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "norco medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Norco Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Norco? Get connected free with an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a Norco hospital visit, surgery, or diagnosis went wrong, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's strict rules and deadlines."
+  },
+  "about": {
+    "title": "Norco Medical Malpractice Claims",
+    "longDescription": "Norco residents rely on nearby Riverside County hospitals and clinics for care, and most of the time that care goes as expected. But when a diagnosis is missed, a surgery goes wrong, or medication errors cause real harm, families are left sorting out what happened and what to do next. California treats these cases differently than a typical injury claim — there's a strict notice requirement before filing, tighter timelines than most people expect, and a legal standard that requires proving the provider actually deviated from accepted medical practice, not just that the outcome was bad. LawProactive doesn't practice law or take on cases directly. Instead, we listen to what happened, then connect eligible Norco residents with an independent attorney in our network who understands California's medical malpractice framework and can evaluate whether a case is worth pursuing, all on a contingency basis with no upfront cost.",
+    "commonInjuriesTitle": "Injuries Linked to Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Infections from inadequate post-op care"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney who can review it."
+  },
+  "whyChoose": {
+    "title": "What Matters in a California Medical Malpractice Claim",
+    "items": [
+      {
+        "title": "The 90-Day Notice Requirement",
+        "desc": "California law requires sending formal notice to the healthcare provider at least 90 days before filing suit. Missing this step, or handling it incorrectly, can complicate a claim before it even starts."
+      },
+      {
+        "title": "A Short, Strict Clock",
+        "desc": "Claims generally must be brought within one year of discovering the injury, and no more than three years from when it happened. Waiting to get an attorney's opinion can quietly cost you your right to file."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A bad outcome by itself doesn't prove malpractice — California requires a qualified medical expert to weigh in on whether the care fell below the accepted standard. An attorney connected through our network can help arrange that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery in the Norco area. Does that mean it was malpractice?",
+        "answer": "Not necessarily. California law is clear that a poor result alone doesn't establish malpractice — the care itself has to have fallen below what a reasonably careful provider would have done. An attorney can help determine, often with a medical expert's input, whether that standard was actually breached."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it happened. These deadlines are strict, so it's worth getting a claim reviewed sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes. California caps non-economic damages in medical malpractice cases, though that cap rises each year under current law. Economic damages, like medical bills and lost income, are handled separately and aren't subject to that same cap."
+      },
+      {
+        "question": "Does LawProactive represent me directly?",
+        "answer": "No — LawProactive is a free connection service, not a law firm. We gather details about what happened and connect you with an independent attorney in our network who can evaluate your situation and represent you on a contingency basis if they take your case."
+      }
+    ]
+  }
+}

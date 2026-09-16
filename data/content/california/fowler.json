@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "fowler city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fowler, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Fowler, Fresno County? Connect free with an independent attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash, broken bones, or a more serious injury from a collision, we'll connect you at no cost with an independent attorney serving Fowler and Fresno County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Fowler, California",
+    "longDescription": "Fowler is a small, close-knit farming community in Fresno County, but its roads see real traffic risk. Golden State Boulevard, Manning Avenue, and the stretch where SR-99 and State Route 99 Northbound cut through town carry heavy truck and commuter traffic every day. In the most recent reporting year, Fowler recorded 28 injury collisions, 39 injured people, and 1 traffic death — numbers that reflect public safety records, not a judgment about any particular road. Collisions here tend to cluster on Thursday mornings between 7 and 9 a.m., often tied to school and work commute patterns. If you or someone you love was hurt in a crash on these roads, it helps to understand your options quickly. LawProactive is a free service — not a law firm — that connects injured people in Fowler with an independent personal injury attorney. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. We don't charge you anything to make the connection, and there's no obligation to move forward. Getting information early, while details are fresh and evidence is preserved, can make a real difference in how your claim unfolds.",
+    "commonInjuriesTitle": "Common Injuries We See After Fowler-Area Crashes",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken or fractured bones",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Find out your options — connecting with an attorney is free and comes with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Fowler Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have a Limited Window to Act",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but that window shrinks to as little as six months if a government entity is involved. Acting sooner keeps your options open."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for the crash, you can still recover compensation — it's simply reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering, meaning your compensation isn't artificially restricted by a statutory ceiling."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys connected through LawProactive work on contingency, so they only get paid if you receive a settlement or award — there's no bill if there's no recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while you're still recovering",
+      "Wondering if missing time from work will cost you your job",
+      "Feeling unsure whether the insurance company's offer is fair",
+      "Not knowing how much time you have left to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Fowler?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If a government agency is involved, that deadline can shrink to as little as six months, so it's important to check your situation promptly."
+      },
+      {
+        "question": "Will I lose my case if I was partly at fault for the crash?",
+        "answer": "Not necessarily. California uses pure comparative fault, which means your compensation is reduced by your percentage of fault, but you can still recover damages even if you were partially responsible."
+      },
+      {
+        "question": "Where do crashes tend to happen in Fowler?",
+        "answer": "Public collision records show that reported crashes in Fowler cluster along corridors like Golden State Boulevard, Manning Avenue, and the SR-99 corridor, with volumes often higher on Thursday mornings between 7 and 9 a.m. These are neutral public-record patterns, not a statement that any particular road is unsafe."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and there's no cost or obligation to use it. We simply help connect you with an independent attorney who may be able to assist with your claim."
+      },
+      {
+        "question": "How do attorneys get paid if I move forward with a claim?",
+        "answer": "Attorneys in the network typically work on contingency, meaning they only get paid if you receive a settlement or court award. If there's no recovery, you generally owe no attorney fees."
+      }
+    ]
+  }
+}

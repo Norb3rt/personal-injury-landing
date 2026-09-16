@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "daly-city slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Daly City Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Daly City? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a wet floor, broken step, or unmarked hazard on someone else's property in Daly City left you hurt, we can connect you with an independent premises liability attorney at no cost to you."
+  },
+  "about": {
+    "title": "Daly City Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall can happen in a second and take months to recover from. In Daly City, that might mean a wet entryway at a shop along Mission Street, a cracked walkway outside an apartment building near John Daly Boulevard, or a poorly lit stairwell in a parking structure off Junipero Serra Boulevard. Damp, foggy pavement is common here, but owners in San Mateo County are still expected to keep their premises reasonably safe. California law does not hold an owner responsible for every fall. You generally need to show the owner knew, or reasonably should have known, about the hazard and did nothing to fix it or warn you. That is why what you do in the first few days matters: photograph the spot, write down who saw it, and ask that any surveillance footage be saved before it is overwritten. LawProactive is not a law firm. We are a free service that connects Daly City residents with an independent attorney who handles premises claims on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Daly City",
+    "commonInjuries": [
+      "Hip and pelvis fractures",
+      "Wrist, arm, and elbow fractures",
+      "Concussions and other head injuries",
+      "Back strains and spinal disc injuries",
+      "Knee ligament and meniscus tears",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Daly City Residents Turn to LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys who understand the notice requirement",
+        "desc": "California premises cases turn on whether the owner knew or should have known about the hazard. The attorneys in our network know how to look for cleaning logs, prior complaints, and inspection records that speak to that question."
+      },
+      {
+        "title": "Deadlines tracked from day one",
+        "desc": "Most premises claims in California must be filed within two years, but a fall on property owned by a city, county, or other public entity has a much shorter claim window. Getting connected early keeps those dates from slipping past."
+      },
+      {
+        "title": "Evidence preserved before it disappears",
+        "desc": "Store and lobby cameras often record over footage within days. An attorney can send a preservation request quickly and help you document the hazard, which also matters because California's pure comparative fault rule means your share of blame, if any, is weighed against the owner's."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Daly City. Is that a claim against the City?",
+        "answer": "It depends on who owns and maintains the stretch of sidewalk where you fell, which is not always obvious. If a public entity such as the City of Daly City or San Mateo County is responsible, California requires a government claim to be filed on a much shorter timeline than the usual two years. An attorney can help figure out ownership and get the right paperwork submitted in time."
+      },
+      {
+        "question": "The store says I should have been watching where I was going. Does that end my case?",
+        "answer": "Not by itself. California follows pure comparative fault, so if you are found partly responsible, your recovery is reduced by your percentage of blame rather than eliminated. The owner still has to answer for a hazard it knew about or should have discovered and failed to fix or warn about."
+      },
+      {
+        "question": "How do I get the surveillance video of my fall?",
+        "answer": "Ask the manager in writing, as soon as you can, to preserve any footage from the time and location of your fall. Many systems overwrite recordings within a few days or weeks, so speed matters. An attorney can follow up with a formal preservation demand, and if the footage is later destroyed after such a request, that can itself become an issue in the case."
+      }
+    ]
+  }
+}

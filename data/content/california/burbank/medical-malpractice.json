@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "burbank medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Lawyer in Burbank, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Burbank? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines apply, so ask early."
+  },
+  "hero": {
+    "subtitle": "When treatment in Burbank leaves you worse off than you should be, sorting out what happened takes a careful look at the records. LawProactive connects you, at no cost, with an independent medical malpractice attorney who can do that review."
+  },
+  "about": {
+    "title": "Burbank Medical Malpractice Claims",
+    "longDescription": "Medical care in Burbank happens at every scale, from an urgent-care visit after a fender-bender on Glenoaks Boulevard to surgery and long recoveries. Most of it goes fine. Sometimes it does not, and the hard part is knowing whether what went wrong was an honest limitation of medicine or a departure from the standard of care. California law draws that line carefully: a bad outcome by itself is not malpractice. What matters is whether a reasonably careful provider would have acted differently, and proving that almost always takes a qualified medical expert. There are timing rules, too. Under MICRA, a claim generally must be filed within one year of discovering the injury, and no later than three years from when it happened, with a 90-day notice sent to the provider before suit. Non-economic damages are capped, though the cap rises each year. LawProactive is a free service for Burbank residents and other Los Angeles County patients. We connect you with an independent attorney who reviews the facts on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Questions",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Anesthesia complications",
+      "Birth injuries affecting mother or child",
+      "Failure to order tests or follow up on abnormal results"
+    ],
+    "ctaText": "Ask a Burbank malpractice attorney to review your records — free."
+  },
+  "whyChoose": {
+    "title": "Why Burbank Patients Use LawProactive",
+    "items": [
+      {
+        "title": "Deadlines that start before you expect",
+        "desc": "MICRA's one-year discovery clock and three-year outside limit can run out quietly, and a 90-day pre-suit notice has to go out first. An early connection gives your attorney room to work within those windows."
+      },
+      {
+        "title": "Expert review, not guesswork",
+        "desc": "Because a bad result alone does not prove malpractice, a qualified medical expert is nearly always needed to evaluate whether the standard of care was breached. The attorneys we connect you with know how to line that up."
+      },
+      {
+        "title": "Honest talk about what MICRA allows",
+        "desc": "California caps non-economic damages in malpractice cases, and that cap rises annually. Your attorney can explain what the cap does and does not cover, without inflating expectations."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated after a crash on the I-5 in Burbank. If my recovery went badly, is that malpractice?",
+        "answer": "Not automatically. Burbank recorded 297 people injured in collisions in 2025, and many were treated in emergency settings where hard choices get made quickly. Malpractice requires showing a provider fell below the accepted standard of care, not just that the outcome was poor. An attorney and a medical expert can look at whether something was actually missed or mishandled."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Under MICRA, you generally have one year from when you discovered, or reasonably should have discovered, the injury, and in no case more than three years from the date of the harm. You must also give the provider 90 days' notice before filing suit. Because those clocks can overlap in confusing ways, it helps to speak with an attorney as soon as you suspect a problem."
+      },
+      {
+        "question": "Does LawProactive charge Burbank residents anything?",
+        "answer": "No. Our connection service is free, and we are not a law firm. The independent attorneys in our network handle malpractice cases on contingency, meaning there is no attorney fee unless there is a recovery. You can have your situation reviewed without paying anything up front."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "indio slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Indio Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Indio, CA? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Hurt in a fall at a store, apartment complex, or parking lot in Indio? We connect you, at no cost, with an independent attorney who handles premises liability claims in Riverside County."
+  },
+  "about": {
+    "title": "Indio Slip & Fall and Premises Liability Claims",
+    "longDescription": "A wet grocery aisle, a crumbling curb outside a storefront on Highway 111, an unlit stairwell at an apartment complex off Monroe Street. Falls like these happen quietly in Indio every week, and the people hurt in them often assume it was simply their own clumsiness. California law sees it differently. Property owners and businesses owe visitors reasonably safe conditions, and when they know about a hazard, or should have known, and leave it unaddressed, they can be held responsible for the harm that follows. LawProactive exists to make the next step simple for Indio residents. We are not a law firm. We are a free service that listens to what happened and connects you with an independent premises liability attorney who takes cases in Riverside County. That attorney works on contingency, so there is no fee unless your claim ends in a recovery. Whether you were injured near Indio Boulevard, Jackson Street, or anywhere else in the city, it costs nothing to learn whether you have a claim worth pursuing.",
+    "commonInjuriesTitle": "Injuries Often Seen After Falls in Indio",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and forearm fractures",
+      "Concussions and other head injuries",
+      "Lower back and spinal disc injuries",
+      "Knee and ankle sprains or ligament tears",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us where you fell and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Indio Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the heart of the case",
+        "desc": "Under California law you generally have to show the owner knew or should have known about the hazard and did not fix it or warn you. The attorneys we connect you with know how to look for inspection logs, prior complaints, and maintenance records that speak to that question."
+      },
+      {
+        "title": "Video disappears fast",
+        "desc": "Most Indio businesses record their aisles, entrances, and parking lots, but that footage is often overwritten within days. An attorney can send a preservation demand quickly so the recording of your fall is not lost."
+      },
+      {
+        "title": "Deadlines and shared fault are manageable",
+        "desc": "California gives most fall victims two years to file, far less when a public entity owns the property, and it uses pure comparative fault rather than barring recovery outright. Getting connected early keeps both issues from working against you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell inside a store on Highway 111 in Indio and never filed an incident report. Is it too late?",
+        "answer": "No. You can still contact the store to request that a report be written and that any surveillance video from that day be preserved. Photograph the area if you can safely return, write down exactly what you remember, and gather the names of anyone who saw you fall. An attorney can handle the preservation letter and the follow-up with the business for you."
+      },
+      {
+        "question": "The property owner says I was not watching where I was going. Does that end my claim?",
+        "answer": "It does not. California follows pure comparative fault, which means a jury can assign a percentage of responsibility to each side and your recovery is reduced by your share rather than eliminated. Whether the hazard was obvious, marked, or hidden matters a great deal to how that percentage is decided, so documenting the conditions is important."
+      },
+      {
+        "question": "What if I tripped on a broken sidewalk maintained by the City of Indio or Riverside County?",
+        "answer": "Claims against a public entity in California follow a much shorter timeline than the standard two-year limit, and you generally have to file a formal government claim before any lawsuit. Missing that step can end the case before it starts. If a city or county property is involved, it is worth speaking with an attorney right away rather than waiting to see how your injuries heal."
+      }
+    ]
+  }
+}

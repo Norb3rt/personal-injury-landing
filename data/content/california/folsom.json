@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "folsom city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Folsom, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Folsom or elsewhere in Sacramento County? You have 2 years to file most claims. Get connected free with an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From rear-end crashes on E Bidwell Street to slip-and-falls and dog bites, we connect injured people in Folsom and across Sacramento County with an independent personal injury attorney at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in Folsom, California",
+    "longDescription": "Folsom sits along the American River at the eastern edge of Sacramento County, a city of about 76,000 people whose daily traffic funnels through a handful of arterials. Public-record collision counts for 2025 show 80 injury collisions here, with 113 people hurt and 6 lives lost. The corridors that appear most often in those records are E Bidwell Street, Iron Point Road, Blue Ravine Road, and Riley Street, and reported crashes tend to peak on Wednesdays between 5 p.m. and 7 p.m., when commuters are heading home. Behind each of those numbers is a person suddenly dealing with pain, paperwork, and an insurance adjuster who is not on their side. That is where LawProactive comes in. We are a free service, not a law firm. We do not give legal advice or represent anyone. What we do is listen to what happened and connect you with an independent personal injury attorney who handles cases in Folsom and the rest of Sacramento County. Attorneys in the network work on contingency, meaning you pay no fee unless there is a recovery. Whether you were rear-ended on the way to Folsom Lake, bitten by a dog on a neighborhood walk, or injured in a fall at a store, a conversation costs you nothing.",
+    "commonInjuriesTitle": "Injuries Folsom Residents Commonly Ask About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head trauma",
+      "Broken wrists, arms, and collarbones",
+      "Back injuries, including herniated discs",
+      "Cuts, bruising, and road rash from bike or scooter crashes",
+      "Torn ligaments and knee damage from falls"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Folsom Claim",
+    "items": [
+      {
+        "title": "Two years to act — sometimes far less",
+        "desc": "California gives most injury claims a two-year filing window, but a claim against a city, county, or state agency may need to be filed within six months. Starting early protects your options."
+      },
+      {
+        "title": "Partial fault won't shut you out",
+        "desc": "California uses pure comparative fault. If you share some blame for a crash on Iron Point Road, your recovery is reduced by your percentage of fault rather than erased."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "In ordinary injury cases, California does not limit non-economic damages such as pain, emotional distress, or loss of enjoyment of life."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in our network work on contingency. You don't pay attorney fees out of pocket, and nothing is owed unless your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I missed work and the medical bills are piling up.",
+      "I might have been partly at fault — does that mean I get nothing?",
+      "I can't afford a lawyer, so I'm not sure I have any options."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not provide legal advice or representation. We connect you with an independent personal injury attorney who serves Folsom and Sacramento County. Any attorney-client relationship is between you and that attorney."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Folsom?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date of injury. If a government entity is involved — for example, a city vehicle or a hazard on public property — the claim deadline can be as short as six months. Because those windows differ, it helps to speak with an attorney sooner rather than later."
+      },
+      {
+        "question": "Where do collisions in Folsom tend to be reported?",
+        "answer": "Public collision records for 2025 list E Bidwell Street, Iron Point Road, Blue Ravine Road, and Riley Street as the corridors with the highest counts. Those same records show crashes peaking on Wednesdays between 5 p.m. and 7 p.m. These are neutral counts that reflect where and when traffic volume is heaviest, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California follows pure comparative fault. Your compensation is reduced by whatever share of fault is assigned to you, but you are not barred from recovering. For instance, someone found 30 percent responsible can still recover the remaining 70 percent of their damages."
+      },
+      {
+        "question": "What will it cost me to talk to an attorney?",
+        "answer": "Our connection service is free, and the attorneys in our network work on contingency. That means no attorney fees unless there is a recovery in your case. You can discuss your situation without worrying about an upfront bill."
+      }
+    ]
+  }
+}

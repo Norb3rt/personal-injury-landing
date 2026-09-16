@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "tiburon medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tiburon Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Tiburon? LawProactive connects you free with an independent Marin County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Tiburon medical visit leaves you worse off than before, it helps to know what actually counts as malpractice under California law. LawProactive can connect you at no cost with an independent attorney familiar with Marin County medical cases."
+  },
+  "about": {
+    "title": "Tiburon Medical Malpractice Claims",
+    "longDescription": "Tiburon residents typically travel to larger Marin County or San Francisco medical centers for hospital care, surgery, and specialist treatment, and most malpractice concerns trace back to those visits rather than to local clinics. Because California's MICRA law layers on specific rules — a discovery-based filing deadline, a 90-day pre-suit notice, and a requirement that a qualified medical expert review the case — sorting out whether a bad outcome was truly negligence takes more than a hunch. A poor result from surgery or a missed diagnosis isn't automatically malpractice; it has to fall below the accepted standard of medical care. LawProactive doesn't practice law or take a fee itself. We simply listen to what happened, gather the basics, and connect eligible Tiburon residents with an independent attorney who can evaluate the medical records and explain realistic next steps, at no upfront cost.",
+    "commonInjuriesTitle": "Situations We Commonly Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to treat a hospital-acquired infection"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Timing and Evidence Matter Here",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives one year from when you discovered the harm, but never more than three years from the injury itself. Missing either window can end a claim before it starts."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before filing suit, California law requires sending the healthcare provider a 90-day notice of intent. An attorney can make sure this step is handled correctly and on time."
+      },
+      {
+        "title": "Medical Expert Review Is Nearly Always Needed",
+        "desc": "Because a bad outcome alone isn't proof of malpractice, a qualified medical expert typically has to confirm the care fell below the accepted standard before a case can move forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had surgery in San Francisco but live in Tiburon — can I still get help?",
+        "answer": "Yes. Where you live in Tiburon doesn't limit which providers or facilities the claim can involve, as long as the treatment happened in California. LawProactive can still connect you with an attorney who reviews cases tied to hospitals across Marin County and the greater Bay Area."
+      },
+      {
+        "question": "Is every bad medical outcome considered malpractice?",
+        "answer": "No. California law requires showing that a provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. That's why a qualified medical expert almost always has to review the records before a claim can proceed."
+      },
+      {
+        "question": "What does California's damages cap mean for my case?",
+        "answer": "MICRA sets a limit on non-economic damages, like pain and suffering, and that cap rises each year under current law. Economic losses, such as medical bills and lost income, are generally handled separately. An attorney can walk through how this applies to your specific situation."
+      }
+    ]
+  }
+}

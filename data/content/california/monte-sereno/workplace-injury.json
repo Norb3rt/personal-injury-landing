@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "monte-sereno workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Monte Sereno Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Monte Sereno? Get free help connecting with an independent attorney for workers' comp or third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Monte Sereno, LawProactive can connect you at no cost with an independent attorney who understands both workers' compensation and third-party claims."
+  },
+  "about": {
+    "title": "Monte Sereno Workplace Injury Claims",
+    "longDescription": "Monte Sereno is a small, quiet Santa Clara County city, but workplace injuries still happen here — on landscaping crews tending the hillside properties, in home construction and remodeling projects, or among delivery and service workers moving along Winchester Boulevard and Saratoga-Los Gatos Road. California generally requires injured workers to go through workers' compensation rather than suing their employer directly, but that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another company's employee contributed to your injury, you may have a separate claim against that third party. LawProactive is a free connection service — not a law firm — that helps injured workers in Monte Sereno get matched with an independent attorney who can sort out which paths apply to their situation. There's no cost to find out where you stand, and attorneys in the network only get paid if you recover compensation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Help Connect",
+    "commonInjuries": [
+      "Falls from ladders or elevated landscaping work",
+      "Equipment or power tool injuries",
+      "Vehicle collisions during work-related driving",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from falling materials or debris",
+      "Injuries caused by defective tools or machinery"
+    ],
+    "ctaText": "Find out if you have a claim — free and no obligation.\n"
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Full Picture",
+        "desc": "California treats workers' compensation as the usual remedy against an employer, but a negligent third party like a subcontractor or equipment maker can still be held separately liable."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "You generally have only 30 days to report a workplace injury to your employer, so early legal guidance can help protect your rights before that window closes."
+      },
+      {
+        "title": "Retaliation Is Illegal, But Workers Still Worry",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury or filing a claim, and an attorney can help you understand those protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while working on a property near Winchester Boulevard — can I still file a claim?",
+        "answer": "Yes. Location doesn't change your right to pursue a workers' compensation claim, and if another company or driver contributed to the injury, a separate third-party claim may also apply. An independent attorney can review the specifics of what happened and where."
+      },
+      {
+        "question": "Does workers' comp cover everything, or can I sue someone else too?",
+        "answer": "Workers' compensation is usually the exclusive remedy against your employer regardless of fault, meaning you typically can't sue your employer directly. However, if a third party like a subcontractor, property owner, or equipment manufacturer was negligent, you may be able to bring a separate claim against them within California's two-year deadline."
+      },
+      {
+        "question": "What if my employer retaliates after I report an injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law. If you believe you've faced retaliation, an attorney can help you understand your options, and LawProactive can connect you with one at no cost."
+      }
+    ]
+  }
+}

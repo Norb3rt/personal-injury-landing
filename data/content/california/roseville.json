@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "roseville city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Roseville, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Roseville or elsewhere in Placer County? Most claims allow 2 years to file. Get connected free to an attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on I-80, hit while crossing Douglas Boulevard, or hurt in a fall at a Roseville business, we connect you with an independent personal injury attorney at no cost. Serving Roseville and all of Placer County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Roseville, California",
+    "longDescription": "Roseville sits at the junction where I-80 meets the daily traffic of a city of roughly 130,000, and the numbers reflect that. In 2025, the most recent final reporting year, the city logged 808 injury collisions. Those crashes left 1,156 people hurt and took 7 lives. Public records show the highest collision volumes along I-80, Pleasant Grove Boulevard, Douglas Boulevard, and Cirby Way, with reports peaking on Friday evenings between 5 and 7 p.m., when commuters, shoppers, and weekend travelers share the same lanes. If you were among those injured, you probably have more questions than answers. Who pays the emergency room bill? What happens when the other driver's insurer calls? How long do you have before a claim closes for good? LawProactive exists to get you to someone who can answer those questions for your situation. We are a free service, not a law firm. We do not give legal advice or handle cases ourselves. What we do is connect Roseville and Placer County residents with an independent personal injury attorney who does. There is no charge to be connected, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. One conversation can tell you where you stand.",
+    "commonInjuriesTitle": "Injuries We See Most Often in Roseville",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back and spinal disc injuries",
+      "Knee and hip injuries from pedestrian and bicycle collisions",
+      "Cuts, bruising, and soft-tissue damage"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Roseville Claim",
+    "items": [
+      {
+        "title": "The clock is usually two years",
+        "desc": "For most injury claims in California, you have two years from the date of injury to file. If a city, county, or state agency is involved, that window can shrink to as little as six months, so it pays to ask early."
+      },
+      {
+        "title": "Partly at fault? You can still recover",
+        "desc": "California follows pure comparative fault. If you were 30 percent responsible for a crash on Cirby Way, your recovery is reduced by 30 percent, not wiped out."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For a typical injury claim in California, there is no statutory ceiling on non-economic damages like pain, lost enjoyment, and emotional distress."
+      },
+      {
+        "title": "Nothing out of pocket to hire an attorney",
+        "desc": "Attorneys in our network work on contingency. Their fee comes from the recovery, and if there is none, you owe them nothing."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster keeps calling and I don't know what to say.",
+      "My car is totaled and I still have to get to work in Rocklin.",
+      "I'm missing shifts and the bills haven't stopped.",
+      "The other driver says it was my fault, and I'm not sure it wasn't."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Roseville tend to happen?",
+        "answer": "Public-record collision counts for Roseville show the largest volumes on I-80, Pleasant Grove Boulevard, Douglas Boulevard, and Cirby Way. These are simply the corridors with the most reported crashes, which tracks with how much traffic they carry. Reports also tend to peak on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match you with an independent personal injury attorney who can review your case, but we do not practice law or give legal advice ourselves."
+      },
+      {
+        "question": "What does it cost to talk to an attorney?",
+        "answer": "Being connected through LawProactive is free. The attorneys in our network work on contingency, so there is no fee unless there is a recovery in your case. Any fee arrangement is explained to you up front by the attorney."
+      },
+      {
+        "question": "I was hit by a city vehicle in Roseville. Does that change anything?",
+        "answer": "It can. Claims against a government entity in California often require a notice to be filed within six months, far sooner than the usual two-year deadline. That shorter timeline is one reason to speak with an attorney quickly."
+      },
+      {
+        "question": "The insurance company already offered me money. Should I take it?",
+        "answer": "That is a decision only you can make, but it is worth having an attorney look at the offer first. Early offers are sometimes made before the full extent of an injury is known. Once you accept and sign a release, you generally cannot go back for more."
+      }
+    ]
+  }
+}

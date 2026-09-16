@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "riverside city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Riverside, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Riverside County? You have 2 years to file most claims. Connect free with an independent injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on SR-91, bitten by a dog in your neighborhood, or slipped on a wet floor at a Riverside store, LawProactive connects you with an independent injury attorney at no cost. We serve people across Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Riverside, California",
+    "longDescription": "Riverside sits where I-215 and SR-91 meet, and Van Buren Boulevard carries a large share of the city's day-to-day traffic between them. Those three corridors appear most often in the city's public collision record. In 2025, Riverside logged 1,995 injury collisions. That translated to 2,807 people hurt and 23 lives lost in a single year, in a city of about 322,000 residents. Reports tend to climb on Friday evenings between 5 p.m. and 7 p.m., when commuters heading home overlap with weekend traffic. Downtown, the historic Mission Inn still draws visitors year-round, and the streets around it stay busy. If you were one of the people counted in those numbers, or if you were hurt some other way, such as a fall at a store, a dog bite, or a collision on a bike, you may be unsure what comes next. LawProactive is a free service. We are not a law firm, and we do not give legal advice. What we do is connect Riverside residents with an independent personal injury attorney who handles cases like yours. That attorney reviews your situation for free, and if they take the case, they work on contingency: no fee unless there is a recovery. There is nothing to pay us, ever.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Riverside Cases",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Broken bones from falls and pedestrian impacts",
+      "Concussions and other head injuries",
+      "Back and spinal cord injuries",
+      "Dog bite wounds and scarring",
+      "Soft-tissue injuries from motorcycle and bicycle crashes"
+    ],
+    "ctaText": "Get a free case review from an independent Riverside attorney."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Riverside Claim",
+    "items": [
+      {
+        "title": "Two years, with one important exception",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, the window to file a claim can be as short as six months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not shut you out",
+        "desc": "California follows pure comparative fault. If you were partly responsible for what happened, your recovery is reduced by your share of the blame, but you are not barred from recovering."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For a typical injury claim in California, there is no statutory limit on non-economic damages like pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "You pay nothing unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. Their fee comes out of any recovery, so there are no upfront costs and no fee if the case does not result in one."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say",
+      "I can't work right now and the medical bills are already piling up",
+      "The other driver says it was partly my fault",
+      "I don't know if I can afford a lawyer at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions cluster in Riverside, according to public records?",
+        "answer": "Public collision counts for Riverside show the highest volumes along I-215, SR-91, and Van Buren Boulevard. These are simply the corridors with the most reported incidents, which tracks with how much traffic they carry. Reports also tend to peak on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Riverside?",
+        "answer": "For most injury claims in California, the deadline is two years from the date you were hurt. If your claim involves a government entity, such as a city bus or a poorly maintained public road, you may have only six months to file a formal claim first. An attorney can tell you which deadline applies to you."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses pure comparative fault, so being partly responsible does not end your claim. Your recovery is reduced by the percentage of fault assigned to you. Even someone found mostly at fault can still recover something for the portion that was not their doing."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people in Riverside with an independent personal injury attorney. We do not provide legal advice or represent you. The attorney you are connected with handles your case directly."
+      },
+      {
+        "question": "What will it cost me to talk to an attorney?",
+        "answer": "Nothing. The connection through LawProactive is free, and the attorney's initial case review is free as well. If the attorney takes your case, they work on contingency, meaning there is no fee unless there is a recovery."
+      }
+    ]
+  }
+}

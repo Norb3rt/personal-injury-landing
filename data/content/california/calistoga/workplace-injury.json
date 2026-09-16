@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "calistoga workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calistoga Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Calistoga? Get connected free with an independent attorney who handles work injury and third-party claims in Napa County."
+  },
+  "hero": {
+    "subtitle": "When a job injury sidelines you in Calistoga, the paperwork and rules around workers' comp can feel like a second obstacle on top of recovering. LawProactive connects you, at no cost, with an independent attorney who can sort out whether comp or a separate claim fits your situation."
+  },
+  "about": {
+    "title": "Calistoga Workplace Injury Claims",
+    "longDescription": "Calistoga's economy runs on hospitality, agriculture, and the wineries that draw visitors along Lincoln Avenue and out toward Foothill Boulevard, and that mix means work injuries here range from vineyard equipment accidents to kitchen burns to falls at a resort loading dock. California generally routes these injuries through workers' compensation regardless of who was at fault, but that system doesn't always cover everything you've lost, and it isn't the only path available. If a subcontractor, equipment manufacturer, property owner, or another company's employee contributed to what happened, a separate claim against that third party may be possible alongside your workers' comp benefits. LawProactive doesn't practice law or promise results; we simply connect injured workers in Calistoga with an independent attorney, free of charge, who can look at the facts and explain the options plainly. There's no fee unless a recovery is made.",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive tasks",
+      "Falls from ladders, docks, or uneven vineyard terrain",
+      "Burns from kitchen or winery equipment",
+      "Crush or laceration injuries from machinery",
+      "Heat-related illness during outdoor harvest work",
+      "Injuries from forklifts, tractors, or other work vehicles"
+    ],
+    "ctaText": "Tell us what happened, and we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but a negligent third party — like a contractor or equipment maker — can still be pursued separately. An attorney can help determine if that applies to your case."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "California requires injuries to be reported to your employer within 30 days, and missing that window can complicate your claim. Getting guidance early helps protect your options."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "It's illegal for an employer to punish you for reporting a workplace injury or filing a claim. An independent attorney can help you understand your rights if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a Calistoga vineyard — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer no matter who was at fault. But if equipment failure or a third-party contractor played a role, a separate claim against that party may also be possible. An independent attorney can review the details and explain which paths apply."
+      },
+      {
+        "question": "How long do I have to report a work injury in California?",
+        "answer": "Generally, you need to notify your employer within 30 days of the injury to preserve your workers' comp rights. If a third-party claim is also involved, that carries its own two-year deadline. Acting sooner rather than later helps avoid complications."
+      },
+      {
+        "question": "Can my employer fire me for filing a workers' comp claim?",
+        "answer": "No — retaliating against an employee for reporting a workplace injury or filing a claim is illegal in California. If you're facing pressure or pushback at work after an injury, it's worth speaking with an independent attorney about your options."
+      }
+    ]
+  }
+}

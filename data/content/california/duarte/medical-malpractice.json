@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "duarte medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Duarte Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Duarte, CA? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis is missed or a procedure goes wrong at a Duarte-area clinic or hospital, the aftermath can feel isolating. LawProactive connects you, at no cost, with an independent attorney who handles medical malpractice claims in Los Angeles County."
+  },
+  "about": {
+    "title": "Duarte Medical Malpractice Claims",
+    "longDescription": "Duarte residents rely on nearby Los Angeles County hospitals and clinics for everything from routine checkups to emergency care, and most visits go fine. But when a provider misses a clear warning sign, gives the wrong medication, or botches a surgical step, the damage can follow a patient for years. California's MICRA law shapes these cases in specific ways: claims generally must be filed within one year of discovering the harm (and no later than three years from the injury itself), a 90-day pre-suit notice is required before a lawsuit moves forward, and a qualified medical expert almost always has to weigh in to confirm the standard of care was breached. A poor result on its own isn't proof of malpractice — the law requires showing the provider fell below accepted medical standards. LawProactive doesn't practice law or handle your case directly; we simply connect Duarte patients and families with an independent attorney who can review the facts and explain your options, free of charge.",
+    "commonInjuriesTitle": "Common Malpractice Injuries We See",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Hospital-acquired infections from poor care"
+    ],
+    "ctaText": "Talk to an independent malpractice attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Duarte Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand MICRA's Tight Clock",
+        "desc": "California generally gives you one year from discovering the harm, and never more than three years from the injury, to act. An attorney can help make sure the 90-day pre-suit notice and filing deadlines aren't missed."
+      },
+      {
+        "title": "Expert Review Before You Commit",
+        "desc": "Because a qualified medical expert is almost always required to support a malpractice claim, the attorneys in our network arrange for that kind of clinical review before deciding how to proceed."
+      },
+      {
+        "title": "No Upfront Cost, No Risk",
+        "desc": "Attorneys we connect you with work on contingency, meaning there's no fee unless you recover. You lose nothing by finding out where your case stands."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Duarte?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it occurred. A 90-day written notice to the provider is also required before a lawsuit can be filed. These deadlines are strict, so it helps to talk to an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. Medicine involves risk, and a poor result by itself doesn't prove negligence. To have a valid claim, you generally need to show the provider's care fell below the accepted medical standard, which is why a qualified medical expert almost always has to review the case."
+      },
+      {
+        "question": "Which Duarte-area hospitals or clinics does this cover?",
+        "answer": "LawProactive can help connect you with an attorney regardless of which Los Angeles County hospital, urgent care, or clinic was involved, including facilities near I-210, Huntington Drive, or Buena Vista Street. The attorney you're matched with will look at the specific provider and circumstances of your care."
+      }
+    ]
+  }
+}

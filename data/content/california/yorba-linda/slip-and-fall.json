@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "yorba-linda slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Yorba Linda Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Fell at a Yorba Linda store, restaurant or rental? LawProactive connects you, free, with an independent premises liability attorney in Orange County."
+  },
+  "hero": {
+    "subtitle": "Slipped on a wet floor, tripped on a broken step, or fell in a poorly lit lot somewhere in Yorba Linda? We connect you, at no cost, with an independent attorney who handles premises liability claims across Orange County."
+  },
+  "about": {
+    "title": "Yorba Linda Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall happens fast, and the reasons behind it are usually mundane: a puddle nobody mopped near a grocery entrance on Yorba Linda Boulevard, a loose stair rail at a rental off Bastanchury Road, a dim parking lot outside a restaurant along Imperial Highway. In Yorba Linda, a community of roughly 68,000 people in Orange County, most premises claims start in places like these. California law does not make property owners responsible for every mishap. What it asks is whether the owner knew about the hazard, or reasonably should have, and failed to fix it or warn about it. That question of notice is where these cases are won or lost, so what you do in the first days matters. Photograph the spot, note the time, get names of anyone who saw you fall, and ask in writing that surveillance footage be kept. LawProactive is not a law firm. We are a free service connecting Yorba Linda residents with an independent attorney who handles premises cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Seen After a Fall in Yorba Linda",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow and shoulder fractures from bracing",
+      "Head injuries and concussions",
+      "Knee ligament tears",
+      "Herniated discs and other back injuries",
+      "Sprained or fractured ankles"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Yorba Linda Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole case, and evidence disappears",
+        "desc": "California requires proof that the owner knew or should have known about the hazard. An attorney can send a preservation demand for surveillance video and maintenance logs before they are routinely overwritten or discarded."
+      },
+      {
+        "title": "Deadlines differ depending on who owns the property",
+        "desc": "Most premises claims in California carry a two-year filing window, but a fall on city, county, or other public property triggers a much shorter claim process. Sorting out ownership early keeps your options open."
+      },
+      {
+        "title": "A partial mistake does not end your claim",
+        "desc": "Under California's pure comparative fault rule, being partly responsible, say for not seeing a sign, reduces a recovery rather than eliminating it. The attorney you're connected with works on contingency, so you owe no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a public sidewalk or in a city park in Yorba Linda. Is that handled differently?",
+        "answer": "Yes. When the property belongs to the City of Yorba Linda, Orange County, or another government body, California requires a formal administrative claim first, and the window to file it is far shorter than the two-year deadline that applies to private owners. Because of that, it's worth confirming who controls the property as soon as you can. An attorney can help pin that down and meet the shorter timeline."
+      },
+      {
+        "question": "The store manager said I should have watched where I was walking. Does that mean I have no case?",
+        "answer": "Not necessarily. California uses pure comparative fault, so if you were partly at fault, your recovery is reduced by your share rather than wiped out. The central question is still whether the owner knew, or reasonably should have known, about the hazard and did nothing. A manager's opinion at the scene does not decide that."
+      },
+      {
+        "question": "What should I do about surveillance video from the business where I fell?",
+        "answer": "Ask the business in writing, as soon as possible, to preserve any footage of the area from the day you fell. Many systems record over old video within days or weeks, so waiting can mean the clearest proof of the hazard is gone. An attorney can send a formal preservation letter that carries more weight than a casual request."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "hermosa-beach city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hermosa Beach, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Hermosa Beach? LA County claims have a 2-year filing window. Free attorney connection, no fee unless you win. Get help now."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, bike accident, or fall in Hermosa Beach, we can connect you with an independent attorney at no cost. Free to you, serving all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Hermosa Beach, California",
+    "longDescription": "Hermosa Beach is a small coastal city, but its streets see steady traffic from residents, beachgoers, and visitors moving along Pacific Coast Highway, Hermosa Avenue, Pier Avenue, and Manhattan Avenue. In the most recent final reporting year, the city recorded 45 injury collisions and 55 people injured, with no traffic deaths — numbers that reflect a compact community where cars, cyclists, and pedestrians share tight space near the pier and downtown corridor. If you were hurt in one of these incidents, sorting out medical bills, insurance calls, and paperwork can feel like a second job on top of recovering physically. LawProactive is a free service that helps injured people connect with an independent personal injury attorney in the Los Angeles area. We are not a law firm, we don't handle your case ourselves, and we never charge you anything to make the connection. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Our goal is simply to make that first step — finding someone who can look at your situation — easier and free of pressure.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from bike or pedestrian accidents",
+      "Road rash and joint injuries from motorcycle crashes",
+      "Back and spinal injuries from vehicle collisions",
+      "Concussions and head injuries",
+      "Cuts, bruises, and soft-tissue damage from falls"
+    ],
+    "ctaText": "See if you qualify for a free attorney connection — no obligation, no cost."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California law generally gives you two years from the date of injury to file a personal injury claim. Claims against a government entity, such as for a defect on a city street, can require notice in as little as six months, so it helps to move sooner rather than later."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover compensation even if you were partly responsible for what happened. Your share of fault simply reduces your recovery rather than eliminating it."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no limit on non-economic damages like pain and suffering. This can matter a lot for injuries that affect your daily life long after medical bills are paid."
+      },
+      {
+        "title": "No Upfront Cost to Get Legal Help",
+        "desc": "Attorneys who take injury cases typically work on contingency, meaning they only get paid if you recover money. That structure exists so injured people aren't forced to pay out of pocket just to explore their options."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're out of work",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you waited too long or still have time to act",
+      "Wondering if being partly at fault means you can't get any help"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and we never charge a fee for the connection. If an attorney agrees to take your case, they typically work on contingency, so there's no cost to you unless they recover money on your behalf."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Most personal injury claims in California must be filed within two years of the injury. If your claim involves a government entity, such as a road or property maintained by the city, the notice period can be as short as six months, so it's worth checking your timeline early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still pursue compensation even if you share some blame. Your recovery is reduced by your percentage of fault, but it isn't automatically barred."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Hermosa Beach?",
+        "answer": "Public collision records show higher volumes along Pacific Coast Highway, Hermosa Avenue, Pier Avenue, and Manhattan Avenue, with reports often peaking on Friday afternoons between 3 and 5 p.m. These are simply recorded counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people find an independent attorney to evaluate their situation. We don't represent you directly or handle your case — the attorney you're connected with does that."
+      }
+    ]
+  }
+}

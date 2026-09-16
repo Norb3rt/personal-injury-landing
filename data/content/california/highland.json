@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "highland city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Highland, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Highland, San Bernardino County? Free attorney connection, no fee unless you win. 2 years to file most injury claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident in Highland, we can connect you free of charge with an independent attorney serving San Bernardino County. There's no cost to get matched and no obligation to move forward."
+  },
+  "about": {
+    "title": "Personal Injury Help in Highland, California",
+    "longDescription": "Highland sees its share of everyday traffic — and with that comes real consequences. In the most recent full year on record, the city logged 154 injury collisions, 241 people hurt, and 6 traffic deaths. Corridors like Baseline Street, Victoria Avenue, SR-210, and 9th Street carry heavy volume, and public records show crashes tend to cluster on Saturday afternoons between 3 and 5 p.m. Those numbers aren't a verdict on any road — they're simply a reflection of how much traffic moves through a growing community of nearly 55,000 people. If you or someone you love has been injured here, whether in a vehicle collision, a slip and fall, or another accident, it helps to understand your options quickly. LawProactive is a free service — not a law firm — that connects injured people in Highland with an independent personal injury attorney who works on contingency, meaning there's no fee unless there's a recovery. We don't handle your case ourselves; we simply make the introduction so you can talk to someone who can look at the details and explain what California law means for your situation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and brain injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "Time Limits Apply",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can require notice in as little as six months. Acting sooner helps preserve your options."
+      },
+      {
+        "title": "Fault Doesn't Have to Be Perfect",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Certain Damages",
+        "desc": "In most ordinary injury cases, California places no cap on non-economic damages like pain and suffering, which can matter for serious injuries."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a recovery. There's no fee to speak with someone about your situation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if you waited too long to take action",
+      "Fear that being partly at fault means you get nothing",
+      "Confusion about whether you can afford a lawyer at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Generally, you have two years from the date of the injury to file a personal injury claim. If your claim involves a government agency, the window can be much shorter, sometimes as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some responsibility. Your recovery would simply be reduced by your percentage of fault rather than eliminated."
+      },
+      {
+        "question": "Where do crashes tend to happen in Highland?",
+        "answer": "Public records show corridors like Baseline Street, Victoria Avenue, SR-210, and 9th Street carry the highest collision counts in the city, with activity often clustering on Saturday afternoons between 3 and 5 p.m. These are simply reported counts, not a statement about any particular road being unsafe."
+      },
+      {
+        "question": "Will I have to pay anything upfront?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency, meaning they only collect a fee if you receive a settlement or award."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't represent clients directly or provide legal advice ourselves."
+      }
+    ]
+  }
+}

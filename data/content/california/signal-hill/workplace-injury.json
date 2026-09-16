@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "signal-hill workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Signal Hill Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Signal Hill? Free connection to an independent attorney for workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a workplace accident in Signal Hill left you hurt, LawProactive can connect you with an independent attorney who handles both workers' comp questions and possible third-party claims tied to the incident.  There's no cost to get connected."
+  },
+  "about": {
+    "title": "Signal Hill Workplace Injury Claims",
+    "longDescription": "Signal Hill's mix of industrial sites, warehousing, and commercial corridors near Cherry Avenue and Orange Avenue means workplace injuries can happen on a loading dock, in a small manufacturing shop, or while driving for work along busy streets. In California, workers' compensation is generally the exclusive remedy against your employer no matter who was at fault, but that's not the whole story. If a subcontractor, property owner, delivery vehicle driver, or equipment manufacturer contributed to what happened, a separate third-party claim may be possible alongside your workers' comp case. Los Angeles County workplaces vary widely, and figuring out where your situation fits can be confusing while you're trying to heal. LawProactive doesn't practice law or promise results — we simply connect injured workers in Signal Hill with an independent attorney who can review the details, explain your options in plain terms, and help you understand next steps without pressure or cost upfront.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, docks, or elevated platforms",
+      "Repetitive strain and overexertion injuries",
+      "Machinery or equipment-related injuries",
+      "Being struck by falling objects or forklifts",
+      "Vehicle collisions while driving for work",
+      "Chemical or fume exposure incidents"
+    ],
+    "ctaText": "Talk with an independent attorney about your workplace injury — free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Signal Hill Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Your Exclusive Remedy Rule",
+        "desc": "Workers' comp usually blocks a direct lawsuit against your employer, but an attorney can help you see whether that rule truly limits your case or whether other paths exist."
+      },
+      {
+        "title": "Spotting Third-Party Liability",
+        "desc": "If a subcontractor, property owner, or another driver contributed to your injury, a separate claim with its own 2-year deadline may be available on top of any workers' comp benefits."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury, and an attorney can explain what protections apply if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job site off Willow Street — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' comp is your primary path against your employer regardless of fault. But if someone outside your employer — like a subcontractor or another driver — contributed to the accident, a separate third-party claim might also be worth exploring. An independent attorney can look at the specifics of your Signal Hill incident and explain which options apply."
+      },
+      {
+        "question": "How long do I have to report a workplace injury in California?",
+        "answer": "You generally need to notify your employer within 30 days of the injury to preserve your workers' comp rights. Waiting too long can complicate your claim, so it's best to report the incident as soon as it's reasonably possible. If a third-party claim is also involved, that carries its own separate 2-year deadline."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury?",
+        "answer": "No — California law makes it illegal for an employer to retaliate against you for reporting a work injury or filing a workers' comp claim. If you believe you've faced retaliation, an independent attorney can help you understand what protections and options may apply to your situation."
+      }
+    ]
+  }
+}

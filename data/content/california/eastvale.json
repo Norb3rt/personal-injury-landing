@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "eastvale city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Eastvale, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Eastvale, Riverside County? 2 years to file. Free connection to an attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you or someone you love was hurt in a car crash or fall in Eastvale, we can connect you with an independent attorney at no cost. Serving Riverside County residents free of charge."
+  },
+  "about": {
+    "title": "Personal Injury Help in Eastvale, California",
+    "longDescription": "Eastvale sits at the crossroads of fast-growing Riverside County traffic, and its roadways see their share of collisions. In the most recent recorded year, the city logged 185 injury collisions resulting in 248 people hurt, with corridors like I-15, Limonite Avenue, Schleisman Road, and Hamner Avenue among the busiest for reported crashes. Many of these incidents cluster around Wednesday afternoons between 3 and 5 p.m., when commuter and local traffic overlap. Whether the crash happened on I-15 or at a neighborhood intersection near Hamner Avenue, the aftermath is often the same: medical bills, missed work, and confusion about what happens next. LawProactive is a free service — not a law firm — that connects injured people in Eastvale with an independent personal injury attorney who can review the details of what happened. Attorneys in our network work on contingency, meaning there's no fee unless they recover compensation for you. You don't have to figure out insurance forms, fault percentages, or deadlines alone. Reaching out costs nothing and puts you in touch with someone who can explain your options clearly.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from pedestrian or bicycle collisions"
+    ],
+    "ctaText": "Find out your options — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California gives most injury victims two years from the date of the incident to file a claim, but that window shrinks to as little as six months if a government entity was involved. Waiting can quietly cost you your right to recover."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened — your share of fault simply reduces the amount, it doesn't eliminate it."
+      },
+      {
+        "title": "No Limit on Pain and Suffering Damages",
+        "desc": "California places no cap on non-economic damages in standard injury cases, meaning compensation for pain, suffering, and lost quality of life isn't artificially limited the way it is in some states."
+      },
+      {
+        "title": "You Pay Nothing Up Front",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. That means getting legal advice doesn't add financial pressure to an already stressful time."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling like the crash was partly your fault and unsure if that matters",
+      "Losing track of deadlines while trying to heal"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a crash in Eastvale?",
+        "answer": "In California, most injury claims must be filed within two years of the incident. If a government entity, like a city road crew or public bus, was involved, that deadline can shrink to as little as six months, so it's wise to act early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover damages even if you share some blame. Your compensation is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to happen in Eastvale?",
+        "answer": "Public-record collision counts show higher volumes along I-15, Limonite Avenue, Schleisman Road, and Hamner Avenue, with reports often clustering on Wednesday afternoons between 3 and 5 p.m. These are simply where more collisions have been recorded, not a judgment about any road's safety."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people with an independent attorney who can evaluate their situation."
+      },
+      {
+        "question": "Will I owe money if my case doesn't win?",
+        "answer": "Attorneys in our network work on contingency, meaning they only get paid if they recover money for you. If there's no settlement or award, you generally owe no attorney fees."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "tiburon city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tiburon, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Tiburon or Marin County? Connect free with an independent attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end collision on Tiburon Boulevard or a broken bone from a bicycle crash on Paradise Drive, we can connect you with an independent attorney at no cost, serving all of Marin County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Tiburon, California",
+    "longDescription": "Tiburon is a small, close-knit town, but its roads still see their share of collisions. In the most recent full year on record, Tiburon logged 4 injury collisions with 6 people hurt and, thankfully, no traffic deaths. Local corridors like Tiburon Boulevard, Rt 131, Paradise Drive, and Cecilia Way carry the bulk of the town's public-record crash counts, and reports tend to cluster on Tuesday afternoons between 3 and 5 p.m. — likely tied to school pickup and commute traffic squeezing through this narrow peninsula. If you were hurt in a wreck on any of these roads, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — we are not a law firm — that connects injured people in Tiburon with an independent personal injury attorney who can review what happened and explain your options. There's no cost to connect, and attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and starts the process of understanding where you stand.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee ligament tears"
+    ],
+    "ctaText": "Find out where you stand — connect free with an independent attorney today."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can require notice in as little as six months. An attorney can help you understand which deadline applies to your situation."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for the crash, you can still recover damages — just reduced by your share of fault. An independent attorney can help sort out how fault may be allocated in your case."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means your recovery isn't limited to medical bills and lost wages alone."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so you don't pay unless there's a recovery. That makes it possible to get legal help without worrying about upfront costs."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Wondering how the medical bills will get paid while you can't work",
+      "Worrying that admitting any fault will mean losing your entire claim",
+      "Feeling pressured by insurance adjusters calling before you've even seen a doctor",
+      "Not knowing how much time you actually have to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Tiburon?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If your injury involved a government entity, such as a city-owned road, the notice deadline can be as short as six months, so it's important not to wait."
+      },
+      {
+        "question": "Where do injury collisions tend to cluster in Tiburon?",
+        "answer": "Public-record crash counts show that reported collisions in Tiburon tend to concentrate along Tiburon Boulevard, Rt 131, Paradise Drive, and Cecilia Way, with reports peaking on Tuesdays between 3 and 5 p.m. These are simply neutral counts of where and when crashes have been reported, not a judgment about any location."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, meaning you can still recover compensation even if you share some responsibility for the crash. Your total recovery would just be reduced by your percentage of fault, rather than being barred entirely."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no upfront cost to find out where you stand."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We're a free service that connects injured people in Tiburon and throughout Marin County with independent personal injury attorneys who can evaluate their situation."
+      }
+    ]
+  }
+}

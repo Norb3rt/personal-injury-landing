@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "oakdale city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oakdale, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Oakdale, Stanislaus County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on Rt 108 or injured as a pedestrian near W F Street, we can connect you with an independent attorney at no cost to you, serving Stanislaus County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Oakdale, California",
+    "longDescription": "Oakdale may be a smaller community of just over 22,000 people, but its roads still see real traffic. In the most recent full year on record, Stanislaus County logged 75 injury collisions in and around Oakdale, leaving 109 people hurt. Corridors like E F Street, Rt 108, S Yosemite Avenue, and W F Street carry a steady mix of local errands, farm traffic, and commuters passing through, and that mix creates the kinds of everyday collisions that send people to urgent care or the ER. If you were hurt in one of these crashes, you're likely dealing with medical bills, missed work, and a lot of unanswered questions about what comes next. LawProactive is a free service, not a law firm, that connects injured people in Oakdale with an independent personal injury attorney who can review what happened and explain your options. There's no upfront cost, and the attorneys in our network work on contingency, meaning no fee unless they recover money for you. You don't have to sort through California's legal deadlines and fault rules alone. Reaching out costs nothing and can help you understand where you stand.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Knee, shoulder, and joint injuries"
+    ],
+    "ctaText": "Find out where you stand — reach out for a free, no-obligation connection."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Now",
+    "items": [
+      {
+        "title": "Your Filing Window Is Limited",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but claims against a government agency can require notice in as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for the crash, you may still recover compensation reduced by your share of fault. An attorney can help sort out how fault gets divided."
+      },
+      {
+        "title": "No Cap on Pain and Suffering Damages",
+        "desc": "In an ordinary injury case, California places no cap on non-economic damages like pain and suffering. That means your recovery isn't artificially limited by a statutory ceiling."
+      },
+      {
+        "title": "No Fee Unless You Recover Money",
+        "desc": "Attorneys connected through LawProactive work on contingency, so you pay nothing upfront and owe no fee unless there's a settlement or award in your favor."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "How am I going to pay these medical bills while I can't work?",
+      "Will the insurance company try to blame me for the crash?",
+      "How much time do I actually have to do something about this?",
+      "Can I really afford a lawyer right now?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Oakdale?",
+        "answer": "Under California law, most injury claims must be filed within two years of the incident. If a government entity is involved, such as a city vehicle or a road defect, the notice deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the collision?",
+        "answer": "California uses pure comparative fault, meaning you can still recover compensation even if you bear some responsibility. Your recovery would simply be reduced by your percentage of fault, not eliminated entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Oakdale?",
+        "answer": "Public crash records show collision counts concentrated along corridors like E F Street, Rt 108, S Yosemite Avenue, and W F Street, with reported crashes tending to peak on Fridays between noon and 2 p.m. These are simply reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service and not a law firm. We connect you with an independent attorney, and any fees related to your case would come from the attorney, typically only if you recover compensation."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "In a standard personal injury case in California, there is no statutory cap on non-economic damages like pain and suffering. Every case is different, though, so the actual value depends on the specific facts of your situation."
+      }
+    ]
+  }
+}

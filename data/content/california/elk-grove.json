@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "elk-grove city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Elk Grove, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Elk Grove or elsewhere in Sacramento County? Most claims allow 2 years to file. Get connected free with an attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Car crashes, pedestrian collisions, slip-and-falls, dog bites—if you were hurt in Elk Grove, we connect you with an independent personal injury attorney at no cost. Serving all of Sacramento County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Elk Grove, California",
+    "longDescription": "Elk Grove is home to nearly 167,000 people, and its streets stay busy from the morning commute to the evening rush. In 2025, the most recent year with final numbers, the city recorded 476 injury collisions. Those crashes hurt 652 people and took 10 lives. Public collision records show the heaviest counts along Elk Grove Boulevard, Laguna Boulevard, Bruceville Road, and Sheldon Road, with reports tending to peak on Friday afternoons between 3 and 5 p.m., when commuters, shoppers, and school pickups all share the same lanes. Behind every one of those numbers is someone dealing with pain, paperwork, and a phone that will not stop ringing with adjuster calls. That is where LawProactive comes in. We are not a law firm, and we do not give legal advice. We are a free service that listens to what happened and connects you with an independent personal injury attorney who handles cases in Sacramento County. There is no charge for the connection, and the attorneys in our network work on contingency, which means no fee unless there is a recovery. Whether you were rear-ended on Laguna Boulevard, knocked off your bike near Sheldon Road, or slipped on a wet floor at a local store, one conversation can help you understand what comes next.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Elk Grove",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back and spinal disc injuries",
+      "Knee and ankle injuries from falls",
+      "Cuts, bruising, and soft-tissue damage"
+    ],
+    "ctaText": "Tell us what happened. The conversation is free, and there is no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Elk Grove Claim",
+    "items": [
+      {
+        "title": "The clock runs two years—sometimes less",
+        "desc": "California gives most injury victims two years from the date of harm to file a lawsuit. If a city, county, or state agency is involved, a claim may need to be filed in as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not shut the door",
+        "desc": "California follows pure comparative fault. Even if you were partly to blame, you can still recover; your share of fault simply reduces the amount."
+      },
+      {
+        "title": "No ceiling on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, emotional distress, and loss of enjoyment of life. Your claim can reflect what you actually went through."
+      },
+      {
+        "title": "Nothing out of pocket to get started",
+        "desc": "Attorneys in our network work on contingency. You pay no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster keeps calling and I don't know what to say",
+      "My car is totaled and I can't get to work",
+      "Medical bills are piling up while I'm still healing",
+      "I was partly at fault—does that mean I get nothing?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Elk Grove?",
+        "answer": "For most personal injury claims in California, you have two years from the date of the injury to file a lawsuit. That window can shrink to six months if a government entity, such as the city or a state agency, is responsible. Speaking with an attorney early helps make sure no deadline slips by."
+      },
+      {
+        "question": "Where do crashes tend to happen in Elk Grove?",
+        "answer": "Public collision records for 2025 show the highest counts along Elk Grove Boulevard, Laguna Boulevard, Bruceville Road, and Sheldon Road. Reports also tend to cluster on Fridays between 3 p.m. and 5 p.m. These are simply record counts reflecting traffic volume, not a judgment about any particular street."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people in Sacramento County with an independent personal injury attorney. We do not represent you or give legal advice; the attorney you are connected with does that."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, so being partly at fault does not bar your claim. Your recovery is reduced by your percentage of responsibility. For example, if you were found 20 percent at fault, you could still recover the remaining 80 percent of your damages."
+      },
+      {
+        "question": "How much will it cost me to hire an attorney?",
+        "answer": "The connection through LawProactive is free. Attorneys in our network work on contingency, meaning they take a percentage of any recovery rather than charging upfront. If there is no recovery, you owe no attorney fee."
+      }
+    ]
+  }
+}

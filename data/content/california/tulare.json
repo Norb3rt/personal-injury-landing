@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "tulare city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tulare, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Tulare County? Free connection to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Rt 137 or suffered a slip-and-fall injury, we can connect you with an independent attorney at no cost, serving all of Tulare County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Tulare, California",
+    "longDescription": "Tulare sees its share of everyday traffic risk, with 51 injury collisions and 63 people hurt in the most recent final crash year, including one traffic death. Corridors like Rt 137, Blackstone, Bardsley, and SR-99 carry heavy local traffic, and reported crashes tend to cluster on Friday afternoons between 3 and 5 p.m. when commuters, shoppers, and weekend travelers overlap on the same roads. If you or someone you love was hurt in a collision on one of these corridors, or anywhere else in Tulare County, it helps to understand your options quickly, since California generally gives injured people two years to file a claim, and that window can shrink to as little as six months when a government entity is involved. LawProactive is a free service, not a law firm, that connects injured people with an independent personal injury attorney who works on contingency, meaning there's no fee unless there's a recovery. We don't handle your case ourselves; we simply help you get in touch with someone who can look at what happened and explain your options, no pressure, no obligation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Torn ligaments and soft-tissue damage",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "Two-Year Filing Window",
+        "desc": "California generally allows two years from the date of injury to file a personal injury claim, but that timeline shrinks significantly if a government agency is involved, so it helps to act sooner rather than later."
+      },
+      {
+        "title": "Fault Doesn't Bar Recovery",
+        "desc": "Under California's pure comparative fault rule, even if you were partly responsible for what happened, you may still be able to recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In most ordinary injury cases, California places no cap on compensation for pain, suffering, and other non-economic harm, unlike some other states."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning you pay nothing upfront and owe no fee unless your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Feeling unsure whether you can afford to hire an attorney",
+      "Not knowing how long you have to take legal action",
+      "Fearing that being partly at fault means you have no case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after an injury in Tulare?",
+        "answer": "In most cases, California gives you two years from the date of the incident to file a personal injury claim. If a government entity or vehicle was involved, that deadline can be as short as six months, so it's worth checking your specific situation promptly."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Tulare?",
+        "answer": "Public crash records show that reported collisions in Tulare are concentrated along corridors like Rt 137, Blackstone, Bardsley, and SR-99, with activity often peaking on Fridays between 3 and 5 p.m. These are simply neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some responsibility for what happened. Your recovery would be reduced by your percentage of fault, but it wouldn't be barred outright."
+      },
+      {
+        "question": "Will I have to pay anything upfront to speak with an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network typically work on contingency, meaning they only get paid if you recover compensation. There's no obligation when you reach out."
+      },
+      {
+        "question": "Is there a limit on how much compensation I can receive?",
+        "answer": "For most ordinary personal injury cases in California, there's no cap on non-economic damages like pain and suffering. Every case is different, though, so an independent attorney can review your specific circumstances."
+      }
+    ]
+  }
+}

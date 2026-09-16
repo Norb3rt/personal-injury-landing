@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "anderson slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Anderson Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall at an Anderson store or business? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you slipped, tripped, or fell on someone else's property in Anderson, we can connect you with an independent attorney who handles premises liability cases across Shasta County at no upfront cost."
+  },
+  "about": {
+    "title": "Anderson Slip & Fall Claims",
+    "longDescription": "Anderson is a small city, but the businesses lining Rt 273, Deschutes Road, and North Street still see plenty of foot traffic every day, and with that traffic comes wet floors, cracked pavement, and poorly lit stairwells. When a property owner or manager fails to notice a hazard or ignores it after being warned, the people walking through their doors pay the price. California premises liability law asks a simple question: did the owner know, or should they have known, about the danger in time to fix it or warn you? Answering that question well often depends on evidence gathered quickly, before spills get mopped up, mats get replaced, or surveillance footage gets erased. If you were hurt in a fall anywhere in Anderson, whether at a shop, a rental property, or a public building, LawProactive can connect you with an independent attorney who works these cases on contingency, meaning there's no fee unless you recover.",
+    "commonInjuriesTitle": "Common Injuries in Slip & Fall Incidents",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures",
+      "Traumatic brain injuries",
+      "Spinal disc injuries",
+      "Knee and ligament tears",
+      "Shoulder dislocations"
+    ],
+    "ctaText": "Find out if you have a case, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Anderson Fall",
+    "items": [
+      {
+        "title": "Notice Is Everything",
+        "desc": "California law requires showing the property owner knew or should have known about the hazard. An attorney can help track down maintenance logs, prior complaints, or inspection records that establish that notice."
+      },
+      {
+        "title": "Surveillance Video Disappears Fast",
+        "desc": "Many Anderson businesses overwrite security footage within days or weeks. Getting a preservation request out quickly can be the difference between having proof and having nothing."
+      },
+      {
+        "title": "Comparative Fault Can Be Argued Down",
+        "desc": "California follows pure comparative fault, so even if you're assigned some percentage of blame for the fall, you may still recover a reduced amount. An attorney can push back on unfair fault allocations."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Anderson?",
+        "answer": "Generally, you have two years from the date of the fall to file a lawsuit under California law. If the property involved is owned by a government entity, such as a city building or public sidewalk, the deadline is much shorter and requires a claim be filed within months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if the store says I was watching my phone, not the floor?",
+        "answer": "California uses pure comparative fault, which means you can still recover damages even if you're found partly responsible, though your share of fault reduces the amount. An attorney can help gather evidence, like photos of the hazard or witness statements, to counter arguments that shift too much blame onto you."
+      },
+      {
+        "question": "Does it matter that Anderson is a small city with fewer big stores?",
+        "answer": "Not really. Whether the fall happened at a chain business off Rt 273 or a small local shop on North Street, the same premises liability rules apply. What matters most is whether the hazard was something the owner knew about or should have caught before you got hurt."
+      }
+    ]
+  }
+}

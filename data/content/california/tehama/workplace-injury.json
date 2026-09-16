@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "tehama workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tehama Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Tehama? Free connection to an independent attorney for workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you were hurt working near Sr-36(w), State Route 32, or anywhere else in Tehama County, we can connect you with an independent attorney who handles both workers' comp and third-party claims at no upfront cost."
+  },
+  "about": {
+    "title": "Tehama Workplace Injury Claims",
+    "longDescription": "Tehama's economy runs on agricultural work, roadside operations, and small commercial sites along corridors like South Avenue and State Route 36 — and injuries on these job sites happen more often than people expect. Under California law, workers' compensation is typically the exclusive path against your employer, but that's not the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate third-party claim worth pursuing alongside your workers' comp benefits. That distinction matters because it can affect what compensation you're eligible to recover. LawProactive isn't a law firm — we're a free service that connects injured Tehama workers with an independent attorney familiar with both sides of these overlapping claims. There's no cost to talk it through, and no obligation. Given the county's rural layout and reliance on farm and highway-adjacent work, having someone sort out employer versus third-party liability early can make a real difference.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, trucks, or equipment",
+      "Machinery and tool-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Burns or chemical exposure on job sites",
+      "Struck-by or crush injuries from falling loads"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Tehama Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle Employer vs. Third-Party Liability",
+        "desc": "Workers' comp usually blocks a direct lawsuit against your employer, but a negligent subcontractor, driver, or equipment maker can still be held separately liable. Sorting this out early can open up compensation options you might not know exist."
+      },
+      {
+        "title": "We Know the Reporting Clock Matters",
+        "desc": "California requires reporting a workplace injury to your employer within 30 days, and missing that window can jeopardize your comp claim. We connect you with someone who can help you move quickly and correctly."
+      },
+      {
+        "title": "We Understand Retaliation Protections",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a claim. An independent attorney can advise you on your rights if you're worried about your job status after speaking up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near State Route 32 — do I file workers' comp or a lawsuit?",
+        "answer": "Likely both could apply. Workers' comp typically covers your medical costs and lost wages regardless of fault, but if another driver caused the crash, you may also have a separate third-party injury claim with its own 2-year deadline. An independent attorney can look at the specifics and explain your options."
+      },
+      {
+        "question": "What if my employer in Tehama says I can't file a claim because I work on a farm or small crew?",
+        "answer": "Most California employers, including agricultural and small operations, are required to carry workers' compensation coverage. If you're being told otherwise, that's worth having reviewed by an independent attorney, since it could also raise retaliation concerns."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim?",
+        "answer": "You generally need to notify your employer within 30 days of a workplace injury to preserve your workers' comp rights. If a third party contributed to the injury, that separate claim carries a 2-year filing deadline. Because these timelines run differently, it helps to get guidance early rather than waiting."
+      }
+    ]
+  }
+}

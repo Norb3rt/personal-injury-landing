@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-15",
+    "practice": "medical-malpractice",
+    "note": "woodlake medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Lawyer in Woodlake, CA | LawProactive",
+    "metaDescription": "Harmed by a medical error in Woodlake? LawProactive connects Tulare County patients with an independent malpractice attorney at no cost to you."
+  },
+  "hero": {
+    "subtitle": "When care in or around Woodlake goes wrong, the questions come fast and the answers come slow. LawProactive puts you in touch, for free, with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Woodlake Medical Malpractice Claims",
+    "longDescription": "Woodlake is a town of about 7,654 people in Tulare County, and for most residents medical care means a local clinic visit, a pharmacy stop on Main Street, or a drive out Valencia Boulevard or Route 216 toward larger hospitals elsewhere in the county. That distance matters. A missed diagnosis, a medication mix-up, or a surgical error can take weeks to surface, and by then the paperwork trail may span several providers in several places. California's medical malpractice law, known as MICRA, adds its own structure: a claim generally must be filed within one year of discovering the harm and no later than three years from the injury, a 90-day notice must go to the provider before suit, and a qualified medical expert is almost always needed to explain what the standard of care required. A poor result on its own is not malpractice. Sorting out whether negligence occurred takes records, time, and someone who has done this before. LawProactive connects Woodlake patients and families with an independent attorney who works on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm Often Tied to Medical Negligence",
+    "commonInjuries": [
+      "Delayed or missed cancer and stroke diagnoses",
+      "Medication and dosage errors",
+      "Surgical mistakes, including wrong-site procedures",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary conditions or poor follow-up"
+    ],
+    "ctaText": "Ask whether your Woodlake case is worth a closer look"
+  },
+  "whyChoose": {
+    "title": "Why Woodlake Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Short",
+        "desc": "California gives you generally one year from the date you discovered the harm, and never more than three years from the injury, to act. A network attorney can help you figure out where your clock actually started."
+      },
+      {
+        "title": "The 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can be filed, the provider must receive written notice of the claim at least 90 days ahead. Getting that step right early keeps a valid claim from stalling."
+      },
+      {
+        "title": "Expert Review, Not Guesswork",
+        "desc": "Nearly every California malpractice case requires a qualified medical expert to show the standard of care was breached. Attorneys in our network know how to arrange that review and what it must cover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My treatment happened at a hospital outside Woodlake. Does that change where my claim is handled?",
+        "answer": "Not necessarily. Many Woodlake residents travel elsewhere in Tulare County or beyond for surgery and specialty care, and a claim generally follows where the negligence occurred and where the provider operates. An independent attorney can sort out venue questions and gather records from every facility involved, even when they are spread across the region."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California places a statutory cap on non-economic damages, meaning pain, suffering, and loss of enjoyment of life, and that cap increases each year under MICRA. Economic losses such as medical bills and lost income are handled separately. An attorney can explain how the current cap applies to the facts of your situation."
+      },
+      {
+        "question": "My outcome was bad, but how do I know if it was actually malpractice?",
+        "answer": "A disappointing result is not enough on its own; the law asks whether a reasonably careful provider would have acted differently under the same circumstances. Answering that almost always requires a qualified medical expert to review the records. LawProactive connects you with an attorney who can arrange that review at no upfront cost, since network attorneys work on contingency."
+      }
+    ]
+  }
+}

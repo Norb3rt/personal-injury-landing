@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "stockton medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Stockton Medical Malpractice Attorney | LawProactive",
+    "metaDescription": "Hurt by a medical error in Stockton? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines apply—learn your options."
+  },
+  "hero": {
+    "subtitle": "If a Stockton provider's mistake left you worse off than when you walked in, you deserve a clear answer about whether the standard of care was met. We connect you, at no cost, with an independent medical malpractice attorney serving San Joaquin County."
+  },
+  "about": {
+    "title": "Stockton Medical Malpractice Claims",
+    "longDescription": "Most people in Stockton walk into a clinic or hospital expecting to leave better than they arrived. When a missed diagnosis, a surgical error, or a medication mix-up sends things the other way, the shock is usually followed by a harder question: was this simply a bad result, or did someone fall short of the standard of care? California law draws that line carefully. A poor outcome by itself is not malpractice; there has to be a departure from what a reasonably careful provider would have done, and a qualified medical expert almost always has to say so. Timing matters too. Under MICRA, you generally have one year from when you discovered the harm, and never more than three years from the injury itself, with a 90-day notice sent to the provider before any lawsuit is filed. LawProactive is not a law firm. We are a free service that connects San Joaquin County residents with an independent attorney who handles these cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm We Commonly See in Malpractice Cases",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary conditions or ignored symptoms"
+    ],
+    "ctaText": "Ask a Stockton malpractice attorney whether your case qualifies — free."
+  },
+  "whyChoose": {
+    "title": "Why Stockton Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines get tracked from day one",
+        "desc": "The one-year discovery window and three-year outer limit can close faster than people expect. The attorney you're matched with will work out which dates apply to you and handle the required 90-day pre-suit notice."
+      },
+      {
+        "title": "Expert review, not guesswork",
+        "desc": "California cases almost always require a qualified medical expert to explain how the care fell short. Network attorneys know how to line that up and can tell you honestly if a bad outcome doesn't rise to malpractice."
+      },
+      {
+        "title": "No fee unless there's a recovery",
+        "desc": "Malpractice cases are expensive to build, so every attorney in our network works on contingency. You also get a straight explanation of how California's non-economic damages cap, which rises each year, may apply to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at a Stockton emergency room after a crash on Hammer Lane and they missed a fracture. Is that malpractice?",
+        "answer": "It might be, but the answer depends on what a reasonably careful ER provider would have done with the same symptoms and imaging. Stockton logged 1,313 injury collisions in 2025, and crash patients are common in local emergency rooms, so a missed injury after a wreck is something attorneys see. A qualified medical expert would need to review the records and say whether the miss was a departure from the standard of care. Note that you may also have a separate claim tied to the crash itself."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from the date you discovered, or reasonably should have discovered, the injury, and in no event more than three years from when the injury occurred. There are some exceptions, such as for minors or when a foreign object is left in the body. Before filing suit, a 90-day notice must go to the provider. Because these rules interact, it's worth talking to an attorney as early as you can."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a malpractice case?",
+        "answer": "California's MICRA law places a cap on non-economic damages, meaning things like pain, suffering, and loss of enjoyment of life. That cap now increases every year under the current statute. Economic losses such as medical bills and lost income are not subject to the same cap. An attorney can explain how the current figures would apply to your specific circumstances."
+      }
+    ]
+  }
+}

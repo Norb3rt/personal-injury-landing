@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "la-habra-heights city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Habra Heights, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in La Habra Heights? Free connection to an LA County injury attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash or fall in La Habra Heights, we can connect you free of charge with an independent personal injury attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in La Habra Heights, California",
+    "longDescription": "La Habra Heights is a quiet, hillside community, but its roads still see their share of collisions. In the most recent reporting year, the city recorded 12 injury collisions and 14 people hurt, with no traffic deaths — figures drawn from public records for corridors like Harbor Boulevard, Hacienda Road, East Road, and Harbor Road. These winding, tree-lined streets connect residents to Whittier, La Habra, and the 60 Freeway, and reports tend to cluster on Tuesdays between 6 and 8 p.m. when commuter traffic mixes with local errands. If you or someone you love was injured on one of these roads, or anywhere else in the city, sorting through medical bills and insurance calls can feel overwhelming. LawProactive is a free service — not a law firm — that connects injured people with an independent attorney who can review what happened and explain your options. Any attorney in our network works on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and starts the conversation on your terms.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and road rash",
+      "Knee and shoulder damage"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why People in La Habra Heights Reach Out to Us",
+    "items": [
+      {
+        "title": "California's Filing Clock Moves Fast",
+        "desc": "Most injury claims in California must be filed within two years, but claims against a government entity can require notice in as little as six months. Acting early helps preserve your options."
+      },
+      {
+        "title": "Fault Doesn't Have to Be Perfectly Clear",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash — your share of fault just reduces the amount."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering, so your losses beyond medical bills can still matter."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, which means there's no fee unless they recover money for you. That takes financial pressure off you while you focus on recovering."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you can still recover money if you were partly at fault",
+      "Fearing you'll miss a deadline you didn't even know existed"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "Generally, you have two years from the date of the injury to file a claim. If a government entity is involved, the window can be much shorter, sometimes just six months, so it's wise not to wait."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly at fault doesn't bar you from recovering compensation. Your total recovery is simply reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to cluster in La Habra Heights?",
+        "answer": "Public records show injury collisions reported along corridors including Harbor Boulevard, Hacienda Road, East Road, and Harbor Road, with reports often occurring Tuesdays between 6 and 8 p.m. These are simply counts from available records, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I owe anything if I contact LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and it doesn't cost anything to explore your options. If you choose to work with an attorney, most work on contingency, so there's no fee unless you recover money."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases in California, there is no cap on non-economic damages such as pain and suffering. The amount depends on the specifics of your situation and injuries."
+      }
+    ]
+  }
+}

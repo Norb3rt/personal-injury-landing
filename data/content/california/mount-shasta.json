@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "mount-shasta city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mount Shasta, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Mount Shasta or Siskiyou County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on Interstate 5 or knocked down while crossing N Mt Shasta Boulevard, we'll connect you at no cost with an independent attorney serving Siskiyou County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Mount Shasta, California",
+    "longDescription": "Mount Shasta is a small mountain town, but its stretch of Interstate 5 carries steady through-traffic day and night, and N Mt Shasta Boulevard sees its own share of local trips to shops and trailheads. In the most recent year on record, Siskiyou County logged 4 injury collisions in and around the city, with 4 people hurt — a small but real number that means someone's routine drive turned into a trip to the ER. Collisions on I-5 Northbound and Southbound, and on N Mt Shasta Boulevard, tend to cluster on Friday afternoons between 4 and 6 p.m., when weekend travelers and local commuters share the same roads. If you were hurt in one of these crashes, sorting out medical bills, insurance calls, and lost wages can feel like a full-time job on top of recovering. LawProactive is a free service — not a law firm — that connects injured people in Mount Shasta with an independent personal injury attorney who works on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and starts with a simple conversation about what happened to you.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and lacerations",
+      "Soft tissue and joint damage"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Injured People in Mount Shasta Turn to Us",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, though claims against a government agency can require notice in as little as six months. Waiting too long can cost you your right to recover, so it helps to act while details are fresh."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, and loss of enjoyment of life. That means your claim can reflect the real impact the injury has had on you."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so you pay nothing upfront and owe no fee unless they win compensation for you. That takes the financial risk off your shoulders while you focus on healing."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while unable to work",
+      "Fear that admitting any fault will end their claim",
+      "Not knowing how long they legally have to act",
+      "Feeling pressured by insurance adjusters calling too soon"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Mount Shasta?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a claim. If your injury involved a government entity or vehicle, that window can shrink to as little as six months, so it's wise to get informed quickly."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Mount Shasta?",
+        "answer": "Public crash records show collisions concentrated along Interstate 5 Northbound and Southbound and N Mt Shasta Boulevard, with Friday afternoons between 4 and 6 p.m. showing more reported incidents than other times. These are simply neutral collision counts, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly responsible doesn't bar you from recovering compensation. Your payout would just be reduced by whatever percentage of fault is assigned to you."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — in typical personal injury cases, California does not cap non-economic damages such as pain and suffering. The amount depends on the specifics of your injury and how it has affected your life."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and there's no cost to be matched with an independent attorney. Attorneys in the network work on contingency, so they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "san-rafael slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Rafael Slip & Fall Attorney Referral | LawProactive",
+    "metaDescription": "Hurt in a fall in San Rafael? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Lincoln Avenue shop or a downtown San Rafael apartment complex can leave you with more than bruises. LawProactive can connect you with an independent attorney who handles Marin County premises liability claims at no upfront cost."
+  },
+  "about": {
+    "title": "San Rafael Slip & Fall Claims",
+    "longDescription": "San Rafael's mix of older downtown storefronts, hillside walkways, and busy retail corridors near 2nd and 3rd Streets creates plenty of opportunities for uneven pavement, wet floors, and poorly lit stairwells to go unaddressed. When a property owner in Marin County lets a hazard sit instead of fixing or warning about it, and someone gets hurt, California law may allow that injured person to seek compensation. These cases often turn on a single question: did the owner know, or should they have known, about the danger in time to act? That makes early evidence — photos of the hazard, incident reports, and store surveillance footage — especially valuable before it disappears. LawProactive doesn't practice law or decide your case; we simply connect you with an independent attorney in our network who can evaluate what happened, explain your options, and pursue a claim on a contingency basis, meaning there's no fee unless money is recovered on your behalf.",
+    "commonInjuriesTitle": "Common Injuries From Falls We See Referred",
+    "commonInjuries": [
+      "Hip fractures and pelvic injuries",
+      "Wrist and forearm fractures from bracing a fall",
+      "Torn ligaments or meniscus damage in the knee",
+      "Herniated discs or lower back injuries",
+      "Concussions or other head injuries",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and get connected with an independent San Rafael attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why This Matters Under California Premises Law",
+    "items": [
+      {
+        "title": "Notice Is Everything",
+        "desc": "California requires showing the property owner knew, or reasonably should have known, about the hazard and failed to fix or warn of it. Building that proof early — with photos, maintenance logs, or prior complaints — can shape the entire claim."
+      },
+      {
+        "title": "Video Doesn't Last Forever",
+        "desc": "Many San Rafael businesses and complexes overwrite surveillance footage within days or weeks. An attorney can send a preservation request quickly so that footage of the fall isn't lost before it's reviewed."
+      },
+      {
+        "title": "Comparative Fault Still Allows Recovery",
+        "desc": "California uses pure comparative fault, so even if you're found partly responsible for the fall, you may still recover a reduced amount. An attorney can help address any blame the property owner tries to shift onto you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in San Rafael?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit against a private property owner. If a government entity in Marin County owns or maintains the property, the deadline is much shorter and requires an early claim filing. It's worth having an attorney check this timeline as soon as possible."
+      },
+      {
+        "question": "What if the fall happened in a downtown San Rafael store or restaurant?",
+        "answer": "Commercial property owners along corridors like 2nd Street or 3rd Street are expected to inspect for hazards like spills, cracked flooring, or clutter. If they failed to address a known hazard, that can support a claim. An attorney can help gather incident reports and any surveillance footage the business may have."
+      },
+      {
+        "question": "Do I need to prove the property owner knew about the hazard?",
+        "answer": "Yes, California premises liability law generally requires showing the owner had actual or constructive notice of the dangerous condition. This means documenting how long the hazard existed or whether similar complaints were made before your fall. An attorney can help identify what evidence supports that notice requirement."
+      }
+    ]
+  }
+}

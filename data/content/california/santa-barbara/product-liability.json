@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "santa-barbara product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Barbara Product Liability Attorney Connection",
+    "metaDescription": "Hurt by a defective product in Santa Barbara? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product fails and someone in Santa Barbara gets hurt, California's strict liability rules can matter more than proving anyone was careless. LawProactive connects you, at no cost, with an independent attorney who handles defective product claims."
+  },
+  "about": {
+    "title": "Santa Barbara Product Liability Claims",
+    "longDescription": "A faulty e-bike brake on Cliff Drive, a space heater that overheats in a Westside rental, a child seat that fails when traffic slows on US-101 — product injuries in Santa Barbara rarely look like anyone's fault at first glance. Often they are. California law treats defective products under strict liability, which means you generally do not have to prove the manufacturer was careless. What you need to show is that the product had a defect in its design, its manufacturing, or its warnings, and that the defect caused your injury. That is a different and often more direct path than a typical negligence claim. Responsibility can also reach beyond the company whose name is on the box; distributors and the retailer that sold it — whether a shop on State Street or an online seller shipping into Santa Barbara County — may share liability. LawProactive is not a law firm. We are a free service that connects injured people with an independent product liability attorney who works on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, chargers, or appliances",
+      "Lacerations from tools or equipment that break apart in use",
+      "Crash injuries tied to failed brakes, tires, or airbags",
+      "Head and spinal injuries from collapsing furniture, ladders, or e-bikes",
+      "Poisoning or illness from contaminated food, supplements, or medication",
+      "Choking and strangulation hazards from children's products"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Santa Barbara Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict liability is a different kind of case",
+        "desc": "You usually don't have to prove the maker was negligent, only that the product was defective and caused your injury. The attorneys in our network understand how design, manufacturing, and warning defects are each proven differently."
+      },
+      {
+        "title": "The product itself is your key evidence",
+        "desc": "Throwing away the broken heater or letting the shop keep the failed part can undercut a strong claim. We connect you quickly so an attorney can advise on preserving the item, packaging, and receipts before they disappear."
+      },
+      {
+        "title": "More than one company may be responsible",
+        "desc": "Manufacturers, distributors, and retailers can all be held liable for a defective product in California. An independent attorney can sort out who belongs in the claim rather than letting a single company deflect blame."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I bought the product online and it shipped to my Santa Barbara address. Can I still bring a claim here?",
+        "answer": "Generally, yes. California's strict liability rules apply to products sold into the state, and the injury happened in Santa Barbara County, so the case can typically be brought locally. Retailers and distributors in the chain of sale may be liable alongside the manufacturer, even if none of them has a storefront on State Street. An independent attorney can review the sale and shipping records to identify every responsible party."
+      },
+      {
+        "question": "Do I have to prove the manufacturer did something wrong?",
+        "answer": "Usually not. Under California's strict product liability doctrine, the focus is on the product, not the company's conduct. You generally need to show the product had a design, manufacturing, or warning defect and that the defect caused your injury. Negligence can still be an added theory, but it is not required for a strict liability claim."
+      },
+      {
+        "question": "The product is broken and I want to throw it out. Should I?",
+        "answer": "Please don't, at least not before speaking with an attorney. The product is often the single most important piece of evidence in a defect case, and experts may need to examine it exactly as it failed. Keep the item, its packaging, manuals, and any receipts, and photograph everything. If a repair shop or store has it, ask them in writing to hold it."
+      }
+    ]
+  }
+}

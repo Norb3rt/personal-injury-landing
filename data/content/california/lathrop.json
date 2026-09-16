@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "lathrop city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lathrop, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in a Lathrop crash? San Joaquin County residents get a free connection to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you injured in Lathrop, we can connect you with an independent attorney at no cost. We proudly serve residents throughout San Joaquin County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Lathrop, California",
+    "longDescription": "Lathrop sits along the I-5 corridor, with Harlan Road, SR-120, and E Louise Avenue carrying much of the city's local traffic. In the most recent reporting year, San Joaquin County recorded 217 injury collisions in and around Lathrop, leaving 288 people hurt and 2 people dead. Those aren't just numbers — they represent neighbors, commuters, and families whose routines were suddenly upended. If you were one of them, you likely have questions about medical bills, missed work, and what happens next. LawProactive is a free service that connects injured people in Lathrop with an independent personal injury attorney. We are not a law firm, we don't provide legal advice, and we never charge you for the connection. The attorneys in our network work on contingency, meaning there's no fee unless they recover compensation for you. Whether your injury happened near a busy intersection, on I-5, or somewhere else in town, getting information early can matter. Reaching out costs nothing and puts you in touch with someone who can look at your specific situation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Find out where you stand — connect with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talking to an Attorney Sooner Can Help",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government entity can require notice in as little as six months. Waiting too long can mean losing your right to recover anything."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still recover compensation — reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering, which can matter for injuries that affect daily life long after the medical bills stop."
+      },
+      {
+        "title": "You Don't Pay Unless They Recover",
+        "desc": "Attorneys in our network work on contingency. That means their fee comes only from a settlement or award — if there's no recovery, you owe no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Not knowing whether you can still be compensated if you were partly at fault",
+      "Being unsure how much time you actually have to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If a government entity is involved — such as a city vehicle or a road defect — the deadline to file a claim can be as short as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "Where do injury crashes tend to cluster in Lathrop?",
+        "answer": "Public crash records show higher collision counts along I-5, Harlan Road, SR-120, and E Louise Avenue, with reported crashes tending to peak on Wednesdays between 3 and 5 p.m. These are simply reported patterns from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still pursue compensation even if you share some responsibility. Your recovery would be reduced by your percentage of fault, but it isn't automatically barred."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and the independent attorneys in our network work on contingency. That means you don't pay attorney fees unless they recover compensation for you."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm and does not provide legal advice. We're a free service that helps connect injured people in Lathrop with an independent attorney who can evaluate their situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "canyon-lake medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Canyon Lake Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error near Canyon Lake, CA? Get connected free to an independent attorney who understands MICRA rules and deadlines."
+  },
+  "hero": {
+    "subtitle": "If a medical mistake near Canyon Lake left you or a family member injured, LawProactive can connect you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Canyon Lake Medical Malpractice Claims",
+    "longDescription": "Canyon Lake is a small, close-knit community in Riverside County, and most residents travel along Railroad Canyon Road or nearby routes to reach hospitals and specialists in Lake Elsinore, Murrieta, or Temecula. When a diagnosis is missed, a surgery goes wrong, or medication is administered incorrectly, the consequences can follow a patient home to a quiet town like this one just as easily as anywhere else. California treats medical malpractice differently than other injury claims — strict notice periods, expert requirements, and damage limits apply. LawProactive doesn't practice law or take a fee; we simply listen to what happened, and if it looks like a case worth reviewing, we connect you with an independent attorney in our network who can evaluate the medical records and explain your options, all on a contingency basis so there's no upfront cost to you.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We See Referred",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosing or prescription mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-operative patients"
+    ],
+    "ctaText": "Tell us what happened — it's free, and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "What Makes Medical Malpractice Claims Different in California",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally requires a malpractice claim within one year of discovering the injury, and no more than three years from when it occurred. Missing these MICRA deadlines can end a claim before it starts."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can even be filed, California law requires a 90-day written notice to the healthcare provider. An attorney familiar with this step can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad medical outcome by itself isn't proof of malpractice, California cases typically need a qualified medical expert to establish that the standard of care was actually breached."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is there a hospital located directly in Canyon Lake?",
+        "answer": "Canyon Lake itself is a small, private residential community without its own hospital, so residents generally receive care at facilities in Lake Elsinore, Murrieta, or Temecula. If your injury happened at one of those outside facilities, an attorney can still help evaluate the claim regardless of where you live."
+      },
+      {
+        "question": "How long do I actually have to bring a claim?",
+        "answer": "Under MICRA, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it happened. Because these windows are strict and there's also a required 90-day notice before filing, it's worth having a case looked at sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on how much I can recover?",
+        "answer": "California law caps non-economic damages, like pain and suffering, under MICRA, though that cap rises each year by statute. Economic damages, such as medical bills and lost income, are generally not subject to that same cap. An attorney can walk through how this applies to your specific situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "el-cajon city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Cajon, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in El Cajon, San Diego County? California allows 2 years to file. Connect free with an independent attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end collision on I-8, a fall at a business on Broadway, or a bike crash left you hurt, LawProactive connects you at no cost with an independent injury attorney serving El Cajon and San Diego County."
+  },
+  "about": {
+    "title": "Personal Injury Help in El Cajon, California",
+    "longDescription": "El Cajon is home to roughly 103,000 people in San Diego County, and much of its daily traffic funnels through four corridors: I-8, Broadway, E Main Street, and Fletcher Parkway. Public collision records for 2025, the most recent final year, show 619 injury collisions in the city, with 891 people injured and 7 traffic deaths. Those four corridors carry the highest volume of reported crashes, and the counts tend to peak on Fridays between 3 p.m. and 5 p.m. Behind each of those numbers is a person dealing with medical bills, missed shifts, and a claims adjuster who is not on their side. That is where LawProactive comes in. We are a free service, not a law firm. When you reach out, we connect you with an independent personal injury attorney who handles cases in San Diego County. There is no charge to be connected, and the attorney you speak with works on contingency, meaning you owe no fee unless your case ends in a recovery. Whether it was a crash on I-8, a fall on E Main Street, or a bike collision along Fletcher Parkway, you can ask your questions without spending anything, and you can decide on your own timeline whether to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly See in El Cajon Cases",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Fractured wrists, arms, and collarbones",
+      "Back and spinal disc injuries",
+      "Road rash and lacerations from motorcycle or bicycle crashes",
+      "Knee and hip injuries from falls on business property"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your El Cajon Claim",
+    "items": [
+      {
+        "title": "Two years is the usual deadline",
+        "desc": "For most California injury claims you have two years from the date of the injury to file a lawsuit. If a city, county, or state agency is involved, the window can shrink to as little as six months, so it helps to ask early."
+      },
+      {
+        "title": "Partial fault does not shut the door",
+        "desc": "California follows pure comparative fault. If you were partly responsible for a crash on Fletcher Parkway, your recovery may be reduced by your share, but you are not barred from pursuing a claim."
+      },
+      {
+        "title": "Pain and suffering are not capped",
+        "desc": "In ordinary injury cases, California places no dollar cap on non-economic damages such as pain, lost enjoyment of life, and emotional distress."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay nothing up front, and the attorney's fee comes only out of a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I do not know what to say.",
+      "I cannot work right now and the bills are piling up.",
+      "The police report says I was partly at fault.",
+      "I am not sure whether my injury is serious enough to talk to a lawyer."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do most reported crashes in El Cajon happen?",
+        "answer": "Public collision records identify I-8, Broadway, E Main Street, and Fletcher Parkway as the corridors with the highest counts of reported crashes in El Cajon. Citywide, 2025 records show 619 injury collisions, and reports tend to cluster on Fridays between 3 p.m. and 5 p.m. These are simply where and when the most collisions are logged; high traffic volume is a major factor in the totals."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "Most personal injury claims in California must be filed within two years of the date you were hurt. If your claim involves a government entity, such as a city vehicle or a public sidewalk, you may have only six months to submit a claim. An attorney can confirm which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses pure comparative fault, which means your compensation is reduced by your percentage of responsibility rather than eliminated. Someone found 30 percent at fault, for example, could still recover 70 percent of their damages. Insurers sometimes overstate a victim's share, which is one reason people choose to have an attorney review the facts."
+      },
+      {
+        "question": "How does LawProactive work, and what does it cost?",
+        "answer": "LawProactive is a free service, not a law firm. You share the basics of what happened, and we connect you with an independent personal injury attorney who handles cases in San Diego County. There is no charge for the connection, and the attorney works on contingency, so you owe no fee unless there is a recovery."
+      },
+      {
+        "question": "Should I talk to the insurance adjuster before I speak with an attorney?",
+        "answer": "You are not required to give a recorded statement to the other party's insurer, and anything you say can be used to lower or deny your claim. Many people prefer to have an attorney handle those conversations. Getting a free consultation first costs you nothing and lets you make an informed choice."
+      }
+    ]
+  }
+}

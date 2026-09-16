@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "vallejo slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Vallejo Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Vallejo? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a fall on a Vallejo property left you hurt, the store, landlord, or owner may be responsible for the condition that caused it. LawProactive connects you, at no cost, with an independent attorney who handles premises liability claims in Solano County."
+  },
+  "about": {
+    "title": "Vallejo Slip & Fall and Premises Liability Claims",
+    "longDescription": "A wet entryway, a loose stair tread, a parking lot light that has been out for weeks. Falls in Vallejo rarely happen in dramatic places. They happen at grocery stores and shopping centers along Sonoma Boulevard, in apartment stairwells off Tennessee Street, on cracked walkways near Broadway, and in the everyday spaces where people expect the ground to hold. When it doesn't, the question under California law is not simply whether you fell, but whether the property owner knew about the hazard, or reasonably should have, and did nothing to fix it or warn you. That is called notice, and it is where most Solano County premises cases are won or lost. LawProactive is a free service, not a law firm. We connect Vallejo residents with an independent personal injury attorney who handles premises liability claims on contingency, meaning no fee unless there is a recovery. You describe what happened; we make the introduction. The rest of the conversation is between you and the attorney.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Vallejo",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and shoulder fractures",
+      "Head injuries and concussions",
+      "Knee and ankle ligament tears",
+      "Back and spinal injuries",
+      "Tailbone and lower spine bruising"
+    ],
+    "ctaText": "Tell us about your fall and get connected with a Vallejo premises liability attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Vallejo Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys who understand the notice requirement",
+        "desc": "California premises cases turn on whether the owner knew, or should have known, about the hazard. The attorneys in our network know how to look for inspection logs, prior complaints, and maintenance records that speak to that question."
+      },
+      {
+        "title": "Fast action on video and evidence",
+        "desc": "Many Vallejo businesses overwrite surveillance footage within days. Getting an attorney involved early means a preservation request can go out before the recording of your fall is gone."
+      },
+      {
+        "title": "Deadlines tracked from day one",
+        "desc": "You generally have two years to file a premises claim in California, but the window is far shorter when a public entity owns the property. An early connection helps make sure no deadline slips by while you focus on healing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a public sidewalk in Vallejo. Is the deadline different?",
+        "answer": "Yes, and this catches people off guard. When the property belongs to the City of Vallejo, Solano County, or another public agency, California requires a formal government claim first, and that claim is generally due within months rather than years. Missing it can end the case before it begins, so it is worth speaking with an attorney quickly if a city-maintained walkway or building was involved."
+      },
+      {
+        "question": "The store says I wasn't paying attention. Does that mean I have no case?",
+        "answer": "Not necessarily. California uses pure comparative fault, which means a claim can still go forward even if you are found partly responsible; your recovery is simply reduced by your share of the blame. An attorney can look at the facts, including whether the hazard was visible and whether the store had warned about it, before anyone decides how fault should be divided."
+      },
+      {
+        "question": "What should I do right after a fall on someone else's property?",
+        "answer": "Get medical attention first, then document as much as you can: photos of the hazard, the lighting, any missing warning signs, and your footwear. Ask for an incident report and the names of any witnesses. If cameras were nearby, note their locations, because an attorney can send a written request asking the owner to preserve that footage before it is erased."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "rocklin city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rocklin, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Rocklin, Placer County? You have 2 years to file. Connect free with an attorney—no fee unless you win. No cost to start."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash, a fall, or a collision on Sierra College Boulevard, we'll connect you free of charge with an independent attorney serving Placer County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Rocklin, California",
+    "longDescription": "Rocklin sees real traffic pressure along its busiest corridors — Sunset Boulevard, Sierra College Boulevard, I-80, and Park Drive all show up regularly in public collision records. In the most recent full year on record, Rocklin logged 166 injury collisions, with 250 people hurt and 1 life lost. Crashes here tend to cluster on Friday afternoons, between 4 and 6 p.m., when commuter traffic and weekend errands overlap. If you or someone you love was hurt in one of these incidents, sorting out medical bills, insurance calls, and missed work can feel overwhelming on top of physical recovery. LawProactive is a free service — not a law firm — that connects injured people in Rocklin with an independent personal injury attorney who can review what happened and explain your options. There's no cost to start a conversation, and attorneys in our network work on contingency, meaning they only get paid if you recover compensation. You focus on healing; let someone else worry about the paperwork and phone calls.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Herniated discs and back injuries",
+      "Torn ligaments and joint damage",
+      "Cuts, bruises, and soft-tissue injuries"
+    ],
+    "ctaText": "Tell us what happened — it costs nothing to find out where you stand."
+  },
+  "whyChoose": {
+    "title": "Why Rocklin Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have a Limited Window",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require notice in as little as six months. Waiting to talk to someone could cost you options."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still pursue compensation — it's simply reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages, like pain and suffering, in a typical injury case."
+      },
+      {
+        "title": "Nothing Out of Pocket to Start",
+        "desc": "Attorneys in our network work on contingency — they only collect a fee if they recover money for you, so there's no upfront cost to explore your situation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up faster than I can track them",
+      "I can't work and I'm losing income every week",
+      "The insurance adjuster keeps calling and I don't know what to say",
+      "I'm not sure if I even have a case worth pursuing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim in Rocklin?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If a government entity is involved — like a city road crew or public bus — that window can shrink to as little as six months, so it helps to act sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, so being partly responsible doesn't bar you from recovering compensation. Your total recovery is simply adjusted to reflect your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Rocklin?",
+        "answer": "Based on public collision records, Sunset Boulevard, Sierra College Boulevard, I-80, and Park Drive show the highest reported crash counts in Rocklin, with activity often peaking on Friday afternoons between 4 and 6 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney — we are not a law firm and don't charge you anything to make that connection. Attorneys in the network work on contingency, so they're only paid if you recover compensation."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, such as pain and suffering, in a standard personal injury case, unlike some other states. An attorney can walk you through what factors into that kind of valuation."
+      }
+    ]
+  }
+}

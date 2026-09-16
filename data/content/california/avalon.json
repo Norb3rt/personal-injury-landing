@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "avalon city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Avalon, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Avalon? Connect free with an independent LA County attorney. 2 years to file, no fee unless you win. No obligation."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a golf cart collision, a pedestrian crash, or another accident on Catalina Island, we can connect you free of charge with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Avalon, California",
+    "longDescription": "Avalon is a small, close-knit town on Catalina Island, and most residents and visitors get around by golf cart, bike, or on foot rather than by car. Even so, public records show 11 injury collisions in the most recent final crash year, with 17 people hurt and, thankfully, no traffic deaths. Streets like Wrigley Terrace Road, Wrigley Road, Marilla Avenue, and Saint Catherine Way see the most reported collision activity on the island, and crashes tend to cluster on Saturday afternoons between 3 and 5 p.m., likely tied to weekend visitor traffic. If you were hurt in one of these incidents, sorting out medical bills, missed work, and next steps can feel overwhelming, especially in a small community where options may seem limited. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we do not charge you anything to make that connection. The attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. If you or someone you know was hurt in an Avalon accident, reaching out costs nothing and puts you in touch with someone who can review the details of your situation.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Broken bones and fractures",
+      "Cuts, scrapes, and road rash",
+      "Head and neck injuries",
+      "Sprains and soft tissue damage",
+      "Injuries from golf cart or pedestrian accidents",
+      "Back and spinal injuries"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why This Matters Under California Law",
+    "items": [
+      {
+        "title": "Time Limits Apply",
+        "desc": "California generally gives you 2 years from the date of injury to file a personal injury claim, though claims against a government entity can require action within as little as 6 months. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still be able to recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering, unlike some other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning there's no fee unless they win or settle your case. That removes the financial barrier to getting legal help."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay mounting medical bills",
+      "Losing income while unable to work after the accident",
+      "Not knowing if the at-fault party's insurance will cover everything",
+      "Feeling unsure whether it's too late, or too early, to take legal action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Avalon?",
+        "answer": "Under California law, you generally have 2 years from the date of the injury to file a personal injury lawsuit. If your claim involves a government entity, such as a public road issue, that window can shrink to as little as 6 months, so it's wise not to wait."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Avalon?",
+        "answer": "Public collision records show that Wrigley Terrace Road, Wrigley Road, Marilla Avenue, and Saint Catherine Way have the highest reported collision counts in Avalon. Reported crashes also tend to peak on Saturdays between 3 and 5 p.m. These are neutral public-record patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, meaning you can still recover compensation even if you share some responsibility for the accident. Your recovery would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Will I owe money upfront to get legal help?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and attorneys in our network work on contingency. That means there's no fee unless they recover compensation for you."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We are a free connection service that helps injured people in Avalon and throughout Los Angeles County get in touch with an independent personal injury attorney who can evaluate their situation."
+      }
+    ]
+  }
+}

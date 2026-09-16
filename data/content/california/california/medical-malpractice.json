@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "california-city medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "California City Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for California City patients. No fee unless you recover. Learn your options."
+  },
+  "hero": {
+    "subtitle": "When a Kern County hospital visit or Rt 58 corridor clinic appointment goes wrong instead of right, California City families deserve clear answers, not more confusion. LawProactive connects you at no cost with an independent attorney who handles medical malpractice claims."
+  },
+  "about": {
+    "title": "California City Medical Malpractice Claims",
+    "longDescription": "California City residents often travel outside town for specialty care, and that gap between local urgent care and distant hospitals can create real risk when a diagnosis is missed or a treatment plan goes sideways. Medical malpractice isn't the same as a bad outcome — California law requires proof that a provider fell below the accepted standard of care and that this failure caused real harm. With a small population spread across a wide desert community, many California City patients don't know where to turn when something feels wrong about the care they received. LawProactive isn't a law firm; we're a free service that connects you with an independent attorney experienced in these claims. That attorney can review your medical records, consult with a qualified expert as California law generally requires, and explain whether your situation may qualify for a claim. There's no cost to you unless a recovery is made.",
+    "commonInjuriesTitle": "Common Medical Malpractice Situations",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications during a procedure",
+      "Failure to monitor a patient after treatment"
+    ],
+    "ctaText": "Talk to an independent attorney about your care, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why California City Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the Filing Clock",
+        "desc": "California generally allows one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim. An attorney can help you track these deadlines before they close a door on your case."
+      },
+      {
+        "title": "We Know the 90-Day Notice Rule",
+        "desc": "Before suing a healthcare provider in California, a formal 90-day pre-suit notice is typically required. Missing this step can delay or derail a valid claim, so early legal guidance matters."
+      },
+      {
+        "title": "We Connect You With Attorneys Who Handle Expert Review",
+        "desc": "California malpractice claims almost always require a qualified medical expert to establish that care fell below an accepted standard. The attorney you're matched with can help arrange that review as part of building your case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a poor medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law recognizes that medicine involves uncertainty, so a bad result alone isn't enough. There must be evidence that a provider's care fell below the accepted medical standard and that this specific failure caused your injury."
+      },
+      {
+        "question": "I live in California City but was treated at a hospital outside Kern County — can I still get help?",
+        "answer": "Yes. Where you were treated doesn't limit your ability to pursue a claim, and LawProactive can connect you with an attorney regardless of which facility or county was involved. What matters most is the timeline and details of your care."
+      },
+      {
+        "question": "How much can I recover for my non-economic damages?",
+        "answer": "California caps non-economic damages in medical malpractice cases, though that cap rises each year under current law. An attorney can walk you through how this applies to your specific circumstances and what types of damages may be available."
+      }
+    ]
+  }
+}

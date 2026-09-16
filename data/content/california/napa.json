@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "napa city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Napa, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Napa County? LawProactive connects you free with an independent injury attorney. 2 years to file in California, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on Soscol Avenue, struck while crossing 1st Street, or hurt in a fall at a local business, LawProactive connects you at no cost with an independent injury attorney serving Napa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Napa, California",
+    "longDescription": "Napa is home to about 80,000 people, and the public record tells a fuller story than its quiet reputation suggests. In 2025, the most recent final year on file, the city logged 253 injury collisions. Those crashes left 357 people injured and took 3 lives. The corridors that appear most often in the counts are familiar to anyone who lives here: Jefferson Street, Route 29, Soscol Avenue, and 1st Street through the downtown core. Reports also tend to bunch up on Thursday afternoons between 4 and 6 p.m., when commute and visitor traffic overlap. If one of those numbers is you, the paperwork can feel heavier than the injury itself. That is where LawProactive comes in. We are a free service, not a law firm. We do not give legal advice and we do not represent you. What we do is connect you with an independent personal injury attorney who handles cases in Napa County, so you can talk through what happened and decide your next step on your own terms. Attorneys in our network work on contingency, meaning no fee unless there is a recovery. California gives most injury claims two years to be filed, and that clock is already running. A short conversation now costs nothing and keeps your options open.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Napa Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken wrists, arms, and collarbones",
+      "Concussions and other head injuries",
+      "Knee and hip injuries from falls",
+      "Back injuries and herniated discs",
+      "Road rash and fractures from bicycle or motorcycle crashes"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Napa Claim",
+    "items": [
+      {
+        "title": "Two Years, Sometimes Less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, the window to give notice can shrink to as little as six months."
+      },
+      {
+        "title": "Partial Fault Does Not Close the Door",
+        "desc": "California follows pure comparative fault. Even if you share some of the blame, your recovery is reduced by your percentage of fault rather than wiped out."
+      },
+      {
+        "title": "No Arbitrary Ceiling on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages such as pain, loss of enjoyment, and emotional distress. Your claim can reflect what you actually went through."
+      },
+      {
+        "title": "Contingency Fees Only",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster keeps calling and I do not know what I am allowed to say.",
+      "My car is totaled and I still have to get to work in American Canyon.",
+      "The ER bill arrived before the other driver's insurer even responded.",
+      "I was partly at fault, so I assumed I had no case at all."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do injury crashes in Napa tend to happen?",
+        "answer": "Public collision records show the highest counts along Jefferson Street, Route 29, Soscol Avenue, and 1st Street. Reports also cluster on Thursdays between 4 p.m. and 6 p.m. These are simply where and when the numbers concentrate, and any street can be the site of a crash."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date of the injury. Claims against a government entity, such as a city bus or a poorly maintained public sidewalk, can require notice within six months. Because those deadlines are firm, it helps to speak with an attorney early."
+      },
+      {
+        "question": "What if the other driver says the crash was partly my fault?",
+        "answer": "California uses pure comparative fault, so sharing blame does not bar you from recovering. Your compensation is reduced by whatever percentage of fault is assigned to you. Insurers sometimes overstate a victim's share, which is one reason people choose to have an attorney review the facts."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we never charge you for making the introduction. The independent attorneys we connect you with work on contingency, which means there is no attorney fee unless your case results in a recovery."
+      },
+      {
+        "question": "Should I talk to the insurance company before I talk to an attorney?",
+        "answer": "You are generally required to report the crash to your own insurer, but you are not obligated to give a recorded statement to the other driver's company right away. Anything you say can be used to shape how fault or injuries are viewed. Many people prefer to get a free consultation first so they understand their position."
+      }
+    ]
+  }
+}

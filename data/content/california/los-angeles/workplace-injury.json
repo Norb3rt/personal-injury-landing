@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "los-angeles workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Lawyer Connection in Los Angeles, CA",
+    "metaDescription": "Hurt at work in Los Angeles? LawProactive freely connects you with an independent workplace injury attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Hurt on the job somewhere in Los Angeles? We connect you, at no cost, with an independent attorney who can sort out where workers' comp ends and a separate injury claim may begin."
+  },
+  "about": {
+    "title": "Los Angeles Workplace Injury Claims",
+    "longDescription": "Work in Los Angeles looks like a thousand different things: framing a house in the Valley, loading trailers near the harbor, running a delivery route down the I-110, cleaning offices downtown after hours. Injuries look just as varied. Most of the time, a hurt worker's first stop is workers' compensation, which covers medical care and part of your wages no matter who was at fault and, in exchange, generally bars a lawsuit against your employer. That is the rule, but it is not the whole story. When someone outside your employer caused the harm — a subcontractor sharing the same site, a property owner who let a hazard sit, the maker of a machine that failed, or a driver who hit you while you were working — California lets you bring a separate injury claim against that third party. Los Angeles logged 12,125 injury collisions in 2025, and a meaningful share of those involved people on the clock. LawProactive is free, and the attorneys in our network work on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Los Angeles Workplace Claims",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and loading docks",
+      "Back and spine injuries from lifting or repetitive strain",
+      "Crush and amputation injuries from machinery",
+      "Burns and electrical shock",
+      "Collisions while driving for work on US-101, I-5, or I-110",
+      "Heat illness and toxic exposure"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Los Angeles Workers Use LawProactive",
+    "items": [
+      {
+        "title": "We look past workers' comp",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver can be held separately responsible. The attorneys we connect you with know how to spot that second path."
+      },
+      {
+        "title": "Deadlines are watched from day one",
+        "desc": "You have 30 days to report the injury to your employer, and any third-party claim carries California's two-year limit. An attorney can help you keep both on track while you focus on healing."
+      },
+      {
+        "title": "Retaliation has consequences",
+        "desc": "California law makes it illegal for an employer to punish you for reporting an injury or filing a claim. If your hours were cut or you were let go after getting hurt, that matters, and an attorney can address it."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on the 101 while making deliveries for my job. Is that workers' comp or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical care and lost wages. Since another driver may have caused the crash, you can also pursue a separate injury claim against that driver, which can cover losses comp does not, such as pain and suffering. An attorney can coordinate the two so they do not work against each other."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "Usually not. Workers' compensation is designed to be the exclusive remedy against your employer, regardless of who was at fault. The exceptions are narrow, but claims against other parties — a general contractor, a property owner, or an equipment manufacturer — are a different matter and are worth reviewing."
+      },
+      {
+        "question": "What if I didn't report my injury right away?",
+        "answer": "California asks you to notify your employer within 30 days, so do it as soon as you can, in writing if possible. A late report can complicate a comp claim but does not automatically end it. A third-party injury claim runs on its own two-year clock, and an attorney can help you understand where you stand on each."
+      }
+    ]
+  }
+}

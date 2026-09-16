@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "la-mirada workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Mirada Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in La Mirada? Free connection to an independent attorney who handles workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you've been injured while working in La Mirada, from warehouses off Valley View Avenue to job sites near Rosecrans, we can connect you with an attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "La Mirada Workplace Injury Claims",
+    "longDescription": "La Mirada's mix of light industrial, retail, and service employers along corridors like Imperial Highway and La Mirada Boulevard means workplace injuries happen in warehouses, delivery routes, and commercial storefronts alike. In most cases, California law channels an injured worker's claim through workers' compensation, which pays regardless of fault but doesn't cover pain and suffering. What many workers don't realize is that a separate claim may exist against a negligent third party, like a subcontractor, equipment manufacturer, or property owner, when their carelessness contributed to the injury. Sorting out whether a third-party claim applies takes a careful look at how the injury happened. LawProactive doesn't practice law; we connect La Mirada workers with an independent attorney who can review the details, explain your options plainly, and help you understand deadlines that matter, including the 30-day window to report an injury to your employer.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Back and spinal strains from lifting or falls",
+      "Machinery and equipment-related injuries",
+      "Falls from ladders, docks, or uneven surfaces",
+      "Repetitive motion injuries from warehouse or assembly work",
+      "Injuries from delivery vehicle or forklift accidents",
+      "Burns or chemical exposure incidents"
+    ],
+    "ctaText": "Get connected with an attorney who can review your workplace injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why La Mirada Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Both Comp and Third-Party Options",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker may still be liable. An attorney can help determine whether both paths apply to your situation."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against a worker for reporting an injury or filing a claim. If you're worried about your job, an attorney can explain your rights before you take the next step."
+      },
+      {
+        "title": "Awareness of Reporting and Filing Deadlines",
+        "desc": "Workplace injuries must generally be reported to an employer within 30 days, and any separate third-party claim carries its own two-year deadline. Missing either window can limit your options, so timing matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a warehouse job near Valley View Avenue. Can I still file a claim if my employer says it was my fault?",
+        "answer": "Workers' compensation in California generally doesn't depend on who was at fault, so an injury on the job is usually covered regardless. That said, if a third party, like equipment supplier, contributed to the accident, there may be an additional claim worth exploring. An attorney can look at the specifics and explain what applies to your case."
+      },
+      {
+        "question": "What if my injury happened while driving for work near Imperial Highway or Rosecrans Avenue?",
+        "answer": "Injuries during work-related driving are often covered by workers' comp, but if another driver caused the crash, a separate third-party claim against that driver may also be possible. This is common on busier La Mirada corridors where delivery and commercial traffic overlap. An attorney can sort out which claims apply and how they interact."
+      },
+      {
+        "question": "How long do I have to report a workplace injury in La Mirada?",
+        "answer": "California law generally requires reporting a workplace injury to your employer within 30 days. If you believe a third party was also responsible, that separate claim typically carries a two-year deadline. Because these timelines differ, it helps to talk to an attorney early rather than waiting."
+      }
+    ]
+  }
+}

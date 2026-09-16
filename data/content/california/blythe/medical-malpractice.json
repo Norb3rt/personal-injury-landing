@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "blythe medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Blythe Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Blythe, CA? LawProactive connects you free with an independent attorney who can review your case. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care at a Blythe clinic or hospital goes wrong, sorting out what happened can feel isolating in a small Riverside County community. LawProactive can connect you with an independent attorney who understands medical malpractice claims and California's strict filing rules."
+  },
+  "about": {
+    "title": "Blythe Medical Malpractice Claims",
+    "longDescription": "Blythe residents rely on a limited number of local medical facilities, and many patients travel elsewhere in Riverside County for specialized care. When a diagnosis is missed, a medication is administered incorrectly, or a surgical error occurs, the harm can be serious and the path to accountability confusing. California law treats these cases differently than a typical injury claim — there are strict notice requirements, tighter filing deadlines, and a near-universal need for a qualified medical expert to explain how care fell below the accepted standard. A bad outcome by itself doesn't establish malpractice; the law requires proof that a provider's conduct deviated from what a reasonably careful practitioner would have done. LawProactive doesn't practice law or make legal judgments about your situation. Instead, we connect you, free of charge, with an independent attorney in our network who can review your medical records, evaluate the timeline, and explain what options may exist under California's malpractice framework.",
+    "commonInjuriesTitle": "Injuries We See in Medical Malpractice Claims",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical or anesthesia errors",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Failure to monitor a patient's condition",
+      "Hospital-acquired infections from negligent care"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your Blythe medical malpractice concern — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Understanding California's Rules Matters",
+    "items": [
+      {
+        "title": "Short, Specific Deadlines",
+        "desc": "California generally requires malpractice claims within one year of discovering the harm, and no more than three years from the injury itself, so waiting to get informed can cost you options."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before a lawsuit can be filed, California law typically requires a 90-day notice to the provider, a step that needs to be handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a bad outcome alone doesn't prove malpractice, California claims almost always need a qualified medical expert to establish that care fell below the accepted standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from the date it occurred, whichever comes first. There are limited exceptions, so it's worth having a professional review your specific timeline as early as possible."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "Yes. California law (MICRA) places a cap on non-economic damages, such as pain and suffering, though the cap amount rises each year under current law. This cap doesn't limit recovery of documented economic losses like medical bills or lost income."
+      },
+      {
+        "question": "I received care locally in Blythe but was later transferred to a facility outside the city — does that complicate my claim?",
+        "answer": "It can add steps, since records and providers from more than one facility may need to be reviewed. An independent attorney can help sort out which facility's care is relevant and coordinate gathering records from each provider involved."
+      },
+      {
+        "question": "Do I need a medical expert to have a valid claim?",
+        "answer": "In nearly all California malpractice cases, yes — a qualified medical expert is required to explain how the provider's care fell below the accepted standard. Without that kind of review, it's difficult to establish that a bad outcome was actually the result of negligence rather than an accepted risk of treatment."
+      }
+    ]
+  }
+}

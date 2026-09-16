@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "santa-monica medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Monica Medical Malpractice Lawyer | LawProactive",
+    "metaDescription": "Hurt by a medical error in Santa Monica? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a Santa Monica hospital, clinic or surgeon left you worse off than you should be, you deserve a clear answer about whether it was malpractice. We connect you, free, with an independent attorney who can find out."
+  },
+  "about": {
+    "title": "Santa Monica Medical Malpractice Claims",
+    "longDescription": "Santa Monica is a small city by Los Angeles County standards—about 93,000 residents—yet its clinics, surgical centers and emergency rooms see a steady flow of patients from across the Westside. Some arrive after collisions on Lincoln Boulevard or the I-10; in 2025 alone, 572 people were injured in 445 crashes here, and many of them passed through a local emergency department. Most of that care is careful. When it isn't, the harm can be lasting. Medical malpractice in California means a provider fell below the accepted standard of care and that lapse caused injury—a disappointing result by itself does not qualify. Proving the difference almost always takes a qualified medical expert reviewing your records. Deadlines are tight under MICRA: generally one year from when you discovered the injury, and never more than three years from when it happened, with a 90-day notice sent before any lawsuit is filed. LawProactive is not a law firm. We connect Santa Monica patients, at no cost, with an independent attorney who handles these claims on contingency.",
+    "commonInjuriesTitle": "Harm Commonly Tied to Medical Negligence",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Post-operative infections left untreated"
+    ],
+    "ctaText": "Ask a Santa Monica malpractice attorney whether your case qualifies—free."
+  },
+  "whyChoose": {
+    "title": "Why Santa Monica Patients Start With LawProactive",
+    "items": [
+      {
+        "title": "MICRA's clock is short and unforgiving",
+        "desc": "You generally have one year from discovering the injury, and no more than three from when it occurred, plus a 90-day notice must go out before suit. Getting connected early protects those dates."
+      },
+      {
+        "title": "Expert review, not guesswork",
+        "desc": "California courts nearly always require a qualified medical expert to explain how care fell below the standard. Attorneys in our network know how to line that up before deadlines pass."
+      },
+      {
+        "title": "A rising cap, understood correctly",
+        "desc": "MICRA limits non-economic damages, but that cap increases every year and does not touch medical bills or lost income. An independent attorney can explain what applies to your situation—without promising a number."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad surgical outcome at a Santa Monica hospital. Is that automatically malpractice?",
+        "answer": "Not automatically. California law asks whether the provider's care fell below what a reasonably careful professional would have done, and whether that failure caused your harm. Complications can happen even with proper care. A medical expert's review of your chart is usually what settles the question."
+      },
+      {
+        "question": "How long do I have to act in Los Angeles County?",
+        "answer": "MICRA sets the timeline statewide: generally one year from when you discovered, or should have discovered, the injury, and never more than three years from the date it happened. A 90-day pre-suit notice must also be served before filing. Because those windows can close faster than people expect, reaching out early matters."
+      },
+      {
+        "question": "Does LawProactive charge me anything to get connected?",
+        "answer": "No. Our service is free, and we are not a law firm. The independent attorney you're matched with works on contingency, meaning there is no attorney fee unless your claim results in a recovery."
+      }
+    ]
+  }
+}

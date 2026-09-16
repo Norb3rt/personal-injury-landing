@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "vacaville city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Vacaville, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Vacaville or elsewhere in Solano County? You have 2 years to file most claims. Connect free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end crash on I-80, knocked down while crossing Alamo Drive, or injured in a fall at a local business, LawProactive connects you free with an independent injury attorney serving Vacaville and all of Solano County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Vacaville, California",
+    "longDescription": "Vacaville sits where I-80 pulls traffic between the Bay Area and Sacramento, and the local streets that feed it — Alamo Drive, Peabody Road, Nut Tree Road — carry a steady share of the city's collisions. In 2025, the most recent finalized year, public records list 335 injury collisions in Vacaville, 463 people hurt, and one traffic death. Reports tend to rise on Fridays between 3 p.m. and 5 p.m., when the week's last commute overlaps with weekend travel.\n\nBehind each of those counts is someone dealing with a sore neck, a broken wrist, a totaled car, or a phone that keeps ringing with adjuster calls. If that's you, LawProactive can help you take the next step. We are a free service, not a law firm. Our role is simple: we connect people injured in Vacaville and across Solano County with an independent personal injury attorney who handles cases like theirs. The attorney evaluates your situation, explains your options under California law, and works on contingency — meaning no fee unless there is a recovery.\n\nYou don't have to decide anything today. But California's two-year filing window does move, and evidence from a crash scene fades quickly. Reaching out early simply keeps your choices open.",
+    "commonInjuriesTitle": "Injuries We See Most Often in Vacaville Cases",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Fractured arms, wrists, and collarbones",
+      "Back and spinal disc injuries",
+      "Road rash and soft-tissue damage from motorcycle or bicycle crashes",
+      "Knee and hip injuries from slips, trips, and falls"
+    ],
+    "ctaText": "Talk through what happened — it's free and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Vacaville Claim",
+    "items": [
+      {
+        "title": "Two Years to File — Sometimes Far Less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved — say, a road defect or a government vehicle — the notice deadline can be as short as six months."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share of the blame, but you are not barred from recovering."
+      },
+      {
+        "title": "No Cap on Pain and Suffering in Ordinary Cases",
+        "desc": "For a typical car crash or fall claim, California places no statutory cap on non-economic damages like pain, distress, and loss of enjoyment of life. What you can recover depends on the facts of your case."
+      },
+      {
+        "title": "Contingency Fees, Not Hourly Bills",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay no attorney fee unless there is a recovery, so cost isn't a reason to skip a consultation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer wants a recorded statement and I don't know what to say.",
+      "I can't work while I heal, and the bills aren't waiting for me.",
+      "I might have been a little at fault — does that end my case?",
+      "I don't know whether my injury is serious enough to bother a lawyer about."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes in Vacaville tend to cluster?",
+        "answer": "Public collision records for Vacaville show the highest counts along I-80, Alamo Drive, Peabody Road, and Nut Tree Road. Reports also tend to peak on Fridays between 3 p.m. and 5 p.m. These are neutral counts, not a judgment about any road — heavier traffic simply produces more reports."
+      },
+      {
+        "question": "How long do I have to bring a claim after an injury in Solano County?",
+        "answer": "In California, most personal injury claims carry a two-year statute of limitations from the date of injury. If a government entity may be responsible, you often have only six months to file a formal claim first. An attorney can pin down which deadline applies to you."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match you with an independent personal injury attorney who practices in Solano County, and that attorney — not us — evaluates and handles your case."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault. Your compensation is reduced by whatever percentage of fault is assigned to you, but you can still recover the rest. Insurers sometimes overstate your share, which is one reason having an attorney review the facts matters."
+      },
+      {
+        "question": "What does it cost to hire an attorney through LawProactive?",
+        "answer": "Our connection is free, and the attorneys in our network work on contingency. That means there is no attorney fee unless your case results in a recovery. The initial consultation costs you nothing, and you decide whether to move forward."
+      }
+    ]
+  }
+}

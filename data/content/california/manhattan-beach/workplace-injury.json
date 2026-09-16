@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "manhattan-beach workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Manhattan Beach Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Manhattan Beach? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured working near Sepulveda Boulevard or anywhere else in Manhattan Beach, we can connect you with an independent attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "Manhattan Beach Workplace Injury Claims",
+    "longDescription": "Manhattan Beach's mix of retail corridors, hospitality venues, and construction sites along Highland Avenue and Rosecrans Avenue means workplace injuries happen in more settings than most people expect. In Los Angeles County, workers' compensation is generally the exclusive path against your own employer, no matter who caused the accident. But that's not always the end of the story. If a subcontractor, property owner, delivery driver, or equipment manufacturer contributed to what happened, a separate claim against that third party may be possible alongside your comp case. Given that Manhattan Beach saw 102 injury collisions and 133 injured people in the most recent year on record, some of those incidents inevitably involved workers driving, delivering, or servicing properties as part of their job. LawProactive doesn't practice law ourselves; we simply connect you, free of charge, with an independent attorney who can look at both angles of your situation and explain what options actually exist for you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders or scaffolding",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from defective tools or equipment",
+      "Vehicle collisions during work-related driving or deliveries",
+      "Slip and fall injuries on wet or uneven surfaces",
+      "Injuries from falling objects or improperly stored materials"
+    ],
+    "ctaText": "Find out what options may apply to your situation — connect with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney About Your Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "While workers' comp is usually your exclusive remedy against your employer, a negligent third party like a subcontractor or equipment maker may still owe you a separate claim."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "California generally requires you to report a workplace injury to your employer within 30 days, so waiting too long can complicate your case before it even starts."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a claim, and an attorney can help you understand those protections if they come up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work near one of the busier Manhattan Beach corridors like Sepulveda or Rosecrans — does that matter for my claim?",
+        "answer": "It can, especially if your job involves driving or working near traffic on those roads. If another driver or a third party contributed to your injury, that could open up a separate claim beyond workers' comp. An independent attorney can look at the specific circumstances of where and how you were hurt."
+      },
+      {
+        "question": "Can I still file a claim if my employer says the accident was my fault?",
+        "answer": "In most cases, California workers' comp doesn't require proving fault against your employer, so this usually isn't a barrier. Fault becomes more relevant if you're pursuing a separate third-party claim. Either way, it's worth having someone review the details before assuming your options are limited."
+      },
+      {
+        "question": "What's the deadline if I think a third party caused my injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the incident. That's separate from your workers' comp reporting window, which is typically 30 days. Missing either deadline can seriously limit what you're able to pursue later."
+      }
+    ]
+  }
+}

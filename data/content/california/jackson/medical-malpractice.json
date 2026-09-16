@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "jackson medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Jackson Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Jackson, CA? Get connected free to an independent Amador County medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or treatment in Jackson left you worse off than before, LawProactive can connect you with an independent attorney familiar with Amador County medical malpractice claims — at no cost to you."
+  },
+  "about": {
+    "title": "Jackson Medical Malpractice Claims",
+    "longDescription": "Jackson is a small community, and many residents rely on a limited number of local clinics and Amador County facilities for care, sometimes traveling toward Sacramento for specialists or hospital-level treatment. When something goes wrong during diagnosis, surgery, medication management, or follow-up care, it can be hard to know whether what happened was an unavoidable complication or a preventable error. California's MICRA rules add extra layers most people haven't dealt with before — a shortened notice period, a required expert review, and a cap on certain damages that adjusts annually. LawProactive doesn't practice law or take a cut of any recovery; we simply help Jackson residents get in touch with an independent attorney who can review medical records, evaluate whether the standard of care was met, and explain what a MICRA-governed claim would actually involve before any deadlines pass.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Delayed or missed diagnosis of a serious condition",
+      "Medication or dosage errors",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up after treatment"
+    ],
+    "ctaText": "Talk to an independent attorney about your Jackson medical care concern — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Speak With an Attorney Early",
+    "items": [
+      {
+        "title": "MICRA's Clock Starts Fast",
+        "desc": "California generally gives you one year from when you discover the harm, but never more than three years from the injury itself — and a 90-day pre-suit notice must go out before a claim proceeds."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a poor outcome alone doesn't prove malpractice, a qualified medical expert typically has to confirm the standard of care was breached before a case can move forward."
+      },
+      {
+        "title": "Damages Caps Change Annually",
+        "desc": "The statutory cap on non-economic damages under MICRA rises each year, so understanding the current figure and how it applies to your situation matters early on."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Jackson?",
+        "answer": "Under MICRA, it's generally one year from when you discover (or reasonably should have discovered) the injury, but no more than three years from when it occurred. A 90-day written notice to the provider is also required before filing suit. Missing these windows can end a claim regardless of its merits, so it helps to get a review sooner rather than later."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No — California law recognizes that medicine involves risk, and an unfavorable result by itself isn't proof of negligence. A claim typically requires showing the provider deviated from the accepted standard of care, which is why a qualified medical expert almost always has to review the records. An independent attorney can help determine whether that threshold is likely met."
+      },
+      {
+        "question": "Are there local medical facilities in Jackson connected to these claims?",
+        "answer": "Jackson residents often receive care through Amador County clinics or travel to larger facilities near Sacramento for specialized treatment, and claims can involve either setting. LawProactive can connect you with an attorney who understands how care coordination across these facilities can factor into a malpractice review."
+      }
+    ]
+  }
+}

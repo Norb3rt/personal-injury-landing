@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "woodland city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Woodland, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Yolo County? Connect free with an independent Woodland attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash, broken bones, or a more serious injury from a crash on Woodland's roads, we can connect you at no cost with an independent attorney serving Yolo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Woodland, California",
+    "longDescription": "Woodland's streets carry a steady flow of daily traffic, and public records show that adds up: 157 injury collisions and 199 people hurt in the most recent reporting year alone, with 2 lives lost. Corridors like E Main Street, East Street, Main Street, and the I-5 stretch through town see a large share of this activity, and reports tend to bunch up on Friday afternoons between 3 and 5 p.m., when commuters and weekend traffic overlap. If you or someone you love was hurt in one of these collisions, you're likely facing medical bills, missed work, and a lot of uncertainty about what happens next. LawProactive is a free service — we are not a law firm — that helps injured people in Woodland get connected with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk to us, and any attorney we connect you with typically works on contingency, meaning no fee unless there's a recovery. You don't have to figure this out alone or negotiate with an insurance company by yourself.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Connect With Us",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you 2 years from the date of the crash to file an injury claim, but claims against a government entity can require notice in as little as 6 months. Waiting too long can cost you your right to recover."
+      },
+      {
+        "title": "Fault Doesn't Have to Be Clear-Cut",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly at fault — your share just reduces the total. An attorney can help sort out how fault applies to your situation."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in most ordinary injury cases. That means your recovery isn't limited to just medical bills and lost wages."
+      },
+      {
+        "title": "No Fee Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to you. They only get paid if you recover compensation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by an insurance adjuster calling too soon",
+      "Not knowing if you waited too long to take legal action",
+      "Fear that being partly at fault means you can't recover anything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Woodland?",
+        "answer": "In most cases, California law gives you 2 years from the date of the incident to file a claim. If a government entity was involved, the deadline can be much shorter, sometimes just 6 months, so it's best not to wait."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California follows pure comparative fault, which means you can still recover compensation even if you share some responsibility. Your total recovery would just be reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to happen in Woodland?",
+        "answer": "Public crash records show a concentration of reported collisions along corridors like E Main Street, East Street, Main Street, and the I-5 corridor, with reports often clustering on Friday afternoons between 3 and 5 p.m. These are simply where collision counts are highest, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, such as pain and suffering, in typical personal injury cases. This differs from some other types of claims that do have caps."
+      },
+      {
+        "question": "Do I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network typically work on contingency, meaning they only get paid if you recover compensation. There's no obligation to move forward after speaking with an attorney."
+      }
+    ]
+  }
+}

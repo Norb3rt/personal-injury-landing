@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "willits medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Willits Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Willits, CA? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in Willits goes wrong, understanding your options shouldn't add to the stress. LawProactive can connect you, at no cost, with an independent attorney who handles medical malpractice claims in Mendocino County."
+  },
+  "about": {
+    "title": "Willits Medical Malpractice Claims",
+    "longDescription": "Willits is a small community of under 5,000 people tucked into Mendocino County, and many residents here rely on a limited number of local clinics and a single community hospital for care, with more complex treatment often requiring a drive to Ukiah or further south. That reality can shape how a malpractice case unfolds, from which providers were involved to how records get gathered. If a delayed diagnosis, surgical error, medication mistake, or birth injury has left you or a family member worse off, it's reasonable to want answers about whether the care you received fell below an acceptable standard. California law places real limits on how long you have to act and requires specific steps before a lawsuit can move forward, so getting informed early matters. LawProactive doesn't practice law or charge any fee; we simply connect Willits residents with an independent attorney who can review the medical records, consult with the required experts, and explain whether a claim makes sense.",
+    "commonInjuriesTitle": "Situations We See",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your care - free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Willits Families Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Filing Windows",
+        "desc": "Under MICRA, claims generally must be brought within one year of discovering the harm and no later than three years from the injury itself, and a 90-day pre-suit notice to the provider is usually required first. Missing these steps can end a claim before it starts, so early attorney review matters."
+      },
+      {
+        "title": "Understanding the Damages Cap",
+        "desc": "California law caps non-economic damages in malpractice cases, though that cap rises each year under current law. An attorney can walk you through how this affects your specific situation without promising any particular outcome."
+      },
+      {
+        "title": "Expert Review Is Required",
+        "desc": "California generally requires a qualified medical expert to support a malpractice claim, since a poor result alone doesn't prove negligence. The attorneys in our network work with the medical experts needed to evaluate whether the care you received actually fell short."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Willits - does it matter that my care involved more than one facility or a referral out of town?",
+        "answer": "It can. Many Willits residents are referred to providers in Ukiah or other nearby areas for specialized care, and a malpractice claim may need to account for more than one provider or facility. An independent attorney can help sort out which providers were involved and gather records from each."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law is clear that a poor result by itself doesn't establish negligence; there has to be evidence that a provider's care fell below the accepted medical standard. That's why a qualified medical expert typically has to review the case before it moves forward."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and the independent attorneys in our network generally work on contingency, meaning there's no fee unless they recover compensation for you."
+      }
+    ]
+  }
+}

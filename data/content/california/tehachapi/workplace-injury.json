@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "tehachapi workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tehachapi Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Tehachapi? Get connected free with an independent CA attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Tehachapi, from a warehouse near Tucker Road to a job site off W Tehachapi Boulevard, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims at no cost to you."
+  },
+  "about": {
+    "title": "Tehachapi Workplace Injury Claims",
+    "longDescription": "Tehachapi's economy runs on a mix of agriculture, logistics, wind-energy maintenance, and small commercial operations scattered along corridors like E Tehachapi Boulevard and Valley Boulevard. When someone gets hurt doing that work, the path forward isn't always simple. California generally routes workplace injuries through workers' compensation, regardless of who caused the accident, which limits what you can recover from your employer directly. But if a subcontractor, equipment manufacturer, property owner, or another company's employee contributed to what happened, a separate claim against that third party may be possible. LawProactive doesn't practice law or make promises about outcomes; we simply connect injured workers in Tehachapi with an independent attorney who can look at the full picture, including any third-party angle, and explain your options in plain terms so you can make an informed decision about what comes next.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Equipment and machinery-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Struck-by or caught-between incidents",
+      "Burns or exposure injuries from tools or chemicals"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Workplace Injury Cases Need the Right Guidance",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California law usually makes workers' comp the exclusive remedy against your employer, but it doesn't cover claims against a negligent third party like a contractor or equipment maker. An attorney can help identify whether that door is open in your case."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and missing that window can complicate your claim. Getting matched with an attorney early helps make sure nothing slips through the cracks."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "California prohibits employers from retaliating against workers who report an injury or file a claim. If you're worried about your job because you got hurt, an independent attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if I was hurt working near one of Tehachapi's busy roads, like Tucker Road or Valley Boulevard?",
+        "answer": "If your job involves driving or working near traffic on roads like Tucker Road or Valley Boulevard, an injury caused by another driver or a third party may support a separate claim outside of workers' comp. This is common for delivery, utility, and field-service workers in the Tehachapi area. An attorney can review the specifics and let you know if a third-party claim applies."
+      },
+      {
+        "question": "What if my employer says I can't file because I was partly at fault?",
+        "answer": "Workers' compensation in California generally doesn't require proving fault, so this shouldn't stop your claim. If your employer is discouraging you from reporting or filing, that could raise legal concerns of its own. An independent attorney connected through LawProactive can explain your rights at no cost."
+      },
+      {
+        "question": "How long do I have to bring a claim if a third party caused my injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the injury. This is separate from the shorter window for reporting the injury to your employer for workers' comp purposes. Because these timelines don't align, it helps to get guidance early rather than waiting."
+      }
+    ]
+  }
+}

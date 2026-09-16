@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "murrieta workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Murrieta Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Murrieta? LawProactive is a free service that connects you with an independent workplace injury attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Injured at work in Murrieta and unsure whether workers' comp is the whole story? We connect you, for free, with an independent attorney who can tell you if a third party may also be responsible."
+  },
+  "about": {
+    "title": "Murrieta Workplace Injury Claims",
+    "longDescription": "Murrieta's workforce is spread across warehouses, medical offices, construction sites, retail along Winchester Road, and a steady stream of people who drive for a living in and around Riverside County. When one of those jobs leaves you hurt, the first question is usually simple: who pays? In California, workers' compensation covers most on-the-job injuries no matter who was at fault, and it is normally your only route against your employer. The picture changes when someone outside your company caused the harm. A subcontractor who left a hazard on a Clinton Keith Road jobsite, a manufacturer whose equipment failed, or another driver who struck you while you were making deliveries can each face a separate injury claim with its own two-year deadline. That distinction matters in a city of roughly 109,830 residents where, in 2025, 426 injury collisions left 595 people hurt, and anyone driving for work shares those same roads. LawProactive is a free service, not a law firm. We connect you with an independent attorney who reviews your situation and works on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Murrieta Workplace Claims",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Back, neck, and shoulder injuries from lifting",
+      "Crush and amputation injuries from machinery",
+      "Collisions while driving a work vehicle or making deliveries",
+      "Burns and chemical or heat exposure",
+      "Repetitive strain and overuse injuries"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Murrieta Workers Start With LawProactive",
+    "items": [
+      {
+        "title": "We sort out comp versus a third-party claim",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver may owe you separately. The attorney we connect you with looks at both paths."
+      },
+      {
+        "title": "Deadlines are handled early",
+        "desc": "You generally have 30 days to report an injury to your employer and two years to bring a third-party injury claim. Getting connected quickly keeps both clocks from becoming a problem."
+      },
+      {
+        "title": "Retaliation is illegal, and you are not alone",
+        "desc": "California law bars employers from punishing you for reporting an injury or filing a claim. An independent attorney can explain your protections and act if your job is threatened."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on Murrieta Hot Springs Road while driving for work. Is workers' comp my only option?",
+        "answer": "Probably not. Because you were on the job, workers' compensation should cover your medical care and part of your lost wages regardless of fault. If another driver caused the crash, that driver is a third party, and California allows a separate injury claim against them with a two-year deadline. An attorney can pursue both without one canceling the other."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most situations, no. Workers' compensation is the exclusive remedy against your employer, even when the employer was careless. The exceptions are narrow, which is why the more common route to additional recovery is a claim against a negligent third party such as a contractor, property owner, or equipment manufacturer."
+      },
+      {
+        "question": "What if I waited a few weeks to report my injury to my Riverside County employer?",
+        "answer": "Report it now, in writing. California gives you 30 days to notify your employer, and delays beyond that can complicate the comp claim, though they do not always end it. Any third-party injury claim runs on its own two-year timeline, so a late report to your boss does not automatically close that door."
+      }
+    ]
+  }
+}

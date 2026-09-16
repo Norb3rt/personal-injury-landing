@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "south-san-francisco medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "South San Francisco Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for South San Francisco, CA patients. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or procedure in South San Francisco left you worse off than before, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's rules.  There's no cost to find out where you stand."
+  },
+  "about": {
+    "title": "South San Francisco Medical Malpractice Claims",
+    "longDescription": "South San Francisco residents rely on a mix of community clinics, urgent care centers, and hospital campuses along the Peninsula, and most visits go the way they should. But when a diagnosis is missed, a surgical step is skipped, or medication is mismanaged, the consequences can follow you long after the appointment ends. California law recognizes that a poor result isn't automatically malpractice — what matters is whether the care fell below an accepted medical standard, and that question almost always requires a qualified medical expert to sort out. LawProactive doesn't practice law or take a cut of any settlement; we simply listen to what happened, then connect San Mateo County patients with an independent attorney who can review the medical records and explain the realistic options. If a mistake in your care changed your health or your finances, it's worth having someone look at the details before the strict filing windows close.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Talk to someone about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Move Forward",
+    "items": [
+      {
+        "title": "MICRA's Short Clock",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to bring a claim — an independent attorney can help pin down which date applies to your case."
+      },
+      {
+        "title": "The 90-Day Notice Requirement",
+        "desc": "Before a malpractice lawsuit can be filed in California, the healthcare provider must typically receive 90 days' written notice — missing this step can delay or derail a claim."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a bad outcome alone isn't proof of malpractice, California cases almost always need a qualified medical expert to establish that the standard of care was breached."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it occurred. These deadlines are strict, so it helps to have someone review your timeline early rather than waiting."
+      },
+      {
+        "question": "Are there hospitals in South San Francisco relevant to these claims?",
+        "answer": "South San Francisco patients often receive care at local clinics, urgent care facilities, or nearby San Mateo County hospital systems. An attorney can request and review records from whichever facility treated you, regardless of size."
+      },
+      {
+        "question": "Is there a limit on what I can recover in California?",
+        "answer": "California law caps non-economic damages (like pain and suffering) in medical malpractice cases, though that cap rises each year under current law. Economic damages, such as medical bills and lost income, are generally not subject to that same cap."
+      }
+    ]
+  }
+}

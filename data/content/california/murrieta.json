@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "murrieta city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Murrieta, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Murrieta? LawProactive connects Riverside County residents with an injury attorney for free. You have 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end crash on Clinton Keith Road, a fall at a store, or a dog bite has turned your week upside down, LawProactive can connect you with an independent injury attorney at no cost. We serve Murrieta and all of Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Murrieta, California",
+    "longDescription": "Murrieta is home to roughly 109,830 people, and most of them spend part of every day on the same handful of roads. Murrieta Hot Springs Road, Clinton Keith Road, Whitewood Road and Winchester Road appear more often than any other corridors in the city's public collision records. In 2025, the most recent finalized year, Murrieta logged 426 injury collisions. Those crashes left 595 people injured and took 7 lives. Reports tend to peak on Thursdays between 3 p.m. and 5 p.m. If one of those numbers now describes you or someone in your family, the paperwork can feel heavier than the injury itself. That is where LawProactive comes in. We are a free service that connects injured people in Murrieta and the rest of Riverside County with an independent personal injury attorney. We are not a law firm, and we do not give legal advice. Our role is simply to make the introduction, at no cost to you. The attorneys in our network handle cases on contingency, so there is no fee unless your case ends in a recovery. California gives you two years to file most injury claims, and sometimes far less when a public agency is involved, so reaching out sooner leaves more room to breathe.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Murrieta Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Fractured wrists, arms and collarbones",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back damage",
+      "Knee and shoulder injuries from falls",
+      "Cuts, road rash and scarring from motorcycle or bicycle crashes"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Murrieta Claim",
+    "items": [
+      {
+        "title": "The clock is real: two years, sometimes six months",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county or state agency is involved, a formal claim may be due in as little as six months."
+      },
+      {
+        "title": "Being partly at fault does not shut the door",
+        "desc": "California follows pure comparative fault. Your recovery can be reduced by your share of the blame, but it is not wiped out simply because you were partly responsible."
+      },
+      {
+        "title": "No fixed ceiling on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages such as pain, lost enjoyment and emotional distress. Your losses are weighed on their own facts."
+      },
+      {
+        "title": "You pay nothing unless you recover",
+        "desc": "Attorneys in the LawProactive network work on contingency. There is no upfront charge and no fee at all unless your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say",
+      "I can't work right now and the bills are already piling up",
+      "The other driver says it was partly my fault",
+      "I'm not sure a lawyer would even take a case like mine"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes in Murrieta cluster, according to public records?",
+        "answer": "Public collision counts show that Murrieta Hot Springs Road, Clinton Keith Road, Whitewood Road and Winchester Road account for the most reported crashes in the city. Records also show reports peaking on Thursdays between 3 p.m. and 5 p.m. These are neutral counts from public data, not a judgment about any road or neighborhood."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of the injury. If your claim involves a government entity, such as a city vehicle or a public road defect, you may need to file a formal claim within six months. An attorney can pin down the deadline that applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses pure comparative fault, which means your compensation is reduced by your percentage of responsibility rather than eliminated. Even someone found mostly at fault can still recover something. Insurance companies sometimes overstate a person's share of blame, so it is worth having your side reviewed."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive or to hire the attorney?",
+        "answer": "LawProactive is completely free. We are not a law firm; we connect you with an independent personal injury attorney in our network. Those attorneys work on contingency, so there is no fee unless your case ends in a recovery."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In ordinary California injury cases, there is no cap on non-economic damages like pain, suffering and loss of enjoyment of life. The amount depends on the specific facts of your injury and how it has affected you. No one can promise a particular result, but an attorney can explain what factors matter in your case."
+      }
+    ]
+  }
+}

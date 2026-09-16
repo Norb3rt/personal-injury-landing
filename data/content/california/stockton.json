@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "stockton city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Stockton, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Stockton? Free connection to an independent San Joaquin County injury attorney. 2 years to file in California. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Car crashes, slip-and-falls, dog bites, and other injuries can upend life quickly in Stockton. LawProactive connects you for free with an independent personal injury attorney serving San Joaquin County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Stockton, California",
+    "longDescription": "Stockton sits where the Delta meets the Central Valley, and its streets carry a lot of traffic for a city of 305,658. In 2025, the most recent final crash year, public records show 1,313 injury collisions inside city limits, 1,938 people injured, and 21 traffic deaths. The corridors that appear most often in those counts are El Dorado Street, Hammer Lane, Airport Way, and March Lane, with reports tending to peak on Fridays between 3 and 5 p.m. as the workweek winds down. Those are numbers, not judgments about any one road. Behind each one is a person figuring out what comes next. If that person is you, LawProactive can help with a single step: we connect you, at no cost, with an independent personal injury attorney who handles cases in San Joaquin County. We are not a law firm, and we do not give legal advice or represent anyone. The attorneys in our network take injury matters on contingency, which means no fee unless there is a recovery. Whether you were rear-ended on March Lane, hit while walking downtown, or hurt on someone else's property, you can ask your questions and decide for yourself how to proceed.",
+    "commonInjuriesTitle": "Injuries Stockton Residents Commonly Ask About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from car, truck, and motorcycle crashes",
+      "Concussions and other head injuries",
+      "Pedestrian and bicycle injuries on city streets",
+      "Slip, trip, and fall injuries at stores or rental properties",
+      "Dog bites and animal-related injuries"
+    ],
+    "ctaText": "Ask a Stockton-area attorney your questions at no cost."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Stockton Claim",
+    "items": [
+      {
+        "title": "The clock is two years, sometimes less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency may be responsible, a government claim can be due in as little as six months."
+      },
+      {
+        "title": "Partial fault does not end your claim",
+        "desc": "California follows pure comparative fault. Even if you share some blame for a crash on Hammer Lane or Airport Way, you can still recover, reduced by your percentage of fault."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For a typical personal injury case in California, there is no statutory ceiling on non-economic damages such as pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "Contingency fees, explained up front",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay no attorney fee unless there is a recovery, and the terms are laid out in writing before you sign anything."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "My ER and follow-up bills are piling up while I can't work.",
+      "I might have been partly at fault and worry that ruins everything.",
+      "I don't know if I can afford a lawyer in the first place."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do injury crashes cluster in Stockton?",
+        "answer": "Public collision records for Stockton list El Dorado Street, Hammer Lane, Airport Way, and March Lane as the corridors with the highest counts. Reports also tend to peak on Fridays between 3 p.m. and 5 p.m. These are neutral record counts, not a rating of any road, and where your crash happened does not change your right to seek compensation."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California gives you two years from the date of injury. If a public entity such as the City of Stockton or San Joaquin County might be responsible, a formal government claim may need to be filed within six months. Because these deadlines can be strict, it helps to talk with an attorney early."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault. Your recovery is reduced by your share of fault, but you are not barred from recovering even if you were mostly at fault. An attorney can look at the police report, witness accounts, and any video to sort out how fault might be assigned."
+      },
+      {
+        "question": "How much does it cost to use LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent personal injury attorney; we are not a law firm and do not charge for the connection. The attorneys in our network handle injury cases on contingency, so there is no attorney fee unless there is a recovery."
+      },
+      {
+        "question": "Should I talk to the insurance company before speaking with an attorney?",
+        "answer": "You are not required to give a recorded statement to the other driver's insurer, and many people prefer to speak with an attorney first. Insurers may use early statements to question the extent of your injuries. Getting medical care and keeping records of your treatment are usually the most important first steps."
+      }
+    ]
+  }
+}

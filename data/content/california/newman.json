@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "newman city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Newman, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Newman, CA? Free connection to an independent attorney serving Stanislaus County. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, fall, or other accident around Newman, we can connect you with an independent attorney at no cost to you, serving families throughout Stanislaus County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Newman, California",
+    "longDescription": "Newman is a small, tight-knit community in Stanislaus County, but its streets still see their share of collisions. Public records show 7 injury collisions in the most recent reporting year, with 8 people hurt and no traffic deaths. Corridors like N Street, Balsam Drive, Inyo Avenue, and Merced Street show up repeatedly in local crash counts, and reports tend to cluster on Thursday afternoons between 3 and 5 p.m., a pattern worth knowing whether you're driving, walking, or biking through town. If you were hurt in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service that helps injured people in Newman get connected with an independent personal injury attorney who can review what happened. We are not a law firm, and we don't decide your case or promise any result — we simply make the introduction. Attorneys in this network take cases on contingency, meaning there's no fee unless there's a recovery. Reaching out costs nothing and can help you understand your options sooner rather than later.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts and deep lacerations",
+      "Sprains and soft tissue damage"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most injury claims in California must be filed within two years of the incident, and claims against a government entity can require notice in as little as six months. Waiting too long can close the door on a claim entirely."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar You",
+        "desc": "California follows pure comparative fault, meaning you can still recover compensation even if you were partly responsible for what happened. Your share of fault simply reduces the amount, rather than eliminating your claim."
+      },
+      {
+        "title": "No Cap on Everyday Losses",
+        "desc": "In ordinary injury cases, California doesn't limit non-economic damages like pain, suffering, or loss of enjoyment of life. An attorney can help make sure those losses are properly accounted for."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in this network work on contingency, which means they only get paid if you receive a settlement or award. There's no retainer required to start a conversation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while missing work",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if the deadline to file has already started ticking",
+      "Fearing that being partly at fault means giving up entirely"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Newman?",
+        "answer": "California generally gives you two years from the date of the incident to file most injury claims. If a government entity was involved, the window can be as short as six months, so it's wise to act quickly. An attorney can confirm the exact deadline that applies to your situation."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so being partially responsible doesn't prevent you from recovering compensation. Your total recovery is simply reduced by your percentage of fault. Many people are surprised to learn they can still pursue a claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Newman?",
+        "answer": "Public crash records show higher collision counts along N Street, Balsam Drive, Inyo Avenue, and Merced Street, with reports often occurring on Thursday afternoons between 3 and 5 p.m. These are simply neutral counts from public records, not a judgment about any particular road or area."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and there's no cost to you for being connected with an independent attorney. LawProactive is not a law firm and doesn't handle your case directly."
+      },
+      {
+        "question": "Will I owe attorney fees if my case doesn't succeed?",
+        "answer": "Attorneys in this network work on contingency, meaning they only get paid if you receive a settlement or award. If there's no recovery, you typically owe no attorney fee for their work."
+      }
+    ]
+  }
+}

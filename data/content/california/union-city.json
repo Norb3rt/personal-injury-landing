@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "union-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Union City, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Union City or elsewhere in Alameda County? You have 2 years to file most claims. Connect free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end collision on Alvarado Niles Road, a fall at a store, or a dog bite left you hurting, LawProactive connects you at no cost with an independent injury attorney serving Union City and Alameda County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Union City, California",
+    "longDescription": "Much of Union City's daily traffic funnels through the same few places: Alvarado Niles Road, Mission Boulevard, Whipple Road, and I-880. In 2025, the most recent year with final figures, public records logged 179 injury collisions in the city, with 240 people injured and 5 lives lost. Reported crashes were most frequent on Friday evenings, roughly 5 to 7 p.m., as commuters headed home. If you were one of the people behind those numbers — or you were hurt some other way, on a wet grocery-store floor, on a job site, or because of a neighbor's dog — you probably have practical questions that feel urgent. Who pays the ER bill? What do I say to the other driver's insurer? Is it too late? LawProactive exists to get you real answers. We are a free service, not a law firm. We connect Union City residents with an independent personal injury attorney who handles cases in Alameda County. There is no charge to be connected, and the attorneys in our network work on contingency, so you owe no fee unless there is a recovery. Most California injury claims carry a 2-year filing window — shorter, sometimes 6 months, when a public agency is involved — so asking early costs you nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Union City Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from stop-and-go collisions on I-880",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones from falls",
+      "Back and disc injuries after rear-end crashes",
+      "Pedestrian and cyclist injuries along Mission Boulevard and Alvarado Niles Road",
+      "Dog bites and lacerations"
+    ],
+    "ctaText": "Ask a Union City injury attorney what your options are — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Union City Claim",
+    "items": [
+      {
+        "title": "A 2-Year Clock, With One Big Exception",
+        "desc": "California gives you 2 years from the injury to file most personal injury lawsuits. If a city, county, or state agency may be responsible — say, a road maintenance issue or a public vehicle — a written claim can be due in as little as 6 months."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Case",
+        "desc": "California follows pure comparative fault. If you were 20 percent responsible for a crash on Whipple Road, your recovery is reduced by 20 percent, not wiped out."
+      },
+      {
+        "title": "No Cap on Pain-and-Suffering Damages",
+        "desc": "In an ordinary California injury case, there is no statutory ceiling on non-economic damages such as pain, anxiety, and loss of enjoyment of life. Your losses are valued on their own facts."
+      },
+      {
+        "title": "Contingency Fees Only",
+        "desc": "Attorneys in the LawProactive network don't bill by the hour. Their fee is a percentage of any recovery, and if there is no recovery, there is no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't afford a lawyer while I'm missing shifts at work.",
+      "My doctor's bills are piling up and no one has said who covers them.",
+      "I'm worried I waited too long to ask for help."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Union City tend to cluster?",
+        "answer": "According to public collision records, the corridors with the highest counts are Alvarado Niles Road, I-880, Mission Boulevard, and Whipple Road. Reported crashes peak on Fridays between about 5 p.m. and 7 p.m. These are simply record counts reflecting where and when traffic is heaviest; they don't assign blame or say anything about any single crash."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects people injured in Union City and the rest of Alameda County with an independent personal injury attorney. We don't give legal advice or represent you; the attorney you're connected with does that."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most injury claims, the deadline is 2 years from the date you were hurt. If a government entity may be at fault, you may need to file a formal claim within 6 months. Because the shorter deadline is easy to miss, it's worth asking an attorney about it soon."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses pure comparative fault, so partial responsibility reduces your recovery rather than eliminating it. If you're found 30 percent at fault, you can still recover 70 percent of your damages. An attorney can evaluate how fault might be assigned in your situation."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing to be connected, and nothing up front for the attorney. Attorneys in our network work on contingency, meaning their fee comes out of a recovery if there is one. If there is no recovery, you don't owe an attorney fee."
+      }
+    ]
+  }
+}

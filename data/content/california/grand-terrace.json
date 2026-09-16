@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "grand-terrace city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Grand Terrace, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Grand Terrace, San Bernardino County? Free connection to an attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Grand Terrace, we can connect you free of charge with an independent attorney serving San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Grand Terrace, California",
+    "longDescription": "Grand Terrace is a small city, but its roads see real traffic pressure. In the most recent full year on record, San Bernardino County logged 34 injury collisions in and around Grand Terrace, hurting 54 people and resulting in 1 traffic death. Corridors like I-215, Barton Road, Mt Vernon Avenue, and the I-215 southbound connector see the heaviest collision counts, and reports tend to cluster on Friday afternoons between 2 and 4 p.m. — likely tied to commuter and errand traffic converging as the week winds down. If you were injured on one of these roads, or anywhere else in the city, sorting out medical bills, missed work, and an insurance company that doesn't seem to be on your side can feel overwhelming. LawProactive is a free service — we are not a law firm — that connects injured people in Grand Terrace with an independent personal injury attorney who can review what happened and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and doesn't obligate you to anything.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord damage",
+      "Cuts, bruises, and soft tissue injuries",
+      "Shoulder and knee joint trauma"
+    ],
+    "ctaText": "Get connected with an attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity was involved — say, a poorly maintained road — that window can shrink to as little as six months, so it helps to act sooner rather than later."
+      },
+      {
+        "title": "Partial Fault Doesn't Sink Your Claim",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on What You've Suffered",
+        "desc": "Unlike some states, California places no cap on non-economic damages like pain and suffering in a standard injury case, so your recovery isn't artificially limited."
+      },
+      {
+        "title": "You Don't Pay Upfront",
+        "desc": "Attorneys in our network work on contingency. That means legal fees only come out of a recovery — if there's no recovery, there's no fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Feeling pressured by an insurance adjuster calling too soon",
+      "Not knowing if you missed a deadline to file a claim",
+      "Fearing that being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a crash in Grand Terrace?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a personal injury lawsuit. If your claim involves a government entity, such as a city road defect, that deadline can be as short as six months. It's best to speak with an attorney early so you don't lose your window to file."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Grand Terrace?",
+        "answer": "Public records show that reported injury collisions in Grand Terrace concentrate along I-215, Barton Road, Mt Vernon Avenue, and the I-215 southbound stretch, with reports peaking on Friday afternoons between 2 and 4 p.m. These are simply the corridors with the highest recorded collision counts, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly responsible doesn't bar you from recovering compensation. Your recovery is simply reduced by the percentage of fault assigned to you, which an attorney can help evaluate."
+      },
+      {
+        "question": "Will I have to pay money upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no cost or obligation to reach out and ask questions."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In a typical California personal injury case, there is no cap on non-economic damages like pain and suffering. The specific value of any claim depends on the facts, which is something an independent attorney can help assess."
+      }
+    ]
+  }
+}

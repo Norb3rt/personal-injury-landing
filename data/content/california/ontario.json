@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "ontario city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ontario, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Ontario or elsewhere in San Bernardino County? You have 2 years to file. Connect free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a crash on the I-10, a fall at a store, or a dog bite left you injured, LawProactive connects you with an independent personal injury attorney at no cost. We serve Ontario and all of San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Ontario, California",
+    "longDescription": "Ontario sits where several of the Inland Empire's major freeways come together. The I-10 San Bernardino Freeway runs east to west through town, the SR-60 Pomona Freeway traces the southern edge, and the I-15 Ontario Freeway carries traffic north and south along the city's eastern side. Add Euclid Avenue's long tree-lined median and the steady flow of travelers heading to Ontario International Airport, and the city handles a heavy volume of vehicles every day. In 2025, public records show 1,083 injury collisions inside city limits, with 1,541 people hurt and 18 lives lost. Those four corridors — I-10, Euclid Avenue, SR-60 and I-15 — account for the largest share of reported crashes, and Friday afternoons between 3 and 5 p.m. show the highest counts. If you were injured on one of them, or in a fall, a dog bite, or a workplace accident, you probably have questions about medical bills, lost wages, and what an insurance adjuster is really offering. LawProactive is a free service, not a law firm. We connect Ontario residents with an independent personal injury attorney who can review the facts and explain your options. There is no charge to be connected, and network attorneys work on contingency, so no fee is owed unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Ontario",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Broken bones from motorcycle and bicycle crashes",
+      "Concussions and other head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, road rash, and burns",
+      "Knee, hip, and shoulder injuries from falls"
+    ],
+    "ctaText": "Get connected with an Ontario injury attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Ontario Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window",
+        "desc": "California gives most injury victims two years from the date of injury to file a lawsuit. Claims against a city, county, or state agency can require notice in as little as six months, so acting early matters."
+      },
+      {
+        "title": "Partial fault does not end your claim",
+        "desc": "California follows pure comparative fault. If you share some responsibility for a crash on Euclid Avenue or the I-15, your recovery is reduced by your percentage of fault but is not wiped out."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For a typical injury claim in California, there is no statutory limit on non-economic damages such as pain, suffering, and loss of enjoyment of life. An attorney can explain how these losses are valued."
+      },
+      {
+        "title": "Nothing out of pocket to hire an attorney",
+        "desc": "Attorneys in the LawProactive network take cases on contingency. That means no upfront payment and no fee at all unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The ER bills are arriving and I do not know who is supposed to pay them.",
+      "I have missed shifts at work and my rent is due.",
+      "The other driver's insurer keeps calling and wants a recorded statement.",
+      "I am not sure my injury is serious enough to bother anyone about."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Ontario show up most often in public records?",
+        "answer": "Public collision records for 2025 list the highest counts along the I-10 San Bernardino Freeway, Euclid Avenue, the SR-60 Pomona Freeway, and the I-15 Ontario Freeway. Citywide, there were 1,083 injury collisions that year, with 1,541 people injured and 18 deaths. Reported crashes tend to peak on Fridays between 3 p.m. and 5 p.m. These are neutral counts and simply reflect where the most traffic moves through Ontario."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Ontario, California?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date you were hurt. If a government entity is involved — for example, a city vehicle or a claim about a public roadway — you may need to file a formal claim within six months. Because these deadlines are strict, it is wise to talk with an attorney well before either one approaches."
+      },
+      {
+        "question": "What if the police report says I was partly at fault?",
+        "answer": "You can still pursue a claim. California uses pure comparative fault, so your compensation is reduced by your share of responsibility rather than eliminated. An attorney can also review whether the report's conclusions are accurate, since officers do not always have the full picture at the scene."
+      },
+      {
+        "question": "Is LawProactive a law firm, and what does it cost?",
+        "answer": "No. LawProactive is a free service that connects injured people in Ontario and San Bernardino County with an independent personal injury attorney. We do not charge you anything, and the attorneys in our network work on contingency, so no fee is owed unless there is a recovery."
+      },
+      {
+        "question": "Should I talk to the other driver's insurance company before I speak with an attorney?",
+        "answer": "You are generally not required to give a recorded statement to another party's insurer, and many people find it helpful to get legal guidance first. Adjusters may ask questions designed to minimize what their company pays. An attorney can handle those communications so you can focus on recovering."
+      }
+    ]
+  }
+}

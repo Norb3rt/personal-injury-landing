@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "suisun-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Suisun City, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Suisun City? Connect free with an independent Solano County attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whiplash, broken bones, or something more serious after a crash — we help you connect at no cost with an independent attorney serving Solano County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Suisun City, California",
+    "longDescription": "Suisun City sits along State Route 12, where Sunset Avenue and Highway 12 carry a steady stream of commuters, shoppers, and travelers passing through Solano County. In the most recent full year on record, the city logged 108 injury collisions and 153 people hurt — numbers that reflect real families dealing with medical bills, missed work, and insurance calls they never asked for. Public records show crashes tend to cluster on Tuesday afternoons between 4 and 6 p.m., a detail that simply tracks with commute patterns rather than pointing to any one location being unsafe. If you were hurt in a crash on Rt 12, Sunset Avenue, or anywhere else in town, LawProactive can help. We are a free service — not a law firm — that connects injured people with an independent personal injury attorney who can review what happened. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. You focus on healing; let someone else sort out the legal questions.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Fractured bones",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Torn ligaments and soft tissue damage",
+      "Cuts, bruises, and scarring"
+    ],
+    "ctaText": "Find out if you have a case — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Act Quickly After a Crash in Suisun City",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window can shrink to just six months if a government entity — like a city road crew — was involved. Waiting too long can cost you the right to recover anything."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut the Door",
+        "desc": "Under California's pure comparative fault rule, even if you were partly responsible for what happened, you can still recover compensation — just reduced by your share of fault. This means many people assume, wrongly, that they have no case."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages in typical injury cases, so compensation for pain, suffering, and lost quality of life isn't artificially limited the way it is in some other states."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning you owe nothing upfront and pay nothing unless your case results in a recovery. That structure exists specifically so cost isn't a barrier to getting help."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up faster than I can track them",
+      "I'm missing paychecks and don't know how long I'll be out",
+      "The insurance adjuster keeps calling and I don't know what to say",
+      "I'm not sure if what happened was even partly my fault"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Suisun City?",
+        "answer": "California generally allows two years from the date of the injury to file a personal injury claim. If a government agency was involved, such as a city or county entity, that deadline can be as short as six months, so it's worth getting information early."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows pure comparative fault, which means you can still recover compensation even if you share some blame. Your recovery amount would simply be reduced by your percentage of fault, rather than eliminated entirely."
+      },
+      {
+        "question": "Where do crashes tend to happen in Suisun City?",
+        "answer": "Public collision records show higher volumes along corridors like Rt 12, Highway 12, and Sunset Avenue, with reports clustering on Tuesday afternoons between 4 and 6 p.m. These are simply reported counts, not a judgment about any location's safety."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we are not a law firm and do not charge for the connection. Any attorney you work with operates on contingency, meaning fees only apply if you recover money."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary California injury cases, there's no cap on non-economic damages like pain and suffering. The specific amount depends on the facts of your case, which is something an attorney can evaluate."
+      }
+    ]
+  }
+}

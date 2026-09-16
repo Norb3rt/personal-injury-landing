@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "willits city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Willits, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Willits, Mendocino County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident around Willits, we can connect you free of charge with an independent attorney serving Mendocino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Willits, California",
+    "longDescription": "Willits sits along the Highway 101 corridor in Mendocino County, where local travel also relies heavily on Highway 20, S Main Street, and Main Street. Recent public records show 1 injury collision in Willits with 1 person hurt and no traffic deaths reported for that year — a reminder that even a small town sees its share of crashes that upend daily life. Whether you were hurt driving through downtown on Main Street, navigating the Highway 101/20 junction, or simply crossing an intersection near home, the aftermath of an injury can bring medical bills, missed work, and a lot of uncertainty about what to do next. LawProactive is a free service that helps injured people in Willits get connected with an independent personal injury attorney who can review the details of what happened. We are not a law firm, and we don't provide legal advice ourselves — we simply make the introduction. If an attorney in the network takes your case, you won't pay anything upfront; fees only come from a portion of any recovery. Reaching out costs nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from falls or pedestrian incidents"
+    ],
+    "ctaText": "Tell us what happened and we'll help you find the right attorney — free, no pressure."
+  },
+  "whyChoose": {
+    "title": "Why Reach Out Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Clock",
+        "desc": "Most injury claims in California must be filed within 2 years of the incident, and claims against a government entity can require notice in as little as 6 months. Waiting too long can close the door on your options entirely."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you may still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, or loss of enjoyment of life, unlike many other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That means getting advice doesn't add to your financial stress."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if you were partly at fault and whether that ruins your claim",
+      "Feeling like you're running out of time to do anything about it",
+      "Fear of hiring a lawyer you can't afford"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Willits?",
+        "answer": "In California, you generally have 2 years from the date of the injury to file a claim. If a government agency or vehicle was involved, that window can shrink to as little as 6 months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, so being partly at fault doesn't automatically bar you from recovering compensation. Your recovery would simply be reduced by your percentage of responsibility."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Willits?",
+        "answer": "Public collision records point to higher volumes along Highway 101, Highway 20, S Main Street, and Main Street, with reports also tending to peak on Thursday afternoons between 1 and 3 p.m. These are neutral counts of reported activity, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I have to pay anything to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is completely free, and attorneys in the network work on contingency — meaning they only get paid if they win or settle your case."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm and does not give legal advice. We simply help connect injured people in Willits with an independent attorney who can evaluate their situation."
+      }
+    ]
+  }
+}

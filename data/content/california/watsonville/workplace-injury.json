@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "watsonville workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Watsonville Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Watsonville? Get connected free to an independent attorney who handles work injury and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Watsonville's mix of agricultural work, warehouses, and retail along Main Street and Airport Boulevard means workplace injuries happen in a lot of different settings. If you were hurt on the job, LawProactive can connect you with an independent attorney at no upfront cost."
+  },
+  "about": {
+    "title": "Watsonville Workplace Injury Claims",
+    "longDescription": "Watsonville's economy runs on a wide range of physical work — from packing houses and farm fields near Green Valley Road to warehouses and shops along Freedom Boulevard and Main Street. That variety means workplace injuries in this city range from repetitive strain and machinery accidents to falls and vehicle-related incidents on the job. In most cases, California workers' compensation is the exclusive path against your employer, regardless of who was at fault. But when a subcontractor, equipment manufacturer, property owner, or another driver contributed to the accident, a separate claim against that third party may be possible alongside your workers' comp benefits. LawProactive doesn't practice law — we're a free service that connects injured workers in Watsonville with an independent attorney who can review the details of your accident, explain your options, and help you understand whether a third-party claim applies to your situation. There's no obligation to move forward, and no fee unless your attorney recovers on your behalf.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive tasks",
+      "Falls from ladders, platforms, or uneven ground",
+      "Machinery and equipment-related injuries",
+      "Vehicle collisions while driving for work",
+      "Crush or caught-between injuries in warehouses or packing facilities",
+      "Chemical or pesticide exposure incidents"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Watsonville Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Third-Party Option",
+        "desc": "Workers' comp usually covers your employer, but if a subcontractor, property owner, or equipment maker contributed to your injury, a separate claim may still be available. An attorney can help sort out whether that applies to your case."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury. If you're worried about your job after an accident, an attorney can explain your rights before you take that step."
+      },
+      {
+        "title": "Deadlines That Don't Wait",
+        "desc": "You generally have 30 days to report an injury to your employer, and any third-party claim carries its own 2-year deadline. Missing either window can limit your options, so timing matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while working near Freedom Boulevard — can I still file a claim if I already reported it late?",
+        "answer": "California generally requires reporting a workplace injury to your employer within 30 days, so timing matters. If you're past that window, it doesn't automatically mean you have no options, but you should talk to an attorney quickly to understand what's still available. LawProactive can connect you with someone who can look at the specifics."
+      },
+      {
+        "question": "Can I sue my employer directly if I was hurt on the job in Watsonville?",
+        "answer": "Usually not — California workers' compensation is typically the exclusive remedy against your employer, even if they were careless. However, if a third party like a contractor, property owner, or equipment maker played a role, you may be able to pursue a separate claim against them. An independent attorney can help determine if that fits your situation."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and the attorneys in our network work on contingency, meaning there's no fee unless they recover money on your behalf. We're not a law firm ourselves — we simply help connect injured workers with independent attorneys who can evaluate their case."
+      }
+    ]
+  }
+}

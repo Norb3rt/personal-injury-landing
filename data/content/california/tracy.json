@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "tracy city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tracy, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Tracy or elsewhere in San Joaquin County? You have 2 years to file. LawProactive connects you with an attorney free — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on I-205, a fall at a Tracy business, or a crash while walking or cycling, we connect you with an independent personal injury attorney at no cost. Serving Tracy and all of San Joaquin County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Tracy, California",
+    "longDescription": "Tracy sits where I-205 hands Bay Area commuters off to the Central Valley, and that traffic shows up in the numbers. In 2025, the most recent final reporting year, the city logged 221 injury collisions. Those crashes left 304 people hurt and took 2 lives. Public records put the highest collision volumes along I-205, Grant Line Road, Corral Hollow Road, and 11th Street, with reports peaking on Fridays between 3 p.m. and 5 p.m., right as the workweek lets out. If one of those numbers is you or someone in your family, a few things matter. California gives most injury claims a 2-year filing window, though claims involving a government entity can require notice in as little as 6 months. Insurance adjusters know these deadlines; you should too. LawProactive is a free service. We are not a law firm, and we don't handle your case ourselves. What we do is connect you with an independent personal injury attorney who serves Tracy and the rest of San Joaquin County. The attorneys in our network take cases on contingency, meaning there is no fee unless they recover something for you. Reaching out costs nothing, and you decide whether to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Tracy Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway stop-and-go collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back injuries, including herniated discs",
+      "Knee and hip damage from falls",
+      "Road rash and soft-tissue injuries for cyclists and pedestrians"
+    ],
+    "ctaText": "Tell us what happened. The connection is free, and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Tracy Claim",
+    "items": [
+      {
+        "title": "Two years, sometimes six months",
+        "desc": "Most California injury claims must be filed within 2 years of the injury. If a city, county, or state agency is involved, you may have only 6 months to give formal notice, so timing matters."
+      },
+      {
+        "title": "Partial fault doesn't end your claim",
+        "desc": "California follows pure comparative fault. Even if you share some blame for what happened, you can still recover; your share of fault reduces the amount rather than blocking it."
+      },
+      {
+        "title": "No ceiling on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, lost enjoyment of life, and emotional distress. Your losses can be valued for what they actually are."
+      },
+      {
+        "title": "Nothing out of pocket to get started",
+        "desc": "Attorneys in our network work on contingency. They are paid only if there is a recovery, which means you don't need savings set aside to pursue a claim."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I missed shifts at work and the bills are already piling up.",
+      "I was partly at fault, so I assumed I had no case.",
+      "I can't afford to pay a lawyer up front."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do injury crashes in Tracy tend to occur?",
+        "answer": "Public collision records for Tracy show the highest counts along I-205, Grant Line Road, Corral Hollow Road, and 11th Street. These are simply the corridors with the most reported incidents, which tracks with how much traffic they carry. Reports also cluster on Friday afternoons between 3 p.m. and 5 p.m."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "For most personal injury claims, the deadline is 2 years from the date you were hurt. If a government entity is involved, such as a claim over a city-maintained road or a public vehicle, you may need to file a notice within 6 months. An attorney can pin down which deadline applies to your situation."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. Our service is free, and we are not a law firm. We connect you with an independent attorney in San Joaquin County, and that attorney works on contingency, so there is no fee unless there is a recovery."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault. Your recovery is reduced by your percentage of fault, but you are not shut out entirely. Someone found 30 percent responsible, for example, could still recover 70 percent of their damages."
+      },
+      {
+        "question": "Should I talk to the insurance company before I speak with an attorney?",
+        "answer": "You can report the crash to your own insurer, but be cautious about giving a recorded statement to the other driver's company. Adjusters may use early statements to minimize what they pay. Speaking with an attorney first is free through LawProactive and helps you understand your options."
+      }
+    ]
+  }
+}

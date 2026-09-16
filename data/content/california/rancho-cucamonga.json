@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "rancho-cucamonga city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rancho Cucamonga, CA Personal Injury Lawyer | Free Review",
+    "metaDescription": "Hurt in Rancho Cucamonga? Connect free with a San Bernardino County injury attorney. You have 2 years to file, and there's no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end crash on the 210, a fall at a shopping center, or a dog bite left you hurt, LawProactive connects you at no cost with an independent injury attorney serving Rancho Cucamonga and San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Rancho Cucamonga, California",
+    "longDescription": "Rancho Cucamonga sits where the 210 and the 15 cross paths, and much of daily life here moves along those two freeways or the long stretch of Foothill Boulevard that runs through the heart of town. Public records for 2025 show 474 injury collisions in the city, with 649 people hurt and 6 lives lost. Reports tend to climb on Friday evenings between 5 and 7 p.m., when commuters heading home from across San Bernardino County share the road with shoppers and families. SR-210, Foothill Boulevard, and I-15 carry the highest collision counts in the city's public data. A crash is only one way people get hurt here, though. Slips in a store aisle, a dog that bites without warning, a fall at a rental, or a bicycle struck near a Victoria Gardens parking lot can each leave someone facing medical bills and missed work. LawProactive is a free service, not a law firm. We connect you with an independent personal injury attorney who handles cases in the Inland Empire, and the attorneys in our network work on contingency, so there is no fee unless your case results in a recovery. You talk through what happened; the attorney tells you where things stand.",
+    "commonInjuriesTitle": "Injuries We Hear About Most in Rancho Cucamonga",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones from falls",
+      "Back and spinal disc injuries",
+      "Road rash and fractures from motorcycle or bicycle crashes",
+      "Dog bite wounds and scarring"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Rancho Cucamonga Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window",
+        "desc": "Most California injury claims must be filed within 2 years of the injury. Claims against a city, county, or state agency can require notice in as little as 6 months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share of the blame rather than wiped out."
+      },
+      {
+        "title": "No fixed ceiling on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages such as pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "You pay nothing unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. Their fee comes out of any recovery, and if there is none, you owe them no fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I'm missing shifts and the bills are already piling up.",
+      "The police report puts some of the blame on me.",
+      "I don't know whether my injuries are serious enough to bother a lawyer."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Rancho Cucamonga tend to cluster?",
+        "answer": "Public collision records list SR-210 (Foothill Freeway), Foothill Boulevard, and I-15 (Ontario Freeway) as the corridors with the highest counts in the city. These are simply the roads carrying the most traffic and the most reported crashes. Reports also rise on Fridays between roughly 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury cases, the deadline is 2 years from the date you were hurt. If a government entity is involved, such as a city vehicle or a hazard on public property, you may need to file a claim within 6 months. An attorney can confirm which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses pure comparative fault, which means your compensation is reduced by your percentage of responsibility but not eliminated. Being 30 percent at fault, for example, would reduce your recovery by 30 percent. You can still pursue a claim."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people in Rancho Cucamonga and the rest of San Bernardino County with an independent personal injury attorney. We do not give legal advice or represent clients. The attorney you are connected with handles your case directly."
+      },
+      {
+        "question": "How much does it cost to hire an attorney through LawProactive?",
+        "answer": "Our connection service is free. Attorneys in our network work on contingency, meaning their fee is a percentage of any recovery they obtain for you. If there is no recovery, you do not owe an attorney fee."
+      }
+    ]
+  }
+}

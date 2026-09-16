@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "south-gate workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "South Gate Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in South Gate? See how workers' comp and third-party claims differ in California, then connect with an independent attorney for free."
+  },
+  "hero": {
+    "subtitle": "If a job in South Gate left you injured, you may have more than one path to recovery under California law. LawProactive connects you, at no cost, with an independent attorney who handles workplace injury claims in Los Angeles County."
+  },
+  "about": {
+    "title": "South Gate Workplace Injury Claims",
+    "longDescription": "South Gate is a working city. Warehouses, shops, and delivery routes along Firestone Boulevard and Garfield Avenue keep Los Angeles County moving, and the people doing that work sometimes get hurt doing it. When that happens, California law sets up two separate paths. The first is workers' compensation, which covers medical care and part of your lost wages no matter who was at fault. In exchange, you usually cannot sue your employer directly. The second path opens when someone other than your employer contributed to the injury: a subcontractor on a shared job site, a property owner who let a hazard sit, the maker of a machine that failed, or another driver who hit you while you were on the clock along Imperial Highway or Southern Avenue. That third-party claim runs alongside your comp case and can recover losses comp does not. LawProactive is a free service, not a law firm. We simply connect South Gate workers with an independent attorney who can sort out which path, or both, applies to you.",
+    "commonInjuriesTitle": "Injuries We Commonly See in South Gate Workplace Claims",
+    "commonInjuries": [
+      "Back and spine injuries from lifting or repetitive strain",
+      "Crushed or amputated fingers and hands from machinery",
+      "Falls from ladders, loading docks, and scaffolding",
+      "Injuries from work-related vehicle collisions",
+      "Burns and chemical exposure",
+      "Forklift and warehouse equipment injuries"
+    ],
+    "ctaText": "Talk through your options with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why South Gate Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Claims, Not One",
+        "desc": "Workers' comp is usually your only remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver can be held responsible separately. The attorney we connect you with looks at both."
+      },
+      {
+        "title": "Deadlines That Actually Matter",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and a third-party injury claim carries a two-year deadline. Getting connected early keeps both clocks from running out on you."
+      },
+      {
+        "title": "Protected From Retaliation, and Free to Ask",
+        "desc": "It is illegal for an employer to punish you for reporting an injury or filing a claim. Our service costs nothing, and the attorneys in our network work on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit driving for work on Firestone Boulevard. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were on the clock, workers' comp should cover your medical treatment and part of your lost pay regardless of fault. If the other driver caused the crash, you may also have a separate injury claim against that driver. South Gate recorded 419 injury collisions in 2025, with reported crashes clustering on Fridays between 6 and 8 p.m., so this overlap comes up more often than people expect."
+      },
+      {
+        "question": "Can I sue my employer directly after a workplace injury in California?",
+        "answer": "Usually not. Workers' compensation is the exclusive remedy against your employer in most situations, which means the trade-off is guaranteed benefits without having to prove fault. The exception is when a third party, someone other than your employer, played a role in the injury. An attorney can tell you whether that applies to your situation."
+      },
+      {
+        "question": "My supervisor said I would be let go if I filed a claim. What should I do?",
+        "answer": "Retaliating against a worker for reporting an injury or filing a claim is illegal in California. Report the injury to your employer in writing within 30 days if you have not already, and keep a copy. Then reach out through LawProactive so an independent attorney can walk you through your rights at no cost."
+      }
+    ]
+  }
+}

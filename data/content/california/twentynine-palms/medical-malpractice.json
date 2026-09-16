@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "twentynine-palms medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Twentynine Palms Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney serving Twentynine Palms, San Bernardino County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a hospital visit or clinic appointment in Twentynine Palms leaves you worse off instead of better, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California law.  There's no cost to find out where you stand."
+  },
+  "about": {
+    "title": "Twentynine Palms Medical Malpractice Claims",
+    "longDescription": "Twentynine Palms residents often depend on a small number of local clinics and urgent care facilities, or make the drive toward larger hospital systems for specialized treatment. When a diagnosis is missed, a medication is mismanaged, or a procedure goes wrong, the consequences can follow a family for years. California law gives injured patients a path to accountability, but medical malpractice claims move on strict timelines and require a qualified medical expert to establish that the care provided fell below an accepted standard. A bad outcome by itself does not prove malpractice occurred — the facts matter. LawProactive is a free service that connects Twentynine Palms residents with an independent attorney who can review medical records, evaluate whether the standard of care was met, and explain what a case built around your situation might involve. You focus on recovering; we handle the introduction, at no upfront cost to you.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to treat or monitor a known condition"
+    ],
+    "ctaText": "Ask about your situation — the review is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally requires a malpractice claim within one year of discovering the injury and no more than three years from when it occurred. A 90-day pre-suit notice to the provider is also required, so early legal guidance matters."
+      },
+      {
+        "title": "A Medical Expert Is Almost Always Required",
+        "desc": "California law requires a qualified medical expert to support most malpractice claims, confirming that care fell below an accepted standard. An independent attorney can help arrange that review."
+      },
+      {
+        "title": "Non-Economic Damages Cap Rises Yearly",
+        "desc": "MICRA sets a cap on non-economic damages that increases each year, which can affect how a claim is valued and negotiated. Understanding the current cap is part of building a realistic case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law recognizes that not every poor result is the product of negligence. A claim generally requires showing that a provider's care fell below the accepted medical standard and that this caused the harm, which is why a qualified medical expert review is almost always needed."
+      },
+      {
+        "question": "I received care locally in Twentynine Palms but was later transferred to a larger facility — does that affect my claim?",
+        "answer": "It can, since more than one provider or facility may have played a role in your care. An independent attorney can help sort out which records and timelines matter, including care given locally versus at a facility you were transferred to."
+      },
+      {
+        "question": "How long do I have to bring a malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it occurred. There's also a required 90-day pre-suit notice before filing, so it helps to get guidance sooner rather than later."
+      }
+    ]
+  }
+}

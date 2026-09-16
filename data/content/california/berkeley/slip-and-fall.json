@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "berkeley slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Berkeley Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on someone else's property in Berkeley? LawProactive connects you free with a premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Whether you went down on a slick stairwell in a Southside rental or a broken walkway outside a Shattuck Avenue shop, a Berkeley premises liability attorney can help you sort out who was responsible."
+  },
+  "about": {
+    "title": "Berkeley Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You are on a wet stairwell in a Shattuck Avenue apartment building, or a cracked walkway outside a University Avenue storefront, and your first thought is embarrassment, then pain. In Berkeley, a city of roughly 121,000 people with a dense mix of older rental housing, campus-adjacent businesses, and heavily walked blocks along Ashby and Shattuck, property conditions change from one address to the next. California law puts a single question at the center of these claims: did the owner know, or should they have known, about the hazard, and did they fail to fix it or warn you? That is called notice, and proving it usually depends on evidence that disappears quickly, such as incident reports, photographs of the exact spot, and surveillance footage that many businesses overwrite within days. LawProactive is not a law firm. We are a free service that connects Berkeley residents with an independent premises liability attorney who works on contingency, meaning you pay nothing unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Berkeley",
+    "commonInjuries": [
+      "Wrist and forearm fractures from bracing on impact",
+      "Hip fractures, especially among older residents",
+      "Knee and ankle ligament tears",
+      "Concussions and other head injuries from hitting pavement or stairs",
+      "Herniated discs and lower back strain",
+      "Shoulder dislocations and rotator cuff damage"
+    ],
+    "ctaText": "Get connected with a Berkeley premises liability attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Berkeley Residents Use LawProactive for Fall Injuries",
+    "items": [
+      {
+        "title": "Notice is the whole case, and it needs to be built early",
+        "desc": "California requires you to show the property owner knew or should have known about the hazard. An attorney in our network can move quickly to request maintenance logs, prior complaints, and video before it is gone."
+      },
+      {
+        "title": "Two deadlines, and one of them is short",
+        "desc": "Most premises claims in California must be filed within two years, but a fall on city or other public property follows a much shorter claims process. Knowing which clock applies in Berkeley matters from day one."
+      },
+      {
+        "title": "Being partly at fault does not end your claim",
+        "desc": "California uses pure comparative fault, so even if you were texting or wearing loose shoes, you can still recover an amount reduced by your share of responsibility. Attorneys in our network work on contingency, so there is no fee unless you recover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a lifted sidewalk slab in Berkeley. Is that the city's responsibility or the property owner's?",
+        "answer": "It depends on who controls that stretch of sidewalk and what caused the defect, and in Berkeley the answer can involve the city, an adjacent owner, or even the University if you were near campus. Claims against a public entity in California generally must be presented within six months, far sooner than the two-year deadline for private property. Photograph the slab with something for scale, note the nearest address, and talk to an attorney before that shorter window closes."
+      },
+      {
+        "question": "The store says there was a wet floor sign. Does that automatically defeat my claim?",
+        "answer": "Not automatically. A warning has to be reasonably visible and adequate for the actual hazard, and a small cone tucked behind a display may not qualify. Surveillance video and witness accounts often settle the question, which is why an attorney will typically send a preservation request right away."
+      },
+      {
+        "question": "What should I do in the first few days after a fall on someone else's property?",
+        "answer": "Get medical care first, even if the pain seems minor, because fractures and concussions are not always obvious right away. Then write down exactly where and how you fell, take photos of the hazard and your footwear, and ask the business or landlord for a copy of any incident report. Avoid giving a recorded statement to an insurer until you have spoken with an attorney."
+      }
+    ]
+  }
+}

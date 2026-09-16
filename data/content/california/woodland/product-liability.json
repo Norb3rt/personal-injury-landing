@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "woodland product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Woodland CA Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Woodland? Get connected free to an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a defective product injures someone in Woodland, Yolo County law gives victims a path to accountability that doesn't hinge on proving anyone was careless. LawProactive can connect you, at no cost, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Woodland Product Liability Claims",
+    "longDescription": "Defective products show up everywhere in Woodland life, from farm and industrial equipment used around the region's agricultural operations to household appliances, vehicles, and tools bought along Main Street or East Street corridors. California's strict liability rule means an injured person generally doesn't need to prove a manufacturer was negligent, only that the product was unreasonably dangerous due to a design flaw, a manufacturing defect, or inadequate warnings, and that this defect caused harm. That's a meaningful difference from most injury claims, and it can open liability against multiple parties in the chain: the manufacturer, the distributor, even the local retailer who sold it. If a defective product has hurt you or someone in your family here in Woodland, LawProactive can connect you with an independent California attorney, free of charge, to talk through what happened and what your options might be. There's no fee unless the attorney recovers something for you.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or batteries",
+      "Amputations or crush injuries from faulty machinery",
+      "Traumatic brain injuries from failed safety equipment",
+      "Lacerations from defective tools or sharp-edge failures",
+      "Poisoning or chemical exposure from mislabeled products",
+      "Fractures from collapsing furniture or structural failures"
+    ],
+    "ctaText": "Talk to an independent attorney about your product injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why This Matters for Your Claim",
+    "items": [
+      {
+        "title": "Strict Liability, Not Negligence",
+        "desc": "California generally doesn't require proof the manufacturer was careless — only that the product was defective and caused your injury, which can simplify what needs to be shown."
+      },
+      {
+        "title": "Multiple Parties May Answer for It",
+        "desc": "Manufacturers, distributors, and even the retailer who sold the product in Woodland can potentially share responsibility under California law."
+      },
+      {
+        "title": "The Product Itself Is Evidence",
+        "desc": "Keeping the item, its packaging, and any manuals intact preserves the proof an attorney needs to evaluate a design, manufacturing, or warning defect claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the manufacturer was negligent?",
+        "answer": "No — California's strict liability standard for defective products generally focuses on whether the product itself was unreasonably dangerous, not on the manufacturer's state of mind. You still need to show the defect caused your injury, but you don't need to dig into internal corporate decisions or intent."
+      },
+      {
+        "question": "I still have the broken product from an incident near E Main Street — should I keep it?",
+        "answer": "Yes, hold onto it exactly as it is, along with any packaging, receipts, or instructions. The physical product is often the single most important piece of evidence in a defect case, and repairing or discarding it can make a claim much harder to support."
+      },
+      {
+        "question": "What counts as a 'defect' under California law?",
+        "answer": "There are generally three types: a design defect (the product is inherently unsafe even if made correctly), a manufacturing defect (something went wrong during production), or a warning defect (missing or inadequate instructions about known risks). An independent attorney can help sort out which may apply to your situation."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, connecting you is free, and the attorneys in the network typically work on contingency, meaning there's no fee unless they recover compensation for you. This is meant to remove cost as a barrier to getting advice after an injury."
+      }
+    ]
+  }
+}

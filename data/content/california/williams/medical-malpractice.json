@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "williams medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Williams, CA Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney serving Williams and Colusa County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care at a Williams-area clinic or hospital falls short and causes real harm, understanding your options matters. LawProactive can connect you with an independent attorney familiar with Colusa County medical cases at no cost to you."
+  },
+  "about": {
+    "title": "Williams Medical Malpractice Claims",
+    "longDescription": "Williams sits in a rural pocket of Colusa County where access to specialists is limited, and many residents drive out of town for hospital-level care. That distance can complicate follow-up treatment when something goes wrong — a missed diagnosis, a surgical error, or a medication mistake. California law recognizes that not every bad outcome is malpractice; a claim generally requires showing a qualified medical expert believes the provider fell below the accepted standard of care. If you believe a Williams-area provider's error caused you harm, LawProactive can connect you with an independent attorney who understands how MICRA's notice periods, damages structure, and filing deadlines apply to your situation. This is a free connection service — we are not a law firm, and there's no obligation to move forward. The attorney you're matched with typically works on contingency, meaning there's no fee unless you recover compensation.",
+    "commonInjuriesTitle": "Common Types of Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor post-treatment conditions"
+    ],
+    "ctaText": "Find out if you have a case — free and confidential."
+  },
+  "whyChoose": {
+    "title": "What Matters in a Williams Medical Malpractice Case",
+    "items": [
+      {
+        "title": "Strict Notice and Filing Windows",
+        "desc": "California generally requires a 90-day pre-suit notice before filing, plus a claim window of one year from discovery and no more than three years from the injury. Missing these deadlines can end a claim before it starts."
+      },
+      {
+        "title": "Non-Economic Damages Cap",
+        "desc": "MICRA sets a statutory cap on non-economic damages that rises annually, which affects how a claim is valued and negotiated. An attorney can help explain how this cap applies to your specific circumstances."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A bad medical outcome by itself isn't proof of malpractice — California generally requires a qualified medical expert to support the claim. Getting that review started early matters, especially given the strict timelines."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Williams?",
+        "answer": "California generally allows one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it happened. There's also typically a 90-day pre-suit notice requirement before a lawsuit can be filed. These deadlines are strict, so it helps to speak with someone promptly."
+      },
+      {
+        "question": "Do I need to travel outside Williams for medical care to have a claim?",
+        "answer": "Not necessarily — many Williams residents receive care at facilities outside Colusa County, and that doesn't change your legal rights. What matters is whether a qualified medical expert believes the provider's care fell below the accepted standard, regardless of where treatment occurred."
+      },
+      {
+        "question": "Is a poor medical outcome automatically malpractice?",
+        "answer": "No. California law is clear that a bad result alone doesn't establish malpractice; there has to be evidence the provider deviated from the accepted standard of care. An independent attorney can help evaluate whether your situation meets that threshold."
+      }
+    ]
+  }
+}

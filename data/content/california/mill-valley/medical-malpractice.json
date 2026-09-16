@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "mill-valley medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mill Valley Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to independent Marin County malpractice attorneys for Mill Valley patients. No fee unless you recover. Learn your MICRA deadlines now."
+  },
+  "hero": {
+    "subtitle": "When a Mill Valley medical provider makes an error that causes real harm, understanding your options under California's MICRA rules matters early. LawProactive connects you, at no cost, with an independent attorney who handles medical malpractice cases in Marin County."
+  },
+  "about": {
+    "title": "Mill Valley Medical Malpractice Claims",
+    "longDescription": "Mill Valley residents rely on a mix of small clinics, specialists, and larger Marin County health systems, and most visits go exactly as they should. But when a diagnosis is missed, a medication is dosed incorrectly, or a surgical step goes wrong, the aftermath can be disorienting — especially figuring out whether what happened was a bad outcome or actual malpractice. California law draws a real distinction between the two, and a qualified medical expert almost always has to weigh in before a claim can move forward. LawProactive doesn't practice law or evaluate your medical records ourselves; we simply connect you, free of charge, with an independent attorney in our network who can review what happened and explain whether MICRA's notice and filing deadlines apply to your situation. If you're a Mill Valley patient trying to make sense of a difficult outcome, getting informed early — before evidence or memories fade — tends to matter more than people expect.",
+    "commonInjuriesTitle": "Injuries That Often Prompt a Malpractice Review",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to treat a stroke or infection in time"
+    ],
+    "ctaText": "Get connected with an independent malpractice attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Mill Valley Patients Should Know Before Moving Forward",
+    "items": [
+      {
+        "title": "MICRA's Clock Starts Sooner Than You'd Think",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to bring a claim. Waiting to see if things improve can quietly cost you your window."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can be filed in California, the provider typically must receive 90 days' written notice. An attorney can help make sure this step doesn't get missed or mishandled."
+      },
+      {
+        "title": "Expert Review Isn't Optional",
+        "desc": "Almost every California malpractice case requires a qualified medical expert to confirm the care fell below the accepted standard. A bad result by itself isn't proof of malpractice, which is why this step matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a poor outcome at a Marin County clinic — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law requires showing that a provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney, working with a medical expert, can help evaluate whether your case meets that bar."
+      },
+      {
+        "question": "How long do I have to act after something goes wrong in Mill Valley?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the harm, and no more than three years from the date of the injury. There's also a required 90-day notice period before filing suit, so earlier conversations tend to preserve more options."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "California's MICRA law caps non-economic damages, though that cap rises each year under current law. Economic damages, like medical bills and lost income, are generally handled separately. An attorney can walk through how this applies to your specific circumstances."
+      }
+    ]
+  }
+}

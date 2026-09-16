@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "santee workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santee Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Santee, CA? Get connected free with an independent attorney who reviews third-party workplace injury claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a job site injury in Santee involves more than just your employer, a third-party claim may be worth exploring alongside your workers' comp case. LawProactive connects you free with an independent attorney to sort out your options."
+  },
+  "about": {
+    "title": "Santee Workplace Injury Claims",
+    "longDescription": "Santee's mix of light industrial parks, retail centers, and construction along corridors like Mission Gorge Road and SR-52 means workers face real risks from delivery vehicles, equipment, and property hazards. Most workplace injuries in California route through workers' compensation, which pays medical costs and partial wages regardless of fault, but shuts out claims against your employer. That's not always the end of the story. If a subcontractor, property owner, equipment manufacturer, or another driver on the road contributed to your injury, a separate third-party claim may let you pursue additional compensation beyond what workers' comp covers. LawProactive doesn't practice law ourselves; we simply connect injured Santee workers with independent attorneys who can review the facts of a job-related incident and explain whether a third-party angle applies. There's no cost to find out, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Injuries from defective tools or machinery",
+      "Struck-by incidents involving forklifts or delivery trucks",
+      "Repetitive strain and overexertion injuries",
+      "Electrical shocks or burns on job sites",
+      "Injuries caused by a negligent subcontractor or property owner"
+    ],
+    "ctaText": "Find out if a third-party claim applies to your workplace injury."
+  },
+  "whyChoose": {
+    "title": "Why Santee Workers Look Into Third-Party Claims",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Full Picture",
+        "desc": "California treats workers' comp as the usual exclusive remedy against your employer, but it doesn't shield outside parties whose negligence contributed to your injury."
+      },
+      {
+        "title": "The 30-Day Report Window Matters Early",
+        "desc": "Reporting your injury to your employer within 30 days protects your workers' comp rights, and an attorney can help make sure that doesn't interfere with a separate third-party claim."
+      },
+      {
+        "title": "Retaliation Is Illegal, So You Can Ask Questions",
+        "desc": "California law prohibits employers from punishing you for reporting a workplace injury, which means you're free to explore whether a third party bears responsibility too."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a Santee job site by equipment a subcontractor brought in. Can I file a claim beyond workers' comp?",
+        "answer": "Possibly. If a subcontractor's negligence caused or contributed to your injury, that may open a separate third-party claim outside the workers' comp system. An independent attorney can review the details, including who owned or operated the equipment, and explain your options."
+      },
+      {
+        "question": "How long do I have to bring a third-party workplace injury claim in California?",
+        "answer": "Third-party injury claims generally carry a two-year deadline from the date of the incident. This is separate from the 30-day window for reporting an injury to your employer for workers' comp purposes, so both timelines matter."
+      },
+      {
+        "question": "I was hurt driving for work near Mission Gorge Road or SR-52. Does that count as a workplace injury?",
+        "answer": "It can, especially if another driver's negligence played a role in the collision while you were performing job duties. Situations like this often involve both a workers' comp claim and a potential third-party claim against the other driver, which is worth having reviewed."
+      }
+    ]
+  }
+}

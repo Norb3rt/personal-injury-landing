@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "eureka medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Eureka Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Eureka? Get connected free with an independent Humboldt County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Eureka went wrong, LawProactive can connect you with an independent attorney who handles Humboldt County medical malpractice claims at no upfront cost."
+  },
+  "about": {
+    "title": "Eureka Medical Malpractice Claims",
+    "longDescription": "When a trip to a Eureka clinic or a stay at a local hospital leads to a preventable injury, it's natural to wonder whether something went wrong beyond bad luck. Medical malpractice cases are different from most personal injury matters — California requires a qualified medical expert to review the care given before a claim can move forward, and strict notice rules apply before a lawsuit is filed. Humboldt County residents dealing with a missed diagnosis, a surgical mistake, medication error, or a birth injury often aren't sure where to start or whether their situation even qualifies. LawProactive doesn't practice law or evaluate your medical records ourselves; we simply connect you, free of charge, with an independent attorney in our network who focuses on malpractice claims and can walk through what happened, what the timeline requires, and whether the case is worth pursuing further. There's no obligation, and no cost unless the attorney recovers something on your behalf.",
+    "commonInjuriesTitle": "Common Situations We See Referred",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or treat a hospital patient"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Eureka Patients Should Know Before Waiting",
+    "items": [
+      {
+        "title": "The Clock Starts Sooner Than You'd Think",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to bring a claim — waiting to 'see how you heal' can quietly cost you your case."
+      },
+      {
+        "title": "A 90-Day Notice Comes Before Any Lawsuit",
+        "desc": "State law requires sending the healthcare provider formal notice at least 90 days before filing suit, which means the process needs to start well ahead of any court deadline."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A qualified medical expert generally has to confirm the care fell below the accepted standard — a bad result alone, even a difficult one, isn't enough on its own to prove malpractice."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery at a Eureka hospital — is that automatically malpractice?",
+        "answer": "Not necessarily. California law recognizes that medicine carries inherent risk, so a poor result alone doesn't establish malpractice. What typically matters is whether the care given fell below the accepted medical standard, which is why a qualified expert review is usually needed before a claim can proceed."
+      },
+      {
+        "question": "How much time do I have to file a claim in Humboldt County?",
+        "answer": "Generally, California gives you one year from when you discover the injury, but no more than three years from when it happened, to bring a claim. There's also a requirement to send 90 days' notice to the provider before filing suit, so it's worth getting an evaluation sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I could recover for pain and suffering?",
+        "answer": "Yes — California's MICRA law places a cap on non-economic damages, though that cap has been rising each year under recent changes to the statute. An independent attorney can explain how the current cap and your specific losses might factor into your situation."
+      }
+    ]
+  }
+}

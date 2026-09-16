@@ -1,5 +1,34 @@
+import { promises as fs } from 'fs';
+import path from 'path';
 import { supabaseServer } from '@/lib/supabase-server';
 import { StateDataLoader } from '@/lib/data/state-loader';
+
+/**
+ * Generated per-city uniqueness content, committed to the repo at
+ * data/content/<state>/<city>[/<practice>].json. This is the anti-duplicate-content
+ * baseline. It merges ABOVE the Default/State templates but BELOW the City Override
+ * (renter/admin edits in Supabase always win). Returns a partial PageContent or null.
+ * See docs/content-uniqueness-plan.md.
+ */
+export async function getStaticContentOverride(
+  stateSlug: string,
+  citySlug: string,
+  practiceSlug: string | null = null
+): Promise<any | null> {
+  try {
+    const base = path.join(process.cwd(), 'data', 'content', stateSlug.toLowerCase());
+    const file = practiceSlug
+      ? path.join(base, citySlug.toLowerCase(), `${practiceSlug.toLowerCase()}.json`)
+      : path.join(base, `${citySlug.toLowerCase()}.json`);
+    const raw = await fs.readFile(file, 'utf-8');
+    const data = JSON.parse(raw.replace(/^﻿/, ''));
+    // Drop private meta before merging into the render config.
+    if (data && typeof data === 'object') delete (data as any)._meta;
+    return data;
+  } catch {
+    return null;
+  }
+}
 
 // Types definition for programmatic SEO content sections
 export interface PageContent {
@@ -279,6 +308,14 @@ export async function getMergedPageConfig(
       if (statePracticeOverride && statePracticeOverride.sections) {
         mergedSections = deepMerge(mergedSections, statePracticeOverride.sections);
       }
+    }
+
+    // 4.5 Generated per-city uniqueness content (committed JSON). Sits above the
+    // Default/State templates but below the City-level overrides below, so a
+    // renter's City Override always wins. See docs/content-uniqueness-plan.md.
+    const staticContent = await getStaticContentOverride(stateSlug, citySlug, practiceSlug);
+    if (staticContent) {
+      mergedSections = deepMerge(mergedSections, staticContent);
     }
 
     // 5. Query City-Level General Override (specific state and city, practice_slug null)

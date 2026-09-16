@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "san-diego workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Attorney in San Diego, CA | LawProactive",
+    "metaDescription": "Hurt on the job in San Diego? LawProactive connects you free with an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "A job-site injury in San Diego can raise two separate questions: what workers' compensation owes you, and whether someone other than your employer should answer for what happened. We connect you, for free, with an independent attorney who can look at both."
+  },
+  "about": {
+    "title": "San Diego Workplace Injury Claims",
+    "longDescription": "San Diego runs on people who work with their hands and their feet: construction crews on job sites across the county, hotel and restaurant staff downtown, warehouse workers near I-805, delivery drivers threading El Cajon Boulevard and University Avenue all day. When one of them gets hurt, the first question is usually simple: who pays for this? In California, the answer starts with workers' compensation. It covers medical care and part of your lost wages no matter who was at fault, and in exchange it is typically the only claim you can bring against your own employer. That is not always the end of the story, though. If a subcontractor, a property owner, the maker of a faulty tool, or another driver played a role, a separate injury claim against that third party may be open to you. Sorting out which path applies, and whether both do, is where an independent attorney earns their keep. LawProactive is a free service that connects San Diego workers with one, at no cost to you.",
+    "commonInjuriesTitle": "Injuries We Commonly See in San Diego Workplace Claims",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and loading docks",
+      "Back and shoulder strains from lifting or repetitive motion",
+      "Crush and pinch injuries from machinery or equipment",
+      "Vehicle collisions while driving for work",
+      "Burns and chemical exposure",
+      "Hearing loss and other gradual occupational conditions"
+    ],
+    "ctaText": "Tell us what happened. We'll connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why San Diego Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We know where workers' comp stops",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but it does not shield a negligent subcontractor, property owner, equipment maker, or driver. The attorneys we connect you with evaluate whether a third-party claim exists alongside your comp case."
+      },
+      {
+        "title": "Deadlines handled early",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and any third-party claim carries its own two-year deadline. Getting connected quickly keeps both clocks from becoming a problem."
+      },
+      {
+        "title": "No fee unless you recover",
+        "desc": "LawProactive costs nothing, and the independent attorneys in our network work on contingency. If your case does not result in a recovery, you do not owe an attorney fee."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on I-5 while making deliveries for my employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were on the job, workers' compensation should cover your medical care and a portion of lost wages regardless of who caused the crash. If another driver was at fault, you may also have a separate injury claim against that driver, which is subject to California's two-year filing deadline. An attorney can coordinate the two so one does not undercut the other."
+      },
+      {
+        "question": "Can my San Diego employer fire me for reporting an injury?",
+        "answer": "No. Retaliating against a worker for reporting an injury or filing a workers' compensation claim is illegal in California. You should still report the injury to your employer within 30 days, ideally in writing, so there is a clear record of when and how it happened."
+      },
+      {
+        "question": "My employer says workers' comp is all I get. Is that always true?",
+        "answer": "Against your employer, usually yes; workers' compensation is generally the exclusive remedy, and fault does not matter. But if a third party contributed to your injury, such as a subcontractor on a shared job site, the owner of the property where you were working, or the manufacturer of defective equipment, a separate claim may be available. That is a question worth asking an independent attorney before assuming comp is the whole picture."
+      }
+    ]
+  }
+}

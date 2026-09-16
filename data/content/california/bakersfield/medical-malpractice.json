@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "bakersfield medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bakersfield Medical Malpractice Help | LawProactive",
+    "metaDescription": "Harmed by a medical error in Bakersfield? LawProactive connects Kern County patients with an independent malpractice attorney at no cost to you."
+  },
+  "hero": {
+    "subtitle": "If a hospital stay, surgery, or diagnosis in Bakersfield left you worse off than you should be, you deserve a clear answer about what happened. LawProactive connects Kern County patients with an independent medical malpractice attorney, free of charge."
+  },
+  "about": {
+    "title": "Bakersfield Medical Malpractice Claims",
+    "longDescription": "Most people in Bakersfield don't expect to question the care they receive. You go in for a procedure, a delivery, or a visit to the emergency department, and you trust the people in scrubs. When something goes wrong, the hardest part is often figuring out whether it was an unavoidable complication or a preventable mistake. California law draws that line carefully: a poor result by itself is not malpractice. What matters is whether a provider fell below the accepted standard of care and whether that failure caused real harm. Bakersfield's roughly 373,640 residents share the same local hospitals and clinics, and in 2025 alone 2,245 people were injured in city collisions, many of them treated in emergency rooms working under pressure. LawProactive is not a law firm. We are a free service that connects you with an independent attorney who handles medical negligence cases and can review your records, consult a qualified medical expert, and explain the MICRA deadlines that apply to your situation.",
+    "commonInjuriesTitle": "Harm Commonly Tied to Medical Negligence in Bakersfield",
+    "commonInjuries": [
+      "Missed or delayed cancer and stroke diagnoses",
+      "Surgical errors, including wrong-site procedures",
+      "Birth injuries affecting mother or child",
+      "Medication and dosage mistakes",
+      "Anesthesia complications",
+      "Infections and pressure injuries from inadequate hospital care"
+    ],
+    "ctaText": "Ask a Bakersfield malpractice attorney to review your records — free."
+  },
+  "whyChoose": {
+    "title": "Why Kern County Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Short",
+        "desc": "California generally gives you one year from the date you discovered the harm, and never more than three years from the injury itself. A 90-day notice must also go to the provider before a suit is filed, so early review matters."
+      },
+      {
+        "title": "A Medical Expert Is Almost Always Required",
+        "desc": "These cases nearly always need a qualified physician to explain how the care fell short. The attorneys in our network know how to find and work with the right specialist for your situation."
+      },
+      {
+        "title": "Know the Cap Before You Decide",
+        "desc": "California limits non-economic damages in malpractice cases, and that cap rises each year. An independent attorney can explain how the current limit applies to your claim and what is not subject to it."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My surgery in Bakersfield didn't go well. Is that automatically malpractice?",
+        "answer": "Not necessarily. Some complications happen even when everyone does their job correctly, and California law does not treat a bad outcome alone as negligence. A claim depends on showing that a provider departed from the accepted standard of care and that the departure caused your harm. An attorney will usually have a medical expert review your chart before giving you an opinion."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice claim in California?",
+        "answer": "Under MICRA, the general rule is one year from when you discovered, or reasonably should have discovered, the injury, with an outer limit of three years from the date the harm occurred. You also must give the provider written notice at least 90 days before filing suit. Because these windows can close quickly, it helps to speak with an attorney as soon as you suspect a problem."
+      },
+      {
+        "question": "Does LawProactive cost anything, and are you a law firm?",
+        "answer": "We are not a law firm and we do not charge you anything. LawProactive connects you with an independent attorney who handles medical malpractice cases in the Bakersfield area. Those attorneys work on contingency, meaning there is no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

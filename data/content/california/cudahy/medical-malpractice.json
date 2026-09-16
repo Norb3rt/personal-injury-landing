@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "cudahy medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Cudahy Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Cudahy? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or treatment went wrong at a Cudahy-area clinic or hospital, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's specific rules for these cases."
+  },
+  "about": {
+    "title": "Cudahy Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases carry a different set of rules than a typical injury claim, and that matters if something went wrong during your care in or near Cudahy. California's MICRA framework requires a 90-day notice before a lawsuit is filed, sets tight windows for bringing a claim, and almost always calls for a qualified medical expert to weigh in on what happened. A bad result from surgery or a missed diagnosis is not automatically malpractice — the law asks whether the care fell below an accepted medical standard. For residents in this densely populated pocket of Los Angeles County, getting a knowledgeable read on your situation early can matter, since the notice and filing deadlines move faster than people expect. LawProactive doesn't practice law itself; we simply connect you, at no cost, with an independent attorney experienced in evaluating these claims so you can understand your options.",
+    "commonInjuriesTitle": "Types of Medical Errors We See Referred",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or treat a known condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why This Matters in Cudahy",
+    "items": [
+      {
+        "title": "Deadlines Move Fast",
+        "desc": "California generally gives one year from when you discover the harm, capped at three years from the injury, and a 90-day pre-suit notice must go out before a lawsuit can even be filed. Missing these steps can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad outcome alone doesn't prove malpractice, a qualified medical expert typically has to confirm the care fell below an accepted standard. An attorney familiar with this process can help line up that kind of review."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "California law places a statutory limit on non-economic damages in these cases, and that cap increases each year. Understanding where the current cap stands is one reason to get an informed opinion on your specific situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover (or reasonably should have discovered) the injury, but no more than three years from the date it happened. A 90-day notice to the healthcare provider is also required before filing suit. These timelines can be tricky, so it's worth having someone review your specific dates."
+      },
+      {
+        "question": "Is every bad medical outcome considered malpractice?",
+        "answer": "No. California law requires showing that the care you received fell below the accepted standard for that type of treatment, not just that the result was disappointing or painful. That's why a qualified medical expert is almost always brought in to evaluate the case."
+      },
+      {
+        "question": "I live in Cudahy — does it matter where my treatment happened?",
+        "answer": "What matters most is where the care was provided and which healthcare facility or provider was involved, not simply your home address. If your treatment occurred at a clinic or hospital serving the Cudahy area, an independent attorney can look into the details of that specific provider and the care you received."
+      }
+    ]
+  }
+}

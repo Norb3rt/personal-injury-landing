@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "grass-valley workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Grass Valley Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Grass Valley? Get connected free with an independent CA attorney about work comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "If a workplace accident sidelined you in Grass Valley, LawProactive can connect you at no cost with an independent attorney who understands both workers' comp and third-party claims. We'll help you sort out your options without adding to your stress."
+  },
+  "about": {
+    "title": "Grass Valley Workplace Injury Claims",
+    "longDescription": "Grass Valley's economy runs on a mix of small businesses, contractors, warehouses, and service work scattered along corridors like SR-49 and S Auburn Street, and injuries on the job here happen in all kinds of settings — construction sites, retail stockrooms, delivery routes, and more. In California, workers' comp is generally the only path against your employer, but if a subcontractor, property owner, or equipment maker contributed to your accident, a separate third-party claim may be possible alongside your comp benefits. That distinction matters, and it's easy to miss without guidance. LawProactive doesn't practice law or handle your paperwork; we simply connect you with an independent attorney who can look at what happened, explain your options, and help you understand deadlines that apply to any third-party claim. There's no cost to talk it through, and no obligation once you do.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connections For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Equipment and machinery-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Struck-by or caught-in-between accidents",
+      "Chemical exposure or respiratory injuries"
+    ],
+    "ctaText": "Connect free with an independent attorney about your workplace injury."
+  },
+  "whyChoose": {
+    "title": "Why Grass Valley Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Help Sort Comp From Third-Party Claims",
+        "desc": "Workers' comp is usually your only remedy against your employer, but a negligent third party like a subcontractor or equipment maker may still owe you separately. An attorney can help determine if that applies to your situation."
+      },
+      {
+        "title": "We Understand the Clock Is Ticking",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and any third-party claim carries its own two-year deadline in California. Missing either window can limit your options, so timing matters."
+      },
+      {
+        "title": "We Know Retaliation Concerns Are Real",
+        "desc": "California law prohibits employer retaliation for reporting an injury or filing a claim. If you're worried about your job, an independent attorney can explain your protections plainly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near SR-20 or S Auburn Street — does that change anything?",
+        "answer": "It might. If another driver caused the crash while you were on the job, you could have both a workers' comp claim and a separate third-party injury claim against that driver. An independent attorney can look at the specifics and explain how the two claims might work together."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury in Grass Valley?",
+        "answer": "No — California law makes it illegal for an employer to retaliate against you for reporting an injury or filing a workers' comp claim. If you're experiencing pushback, it's worth discussing with an attorney sooner rather than later."
+      },
+      {
+        "question": "What if my injury happened because of faulty equipment, not my employer's actions?",
+        "answer": "Workers' comp typically covers you regardless of fault, but if a third party like an equipment manufacturer or a subcontractor's negligence contributed to the accident, you may have an additional claim outside the comp system. That claim carries its own two-year deadline, so it's worth exploring promptly."
+      }
+    ]
+  }
+}

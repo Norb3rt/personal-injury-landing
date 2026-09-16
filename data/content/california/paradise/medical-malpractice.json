@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "paradise medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Paradise Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Paradise, CA? LawProactive connects you free with an independent attorney familiar with MICRA rules and deadlines."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in Paradise goes wrong, the aftermath can be confusing and isolating. LawProactive can connect you at no cost with an independent attorney who understands how California's medical malpractice rules apply to your situation."
+  },
+  "about": {
+    "title": "Paradise Medical Malpractice Claims",
+    "longDescription": "Paradise residents rely on a limited set of nearby medical providers, and when something goes wrong during treatment, patients and families are often left with more questions than answers. Butte County's smaller population means fewer specialists and hospitals, which can make it harder to piece together exactly what happened during a procedure or hospital stay. California's MICRA law governs these cases closely, from strict filing deadlines to a requirement that a qualified medical expert weigh in on whether the care fell below an acceptable standard. A bad result from treatment isn't automatically malpractice — the law requires proof that a provider's actions fell short of what a reasonably careful professional would have done. If you believe an error during care in Paradise caused you harm, LawProactive can connect you with an independent attorney, free of charge, to help you understand your options and the timeline you're working within.",
+    "commonInjuriesTitle": "Situations We Commonly See",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia errors during a procedure",
+      "Hospital-acquired infections from poor sanitation practices"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Understanding MICRA Matters",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives you one year from when you discover the injury, but never more than three years from when it happened. A 90-day pre-suit notice to the provider is also required before a lawsuit can move forward."
+      },
+      {
+        "title": "A Cap That Changes Yearly",
+        "desc": "Non-economic damages in medical malpractice cases are subject to a statutory cap that rises each year under MICRA. An attorney can explain how the current cap year applies to your circumstances."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "California law generally requires a qualified medical expert to establish that a provider's care fell below the accepted standard. Without that review, even a serious injury may not meet the legal bar for malpractice."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome from a procedure in Paradise — is that automatically malpractice?",
+        "answer": "Not necessarily. California law recognizes that medicine carries inherent risk, so a poor result alone doesn't prove negligence. What matters is whether the care you received fell below what a reasonably careful provider would have done, which usually requires a medical expert's opinion."
+      },
+      {
+        "question": "How long do I have to bring a claim after treatment at a local Butte County provider?",
+        "answer": "Generally, you have one year from when you discover the injury, and no more than three years from when it occurred, whichever comes first. There's also a 90-day notice requirement before filing suit, so it's important to act promptly once you suspect something went wrong."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and attorneys in the network typically work on contingency, meaning there's no fee unless you recover compensation. We simply help connect you with someone who can evaluate your situation."
+      }
+    ]
+  }
+}

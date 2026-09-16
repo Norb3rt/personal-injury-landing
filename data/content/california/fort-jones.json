@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "fort-jones city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fort Jones, CA Personal Injury Help | Free Connection",
+    "metaDescription": "Injured in Fort Jones? Siskiyou County residents get 2 years to file. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash, a broken bone, or something more serious from a crash near Fort Jones, we can connect you with an independent attorney at no cost. We serve residents throughout Siskiyou County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Fort Jones, California",
+    "longDescription": "Fort Jones sits along Rt 3 and SR-3, with Main Street and the stretch near 11300 Highway 3 carrying much of the town's local traffic. In the most recent final reporting year, Fort Jones recorded zero injury collisions, zero people injured, and zero traffic deaths — a snapshot that reflects the town's small size and low traffic volume, though collisions can still happen on any given day, particularly around Friday midday hours when public records show reports tend to cluster. If you or someone you love has been hurt in a crash, a fall, or another type of accident in or around Fort Jones, LawProactive can help. We are a free service that connects injured people with an independent personal injury attorney in our network — we are not a law firm, and we don't charge you anything to make the connection. Attorneys we work with take cases on contingency, meaning there's no fee unless you recover compensation. You focus on getting better; let us handle finding you someone who can walk through your options and your rights under California law.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Emotional distress following a serious accident"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an attorney who can review what happened."
+  },
+  "whyChoose": {
+    "title": "Why It Helps to Understand California Law",
+    "items": [
+      {
+        "title": "Your Filing Window Is Limited",
+        "desc": "California generally gives injured people two years from the date of the accident to file a personal injury claim. If a government entity like a city or county road department was involved, that window can shrink to as little as six months, so acting sooner rather than later matters."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows a pure comparative fault rule, meaning even if you were partly responsible for what happened, you can still recover compensation — it's simply reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California doesn't limit how much you can recover for non-economic harm like pain, suffering, or loss of enjoyment of life."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. That means the connection through LawProactive costs you nothing either."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if you can afford to hire an attorney at all",
+      "Feeling unsure whether the accident was partly your fault and if that ruins your case",
+      "Fear that you're running out of time to do anything about what happened"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Fort Jones?",
+        "answer": "Under California law, you generally have two years from the date of the accident to file a lawsuit for most personal injury claims. If your accident involved a government entity, such as a public road issue, that deadline can be much shorter — sometimes just six months. It's wise to talk to an attorney as soon as possible to avoid missing your window."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means being partially at fault doesn't prevent you from recovering compensation. Your recovery amount would simply be reduced by whatever percentage of fault is assigned to you. An attorney can help you understand how this might apply to your specific situation."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Fort Jones?",
+        "answer": "Public collision records show that reported crashes in Fort Jones tend to peak on Fridays between roughly 12 p.m. and 2 p.m., with counts concentrated along corridors like Rt 3, SR-3, Main Street, and the area near 11300 Highway 3. These are simply neutral count patterns from public records, not a judgment about any road's safety."
+      },
+      {
+        "question": "Does LawProactive charge any fees?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent attorneys — we are not a law firm and we don't charge for the connection. Any attorney you're matched with typically works on contingency, meaning they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases in California, there's no cap on non-economic damages like pain and suffering. This differs from some other states, and it's one reason it can help to speak with an attorney familiar with California law about your specific damages."
+      }
+    ]
+  }
+}

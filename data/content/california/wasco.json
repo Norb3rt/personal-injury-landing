@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "wasco city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Wasco, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Wasco or Kern County? Free connection to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident has left you hurt, we can connect you with an independent attorney serving Kern County — free of charge, with no obligation."
+  },
+  "about": {
+    "title": "Personal Injury Help in Wasco, California",
+    "longDescription": "Wasco sits along a busy stretch of Kern County agricultural country, where Rt 46 and Rt 43 carry heavy truck and commuter traffic through town and cross local streets like F Street and Palm Avenue. In the most recent reporting year, Wasco recorded 17 injury collisions, leaving 28 people hurt and 2 people dead. Those numbers reflect real neighbors, farmworkers, and families who didn't expect their day to end at a hospital or in a body shop parking lot. If you or someone close to you was hurt in a crash on these roads, or in a fall, workplace incident, or other accident anywhere in Wasco, you likely have questions about medical bills, lost wages, and what happens next. LawProactive is a free service — we are not a law firm — that connects injured people with an independent personal injury attorney in the area. There's no cost to ask questions, and attorneys in our network only get paid if you recover compensation. You don't have to sort through this alone, and you don't have to guess at your options before finding out what they actually are.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Wasco Accidents",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring surgery or physical therapy"
+    ],
+    "ctaText": "Find out where you stand — reach out for a free, no-pressure connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "What Injured Wasco Residents Should Know",
+    "items": [
+      {
+        "title": "You Have Limited Time to Act",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, though claims against a government agency can require notice in as little as six months. Waiting too long can close the door on compensation entirely."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Ordinary California injury cases carry no cap on non-economic damages like pain, suffering, and loss of enjoyment of life. This matters when an injury changes your daily routine, not just your bank account."
+      },
+      {
+        "title": "No Upfront Cost to Get Help",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. That structure lets you pursue answers without adding financial risk while you're already dealing with medical bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if the insurance adjuster's offer is fair",
+      "Feeling unsure whether you're partly at fault and if that ruins your claim",
+      "Not knowing how much time you actually have before it's too late"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We don't represent you directly, and there's no charge to use our connection service."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Wasco?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a claim. If your claim involves a government entity, such as a city road or public vehicle, that window can be as short as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California's pure comparative fault rule means you can still pursue compensation even if you share some blame. Your recovery would be reduced by your percentage of fault, but it isn't automatically barred."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Wasco?",
+        "answer": "Public collision records show higher counts along corridors like Rt 46, Rt 43, F Street, and Palm Avenue, with reported crashes tending to peak on Sundays between 3 and 5 p.m. These are simply recorded patterns, not a judgment about any particular road or area."
+      },
+      {
+        "question": "Will I owe money if I talk to an attorney through LawProactive?",
+        "answer": "Reaching out to LawProactive costs nothing, and attorneys in our network work on a contingency basis. That means they're only paid if your case results in a settlement or award, so there's no upfront fee to explore your options."
+      }
+    ]
+  }
+}

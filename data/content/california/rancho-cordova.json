@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "rancho-cordova city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rancho Cordova, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Rancho Cordova? Connect free with an independent injury attorney serving Sacramento County. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Car crashes, falls, bicycle collisions, and other injuries can upend life fast. LawProactive connects Rancho Cordova residents with an independent personal injury attorney serving Sacramento County, free of charge."
+  },
+  "about": {
+    "title": "Personal Injury Help in Rancho Cordova, California",
+    "longDescription": "Rancho Cordova sits along the Highway 50 corridor east of Sacramento, and its 71,017 residents share the road every day with commuters passing through toward Folsom and downtown. That mix shows up in the public record. In 2025, the last complete reporting year, the city logged 292 injury collisions, with 426 people hurt and 9 lives lost. Collision counts run highest along Sunrise Boulevard, Zinfandel Drive, Coloma Road, and Folsom Boulevard, and Thursday evenings between 5 and 7 p.m. tend to see the largest cluster of reports. Those figures are simply what the record shows; behind each one is a person dealing with pain, paperwork, and a lot of unanswered questions. That is where LawProactive fits in. We are a free service, not a law firm. When you reach out, we connect you with an independent personal injury attorney who handles cases in Sacramento County and works on contingency, meaning there is no fee unless there is a recovery. You do not need to know whether your situation qualifies before you call. Whether you were rear-ended at a Sunrise Boulevard light, hit while crossing Folsom Boulevard, or injured somewhere else entirely, the first conversation is about hearing what happened and laying out your options in plain language.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Rancho Cordova",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken bones from car, motorcycle, or bicycle crashes",
+      "Back and spinal injuries",
+      "Slip-and-fall injuries at stores and apartment complexes",
+      "Pedestrian injuries at crosswalks and parking lots"
+    ],
+    "ctaText": "Tell us what happened. The connection is free, and there is no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Rancho Cordova Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "The clock matters in California",
+        "desc": "Most injury claims here must be filed within two years, and claims against a city, county, or state agency can require notice in as little as six months. Getting connected early helps protect that window."
+      },
+      {
+        "title": "Partly at fault? You can still recover",
+        "desc": "California follows pure comparative fault. If you share some of the blame, your recovery is reduced by your percentage, but it is not wiped out."
+      },
+      {
+        "title": "No arbitrary ceiling on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, distress, and loss of enjoyment of life. An attorney can explain how that applies to your situation."
+      },
+      {
+        "title": "Nothing out of pocket to get started",
+        "desc": "LawProactive is free, and the attorneys in our network work on contingency. That means no fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say",
+      "My medical bills are piling up while I'm out of work",
+      "I'm not sure if the crash was partly my fault",
+      "I don't know how long I have before it's too late to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions tend to cluster in Rancho Cordova?",
+        "answer": "Public collision records for 2025 show the highest counts along Sunrise Boulevard, Zinfandel Drive, Coloma Road, and Folsom Boulevard. Reports also peak on Thursdays between 5 p.m. and 7 p.m. These are neutral counts from the record, not a judgment about any particular street, and an injury anywhere in the city can be reviewed."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California gives you two years from the date of the injury. If a government entity is involved, such as a city vehicle or a hazard on public property, the deadline to give notice can be as short as six months. Because those timelines vary, it helps to speak with an attorney sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system. Your recovery is reduced by your share of the blame, but being partly at fault does not bar you from recovering. An attorney can look at the facts and explain how fault might be assigned in your case."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not represent you ourselves; the attorney you are connected with handles your case directly."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing to get connected. The attorneys in our network work on contingency, so there is no fee unless there is a recovery in your case. You can ask about fee details directly during your first conversation."
+      }
+    ]
+  }
+}

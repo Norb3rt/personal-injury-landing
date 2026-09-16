@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "kingsburg city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Kingsburg, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Kingsburg or Fresno County? Connect free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether it's a rear-end collision on Sierra Street or a fall that left you hurt, we can connect you with an independent personal injury attorney at no cost, serving Kingsburg and all of Fresno County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Kingsburg, California",
+    "longDescription": "Kingsburg is a small, tight-knit community, but that doesn't mean its roads are free of risk. In the most recent reporting year, Kingsburg saw 20 injury collisions that left 30 people hurt, along with 2 traffic deaths. Corridors like Mountain View Avenue, Sierra Street, Simpson Street, and Draper Street carry a good share of the town's daily traffic, and public crash records show these are among the higher-volume locations for reported collisions. If you or someone you love was hurt in a crash on one of these streets, or anywhere else in town, you may be dealing with medical bills, missed work, and a lot of uncertainty about what comes next. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm ourselves, and we never charge you a fee. The attorneys in our network work on contingency, meaning they only get paid if you recover compensation. Reaching out costs nothing and can help you understand your options while evidence and memories are still fresh.",
+    "commonInjuriesTitle": "Common Injuries We Help Connect People For",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring physical therapy or surgery"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon After a Kingsburg Crash",
+    "items": [
+      {
+        "title": "California's Two-Year Filing Window",
+        "desc": "Most injury claims in California must be filed within two years of the incident, though claims against a government entity can require notice in as little as six months. Acting early helps preserve your right to pursue compensation."
+      },
+      {
+        "title": "Partial Fault Won't Bar Your Claim",
+        "desc": "California follows pure comparative fault, so even if you share some responsibility for a crash, you can still recover damages — reduced by your percentage of fault. An attorney can help evaluate how fault might apply in your situation."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "Unlike some states, California places no cap on non-economic damages, such as pain and suffering, in ordinary personal injury cases. This can matter significantly in cases involving serious or lasting injuries."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning you pay nothing upfront and owe no attorney fees unless there's a financial recovery in your case. This makes it possible to get legal help regardless of your current financial situation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while unable to work",
+      "Not knowing whether the insurance settlement offer is fair",
+      "Feeling pressured by insurance adjusters to settle quickly",
+      "Uncertainty about how long the legal process will take"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Kingsburg?",
+        "answer": "In California, you generally have two years from the date of the injury to file a personal injury lawsuit. If a government entity is involved, such as a city vehicle or road defect, the deadline to file a claim can be as short as six months, so it's wise to act quickly."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you were partially responsible for the accident. Your total recovery would be reduced by your percentage of fault, but it wouldn't be barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Kingsburg?",
+        "answer": "Public crash records show that Mountain View Avenue, Sierra Street, Simpson Street, and Draper Street have higher collision counts compared to other roads in town, with reported crashes tending to peak on Fridays between 3 and 5 p.m. This is simply a reflection of traffic volume and reporting patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge any fees?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We are not a law firm, and the attorneys in our network work on contingency, meaning they only collect a fee if you recover compensation."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary California personal injury cases, there's no cap on non-economic damages like pain and suffering. This differs from some other types of claims, such as medical malpractice, so it's worth discussing the specifics of your case with an attorney."
+      }
+    ]
+  }
+}

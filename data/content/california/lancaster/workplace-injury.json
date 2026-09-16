@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "lancaster workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lancaster Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Lancaster, CA? LawProactive is a free service that connects workers with an independent injury attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Injured at work in Lancaster? Workers' compensation may not be your only option, and a free conversation with an independent attorney can help you see the whole picture."
+  },
+  "about": {
+    "title": "Lancaster Workplace Injury Claims",
+    "longDescription": "Lancaster sits at the north end of Los Angeles County, and many of its 161,103 residents earn a living with their hands, their vehicles, or both. Warehouses, job sites, and delivery routes along Avenue I and Avenue K each bring their own ways of getting hurt. When that happens, most people hear one thing: file for workers' compensation. That advice is right as far as it goes. Comp pays for medical care and part of your wages no matter who was at fault, and it is usually the only claim you can bring against your own employer. What often gets left out is the second half of the picture. If a subcontractor, a property owner, a defective machine, or another driver caused your injury, California allows a separate claim against that third party. In 2025, Lancaster logged 1,051 injury collisions and 1,723 people hurt, and some of them were on the clock. LawProactive is a free service that connects you with an independent attorney who can weigh both paths, with no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Lancaster",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, or loading docks",
+      "Back and shoulder strains from lifting or repetitive motion",
+      "Crush and pinch injuries from machinery or forklifts",
+      "Collisions while driving a company or delivery vehicle",
+      "Burns, electrical shocks, and chemical exposure",
+      "Heat-related illness during outdoor summer work"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Lancaster Workers Use LawProactive",
+    "items": [
+      {
+        "title": "Someone who looks past the comp claim",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but it does not cover a negligent subcontractor, property owner, equipment maker, or driver. The attorneys in our network check whether a third-party claim exists alongside your comp case."
+      },
+      {
+        "title": "Help meeting the deadlines that matter",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and any third-party claim generally carries a two-year filing window. An early connection means those clocks are watched from the start."
+      },
+      {
+        "title": "Protection if your employer pushes back",
+        "desc": "Retaliating against a worker for reporting an injury or filing a claim is illegal in California. An independent attorney can explain your rights if hours are cut, duties change, or a termination follows your report."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on Sierra Highway while making deliveries for my employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, your medical bills and lost wages are typically handled through workers' compensation regardless of who caused the crash. If the other driver was at fault, you may also have a separate injury claim against that driver, which is subject to California's two-year deadline. Reported crashes in Lancaster tend to cluster on Fridays between 5 p.m. and 7 p.m., a window when many drivers are still on shift."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most situations, no. Workers' compensation is the exclusive remedy against your employer, which means you receive benefits without proving fault but generally give up the right to sue them. The exception is when someone other than your employer contributed to the injury, such as a subcontractor on a job site or the maker of a defective tool. An attorney can review whether that applies to you."
+      },
+      {
+        "question": "How quickly do I need to report a work injury?",
+        "answer": "California asks you to notify your employer within 30 days of the injury or of learning it was work-related. Waiting longer can complicate or delay your comp benefits. Reporting early also creates a record that supports any third-party claim later on, and it is illegal for your employer to punish you for speaking up."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "dublin product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dublin Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Dublin, CA? LawProactive connects you free with an independent attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a faulty product injures a Dublin resident or visitor along Dublin Boulevard or beyond, sorting out who's responsible can feel overwhelming. LawProactive helps you connect with an independent attorney who handles these claims, at no cost to you upfront."
+  },
+  "about": {
+    "title": "Dublin Product Liability Claims",
+    "longDescription": "Defective products cause injuries everywhere, and Dublin — home to over 57,000 residents and busy corridors like Dublin Boulevard, Dougherty Road, and Tassajara Road — is no exception. Whether it's a malfunctioning car part that contributes to a crash, a household appliance that overheats, or a piece of equipment that fails during ordinary use, the injuries can be serious and the path to answers unclear. California law generally allows injured people to pursue a claim under strict liability, meaning you don't have to prove the manufacturer was careless — only that the product was defective and that the defect caused harm. LawProactive isn't a law firm, but we connect Dublin residents with independent attorneys who understand these claims and work on contingency, so there's no fee unless you recover. If a defective product has affected your life, it helps to talk with someone who can walk through your options with you.",
+    "commonInjuriesTitle": "Common Injuries From Defective Products",
+    "commonInjuries": [
+      "Burns from overheating or exploding devices",
+      "Lacerations from faulty tools or machinery",
+      "Traumatic brain injuries from equipment failures",
+      "Broken bones from collapsing furniture or structures",
+      "Chemical exposure or poisoning from mislabeled products",
+      "Injuries from vehicle parts that fail unexpectedly"
+    ],
+    "ctaText": "Connect with an independent attorney about your product liability claim — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Product Liability Claim",
+    "items": [
+      {
+        "title": "Strict Liability May Apply",
+        "desc": "California law often allows claims based on strict liability, meaning you may not need to prove the manufacturer was negligent — just that the product was defective and caused your injury."
+      },
+      {
+        "title": "Multiple Parties Can Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, and an attorney can help identify who is responsible in your specific situation."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "Keeping the defective product itself, along with packaging and receipts, can be important evidence — an attorney can advise you on how to protect it properly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What counts as a defective product under California law?",
+        "answer": "California recognizes three types of defects: design defects, manufacturing defects, and failure-to-warn defects. A product can be considered defective if it was designed unsafely, made incorrectly during production, or lacked adequate warnings about known risks. An attorney can help evaluate which category applies to your situation."
+      },
+      {
+        "question": "Do I need to prove the manufacturer was negligent?",
+        "answer": "Not necessarily. Many California product liability claims proceed under strict liability, which focuses on whether the product was defective and caused harm rather than whether the manufacturer acted carelessly. This can make the legal path more straightforward in certain cases."
+      },
+      {
+        "question": "I was hurt by a product near Dublin Boulevard — does that matter for my claim?",
+        "answer": "Where the injury happened in Dublin isn't usually the central issue in a product liability claim — what matters more is the product itself and how it failed. Still, if the incident involved a vehicle collision along a corridor like Dublin Boulevard or Dougherty Road, that context can be relevant. An attorney can help sort out which laws and facts apply to your specific case."
+      }
+    ]
+  }
+}

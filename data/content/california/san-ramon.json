@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "san-ramon city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Ramon, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in San Ramon or elsewhere in Contra Costa County? You have 2 years to file. Connect free with an independent injury attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Car crashes on I-680, falls at a Bishop Ranch office park, a bike collision on Bollinger Canyon Road — if you were hurt in San Ramon, we connect you with an independent personal injury attorney at no cost. Serving all of Contra Costa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Ramon, California",
+    "longDescription": "San Ramon sits along the I-680 corridor in Contra Costa County, and most of its residents drive it daily — to Bishop Ranch, to schools, to the shops off Crow Canyon Road. In 2025, the most recent finalized year of public records, the city logged 134 injury collisions. Those crashes left 185 people hurt and took one life. The corridors with the highest collision counts were Bollinger Canyon Road, I-680 Southbound, Crow Canyon Road, and San Ramon Valley Boulevard. Reported crashes tend to peak on Fridays between 5 p.m. and 7 p.m., right as the workweek lets out. A number on a spreadsheet is one thing. Recovering from a hospital visit, missing shifts, and fielding calls from an adjuster is another. That is where LawProactive comes in. We are a free service, not a law firm. We connect you with an independent personal injury attorney who handles cases in the San Ramon area, and you decide whether to move forward. There is no charge for the connection. If you do hire an attorney from our network, they work on contingency, so there is no fee unless there is a recovery. Whether you were rear-ended on Bollinger Canyon, knocked off a bike, or hurt on someone else's property, a clear conversation about your options costs nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From San Ramon Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones from bicycle and pedestrian crashes",
+      "Herniated discs and lower-back injuries",
+      "Knee and shoulder tears from slips and falls",
+      "Cuts, bruising, and soft-tissue damage that lingers for months"
+    ],
+    "ctaText": "Tell us what happened. The connection is free, and you choose what comes next."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your San Ramon Claim",
+    "items": [
+      {
+        "title": "The clock is real: two years for most claims",
+        "desc": "California gives most injured people two years from the date of injury to file a lawsuit. If a city, county, or state agency is involved — say, a crash with a municipal vehicle — a claim may need to be filed in as little as six months."
+      },
+      {
+        "title": "Partly at fault? You can still recover",
+        "desc": "California follows pure comparative fault. If you were 20 percent responsible, your recovery is reduced by 20 percent, not wiped out."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages in ordinary cases",
+        "desc": "For a typical injury claim in California, there is no statutory ceiling on non-economic damages like pain, lost enjoyment of life, or emotional distress. An attorney can help document what the injury has actually cost you beyond the medical bills."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in our network are paid only if there is a recovery. You do not write a check to get started, and our connection service is free regardless."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster keeps calling and I don't know what to say",
+      "I can't work right now and the bills are piling up",
+      "The other driver says the crash was partly my fault",
+      "I don't know if my injury is serious enough to bother an attorney about"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes tend to happen in San Ramon?",
+        "answer": "Public collision records for 2025 show the highest counts on Bollinger Canyon Road, I-680 Southbound, Crow Canyon Road, and San Ramon Valley Boulevard. Citywide, there were 134 injury collisions that year, with 185 people injured and one fatality. Reported crashes cluster on Fridays between 5 p.m. and 7 p.m. These are simply the corridors with the most traffic and the most recorded incidents."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date you were hurt. When a government entity is the responsible party, you may need to file an administrative claim within six months. Because these deadlines vary, it is worth speaking with an attorney early rather than waiting."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, so sharing some blame does not end your case. Your compensation is reduced in proportion to your share of responsibility. An attorney can help push back if an insurer is assigning you more fault than the facts support."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not give legal advice or represent you. Once connected, you speak directly with the attorney and decide for yourself whether to hire them."
+      },
+      {
+        "question": "What will it cost me to hire an attorney?",
+        "answer": "Our connection is free, and attorneys in our network work on contingency. That means there is no fee unless there is a recovery in your case. The attorney will explain the fee percentage and any case expenses before you sign anything."
+      }
+    ]
+  }
+}

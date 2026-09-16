@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "fullerton medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice in Fullerton, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Fullerton? LawProactive connects you, free, with an independent malpractice attorney who knows California's MICRA deadlines."
+  },
+  "hero": {
+    "subtitle": "When treatment in Fullerton leaves you worse off than you should be, sorting out what happened takes medical records, a qualified expert, and a clear grasp of California's MICRA rules. LawProactive connects you with an independent attorney at no cost to you."
+  },
+  "about": {
+    "title": "Fullerton Medical Malpractice Claims",
+    "longDescription": "Most medical care in Fullerton goes the way it should. Sometimes it does not, and the person left dealing with the consequences is rarely told why. A missed diagnosis at an urgent care off Harbor Boulevard, a surgical error, a medication mix-up during a hospital stay after one of the 734 injury collisions Fullerton recorded in 2025 — these situations raise a hard question: was this a poor result, or did a provider fall below the accepted standard of care? California draws that line carefully. A bad outcome by itself is not malpractice, and proving otherwise almost always requires a qualified medical expert to review the records. The timing rules under MICRA are also tight: generally one year from when you discovered the harm, and never more than three years from the injury, with a 90-day notice sent before any lawsuit is filed. LawProactive is not a law firm. We are a free service for Orange County residents that connects you with an independent malpractice attorney working on contingency — no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Questions",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Anesthesia complications",
+      "Birth injuries affecting mother or child",
+      "Failure to monitor or respond to changes in a patient's condition"
+    ],
+    "ctaText": "Ask a free question about your Fullerton care — we'll connect you with an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Fullerton Patients Reach Out Through LawProactive",
+    "items": [
+      {
+        "title": "MICRA's clock is shorter than most people expect",
+        "desc": "California generally allows one year from discovering the harm, and no more than three years from the injury, plus a 90-day notice before filing suit. Connecting early keeps those windows open."
+      },
+      {
+        "title": "An expert opinion, not a hunch",
+        "desc": "A qualified medical expert is almost always needed to show a provider fell below the standard of care. The independent attorneys in our network know how to get records reviewed properly."
+      },
+      {
+        "title": "Understanding the damages cap",
+        "desc": "California caps non-economic damages in malpractice cases, and that cap rises each year under MICRA. An attorney can explain how the current figure applies to your situation without overstating what a case may be worth."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at a Fullerton hospital after a crash on SR-57, and a mistake during my care made things worse. Is that part of my accident claim or a separate malpractice case?",
+        "answer": "It can be both, and they are handled differently. Injuries from the collision fall under ordinary personal injury rules, while harm caused by substandard medical care falls under MICRA, with its own deadlines, notice requirement, and damages cap. An attorney can look at the records and explain which parts belong where."
+      },
+      {
+        "question": "My surgery didn't go well. Does that mean I have a malpractice case?",
+        "answer": "Not necessarily. California requires proof that a provider fell below the accepted standard of care, not just that the outcome was disappointing. A qualified medical expert almost always has to review what happened before anyone can say whether a claim exists."
+      },
+      {
+        "question": "How does LawProactive work, and what does it cost?",
+        "answer": "LawProactive is a free connection service, not a law firm. We match Fullerton and Orange County residents with an independent malpractice attorney who works on contingency, meaning no fee unless there is a recovery. You are never charged for the connection."
+      }
+    ]
+  }
+}

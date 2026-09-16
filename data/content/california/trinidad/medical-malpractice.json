@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "trinidad medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Trinidad Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for Trinidad, CA patients. No fee unless you recover. Learn your MICRA deadlines now."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or procedure near Trinidad left you worse off than before, LawProactive can connect you with an independent attorney who understands California's medical malpractice rules — at no cost to you."
+  },
+  "about": {
+    "title": "Trinidad Medical Malpractice Claims",
+    "longDescription": "Trinidad is a small coastal community, and many residents travel outside Humboldt County or rely on limited local facilities for hospital care, surgery, or specialist treatment. When a diagnosis is missed, a medication is mismanaged, or a surgical step goes wrong, the harm can follow a patient long after they've left the exam room. Because Trinidad's population is small, most malpractice concerns here trace back to care received at regional hospitals or clinics serving the wider North Coast. California law sets a firm timeline for pursuing these claims, along with a required medical expert review and a notice period before any lawsuit can begin. LawProactive doesn't practice law or evaluate your medical records — we simply help Trinidad residents get in front of an independent attorney who can look at what happened, explain your options honestly, and tell you whether a claim is worth pursuing. There's no upfront cost to start that conversation.",
+    "commonInjuriesTitle": "Situations We Commonly Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosing or prescription mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What Trinidad Patients Should Know About MICRA",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives you one year from when you discovered the harm, but never more than three years from the date of injury. Missing either deadline can end a claim before it starts, so early guidance matters."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can be filed, California law requires a 90-day notice to the healthcare provider. An attorney can make sure this step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A qualified medical expert typically has to confirm that the care fell below an acceptable standard — a bad result alone isn't enough. This is one reason having the right attorney early makes a real difference."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Trinidad but was treated at a hospital outside Humboldt County. Can I still get help?",
+        "answer": "Yes. What matters is where the care happened and when, not where you live now. LawProactive can connect you with an attorney regardless of which facility treated you, as long as California law applies to your situation."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law requires proof that a provider's care fell below the accepted medical standard, not simply that the result was disappointing or unexpected. An independent attorney, often working with a medical expert, is the one who can assess whether that standard was met."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and attorneys in our network generally work on contingency, meaning there's no fee unless you recover compensation. You can ask questions and get clarity on your situation without any upfront financial risk."
+      },
+      {
+        "question": "There's a cap on damages — does that mean my claim isn't worth pursuing?",
+        "answer": "California's cap applies specifically to non-economic damages and rises each year under current law, but it doesn't apply to your economic losses like medical bills or lost income. An attorney can walk you through how this affects your specific circumstances."
+      }
+    ]
+  }
+}

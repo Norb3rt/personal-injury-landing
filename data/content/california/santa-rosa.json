@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "santa-rosa city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Rosa, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Santa Rosa or Sonoma County? Connect free with an independent injury attorney. Most claims allow 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end crash on US-101 left you with whiplash or a fall in a Santa Rosa shop broke a wrist, LawProactive connects you at no cost with an independent injury attorney serving Sonoma County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Santa Rosa, California",
+    "longDescription": "Santa Rosa sits where US-101 threads through Sonoma County, and much of daily life here moves along it, along with Stony Point Road, Santa Rosa Avenue and Route 12. Those four corridors also show up most often in public collision records for the city. In 2025, the most recent final reporting year, Santa Rosa logged 562 injury collisions that left 790 people hurt and 8 people dead. Reports tend to cluster on Tuesdays between 5 p.m. and 7 p.m., the tail end of the evening commute out of downtown and past Railroad Square. Behind each of those numbers is someone who suddenly had a car to replace, appointments to keep, and questions nobody around them could answer. LawProactive exists for that moment. We are a free service that connects you with an independent personal injury attorney who handles cases in Sonoma County. We are not a law firm, we do not give legal advice, and we never charge you anything. The attorney you are matched with works on contingency, so there is no fee unless your case ends in a recovery. If you were hurt in a crash, a fall, a dog bite, or another incident in Santa Rosa, tell us what happened and we will take it from there.",
+    "commonInjuriesTitle": "Injuries Santa Rosa Residents Often Ask About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken bones from falls and bicycle crashes",
+      "Back and spinal injuries",
+      "Dog bite wounds and scarring",
+      "Soft-tissue injuries that linger for months"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Santa Rosa Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window",
+        "desc": "California gives most injured people two years from the date of injury to file a lawsuit. Claims against a city, county, or state agency can require notice in as little as six months, so timing matters more than people expect."
+      },
+      {
+        "title": "Being partly at fault does not shut you out",
+        "desc": "California follows pure comparative fault. If you share some blame, your recovery is reduced by your percentage of fault, but it is not erased."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For a typical car crash or fall in Santa Rosa, California places no statutory limit on non-economic damages such as pain, lost enjoyment of life, or emotional distress."
+      },
+      {
+        "title": "You pay nothing unless there is a recovery",
+        "desc": "Attorneys in our network work on contingency. Their fee comes out of any recovery, and if there is none, you owe no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work right now and the bills keep arriving anyway.",
+      "I might have been partly at fault, so I assume I have no case.",
+      "I don't know how long I have or whether I've already waited too long."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Santa Rosa show up most in public records?",
+        "answer": "Public-record counts for Santa Rosa list US-101, Stony Point Road, Santa Rosa Avenue, and Route 12 as the corridors with the highest collision volume. These are simply the roads with the most reported incidents, which tends to track with how heavily they are traveled. Reports also tend to peak on Tuesdays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "Most personal injury lawsuits in California must be filed within two years of the injury. If a government entity is involved, such as a claim tied to a city vehicle or public property, a written claim may be required within six months. An attorney can pin down the deadline that applies to your situation."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses pure comparative fault, so partial responsibility reduces your recovery rather than eliminating it. If you were found 30 percent at fault, for example, you could still recover the remaining 70 percent of your damages. Fault percentages are often disputed, which is one reason people bring in an attorney."
+      },
+      {
+        "question": "Does LawProactive charge for connecting me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm. We connect you with an independent personal injury attorney who serves Sonoma County, and that attorney works on contingency, meaning no fee unless there is a recovery."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In ordinary California injury cases, such as a car crash or a fall, there is no statutory cap on non-economic damages. Certain specialized claims follow different rules, so it helps to have an attorney review the specifics of what happened to you."
+      }
+    ]
+  }
+}

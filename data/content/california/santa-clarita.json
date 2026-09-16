@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "santa-clarita city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Clarita, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Santa Clarita? Free connection to an independent injury attorney in Los Angeles County. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Soledad Canyon Road, a fall at a store, or a collision while riding a bike, LawProactive connects you with an independent personal injury attorney at no cost. Serving Santa Clarita and all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Santa Clarita, California",
+    "longDescription": "Santa Clarita covers a lot of ground, and most of it is reached by car. Soledad Canyon Road, Sierra Highway, Bouquet Canyon Road and McBean Parkway carry much of the daily traffic, and public collision records show those four corridors logging the highest counts of reported crashes in the city. For 2025, the most recent final year on record, Santa Clarita reported 706 injury collisions, 1,042 people hurt, and 14 traffic deaths. Reports tend to rise on Friday afternoons between 3 and 5 p.m. If one of those numbers now describes you, the paperwork that follows can feel heavier than the injury itself. Insurance adjusters call before the bruises fade. Medical bills arrive out of order. You may be unsure whether a claim is even worth pursuing. That is where LawProactive fits in. We are a free service, not a law firm. We do not give legal advice or handle cases. What we do is connect people in Santa Clarita and the rest of Los Angeles County with an independent personal injury attorney who can review what happened. The attorneys in our network work on contingency, so there is no fee unless there is a recovery. Reaching out costs nothing, and you decide what happens next.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Santa Clarita",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end crashes",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back and spinal disc injuries",
+      "Knee and shoulder damage from falls",
+      "Cuts, road rash, and soft-tissue bruising"
+    ],
+    "ctaText": "Tell us what happened. Getting connected is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Santa Clarita Claim",
+    "items": [
+      {
+        "title": "The clock is usually two years",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, that window can shrink to six months, so timing matters more than people expect."
+      },
+      {
+        "title": "Partial fault does not shut you out",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not barred from bringing a claim."
+      },
+      {
+        "title": "No cap on pain-and-suffering in ordinary cases",
+        "desc": "For a typical injury claim in California, there is no statutory limit on non-economic damages like pain, distress, and lost enjoyment of life. An attorney can explain how that applies to your situation."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in the LawProactive network are paid a percentage only if there is a recovery. If nothing is recovered, you owe no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "My car is totaled and I still have to get to work in Valencia.",
+      "The other driver's insurer keeps asking me to give a recorded statement.",
+      "I missed shifts and rent is due whether I'm healed or not.",
+      "I don't know if a small claim is even worth a lawyer's time."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Santa Clarita tend to be reported?",
+        "answer": "Public collision records show the highest counts along Soledad Canyon Road, Sierra Highway, Bouquet Canyon Road, and McBean Parkway. These are simply the corridors with the most reported crashes, which tracks with how much traffic they carry. Reports also tend to peak on Fridays between 3 p.m. and 5 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not give legal advice, represent clients, or take a portion of any recovery. Any attorney you speak with is independent of us."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of the injury. Claims against a government entity often have a much shorter deadline, sometimes just six months to file an administrative claim. Speaking with an attorney early helps make sure nothing lapses."
+      },
+      {
+        "question": "I think I was partly at fault. Can I still recover anything?",
+        "answer": "Yes. California uses pure comparative fault, which means your recovery is reduced by your percentage of responsibility rather than eliminated. Even someone found mostly at fault can recover a portion of their damages."
+      },
+      {
+        "question": "What will it cost me to talk to an attorney?",
+        "answer": "Connecting through LawProactive is free. The attorneys in our network work on contingency, so there is no fee unless there is a recovery in your case. You can ask about the exact percentage and any case costs before agreeing to anything."
+      }
+    ]
+  }
+}

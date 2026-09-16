@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "west-hollywood product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "West Hollywood Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in West Hollywood? Get connected free to an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A malfunctioning appliance, a faulty rideshare part, or a defective consumer item can upend life in West Hollywood in an instant. LawProactive connects you at no cost with an independent attorney who handles California product liability claims."
+  },
+  "about": {
+    "title": "West Hollywood Product Liability Claims",
+    "longDescription": "West Hollywood is a dense, walkable community wedged between busy corridors like Santa Monica Boulevard and Sunset Boulevard, where residents rely on everything from e-bikes and household appliances to workplace equipment and personal care products every day. When one of those products fails because of a design flaw, a manufacturing error, or a missing warning, the resulting injury can be sudden and serious. California law generally allows injured people to pursue a strict liability claim, meaning the focus is on whether the product was defective and caused harm, not on proving the manufacturer was careless. LawProactive is a free connection service, not a law firm, and we don't take a fee for matching you with an attorney. If a defective product hurt you in West Hollywood, get connected with an independent California attorney who can review your situation and explain your options — the attorney works on contingency, so there's no fee unless you recover.",
+    "commonInjuriesTitle": "Injuries We See in Product Liability Cases",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or batteries",
+      "Lacerations from defective tools or equipment",
+      "Fractures from failed furniture or fixtures",
+      "Traumatic injuries from faulty vehicle or bicycle parts",
+      "Poisoning or chemical exposure from mislabeled products",
+      "Electrical shock injuries from wiring defects"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Product Liability Claims Work Differently in California",
+    "items": [
+      {
+        "title": "Strict Liability Can Apply",
+        "desc": "California often allows claims based on strict liability, so you may not need to prove the manufacturer was negligent — just that the product was defective and caused your injury."
+      },
+      {
+        "title": "Multiple Parties May Be Responsible",
+        "desc": "Manufacturers, distributors, and retailers can all potentially share responsibility for a defective product, which may widen the paths available for pursuing a claim."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "Keeping the defective item, its packaging, and any related documentation intact can be important evidence, and an attorney can advise on how to protect it properly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What counts as a defective product under California law?",
+        "answer": "A product can be considered defective due to a flaw in its design, an error during manufacturing, or a failure to warn users about a known risk. Any of these categories may support a strict liability claim if the defect caused an injury. An attorney can help evaluate which category applies to your situation."
+      },
+      {
+        "question": "I was hurt by a scooter or e-bike part near Santa Monica Boulevard — does that count as product liability?",
+        "answer": "It can, if the injury resulted from a defective part rather than simple wear or user error. West Hollywood's dense corridors like Santa Monica Boulevard see heavy micromobility use, and a failed brake, battery, or frame component may point to a manufacturing or design issue. An independent attorney can review the details and the product itself to assess the claim."
+      },
+      {
+        "question": "Do I need to prove the manufacturer was careless?",
+        "answer": "Not necessarily. Strict liability in California generally focuses on whether the product itself was defective and caused harm, rather than requiring proof of the manufacturer's carelessness. That said, every case has its own facts, and an attorney can walk you through how the law applies to yours."
+      }
+    ]
+  }
+}

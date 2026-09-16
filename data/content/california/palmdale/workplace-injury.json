@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "palmdale workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Palmdale Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt at work in Palmdale? Get a free connection to an independent attorney for workers' comp and third-party claim questions. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Injured on a Palmdale job site, in a warehouse, or behind the wheel for work? We connect you, free of charge, with an independent attorney who can explain whether your case reaches beyond workers' compensation."
+  },
+  "about": {
+    "title": "Palmdale Workplace Injury Claims",
+    "longDescription": "Work in Palmdale happens on construction sites, in industrial yards and warehouses along Sierra Highway, and inside the shops and offices lining Palmdale Boulevard and Rancho Vista Boulevard. When a shift ends in an injury, most workers in this part of Los Angeles County start with workers' compensation. That system covers medical care and a portion of lost wages without asking who was at fault, and it is normally the only claim you can bring against your own employer. What many people never hear is that a second claim may exist when someone outside the company contributed to the harm: a subcontractor who left a hazard in place, a property owner who ignored a defect, a manufacturer whose equipment failed, or another driver who struck you while you were on the clock. Driving for work is common here. Palmdale logged 815 injury collisions in 2025, with 1,231 people hurt, and Avenue S and Sierra Highway rank among the corridors with the highest counts. LawProactive is a free service, not a law firm. We connect you with an independent attorney who can weigh both paths.",
+    "commonInjuriesTitle": "Injuries We Commonly See From Palmdale Workplaces",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and loading docks",
+      "Back and shoulder injuries from lifting or repetitive motion",
+      "Crush and pinch injuries from machinery or pallets",
+      "Burns, chemical exposure, and electrical shock",
+      "Injuries from collisions while driving a work vehicle",
+      "Heat-related illness during outdoor summer shifts"
+    ],
+    "ctaText": "Ask about your options today, free"
+  },
+  "whyChoose": {
+    "title": "Why Palmdale Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We look past the comp claim",
+        "desc": "Workers' compensation is usually your only remedy against the employer, but a negligent third party can be held separately responsible. The attorney we connect you with reviews both."
+      },
+      {
+        "title": "Deadlines are handled early",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and third-party injury claims generally carry a two-year filing deadline. Getting connected quickly helps protect each one."
+      },
+      {
+        "title": "Retaliation is not something you have to accept",
+        "desc": "Firing, demoting, or punishing a worker for reporting an injury is illegal in California. An independent attorney can explain what to do if your employer pushes back."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on Avenue S while making deliveries for my employer. Is that just a workers' comp case?",
+        "answer": "Not necessarily. Because you were working, workers' compensation should cover your medical treatment and part of your wages. But the other driver is a third party, and California allows a separate injury claim against a negligent driver even when comp applies. Palmdale crashes cluster on Friday evenings between 5 and 7 p.m., a window when many delivery and service routes are still running, so this comes up more than you might expect."
+      },
+      {
+        "question": "Can I be fired for reporting my injury at a Palmdale job site?",
+        "answer": "California law prohibits employers from retaliating against workers who report an injury or file a workers' compensation claim. That protection applies whether you work in a warehouse off Sierra Highway or a storefront on Palmdale Boulevard. Report the injury within 30 days, keep a copy, and tell the attorney you are connected with if anything changes at work afterward."
+      },
+      {
+        "question": "Does LawProactive charge me anything to get connected?",
+        "answer": "No. LawProactive is a free service, not a law firm, and there is no cost to be matched with an independent attorney. The attorneys in the network handle injury matters on contingency, which means no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

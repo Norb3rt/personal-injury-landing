@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "lomita slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lomita Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Lomita? Get connected free to an independent premises liability attorney. No fee unless you recover. Act within CA's 2-year deadline."
+  },
+  "hero": {
+    "subtitle": "A fall at a Lomita grocery store, shopping plaza, or apartment complex can leave you dealing with medical bills and a landlord or business that won't return your calls. LawProactive connects you, free of charge, with an independent attorney who handles premises liability cases in Los Angeles County."
+  },
+  "about": {
+    "title": "Lomita Slip & Fall and Premises Liability Claims",
+    "longDescription": "Lomita is a small, tightly packed city wedged between Torrance and the Palos Verdes hillside, with much of its foot traffic centered around Pacific Coast Highway and the retail strips along Narbonne Avenue. Wet floors, cracked walkways, broken stairs, and poorly maintained parking lots at these properties can cause serious falls. Under California law, a property owner isn't automatically responsible just because someone got hurt on their premises — the injured person generally has to show the owner knew or reasonably should have known about the hazardous condition and failed to fix it or warn visitors. That's why documentation matters so much: photos of the hazard, witness names, and surveillance footage (which businesses often delete on a routine schedule) can make or break a claim. LawProactive doesn't practice law or handle your case directly. We simply connect you, at no cost, with an independent attorney in our network who can evaluate what happened and explain your options going forward.",
+    "commonInjuriesTitle": "Common Injuries From Falls",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures",
+      "Torn ligaments and knee injuries",
+      "Traumatic brain injury or concussion",
+      "Spinal disc injuries",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Find out where you stand — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Notice and Evidence Matter in a Lomita Fall Case",
+    "items": [
+      {
+        "title": "Proving the Owner Knew or Should Have Known",
+        "desc": "California premises liability claims hinge on showing the property owner had notice of the hazard, whether from a prior complaint, an inspection log, or how long the condition existed. An attorney can help gather records and testimony to establish that notice."
+      },
+      {
+        "title": "Surveillance Video Disappears Fast",
+        "desc": "Many Lomita businesses overwrite security footage within days or weeks. Sending a preservation letter quickly can be the difference between having video evidence and having none at all."
+      },
+      {
+        "title": "Pure Comparative Fault Still Lets You Recover",
+        "desc": "Even if you were partly distracted or moving quickly when you fell, California's pure comparative fault rule means you can still recover damages, just reduced by your share of fault. An attorney can help present the facts fairly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Lomita?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a personal injury lawsuit. If the property involved is owned by a government entity, such as a city building or public sidewalk, the deadline is much shorter and requires an early claim, so it's worth checking quickly."
+      },
+      {
+        "question": "What if I fell at a store on Pacific Coast Highway and no one wrote down what happened?",
+        "answer": "A missing incident report isn't fatal to a claim, but it makes independent documentation more important. Photos of the hazard, your own written notes about what happened, and any witnesses nearby can help fill that gap."
+      },
+      {
+        "question": "Do I need proof the store knew about the hazard before my fall?",
+        "answer": "Yes, generally you need to show the owner had actual or constructive notice of the dangerous condition, meaning they knew or reasonably should have discovered it through routine inspection. This might come from prior complaints, maintenance logs, or evidence the hazard existed long enough that a reasonable owner would have caught it."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, our service is completely free. Attorneys in our network work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

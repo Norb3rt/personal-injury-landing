@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "san-jose product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Jose Product Liability Lawyer Match | LawProactive",
+    "metaDescription": "Hurt by a defective product in San Jose? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When something you bought or used in San Jose fails and leaves you hurt, the law often does not require you to prove the maker was careless. LawProactive can connect you, at no cost, with an independent attorney who handles defective-product claims in Santa Clara County."
+  },
+  "about": {
+    "title": "San Jose Product Liability Claims",
+    "longDescription": "A product does not have to be exotic to cause real harm. In a city of more than a million people, San Jose households rely every day on power tools, space heaters, e-bike batteries, car seats, medications, and appliances, and most of them work exactly as promised. Occasionally one does not. Under California law, a person injured by a defective product usually proceeds under strict liability. That means the question is whether the item had a design flaw, a manufacturing flaw, or an inadequate warning, and whether that flaw caused the injury. Whether the company was careless is generally beside the point. Responsibility can also reach beyond the manufacturer to the distributor and the store that sold it. What matters most in the early days is holding on to the product itself, along with packaging, receipts, and photos of the scene. LawProactive is not a law firm. We are a free service that connects injured San Jose residents with an independent attorney who works on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Commonly Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from lithium-ion battery fires or overheating chargers",
+      "Deep cuts and amputations from power tools that fail in use",
+      "Crush injuries from collapsing furniture or equipment",
+      "Illness or poisoning from contaminated food, supplements, or drugs",
+      "Head and spinal trauma when airbags, seatbelts, or brakes malfunction",
+      "Choking, strangulation, or fall injuries from unsafe children's products"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "What a Product Liability Attorney Brings to Your San Jose Claim",
+    "items": [
+      {
+        "title": "They know strict liability works differently",
+        "desc": "An attorney familiar with California's strict liability rules focuses on proving the defect and the link to your injury, rather than getting drawn into arguments about whether the company meant well."
+      },
+      {
+        "title": "They help preserve the evidence that matters",
+        "desc": "The product, its packaging, and its purchase records are often the heart of the case. A lawyer can arrange proper storage and testing so nothing is discarded or altered before it can be examined."
+      },
+      {
+        "title": "They look at the whole supply chain",
+        "desc": "Manufacturers, distributors, and retailers may each be responsible under California law. An attorney can identify every party in that chain, including out-of-state or overseas companies, so the claim is not aimed at the wrong door."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "A part in my car failed during a collision on US-101 in San Jose. Is that a car accident case or a product case?",
+        "answer": "It may be both, and an attorney can sort out which claims apply. San Jose recorded 3,457 injury collisions in 2025, and while most involve driver behavior, some also involve a component that did not perform as designed, such as an airbag that failed to deploy or brakes that gave out. If a defect made your injuries worse, a product liability claim against the maker can run alongside a claim against another driver. Keep the vehicle in its post-crash condition until a lawyer has looked at it."
+      },
+      {
+        "question": "Do I have to prove the company was negligent?",
+        "answer": "Generally, no. California product liability claims usually rest on strict liability, so the focus is on showing the product had a design, manufacturing, or warning defect and that the defect caused your injury. You typically do not need to show the company knew about the problem or acted carelessly. That said, these cases still turn on evidence, which is why keeping the product is so important."
+      },
+      {
+        "question": "I threw away the box and I'm not sure where I bought it. Can I still bring a claim?",
+        "answer": "Possibly. The product itself is the most important piece, so hold on to it even if it is damaged. Credit card statements, online order histories, and photos of the item can help reconstruct where and when it was purchased. An attorney can also help trace the distributor and retailer, since each of them may share responsibility under California law."
+      }
+    ]
+  }
+}

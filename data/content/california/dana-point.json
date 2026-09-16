@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "dana-point city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dana Point, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Dana Point? Free connection to an Orange County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on Stonehill Drive or a fall at a local business, we can connect you with an independent attorney at no cost. Serving Dana Point and all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Dana Point, California",
+    "longDescription": "Dana Point may be known for its harbor views, but its roads carry plenty of everyday traffic risk. Public records show 81 injury collisions in the most recent final year, leaving 107 people hurt and 3 people dead. Corridors like Pacific Coast Highway, Rt 1, Stonehill Drive, and the stretch of I-5 that runs through the area account for a large share of these reported crashes, with Friday afternoons between 3 and 5 p.m. showing the heaviest concentration. If you or someone close to you was hurt in one of these incidents, the days and weeks after can feel overwhelming — medical visits, insurance calls, missed work, and uncertainty about what comes next. LawProactive is a free service that helps injured people in Dana Point connect with an independent personal injury attorney who can review what happened and explain the options. We are not a law firm, and we don't charge anything to make the connection. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and starts the process of finding real answers.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from falls or slip-and-fall accidents"
+    ],
+    "ctaText": "Find out if you have a case — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney After an Injury",
+    "items": [
+      {
+        "title": "You Have Two Years — But Not Forever",
+        "desc": "California generally gives injured people two years from the date of the incident to file a claim. Claims against a government entity can require notice in as little as six months, so it helps to act sooner rather than later."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut the Door",
+        "desc": "Under California's pure comparative fault rule, you can still recover compensation even if you were partly responsible for what happened. Any award is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on What You've Actually Suffered",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in most ordinary injury cases. That means the full extent of your experience can be considered, not just medical bills."
+      },
+      {
+        "title": "You Pay Nothing Unless There's a Recovery",
+        "desc": "Attorneys connected through LawProactive work on contingency, so there's no upfront cost. Fees only come out of a settlement or award if one is reached."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Not knowing if you waited too long or missed a deadline",
+      "Wondering if the crash was partly your fault and if that means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after an injury in Dana Point?",
+        "answer": "In most cases, California law gives you two years from the date of the incident to file a personal injury claim. If a government entity, like a city or county vehicle, was involved, that window can shrink to as little as six months for filing a notice of claim. It's best to speak with an attorney as soon as possible to avoid missing a deadline."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, so being partly responsible doesn't bar you from recovering compensation. Your recovery would simply be reduced by your percentage of fault. An attorney can help assess how fault might be divided in your specific situation."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Dana Point?",
+        "answer": "Public collision records show that corridors like Pacific Coast Highway, Rt 1, Stonehill Drive, and the local stretch of I-5 account for a notable share of reported injury collisions, with Friday afternoons between 3 and 5 p.m. showing higher counts. These are simply neutral public-record figures, not a judgment about any particular road."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent attorneys. We are not a law firm, and there's no charge to find out whether an attorney can help with your situation."
+      },
+      {
+        "question": "Will I owe attorney fees if my case doesn't result in a settlement?",
+        "answer": "Attorneys in our network typically work on contingency, meaning they only get paid if you recover compensation. If there's no settlement or award, you generally owe no attorney fee for their work on the case."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "hesperia medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hesperia Medical Malpractice Lawyer | LawProactive",
+    "metaDescription": "Hurt by a medical error in Hesperia? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines are short—know your options."
+  },
+  "hero": {
+    "subtitle": "When treatment in Hesperia leaves you worse off than the condition you came in with, you deserve straight answers. LawProactive connects you, at no cost, with an independent attorney who handles California medical negligence claims."
+  },
+  "about": {
+    "title": "Hesperia Medical Malpractice Claims",
+    "longDescription": "Hesperia is a city of about 93,000 people spread across a wide stretch of San Bernardino County, and when someone here needs care, the trip often runs along Main Street, Bear Valley Road, or I-15. Most of that care goes the way it should. Sometimes it does not. A missed diagnosis, a medication mix-up, a surgical error, or a delayed response in an emergency room can leave a family dealing with harm that did not have to happen. California handles these claims under MICRA, rules that differ from an ordinary injury case: the time to file is generally one year from when you discovered the harm and never more than three years from the injury, a 90-day notice must go to the provider before suit, and a qualified medical expert is nearly always needed to explain what went wrong. LawProactive is not a law firm. We are a free service that connects Hesperia residents with an independent attorney who handles medical negligence cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm That Often Leads to a Malpractice Review",
+    "commonInjuries": [
+      "Misdiagnosis or a diagnosis that came too late",
+      "Surgical mistakes, including wrong-site procedures",
+      "Medication and dosing errors",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Infections tied to lapses in hospital care"
+    ],
+    "ctaText": "Ask a free question about your Hesperia case"
+  },
+  "whyChoose": {
+    "title": "Why Hesperia Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA's clock is shorter than most people expect",
+        "desc": "California generally allows one year from the date you discovered the injury, and never more than three years from when it occurred. Reaching an attorney early keeps those dates from quietly slipping past."
+      },
+      {
+        "title": "The 90-day notice and expert requirement are handled for you",
+        "desc": "Before a malpractice suit can be filed, the provider must receive a 90-day pre-suit notice, and a qualified medical expert is almost always needed to support the claim. The attorney you are connected with takes on both steps."
+      },
+      {
+        "title": "Honest screening, because a bad outcome alone is not malpractice",
+        "desc": "Medicine carries risk, and not every poor result means someone was negligent. An independent attorney reviews your records candidly, and you pay nothing unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated after a collision near Bear Valley Road and my injuries were missed. Is that malpractice?",
+        "answer": "It might be, but it depends on what a careful provider would have done with the same information. Hesperia recorded 442 injury collisions and 702 people injured in 2025, so emergency departments see plenty of crash patients, and a missed fracture or internal injury can sometimes point to a failure to meet the standard of care. A qualified medical expert would need to review your chart to say whether the miss was negligence or an unavoidable limitation. An attorney can arrange that review and explain how a malpractice claim would interact with your crash claim."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California places a statutory cap on non-economic damages, such as pain and suffering, in medical malpractice cases, and that cap rises each year under MICRA. Economic losses like medical bills and lost wages are handled separately. Your attorney can explain how the current figures apply to your specific situation."
+      },
+      {
+        "question": "How long do I have to act after a medical error in Hesperia?",
+        "answer": "Generally, you have one year from the date you discovered, or reasonably should have discovered, the injury, and in no case more than three years from when the injury happened. A 90-day notice must also be sent to the provider before a lawsuit is filed, which affects timing. Because these rules interact in ways that are easy to misjudge, it helps to speak with an attorney as soon as you suspect something went wrong."
+      }
+    ]
+  }
+}

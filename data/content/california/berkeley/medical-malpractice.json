@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "berkeley medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Berkeley Medical Malpractice Attorney Connection | Free",
+    "metaDescription": "Hurt by a medical error in Berkeley, CA? LawProactive connects you free with a malpractice attorney. MICRA deadlines apply—know your options."
+  },
+  "hero": {
+    "subtitle": "When care in Berkeley falls below the standard and someone is hurt because of it, the questions pile up fast. LawProactive connects you, at no cost, with an independent California attorney who handles medical malpractice claims under MICRA."
+  },
+  "about": {
+    "title": "Berkeley Medical Malpractice Claims",
+    "longDescription": "Berkeley is home to roughly 121,000 people, and most of them will trust a doctor, nurse, pharmacist, or surgeon at some point without a second thought. Usually that trust is well placed. Sometimes it isn't, and a missed diagnosis, a medication mix-up, or a surgical error leaves a family in Alameda County dealing with consequences no one warned them about.\n\nCalifornia handles these cases under a specific set of rules called MICRA. The clock is short: generally one year from the date you discovered the harm, and never more than three years from the injury itself. Before a lawsuit can be filed, a 90-day notice has to go to the provider. A qualified medical expert is almost always needed to explain what a careful provider would have done differently. And the law is clear that a poor outcome by itself is not malpractice; there has to be a departure from the standard of care.\n\nLawProactive is not a law firm. We are a free service that connects Berkeley residents with an independent attorney who can review the records, weigh the timeline, and tell you honestly whether a claim is worth pursuing.",
+    "commonInjuriesTitle": "Harm That Can Lead to a Malpractice Claim",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures or retained instruments",
+      "Medication and dosing mistakes",
+      "Anesthesia complications",
+      "Birth injuries affecting mother or child",
+      "Failure to order tests or follow up on abnormal results"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for a free case review."
+  },
+  "whyChoose": {
+    "title": "Why Berkeley Residents Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines get flagged early",
+        "desc": "The one-year discovery rule and three-year outer limit leave little room for delay. The attorney you're connected with can pin down your dates and get the required 90-day notice out on time."
+      },
+      {
+        "title": "Expert review, not guesswork",
+        "desc": "Because California nearly always requires a qualified medical expert, the attorneys in our network know how to get records evaluated before deciding whether a case should move forward."
+      },
+      {
+        "title": "Straight talk about the cap",
+        "desc": "MICRA limits non-economic damages, though that cap rises each year. An independent attorney can explain what that means for your situation without overselling or guaranteeing anything, and works on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Berkeley but live elsewhere in the Bay Area. Does that change anything?",
+        "answer": "Not much. A California malpractice claim generally follows where the care happened, and treatment in Berkeley would typically fall under Alameda County jurisdiction. The MICRA timelines and notice requirements apply statewide regardless of where you live. The attorney you're connected with can sort out the venue details for you."
+      },
+      {
+        "question": "My surgery didn't turn out the way I hoped. Is that malpractice?",
+        "answer": "Not automatically. California law draws a line between a disappointing result and a provider who failed to meet the standard of care. A qualified medical expert has to review the records and explain what went wrong and why a careful provider would have acted differently. An attorney can arrange that review before you commit to anything."
+      },
+      {
+        "question": "How long do I have to act in California?",
+        "answer": "Under MICRA, the general rule is one year from the date you discovered, or reasonably should have discovered, the injury, and no more than three years from the injury itself. Before filing suit, a 90-day notice must be sent to the provider. Because those windows overlap and can be shorter than people expect, it's worth speaking with an attorney sooner rather than later."
+      }
+    ]
+  }
+}

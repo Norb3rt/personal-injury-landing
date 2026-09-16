@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "clayton car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Clayton, CA Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Clayton car accident? LawProactive connects you free with an independent attorney serving Contra Costa County."
+  },
+  "hero": {
+    "subtitle": "If a crash on Clayton Road or Marsh Creek Road left you hurt, LawProactive can connect you at no cost with an independent attorney who handles Contra Costa County car accident cases."
+  },
+  "about": {
+    "title": "Clayton Car Accident Claims",
+    "longDescription": "Clayton is a small city, but its roads carry real traffic risk, especially where Clayton Road, Marsh Creek Road, Oakhurst Drive, and Keller Ridge Drive see the heaviest reported collision counts. Public records show 8 injury collisions and 9 people injured in the most recent year, with reports clustering on Tuesday afternoons between 3 and 5 p.m., a pattern likely tied to commuter traffic and school pickup timing. Whether you were hit near downtown Clayton or out toward the Morgan Territory foothills, the aftermath usually involves the same headaches: medical bills, missed work, and an insurance adjuster hoping you'll say something that hurts your claim. LawProactive doesn't practice law; we simply connect injured Clayton residents with an independent personal injury attorney who can review the crash details, deal with insurers, and explain your options. There's no cost to you unless your case results in a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head injuries",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Shoulder and knee ligament damage",
+      "Cuts, bruising, and soft tissue trauma"
+    ],
+    "ctaText": "Get connected with an attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the crash date to file a lawsuit, but claims against a government entity (like Contra Costa County over a road issue) can require notice in as little as six months. An attorney can help you figure out which deadline applies before it passes."
+      },
+      {
+        "title": "Comparative Fault Can Cut Your Recovery",
+        "desc": "California uses pure comparative fault, meaning your compensation can be reduced by whatever percentage of fault is assigned to you, even if that's just 10 or 20 percent. Having someone review the evidence early can help make sure fault isn't unfairly shifted onto you."
+      },
+      {
+        "title": "Recorded Statements Can Work Against You",
+        "desc": "There's no cap on non-economic damages like pain and suffering under California law, but insurers often try to minimize claims through recorded statements taken before you understand the full extent of your injuries. It's usually wise to let an attorney handle that conversation instead."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a car accident in Clayton?",
+        "answer": "In most California car accident cases you have two years from the date of the crash to file a lawsuit. If the accident involved a government-owned road or vehicle, the window to file a claim can shrink to as little as six months, so it's worth getting an attorney's input sooner rather than later."
+      },
+      {
+        "question": "Clayton Road and Marsh Creek Road come up a lot in local crash reports — does that matter for my case?",
+        "answer": "Public crash data does show higher collision counts on corridors like Clayton Road, Marsh Creek Road, Oakhurst Drive, and Keller Ridge Drive, but every case turns on its own facts, not just where it happened. An attorney will look at the specific circumstances of your crash rather than general road statistics."
+      },
+      {
+        "question": "What if the other driver's insurance company says I was partly at fault?",
+        "answer": "California follows a pure comparative fault rule, so even if you're found partly responsible, you can still recover compensation reduced by your share of fault. Insurers sometimes push hard on this point early, which is one reason it helps to have an independent attorney reviewing the details before you agree to anything."
+      }
+    ]
+  }
+}

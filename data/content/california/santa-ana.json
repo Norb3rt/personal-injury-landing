@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "voice": "brand-standard (plain-spoken, victim-first)",
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-09-11",
+    "source": "accident-hub + state-laws + city facts",
+    "note": "Santa Ana city page."
+  },
+  "seo": {
+    "metaTitle": "Santa Ana Personal Injury Lawyer | Free Review",
+    "metaDescription": "Injured in Santa Ana? Connect free with a personal injury attorney serving Orange County. 2 years to file under California law — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Hurt in a crash on the I-5 (Santa Ana Freeway), in a fall, or on the job in Santa Ana? We connect you — free — with an independent personal injury attorney who handles Orange County claims. No fee unless you recover."
+  },
+  "about": {
+    "title": "Personal Injury Help in Santa Ana, California",
+    "longDescription": "As the Orange County seat, Santa Ana packs dense neighborhoods, a busy civic center and constant freeway traffic into a compact, walkable city. Public records show more than 1,700 injury collisions here in 2025, leaving nearly 2,400 people hurt, with reported crashes tending to peak on Friday evenings. The I-5 (Santa Ana Freeway) cuts through the city while surface routes like First Street and Bristol Street carry heavy pedestrian and vehicle traffic. Whether you were injured in a wreck, in a fall at a business, in a workplace incident, or by a defective product, California law gives you rights and a limited time to use them. LawProactive is a free service that connects injured people in Santa Ana with an independent personal injury attorney who understands how Orange County claims and courts work. We are not a law firm; we match you with counsel. There is never a fee unless your case recovers compensation.",
+    "commonInjuriesTitle": "Injuries we help Santa Ana residents pursue claims for",
+    "commonInjuries": [
+      "Whiplash, neck and back injuries from crashes",
+      "Traumatic brain injuries and concussions",
+      "Pedestrian and crosswalk impact injuries",
+      "Fractures and crush injuries",
+      "Spinal cord and disc injuries",
+      "Serious burns, lacerations and scarring"
+    ],
+    "ctaText": "See if you have a case — free"
+  },
+  "whyChoose": {
+    "title": "What Santa Ana injury victims should know",
+    "items": [
+      {
+        "title": "Usually a 2-year deadline",
+        "desc": "California generally gives you two years from the date of injury to file. On a busy corridor like the I-5, camera and vehicle-data evidence can vanish within days."
+      },
+      {
+        "title": "Partial fault won't bar recovery",
+        "desc": "California uses pure comparative fault, so pedestrians and drivers alike can recover even when partly at fault; compensation is reduced by your share."
+      },
+      {
+        "title": "Claims against the city are different",
+        "desc": "If a public vehicle or hazardous public street is involved, a much shorter deadline — sometimes six months — can apply. Act quickly."
+      },
+      {
+        "title": "Orange County experience",
+        "desc": "Your claim runs through the Orange County court system and the insurers active here. We connect you with an attorney who handles these cases locally."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Adjusters calling before you've finished treatment",
+      "Medical bills and lost wages piling up while you heal",
+      "A quick offer that ignores your long-term costs",
+      "Not knowing whether you even have a case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Santa Ana?",
+        "answer": "Most California injury claims must be filed within two years. If a public entity is involved, the deadline can be as short as six months, so speak with an attorney promptly."
+      },
+      {
+        "question": "I was a pedestrian and may have been partly at fault. Can I recover?",
+        "answer": "Yes. California's pure comparative fault rule lets you recover even if you shared blame; your compensation is reduced by your percentage of fault rather than eliminated."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney?",
+        "answer": "The case review is free, and attorneys in our network work on contingency — no fee unless they recover compensation for you."
+      },
+      {
+        "question": "Where do injury crashes cluster in Santa Ana?",
+        "answer": "Reported-collision records for recent years point to the I-5 (Santa Ana Freeway) and surface routes like First Street and Bristol Street, with crashes peaking on Friday evenings. These are public-record counts, not a verdict about any street."
+      },
+      {
+        "question": "Will my case go to trial?",
+        "answer": "Usually not. Most injury claims settle. Your attorney negotiates with the insurer and only litigates if a fair resolution can't be reached."
+      }
+    ]
+  }
+}

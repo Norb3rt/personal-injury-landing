@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "daly-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Daly City, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Daly City or elsewhere in San Mateo County? California gives you 2 years to file. Connect free with an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a collision on I-280, a fall at a Westlake shop, or a dog bite left you injured, LawProactive connects you free of charge with an independent personal injury attorney serving San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Daly City, California",
+    "longDescription": "Daly City sits right where San Francisco gives way to the Peninsula, and a great deal of traffic passes through on its way somewhere else. I-280 carries the bulk of it, while Mission Street, John Daly Boulevard and Junipero Serra Boulevard handle the local flow between neighborhoods, the BART station and the shops around Westlake. Public records for 2025 list 257 injury collisions inside the city, with 336 people hurt and one life lost. Reports tend to rise on Friday evenings between 6 and 8 p.m., when commuters heading home and weekend traffic overlap on the same streets. If you were one of those 336 people, you probably have more questions than answers right now. That is where LawProactive comes in. We are a free service, not a law firm. We do not give legal advice and we do not handle cases ourselves. What we do is connect you with an independent personal injury attorney who takes claims in San Mateo County and can walk through what happened to you. Attorneys in our network work on contingency, so there is no fee unless there is a recovery. Reaching out costs nothing and commits you to nothing, and it can bring some clarity to a confusing stretch of time.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Daly City Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms and collarbones",
+      "Back and spinal disc injuries",
+      "Knee and hip injuries from slips and falls",
+      "Cuts, bruising and soft-tissue damage"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Daly City Claim",
+    "items": [
+      {
+        "title": "Two years, and sometimes far less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county or state agency may be responsible, the window to file a claim can shrink to six months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share of the blame rather than eliminated altogether."
+      },
+      {
+        "title": "No statutory cap on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages such as pain, lost enjoyment of life and emotional distress. Each case is valued on its own facts."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster keeps calling and I do not know what to say",
+      "I cannot work right now and the bills are still coming",
+      "They are saying the crash was partly my fault",
+      "I am not sure I can afford a lawyer at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do injury crashes in Daly City tend to happen?",
+        "answer": "Public collision records show the highest counts along I-280, Mission Street, John Daly Boulevard and Junipero Serra Boulevard. These are simply the corridors that carry the most traffic and therefore log the most reports. Records also show crashes peaking on Fridays between 6 and 8 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date of injury. When a government entity is involved, such as a claim over a city vehicle or roadway condition, you may have only six months to file a claim. An attorney can confirm which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for what happened?",
+        "answer": "California uses pure comparative fault, which means being partly at fault reduces your recovery but does not bar it. If you were found 30 percent responsible, for example, your recovery would be reduced by 30 percent. Insurance companies sometimes overstate a person's share of fault, which is one reason people choose to speak with an attorney."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not provide legal advice or represent clients. Any attorney you are connected with practices independently."
+      },
+      {
+        "question": "What will it cost me to talk to an attorney?",
+        "answer": "Using LawProactive is free, and the attorneys in our network work on contingency. That means no attorney fee unless there is a recovery in your case. The initial conversation is a chance to ask questions and decide whether you want to move forward."
+      }
+    ]
+  }
+}

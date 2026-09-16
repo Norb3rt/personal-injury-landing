@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "martinez medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Martinez Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Martinez, CA? LawProactive connects you free with an independent attorney familiar with MICRA deadlines and rules."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Martinez didn't go the way it should have, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's specific rules."
+  },
+  "about": {
+    "title": "Martinez Medical Malpractice Claims",
+    "longDescription": "Martinez residents rely on a mix of local clinics, urgent care centers, and larger Contra Costa County medical facilities, and most visits end without incident. But when a provider misses a diagnosis, makes a surgical error, or mishandles medication, the consequences can follow a patient for years. California treats these claims differently than a typical injury case — MICRA sets a short notice period, a filing deadline, and a cap on certain damages that adjusts annually. Because the law requires a qualified medical expert to weigh in before a malpractice claim can move forward, it helps to talk with someone familiar with these requirements early rather than after key windows have narrowed. LawProactive doesn't practice law or decide the strength of any claim. We simply listen to what happened, gather basic details, and connect Martinez residents with an independent attorney who can review the medical facts and explain what options may exist under California law.",
+    "commonInjuriesTitle": "Situations We Commonly Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What Martinez Patients Should Know About MICRA",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally gives one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim. A 90-day pre-suit notice to the provider is also required before filing, which is why early conversations matter."
+      },
+      {
+        "title": "A Capped, Not Unlimited, Damages Structure",
+        "desc": "MICRA places a statutory cap on non-economic damages, though that figure rises each year under current law. An independent attorney can explain how this framework applies to your specific circumstances."
+      },
+      {
+        "title": "Medical Expert Review Is Almost Always Needed",
+        "desc": "California law nearly always requires input from a qualified medical expert to support a malpractice claim. A bad outcome by itself isn't enough — the case has to show the care fell below an accepted standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery in Martinez — does that automatically mean malpractice?",
+        "answer": "Not necessarily. California law requires showing that a provider's care fell below an accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney, working with a qualified medical expert, can help determine whether the facts support a claim."
+      },
+      {
+        "question": "How long do I have to act on a possible malpractice case?",
+        "answer": "Under MICRA, the general rule is one year from when you discover the injury, and no more than three years from when it happened, whichever comes first. There's also a required 90-day notice period before a lawsuit can be filed, so it's best not to wait to ask questions."
+      },
+      {
+        "question": "Does LawProactive handle malpractice claims tied to Contra Costa County hospitals or Martinez clinics?",
+        "answer": "LawProactive isn't a law firm and doesn't handle claims directly — we connect Martinez residents with independent attorneys who evaluate cases involving local providers, clinics, and hospitals throughout Contra Costa County. There's no cost to get connected, and the attorneys work on contingency, meaning no fee unless there's a recovery."
+      }
+    ]
+  }
+}

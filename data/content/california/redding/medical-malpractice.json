@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "redding medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Attorney in Redding, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Redding or Shasta County? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a provider's mistake in Redding left you or someone you love with lasting harm, we can connect you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Redding Medical Malpractice Claims",
+    "longDescription": "When you go in for treatment in Redding, you expect the people caring for you to follow accepted standards. Sometimes, though, a missed diagnosis, a medication mix-up, or a surgical error leaves a Shasta County patient worse off than before. Medical malpractice cases are not about second-guessing every decision a doctor makes; California law asks whether the care fell below what a reasonably careful provider would have done, and whether that failure caused real harm. A poor outcome by itself does not meet that bar. Proving the difference almost always requires a qualified medical expert who can review your records and explain where things went wrong. Timing matters too. Under MICRA you generally have one year from when you discovered the injury, and no more than three years from the injury, plus a 90-day notice must go to the provider before a lawsuit is filed. LawProactive is a free service that connects Redding patients and families with an independent attorney who handles these claims on contingency, so you owe nothing unless there is a recovery.",
+    "commonInjuriesTitle": "Harm We Commonly See in Redding Malpractice Claims",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to follow up on abnormal test or imaging results"
+    ],
+    "ctaText": "Ask a Redding malpractice attorney to review your records — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Redding Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are short and unforgiving",
+        "desc": "California generally gives you one year from discovery and never more than three years from the injury, and a 90-day pre-suit notice must be served first. Getting connected early protects those windows."
+      },
+      {
+        "title": "Expert testimony is nearly always required",
+        "desc": "A qualified medical expert must usually explain how the care fell below the standard and caused your harm. The attorneys in our network know how to line that review up before filing."
+      },
+      {
+        "title": "The non-economic damages cap changes every year",
+        "desc": "MICRA limits non-economic damages, but the cap rises annually. An attorney who tracks the current figure can set realistic expectations for your Shasta County claim without overpromising."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "After a crash on Rt 273, the Redding emergency room missed my injury. Is that malpractice?",
+        "answer": "It might be, but only if the emergency team failed to do what a reasonably careful provider would have done under the same circumstances and that failure made your condition worse. Redding saw 531 people injured in collisions in 2025, and some of those patients passed through local emergency rooms; a missed fracture or internal injury in that setting can support a claim when an expert confirms the standard of care was not met. The crash claim and the malpractice claim are separate, and an attorney can evaluate both."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Under MICRA, you generally have one year from the date you discovered, or reasonably should have discovered, the injury, and in most cases no more than three years from when the injury occurred. You must also give the provider 90 days' written notice before filing suit. Because these rules interact in complicated ways, it is wise to talk with an attorney well before either date approaches."
+      },
+      {
+        "question": "My treatment simply did not work. Do I have a case?",
+        "answer": "A disappointing result on its own is not malpractice. Medicine carries risk, and California law only holds a provider responsible when the care itself fell below the accepted standard and that lapse caused harm. An attorney will typically have a qualified medical expert review your records to determine whether that line was crossed."
+      }
+    ]
+  }
+}

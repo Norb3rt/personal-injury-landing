@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "colma car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colma Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Colma car accident? Get connected free with an independent CA attorney. No fee unless you recover. San Mateo County service."
+  },
+  "hero": {
+    "subtitle": "If a crash on El Camino Real, Hillside Boulevard, or Junipero Serra Boulevard left you hurt, LawProactive can connect you with an independent attorney serving Colma at no upfront cost."
+  },
+  "about": {
+    "title": "Colma Car Accident Claims",
+    "longDescription": "Colma is a small town, but its stretch of El Camino Real, Hillside Boulevard, and Junipero Serra Boulevard still carries steady traffic between San Mateo County communities, and collisions happen even on quiet corridors. Public records show a handful of injury crashes each year in Colma, often clustering around Friday midday hours when commuter and errand traffic overlaps. Whether your crash happened at a signalized intersection along El Camino Real or on a residential side street, the aftermath can mean medical appointments, missed work, and calls from an insurance adjuster you didn't expect. LawProactive doesn't practice law — we're a free service that connects you with an independent personal injury attorney familiar with San Mateo County claims. They can help you understand your options, deal with insurance communication, and figure out next steps while you focus on recovering. There's no obligation to move forward, and no fee unless your case results in a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Broken bones and fractures",
+      "Shoulder and knee ligament tears",
+      "Cuts, bruising, and soft tissue damage"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney who can help."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash date to file a personal injury claim in California, but if a government-owned road or vehicle was involved, that window can shrink to as little as six months. An attorney can flag early which timeline applies to your situation."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California allows recovery even if you're partly at fault, but your share of fault reduces your compensation. Insurers know this and often try to shift blame onto you early — before you've had a chance to review the facts."
+      },
+      {
+        "title": "What You Say Can Be Used Later",
+        "desc": "A recorded statement to the other driver's insurer isn't required, and it can be used to minimize your claim. It's worth speaking with an attorney before agreeing to any interview or signing anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was in a crash near the Colma BART area — do I need to file anything right away?",
+        "answer": "Not immediately, but don't wait too long either. California generally gives you two years to file a car accident claim, though that window is much shorter if a government entity — like a public transit vehicle or a city-maintained road — is involved. Getting a free case review early helps preserve evidence and protects your options."
+      },
+      {
+        "question": "The other driver's insurance company already called me. Should I talk to them?",
+        "answer": "You're not obligated to give a recorded statement, and it's generally safer not to until you've spoken with an attorney. Insurers sometimes use early statements to reduce what they eventually pay. An independent attorney connected through LawProactive can advise you on how to respond."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows a pure comparative fault rule, meaning you can still recover damages even if you share some blame — your compensation is simply reduced by your percentage of fault. This makes it important to have someone review the facts carefully rather than accept the insurer's first assessment."
+      }
+    ]
+  }
+}

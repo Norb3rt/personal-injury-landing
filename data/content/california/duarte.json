@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "duarte city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Duarte, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Duarte? Free connection to an LA County injury attorney. 2 years to file. No fee unless you win. Get started now."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a crash on Huntington Drive or hit as a pedestrian near I-210, we'll connect you with an independent attorney serving Los Angeles County — free, with no obligation."
+  },
+  "about": {
+    "title": "Personal Injury Help in Duarte, California",
+    "longDescription": "Duarte may be a small city of under 22,000 people, but its roads carry a steady stream of traffic every day. The I-210 (Foothill Freeway) cuts through town, and Huntington Drive and Buena Vista Street handle much of the local commuter and commercial flow. In the most recent year on record, Duarte saw 69 injury collisions, with 81 people hurt and 1 traffic death. Public-record data shows crashes tend to cluster on Friday afternoons, between 4 and 6 p.m., likely tied to end-of-week commute traffic. If you were hurt in one of these collisions, you're probably dealing with medical bills, missed work, and a lot of uncertainty about what happens next. LawProactive is a free service — not a law firm — that connects injured people in Duarte with an independent personal injury attorney who can review the details of what happened. There's no cost to get connected, and any attorney you're matched with works on contingency, meaning there's no fee unless you recover compensation. You don't have to figure this out alone or make a decision right away — but California law does put a clock on your options, so it helps to talk to someone sooner rather than later.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Herniated discs and back injuries",
+      "Traumatic brain injuries",
+      "Torn ligaments and soft-tissue damage",
+      "Cuts, bruises, and scarring from impact"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but if a government vehicle or agency was involved, that window can shrink to as little as six months. Waiting even a few weeks can matter."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Case",
+        "desc": "Under California's pure comparative fault rule, you can still recover compensation even if you were partly responsible for the accident — your share of fault simply reduces the amount, it doesn't erase it."
+      },
+      {
+        "title": "No Cap on What You Can Recover for Pain and Suffering",
+        "desc": "In most ordinary injury cases, California doesn't limit non-economic damages like pain, suffering, or loss of enjoyment of life the way some other states do."
+      },
+      {
+        "title": "You Don't Pay Unless You Win",
+        "desc": "Attorneys in our network work on contingency, meaning legal fees only come out of a settlement or award — never out of pocket up front."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're too hurt to work",
+      "Not knowing if the insurance adjuster's offer is fair",
+      "Feeling like the crash was partly your fault and wondering if that means you're stuck",
+      "Losing track of time and realizing you might be running out of it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much time do I have to file a claim after a crash in Duarte?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a personal injury claim. If the at-fault party was a government entity, such as a city or county vehicle, that deadline can be as short as six months, so it's worth checking early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your total recovery is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to happen in Duarte?",
+        "answer": "Public collision records show higher volumes along corridors like I-210 (Foothill Freeway), Huntington Drive, and Buena Vista Street, with reported crashes tending to cluster on Fridays between 4 and 6 p.m. These are simply where more collisions have been recorded, not a judgment about the roads themselves."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. In ordinary personal injury cases, California does not cap non-economic damages like pain and suffering. This is different from some other states, and it means compensation can reflect the actual impact of your injuries."
+      },
+      {
+        "question": "Will I owe money upfront if I connect with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no upfront cost or obligation to move forward."
+      }
+    ]
+  }
+}

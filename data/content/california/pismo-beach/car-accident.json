@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "pismo-beach car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pismo Beach Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Pismo Beach car accident? Get connected free to an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a crash along US-101 or Dolliver Street in Pismo Beach, LawProactive can connect you with an independent attorney at no cost to you."
+  },
+  "about": {
+    "title": "Pismo Beach Car Accident Claims",
+    "longDescription": "Pismo Beach may be small, but its stretch of US-101 carries steady traffic through town, and Dolliver Street pulls in visitors heading toward the pier and beachfront. Public records show 58 injury collisions here recently, with 73 people hurt — and reported crashes tend to cluster on Friday afternoons between 4 and 6 p.m., likely tied to weekend traffic building along the highway corridors. If you were injured in one of these collisions, the moments right after matter: photos, witness names, and vehicle damage can fade or disappear quickly. LawProactive doesn't practice law — we connect injured people in Pismo Beach with an independent personal injury attorney who can review what happened and explain options, at no upfront cost. You focus on recovering; we help you find someone who can look into the rest.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and soft-tissue neck injuries",
+      "Back and spinal strain",
+      "Concussions and head injuries",
+      "Broken bones and fractures",
+      "Shoulder and knee injuries from impact",
+      "Cuts, bruising, and airbag-related injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before You Talk to the Insurer",
+    "items": [
+      {
+        "title": "California's Filing Clock Is Ticking",
+        "desc": "You generally have two years from the crash date to file a car accident claim in California, but that window can shrink to six months if a government entity — like Caltrans on US-101 — is involved. An attorney can help sort out which deadline applies to your situation."
+      },
+      {
+        "title": "Comparative Fault Can Affect Your Claim",
+        "desc": "California allows recovery even if you're partly at fault, but your share of fault can reduce what you're able to recover. Having someone evaluate the police report and evidence early can matter for how fault gets assigned."
+      },
+      {
+        "title": "Recorded Statements Can Be Used Against You",
+        "desc": "The other driver's insurer may ask for a recorded statement soon after the crash — you're not required to give one, and it's often better to speak with an attorney first so your words aren't used to minimize your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a car accident in Pismo Beach?",
+        "answer": "California generally gives you two years from the date of the crash to file a personal injury claim. If a government entity, like Caltrans for a US-101 incident, is involved, that deadline can be as short as six months. It's worth getting a claim reviewed early so you don't lose the ability to pursue it."
+      },
+      {
+        "question": "What if the crash happened on US-101 and I'm not sure who was at fault?",
+        "answer": "California uses a comparative fault system, meaning you can still recover damages even if you were partly responsible — your recovery is just reduced by your share of fault. An independent attorney can look at the police report, witness statements, and any available evidence from the scene to help clarify what happened."
+      },
+      {
+        "question": "Should I talk to the other driver's insurance company first?",
+        "answer": "You're not obligated to give a recorded statement to the other driver's insurer, and doing so before speaking with an attorney can sometimes work against you. It's generally safer to have someone review your claim first. LawProactive can connect you with an independent attorney at no cost to discuss this before you respond to any insurer."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "blythe city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Blythe, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Blythe? Riverside County crash victims have 2 years to file. Free attorney connection, no fee unless you win. Reach out today."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on I-10 or injured in a fall or workplace accident, we'll connect you with an independent attorney at no cost, serving Blythe and all of Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Blythe, California",
+    "longDescription": "Blythe sits along the I-10 corridor, a route that carries heavy interstate traffic through the city and links into local streets like W Hobson Way. In the most recent year on record, Blythe saw 22 injury collisions, 28 people hurt, and 1 traffic death — numbers that reflect how much day-to-day risk comes with living near a major freeway corridor in a small desert city. Reported crashes here tend to cluster on Wednesday evenings between 6 and 8 p.m., a pattern likely tied to commuter and freight traffic converging at once. If you or someone you love has been hurt in a collision on I-10, I-10 Westbound, W Hobson Way, or anywhere else in town, you don't have to sort out the next steps by yourself. LawProactive is a free service — we are not a law firm — that connects injured people in Blythe with an independent personal injury attorney who can look at what happened and explain your options. There's no cost to talk, and any attorney you're connected with works on contingency, meaning no fee unless there's a recovery.",
+    "commonInjuriesTitle": "Common Injuries We See in Blythe",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from rollover or highway collisions"
+    ],
+    "ctaText": "Reach out for a free, no-obligation attorney connection today."
+  },
+  "whyChoose": {
+    "title": "Why Blythe Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have Limited Time to Act",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, but that window can shrink to as little as six months if a government entity, like a city road crew, was involved. Waiting too long can cost you your right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "California places no cap on non-economic damages, such as pain and suffering, in standard injury cases. That means your claim isn't artificially limited by a state-imposed dollar figure."
+      },
+      {
+        "title": "You Pay Nothing Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to you. Legal fees only come out of a settlement or award if your case succeeds."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Fear that admitting any fault will end your claim entirely",
+      "Feeling overwhelmed trying to handle paperwork while recovering"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Blythe?",
+        "answer": "California law generally allows two years from the date of the injury to file a personal injury claim. If a government entity is involved, such as a city or county road department, that deadline can be as short as six months. It's best to get information early so you don't lose your options."
+      },
+      {
+        "question": "Where do crashes tend to happen in Blythe?",
+        "answer": "Based on public-record collision counts, reported crashes cluster along corridors like I-10, I-10 Westbound, and W Hobson Way, with a noticeable peak on Wednesdays between 6 and 8 p.m. This is simply a pattern in the data, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, meaning you can still recover compensation even if you share some responsibility. Your total recovery would just be reduced by your percentage of fault, not blocked entirely."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in ordinary personal injury cases. This is different from some other states, so it's worth having someone review your specific situation."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. If you're connected with an attorney, they work on contingency, meaning they only get paid if you receive a settlement or award."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "king-city medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "King City Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in King City? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a hospital visit or procedure in King City goes wrong, the aftermath can feel isolating. LawProactive connects you at no cost with an independent attorney who handles medical malpractice claims in Monterey County."
+  },
+  "about": {
+    "title": "King City Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases in a smaller community like King City often carry an added layer of difficulty: many residents rely on a limited number of local clinics and providers, and travel to Monterey County or beyond for specialty care. When a diagnosis is missed, a surgery goes wrong, or medication is mismanaged, the harm can ripple through a family for years. California law treats these claims differently than a typical injury case — there are strict notice requirements, tighter filing windows, and rules around expert testimony that make early action important. LawProactive doesn't practice law itself; we simply help King City residents get in touch with an independent attorney who can review medical records, evaluate whether the standard of care was met, and explain what a claim might involve. The conversation is free, and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Are Shorter Than You Think",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, plus a required 90-day pre-suit notice. Missing these windows can end a claim before it starts, so getting guidance early matters."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "A qualified medical expert almost always has to weigh in on whether the care you received fell below an acceptable standard. An attorney can help arrange that review rather than you trying to interpret medical records alone."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises Yearly",
+        "desc": "California law places a limit on non-economic damages in these cases, and that cap is adjusted upward each year under MICRA. An attorney can walk you through how this affects your specific claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery — does that automatically mean malpractice happened?",
+        "answer": "Not necessarily. A poor result on its own isn't proof of malpractice under California law; the question is whether the provider's care fell below the accepted standard. An independent attorney can help review what happened and whether it meets that legal threshold."
+      },
+      {
+        "question": "Are there local hospitals or clinics near King City I should mention when I connect with an attorney?",
+        "answer": "Yes, mentioning where you received care — whether a local clinic in King City or a facility elsewhere in Monterey County — helps the attorney understand which records and providers are relevant. This also helps identify who the notice of intent to sue needs to be sent to."
+      },
+      {
+        "question": "How long do I actually have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury was caused by medical care, but no more than three years from the date of the injury itself. There's also a mandatory 90-day notice period before a lawsuit can be filed, so timing can get complicated fast — it's worth getting a case reviewed sooner rather than later."
+      }
+    ]
+  }
+}

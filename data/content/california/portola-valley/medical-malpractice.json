@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "portola-valley medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Portola Valley Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for Portola Valley, CA patients. No fee unless you recover. Learn your rights under MICRA."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or medical decision in Portola Valley left you or a loved one worse off than expected, LawProactive can connect you with an independent attorney who handles California medical malpractice claims at no upfront cost."
+  },
+  "about": {
+    "title": "Portola Valley Medical Malpractice Claims",
+    "longDescription": "Portola Valley residents rely on nearby San Mateo County medical centers and specialists for everything from routine care to emergency treatment, and most of the time that care goes as expected. But when a diagnosis is missed, a surgery goes wrong, or medication is mismanaged, the effects can reshape a family's daily life in a quiet community like this one. California law treats these cases carefully — a poor result by itself doesn't mean malpractice occurred, and proving a claim generally requires a qualified medical expert to show the standard of care was not met. LawProactive is not a law firm; we're a free service that helps connect Portola Valley residents with an independent attorney who understands the strict rules, short timelines, and expert requirements built into California's medical malpractice statutes, so you don't have to navigate this alone or guess at your options while healing.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Help Connect You About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor post-treatment condition"
+    ],
+    "ctaText": "Speak with an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Portola Valley Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding of MICRA's Strict Timeline",
+        "desc": "California generally requires malpractice claims within one year of discovery and no more than three years from the injury, plus a 90-day pre-suit notice. An attorney can help make sure these deadlines aren't missed."
+      },
+      {
+        "title": "Awareness of the Non-Economic Damages Cap",
+        "desc": "California law caps non-economic damages in malpractice cases, and that cap rises annually. An independent attorney can explain how this cap may apply to your specific circumstances."
+      },
+      {
+        "title": "Access to the Expert Review Malpractice Cases Require",
+        "desc": "Because a qualified medical expert is almost always needed to establish that care fell below the accepted standard, connecting with an attorney experienced in coordinating this kind of review matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from the date it occurred, whichever comes first. There's also a required 90-day pre-suit notice before filing. Because these deadlines are strict, it helps to speak with an attorney as soon as possible."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law recognizes that not every poor result comes from negligence — sometimes complications happen even with proper care. To pursue a claim, you typically need a qualified medical expert to show the provider's care fell below the accepted standard."
+      },
+      {
+        "question": "I live in Portola Valley — does it matter that my treatment happened at a larger San Mateo County facility?",
+        "answer": "Not really. What matters is where the care was provided and whether it met California's standard of care, not your home address. LawProactive can still connect Portola Valley residents with an independent attorney regardless of which county facility was involved."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes, California caps non-economic damages in medical malpractice cases, though that cap increases each year under current law. An attorney can walk you through how this may apply to your case and what other types of compensation might be available."
+      }
+    ]
+  }
+}

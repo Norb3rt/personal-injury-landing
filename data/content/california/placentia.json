@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "placentia city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Placentia, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Placentia? Orange County residents get 2 years to file. Free connection to an attorney, no fee unless you win. Get started now."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on SR-57 or a fall in a Placentia parking lot, we connect you with an independent attorney at no cost, serving all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Placentia, California",
+    "longDescription": "Placentia sits along the SR-57 corridor, where Orangethorpe Avenue and Placentia Avenue carry heavy daily traffic through the city's neighborhoods and commercial strips. In the most recent full year on record, Placentia saw 164 injury collisions, resulting in 246 people hurt and 1 traffic death. Many of these crashes cluster on Tuesday afternoons between 3 and 5 p.m., a pattern consistent with commuter volume along SR-57 Southbound and Northbound. If you or someone you love was hurt in one of these incidents, or in any other kind of accident around Placentia, LawProactive can help you take the next step. We are a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we don't charge you anything to make that connection. The attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Understanding your options shouldn't add stress to an already difficult time, and reaching out costs nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Deep cuts and lacerations",
+      "Torn ligaments and soft tissue injuries"
+    ],
+    "ctaText": "Find out where you stand — reach out for a free, no-obligation connection today."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline Is Firm",
+        "desc": "You generally have two years from the date of injury to file a claim in California, but that window shrinks to as little as six months if a government entity was involved. Waiting too long can permanently close the door on compensation."
+      },
+      {
+        "title": "Shared Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Limit on Pain and Suffering Damages",
+        "desc": "California places no cap on non-economic damages, such as pain and suffering, in typical injury cases. This means your recovery isn't artificially limited by a statutory ceiling."
+      },
+      {
+        "title": "You Pay Nothing Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to get legal help. Fees only come out of a recovery, so pursuing a claim carries no financial risk to you."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up faster than I can handle",
+      "I don't know if I can afford a lawyer right now",
+      "The insurance company keeps calling and I'm not sure what to say",
+      "I'm worried the deadline to file will pass before I figure this out"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Placentia?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a lawsuit. If a government agency or public entity is involved, that deadline can shrink to as little as six months, so it's important not to delay."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some responsibility. Your final award is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Placentia?",
+        "answer": "Public crash records show higher collision counts along corridors like SR-57 Southbound, Orangethorpe Avenue, Placentia Avenue, and SR-57 Northbound. Reported crashes also tend to peak on Tuesdays between 3 and 5 p.m., reflecting commuter traffic patterns rather than any judgment about the roads themselves."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney, and we are not a law firm ourselves. Attorneys in our network work on contingency, so there's no fee unless they recover compensation for you."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases in California, there's no cap on non-economic damages like pain and suffering. This differs from some other states, so it's worth discussing your specific situation with an attorney."
+      }
+    ]
+  }
+}

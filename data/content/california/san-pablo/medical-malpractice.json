@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "san-pablo medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Pablo Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney serving San Pablo, CA. No fee unless you recover. MICRA deadlines apply."
+  },
+  "hero": {
+    "subtitle": "When a hospital visit or diagnosis in San Pablo leaves you worse off, sorting out what happened and what comes next can feel overwhelming. We connect San Pablo residents with independent attorneys who handle these cases on contingency."
+  },
+  "about": {
+    "title": "San Pablo Medical Malpractice Claims",
+    "longDescription": "San Pablo residents rely on a mix of local clinics, urgent care centers, and larger Contra Costa County medical facilities for everything from routine checkups to emergency care. Most visits go fine. But when a provider misses something obvious, mishandles a procedure, or fails to follow up properly, the consequences can follow a patient for years. Medical malpractice cases are different from other injury claims — California law requires a qualified medical expert to review the case and confirm that the care fell below an accepted standard, not just that the outcome was disappointing. There are also strict timing rules under MICRA, including a 90-day notice requirement before a lawsuit can be filed. If you believe something went wrong with your care in San Pablo, LawProactive can connect you with an independent attorney who handles these claims and can review what happened at no cost to you upfront.",
+    "commonInjuriesTitle": "Common Situations We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia errors during a procedure",
+      "Failure to monitor a patient after treatment"
+    ],
+    "ctaText": "Talk to an independent attorney about your care in San Pablo — free and confidential."
+  },
+  "whyChoose": {
+    "title": "What Matters in a MICRA Case",
+    "items": [
+      {
+        "title": "Strict Filing Windows",
+        "desc": "California generally gives one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim. Missing these deadlines can end a case before it starts."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before a lawsuit can be filed, California law requires sending the healthcare provider a 90-day pre-suit notice. An attorney familiar with this process can help make sure it's handled correctly."
+      },
+      {
+        "title": "Expert Review Is Required",
+        "desc": "A qualified medical expert almost always has to confirm the care fell below an accepted standard — a bad outcome by itself isn't enough. This is why an early case review matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome at a San Pablo clinic. Does that automatically mean malpractice?",
+        "answer": "No. California law recognizes that medicine involves risk, and a poor result alone doesn't establish malpractice. A qualified medical expert generally has to review the records and conclude the care fell below the accepted standard. That's part of why an early review with an attorney matters."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from when it occurred. There's also a 90-day pre-suit notice requirement before a lawsuit can be filed. These deadlines are strict, so it helps to act sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes. California's MICRA law sets a cap on non-economic damages, which covers things like pain and suffering rather than medical bills. That cap rises each year under current law. An attorney can walk you through how this applies to your specific situation."
+      },
+      {
+        "question": "How does LawProactive work for someone in San Pablo?",
+        "answer": "We're a free service, not a law firm, so we don't charge anything to connect you with an independent attorney in the area. The attorneys in our network work on contingency, meaning there's no fee unless you recover. You can share what happened and get matched with someone who handles medical malpractice claims."
+      }
+    ]
+  }
+}

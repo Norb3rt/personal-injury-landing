@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "san-ramon workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Ramon Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in San Ramon? LawProactive connects Contra Costa workers with an independent injury attorney for free. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Injured while working in San Ramon and unsure whether workers' comp is your only option? We connect you, at no cost, with an independent attorney who can sort out whether a third party also owes you a claim."
+  },
+  "about": {
+    "title": "San Ramon Workplace Injury Claims",
+    "longDescription": "Much of the work that happens in San Ramon happens in offices, warehouses, and on the roads that link them. Employees drive Bollinger Canyon Road and Crow Canyon Road between sites, delivery crews merge onto I-680 southbound during the afternoon rush, and contractors build and maintain the properties along San Ramon Valley Boulevard. When one of those workdays ends in an injury, the path forward is not always obvious. California workers' compensation is usually your exclusive remedy against your employer, and it applies no matter who was at fault. But if a negligent third party contributed — a subcontractor on a shared job site, a property owner who ignored a hazard, a defective piece of equipment, or another driver — a separate injury claim may be available on top of comp. LawProactive is a free service, not a law firm. We connect injured San Ramon workers with an independent attorney who handles both sides of that question and works on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See From San Ramon Job Sites",
+    "commonInjuries": [
+      "Falls from ladders, roofs, or scaffolding",
+      "Back, neck, and shoulder injuries from lifting",
+      "Crashes while driving a work vehicle or running work errands",
+      "Crush and caught-in injuries from machinery",
+      "Repetitive strain, including carpal tunnel",
+      "Burns, electrical shock, and chemical exposure"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why San Ramon Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look past the comp claim",
+        "desc": "Workers' compensation is usually the only claim you can bring against your employer, but it is not always the only claim. The attorneys we connect you with check whether a negligent subcontractor, property owner, equipment maker, or driver opened the door to a separate injury case."
+      },
+      {
+        "title": "We help you protect the clock",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and a third-party claim generally carries a two-year filing deadline. Getting connected early keeps both of those dates from slipping."
+      },
+      {
+        "title": "Retaliation is illegal, and you won't face it alone",
+        "desc": "Firing, demoting, or punishing a worker for reporting an injury is against California law. An independent attorney can address that pressure while your claim moves forward, and there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on I-680 while driving for my San Ramon employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation typically covers your medical care and part of your lost wages regardless of who caused the crash. If the other driver was negligent, you may also have a separate injury claim against that driver, and that claim carries California's two-year deadline. San Ramon's public-record collisions cluster on Fridays between 5 and 7 p.m., so end-of-week work driving is a common source of these dual-track cases."
+      },
+      {
+        "question": "Do I really have to report my injury within 30 days?",
+        "answer": "California law asks you to notify your employer within 30 days of a work injury, and waiting longer can complicate or weaken your comp claim. Report it in writing if you can, even if the injury feels minor at first. Your employer is not allowed to retaliate against you for reporting."
+      },
+      {
+        "question": "Is LawProactive a law firm, and what does it cost to use?",
+        "answer": "No. LawProactive is a free connection service that matches injured San Ramon workers with an independent personal injury attorney. The attorneys in our network work on contingency, which means you pay no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

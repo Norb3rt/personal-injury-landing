@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "anaheim slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Anaheim Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Anaheim? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you were hurt by a hazard on someone else's property in Anaheim, you deserve clear answers about who was responsible. LawProactive connects you, at no cost, with an independent attorney who handles premises liability claims across Orange County."
+  },
+  "about": {
+    "title": "Anaheim Slip & Fall and Premises Liability Claims",
+    "longDescription": "A wet floor with no sign out. A parking lot pothole nobody bothered to fill. A stairwell where the light burned out weeks ago. Falls like these happen quietly across Anaheim, a city of roughly 350,000 people in Orange County, and the person who gets hurt is usually just running an ordinary errand. California premises liability law turns on one question more than any other: did the property owner know, or should they have known, about the hazard and fail to fix it or warn you? Lawyers call that notice, and it is what an independent attorney will work to establish on your behalf. Evidence fades quickly. Surveillance footage from a store along Ball Road or an apartment complex off Lincoln Avenue can be overwritten within days, which is why reaching out early makes a real difference. You generally have two years to file, and considerably less time when a city or county agency owns the property. LawProactive is a free connection service, not a law firm. We match you with an independent attorney who works on contingency, so there is no fee unless you recover.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Anaheim Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and shoulder fractures from bracing a fall",
+      "Concussions and traumatic brain injuries",
+      "Back and spinal disc injuries",
+      "Knee ligament tears and dislocations",
+      "Cuts, deep bruising, and soft-tissue sprains"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Anaheim Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys Who Focus on Notice",
+        "desc": "Proving the owner knew or should have known about the hazard is the heart of a California premises case. The independent attorneys in our network understand how to build that proof through inspection records, prior complaints, and maintenance logs."
+      },
+      {
+        "title": "Early Steps to Preserve Video and Evidence",
+        "desc": "Store cameras and apartment security systems often overwrite footage in a matter of days. An attorney can send a preservation demand promptly and help you document the hazard, your footwear, and the scene before anything changes."
+      },
+      {
+        "title": "No Cost to Connect, No Fee Unless You Recover",
+        "desc": "LawProactive is free to use and is not a law firm. The independent attorneys we connect you with work on contingency, and they can also flag whether a shorter public-entity deadline applies to your Anaheim claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Anaheim. Is that different from falling inside a store?",
+        "answer": "It can be, and the difference matters. When a sidewalk or other property is owned by the City of Anaheim, Orange County, or another government agency, California requires a formal claim within a much shorter window than the two years that applies to private owners. Figuring out who actually owns and maintains the spot where you fell is one of the first things an attorney will sort out, so it helps to reach out soon."
+      },
+      {
+        "question": "The store says I wasn't paying attention. Does that end my claim?",
+        "answer": "Not in California. The state follows pure comparative fault, which means your recovery is reduced by whatever share of blame is assigned to you rather than eliminated. If the owner had notice of the hazard and did nothing about it, that failure still counts against them. An independent attorney can evaluate how fault might be divided in your situation."
+      },
+      {
+        "question": "What should I do right now if I was hurt in a fall on someone else's property?",
+        "answer": "Get medical care first, even if the pain seems manageable, because some fall injuries show up later. Then photograph the hazard, the surrounding area, and your shoes, and write down the names of anyone who saw what happened. Ask the property manager for an incident report and request that any camera footage be kept. LawProactive can then connect you at no cost with an independent attorney who will take it from there."
+      }
+    ]
+  }
+}

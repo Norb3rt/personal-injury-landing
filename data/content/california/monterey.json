@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "monterey city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Monterey, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Monterey County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, pedestrian collision, or fall in Monterey, we can connect you with an independent attorney at no cost. We serve people throughout Monterey County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Monterey, California",
+    "longDescription": "Monterey's charm draws visitors and locals alike to Del Monte Avenue, Lighthouse Avenue, Route 68, and Fremont Street — but these same corridors also see a steady share of the area's traffic activity. In the most recent full year on record, Monterey logged 135 injury collisions, resulting in 171 people injured and 1 traffic death. Many reports cluster around Friday afternoons between 5 and 7 p.m., a window when commuters, tourists, and weekend visitors often share the same stretches of road. If you or someone you love has been hurt in a crash, a fall, or another accident in Monterey, you may be dealing with medical bills, missed work, and a lot of uncertainty about what comes next. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we don't charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Our goal is simply to help you find someone who can explain your options and take the legal work off your plate.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from pedestrian or bicycle collisions"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "You generally have two years from the date of injury to file a personal injury claim in California. That window can shrink to as little as six months if a government entity is involved, so early guidance matters."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no limit on non-economic damages like pain and suffering. That means your recovery isn't artificially restricted by a statutory ceiling."
+      },
+      {
+        "title": "You Don't Pay Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to get legal help. Fees only come out of a settlement or award if your case succeeds."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while you're still healing",
+      "Not knowing if you waited too long or if a deadline is approaching",
+      "Feeling like an insurance adjuster is minimizing what happened to you",
+      "Wondering if being partly at fault means you can't get help at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Monterey?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If a government agency or public entity is involved, that deadline can be as short as six months, so it's worth getting guidance quickly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover damages even if you share some responsibility. Your total compensation would simply be reduced by your percentage of fault, not blocked entirely."
+      },
+      {
+        "question": "Where do crashes tend to be reported in Monterey?",
+        "answer": "Based on public crash records, Del Monte Avenue, Lighthouse Avenue, Route 68, and Fremont Street show some of the higher collision counts in the city, with reports often peaking on Friday afternoons between 5 and 7 p.m. These are simply patterns in the public record, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney — we are not a law firm and don't charge fees for making that connection. Any attorney you work with operates on contingency, meaning they only get paid if you recover compensation."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In most standard personal injury cases in California, there's no statutory cap on non-economic damages such as pain and suffering. This differs from some other types of claims, so it's worth discussing your specific situation with an attorney."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "dorris city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dorris, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Dorris, Siskiyou County? Get a free connection to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash or fall in Dorris, we can connect you with an independent attorney at no cost. We serve people throughout Siskiyou County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Dorris, California",
+    "longDescription": "Dorris is a small community in Siskiyou County, but that doesn't mean crashes don't happen here. Public records show 1 injury collision and 1 person injured in the most recent final crash year, with no reported traffic deaths. Local corridors like 1st Street, Route 97, N Main Street, and 4th Street see the traffic that passes through and around town, and even a single collision can leave someone dealing with medical bills, missed work, and a lot of uncertainty about what comes next. LawProactive is a free service that helps injured people in Dorris connect with an independent personal injury attorney. We are not a law firm, and we don't provide legal advice ourselves — we simply make the introduction. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. If you were hurt on 1st Street, along Route 97, or anywhere else in Siskiyou County, reaching out costs you nothing and can help you understand where you stand before time limits under California law start working against you.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Find out if you have a case — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Two-Year Filing Window",
+        "desc": "Most injury claims in California must be filed within two years of the incident, though claims against a government entity can require notice in as little as six months. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still recover compensation reduced by your share of fault. An attorney can help sort out how fault is divided."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no limit on compensation for pain, suffering, and other non-economic losses. That means your recovery isn't artificially capped the way it is in some other states."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so you don't pay unless they win money for you. This makes it possible to get legal help without any upfront cost."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling overwhelmed about deadlines and legal paperwork",
+      "Wondering if being partly at fault means you can't get any help"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no upfront cost to you."
+      },
+      {
+        "question": "How long do I have to file a claim after a crash in Dorris?",
+        "answer": "In most cases, California gives you two years from the date of the incident to file a personal injury claim. If a government entity was involved, the notice period can be as short as six months, so it's best not to wait."
+      },
+      {
+        "question": "Where do crashes tend to happen in Dorris?",
+        "answer": "Public records show that reported collisions in Dorris are associated with corridors like 1st Street, Route 97, N Main Street, and 4th Street, and tend to cluster on Fridays around midnight to 2 a.m. These are simply neutral public-record counts, not a judgment about any road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, so being partly at fault doesn't stop you from recovering compensation. Your recovery would just be reduced by your percentage of fault, which an attorney can help evaluate."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people find an independent attorney to review their situation. We don't provide legal representation or advice ourselves."
+      }
+    ]
+  }
+}

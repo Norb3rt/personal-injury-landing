@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "irvine city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Irvine, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Irvine or elsewhere in Orange County? You have 2 years to file most claims. Get connected free to an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on the 405, hit while riding a bike along Culver Drive, or hurt in a fall at a shopping center, LawProactive connects you with an independent injury attorney at no cost. Serving Irvine and all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Irvine, California",
+    "longDescription": "Irvine is built around wide arterials and two major freeways, and that layout shows up in the public record. In 2025, the city logged 910 injury collisions, leaving 1,233 people hurt and 10 people dead. The corridors with the highest collision counts were I-5 in both directions, I-405 Northbound, and Culver Drive, with reported crashes peaking on Friday evenings between 5 and 7 p.m., as the workweek winds down for commuters leaving the office parks near the Irvine Spectrum. If one of those numbers is you or someone you love, the practical questions come fast. Who pays for the ER visit? What happens when the adjuster calls before you've even filled your prescription? How much time do you actually have? LawProactive exists to answer that last question with a real conversation rather than a form letter. We are a free service, not a law firm. We connect people injured in Irvine and across Orange County with an independent personal injury attorney who handles cases like theirs. The attorney evaluates your situation at no charge, and if you move forward, they work on contingency, meaning no fee unless there is a recovery. There is no obligation to hire anyone, and nothing to pay us, ever.",
+    "commonInjuriesTitle": "Injuries We See From Irvine Accidents",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Fractured wrists, ribs, and collarbones",
+      "Herniated discs and lower back injuries",
+      "Road rash and lacerations for cyclists and pedestrians",
+      "Knee and shoulder tears from slip-and-fall accidents"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "What Irvine Residents Should Know Before They Call an Insurer",
+    "items": [
+      {
+        "title": "The clock is shorter than most people think",
+        "desc": "California gives you two years from the injury date to file most personal injury lawsuits. If a city vehicle, a state road crew, or another public agency was involved, a formal claim may be due in as little as six months."
+      },
+      {
+        "title": "Being partly at fault doesn't end your case",
+        "desc": "California follows pure comparative fault, so a jury can assign you a share of blame and still award damages, simply reduced by that percentage. An adjuster suggesting you get nothing because you 'contributed' is not stating the law."
+      },
+      {
+        "title": "Pain and disruption count, not just bills",
+        "desc": "Ordinary California injury cases have no cap on non-economic damages, which covers things like pain, lost sleep, and being unable to do what you used to do. Medical receipts are only part of the picture."
+      },
+      {
+        "title": "You don't pay a lawyer up front",
+        "desc": "Attorneys in the LawProactive network take injury cases on contingency. Their fee comes out of any recovery, and if there is no recovery, there is no fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say",
+      "My car was totaled on the 5 and I still need to get to work",
+      "I can't afford physical therapy while I'm missing shifts",
+      "I was in the crosswalk but the police report makes it sound like my fault"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Irvine tend to happen, according to public records?",
+        "answer": "In the most recent finalized year, the highest collision counts in Irvine were recorded on I-5 Northbound, I-5 Southbound, I-405 Northbound, and Culver Drive. These are simply the corridors with the most reported incidents, which tracks with how much traffic they carry. Reports also show a peak on Fridays between roughly 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Irvine?",
+        "answer": "For most personal injury cases in California, the deadline to file a lawsuit is two years from the date you were hurt. Claims involving a government entity, such as a city bus or a poorly maintained public road, often require a written claim within six months. Because these deadlines vary, it's worth getting a clear answer for your specific situation early."
+      },
+      {
+        "question": "The insurance company says I was partly to blame. Do I still have a case?",
+        "answer": "Very likely yes. California uses pure comparative fault, which means your recovery is reduced by your percentage of responsibility rather than eliminated. Even someone found mostly at fault can still recover the remaining share."
+      },
+      {
+        "question": "What does it cost to use LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, not a law firm, and we never bill you. The independent attorney you're connected with reviews your case at no charge and works on contingency, so you owe no attorney fee unless they recover money for you."
+      },
+      {
+        "question": "Should I see a doctor even if I feel mostly fine after a crash?",
+        "answer": "Yes. Soft-tissue and head injuries frequently take a day or two to show symptoms, and a prompt medical visit documents what happened while protecting your health. Waiting can give an insurer room to argue the injury came from something else."
+      }
+    ]
+  }
+}

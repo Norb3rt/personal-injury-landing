@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "palmdale city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Palmdale, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Palmdale or elsewhere in Los Angeles County? You have 2 years to file. Get connected free with an independent attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end collision on Palmdale Boulevard or a fall on someone else's property left you hurting, we connect you free of charge with an independent personal injury attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Palmdale, California",
+    "longDescription": "Palmdale sits at the high-desert edge of Los Angeles County, and its wide boulevards carry a lot of traffic between the Antelope Valley and the rest of the region. In 2025, the city recorded 815 injury collisions, with 1,231 people hurt and 14 lives lost. Public records show the heaviest collision counts along Palmdale Boulevard, Rancho Vista Boulevard, Avenue S, and Sierra Highway, and reports tend to rise on Friday evenings between 5 and 7 p.m., when commuters and weekend traffic overlap. Those are simply counts, but each one represents a person whose week did not go as planned. If you were injured in a crash, a fall, a bite, or another incident someone else caused, you may be weighing whether to talk to a lawyer at all. LawProactive exists to make that first step simpler. We are a free service, not a law firm. We connect you with an independent personal injury attorney who handles cases in the Palmdale area, and that attorney works on contingency, meaning no fee unless there is a recovery. There is no charge to reach out, no obligation to hire anyone, and no pressure. You ask questions, get straight answers, and decide what comes next on your own timeline.",
+    "commonInjuriesTitle": "Injuries People in Palmdale Ask About Most",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end crashes",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back injuries and herniated discs",
+      "Road rash and lacerations from motorcycle or bike collisions",
+      "Sprains, fractures, and bruising from slips and falls"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Palmdale Claim",
+    "items": [
+      {
+        "title": "The clock runs two years, sometimes less",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, the window can shrink to as little as six months, so it helps to start early."
+      },
+      {
+        "title": "Partial fault does not end your case",
+        "desc": "California uses pure comparative fault. If you were partly responsible, your recovery is reduced by your share of the blame but not eliminated."
+      },
+      {
+        "title": "No statutory ceiling on pain and suffering",
+        "desc": "In ordinary injury cases, California does not cap non-economic damages such as physical pain or emotional distress. What you went through can be fully considered."
+      },
+      {
+        "title": "Contingency fees, no upfront cost",
+        "desc": "Attorneys in our network are paid only if there is a recovery. You do not write a check to get started, and LawProactive never charges you anything."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The hospital bills are already arriving and I don't know who pays them.",
+      "The other driver's insurer keeps calling and I'm not sure what to say.",
+      "I missed shifts at work and my paycheck is short.",
+      "I don't want to hire a lawyer I can't afford or get talked into anything."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Palmdale tend to happen?",
+        "answer": "According to public collision records, the highest counts in Palmdale fall along Palmdale Boulevard, Rancho Vista Boulevard, Avenue S, and Sierra Highway. Reports also tend to peak on Fridays between 5 p.m. and 7 p.m. These are neutral record counts reflecting traffic volume, not a judgment about any particular street."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and you pay us nothing at any point. The independent attorney we connect you with works on contingency, so there is no attorney fee unless your case results in a recovery."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date you were hurt. If a government entity such as a city or transit agency is involved, you may need to file a claim within six months. Because the deadline depends on the facts, it is wise to ask an attorney about your specific situation soon."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows pure comparative fault, which means you can still recover even if you share some responsibility. Your compensation is reduced in proportion to your percentage of fault rather than wiped out. An attorney can help explain how that might apply to what happened to you."
+      },
+      {
+        "question": "What happens after I reach out?",
+        "answer": "You share the basics of what happened, and we connect you with an independent personal injury attorney who handles cases in Palmdale and the surrounding parts of Los Angeles County. The attorney reviews your situation and explains your options. You are never obligated to hire anyone, and you decide how to proceed."
+      }
+    ]
+  }
+}

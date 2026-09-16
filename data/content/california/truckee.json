@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "truckee city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Truckee, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in a Truckee crash? Nevada County residents get free help finding an attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you or someone you love was hurt in a car crash, fall, or other accident around Truckee, we can connect you with an independent attorney at no cost. We serve people throughout Nevada County, free of charge."
+  },
+  "about": {
+    "title": "Personal Injury Help in Truckee, California",
+    "longDescription": "Truckee sits at a mountain crossroads, and its roads reflect that — Donner Pass Road, I-80, and Route 267 all carry heavy seasonal traffic through town. In the most recent full year on record, Nevada County reported 54 injury collisions in and around Truckee, with 73 people hurt and 1 traffic death. Those are public numbers, not a verdict on any particular stretch of road, but they show that collisions here are a real and recurring part of life in this small mountain community. If you were hurt in one of these crashes, or in a fall, a workplace incident, or any other accident, you may be wondering what comes next — medical bills, missed work, and calls from insurance adjusters can pile up fast. LawProactive is a free service that helps injured people in Truckee get connected with an independent personal injury attorney who can review what happened. We are not a law firm, and we don't handle your case ourselves — we simply make the introduction. Attorneys in our network work on contingency, meaning there's no fee unless you recover money. Reaching out costs nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from winter-road crashes",
+      "Head and brain injuries from high-speed impacts",
+      "Back and spinal injuries from vehicle collisions",
+      "Slip-and-fall injuries on icy walkways",
+      "Injuries from pedestrian or cyclist accidents"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney to talk to, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most personal injury claims in California must be filed within two years of the accident. If a government agency is involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply adjusted to reflect your share of fault."
+      },
+      {
+        "title": "No Cap on Certain Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. An attorney can help you understand what that might mean for your specific situation."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys who take on personal injury cases typically work on contingency, meaning they only get paid if you recover compensation. That removes the financial barrier to getting legal advice."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you waited too long to take action",
+      "Wondering whether being partly at fault means you can't recover anything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "In most cases, you have two years from the date of the accident to file a lawsuit. If your claim involves a government entity, such as a city or county road department, that deadline can be as short as six months. Speaking with an attorney early helps make sure you don't miss an important date."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Truckee?",
+        "answer": "Public crash records show that Donner Pass Road, I-80, Route 267, and the eastbound stretch of Interstate 80 are among the corridors with the highest reported collision counts in Truckee. Reports also tend to peak on Thursdays between 3 and 5 p.m. These are simply recorded patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a rule called pure comparative fault, which means you can still recover compensation even if you share some responsibility for what happened. Your total recovery would just be reduced by your percentage of fault. An attorney can help evaluate how this might apply to your case."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — in ordinary personal injury cases, California does not cap non-economic damages such as pain and suffering. This is different from some other states, so it's worth discussing your situation with an attorney familiar with California law."
+      },
+      {
+        "question": "Does it cost anything to speak with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent attorneys — we are not a law firm and don't charge any fees ourselves. Attorneys in our network generally work on contingency, meaning they only get paid if you recover money."
+      }
+    ]
+  }
+}

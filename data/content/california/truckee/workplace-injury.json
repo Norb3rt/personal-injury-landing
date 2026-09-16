@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "truckee workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Truckee Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Truckee? LawProactive connects injured workers with an independent attorney for workers' comp and third-party claims, free."
+  },
+  "hero": {
+    "subtitle": "Whether you were injured on a mountain construction site, a Donner Pass Road delivery route, or at a resort property in Truckee, LawProactive can connect you with an independent attorney to sort out your options.'"
+  },
+  "about": {
+    "title": "Truckee Workplace Injury Claims",
+    "longDescription": "Truckee's economy runs on ski resorts, restaurants, road maintenance crews, and construction tied to the area's growth, and each of those jobs carries its own injury risks — icy loading docks, heavy equipment, ladders, delivery vehicles navigating Donner Pass Road or I-80. Nevada County workers hurt on the job usually go through the workers' compensation system first, since it's typically the exclusive remedy against an employer no matter who was at fault. But that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the accident, a separate third-party injury claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law — we're a free service that helps injured workers in Truckee get connected with an independent attorney who can look at both sides of a claim and explain what applies to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connected",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or icy walkways",
+      "Equipment and machinery-related injuries",
+      "Vehicle collisions during work deliveries or travel",
+      "Repetitive strain and overexertion injuries",
+      "Slip-and-fall accidents at resorts or job sites",
+      "Injuries from falling objects or debris"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Truckee Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Two Paths to Recovery",
+        "desc": "California generally treats workers' comp as the exclusive remedy against an employer, but a negligent third party like a subcontractor or another driver can open a separate claim. An independent attorney can help sort out whether both apply to your situation."
+      },
+      {
+        "title": "Protecting Your Rights After You Report",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and retaliation for doing so is illegal under California law. Getting connected with an attorney early can help you understand your rights during that process."
+      },
+      {
+        "title": "Watching the Clock on Third-Party Claims",
+        "desc": "If a third party contributed to your injury, that separate claim typically carries a two-year deadline in California. LawProactive can help connect you with an attorney before that window closes."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "If I'm already getting workers' comp, can I still file another claim?",
+        "answer": "Possibly. Workers' comp is usually the exclusive remedy against your employer, but if a third party — like a delivery contractor, equipment maker, or another driver on I-80 or Donner Pass Road — contributed to your injury, a separate claim may be available. An independent attorney can review the details and let you know what applies."
+      },
+      {
+        "question": "Does it matter that my injury happened in Truckee specifically?",
+        "answer": "It can. Truckee's mix of resort work, road maintenance, and construction along corridors like I-80 and Route 267 means many workplace injuries involve vehicles or outside contractors, which raises the possibility of a third-party claim. Local crash patterns, like the Thursday afternoon peak reported for the area, can also be relevant if your injury involved a work vehicle."
+      },
+      {
+        "question": "What if my employer reacts badly to my injury report?",
+        "answer": "Retaliation against an employee for reporting a workplace injury is illegal in California. If you're worried about how your employer has responded, that's worth discussing with an independent attorney, who can explain your protections and next steps."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "san-luis-obispo medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Luis Obispo Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Luis Obispo? Get connected free with an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit, surgery, or diagnosis in San Luis Obispo left you worse off than before, LawProactive can connect you with an independent attorney who understands California's medical malpractice rules and short filing windows."
+  },
+  "about": {
+    "title": "San Luis Obispo Medical Malpractice Claims",
+    "longDescription": "San Luis Obispo residents rely on a mix of local clinics, urgent care centers, and hospital systems that serve San Luis Obispo County's roughly 47,000 residents plus a steady flow of Cal Poly students and visitors. When a provider misses a diagnosis, makes a surgical error, or mismanages medication, the harm can be permanent — but proving it requires more than a bad outcome. California law demands a qualified medical expert to show the provider fell below the accepted standard of care, and the clock on these claims runs faster than in most personal injury cases. LawProactive doesn't practice law or evaluate your medical records ourselves; instead, we connect you, free of charge, with an independent California attorney who can review what happened, order the right records, and explain whether your situation fits the legal definition of malpractice. There's no obligation, and the attorneys in our network work on contingency, meaning no fee unless they recover something for you.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Anesthesia complications",
+      "Medication or dosage errors",
+      "Birth injuries to mother or infant",
+      "Failure to monitor post-operative complications"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney who can review your case at no cost."
+  },
+  "whyChoose": {
+    "title": "Why San Luis Obispo Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the Short Deadline",
+        "desc": "California generally gives you one year from discovering the harm and no more than three years from the injury itself to file. Missing that window can end a claim regardless of merit, so connecting with an attorney early matters."
+      },
+      {
+        "title": "We Know the 90-Day Notice Requirement",
+        "desc": "Before suing a healthcare provider in California, a formal 90-day notice must go out first. The attorneys we connect you with can help make sure this procedural step isn't overlooked or handled too late."
+      },
+      {
+        "title": "We Match You With Attorneys Who Work With Medical Experts",
+        "desc": "Because California requires expert testimony to establish that a provider deviated from the accepted standard of care, having an attorney who regularly works with qualified medical experts can be essential to building a viable claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad outcome from surgery automatically malpractice?",
+        "answer": "No. California law recognizes that medicine carries inherent risks, so a poor result alone doesn't prove negligence. An attorney typically needs a qualified medical expert to show the provider's care fell below the accepted standard — that's the difference between an unfortunate outcome and a legal claim."
+      },
+      {
+        "question": "How long do I have to bring a claim after treatment in San Luis Obispo?",
+        "answer": "Generally, California gives you one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date of the injury itself. Because San Luis Obispo's hospital and clinic records can take time to obtain and review, it's wise to start the process well before either deadline approaches."
+      },
+      {
+        "question": "Is there a limit on how much I can recover?",
+        "answer": "California law caps non-economic damages (like pain and suffering) in medical malpractice cases, though that cap rises each year under current law. Economic damages, such as medical bills and lost income, are generally not subject to this same cap. An attorney can walk you through how this applies to your specific situation."
+      }
+    ]
+  }
+}

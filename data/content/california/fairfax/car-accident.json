@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "fairfax car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fairfax Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Fairfax car crash? Get connected free with an independent attorney. No fee unless you recover. Serving Marin County."
+  },
+  "hero": {
+    "subtitle": "If a crash on Sir Francis Drake Boulevard or Bolinas Road left you hurt, LawProactive can connect you with an independent Marin County attorney at no cost to you."
+  },
+  "about": {
+    "title": "Fairfax Car Accident Claims",
+    "longDescription": "Fairfax is a small town, but its collision counts still add up — recent public records show 17 injury collisions and 19 injured people in a single year, with a concerning traffic death mixed in. Crashes here cluster on Fridays between 3 and 5 p.m., often along Sir Francis Drake Boulevard, Bolinas Road, Broadway, and Center Boulevard, where local traffic, cyclists, and through-commuters share tight lanes. If you were hurt in one of these collisions, the days right after matter: skid marks fade, vehicles get repaired or scrapped, and witnesses move on. LawProactive doesn't practice law — we simply connect injured people in Fairfax with an independent personal injury attorney who can evaluate what happened, deal with the insurance company, and help you understand your options. The service is free, and there's no obligation to move forward. Attorneys in our network work on contingency, so you owe nothing unless you recover compensation.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Broken bones and fractures",
+      "Back and spinal disc injuries",
+      "Shoulder and knee ligament tears",
+      "Cuts, bruises, and soft-tissue damage"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before You Talk to the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash date to file a car accident lawsuit in California, but that window can shrink to as little as six months if a government entity — like the Town of Fairfax or Marin County — is involved. An attorney can check which deadline applies to your situation early."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California uses pure comparative fault, meaning even if you're found partly responsible, you can still recover a reduced share of damages. Insurers know this and often try to inflate your share of blame during recorded statements — something worth avoiding without guidance."
+      },
+      {
+        "title": "No Cap on Pain and Suffering, No Upfront Cost",
+        "desc": "California places no cap on non-economic damages like pain and suffering in a standard car accident case, and attorneys in our network work on contingency, so there's no fee unless you recover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurance adjusters are trained to ask questions that can be used to minimize or deny your claim. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "Fairfax is a small town — will that affect my claim?",
+        "answer": "Not in terms of your legal rights, but local factors can matter. Crashes on corridors like Sir Francis Drake Boulevard or Bolinas Road may involve town or county infrastructure, which can trigger shorter claim deadlines if a government entity is involved. An attorney can sort out who's responsible and what timeline applies."
+      },
+      {
+        "question": "What does it cost to work with an attorney through LawProactive?",
+        "answer": "Nothing upfront. LawProactive's connection service is free, and attorneys in our network handle car accident cases on contingency, meaning they only get paid if you recover compensation. There's no obligation to proceed after your initial conversation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "reedley medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Help in Reedley, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Reedley? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Reedley medical provider's mistake leaves you injured, understanding your options under California's malpractice rules matters. LawProactive can connect you at no cost with an independent attorney who handles cases like yours."
+  },
+  "about": {
+    "title": "Reedley Medical Malpractice Claims",
+    "longDescription": "Reedley residents rely on local clinics, urgent care centers, and Fresno County hospitals for everything from routine checkups to emergency treatment. Most visits go fine, but when a diagnosis is missed, a surgery goes wrong, or medication is mishandled, the consequences can follow a patient for years. California treats these claims differently than a typical injury case — MICRA sets strict notice periods, expert requirements, and caps on certain damages, which makes early, informed action important. LawProactive doesn't practice law ourselves; we're a free service that listens to what happened and connects Reedley patients and families with an independent attorney equipped to evaluate whether a provider's care fell below the accepted standard. A bad medical outcome by itself doesn't prove malpractice, so getting a knowledgeable second opinion on your situation can help you understand where things actually stand and what, if anything, comes next.",
+    "commonInjuriesTitle": "Injuries Linked to Medical Errors",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Hospital-acquired infections from poor protocol"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "What Reedley Patients Should Know Before Moving Forward",
+    "items": [
+      {
+        "title": "Strict Filing Windows Apply",
+        "desc": "California generally gives one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim. Waiting to sort out what happened can quietly shorten the time you have left to act."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can even be filed, California law requires sending the provider formal notice 90 days in advance. An attorney familiar with this step can make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor outcome alone isn't proof of malpractice, California cases generally need a qualified medical expert to weigh in on whether the standard of care was actually breached. This is a technical step an independent attorney can help arrange."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad result from a procedure at a Reedley clinic — does that mean malpractice happened?",
+        "answer": "Not necessarily. California law recognizes that medicine involves risk, and a disappointing outcome by itself isn't enough to establish malpractice. What matters is whether the care given fell below what a reasonably careful provider would have done, which typically requires review by a qualified medical expert."
+      },
+      {
+        "question": "How much time do I have to bring a claim after treatment in Fresno County?",
+        "answer": "Generally, California gives you one year from when you discover the injury, but no more than three years from when it happened, whichever comes first. Because there's also a required 90-day pre-suit notice to the provider, it's worth speaking with an attorney well before any deadline approaches."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "Yes — under MICRA, non-economic damages (like pain and suffering) are subject to a statutory cap, though that cap rises each year. Economic damages, such as medical bills and lost income, are generally handled separately and aren't subject to that same cap."
+      }
+    ]
+  }
+}

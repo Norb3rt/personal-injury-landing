@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "camarillo workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Camarillo Workplace Injury Help | LawProactive",
+    "metaDescription": "Injured on the job in Camarillo? Get connected free with an independent attorney who handles work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "When a workday in Camarillo ends in an emergency room visit, the paperwork and rules can feel like a second injury. LawProactive can connect you, at no cost, with an independent attorney who sorts through your options."
+  },
+  "about": {
+    "title": "Camarillo Workplace Injury Claims",
+    "longDescription": "Camarillo's mix of agriculture, distribution, manufacturing, and retail work along corridors like Las Posas Road and Santa Rosa Road means job sites here range from warehouses to open fields to delivery routes that cross US-101. When someone gets hurt at work, California generally routes the claim through workers' compensation regardless of who was at fault, which limits what an injured worker can seek from their own employer. But if a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate third-party claim may be possible alongside workers' comp. LawProactive doesn't practice law or handle claims directly. We're a free connection service that puts injured workers in Camarillo in touch with an independent attorney who can look at the details, explain the workers' comp process, and evaluate whether a third-party claim applies. There's no obligation to move forward, and the attorneys in our network work on contingency, so there's no upfront cost to find out where you stand.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from forklifts or warehouse machinery",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during delivery or field work",
+      "Burns or chemical exposure incidents",
+      "Injuries from defective tools or equipment"
+    ],
+    "ctaText": "Get connected with an independent attorney today, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "Workers' compensation is usually the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker can open the door to a separate injury claim."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "California generally requires an injury to be reported to the employer within 30 days, so early guidance can help protect a claim before that window closes."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "An employer can't legally punish a worker for reporting an injury, and an attorney can help someone understand their protections if they're worried about speaking up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job site near Las Posas Road by equipment owned by another company. Can I still file a claim?",
+        "answer": "Possibly, yes. Workers' compensation typically covers injuries from your own employer regardless of fault, but if equipment or another company's negligence contributed, a separate third-party claim may also apply. An independent attorney can review the specifics and explain which paths make sense."
+      },
+      {
+        "question": "What's the deadline to report a workplace injury in California?",
+        "answer": "Generally, an injury should be reported to the employer within 30 days. Third-party claims, separate from workers' comp, typically carry a 2-year deadline. Missing either window can limit your options, so it helps to act sooner rather than later."
+      },
+      {
+        "question": "Can my employer fire me for reporting an injury?",
+        "answer": "No, retaliation for reporting a workplace injury is illegal in California. If you're facing pressure or pushback after an injury, an attorney can help explain your rights and options."
+      }
+    ]
+  }
+}

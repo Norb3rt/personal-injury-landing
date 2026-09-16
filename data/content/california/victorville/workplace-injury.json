@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "victorville workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Victorville Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Victorville? Learn how workers' comp and third-party claims differ in California, and get a free connection to an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "When a job in Victorville leaves you injured, workers' comp may not be the only path forward. LawProactive connects you, at no cost, with an independent attorney who can tell you whether a third party shares responsibility."
+  },
+  "about": {
+    "title": "Victorville Workplace Injury Claims",
+    "longDescription": "Getting hurt on the job in Victorville raises a question most people have never had to think about: is workers' compensation the whole story, or is there more to it? Under California law, comp is usually the only claim you can bring against your employer, and it pays regardless of who was at fault. It does not cover pain and suffering, though. That is where a third party comes in. If a subcontractor, a property owner, a defective machine, or another driver played a role in what happened, a separate injury claim may be possible alongside comp. Driving is part of many jobs in San Bernardino County, and Victorville's public crash records reflect that reality: 522 injury collisions and 753 people hurt in 2025, with volume concentrated on Bear Valley Road, Amargosa Road, Mojave Drive, and Rt 395, and a Friday peak between 3 and 5 p.m. If you were behind the wheel for work when a crash happened, both paths may apply. LawProactive is a free service that connects you with an independent attorney who can sort out which is which.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Victorville Workplace Cases",
+    "commonInjuries": [
+      "Back and spinal injuries from lifting or falls",
+      "Fractures from ladders, scaffolds, and elevated work",
+      "Crush and amputation injuries from machinery",
+      "Burns and chemical exposure",
+      "Heat illness during outdoor work",
+      "Crash injuries while driving for work"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Victorville Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look past the comp claim",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver can be held separately responsible. The attorneys we connect you with know to ask that question early."
+      },
+      {
+        "title": "We help you protect your job and your timeline",
+        "desc": "California gives you 30 days to report an injury to your employer, and it is illegal for them to retaliate when you do. Third-party claims carry their own two-year deadline, so getting oriented quickly matters."
+      },
+      {
+        "title": "Free to use, and no fee unless you recover",
+        "desc": "LawProactive is not a law firm and never charges you for a connection. The independent attorneys in our network work on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on Bear Valley Road while driving for work. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were on the job, workers' compensation should cover your medical care and a portion of lost wages no matter who caused the collision. If the other driver was negligent, you may also have a separate third-party injury claim against that driver for losses comp does not pay, such as pain and suffering. An attorney can help you pursue both without one undermining the other."
+      },
+      {
+        "question": "Can my employer punish me for reporting an injury?",
+        "answer": "No. Retaliating against a worker for reporting an on-the-job injury or filing a workers' compensation claim is illegal in California. You still need to report the injury to your employer within 30 days, so do not delay out of worry. If you experience pushback after reporting, that is worth mentioning to the attorney you speak with."
+      },
+      {
+        "question": "How long do I have to file a third-party claim in San Bernardino County?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of injury. That clock runs separately from your workers' compensation case, and it does not pause while comp benefits are being sorted out. Getting connected with an attorney early gives you room to gather evidence and identify every responsible party."
+      }
+    ]
+  }
+}

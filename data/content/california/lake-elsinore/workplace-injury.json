@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "lake-elsinore workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lake Elsinore Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Lake Elsinore? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured working near Railroad Canyon Road, Riverside Drive, or anywhere else in Lake Elsinore, we can connect you with an independent attorney who understands both workers' comp and third-party claims at no cost to you."
+  },
+  "about": {
+    "title": "Lake Elsinore Workplace Injury Claims",
+    "longDescription": "Lake Elsinore's mix of construction, warehousing, retail, and service jobs near corridors like I-15 and Lakeshore Drive means workplace injuries happen in all kinds of settings, from job sites to delivery routes. Riverside County workers hurt on the job usually go through the workers' compensation system first, since it's typically the exclusive remedy against an employer no matter who was at fault. But when a subcontractor, property owner, equipment manufacturer, or another driver contributed to the injury, a separate claim against that third party may also be possible. Sorting out which path applies, and whether both exist at once, isn't always obvious. LawProactive doesn't practice law or take a side, we simply help injured workers get in front of an independent attorney who can look at the facts and explain what options make sense before deadlines pass.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Repetitive strain and overuse injuries",
+      "Equipment and machinery-related injuries",
+      "Vehicle collisions during work-related driving",
+      "Warehouse and forklift accidents",
+      "Injuries from falling or shifting materials"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Lake Elsinore Work Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "While workers' compensation is usually the exclusive remedy against your employer, a negligent third party like a subcontractor or equipment maker may still owe you a separate claim."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires reporting a workplace injury to your employer within 30 days, so waiting too long can complicate your options."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "You're protected under California law from retaliation for reporting an injury or filing a claim, and an attorney can help you understand those protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if I was hurt working near Riverside Drive or Railroad Canyon Road for a delivery job?",
+        "answer": "Possibly, especially if another driver or a third party contributed to the crash. Workers' comp usually covers the on-the-job injury itself, but a separate third-party claim may also apply if someone else's negligence played a role. An independent attorney can review the details and explain which claims may be available."
+      },
+      {
+        "question": "What if my employer says I can't file a claim because the accident was partly my fault?",
+        "answer": "Under California's workers' compensation system, fault generally doesn't determine whether you're covered, since it's typically a no-fault system for employer-related claims. An attorney can help clarify your rights if your employer is giving you inaccurate information."
+      },
+      {
+        "question": "How long do I have to bring a third-party injury claim?",
+        "answer": "Third-party claims in California generally carry a two-year deadline from the date of injury. That's separate from the 30-day window for reporting a work injury to your employer, so it's worth understanding both timelines early."
+      }
+    ]
+  }
+}

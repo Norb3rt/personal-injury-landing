@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "brea medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Brea Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Brea, CA? LawProactive connects you free with an independent Orange County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Brea went wrong, LawProactive can connect you with an independent Orange County attorney who handles medical malpractice claims — at no cost to you."
+  },
+  "about": {
+    "title": "Brea Medical Malpractice Claims",
+    "longDescription": "Brea residents rely on a mix of local clinics, urgent care centers, and larger Orange County hospital systems for treatment, and most of the time that care goes as expected. But when a physician, surgeon, or hospital staff member misses something they should have caught, the results can upend a person's health and finances overnight. California law recognizes that medicine involves uncertainty — a poor outcome by itself isn't proof of malpractice — but when a provider's care falls below the accepted standard, injured patients and families in Brea have the right to ask questions and seek accountability. LawProactive doesn't practice law or represent clients directly; we simply connect people who've been harmed by a medical error with an independent attorney in the area who focuses on these claims. That attorney can review medical records, consult with qualified experts, and explain what options may exist, all without any upfront cost to you.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We See Reported",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication overdoses or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications during a procedure",
+      "Failure to recognize signs of infection or sepsis"
+    ],
+    "ctaText": "Talk with an independent Brea-area attorney about what happened — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "MICRA's Discovery Clock Is Strict",
+        "desc": "California generally gives you one year from when you discovered (or reasonably should have discovered) the injury, and never more than three years from the date it happened. Waiting to sort things out on your own can quietly cost you the right to file at all."
+      },
+      {
+        "title": "A 90-Day Notice Must Come First",
+        "desc": "Before a malpractice lawsuit can be filed in California, the provider or facility typically must receive 90 days' written notice. Getting connected with an attorney early gives that notice time to go out correctly, without eating into your filing deadline."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California requires a qualified medical expert to support most malpractice claims — a personal opinion that "
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Brea?",
+        "answer": "Under California's MICRA rules, the general deadline is one year from when you discovered or reasonably should have discovered the injury, with an outer limit of three years from when it occurred. These deadlines can be affected by other factors, so it's worth having an attorney review your specific timeline soon rather than waiting."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No — California law recognizes that not every poor result means a provider did something wrong. A claim generally requires showing the provider's care fell below the accepted medical standard, which is why a qualified medical expert almost always has to review the case. An independent attorney can help determine whether your situation looks like it meets that bar."
+      },
+      {
+        "question": "Do I need to live in Brea to use this service, or does the care have to have happened here?",
+        "answer": "You don't need to reside in Brea specifically — LawProactive connects people throughout Orange County and beyond with independent attorneys. If the treatment or facility involved is in or near Brea, that local detail can help match you with an attorney familiar with the relevant hospitals and providers in the area."
+      }
+    ]
+  }
+}

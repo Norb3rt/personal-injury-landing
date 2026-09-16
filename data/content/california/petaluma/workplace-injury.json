@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "petaluma workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Petaluma Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Petaluma? Free connection to an independent attorney who handles workers' comp gaps and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If a job site injury has you sidelined in Petaluma, we can connect you with an independent attorney who understands both workers' comp limits and third-party claims tied to local worksites near US-101 and the McDowell corridors."
+  },
+  "about": {
+    "title": "Petaluma Workplace Injury Claims",
+    "longDescription": "Petaluma's mix of warehouses, agriculture-adjacent businesses, and construction along corridors like E Washington Street and N McDowell Boulevard means workplace injuries happen more often than most people expect. In California, workers' comp is usually your only path against your employer, no matter who caused the accident. But when a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, a separate claim against that third party may be possible alongside your comp benefits. This distinction matters, especially for delivery drivers, warehouse staff, and contractors who regularly cross paths with outside vendors or vehicles on Petaluma job sites. LawProactive doesn't practice law or promise results; we simply connect injured workers with an independent attorney who can look at the specifics of a Petaluma job site incident and explain what options, if any, exist beyond standard workers' comp. There's no cost to have that conversation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders or scaffolding",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and back injuries",
+      "Struck-by or crush injuries on job sites",
+      "Vehicle collisions during work-related driving",
+      "Chemical or equipment exposure injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your options."
+  },
+  "whyChoose": {
+    "title": "Why Petaluma Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Always Obvious",
+        "desc": "A subcontractor, delivery vehicle, or faulty equipment maker involved in your accident may open the door to a separate injury claim beyond workers' comp. An independent attorney can help identify whether that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days, and missing that window can complicate your comp claim. Getting guidance early helps protect your rights on both fronts."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "Employers cannot legally punish you for reporting an injury or filing a workers' comp claim. If you're worried about your job, an independent attorney can explain your protections under California law."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if my injury happened on E Washington Street while making a delivery for work?",
+        "answer": "Possibly. If another driver caused the crash while you were working, you may have both a workers' comp claim and a separate third-party claim against that driver. An independent attorney can review the details of what happened on that stretch of road and explain your options."
+      },
+      {
+        "question": "Does workers' comp cover everything, or can I sue my employer too?",
+        "answer": "In most California cases, workers' comp is the exclusive remedy against your employer regardless of fault, meaning you typically can't sue them separately. However, if someone other than your employer contributed to the injury, a third-party claim may still be available."
+      },
+      {
+        "question": "What if my employer retaliates after I report my injury?",
+        "answer": "Retaliation for reporting a workplace injury or filing a workers' comp claim is illegal in California. If you believe you've faced retaliation, an independent attorney can help you understand what protections and next steps apply to your specific case."
+      }
+    ]
+  }
+}

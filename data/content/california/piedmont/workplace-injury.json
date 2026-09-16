@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "piedmont workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Piedmont Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Piedmont, CA? Get connected free with an independent attorney about workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "If a workplace accident on Grand Avenue, Highland Avenue, or anywhere else in Piedmont has left you hurt, we can connect you with an independent attorney who handles both workers' comp questions and third-party claims — at no cost to you."
+  },
+  "about": {
+    "title": "Piedmont Workplace Injury Claims",
+    "longDescription": "Piedmont is a small, tight-knit Alameda County community of about 11,376 residents, but workplace injuries here look much like anywhere else — falls at a job site, equipment accidents, or injuries tied to vehicles operating near corridors like Oakland Avenue or Hampton Road. In California, workers' compensation is typically the exclusive remedy against your employer, meaning you generally can't sue your employer directly even if they were careless. However, when someone other than your employer contributed to your injury — a subcontractor, a property owner, a manufacturer of faulty equipment, or another driver — you may have a separate claim against that third party. LawProactive doesn't practice law; we're a free service that connects injured workers in Piedmont with an independent attorney who can look at both the workers' comp side and any possible third-party claim, so nothing gets missed. There's no fee unless your case results in a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Repetitive strain and overuse injuries",
+      "Injuries from malfunctioning tools or machinery",
+      "Vehicle-related injuries during work duties or commutes",
+      "Struck-by or caught-in equipment accidents",
+      "Injuries from unsafe conditions on a third-party's property"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Piedmont Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Blocked by Workers' Comp",
+        "desc": "Even though workers' comp is usually the only path against your employer, a negligent third party — like a subcontractor or equipment maker — can still be held separately accountable."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires you to report a workplace injury to your employer within 30 days, and a third-party injury claim carries its own 2-year deadline — an attorney can help make sure neither is missed."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "You have the legal right to report a workplace injury without fear of being fired, demoted, or punished for it, and an attorney can help you understand your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I sue my employer directly if I'm hurt at work in Piedmont?",
+        "answer": "In most cases, no — California workers' compensation is generally the exclusive remedy against your employer, regardless of fault. That said, if someone other than your employer contributed to your injury, you may have a separate claim worth exploring."
+      },
+      {
+        "question": "What if my injury happened near Grand Avenue or Hampton Road while working?",
+        "answer": "If the injury involved a vehicle or another party's negligence — say, during a delivery or job-related drive near these corridors — that could open the door to a third-party claim in addition to workers' comp. An independent attorney can review the specifics of what happened."
+      },
+      {
+        "question": "How long do I have to report a workplace injury in California?",
+        "answer": "You're generally expected to notify your employer within 30 days of the injury. Waiting too long can complicate your workers' comp claim, so it's worth acting promptly and getting guidance early."
+      }
+    ]
+  }
+}

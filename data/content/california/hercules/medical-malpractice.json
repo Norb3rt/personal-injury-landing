@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "hercules medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hercules Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Hercules, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care at a Hercules-area clinic or hospital goes wrong, the aftermath can feel confusing and isolating. LawProactive can connect you, at no cost, with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Hercules Medical Malpractice Claims",
+    "longDescription": "Hercules residents rely on nearby Contra Costa County medical facilities for everything from routine checkups to emergency care, and most visits go as expected. But when a diagnosis is missed, a surgical step is skipped, or medication is mismanaged, the consequences can follow a patient long after the appointment ends. California law treats these claims differently than a typical injury case — there's a shorter window to act, a required pre-suit notice, and rules that make a qualified medical expert almost always necessary to move a case forward. A bad outcome by itself doesn't prove malpractice; the law requires showing a real departure from the accepted standard of care. LawProactive doesn't practice law itself — we're a free connection service that puts Hercules patients and families in touch with an independent attorney who can review the medical records, evaluate the timeline, and explain what MICRA's rules mean for a specific situation, all without any upfront cost.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect You About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Get connected with an independent malpractice attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Hercules Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "Notice and Filing Deadlines Move Fast",
+        "desc": "California generally gives one year from discovering the harm and no more than three years from the injury itself, plus a required 90-day pre-suit notice before a claim can even be filed. Missing either step can end a claim before it starts, so early guidance matters."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because MICRA claims almost always need a qualified medical expert to establish that the standard of care was broken, an attorney experienced in this process can help line up that review early."
+      },
+      {
+        "title": "Damages Rules Are Different Under MICRA",
+        "desc": "Non-economic damages in California malpractice cases are capped, though that cap rises each year by law — an independent attorney can walk through how that structure applies to a particular case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the harm, and no more than three years from the date of the injury itself. There's also a mandatory 90-day pre-suit notice that has to go out before a lawsuit is filed. These deadlines are strict, so it helps to have them reviewed against your specific facts as soon as possible."
+      },
+      {
+        "question": "Do I need to have gotten treatment in Hercules itself to qualify?",
+        "answer": "No — many Hercules residents receive care at hospitals or specialty clinics elsewhere in Contra Costa County or nearby areas, and that doesn't change your rights. What matters is the medical care and where it went wrong, not simply where you live. LawProactive can still connect you with an attorney regardless of the exact facility involved."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law is clear that a poor result alone isn't proof of malpractice — there has to be a showing that the provider departed from the accepted standard of care and that this departure caused harm. That's typically established through a qualified medical expert's review, which is why early case evaluation matters."
+      }
+    ]
+  }
+}

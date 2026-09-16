@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "palmdale slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Palmdale Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell at a Palmdale store, apartment or sidewalk? LawProactive links you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Whether you went down on a slick grocery floor off Palmdale Boulevard or a cracked walkway at an apartment complex near Avenue S, LawProactive can connect you, at no cost, with an independent premises liability attorney who serves the Antelope Valley."
+  },
+  "about": {
+    "title": "Palmdale Slip & Fall and Premises Liability Claims",
+    "longDescription": "Falls happen in ordinary places: a wet entryway at a grocery store on Palmdale Boulevard, a loose stair rail at an apartment complex off Avenue S, a lifted sidewalk slab along Sierra Highway, a pothole in a parking lot near Rancho Vista Boulevard. Palmdale is home to more than 158,000 people, and each of them walks through buildings and lots owned by someone else many times a week. When an owner lets a hazard sit, the person who gets hurt is left wondering whether anyone is responsible. Under California law an owner can be, but only if they knew or should have known about the condition and failed to fix it or warn about it. That question of notice is where most premises cases are decided, and it is why photos of the spill, the lighting and the missing sign, plus a prompt written request that the business keep its camera footage, matter so much in the first week. LawProactive is a free service, not a law firm, that connects Palmdale residents with an independent attorney working on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Palmdale",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow and forearm breaks",
+      "Concussions and other head injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Lower back and spinal disc injuries",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with a Palmdale-area attorney for a free case review."
+  },
+  "whyChoose": {
+    "title": "Why Palmdale Residents Turn to LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole ballgame",
+        "desc": "A California property owner is responsible only if they knew or should have known about the hazard and did nothing. The attorneys we connect you with know how to dig for inspection logs, prior complaints and cleaning schedules that show how long a problem existed."
+      },
+      {
+        "title": "Deadlines that vary by who owns the property",
+        "desc": "You generally have two years to file a premises claim in California, but if the fall happened on land controlled by the City of Palmdale, Los Angeles County or another public entity, a formal claim is due much sooner. Getting connected early keeps those options open."
+      },
+      {
+        "title": "Partial blame does not close the door",
+        "desc": "California uses pure comparative fault, so even if an insurer argues you should have seen the hazard, you can still recover, reduced by your share. An independent attorney can push back on inflated blame and document what the owner did wrong."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Palmdale. Is that handled differently than a fall inside a store?",
+        "answer": "Often, yes. If the sidewalk or walkway is maintained by the City of Palmdale, Los Angeles County or another government body, California requires a written government claim within six months of the injury, well before the two-year deadline that applies to private owners. Sorting out who actually controls that stretch of pavement is one of the first things an attorney will do, so reach out sooner rather than later."
+      },
+      {
+        "question": "The store manager said I should have been watching where I was walking. Does that mean I have no case?",
+        "answer": "No. California applies pure comparative fault, which means your recovery is reduced by whatever share of responsibility is assigned to you, but it is not wiped out. The key question remains whether the business knew or should have known about the hazard and failed to clean it up or post a warning."
+      },
+      {
+        "question": "How do I get the security camera footage from where I fell?",
+        "answer": "Many businesses overwrite video within days or weeks, so speed matters. Send the property a written request, dated, asking that all footage from the time of your fall be preserved, and keep a copy for yourself. An attorney can follow up with a formal preservation letter, which carries more weight if the footage later goes missing."
+      }
+    ]
+  }
+}

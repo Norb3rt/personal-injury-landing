@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "antioch city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Antioch, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Antioch, Contra Costa County? You have 2 years to file. LawProactive connects you with an attorney free — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end collision on SR-4 left you with whiplash or a fall at a store fractured a wrist, LawProactive connects you with an independent injury attorney at no cost. We serve Antioch and all of Contra Costa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Antioch, California",
+    "longDescription": "Antioch sits along the San Joaquin River at the eastern edge of Contra Costa County, and most of its 110,542 residents move through the same handful of corridors every day: SR-4 running east to west, Lone Tree Way, and Hillcrest Avenue. Those three roads also show up most often in public collision records. In 2025, the last finalized year, Antioch logged 293 injury collisions. Those crashes hurt 386 people and took 9 lives. The records point to a pattern in timing, too — reported crashes tend to peak on Sundays between 5 p.m. and 7 p.m., when weekend traffic heads home. If one of those numbers now describes you or someone in your family, here is what LawProactive does and does not do. We are a free service, not a law firm. We do not give legal advice and we do not handle your case. What we do is connect you with an independent personal injury attorney who takes cases in Antioch and the surrounding county. That attorney works on contingency, which means there is no fee unless there is a recovery. California allows two years to file most injury claims, and sometimes only six months against a government entity, so reaching out early keeps your options open.",
+    "commonInjuriesTitle": "Injuries We See Most Often in Antioch",
+    "commonInjuries": [
+      "Neck and back strain from rear-end collisions",
+      "Broken bones after motorcycle or bicycle crashes",
+      "Concussions and other head injuries",
+      "Pedestrian injuries at crosswalks and driveways",
+      "Slip-and-fall injuries in stores and parking lots",
+      "Dog bites and animal-related wounds"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Antioch Claim",
+    "items": [
+      {
+        "title": "Two years, sometimes six months",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, the deadline can shrink to six months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share — but you are not barred from recovering."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California places no statutory ceiling on non-economic damages like pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "Nothing out of pocket to get started",
+        "desc": "Attorneys in our network work on contingency. Their fee comes out of any recovery, and if there is no recovery, there is no fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say.",
+      "I can't work right now and the medical bills are already stacking up.",
+      "They're saying the crash was partly my fault.",
+      "I've never hired a lawyer and I don't know what it will cost."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes in Antioch tend to happen?",
+        "answer": "Public collision records for Antioch show the highest counts along SR-4, Lone Tree Way, and Hillcrest Avenue. These are simply the roads with the most reported incidents, which tracks with how heavily they are traveled. Records also show reported crashes peaking on Sundays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most injury claims, the deadline is two years from the date you were hurt. If your claim is against a government entity — for example, a city vehicle or a public road defect — you may have as little as six months to file a claim. An attorney can confirm which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses pure comparative fault. Your compensation is reduced by whatever percentage of fault is assigned to you, but you can still recover for the rest. Being partly responsible does not mean you have no claim."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not give legal advice or represent you. Once connected, you deal directly with the attorney."
+      },
+      {
+        "question": "How does the attorney get paid?",
+        "answer": "Attorneys in our network work on a contingency basis. That means the fee is a percentage of any recovery, agreed to in writing up front. If there is no recovery, you owe no attorney fee."
+      }
+    ]
+  }
+}

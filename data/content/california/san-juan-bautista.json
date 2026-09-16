@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "san-juan-bautista city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Juan Bautista, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in San Juan Bautista? Connect free with an independent San Benito County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on SR-156 or injured as a pedestrian near town, we can connect you at no cost with an independent attorney serving San Benito County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Juan Bautista, California",
+    "longDescription": "San Juan Bautista is a small city, but its roads carry a steady stream of traffic through San Benito County, especially along Rt 156, The Alameda Road, and the SR-156 corridor including its westbound stretch. Public records show 5 injury collisions and 5 people injured in the most recent final crash year, with no traffic deaths reported. Reported crashes have tended to cluster on Sundays between 6 and 8 p.m., a pattern that may reflect weekend travel and mission-area visitor traffic. If you were hurt in one of these incidents, or in any other kind of accident around town, you may have questions about what comes next and whether you can afford legal help. LawProactive is a free service that connects injured people with an independent personal injury attorney in the area — we are not a law firm, and we do not charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless they recover money on your behalf. If you're trying to sort out medical bills, insurance calls, or missed work after an injury near San Juan Bautista, reaching out costs nothing and may help you understand your options.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Knee and joint injuries"
+    ],
+    "ctaText": "Find out your options — connect with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most injury claims in California must be filed within two years, but claims against a government entity can require notice in as little as six months. Waiting too long can close the door on your case."
+      },
+      {
+        "title": "Fault Doesn't Have to Be Clear-Cut",
+        "desc": "California follows pure comparative fault, so you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering. That means your recovery isn't artificially capped by state law."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, so they only get paid if you recover money. That removes the financial barrier to getting legal advice after an accident."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you recover",
+      "Wondering if you can still get help if the accident was partly your fault",
+      "Feeling pressured by insurance adjusters calling before you've healed",
+      "Not knowing how much time you have left to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "Generally, you have two years from the date of the accident to file a personal injury claim in California. If a government entity was involved, the window can be much shorter, sometimes as little as six months to file a claim notice. It's wise not to wait, since evidence and witness memory can fade quickly."
+      },
+      {
+        "question": "Can I still recover money if I was partly at fault for the accident?",
+        "answer": "Yes. California uses a pure comparative fault system, which means your compensation is reduced by your percentage of fault rather than denied outright. Even if you were 40% or 60% responsible, you may still be able to recover the remaining share."
+      },
+      {
+        "question": "Where do crashes tend to happen in San Juan Bautista?",
+        "answer": "Public crash records show that reported collisions in San Juan Bautista cluster along corridors like Rt 156, The Alameda Road, and SR-156, including its westbound stretch. These are simply the roads with the highest recorded collision counts, not a judgment about safety. Timing-wise, reports have tended to peak on Sundays between 6 and 8 p.m."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, such as pain and suffering, in ordinary personal injury cases. This differs from some other states and can matter significantly depending on the nature of your injuries."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney — we are not a law firm ourselves. Attorneys in our network typically work on contingency, meaning they only collect a fee if they win or settle your case."
+      }
+    ]
+  }
+}

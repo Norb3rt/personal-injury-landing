@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "thousand-oaks product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Thousand Oaks Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Thousand Oaks? LawProactive connects you, free, with an independent attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When a product sold or used in Thousand Oaks fails and someone gets hurt, California's strict liability rules can hold the maker, distributor, and retailer responsible. LawProactive connects you with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "Thousand Oaks Product Liability Claims",
+    "longDescription": "A product is supposed to do its job without hurting you. When something you bought in Thousand Oaks — a space heater, a child's car seat, a power tool, a prescription bottle — fails in a way it never should have, California law puts the burden where it belongs. Under strict liability, you generally do not have to prove the manufacturer was careless. You show the product had a defect in its design, its manufacturing, or its warnings, and that the defect caused your injury. Vehicle components are part of this picture too. Public records logged 616 injury collisions in Thousand Oaks during 2025, with 859 people hurt, and a portion of those wrecks on US-101 or Moorpark Road may have involved an airbag, a tire, or a brake system that did not perform as promised. LawProactive is not a law firm. We are a free service that connects you with an independent attorney who handles these claims on contingency, so nothing is owed unless there is a recovery. Whatever went wrong, keep the product.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, heaters, or appliances",
+      "Lacerations and amputations from power tools or machinery",
+      "Head and spinal injuries from failed car seats, airbags, or restraints",
+      "Fractures from collapsing furniture, ladders, or playground gear",
+      "Poisoning or organ damage from mislabeled drugs and supplements",
+      "Choking or suffocation from hazardous children's products"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Thousand Oaks Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You do not have to prove carelessness",
+        "desc": "Because California product cases often run on strict liability, the attorney we connect you with can focus on showing the defect and the harm it caused rather than digging into what the manufacturer was thinking."
+      },
+      {
+        "title": "Every link in the supply chain is on the table",
+        "desc": "Manufacturers, distributors, and the retailer on Thousand Oaks Boulevard that sold the item may all share responsibility. An independent attorney can sort out who belongs in the claim."
+      },
+      {
+        "title": "Evidence preservation from day one",
+        "desc": "The product itself is the heart of the case. We connect you quickly with an attorney who can help you secure it, along with packaging, receipts, and photos, before anything is lost or discarded."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag did not deploy in a crash on the 101 near Hillcrest Drive. Is that a car accident claim or a product claim?",
+        "answer": "It may be both. A collision case looks at how the other driver behaved, while a product liability claim asks whether the airbag, seatbelt, or another component had a defect that made your injuries worse. An independent attorney can review the vehicle and the crash report to see whether the manufacturer should be part of your claim. Do not let the car be salvaged or repaired until it has been inspected."
+      },
+      {
+        "question": "I threw away the broken product. Can I still bring a claim?",
+        "answer": "Losing the product makes a case harder, but it does not always end it. Photos, receipts, medical records, recall notices, and the same model purchased elsewhere can sometimes fill the gap. Talk with an attorney before assuming the claim is gone."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was faulty?",
+        "answer": "Generally, no. California applies strict liability to many product cases, meaning the question is whether the product was defective in its design, manufacturing, or warnings and whether that defect caused your injury. What the company knew or intended is usually not something you have to establish. Your attorney can explain how this applies to your specific situation."
+      }
+    ]
+  }
+}

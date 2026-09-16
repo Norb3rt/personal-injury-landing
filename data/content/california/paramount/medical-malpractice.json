@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "paramount medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Paramount Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Paramount, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Paramount left you worse off, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's strict rules."
+  },
+  "about": {
+    "title": "Paramount Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases are different from most injury claims, and that's especially true here in Paramount, where residents often rely on a handful of nearby clinics and hospitals throughout Los Angeles County for care. When a provider deviates from the accepted standard of care and it causes real harm, California law gives patients a path to accountability — but that path has strict timing rules and technical requirements. A missed diagnosis, a medication error, or a surgical mistake doesn't automatically mean malpractice occurred; it has to be evaluated against what a reasonably careful provider would have done. LawProactive doesn't practice law or make that determination ourselves. Instead, we connect Paramount residents, free of charge, with an independent attorney in our network who can review medical records, consult with qualified experts, and explain whether a case is worth pursuing. There's no obligation, and no fee unless the attorney recovers something for you.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your medical care — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "What Paramount Families Should Know About These Claims",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "Under MICRA, claims generally must be filed within one year of discovering the harm and no later than three years from the injury itself, so waiting too long can close the door on a claim."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "California law requires a formal notice to the healthcare provider at least 90 days before a lawsuit can be filed, which affects how and when an attorney needs to act."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad outcome alone isn't proof of malpractice, a qualified medical expert typically has to confirm the standard of care was breached before a case can move forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a bad surgical outcome automatically mean malpractice happened?",
+        "answer": "No. California law recognizes that medicine involves risk, and an unfavorable result by itself isn't enough. There has to be evidence that the provider failed to meet the accepted standard of care, which is why an independent attorney typically arranges for a qualified medical expert to review the records first."
+      },
+      {
+        "question": "How much time do I have to bring a claim in Paramount?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the injury, but no more than three years from the date it occurred. There's also a 90-day pre-suit notice requirement to the provider, so the earlier you speak with an attorney, the more options you preserve."
+      },
+      {
+        "question": "Are there limits on what I can recover for pain and suffering?",
+        "answer": "Yes, California's MICRA law caps non-economic damages such as pain and suffering, though that cap has been rising each year under recent legislative changes. Economic damages like medical bills and lost income are generally not subject to that same cap. An independent attorney can walk you through how this applies to your situation."
+      }
+    ]
+  }
+}

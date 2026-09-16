@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "hawthorne slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hawthorne Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Fell on someone's property in Hawthorne, CA? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Hurt by a wet floor, broken step, or dark stairwell somewhere in Hawthorne? We connect you, at no cost, with an independent attorney who handles premises liability claims in Los Angeles County."
+  },
+  "about": {
+    "title": "Hawthorne Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall can happen in a second, and in Hawthorne it often happens somewhere ordinary: a grocery aisle off Prairie Avenue, a wet entryway on El Segundo Boulevard, an uneven walkway outside an apartment near Rosecrans Avenue, or a poorly lit parking lot along 120th Street. Under California premises liability law, the question is rarely whether you fell. It is whether the property owner knew, or reasonably should have known, about the hazard and did nothing to fix it or warn you. That element is called notice, and it is where most of these claims are won or lost. Evidence disappears fast. Spills get mopped, broken tiles get patched, and store surveillance footage is frequently overwritten within days. LawProactive is a free service, not a law firm. We connect people injured on someone else's property in Hawthorne with an independent personal injury attorney who handles premises cases in Los Angeles County. There is no charge to be connected, and network attorneys work on contingency, so you owe no attorney fee unless your case results in a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See From Falls in Hawthorne",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and shoulder injuries from bracing",
+      "Concussions and other head trauma",
+      "Knee ligament tears and meniscus damage",
+      "Tailbone and lower back injuries",
+      "Ankle fractures and severe sprains"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "What a Premises Liability Attorney Brings to a Hawthorne Fall Case",
+    "items": [
+      {
+        "title": "Building the Notice Case",
+        "desc": "California requires proof the owner knew or should have known about the hazard. An attorney can pursue inspection logs, prior complaints, and maintenance records that show how long the problem existed."
+      },
+      {
+        "title": "Getting to the Video First",
+        "desc": "Most Hawthorne stores, apartment complexes, and parking structures record on a loop. A preservation letter sent early can stop that footage from being erased before anyone reviews it."
+      },
+      {
+        "title": "Answering the Blame Game",
+        "desc": "Owners often argue you weren't watching where you walked. California uses pure comparative fault, so even if you share some responsibility, a claim is not automatically over, and an attorney can push back on inflated blame."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Hawthorne?",
+        "answer": "For a fall on private property, such as a store or apartment building, California generally allows two years from the date of injury to file a lawsuit. If you fell on property owned by the City of Hawthorne, Los Angeles County, or another public entity, you usually must file a government claim within six months first. Because the deadline depends on who owns the property, it is worth confirming that early."
+      },
+      {
+        "question": "I slipped in a store on Prairie Avenue and the manager wrote a report. Do I still need to do anything?",
+        "answer": "Yes. The store's report belongs to the store, and you may never see a copy. Take your own photos of the hazard and the surrounding area, get names and numbers of any witnesses, and ask in writing that surveillance video be preserved. Seeing a doctor promptly also creates a record that ties your injuries to the fall."
+      },
+      {
+        "question": "What if the owner says I should have seen the hazard?",
+        "answer": "That argument comes up in nearly every premises case. California follows pure comparative fault, which means a jury can assign a percentage of responsibility to each side and your recovery is reduced by your share rather than eliminated. Whether you were partly at fault, and how much, is a factual dispute an attorney can contest with evidence like lighting conditions, signage, and the hazard's visibility."
+      }
+    ]
+  }
+}

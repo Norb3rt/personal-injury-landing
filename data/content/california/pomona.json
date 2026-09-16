@@ -1,0 +1,81 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "pomona city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pomona, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Pomona? Los Angeles County injury claims carry a 2-year deadline. Connect free with an independent attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end crash on Holt Avenue left you with whiplash or a fall on someone else's property broke a bone, LawProactive connects you free of charge with an independent injury attorney serving Pomona and Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Pomona, California",
+    "longDescription": "Pomona is a city of roughly 153,000 people, and much of daily life moves along a handful of busy corridors. In 2025, the most recent final reporting year, public records list 1,003 injury collisions inside the city, with 1,428 people hurt and 16 lives lost. The highest collision volumes trace the I-10 San Bernardino Freeway and the long runs of Garey Avenue, Mission Boulevard, and Holt Avenue. Reports also tend to bunch up on Friday evenings between 5 and 7 p.m., when people are simply trying to get home. If one of those numbers is you, here is what LawProactive does and does not do. We are not a law firm. We are a free service that puts you in touch with an independent personal injury attorney who handles cases in Los Angeles County. You pay us nothing, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. California gives most people two years to file, and less time when a public agency is involved, so an early conversation keeps your options open. A slip near the Fairplex, a fender-bender on Holt, a bicycle collision on Garey: whatever brought you here, you can ask questions without any pressure to sign anything.",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Fractures from motorcycle, bicycle, and pedestrian crashes",
+      "Back and spinal disc injuries",
+      "Cuts, burns, and road rash",
+      "Injuries from falls on poorly maintained property"
+    ],
+    "ctaText": "Ask a Pomona injury attorney your questions, free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Pomona Claim",
+    "items": [
+      {
+        "title": "Two years to file, sometimes far less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, you may have as little as six months to submit a formal claim."
+      },
+      {
+        "title": "Partial fault doesn't shut the door",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not barred from bringing a claim."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For standard injury claims in California, there is no statutory ceiling on non-economic damages such as pain, suffering, or loss of enjoyment of life."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. Our connection service is free, and you owe attorney fees only if your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The adjuster keeps calling and I don't know what to say",
+      "I missed work and the bills are stacking up faster than the paperwork",
+      "I think I was partly at fault and worry that ends everything",
+      "I'm not sure how long I have before it's too late to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Pomona show up most often in public records?",
+        "answer": "Public collision counts for Pomona are highest along the I-10 San Bernardino Freeway, Garey Avenue, Mission Boulevard, and Holt Avenue. Those are simply the corridors with the most reported incidents, which tends to track with how heavily they are traveled. Records also show reports clustering on Fridays between 5 and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people in Los Angeles County with an independent personal injury attorney. We don't give legal advice or represent you; the attorney you're matched with does that."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of injury. If a government entity is involved, such as a city bus or a poorly maintained public sidewalk, the deadline can be as short as six months. Talking with an attorney early helps make sure nothing slips by."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault, so being partly responsible reduces what you can recover rather than eliminating it. If you were found 25 percent at fault, for example, your recovery would be reduced by 25 percent. An attorney can help sort out how fault is likely to be assigned."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing to be connected, and nothing to have the initial conversation. Attorneys in our network work on a contingency basis, which means you don't pay attorney fees unless there is a recovery in your case. You can ask about the fee arrangement in detail before you agree to anything."
+      }
+    ]
+  }
+}

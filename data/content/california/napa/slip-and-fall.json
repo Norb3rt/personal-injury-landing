@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "napa slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Napa Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a slip and fall in Napa, CA? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall in a Napa store, tasting room, parking lot, or rental unit can change your month—or your year. LawProactive connects you, at no cost, with an independent attorney who handles premises liability claims in Napa County."
+  },
+  "about": {
+    "title": "Napa Slip & Fall and Premises Liability Claims",
+    "longDescription": "Napa draws visitors year-round, and its roughly 80,000 residents share sidewalks, tasting rooms, grocery aisles, and parking structures with them. Most of those places are safe most of the time. When they aren't—a wet floor near a 1st Street entrance, a broken step at an apartment complex off Jefferson Street, a dim stairwell in a Soscol Avenue office building—the person who falls is often left wondering whether anyone is actually responsible. Under California premises liability law, that question turns on notice: did the property owner know, or should they reasonably have known, about the hazard, and did they fail to fix it or warn you? Answering it is far easier while the evidence is fresh. Photographs, incident reports, and especially surveillance footage can be gone within days. LawProactive is not a law firm. We are a free service that connects Napa residents and visitors with an independent personal injury attorney who takes premises cases on contingency. You stay in control; we simply make the introduction.",
+    "commonInjuriesTitle": "Injuries Commonly Reported After Falls in Napa",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and forearm fractures",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back injuries",
+      "Knee and ankle ligament tears",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Ask about a free connection to a Napa premises liability attorney."
+  },
+  "whyChoose": {
+    "title": "Why Napa Residents Use LawProactive for Fall Claims",
+    "items": [
+      {
+        "title": "Notice is the whole case",
+        "desc": "California requires you to show the owner knew or should have known about the hazard and did nothing. An attorney can request maintenance logs, prior complaints, and sweep schedules that speak to what the property owner actually knew."
+      },
+      {
+        "title": "Deadlines that vary by defendant",
+        "desc": "You generally have two years to file against a private owner, but a fall on Napa city or county property involves a much shorter government-claim window. Knowing who owns the ground you fell on matters early."
+      },
+      {
+        "title": "Video and evidence, preserved fast",
+        "desc": "Many Napa businesses overwrite security footage on a short loop. A prompt preservation letter, along with your own photos of the hazard, helps protect the record before it disappears."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped at a winery tasting room in Napa County. Is that a premises liability claim?",
+        "answer": "It can be. Wineries and tasting rooms are businesses that invite the public in, so they owe visitors reasonable care in keeping walkways, patios, and tasting areas free of known hazards. Spilled wine, uneven pavers, and poorly marked steps are common issues. Whether a claim holds up depends largely on what the operator knew or should have known and how long the hazard was there."
+      },
+      {
+        "question": "Does it hurt my claim if I wasn't watching where I was walking?",
+        "answer": "Not necessarily. California uses pure comparative fault, which means a jury can assign you a share of responsibility without wiping out your claim entirely. Your recovery is simply reduced by your percentage of fault. The owner's failure to address a hazard is weighed alongside your own conduct."
+      },
+      {
+        "question": "What if I fell on a public sidewalk in Napa rather than inside a store?",
+        "answer": "Falls on property owned by the City of Napa, Napa County, or another public agency follow different rules. You must typically file a formal government claim within six months, well before the two-year deadline that applies to private owners. Because that window closes quickly, it is worth speaking with an attorney soon after the fall."
+      }
+    ]
+  }
+}

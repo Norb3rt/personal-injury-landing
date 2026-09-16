@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "burlingame slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Burlingame Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Burlingame? Get connected free to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall on a wet floor or broken sidewalk near El Camino Real or downtown Burlingame can leave you with medical bills and no clear next step. We connect you free with an independent attorney who handles premises liability claims in San Mateo County."
+  },
+  "about": {
+    "title": "Burlingame Slip & Fall and Premises Liability Claims",
+    "longDescription": "Burlingame's mix of small storefronts along California Drive, hotel corridors near US-101, and older sidewalks throughout the city creates plenty of spots where a spill, loose mat, or cracked pavement can cause a serious fall. When that happens on someone else's property, California law asks whether the property owner or manager knew, or reasonably should have known, about the hazard and failed to fix it or warn people. Proving that notice is often the hardest part of a premises liability case, which is why documentation matters so much. Photos of the hazard, witness names, and store surveillance footage can disappear or get overwritten within days. If you were hurt in a fall anywhere in Burlingame, from a grocery aisle to an apartment complex walkway, LawProactive can connect you at no cost with an independent attorney who understands how these claims are built and can help you figure out what to do next.",
+    "commonInjuriesTitle": "Common Injuries From Falls We See Referred",
+    "commonInjuries": [
+      "Hip and pelvis fractures",
+      "Wrist and forearm fractures from bracing a fall",
+      "Traumatic brain injury or concussion",
+      "Spinal disc injuries and herniation",
+      "Torn ligaments or meniscus damage in the knee",
+      "Shoulder dislocation or rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and get matched with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Notice and Evidence Matter So Much Here",
+    "items": [
+      {
+        "title": "Owners Only Liable With Notice",
+        "desc": "California law generally requires showing the property owner knew or should have known about the hazard and did not fix or warn about it. An attorney can help identify inspection logs, complaint history, or repair records that establish that notice."
+      },
+      {
+        "title": "Surveillance Video Doesn't Wait",
+        "desc": "Many Burlingame businesses along California Drive and El Camino Real record over security footage within days or weeks. Getting a preservation request out quickly can be the difference between having video evidence and having none."
+      },
+      {
+        "title": "Comparative Fault Won't Automatically Bar Your Claim",
+        "desc": "Even if you were partly distracted or moving quickly when you fell, California's pure comparative fault rule means you may still recover a share of damages reduced by your percentage of fault, rather than being shut out entirely."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Burlingame?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit against a private property owner. If the property is owned by a government entity, such as a city building or public sidewalk maintained by San Mateo County, the deadline is much shorter and requires an early administrative claim. Because that shorter clock can catch people off guard, it helps to get advice on the type of property involved as soon as possible."
+      },
+      {
+        "question": "What if I fell on a sidewalk near a downtown Burlingame shop?",
+        "answer": "Sidewalk responsibility can be split between the adjacent business or property owner and the city, depending on local ordinances and who was responsible for maintenance. This makes it important to document exactly where the fall happened, including which storefront or intersection it was near. An attorney can help sort out which party or parties may be responsible."
+      },
+      {
+        "question": "Do I need proof the store knew about the spill or hazard?",
+        "answer": "Yes, in most cases you need to show the owner or an employee knew about the dangerous condition, or that it existed long enough that a reasonable inspection should have caught it. Evidence like how long a spill sat, prior complaints, or cleaning schedules can help establish this. That's why acting quickly to gather photos and witness information matters."
+      }
+    ]
+  }
+}

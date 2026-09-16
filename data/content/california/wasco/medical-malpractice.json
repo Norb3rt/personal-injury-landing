@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "wasco medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Wasco Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Wasco, CA? LawProactive connects you with an independent injury attorney at no upfront cost. MICRA deadlines apply."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong at a Wasco-area clinic or hospital, sorting out what happened can feel overwhelming. LawProactive can connect you with an independent attorney who handles medical malpractice claims under California law."
+  },
+  "about": {
+    "title": "Wasco Medical Malpractice Claims",
+    "longDescription": "Wasco residents rely on a limited number of local clinics and Kern County hospitals for care, and most visits go as expected. But when a surgical mistake, medication error, delayed diagnosis, or birth injury causes lasting harm, families are often left with more questions than answers. California treats these cases differently than a typical injury claim — medical malpractice suits fall under MICRA, a law with strict timelines, notice requirements, and a cap on certain damages. A bad result from treatment isn't automatically malpractice; proving a case usually requires a qualified medical expert who can show the provider fell below the accepted standard of care. LawProactive doesn't practice law or decide the value of any claim. We simply connect Wasco residents with an independent attorney who can review medical records, explain the MICRA rules that apply, and help determine whether a claim is worth pursuing — at no upfront cost to you.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect Cases For",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Delayed or missed cancer diagnosis",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Hospital-acquired infections from neglect"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Clock Runs Out",
+    "items": [
+      {
+        "title": "MICRA's Notice Rule Comes First",
+        "desc": "California requires a 90-day pre-suit notice to the provider before a malpractice lawsuit can be filed, so waiting to get advice can shrink your options fast."
+      },
+      {
+        "title": "The Filing Window Is Narrow",
+        "desc": "Generally you have one year from when the harm was discovered and no more than three years from the injury itself — an attorney can help pin down which deadline applies to your case."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because California law caps non-economic damages and requires a qualified medical expert to establish negligence, having someone who can line up that review matters from the start."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law recognizes that not every complication or unexpected result means a provider was negligent. To have a viable claim, there generally needs to be evidence the provider's care fell below the accepted medical standard, which is why a qualified expert review is almost always required."
+      },
+      {
+        "question": "How much time do I have to bring a claim in Wasco?",
+        "answer": "Under MICRA, the general rule is one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it occurred. There's also a 90-day notice requirement before filing suit, so it's worth getting the timeline reviewed as soon as possible."
+      },
+      {
+        "question": "Does Wasco having fewer hospitals affect my case?",
+        "answer": "Where you live doesn't change the MICRA rules, but if your care involved a facility or specialist outside Wasco, it may affect which records and providers need to be reviewed. An independent attorney can help sort out where the treatment occurred and what that means for your claim."
+      }
+    ]
+  }
+}

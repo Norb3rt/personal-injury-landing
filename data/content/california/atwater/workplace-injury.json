@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "atwater workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Atwater Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Atwater? Get connected free to an independent attorney who handles work injury and third-party claims in Merced County."
+  },
+  "hero": {
+    "subtitle": "When a job site accident happens in Atwater, sorting out workers' comp from a possible third-party claim can be confusing. LawProactive connects injured Atwater workers with an independent attorney at no cost to figure out your options."
+  },
+  "about": {
+    "title": "Atwater Workplace Injury Claims",
+    "longDescription": "Atwater's economy runs on a mix of agriculture, distribution, manufacturing, and local trade businesses, and all of those jobs come with real injury risk — from equipment accidents to falls to repetitive strain from warehouse or field work. Most of the time, a workplace injury in California is handled through workers' compensation, which pays medical care and partial wage replacement without you needing to prove your employer was at fault. But workers' comp isn't always the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate claim outside the workers' comp system. LawProactive doesn't practice law — we simply connect Atwater workers with an independent attorney who can look at the full picture of your accident, including whether a third party bears responsibility, and help you understand what comes next.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connections For",
+    "commonInjuries": [
+      "Machinery and equipment accidents",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and warehouse vehicle incidents",
+      "Repetitive strain and overexertion injuries",
+      "Chemical or agricultural exposure injuries",
+      "Injuries from defective tools or equipment"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Atwater Workers Should Know",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Only Path",
+        "desc": "California generally makes workers' compensation the exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can still be held separately liable for your injuries."
+      },
+      {
+        "title": "Report Quickly, Protect Your Rights",
+        "desc": "California law gives you 30 days to report a workplace injury to your employer, and missing that window can complicate your claim, so early action matters."
+      },
+      {
+        "title": "Retaliation Is Illegal, and Deadlines Matter",
+        "desc": "Your employer cannot legally punish you for reporting an injury or filing a claim, and if a third-party claim applies, California generally gives you two years to pursue it."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near SR-99 in Atwater — does workers' comp cover that?",
+        "answer": "Generally yes, workplace injuries that happen while performing job duties are typically covered by workers' compensation regardless of fault. However, if another driver caused the crash, you may also have a separate third-party claim against that driver. An independent attorney can help sort out which claims apply to your situation."
+      },
+      {
+        "question": "Can I sue my employer directly for my workplace injury?",
+        "answer": "In most cases, California law makes workers' compensation your exclusive remedy against your employer, meaning you generally can't sue them directly even if they were careless. That said, claims against outside parties — like equipment manufacturers or subcontractors — are usually handled separately and aren't blocked by workers' comp rules. An attorney can review the facts to see if a third party may be involved."
+      },
+      {
+        "question": "What if my employer retaliates after I report my injury?",
+        "answer": "Retaliation for reporting a workplace injury or filing a workers' comp claim is illegal in California. If you believe you've faced retaliation, it's worth having an independent attorney review what happened. LawProactive can help connect you with someone who handles these situations."
+      }
+    ]
+  }
+}

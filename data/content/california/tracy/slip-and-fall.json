@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "tracy slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tracy Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Tracy, CA? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall in a Tracy store, parking lot, or apartment complex can change your season in a second. LawProactive connects you, at no cost, with an independent attorney who knows how California premises liability claims are built."
+  },
+  "about": {
+    "title": "Tracy Slip & Fall and Premises Liability Claims",
+    "longDescription": "Tracy sits at the western edge of San Joaquin County, and much of daily life here happens on property someone else controls: grocery stores and shopping centers off I-205, restaurants and storefronts along 11th Street, apartment complexes near Corral Hollow Road, and parking lots along Grant Line Road. When a floor is left wet, a walkway cracks, or a stairwell light burns out, the person who falls is rarely the one who created the problem. California premises liability law asks a specific question: did the owner know, or should they have known, about the hazard yet fail to fix it or warn about it? Lawyers call that notice, and it decides many of these cases. Photos taken the same day, names of witnesses, and the property's own surveillance footage all matter, and video is often overwritten within days. You generally have two years to file, and less time if the property belongs to a city or another public entity. LawProactive is a free service that connects you with an independent attorney who handles these claims on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Tracy",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and forearm breaks from bracing the fall",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back strain",
+      "Knee ligament and meniscus tears",
+      "Shoulder dislocations and rotator cuff damage"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Tracy Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys Who Understand the Notice Requirement",
+        "desc": "In California, showing the owner knew or should have known about the hazard is the heart of a premises case. The attorneys in our network know what evidence, from cleaning logs to prior complaints, tends to prove it."
+      },
+      {
+        "title": "Fast Help Preserving Video and Evidence",
+        "desc": "Surveillance systems at Tracy shopping centers and apartment buildings often record over footage within days. An attorney can send a preservation demand quickly so the recording of your fall is not lost."
+      },
+      {
+        "title": "Clear Guidance on Deadlines and Shared Fault",
+        "desc": "Most claims carry a two-year filing window, but falls on public property face a much shorter clock. California's pure comparative fault rule also means being partly at fault does not erase your claim, and an attorney can explain how that applies to you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk near 11th Street in Tracy. Does it matter who owns it?",
+        "answer": "It matters a great deal. If the sidewalk or walkway is maintained by the City of Tracy, San Joaquin County, or another public entity, California requires a written government claim within a much shorter period than the usual two years. Missing that early step can end a claim before it starts, so it is worth speaking with an attorney soon rather than waiting to see how your injuries develop."
+      },
+      {
+        "question": "The store manager said I should have been watching where I was going. Can I still bring a claim?",
+        "answer": "Often, yes. California follows pure comparative fault, which means any share of blame assigned to you reduces your recovery rather than eliminating it. Whether the hazard was obvious, whether warning signs were posted, and how long the condition had existed all factor into that analysis, and those are questions an attorney can help sort out."
+      },
+      {
+        "question": "What should I do in the first few days after a fall on someone else's property?",
+        "answer": "Get medical care first, then focus on preserving what you can. Photograph the spot where you fell, including anything that caused it, and write down the names of anyone who saw it happen or came to help. Ask the property for an incident report and, through your attorney, request that surveillance footage be saved before the system records over it."
+      }
+    ]
+  }
+}

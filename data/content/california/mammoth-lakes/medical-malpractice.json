@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "mammoth-lakes medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mammoth Lakes Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to independent malpractice attorneys serving Mammoth Lakes and Mono County. No fee unless you recover. Learn your options today."
+  },
+  "hero": {
+    "subtitle": "When a hospital visit or treatment in Mammoth Lakes leaves you worse off, it helps to talk with someone who understands mountain-town medicine and California malpractice law. LawProactive connects you with an independent attorney who can look at what happened, free of charge."
+  },
+  "about": {
+    "title": "Mammoth Lakes Medical Malpractice Claims",
+    "longDescription": "Living in a small mountain community like Mammoth Lakes often means relying on a single local hospital or clinic, sometimes far from the nearest specialist. When care falls short — a missed diagnosis, a surgical error, a medication mix-up, or a delay in transferring a patient to a larger facility — the effects can be serious, especially given the distance to advanced care in Mono County. Medical malpractice claims in California are governed by strict rules, including MICRA's notice and filing deadlines and its expert-witness requirement. Not every bad outcome qualifies as malpractice; the law requires showing that a provider's care fell below the accepted standard and caused harm. LawProactive doesn't practice law itself — we're a free service that connects Mammoth Lakes residents with an independent attorney who can review medical records, evaluate whether the standard of care was met, and explain what options may exist under California's malpractice statutes.",
+    "commonInjuriesTitle": "Types of Harm We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis, especially before transfer to a larger hospital",
+      "Surgical errors or complications not properly addressed",
+      "Medication or dosage mistakes",
+      "Birth injuries or complications during delivery",
+      "Anesthesia errors",
+      "Failure to monitor a patient's condition after treatment"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your care, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Understanding MICRA Matters",
+    "items": [
+      {
+        "title": "Short, Strict Deadlines",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the injury, and no more than three years from the date it occurred. A 90-day pre-suit notice to the provider is also required before a lawsuit can move forward."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California law requires a qualified medical expert to support most malpractice claims, confirming that care fell below the accepted standard and caused harm. This is why an early records review matters, particularly in a rural area where care may have involved multiple providers or a transfer."
+      },
+      {
+        "title": "Damages Are Capped, But the Cap Rises Yearly",
+        "desc": "MICRA places a statutory cap on non-economic damages, such as pain and suffering, though that cap increases annually. An attorney can walk through how the current cap and California's damages rules could apply to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a poor medical outcome automatically mean malpractice occurred?",
+        "answer": "No. California law requires showing that a provider's care fell below the accepted medical standard and that this failure caused the injury. A bad result alone, even a serious one, isn't enough on its own — which is why a records review by a qualified attorney and medical expert matters."
+      },
+      {
+        "question": "How does living in a small town like Mammoth Lakes affect a malpractice claim?",
+        "answer": "Care in Mono County sometimes involves a local clinic, an urgent transfer, or treatment at a facility outside the immediate area. An attorney can help sort out which provider or facility may be responsible and how any transfer delays factor into the timeline of your care."
+      },
+      {
+        "question": "How much time do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from when it happened. There's also a required 90-day notice to the provider before filing suit, so reaching out sooner rather than later is worth considering."
+      }
+    ]
+  }
+}

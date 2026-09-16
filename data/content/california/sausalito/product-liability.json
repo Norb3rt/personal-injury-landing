@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "sausalito product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sausalito Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Sausalito? LawProactive connects you free with an independent CA product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a defective product injured you anywhere in Sausalito, from a Bridgeway shop purchase to gear used along the waterfront, LawProactive can connect you with an independent attorney who handles product liability claims in Marin County — free of charge."
+  },
+  "about": {
+    "title": "Sausalito Product Liability Claims",
+    "longDescription": "Sausalito is a small city, but the products its residents and visitors use every day come from a wide network of manufacturers, distributors, and retailers — many with no direct ties to Marin County at all. When a kitchen appliance, boat accessory, vehicle part, or piece of recreational gear fails unexpectedly, the injury can happen at home, on Bridgeway, or along US-101 during a routine errand. California law generally allows injured people to pursue a strict liability claim, meaning the focus stays on whether the product itself was defective rather than proving someone was careless. LawProactive doesn't practice law or represent clients directly — we're a free connection service that helps injured Sausalito residents reach an independent attorney who can evaluate what happened, identify who in the supply chain may be responsible, and explain next steps. If you were hurt by a product, keeping it in its post-incident condition can matter, and getting an early legal opinion costs you nothing.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or electronics",
+      "Lacerations from faulty tools or sharp component failures",
+      "Fractures caused by collapsing furniture or structures",
+      "Poisoning or illness from contaminated products",
+      "Crush injuries from failed automotive or boating parts",
+      "Head injuries from defective safety or protective gear"
+    ],
+    "ctaText": "Tell us what happened — connect with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Sausalito Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Case",
+        "desc": "Because California often applies strict liability to defective products, an independent attorney can focus on proving the defect and the harm it caused, rather than digging into the manufacturer's state of mind."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable under California law, giving an attorney more avenues to pursue on your behalf."
+      },
+      {
+        "title": "Guidance on Preserving the Product",
+        "desc": "An independent attorney can advise you early on how to safely store the defective item, since the product itself is often central evidence in these claims."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I need to keep the product that hurt me?",
+        "answer": "Yes, if possible. In California product liability cases, the item itself is often the most important piece of evidence for showing a design, manufacturing, or warning defect. An independent attorney can guide you on how to store it properly until it's reviewed."
+      },
+      {
+        "question": "Was I injured somewhere specific in Sausalito, does that matter?",
+        "answer": "It can help provide context, but product liability claims focus more on the defect itself than the location. Whether the injury happened near Bridgeway, along US-101, or at home, an attorney will look closely at how and why the product failed."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we don't charge you to connect with an independent attorney. Attorneys in the network typically work on contingency, meaning there's no fee unless you recover compensation."
+      },
+      {
+        "question": "Do I have to prove the manufacturer was negligent?",
+        "answer": "Not necessarily. California often allows product liability claims to proceed under strict liability, which generally focuses on whether the product was defective and caused harm, rather than requiring proof of carelessness."
+      }
+    ]
+  }
+}

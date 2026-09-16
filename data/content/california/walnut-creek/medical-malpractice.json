@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "walnut-creek medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Walnut Creek Medical Malpractice Attorney | LawProactive",
+    "metaDescription": "Hurt by a medical error in Walnut Creek? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines apply—act early."
+  },
+  "hero": {
+    "subtitle": "If a doctor, nurse, or hospital in Walnut Creek made a mistake that left you worse off, you deserve a clear explanation of your options. LawProactive connects you, at no cost, with an independent medical malpractice attorney who knows California's MICRA rules."
+  },
+  "about": {
+    "title": "Walnut Creek Medical Malpractice Claims",
+    "longDescription": "When you go in for care in Walnut Creek, you expect to come out better, not worse. But in a city of nearly 69,000 people, with residents traveling in from across Contra Costa County for appointments, surgeries, and follow-up visits, errors do occur, and the people they land on are often left with more questions than answers. Medical malpractice in California has its own rulebook, known as MICRA. It sets short deadlines, requires a formal notice before a lawsuit can be filed, and places a cap on non-economic damages that adjusts upward every year. It also demands proof, almost always through a qualified medical expert, that a provider fell below the accepted standard of care. A disappointing result on its own does not meet that bar. LawProactive is not a law firm. We are a free service that connects Walnut Creek residents with an independent attorney who handles these cases. There is no charge to reach out, and network attorneys work on contingency, so you owe nothing unless there is a recovery.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Questions",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors and retained instruments",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary care or missed follow-up"
+    ],
+    "ctaText": "Ask about your Walnut Creek malpractice case for free."
+  },
+  "whyChoose": {
+    "title": "Why Walnut Creek Residents Use LawProactive for Malpractice Cases",
+    "items": [
+      {
+        "title": "The clock is shorter than most people think",
+        "desc": "California generally allows one year from the date you discovered the harm, and never more than three years from the injury itself. An early conversation helps you avoid losing a claim on timing alone."
+      },
+      {
+        "title": "The 90-day notice is handled correctly",
+        "desc": "Before a malpractice lawsuit can be filed, the provider must receive a formal notice of intent at least 90 days ahead. Attorneys in our network are familiar with this step and how it interacts with the deadline."
+      },
+      {
+        "title": "Expert review comes first",
+        "desc": "Almost every California malpractice case needs a qualified medical expert to explain how the standard of care was breached. The attorney you are connected with can arrange that review so you know early whether a claim is realistic."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad surgical result in Walnut Creek. Is that malpractice?",
+        "answer": "Not necessarily. Medicine carries risk, and a poor outcome by itself does not prove negligence under California law. What matters is whether the provider did something a reasonably careful professional would not have done, or failed to do something they should have. A medical expert typically has to confirm that before a case moves forward."
+      },
+      {
+        "question": "I was treated in Walnut Creek but live in another part of Contra Costa County. Does that change anything?",
+        "answer": "It usually does not affect whether you have a claim, though it can influence where a case is filed and which records need to be gathered. Contra Costa County cases are commonly heard in the county's superior court regardless of which city the treatment happened in. An independent attorney can sort out the venue question quickly once they know the details."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages such as pain and suffering in medical malpractice cases, and that cap increases every year under MICRA. Economic losses, including medical bills and lost income, are not subject to the same cap. An attorney can explain how the current figures apply to your situation without anyone promising a specific result."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "willows workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Willows Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Willows? Free connection to an independent attorney who handles third-party workplace injury claims in Glenn County."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Willows, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims. There's no cost to find out where your case might fit."
+  },
+  "about": {
+    "title": "Willows Workplace Injury Claims",
+    "longDescription": "Willows may be a small city, but its workforce spans agriculture, trucking along Interstate 5, retail near Sycamore Street, and local services throughout Glenn County. When a workplace injury happens here, California law generally routes the claim through workers' compensation, regardless of who was at fault. But that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the incident, a separate third-party injury claim may be possible alongside your workers' comp benefits. Understanding which path applies to your situation can be confusing, especially while you're recovering. LawProactive doesn't practice law or represent you directly. Instead, we connect injured workers in Willows with an independent attorney who can review the facts, explain your options, and help you understand whether a third-party claim might apply to your case at no upfront cost.",
+    "commonInjuriesTitle": "Common Workplace Injuries",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Equipment and machinery-related injuries",
+      "Vehicle collisions during work duties",
+      "Repetitive strain and overexertion injuries",
+      "Agricultural equipment accidents",
+      "Injuries from falling objects or unsafe storage"
+    ],
+    "ctaText": "Find out if a third-party claim applies to your workplace injury."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Willows Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Full Picture",
+        "desc": "California generally treats workers' comp as the exclusive remedy against your employer, but a negligent third party may still owe you a separate claim. An attorney can help identify whether that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You typically have 30 days to report a workplace injury to your employer, and missing that window can complicate your benefits. An independent attorney can walk you through what documentation and timing look like."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "California law prohibits employers from retaliating against workers who report injuries or file claims. If you're worried about your job status, an attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a warehouse job near Interstate 5 in Willows. Can I still file a third-party claim?",
+        "answer": "It depends on the facts. If your injury was solely caused by your employer's negligence, workers' comp is usually the exclusive remedy. But if a subcontractor, delivery driver, or equipment supplier contributed to the accident, a separate third-party claim may be available. An independent attorney can review the details and let you know."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer in Willows?",
+        "answer": "California generally requires you to notify your employer within 30 days of a workplace injury. Waiting longer can make it harder to secure workers' comp benefits, so it's worth reporting as soon as you're able."
+      },
+      {
+        "question": "What if my employer retaliates after I report an injury?",
+        "answer": "Retaliation for reporting a workplace injury or filing a claim is illegal under California law. If you believe you're facing retaliation, an independent attorney can help you understand your options and protections."
+      }
+    ]
+  }
+}

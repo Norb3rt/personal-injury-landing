@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "thousand-oaks city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Thousand Oaks, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Thousand Oaks or elsewhere in Ventura County? You have 2 years to file most claims. Get connected free with an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on the 101 or hurt in a fall at a Thousand Oaks shopping center, LawProactive connects you with an independent personal injury attorney at no cost. We serve people across Ventura County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Thousand Oaks, California",
+    "longDescription": "Thousand Oaks sits at the eastern edge of Ventura County, and much of its daily traffic funnels onto US-101, the Ventura Freeway, before spilling out onto Thousand Oaks Boulevard, Hillcrest Drive, and Moorpark Road. Those four corridors appear most often in the city's public collision records. In 2025, the most recent final reporting year, Thousand Oaks logged 616 injury collisions. A total of 859 people were hurt in those crashes, and 4 people lost their lives. The records also show a pattern in timing: reported crashes tend to peak on Tuesdays between 5 p.m. and 7 p.m., as commuters head home. Behind each of those numbers is a real person dealing with a sore neck, a growing stack of medical bills, or a car that no longer runs. If that person is you, LawProactive can help you take the next step. We are a free service, not a law firm. What we do is connect you with an independent personal injury attorney who handles cases in the Thousand Oaks area. There is no charge to be matched, and the attorneys in our network work on contingency, which means you owe no attorney fee unless there is a recovery in your case. Reaching out costs nothing and commits you to nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Thousand Oaks Residents",
+    "commonInjuries": [
+      "Whiplash and soft-tissue neck injuries from freeway rear-end collisions",
+      "Broken wrists, arms, and collarbones from bicycle and motorcycle crashes",
+      "Concussions and other head injuries",
+      "Knee and ankle damage from slip-and-fall incidents",
+      "Back and spinal disc injuries from side-impact crashes",
+      "Cuts, road rash, and scarring from pedestrian collisions"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Thousand Oaks Claim",
+    "items": [
+      {
+        "title": "The clock is real, and it can be short",
+        "desc": "California gives you 2 years to file most injury claims, but a claim against a city, county, or state agency can require notice in as little as 6 months. Talking with an attorney early keeps those deadlines from slipping."
+      },
+      {
+        "title": "Being partly at fault does not shut the door",
+        "desc": "California follows pure comparative fault. If you share some blame for a crash on Moorpark Road, your recovery is reduced by your percentage of fault, not wiped out."
+      },
+      {
+        "title": "Your pain and disruption count, too",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages such as pain, suffering, and loss of enjoyment of life. An attorney can help you document those losses properly."
+      },
+      {
+        "title": "You pay nothing up front",
+        "desc": "Attorneys in our network work on contingency. If there is no recovery, there is no attorney fee, so cost does not have to be the reason you wait."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work right now and the bills are already piling up.",
+      "I think I might have been partly at fault — does that mean I get nothing?",
+      "I have no idea whether I even have a case worth pursuing."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Thousand Oaks?",
+        "answer": "For most injury claims in California, the deadline is 2 years from the date of the injury. If a government entity is involved — for example, a city vehicle or a poorly maintained public roadway — you may need to file a formal claim within 6 months. Because the shorter deadline is easy to miss, it helps to speak with an attorney soon after the incident."
+      },
+      {
+        "question": "Where do crashes tend to happen in Thousand Oaks?",
+        "answer": "Public collision records list US-101 (the Ventura Freeway), Thousand Oaks Boulevard, Hillcrest Drive, and Moorpark Road as the corridors with the highest counts. These are simply the roads with the most reported collisions, which often reflects how heavily they are traveled. In 2025 the city recorded 616 injury collisions overall, with reported crashes peaking on Tuesdays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not give legal advice or represent clients ourselves. Once you are matched, your relationship is directly with that attorney."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system. Your compensation is reduced in proportion to your share of the blame, but you are not barred from recovering. Even someone found mostly at fault can still recover the remaining portion."
+      },
+      {
+        "question": "How much does it cost to hire a personal injury attorney through LawProactive?",
+        "answer": "Our connection service is free. The attorneys we work with take cases on a contingency basis, meaning their fee comes out of any recovery rather than out of your pocket up front. If your case does not result in a recovery, you do not owe an attorney fee."
+      }
+    ]
+  }
+}

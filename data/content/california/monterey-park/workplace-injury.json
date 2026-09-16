@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "monterey-park workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Monterey Park Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Monterey Park? Get connected free to an independent attorney who can review your workers' comp or third-party claim options."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt while working in Monterey Park, the rules around workers' compensation and outside-party claims can get confusing fast. LawProactive can connect you, at no cost, with an independent attorney who handles these cases."
+  },
+  "about": {
+    "title": "Monterey Park Workplace Injury Claims",
+    "longDescription": "Monterey Park's mix of small businesses, warehouses, restaurants, and retail along corridors like Atlantic Boulevard and Garvey Avenue means workplace injuries show up in plenty of forms — from delivery drivers navigating Garfield Avenue traffic to kitchen staff dealing with equipment mishaps. In California, workers' compensation is generally the only remedy available against your employer, no matter who was at fault. But if a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, you may also have a separate claim against that third party. These situations often overlap, and sorting out which path applies to your case takes a careful look at the facts. LawProactive doesn't practice law — we simply connect injured workers in Monterey Park with an independent attorney who can review the details and explain what options might be available, without any cost or obligation to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Warehouse and loading-dock accidents",
+      "Slip, trip, and fall injuries on the job site",
+      "Delivery or driving-related injuries near SR-60",
+      "Equipment and machinery injuries",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from falling objects or unsafe scaffolding"
+    ],
+    "ctaText": "Get connected with an attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Workplace Injury",
+    "items": [
+      {
+        "title": "Understanding Your Exclusive Remedy",
+        "desc": "California generally treats workers' comp as the only remedy against your employer regardless of fault, but that doesn't cover every situation. An attorney can help you see whether a third party might also share responsibility."
+      },
+      {
+        "title": "Protection From Retaliation",
+        "desc": "It's illegal for an employer to retaliate against you for reporting a workplace injury. If you're worried about your job status after filing, an attorney can explain your rights."
+      },
+      {
+        "title": "Meeting Key Deadlines",
+        "desc": "You generally need to report a workplace injury to your employer within 30 days, and any separate third-party claim carries its own two-year deadline. Missing either window can limit your options, so timing matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at work in Monterey Park — can I sue my employer directly?",
+        "answer": "In most cases, California workers' compensation is the exclusive remedy against your employer, meaning a direct lawsuit typically isn't available. However, if someone other than your employer — like a subcontractor, equipment maker, or another driver — contributed to your injury, you may be able to pursue a separate claim against that party. An independent attorney can help sort out which path fits your situation."
+      },
+      {
+        "question": "What if my injury happened while driving for work near Garfield Avenue or SR-60?",
+        "answer": "Workplace injuries that happen on the road, such as while making deliveries near busy corridors like Garfield Avenue or the SR-60 freeway, can sometimes involve claims against both workers' comp and a third-party driver. Since Monterey Park sees a fair number of injury collisions on its major roads, these overlapping claims come up often. An attorney can review the details and explain your options."
+      },
+      {
+        "question": "Is there a deadline to report my injury or file a claim?",
+        "answer": "Yes — you generally need to notify your employer within 30 days of a workplace injury to preserve your workers' comp rights. If a third party is involved, a separate injury claim typically must be filed within two years. Because these deadlines can overlap or differ, it's worth speaking with an attorney sooner rather than later."
+      }
+    ]
+  }
+}

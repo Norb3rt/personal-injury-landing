@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "gridley medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gridley Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Gridley, CA? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or treatment mistake at a Gridley-area medical facility left you injured, LawProactive can connect you with an independent attorney who understands Butte County medicine and California's malpractice rules."
+  },
+  "about": {
+    "title": "Gridley Medical Malpractice Claims",
+    "longDescription": "Gridley residents often rely on a small circle of local clinics and nearby regional hospitals for care, which means when something goes wrong, it can be hard to know where to turn. Medical malpractice cases are different from other injury claims — California's MICRA law requires a qualified medical expert to weigh in, imposes a 90-day pre-suit notice requirement, and sets tight deadlines: generally one year from when you discovered the harm, and never more than three years from the injury itself. A disappointing result from treatment isn't automatically malpractice; the law requires proof that a provider's care fell below the accepted standard and caused harm. LawProactive doesn't practice law or evaluate your case ourselves — we're a free service that connects Gridley residents with an independent attorney who can review medical records, consult required experts, and explain whether a claim is worth pursuing, all on a contingency basis so there's no fee unless there's a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to recognize infection or sepsis"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Understanding MICRA Matters Before You Wait",
+    "items": [
+      {
+        "title": "Notice and Filing Deadlines Are Strict",
+        "desc": "California generally requires a claim within one year of discovering the harm, and never more than three years from the injury — plus a 90-day pre-suit notice to the provider before a lawsuit can even be filed."
+      },
+      {
+        "title": "Expert Review Is Required, Not Optional",
+        "desc": "MICRA requires a qualified medical expert to confirm that a provider's care fell below the accepted standard, so records and expert opinions need to be gathered early."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "California law limits non-economic damages in malpractice cases, though the cap increases annually — an attorney can walk you through how that applies to your circumstances."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad outcome from treatment automatically malpractice?",
+        "answer": "No. California law requires proof that a provider's care fell below the accepted medical standard and that this caused your injury. A poor result alone, even a serious one, doesn't establish malpractice without that connection."
+      },
+      {
+        "question": "How much time do I have to bring a claim in Gridley?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it occurred. There's also a 90-day notice requirement before filing suit, so it's wise to act as soon as you suspect a problem."
+      },
+      {
+        "question": "Does Gridley have local hospitals that handle these cases, or do they go elsewhere?",
+        "answer": "Many Gridley residents receive care locally or travel to larger Butte County facilities, and malpractice claims can involve either setting. An independent attorney connected through LawProactive can help sort out which providers and records are relevant to your specific situation."
+      }
+    ]
+  }
+}

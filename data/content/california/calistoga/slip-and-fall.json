@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "calistoga slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calistoga Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall at a Calistoga business or property? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Calistoga winery, hotel, or shop can leave you with medical bills and unanswered questions about who's responsible. LawProactive connects you free with an independent attorney who handles premises liability claims across Napa County."
+  },
+  "about": {
+    "title": "Calistoga Slip & Fall Claims",
+    "longDescription": "Calistoga draws visitors year-round to its spas, wineries, and small-town shops along Lincoln Avenue, but uneven walkways, wet pool decks, and poorly lit parking areas can turn a pleasant visit into an injury. Under California law, a property owner or business isn't automatically responsible just because someone got hurt on their premises — you generally need to show the owner knew, or reasonably should have known, about the hazardous condition and failed to fix it or warn visitors. That's why acting quickly matters: photos of the hazard, incident reports, and surveillance footage can disappear or get overwritten within days. LawProactive doesn't practice law ourselves; we simply connect people injured in falls around Calistoga with an independent attorney in our network who can evaluate what happened, gather the right evidence, and explain your options. There's no cost to get connected, and the attorneys we work with take cases on contingency — meaning no fee unless you recover.",
+    "commonInjuriesTitle": "Common Injuries From Falls",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures",
+      "Traumatic brain injuries or concussions",
+      "Torn ligaments and knee injuries",
+      "Spinal disc injuries or herniations",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Get connected with an independent premises liability attorney today."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "Notice Is Everything",
+        "desc": "California premises cases hinge on proving the property owner knew or should have known about the hazard. An attorney can help identify maintenance logs, prior complaints, or inspection records that establish that notice."
+      },
+      {
+        "title": "Video and Evidence Fade Fast",
+        "desc": "Surveillance footage from a store, hotel, or winery is often overwritten within days or weeks. Connecting with an attorney early gives them a chance to send a preservation request before that evidence is gone."
+      },
+      {
+        "title": "Comparative Fault Doesn't End Your Claim",
+        "desc": "Even if a property owner argues you weren't watching where you stepped, California's pure comparative fault rule can still allow a recovery reduced by your share of fault, rather than blocking it outright."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Calistoga?",
+        "answer": "In most cases, California gives you two years from the date of the fall to file a lawsuit. If the property involved is owned by a public entity, such as a city building, the deadline is much shorter and requires an early administrative claim, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "What if I fell at a winery or event venue in Calistoga and I'm not sure who owns the property?",
+        "answer": "That's common in a small town where venues sometimes lease space or use outside vendors for events. An attorney can help sort out ownership and management structure through public records and lease agreements before determining who may be responsible."
+      },
+      {
+        "question": "Do I need photos or a report from the time of the fall?",
+        "answer": "Yes, if at all possible — photos of the specific hazard, your shoes, and the surrounding area help show the condition at the time of the incident. If you didn't get photos, an attorney can still work with witness statements, medical records, and any available surveillance video."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and the independent attorneys in our network handle premises liability cases on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "san-clemente medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Clemente Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free help connecting San Clemente medical malpractice patients with independent attorneys. No fee unless you recover. MICRA deadlines apply."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or surgery in San Clemente left you worse off than before, we can help connect you with an independent attorney who understands California's strict malpractice rules and deadlines."
+  },
+  "about": {
+    "title": "San Clemente Medical Malpractice Claims",
+    "longDescription": "San Clemente residents rely on a mix of local urgent care clinics and larger Orange County hospital systems, often traveling along I-5 or S El Camino Real for specialist appointments and follow-up care. When a diagnosis is missed, a surgery goes wrong, or medication is mismanaged, the consequences can follow a patient for years. California's MICRA law makes these cases legally distinct from ordinary injury claims — a poor result alone doesn't establish fault, and a qualified medical expert almost always has to weigh in before a claim moves forward. There's also a strict 90-day pre-suit notice requirement and a limited window to act, generally one year from when the harm was discovered. LawProactive doesn't practice law or promise outcomes; we simply connect San Clemente patients and families with independent attorneys who handle these claims on contingency, so there's no upfront cost to find out where you stand.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosage or prescription mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-operative infections"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your situation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "Deadlines Are Unforgiving",
+        "desc": "California generally gives one year from when you discover the harm, capped at three years from the injury, and a 90-day notice must go out before any lawsuit is filed."
+      },
+      {
+        "title": "Expert Review Is Required",
+        "desc": "Because a bad medical outcome by itself isn't proof of malpractice, a qualified medical expert almost always has to evaluate the case before it can proceed."
+      },
+      {
+        "title": "Damage Caps Change Yearly",
+        "desc": "California's cap on non-economic damages under MICRA rises each year, so the value of a claim can depend partly on timing and current statutory limits."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in San Clemente?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered or reasonably should have discovered the injury, but no more than three years from the date of the injury itself. A 90-day pre-suit notice to the provider is also required before filing. An independent attorney can help sort out which deadline applies to your situation."
+      },
+      {
+        "question": "Does a bad outcome from surgery automatically mean malpractice happened?",
+        "answer": "No. California law is clear that an unfavorable result alone doesn't establish malpractice; there has to be evidence the provider deviated from the accepted standard of care. That's why a qualified medical expert almost always reviews these cases before they move forward."
+      },
+      {
+        "question": "I live near S El Camino Real and was treated at a nearby clinic — does location matter for my claim?",
+        "answer": "Where you were treated in San Clemente doesn't change the underlying California law, but it can affect which court has jurisdiction and which records need to be gathered. An attorney familiar with Orange County providers can help identify the right facilities and staff involved in your care."
+      }
+    ]
+  }
+}

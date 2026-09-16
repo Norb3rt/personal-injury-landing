@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "ontario workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ontario CA Workplace Injury Lawyer | LawProactive",
+    "metaDescription": "Hurt on the job in Ontario, CA? LawProactive connects you free with an independent attorney who reviews workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Injured at work in Ontario, whether on a warehouse floor, a loading dock, or a delivery run along I-10? We connect you, free, with an independent attorney who can tell you if a claim beyond workers' comp exists."
+  },
+  "about": {
+    "title": "Ontario Workplace Injury Claims",
+    "longDescription": "Ontario sits where three freeways meet, and much of the local workday happens in motion: on warehouse floors, in loading yards, and behind the wheel along I-10, SR-60, and I-15. When a shift ends with an injury instead of a paycheck, the questions come fast. Who pays for the emergency visit? Will hours get cut for reporting it? Is workers' compensation the only option? Under California law, workers' comp is usually your exclusive remedy against your employer, regardless of who was at fault. It is not always the whole story, though. If a subcontractor, a property owner, a defective piece of equipment, or another driver on Euclid Avenue caused your injury, a separate third-party claim may exist alongside the comp case. That claim carries its own two-year deadline. LawProactive is a free service, not a law firm. We connect Ontario workers with an independent personal injury attorney who can sort out which paths apply. Attorneys in our network work on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Ontario",
+    "commonInjuries": [
+      "Forklift and pallet-jack collisions",
+      "Falls from ladders, docks, or racking",
+      "Back and shoulder strains from repetitive lifting",
+      "Crush injuries from machinery or falling loads",
+      "Vehicle crashes while driving for work",
+      "Heat illness and chemical exposure"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Ontario Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look past workers' comp",
+        "desc": "Comp is normally the only remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver can open a separate injury claim. The attorney we connect you with reviews both tracks."
+      },
+      {
+        "title": "Deadlines get handled early",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and third-party claims run on a two-year clock. An early review keeps both dates in view."
+      },
+      {
+        "title": "Free, independent, and contingency-based",
+        "desc": "LawProactive charges nothing to connect you, and the attorneys in our network only earn a fee if there is a recovery. Retaliation for reporting an injury is illegal, and the attorney can address that too."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver on the I-10 while making deliveries for my Ontario employer. Is that only a workers' comp case?",
+        "answer": "Not necessarily. Because you were working, workers' comp likely covers your medical care and part of your lost wages. Since another driver may have been negligent, a separate third-party injury claim against that driver could also exist. That second claim must be filed within two years, so it helps to have an attorney review it soon."
+      },
+      {
+        "question": "How quickly do I need to report a workplace injury in California?",
+        "answer": "You should notify your employer within 30 days of the injury, ideally in writing. Reporting late can complicate your workers' comp benefits. If the injury developed gradually, tell your employer as soon as you connect it to your work."
+      },
+      {
+        "question": "Can my employer fire me or cut my hours for filing a claim?",
+        "answer": "No. California law prohibits retaliation against workers who report an injury or file for workers' compensation. If you notice a sudden change in hours, duties, or treatment after reporting, mention it to the attorney you are connected with, because it may be part of your case."
+      }
+    ]
+  }
+}

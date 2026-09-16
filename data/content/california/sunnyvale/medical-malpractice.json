@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "sunnyvale medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sunnyvale Medical Malpractice Lawyer Connection | Free",
+    "metaDescription": "Hurt by a medical error in Sunnyvale, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a provider in Sunnyvale or elsewhere in Santa Clara County left you worse off through a preventable error, we can connect you with an independent attorney at no cost. The clock under California's MICRA rules is short, so it helps to ask early."
+  },
+  "about": {
+    "title": "Sunnyvale Medical Malpractice Claims",
+    "longDescription": "A visit to a Sunnyvale clinic or a Santa Clara County hospital is supposed to leave you better off, not worse. When it does the opposite because a provider missed something, mishandled a procedure, or ignored a warning sign, California law gives you a path forward, but it is a narrow one. Medical malpractice cases here fall under MICRA, a set of rules that differ from ordinary injury claims. You generally have one year from the date you discovered the harm to file, and never more than three years from the injury. A 90-day notice must go to the provider before any lawsuit begins, and a qualified medical expert is almost always needed to explain how the standard of care was broken. Not every poor result qualifies; medicine carries risk, and the question is whether a careful provider would have acted differently. LawProactive is not a law firm. We are a free service that connects Sunnyvale residents with an independent attorney who takes these cases on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed cancer, stroke, or heart attack diagnosis",
+      "Surgical errors, including wrong-site procedures or retained instruments",
+      "Medication and dosing mistakes",
+      "Anesthesia complications",
+      "Birth injuries to mother or child",
+      "Infections or pressure injuries from inadequate monitoring"
+    ],
+    "ctaText": "Tell us what happened and get connected with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Sunnyvale Residents Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Unforgiving",
+        "desc": "One year from discovery and an outer limit of three years from the injury leave little room for delay. Getting connected quickly gives an attorney time to gather records and serve the required 90-day notice."
+      },
+      {
+        "title": "Expert Review From the Start",
+        "desc": "California courts almost always require a qualified medical expert to establish that the standard of care was breached. Attorneys in our network know which cases need that review and how to arrange it."
+      },
+      {
+        "title": "Honest Assessment of Damages",
+        "desc": "MICRA caps non-economic damages at a figure that rises each year, while economic losses like medical bills and lost wages are handled separately. An independent attorney can explain what that means for your situation without overpromising."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My care was at a large health system in Santa Clara County rather than a small Sunnyvale office. Does that change my claim?",
+        "answer": "The size of the provider does not change the legal standard, but it can change the logistics. Large systems have their own claims departments and record-request procedures, and identifying every responsible party takes care. An attorney connected through LawProactive can sort out who must receive the 90-day pre-suit notice and how to obtain complete records."
+      },
+      {
+        "question": "My surgery didn't go the way I hoped. Is that malpractice?",
+        "answer": "Not necessarily. California law distinguishes between a known complication and a failure to meet the standard of care that a reasonably careful provider would have followed. A qualified medical expert reviews the records to make that distinction. Speaking with an attorney costs nothing and helps you find out where your situation falls."
+      },
+      {
+        "question": "What does it cost to talk with an attorney through LawProactive?",
+        "answer": "Nothing. Our connection service is free, and the independent attorneys in our network work on contingency, so there is no fee unless there is a recovery. You can ask questions about MICRA deadlines and the expert requirement before deciding whether to move forward."
+      }
+    ]
+  }
+}

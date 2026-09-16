@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "redwood-city product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Redwood City Product Liability Attorney | LawProactive",
+    "metaDescription": "Hurt by a defective product in Redwood City? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product you trusted fails in Redwood City, California's strict liability rules may put the burden where it belongs. LawProactive connects you, at no cost, with an independent attorney who handles defective product claims."
+  },
+  "about": {
+    "title": "Redwood City Product Liability Claims",
+    "longDescription": "A faulty product rarely gives warning. It might be a lithium battery that overheats in a Redwood City apartment, a child's car seat that fails during a collision on Woodside Road, or a power tool bought along El Camino Real that comes apart mid-use. When something you relied on causes harm here in San Mateo County, California law offers a route many people do not expect: strict liability. In plain terms, you generally do not have to prove the manufacturer was careless. You need to show the product had a defect — in its design, in how that particular unit was made, or in the warnings that came with it — and that the defect caused your injury. Responsibility can stretch across several companies. The maker, the distributor and the local retailer that sold it may each be answerable. LawProactive is not a law firm. We are a free service that puts Redwood City residents in touch with an independent attorney who takes these cases on contingency. Hold onto the product, its packaging and any receipts, and reach out when you are ready.",
+    "commonInjuriesTitle": "Injuries Commonly Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, chargers or appliances",
+      "Lacerations and amputations from tools with failed guards",
+      "Crush and fracture injuries from collapsing furniture or equipment",
+      "Choking or ingestion injuries from unsafe children's products",
+      "Chemical exposure from mislabeled household or personal-care goods",
+      "Head, neck and spinal trauma when vehicle safety parts fail"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Redwood City Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict liability, explained simply",
+        "desc": "California generally does not require you to prove the manufacturer was negligent. An attorney in our network can help you focus on what matters: showing the product was defective and that it caused your injury."
+      },
+      {
+        "title": "Every link in the chain",
+        "desc": "Manufacturers, distributors and retailers may all bear responsibility for a defective product. The attorneys we connect you with know how to identify each potentially liable party rather than stopping at the first name on the box."
+      },
+      {
+        "title": "Preserving the evidence that counts",
+        "desc": "The product itself is often the single most important piece of evidence. We encourage you to keep it exactly as it is, and the attorney you are matched with can guide you on protecting it from the start."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the company was careless to win a product liability claim in California?",
+        "answer": "Usually not. California applies strict liability to most defective product cases, so the central questions are whether the product had a design, manufacturing or warning defect and whether that defect caused your injury. Negligence can still be argued in some cases, but it is not the only path. An attorney can explain which theory fits your situation."
+      },
+      {
+        "question": "I was injured in a crash on US-101 near Redwood City and suspect an airbag or tire failed. Is that a product liability case?",
+        "answer": "It can be. Redwood City recorded 305 injury collisions in 2025, and some crashes involve a vehicle component that did not perform as designed. If a defective airbag, tire, seatbelt or other part contributed to your injuries, the manufacturer or supplier of that part may be liable in addition to any driver at fault. Keep the vehicle from being repaired or scrapped until an attorney has reviewed it."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Keep it, and keep it as close to its post-incident condition as possible. Do not try to fix it, return it to the store, or throw away the packaging, manuals or receipt. Photographs of the item and your injuries help too. The attorney you are connected with will want to examine the product, and it is often the key to establishing the defect."
+      }
+    ]
+  }
+}

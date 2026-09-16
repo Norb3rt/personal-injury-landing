@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "concord slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Concord Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on someone else's property in Concord, CA? LawProactive connects you, free, with an independent premises liability attorney."
+  },
+  "hero": {
+    "subtitle": "Whether you went down on a wet store floor along Clayton Road or a broken step at a Concord apartment complex, we can connect you with an independent premises liability attorney at no cost to you."
+  },
+  "about": {
+    "title": "Concord Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You are on the ground in a grocery aisle off Clayton Road, or on a cracked walkway outside an apartment complex near Willow Pass Road, and the first thought is embarrassment, not evidence. But under California premises liability law, what happens in the next hours matters. Property owners in Concord are responsible for hazards they knew about or reasonably should have discovered, and a claim usually turns on proving that notice. Photos of the spill, the loose mat, or the unlit stairwell, the names of anyone who saw you go down, and a prompt written request that the business preserve its surveillance footage can make the difference. Concord is home to 128,667 people spread across retail corridors, medical offices, and older residential blocks in Contra Costa County, and falls happen in all of them. LawProactive is not a law firm. We are a free service that connects you with an independent attorney who takes premises cases on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Concord",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and shoulder fractures from bracing",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back strain",
+      "Knee ligament tears",
+      "Tailbone and spinal fractures"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Concord Residents Turn to LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice Is the Heart of the Case",
+        "desc": "California does not hold an owner liable simply because you fell; you generally need to show they knew or should have known about the hazard and failed to fix it or warn you. The attorneys we connect you with know how to pursue inspection logs, maintenance records, and video before they disappear."
+      },
+      {
+        "title": "Deadlines Are Shorter Than People Expect",
+        "desc": "Most California premises claims must be filed within two years, but if the hazard was on property owned by a city, county, or other public entity, the window to file a government claim is far shorter. Getting connected early protects your options."
+      },
+      {
+        "title": "Partial Fault Does Not End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover even if you were partly responsible, with your recovery reduced by your share of fault. An independent attorney can push back when an insurer tries to pin the whole thing on you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a Concord sidewalk. Is that a claim against the City?",
+        "answer": "It depends on who owns and maintains that stretch of sidewalk, and in Concord it may be the City, Contra Costa County, or the adjacent property owner. Claims against a public entity in California follow a much shorter timeline than the standard two years, so it is important not to wait. An attorney can help identify the responsible party and file the correct claim in time."
+      },
+      {
+        "question": "The store already cleaned up the spill. Do I still have a case?",
+        "answer": "Possibly, yes. Cleaning up after the fact does not erase the question of whether the store knew or should have known about the hazard beforehand. Surveillance footage, employee sweep logs, and witness accounts can still show how long the condition existed. That is why a prompt written request to preserve video is so important."
+      },
+      {
+        "question": "Does LawProactive charge me anything to get connected with an attorney?",
+        "answer": "No. Our connection service is free, and LawProactive is not a law firm. The independent attorneys in our network handle premises liability cases on a contingency basis, meaning there is no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

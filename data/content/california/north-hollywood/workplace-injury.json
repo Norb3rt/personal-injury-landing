@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "north-hollywood workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "North Hollywood Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in North Hollywood? Get connected free with an independent attorney who can review your workers' comp or third-party claim."
+  },
+  "hero": {
+    "subtitle": "North Hollywood's mix of production studios, warehouses, and retail along Lankershim Boulevard means workplace injuries happen in a lot of different settings. If you got hurt at work, LawProactive can connect you at no cost with an independent attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "North Hollywood Workplace Injury Claims",
+    "longDescription": "North Hollywood's economy runs on a wide range of workplaces — sound stages and production lots near the NoHo Arts District, warehouses off Vineland Avenue, and the retail and restaurant strip along Lankershim Boulevard. Workers in these settings face different hazards, from equipment accidents on set to forklift injuries in a loading dock. In California, workers' compensation is generally the only path against your employer, no matter who was at fault. But when a subcontractor, property owner, or equipment manufacturer contributed to your injury, you may also have a separate claim against that third party. Sorting out which path applies — or whether both apply — takes a careful look at the facts. LawProactive doesn't handle claims itself; we're a free service that connects injured workers in North Hollywood with an independent attorney who can explain your options and take on your case on contingency, meaning there's no fee unless you recover.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Back and spine strain from lifting or repetitive motion",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Equipment and machinery accidents",
+      "Injuries from forklifts or warehouse vehicles",
+      "Burns or chemical exposure on production sets",
+      "Repetitive stress injuries from prolonged manual work"
+    ],
+    "ctaText": "Find out if you have a workers' comp or third-party claim — free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Only Option",
+        "desc": "While workers' comp is usually the exclusive remedy against your employer, a negligent third party — like a subcontractor or equipment maker — can still be held liable separately. An attorney can help identify if that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California law requires you to report a workplace injury to your employer within 30 days. Missing that window can complicate your claim, so getting guidance early matters."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "Employers cannot legally punish you for reporting an injury or filing a claim. If you're worried about your job, an attorney can explain your protections before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work at a production company in North Hollywood — does workers' comp still apply?",
+        "answer": "Generally yes, most employees are covered by workers' compensation regardless of the industry, including production and entertainment jobs common in the NoHo area. That said, if equipment failure or a third-party vendor contributed to your injury, there may be an additional claim worth exploring. An attorney can review your specific work situation."
+      },
+      {
+        "question": "What if I was injured by a subcontractor on a warehouse job site?",
+        "answer": "If a subcontractor's negligence caused your injury, you may be able to file a claim against them separately from your workers' comp benefits. This is one of the more common exceptions to the exclusive-remedy rule. An independent attorney can help determine who was actually responsible."
+      },
+      {
+        "question": "How long do I have to file if a third party is involved?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the injury. This is separate from the workers' comp reporting timeline, so it's worth having both reviewed. Waiting too long can limit your options."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "rohnert-park medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rohnert Park Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Rohnert Park? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Rohnert Park hospital or clinic visit goes wrong, MICRA's strict deadlines and requirements make early guidance critical. LawProactive can connect you at no cost with an independent attorney who understands Sonoma County medical malpractice claims."
+  },
+  "about": {
+    "title": "Rohnert Park Medical Malpractice Claims",
+    "longDescription": "Rohnert Park residents rely on a mix of local clinics and Sonoma County medical facilities for everything from routine care to emergency treatment, and most visits go as expected. But when a diagnosis is missed, a surgery goes sideways, or medication is mishandled, the consequences can follow a patient for years. California's MICRA law governs these claims and comes with its own rulebook: strict notice requirements, tight filing windows, and a mandatory review by a qualified medical expert before a case can move forward. That expert review matters because a poor outcome by itself doesn't establish malpractice — the law requires proof that a provider fell below the accepted standard of care. LawProactive doesn't practice law or handle claims directly; we simply connect Rohnert Park residents with independent attorneys who evaluate these cases regularly, at no upfront cost. If something felt wrong about your care here, getting an early opinion can help preserve your options before deadlines close in.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect Cases For",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Birth injuries to mother or newborn",
+      "Medication or dosage errors",
+      "Anesthesia complications",
+      "Failure to treat or monitor a serious condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your care in Rohnert Park — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Rohnert Park Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand MICRA's Timeline Pressure",
+        "desc": "California generally gives one year from discovering the harm, and never more than three years from the injury itself, to bring a claim. We connect you quickly so an attorney can evaluate your notice and filing deadlines before they close."
+      },
+      {
+        "title": "90-Day Notice Requirement Handled Early",
+        "desc": "Before a malpractice lawsuit can be filed in California, the provider must typically receive 90 days' written notice. Getting matched with an attorney early gives that notice time to be prepared and sent correctly."
+      },
+      {
+        "title": "Access to the Medical Review Malpractice Cases Require",
+        "desc": "California law almost always requires a qualified medical expert to support a malpractice claim. The attorneys in our network work with these reviews regularly and can help determine whether your case meets that standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim after treatment in Rohnert Park?",
+        "answer": "Under California's MICRA law, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date of the injury itself. There are limited exceptions, so it's worth having an attorney review your specific dates. Waiting too long can permanently close the door on a claim."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law requires proof that a provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. This is why a qualified medical expert review is almost always required before a claim can proceed. An independent attorney can help assess whether your situation meets that legal threshold."
+      },
+      {
+        "question": "Are there caps on what I can recover in a California malpractice case?",
+        "answer": "Yes, MICRA places a cap on non-economic damages (things like pain and suffering), though that cap rises each year under current law. Economic damages, such as medical bills and lost income, are generally not subject to this cap. An attorney can walk you through how this applies to a case originating in Sonoma County."
+      }
+    ]
+  }
+}

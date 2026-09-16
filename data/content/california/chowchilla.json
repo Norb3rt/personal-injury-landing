@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "chowchilla city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Chowchilla, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Chowchilla, Madera County? Get free help finding an attorney. 2 years to file, no fee unless you win. Contact LawProactive today."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car wreck, a fall, or another accident, we'll connect you with an independent attorney at no cost. Serving injured residents throughout Madera County, including Chowchilla."
+  },
+  "about": {
+    "title": "Personal Injury Help in Chowchilla, California",
+    "longDescription": "Chowchilla sits along a stretch of the Central Valley where local streets like Robertson Boulevard and Trinity Avenue carry a steady mix of farm traffic, commuters, and folks passing through on SR-99. In the most recent year of final public crash data, Madera County recorded 17 injury collisions in and around Chowchilla, leaving 27 people injured and, tragically, 1 person dead. Many of these reports cluster around Friday afternoons between 3 and 5 p.m., a window when work traffic and weekend errands overlap. If you or someone you love was hurt in one of these incidents, sorting out medical bills, insurance calls, and paperwork can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — that helps injured people in Chowchilla get connected with an independent personal injury attorney who can review what happened and explain your options. There's no cost to reach out, and attorneys in our network only get paid if you recover compensation. Getting information early can make a real difference in how your situation unfolds.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from vehicle or pedestrian crashes",
+      "Concussions and other head injuries",
+      "Back and spinal injuries from impact",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from slip-and-fall or workplace accidents"
+    ],
+    "ctaText": "Find out if you have options — reach out for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Two-Year Deadline",
+        "desc": "Most personal injury claims in California must be filed within two years of the incident. If a government entity was involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply adjusted to reflect your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In typical injury cases, California places no limit on non-economic damages like pain, suffering, and emotional distress. An attorney can help make sure this side of your claim isn't overlooked."
+      },
+      {
+        "title": "You Don't Pay Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, which means their fee comes only from a settlement or award — not out of your pocket upfront."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by an insurance adjuster calling too soon",
+      "Not knowing if you missed a deadline to file a claim",
+      "Wondering if being partly at fault means you can't get help"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. If you move forward with an attorney, they typically work on contingency, meaning they only get paid if you recover money."
+      },
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "Generally, you have two years from the date of the injury to file a claim. If your injury involved a government agency or vehicle, that deadline could be as short as six months, so it's wise to act sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partially at fault doesn't prevent you from recovering compensation. Your final recovery amount would simply be reduced by your percentage of responsibility."
+      },
+      {
+        "question": "Where do crashes tend to happen in Chowchilla?",
+        "answer": "Public crash records show collision counts concentrated along corridors such as Robertson Boulevard, SR-99, W Robertson Boulevard, and Trinity Avenue, with reports clustering on Fridays between 3 and 5 p.m. These are simply neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases in California, there is no cap on non-economic damages like pain and suffering. An attorney can help evaluate what a fair claim might include based on your specific situation."
+      }
+    ]
+  }
+}

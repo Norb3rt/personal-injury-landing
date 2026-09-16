@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "corcoran slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Corcoran Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Corcoran, CA? Get connected free to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall in a Corcoran store, apartment complex, or public building can leave you with medical bills and unanswered questions about who's responsible. LawProactive connects you, at no cost, with an independent attorney who handles premises liability cases in Kings County."
+  },
+  "about": {
+    "title": "Corcoran Premises Liability Claims",
+    "longDescription": "Corcoran is a small, tight-knit farming community, but falls still happen everywhere here — inside markets along Whitley Avenue, at gas stations off Rt 43, in apartment breezeways near Dairy Avenue, or on cracked sidewalks close to Orange Avenue. Wet floors, uneven pavement, poor lighting, and unmarked steps cause real injuries, and California law puts responsibility on property owners who knew about a hazard, or should have known, and didn't fix it or warn visitors. Because Kings County doesn't see the volume of foot traffic that bigger cities do, evidence like surveillance footage or incident reports can be limited to a single small business, making it even more important to act fast. LawProactive doesn't practice law itself — we simply connect people hurt in falls around Corcoran with an independent attorney who can evaluate what happened, gather what evidence still exists, and explain your options. There's no cost to get connected, and no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fall Cases",
+    "commonInjuries": [
+      "Broken hips and wrists",
+      "Torn ligaments and sprains",
+      "Head and concussion injuries",
+      "Spinal and back injuries",
+      "Shoulder dislocations",
+      "Deep cuts requiring stitches or surgery"
+    ],
+    "ctaText": "Get connected with an attorney about your fall — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before You Talk to the Property Owner",
+    "items": [
+      {
+        "title": "Proving Notice Takes Documentation",
+        "desc": "California requires showing the property owner knew, or reasonably should have known, about the hazard that caused your fall. An attorney can help gather maintenance logs, prior complaint records, and photos before that proof disappears."
+      },
+      {
+        "title": "Surveillance Video Doesn't Last",
+        "desc": "Many Corcoran businesses overwrite security footage within days or weeks. Acting quickly to request preservation of that video can be the difference between having evidence and having nothing."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, Your Claim",
+        "desc": "Even if a property owner argues you weren't watching where you stepped, California's pure comparative fault rule still allows you to recover a share of damages reduced by your percentage of fault, rather than losing your claim entirely."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a premises liability claim in Corcoran?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit, though claims against a government-owned property, like a public building near Rt 43, have a much shorter deadline. Missing these windows can end your ability to recover, so it's worth discussing your timeline with an attorney soon after the fall."
+      },
+      {
+        "question": "What if the store or landlord says I wasn't paying attention?",
+        "answer": "That argument alone doesn't defeat a claim. California's comparative fault rule means your compensation may be reduced by your share of responsibility, but you can still recover if the property owner also failed to address a known hazard."
+      },
+      {
+        "question": "Are falls actually common in a small city like Corcoran?",
+        "answer": "Corcoran's overall reported crash and injury numbers stay modest given the population of around 22,477, but falls inside stores, apartment complexes, and public buildings happen independent of traffic patterns. Property conditions along busy corridors like Whitley Avenue or Dairy Avenue can create hazards regardless of city size."
+      }
+    ]
+  }
+}

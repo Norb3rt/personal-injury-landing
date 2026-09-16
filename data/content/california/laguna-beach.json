@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "laguna-beach city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Laguna Beach, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Laguna Beach? Free connection to an Orange County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, bike collision, or fall in Laguna Beach, we can connect you with an independent attorney at no cost. Serving injured residents and visitors throughout Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Laguna Beach, California",
+    "longDescription": "Laguna Beach's charm brings heavy weekend traffic to Coast Highway, Laguna Canyon Road, Rt 1, and Rt 133, where cars, cyclists, and pedestrians all compete for the same narrow lanes. In the most recent full year on record, the city logged 155 injury collisions, with 210 people hurt and 2 lives lost — a reminder that even a short drive through town can end in a life-changing injury. Reported crashes tend to cluster on Saturday afternoons, between 2 and 4 p.m., when beach traffic and local errands overlap. If you or someone you love was hurt in one of these collisions, sorting out medical bills, insurance calls, and lost income shouldn't fall entirely on your shoulders. LawProactive is a free service — not a law firm — that connects injured people in Laguna Beach with an independent personal injury attorney who can review what happened and explain your options. There's no obligation to move forward, and any attorney in our network works on contingency, meaning there's no fee unless you recover compensation. Getting clear information early can make a real difference in how your case unfolds.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from bicycle or pedestrian crashes",
+      "Traumatic brain injuries from high-speed impacts",
+      "Spinal cord damage from canyon road accidents",
+      "Cuts, bruises, and soft tissue injuries from falls",
+      "Shoulder and back injuries from motorcycle collisions"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity — like the City of Laguna Beach — was involved. Waiting too long can mean losing your right to recover anything."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Case",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the crash. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on What You Can Recover for Pain and Suffering",
+        "desc": "California places no limit on non-economic damages — like pain, suffering, and emotional distress — in most ordinary injury cases. That matters when an injury changes how you live day to day."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you win or settle your case. That structure lets you get legal help without worrying about upfront costs."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and the insurance company isn't calling back",
+      "I don't know if what happened to me is even worth pursuing",
+      "I can't work right now and I'm worried about paying rent",
+      "I'm afraid I waited too long or said something that hurt my claim"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "In most cases, you have two years from the date of the injury to file a lawsuit. If a government agency was involved — such as a city road crew or public bus — that deadline can shrink to as little as six months, so it's worth getting information quickly."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover damages even if you share some blame. Your compensation is adjusted to reflect your percentage of fault, but it isn't automatically barred."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Laguna Beach?",
+        "answer": "Public crash records show higher collision counts along Coast Highway, Rt 1, Rt 133, and Laguna Canyon Road, with reports peaking on Saturdays between 2 and 4 p.m. These are simply where more collisions have been recorded, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney in our network. We are not a law firm, and there's no cost or obligation to use our service."
+      },
+      {
+        "question": "Will I have to pay upfront legal fees?",
+        "answer": "Attorneys in our network work on contingency, meaning they only collect a fee if you recover compensation. This lets you pursue a claim without paying out of pocket while your case is pending."
+      }
+    ]
+  }
+}

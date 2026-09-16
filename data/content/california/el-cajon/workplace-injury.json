@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "el-cajon workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Cajon Workplace Injury Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt on the job in El Cajon? LawProactive connects you free with an independent attorney who can review workers' comp and third-party claim options."
+  },
+  "hero": {
+    "subtitle": "Injured at work in El Cajon, whether on a job site off E Main Street or behind the wheel on I-8? We connect you, at no cost, with an independent attorney who can explain what your claim may involve."
+  },
+  "about": {
+    "title": "El Cajon Workplace Injury Claims",
+    "longDescription": "Work in El Cajon looks different from one block to the next. Auto shops and light industrial yards line E Main Street, retail and service jobs cluster along Broadway and Fletcher Parkway, and a good number of people spend their shift driving on I-8. When a workday ends in an injury, the first question is usually simple: who pays for this? In California, workers' compensation normally covers medical care and a portion of lost wages regardless of fault, and it is typically the only claim you can bring against your own employer. That is not always the whole story, though. If a subcontractor, a property owner, a defective piece of equipment, or another driver played a role in what happened, a separate third-party injury claim may exist alongside your comp benefits. LawProactive is a free service, not a law firm. We connect injured workers across San Diego County with an independent attorney who works on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See in El Cajon Workplace Claims",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, or loading docks",
+      "Back and neck strain from lifting or repetitive motion",
+      "Crush and pinch injuries from machinery or equipment",
+      "Burns and chemical exposure in shops and kitchens",
+      "Crash injuries while driving for work",
+      "Hearing loss and other exposure-related conditions"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why El Cajon Workers Use LawProactive",
+    "items": [
+      {
+        "title": "Two Claims, Not One",
+        "desc": "Workers' comp is usually the only claim against your employer, but a negligent third party such as a subcontractor, property owner, or equipment maker can open a separate injury claim. The attorney we connect you with can look at both."
+      },
+      {
+        "title": "Deadlines Are Not Optional",
+        "desc": "You generally need to report a work injury to your employer within 30 days, and any third-party claim carries California's two-year filing deadline. Getting connected early keeps those windows open."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "California law prohibits an employer from firing, demoting, or punishing you for reporting a work injury. If that is what you are worried about, an attorney can explain your protections before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on I-8 while driving for my employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation would typically apply for medical care and wage replacement regardless of who caused the collision. If another driver was at fault, that driver is a third party, and a separate injury claim against them may be available with a two-year deadline. El Cajon recorded 619 injury collisions in 2025, many on I-8, so this overlap comes up more than people expect."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most situations, no. Workers' compensation is the exclusive remedy against your employer, even if the employer was careless. The exceptions are narrow, so the more practical question is usually whether someone other than your employer, like a subcontractor, property owner, or equipment manufacturer, contributed to the injury."
+      },
+      {
+        "question": "What does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service and not a law firm. The independent attorneys in our network handle workplace injury matters on contingency, which means they are paid only if there is a recovery, and the fee terms are explained to you before you agree to anything."
+      }
+    ]
+  }
+}

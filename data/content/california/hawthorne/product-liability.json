@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "hawthorne product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hawthorne, CA Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Hawthorne? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product sold as safe hurts someone in Hawthorne, California's strict liability rules may put the burden on the maker, not on you. LawProactive connects you at no cost with an independent product liability attorney."
+  },
+  "about": {
+    "title": "Hawthorne Product Liability Claims",
+    "longDescription": "A product that fails in your kitchen, your garage, or on Prairie Avenue during the Friday afternoon rush can change an ordinary day in Hawthorne in a single moment. The city logged 328 injury collisions in 2025, with 416 people hurt, and not every one of those crashes comes down to a driver's choices — sometimes a tire separates, an airbag never deploys, or a seat latch gives way on El Segundo Boulevard. Beyond the roads, defective products show up as space heaters, power tools, children's furniture, e-bike batteries, and medications. California treats most of these cases under strict liability. That means you generally need to show the product had a design, manufacturing, or warning defect and that the defect caused your injury; you do not have to prove the company was careless. LawProactive is not a law firm. We are a free service that pairs Hawthorne residents with an independent attorney who handles product cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from battery fires or faulty heaters",
+      "Lacerations and amputations from power tools",
+      "Crush injuries from collapsing furniture or equipment",
+      "Head and spinal injuries from failed restraints or airbags",
+      "Poisoning or organ damage from contaminated food or drugs",
+      "Choking and suffocation injuries to children from unsafe toys"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Hawthorne Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict liability works in your favor",
+        "desc": "In California you usually do not have to prove a manufacturer was negligent. Showing the product was defective and that the defect caused your injury is generally the heart of the case, and the attorney we connect you with understands how to frame it that way."
+      },
+      {
+        "title": "Every link in the supply chain can be accountable",
+        "desc": "The manufacturer, the distributor, and the store on Rosecrans Avenue that sold the item may all share responsibility under California law. An attorney can identify each party rather than letting one point fingers at another."
+      },
+      {
+        "title": "Free connection, contingency representation",
+        "desc": "LawProactive charges nothing to match you with an independent attorney. Product liability lawyers in our network work on contingency, meaning they are paid only if there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Keep it, exactly as it is, and do not try to repair it or send it back to the seller. The product itself is often the single most important piece of evidence in a strict liability case, because it lets experts examine the design, the manufacturing, and the warnings. Store it somewhere safe along with the packaging, receipt, and any instructions, and photograph the scene where the injury occurred."
+      },
+      {
+        "question": "I was in a crash near 120th Street and I think my car's airbag failed. Is that a product case?",
+        "answer": "It can be. Hawthorne recorded 328 injury collisions in 2025, and when a safety component like an airbag, seatbelt, or tire does not perform as designed, the injured person may have a claim against the vehicle or part manufacturer in addition to any claim against another driver. Preserve the vehicle before it is scrapped or repaired so the component can be inspected. An attorney can help sort out which parties are responsible."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was unsafe?",
+        "answer": "Generally not. California applies strict liability to most product cases, so the focus is on whether the product had a design, manufacturing, or warning defect and whether that defect caused your injury. What the company knew or intended is usually not something you have to establish. The attorney LawProactive connects you with can explain how these elements apply to your situation."
+      }
+    ]
+  }
+}

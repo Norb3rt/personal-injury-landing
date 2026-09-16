@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "imperial-beach city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Imperial Beach, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Imperial Beach? Free connection to a San Diego County attorney. 2 years to file, no fee unless you win. Get help now."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Palm Avenue or a fall somewhere else in town, we can connect you with an independent attorney at no cost. Serving Imperial Beach and all of San Diego County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Imperial Beach, California",
+    "longDescription": "Imperial Beach is a small coastal city, but its streets still see a steady flow of daily traffic, and with that comes crashes. In the most recent recorded year, the city logged 37 injury collisions and 46 people hurt on local roads. Corridors like Palm Avenue, Imperial Beach Boulevard, 13th Street, and 9th Street carry the highest volume of reported collisions, and crash reports tend to cluster on Wednesday evenings between 7 and 9 p.m. If you were hurt in one of these incidents, or in any other kind of accident around town, sorting out medical bills, insurance calls, and next steps can feel like too much on top of recovering. LawProactive is a free service — not a law firm — that connects injured people in Imperial Beach with an independent personal injury attorney who can review what happened and explain your options. There's no cost to get connected, and attorneys in the network only get paid if you receive a recovery. You don't have to figure out the legal side alone while you're trying to heal.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Knee and shoulder injuries"
+    ],
+    "ctaText": "Get connected with an attorney — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Two-Year Filing Deadline",
+        "desc": "Most injury claims in California must be filed within two years of the incident. If a government entity is involved, that window can shrink to as little as six months, so it helps to know where you stand early."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar Your Claim",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply adjusted to reflect the share of fault involved."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering. An attorney can help make sure that side of your claim isn't overlooked."
+      },
+      {
+        "title": "You Don't Pay Unless You Recover",
+        "desc": "Attorneys in the network work on contingency, so there's no upfront cost to get advice or representation. Fees only come out of a recovery, if one happens."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up faster than I can track them.",
+      "I'm not sure if the insurance company is offering a fair amount.",
+      "I don't know how long I even have to take legal action.",
+      "I'm worried that being partly at fault means I get nothing."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney?",
+        "answer": "Nothing. LawProactive is a free service, and there's no charge to be connected with an independent personal injury attorney. Attorneys in the network work on contingency, so they only get paid if you receive a recovery."
+      },
+      {
+        "question": "How long do I have to file a claim after a crash in Imperial Beach?",
+        "answer": "California generally gives you two years from the date of the incident to file a personal injury claim. If your accident involved a government vehicle or entity, that deadline can be as short as six months, so it's worth checking your timeline sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to happen in Imperial Beach?",
+        "answer": "Public collision records show that Palm Avenue, Imperial Beach Boulevard, 13th Street, and 9th Street have the highest reported collision counts in the city, with activity often clustering on Wednesday evenings between 7 and 9 p.m. These are simply where reported incidents concentrate, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, so being partly responsible doesn't automatically bar you from recovering compensation. Instead, any award is adjusted to reflect your share of fault, and an attorney can help explain how that might apply to your situation."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases in California, there's no cap on non-economic damages such as pain and suffering. An attorney can help evaluate what that portion of your claim might reasonably include based on your circumstances."
+      }
+    ]
+  }
+}

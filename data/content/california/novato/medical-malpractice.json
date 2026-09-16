@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "novato medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Novato Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Novato, CA? Get connected free to an independent malpractice attorney who understands MICRA and Marin County care."
+  },
+  "hero": {
+    "subtitle": "When a Novato hospital visit or a Marin County specialist's care goes wrong, the rules for holding anyone accountable are narrow and time-sensitive. LawProactive can connect you at no cost with an independent attorney who handles medical malpractice claims under California's specific requirements."
+  },
+  "about": {
+    "title": "Novato Medical Malpractice Claims",
+    "longDescription": "Novato residents rely on a mix of local clinics, urgent care centers, and larger Marin County hospital systems for everything from routine checkups to emergency surgery. Most of the time that care goes fine. But when a diagnosis is missed, a surgical step is skipped, or medication is mismanaged, the harm can be lasting and the path to answers isn't simple. California's medical malpractice rules, known as MICRA, set strict notice periods, cap certain damages, and almost always require a qualified medical expert to weigh in before a claim can move forward. A disappointing result from treatment doesn't by itself mean malpractice occurred — proving it takes a careful review of medical records and standard-of-care questions. LawProactive doesn't practice law or take a side in any dispute; we simply connect people in Novato with an independent attorney who can review what happened and explain, honestly, whether a claim may exist.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect People About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up after treatment"
+    ],
+    "ctaText": "Talk to an independent attorney about what happened — it costs nothing to ask."
+  },
+  "whyChoose": {
+    "title": "Why Understanding MICRA Matters in Novato",
+    "items": [
+      {
+        "title": "Notice and Filing Deadlines Are Unforgiving",
+        "desc": "California generally gives one year from when you discover the harm, and no more than three years from the injury itself, plus a required 90-day pre-suit notice before a case can be filed. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "A Medical Expert Is Almost Always Required",
+        "desc": "Because these cases hinge on whether a provider deviated from accepted medical standards, California generally requires a qualified expert to support the claim. An independent attorney can help arrange that review."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises Yearly",
+        "desc": "MICRA places a statutory limit on non-economic damages like pain and suffering, and that cap increases annually under current law. Understanding how the current cap applies to your situation is something an attorney can walk through with you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery in Novato — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law is clear that a poor result alone doesn't establish malpractice; the question is whether the provider departed from the accepted standard of care. An independent attorney can review your records against that standard before drawing any conclusions."
+      },
+      {
+        "question": "How much time do I have to bring a claim after treatment at a Marin County facility?",
+        "answer": "Generally, you have one year from when you discover the harm and no more than three years from the date of the injury, whichever comes first, along with a 90-day pre-suit notice requirement. These deadlines are strict, so it helps to have your situation reviewed sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I could recover if my claim moves forward?",
+        "answer": "California's MICRA law caps non-economic damages, such as pain and suffering, though that cap rises each year under current law. Economic damages like medical bills and lost income are generally handled separately, and an attorney can explain how these categories apply to your case."
+      }
+    ]
+  }
+}

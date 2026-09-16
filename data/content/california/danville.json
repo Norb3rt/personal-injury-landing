@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "danville city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Danville, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in a Danville crash? Contra Costa County residents have 2 years to file. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident left you hurt in Danville, we can connect you free of charge with an independent attorney serving Contra Costa County. There's no cost to get matched and no obligation to move forward."
+  },
+  "about": {
+    "title": "Personal Injury Help in Danville, California",
+    "longDescription": "Danville sits along a busy stretch of the I-680 corridor, where traffic moving through Contra Costa County mixes with local drivers heading to Camino Tassajara and nearby neighborhoods. In the most recent full year on record, Danville saw 102 injury collisions and 134 people hurt, with one traffic death — numbers that reflect how much of daily life here happens on and around these same roads. Crashes tend to cluster on Thursday afternoons between 3 and 5 p.m., a pattern consistent with commuter and school-pickup traffic converging at once. If you or someone you love was injured in one of these incidents, sorting out medical bills, insurance calls, and paperwork can feel overwhelming on top of recovering physically. LawProactive is a free service — we are not a law firm — that helps injured people in Danville connect quickly with an independent personal injury attorney in our network. Those attorneys work on contingency, meaning there's no fee unless they recover money on your behalf. Reaching out costs nothing and doesn't commit you to anything.",
+    "commonInjuriesTitle": "Common Injuries We See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Knee and joint injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "What Danville Residents Should Know About California Injury Law",
+    "items": [
+      {
+        "title": "Your Filing Window Is Limited",
+        "desc": "California generally gives injury victims two years from the date of the accident to file a claim, but claims against a government entity — like a city road issue — can require notice in as little as six months. Acting sooner protects your options."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still pursue compensation — it's simply reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Unlike some states, California places no cap on non-economic damages, such as pain and suffering, in standard personal injury cases."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if they recover money for you. There's no retainer and no hourly billing to worry about."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Fear that admitting any fault will end the claim entirely",
+      "Uncertainty about how much time is left to take legal action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Danville?",
+        "answer": "In most cases, California law gives you two years from the date of the accident to file a personal injury claim. If a government entity was involved, such as a road maintained by a public agency, that window can shrink to as little as six months, so it's worth checking your timeline promptly."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Danville?",
+        "answer": "Public collision records show higher counts along I-680, including both the northbound and southbound directions, as well as Camino Tassajara. These are simply the corridors with the most recorded incidents, not a judgment about any specific location."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, so partial fault doesn't bar you from recovering compensation. Your recovery would just be reduced in proportion to your share of responsibility."
+      },
+      {
+        "question": "Will I owe money upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency — meaning they only collect a fee if they win or settle your case. There's no cost or obligation to get matched."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't represent clients directly, negotiate settlements, or provide legal advice ourselves."
+      }
+    ]
+  }
+}

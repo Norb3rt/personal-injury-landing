@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "willows product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Willows Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Willows, CA? Get connected free to an independent attorney who handles strict liability product claims."
+  },
+  "hero": {
+    "subtitle": "If a defective product injured you in Willows, LawProactive connects you at no cost to an independent attorney familiar with Glenn County product liability claims."
+  },
+  "about": {
+    "title": "Willows Product Liability Claims",
+    "longDescription": "Willows may be a small farming community along Interstate 5, but the products residents rely on every day — from tools and machinery used on nearby agricultural operations to household appliances, vehicle parts, and consumer goods sold at local stores — can fail just as they can anywhere else. When a product is defectively designed, manufactured, or lacks adequate warnings, California law allows an injured person to pursue the manufacturer, distributor, or retailer without having to prove they were careless. That matters for someone recovering from an injury who doesn't have the time or resources to investigate a company's internal practices. LawProactive doesn't practice law or handle your claim directly. Instead, we listen to what happened, then connect you for free with an independent attorney in our network who can review the product, the injury, and the circumstances to help you understand your options moving forward.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or equipment",
+      "Lacerations or amputations from defective tools or machinery",
+      "Crush injuries from failing agricultural or industrial equipment",
+      "Chemical exposure from mislabeled or improperly packaged products",
+      "Fractures from collapsing furniture or structural product failures",
+      "Injuries from vehicle parts or components that failed unexpectedly"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Willows Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Path",
+        "desc": "California generally allows product liability claims to proceed under strict liability, meaning you may not need to prove the manufacturer was negligent — only that the product was defective and caused your injury."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can each potentially be held liable for a defective product, giving an attorney more avenues to explore on your behalf."
+      },
+      {
+        "title": "Keeping the Product Matters",
+        "desc": "An independent attorney can advise you on preserving the defective item itself, since physical evidence often plays a central role in showing how and why the product failed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I need to prove the manufacturer was careless?",
+        "answer": "Not necessarily. California product liability law often applies strict liability, which focuses on whether the product itself was defective rather than whether the company acted carelessly. An attorney can help determine which type of defect — design, manufacturing, or warning — may apply to your situation."
+      },
+      {
+        "question": "What if the product was purchased outside of Willows or online?",
+        "answer": "That's common, especially in a smaller community like Willows where residents often shop online or travel to nearby cities for larger purchases. Where you bought the product typically doesn't prevent a claim; what matters is where the injury occurred and who made or sold the defective item."
+      },
+      {
+        "question": "What should I do with the product after I'm injured?",
+        "answer": "Try to keep the product in the same condition it was in when the injury happened, including any packaging, parts, or instructions. Avoid attempting repairs or throwing it away, since it may serve as important evidence for an attorney reviewing your case."
+      },
+      {
+        "question": "Is there a cost to get connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network typically work on contingency, meaning there's no fee unless there's a recovery. We simply help connect you with an independent attorney who can evaluate your situation."
+      }
+    ]
+  }
+}

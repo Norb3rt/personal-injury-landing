@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "highland slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Highland Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Highland, CA? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Highland store, apartment complex, or parking lot can leave you with medical bills and unanswered questions. We connect you at no cost with an independent attorney who handles premises liability claims across San Bernardino County."
+  },
+  "about": {
+    "title": "Highland Slip & Fall Claims",
+    "longDescription": "Falls happen quickly, but the aftermath can drag on for months — physical therapy, missed work, and a property owner who suddenly stops returning calls. In Highland, these incidents happen everywhere from retail centers near Baseline Street to apartment walkways off Victoria Avenue. California law requires an injured person to show the property owner or manager knew, or reasonably should have known, about a hazardous condition and didn't fix it or warn people about it. That's why what you do in the hours and days after a fall matters so much: photos of the spill, broken step, or torn carpet; the names of witnesses; and a written incident report can all shape whether a claim succeeds. LawProactive doesn't practice law ourselves — we're a free connection service that puts you in touch with an independent attorney who can evaluate what happened, request surveillance footage before it's erased, and explain your options without pressure or upfront cost.",
+    "commonInjuriesTitle": "Common Injuries From Falls",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures",
+      "Traumatic brain injury or concussion",
+      "Spinal cord and back injuries",
+      "Torn ligaments or knee injuries",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened — it's free, and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "Notice Is Everything",
+        "desc": "California premises cases turn on whether the property owner knew or should have known about the hazard. An attorney can help gather evidence — cleaning logs, prior complaints, inspection records — that speaks to that notice."
+      },
+      {
+        "title": "Video Disappears Fast",
+        "desc": "Many Highland businesses overwrite surveillance footage within days or weeks. Acting quickly to request preservation of that footage can make or break a claim."
+      },
+      {
+        "title": "Comparative Fault Still Allows Recovery",
+        "desc": "California uses pure comparative fault, meaning you may still recover even if you were partly responsible for the fall — your share of fault simply reduces the recovery rather than eliminating it."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Highland?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit. If the property involved is owned by a government entity — such as a public sidewalk or a city building — the deadline is much shorter and requires an early claim. An attorney can help you figure out which timeline applies."
+      },
+      {
+        "question": "What if I fell but didn't report it right away?",
+        "answer": "It's better to report a fall as soon as possible, but a delay doesn't automatically end your claim. Try to document the location, take photos if you can, and write down what you remember while it's fresh. An independent attorney can advise you on how to strengthen a claim reported late."
+      },
+      {
+        "question": "Are falls common near Highland's busier areas like SR-210 or 9th Street?",
+        "answer": "Public collision data for Highland shows crash activity concentrated along corridors like Baseline Street, Victoria Avenue, SR-210, and 9th Street, often peaking on Saturday afternoons. While that data covers traffic collisions rather than falls specifically, it reflects how much foot and vehicle traffic moves through these commercial corridors, where slip and fall incidents at stores and lots can also occur."
+      }
+    ]
+  }
+}

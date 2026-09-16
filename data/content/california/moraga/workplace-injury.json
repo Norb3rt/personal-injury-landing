@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "moraga workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Moraga Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Moraga? LawProactive connects you free with an independent attorney who understands workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt while working in Moraga, the rules around workers' comp and outside liability can get confusing fast. LawProactive can connect you, at no cost, with an independent attorney who handles workplace injury matters in Contra Costa County."
+  },
+  "about": {
+    "title": "Moraga Workplace Injury Claims",
+    "longDescription": "Moraga's mix of small businesses, service crews, and commuters traveling along Moraga Road, Canyon Road, Moraga Way, and Saint Marys Road means workplace injuries here aren't limited to office settings — they can happen on job sites, delivery routes, or while working near traffic corridors that see collisions peak on Monday afternoons between 3 and 5 p.m. Under California law, workers' compensation is typically your primary path when you're hurt on the job, regardless of fault, and it generally shields your employer from a separate lawsuit. But when a third party — a subcontractor, equipment manufacturer, property owner, or another driver — contributed to your injury, you may have an additional claim outside the workers' comp system. LawProactive doesn't practice law; we simply connect injured workers in Moraga with independent attorneys who can look at both angles of a case, explain your options in plain language, and help you understand what deadlines apply to your specific situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connections For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Repetitive strain and overuse injuries",
+      "Injuries from malfunctioning equipment or tools",
+      "Vehicle-related injuries during work travel or deliveries",
+      "Struck-by or caught-between incidents on job sites",
+      "Chemical exposure or respiratory injuries"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Moraga Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help Sort Out Who's Responsible",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party — like a contractor or equipment maker — can open the door to a separate claim. An attorney can help identify whether your situation involves both paths."
+      },
+      {
+        "title": "We Understand the Reporting Clock",
+        "desc": "California generally requires injured workers to report a workplace injury to their employer within 30 days. Missing that window can complicate a claim, so getting guidance early matters."
+      },
+      {
+        "title": "We Know Retaliation Is Illegal",
+        "desc": "Employers can't legally punish you for reporting an injury or filing a workers' comp claim. If you're worried about your job, an independent attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site off Canyon Road — do I file a lawsuit or a workers' comp claim?",
+        "answer": "In most cases, workers' compensation is your primary remedy against your employer, regardless of who was at fault. However, if a third party — such as a subcontractor or equipment supplier — contributed to the injury, a separate claim against that party may also be possible. An independent attorney can review the details and explain which paths apply."
+      },
+      {
+        "question": "How long do I have to act after a workplace injury in Moraga?",
+        "answer": "You generally need to notify your employer within 30 days of the injury to preserve your workers' comp rights. If a third-party claim is involved, California law typically allows two years from the date of injury to file. Because these timelines run differently, it's worth getting clarity on your specific case sooner rather than later."
+      },
+      {
+        "question": "Can my employer retaliate against me for reporting an injury?",
+        "answer": "No. California law prohibits employers from retaliating against workers who report an injury or pursue a workers' comp claim. If you're facing pressure or pushback, that's something an independent attorney can address as part of your case."
+      }
+    ]
+  }
+}

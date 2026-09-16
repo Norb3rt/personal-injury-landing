@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "chico workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Chico Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Chico? LawProactive connects Butte County workers with an independent injury attorney for free. No fee unless there's a recovery."
+  },
+  "hero": {
+    "subtitle": "When a job in Chico leaves you injured, workers' comp may not be your only option. We connect you, free of charge, with an independent attorney who can look at whether a third party shares responsibility."
+  },
+  "about": {
+    "title": "Chico Workplace Injury Claims",
+    "longDescription": "Getting hurt at work in Chico can happen anywhere from a warehouse floor off Cohasset Road to a delivery route along the Esplanade. For most Butte County employees, workers' compensation is the first stop: it covers medical care and partial wages no matter who was at fault, and it is usually the only claim you can bring against your own employer. That is not always the end of the story, though. When someone other than your employer contributed to the injury, a separate personal injury claim may be possible. Think of a subcontractor who left a hazard on a job site, a property owner who ignored a broken stair, a manufacturer whose equipment failed, or another driver who hit you while you were working. Chico recorded 209 injury collisions in 2025, with 258 people hurt, and some of those involved people on the clock. LawProactive is a free service, not a law firm. We connect you with an independent attorney who reviews both paths and works on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Chico Workplace Cases",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive tasks",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Crush and amputation injuries from machinery",
+      "Collisions while driving a work vehicle",
+      "Burns from chemicals, heat, or electrical faults",
+      "Heat-related illness during outdoor work"
+    ],
+    "ctaText": "Start your free Chico case review"
+  },
+  "whyChoose": {
+    "title": "Why Chico Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We look past the comp claim",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver can be held to account separately. The attorney we connect you with checks for that second path."
+      },
+      {
+        "title": "Deadlines are handled early",
+        "desc": "You have 30 days to report an injury to your employer, and a third-party claim in California carries a two-year deadline. Getting an attorney involved promptly keeps both clocks from running out."
+      },
+      {
+        "title": "Protection if your employer pushes back",
+        "desc": "Retaliation against a worker for reporting an injury or filing a claim is illegal in California. An independent attorney can explain your rights if hours are cut or your job is threatened after you speak up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on SR-99 while driving for my job in Chico. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical care and lost wages. Because another driver caused the crash, you may also have a separate injury claim against that driver, which is subject to California's two-year deadline. An attorney can coordinate the two so one does not undercut the other."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most situations, no. Workers' compensation is the exclusive remedy against an employer regardless of who was at fault. The exceptions are narrow, so the more common route to additional recovery is a claim against a negligent third party such as a contractor, property owner, or equipment manufacturer."
+      },
+      {
+        "question": "What if I waited a few weeks to tell my employer I was hurt?",
+        "answer": "California asks you to report a work injury to your employer within 30 days, so if you are still inside that window, report it now in writing. If more time has passed, do not assume you are out of options; report it anyway and speak with an attorney about how the delay may affect your claim. Any third-party claim runs on its own two-year timeline."
+      }
+    ]
+  }
+}

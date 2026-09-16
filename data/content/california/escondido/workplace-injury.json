@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "escondido workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Escondido Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt at work in Escondido? Understand workers' comp vs. third-party claims under California law and connect free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in Escondido? Workers' compensation may not be the only path open to you, and a free connection to an independent attorney can help you see the full picture."
+  },
+  "about": {
+    "title": "Escondido Workplace Injury Claims",
+    "longDescription": "Work in Escondido looks different depending on where you clock in. Some people spend the day on construction sites off Valley Parkway, others drive deliveries along I-15, and plenty work in warehouses, kitchens, clinics, and retail floors. When a job injury happens, California's workers' compensation system usually covers medical care and a share of lost wages no matter who was at fault, and it is normally the only claim you can bring against your own employer. Many injured workers in San Diego County do not realize a separate claim may exist when someone other than the employer caused the harm. A subcontractor who left a hazard, a property owner who ignored a broken stairway, a manufacturer whose equipment failed, or another driver who hit you on Mission Avenue or Washington Avenue while you were working could all be responsible third parties. LawProactive is a free service, not a law firm. We connect you with an independent attorney who can sort out which paths fit your situation, at no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Escondido",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and loading docks",
+      "Back and shoulder strains from lifting or repetitive motion",
+      "Crush and pinch injuries from machinery or equipment",
+      "Vehicle collisions while driving for work",
+      "Burns from kitchens, chemicals, or electrical contact",
+      "Heat-related illness during outdoor shifts"
+    ],
+    "ctaText": "Get connected with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Escondido Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We help you spot a third-party claim",
+        "desc": "Workers' comp is usually your only remedy against your employer, but if a subcontractor, property owner, equipment maker, or another driver played a role, a separate injury claim may be possible. The attorney you're connected with can evaluate both."
+      },
+      {
+        "title": "Deadlines are handled early",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and third-party claims generally carry a two-year filing deadline. Getting connected quickly keeps those clocks from becoming a problem."
+      },
+      {
+        "title": "No cost to connect, no fee without a recovery",
+        "desc": "LawProactive is free to use and is not a law firm. Attorneys in our network work on contingency, so you do not pay a fee unless your case results in a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver on I-15 while making deliveries for my Escondido employer. Is that workers' comp or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical treatment and part of your lost wages regardless of fault. Because a third-party driver caused the crash, you may also have a separate injury claim against that driver, which carries California's two-year deadline. An independent attorney can coordinate the two so they do not work against each other."
+      },
+      {
+        "question": "What if I didn't tell my employer right away?",
+        "answer": "California asks you to report a work injury to your employer within 30 days. Late reporting can complicate a workers' comp claim, but it does not always end it, especially if the employer already knew about the incident. Report in writing as soon as you can, and keep a copy of what you sent."
+      },
+      {
+        "question": "Can my employer fire me for filing a claim?",
+        "answer": "No. Retaliating against a worker for reporting an injury or filing a workers' compensation claim is illegal in California. If you are demoted, cut from the schedule, or let go after reporting, tell the attorney you're connected with, because that conduct may support its own claim."
+      }
+    ]
+  }
+}

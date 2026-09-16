@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "clearlake city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Clearlake, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Lake County? Free connection to an independent Clearlake injury attorney. 2-year filing deadline in CA. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a car crash or fall left you hurt in Clearlake, we can connect you at no cost with an independent attorney who handles injury claims across Lake County. Whether it's whiplash, a broken bone, or something more serious, help is a free call away."
+  },
+  "about": {
+    "title": "Personal Injury Help in Clearlake, California",
+    "longDescription": "Clearlake sits along Rt 53 and Lakeshore Drive, two corridors that carry a steady flow of local and pass-through traffic each day, alongside Old Highway 53 and Olympic Drive. In the most recent year on record, Lake County logged 48 injury collisions in and around the city, leaving 74 people hurt and 3 people dead. Numbers like these represent neighbors, commuters, and families whose routines were interrupted in an instant. LawProactive is a free service, not a law firm. We don't handle your case ourselves — instead, we connect you with an independent personal injury attorney in our network who can review what happened and explain your options under California law. There's no cost to talk with us, and if an attorney takes your case, they work on contingency, meaning no fee unless there's a recovery. If you were hurt on Rt 53, Lakeshore Drive, or anywhere else in Clearlake, reaching out costs nothing and starts the process of finding out where you stand.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken or fractured bones",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and road rash",
+      "Torn ligaments or joint damage"
+    ],
+    "ctaText": "Find out your options — connect with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "A Filing Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury lawsuit. If a government entity was involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened. Your share of fault simply reduces the amount you might be owed, it doesn't erase it."
+      },
+      {
+        "title": "No Ceiling on Non-Economic Damages",
+        "desc": "In an ordinary injury case, California places no cap on compensation for pain, suffering, and other non-economic losses. That means your claim isn't artificially limited by a fixed dollar amount."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That structure lets you get legal help without worrying about hourly bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and no one seems to have answers",
+      "I'm not sure if I can still work while I recover",
+      "An insurance adjuster keeps calling and I don't know what to tell them",
+      "I'm worried I waited too long or don't have a real case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney in Lake County. There's no charge to have your situation reviewed, and no obligation to move forward."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. We're a connection service, not a law firm. We introduce injured people to independent personal injury attorneys who can evaluate their case and advise on next steps."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Most injury claims must be filed within two years of the incident. If your injury involved a government vehicle or property, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, meaning partial fault reduces your compensation but doesn't automatically bar you from recovering. An attorney can help sort out how fault might apply to your situation."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Clearlake?",
+        "answer": "Public records show injury collisions occurring along corridors like Rt 53, Lakeshore Drive, Old Highway 53, and Olympic Drive, with reports tending to peak on Fridays between 2 and 4 p.m. These are neutral collision counts, not a judgment about any particular road."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "loma-linda medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Loma Linda Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney in Loma Linda, CA. No fee unless you recover. Learn your options today."
+  },
+  "hero": {
+    "subtitle": "Loma Linda is home to major medical centers, and when care there or elsewhere in San Bernardino County falls short of the standard, the effects can follow you for years. We connect you with an independent attorney who can look at what happened and explain your options."
+  },
+  "about": {
+    "title": "Loma Linda Medical Malpractice Claims",
+    "longDescription": "Loma Linda's identity is closely tied to its hospitals and medical schools, which means a large share of residents and visitors pass through local clinics, surgical centers, and emergency departments every year. Most of the time, care goes as expected. But when a diagnosis is missed, a surgery goes wrong, or medication is mishandled, the harm can be serious and lasting. California law treats these claims differently than a typical injury case — there are shorter deadlines, a required pre-suit notice, and rules around expert review that make early guidance valuable. LawProactive doesn't practice law or take a side in your case; we simply connect Loma Linda residents with an independent attorney who handles medical malpractice matters and can review your records, explain whether MICRA's timelines apply to you, and outline what comes next. There's no cost to start that conversation, and no obligation to move forward.",
+    "commonInjuriesTitle": "Types of Cases We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Birth injuries or delivery complications",
+      "Medication or dosage mistakes",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why This Connection Matters",
+    "items": [
+      {
+        "title": "Deadlines Move Fast",
+        "desc": "California generally gives you one year from discovering the harm and no more than three years from the injury itself to act, and a 90-day pre-suit notice is required before a case can move forward. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "California law almost always requires a qualified medical expert to support a malpractice claim, since a bad outcome by itself isn't proof of negligence. An attorney experienced in this area knows how to line up that kind of review."
+      },
+      {
+        "title": "Damage Caps Change Over Time",
+        "desc": "The statutory cap on non-economic damages under MICRA rises each year, so how your claim is valued can depend on timing. An independent attorney can walk you through how current limits may apply to your circumstances."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Loma Linda?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discover the injury, but no more than three years from when it happened. A 90-day notice must also be sent to the provider before a lawsuit is filed. Because these deadlines are strict, it helps to get an attorney's input as soon as possible."
+      },
+      {
+        "question": "Does Loma Linda's concentration of hospitals affect how these cases work?",
+        "answer": "The legal standards under California law apply the same way regardless of which facility was involved, whether it's a large medical center or a smaller clinic along Redlands Boulevard. What matters is whether the care provided fell below the accepted medical standard, which is why expert review is central to these claims."
+      },
+      {
+        "question": "Is a poor medical outcome the same as malpractice?",
+        "answer": "Not necessarily — California law recognizes that medicine involves risk, and a bad result on its own doesn't prove negligence. A claim typically requires showing the provider deviated from the accepted standard of care and that this deviation caused harm. An independent attorney can help you understand whether your situation meets that bar."
+      }
+    ]
+  }
+}

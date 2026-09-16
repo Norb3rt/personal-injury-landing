@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "rancho-cordova workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rancho Cordova Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Rancho Cordova? Learn how workers' comp and third-party claims differ, and get connected free to an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured at work in Rancho Cordova? Workers' comp may not be your only option, and a free connection to an independent attorney can help you sort out what applies."
+  },
+  "about": {
+    "title": "Rancho Cordova Workplace Injury Claims",
+    "longDescription": "Rancho Cordova's workday runs on warehouses, office parks near Zinfandel Drive, service trades, and employees driving for work along Sunrise Boulevard, Coloma Road, and Folsom Boulevard. When a shift ends with a trip to the emergency room, the questions start quickly: Who pays for care? What happens to your paycheck? In California, workers' compensation is usually the exclusive remedy against your employer, and it applies regardless of who was at fault. It is not the whole story. If a negligent third party played a role — a subcontractor on a job site, a property owner, the maker of a faulty machine, or another driver who hit you while you were on the clock — a separate injury claim may be available alongside comp. LawProactive is a free connection service, not a law firm. We match injured workers in Sacramento County with an independent attorney who can review both paths and explain which fit your situation. Attorneys in the network work on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See From Rancho Cordova Job Sites",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive loading",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Crush and pinch injuries from machinery or forklifts",
+      "Collision injuries while driving for work",
+      "Burns and chemical exposure",
+      "Fractures from slips on wet or uneven floors"
+    ],
+    "ctaText": "Ask a free question about your work injury"
+  },
+  "whyChoose": {
+    "title": "Why Rancho Cordova Workers Start With LawProactive",
+    "items": [
+      {
+        "title": "Two paths, clearly explained",
+        "desc": "Workers' comp covers your employer regardless of fault, but a negligent subcontractor, property owner, equipment maker, or driver can be a separate claim. An attorney can tell you whether both apply to you."
+      },
+      {
+        "title": "Deadlines you can actually track",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and third-party injury claims generally carry a 2-year deadline. Getting connected early keeps both windows open."
+      },
+      {
+        "title": "Protection if your employer pushes back",
+        "desc": "Retaliation for reporting a workplace injury is illegal in California. The attorneys in our network handle cases on contingency, so you owe nothing unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver on Sunrise Boulevard while making a delivery for my employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation typically covers your medical care and part of your lost wages no matter who caused the crash. Because the other driver is a third party, you may also have a separate injury claim against them for losses comp does not cover. An attorney can look at the police report and explain how the two interact."
+      },
+      {
+        "question": "I did not tell my supervisor right away. Is it too late to report my injury?",
+        "answer": "California generally asks you to report a work injury to your employer within 30 days, so the sooner you do it, the better. If you are still inside that window, report it in writing today. Even if some time has passed, do not assume your options are gone — an attorney can review the timeline with you."
+      },
+      {
+        "question": "Can my employer fire me for filing a claim?",
+        "answer": "No. Retaliating against a worker for reporting an injury or pursuing workers' compensation is illegal in California. If you have been demoted, cut from the schedule, or let go after reporting, tell the attorney you are connected with, because it may affect your case."
+      }
+    ]
+  }
+}

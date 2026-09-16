@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "santa-clara city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Clara, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Santa Clara County? LawProactive connects you free with an independent injury attorney. Most CA claims: 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Car crashes, bicycle collisions, slip-and-falls, and other injuries can turn a normal week in Santa Clara upside down. LawProactive connects you, free of charge, with an independent personal injury attorney serving Santa Clara County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Santa Clara, California",
+    "longDescription": "Santa Clara sits at the center of Silicon Valley, and its streets carry a steady mix of commuters, students, and tech workers every day. In 2025, public records logged 367 injury collisions inside the city, with 496 people hurt and 4 lives lost. The corridors that show up most often in those counts are El Camino Real, Lafayette Street, San Tomas Expressway, and Monroe Street, and reported crashes tend to peak on Tuesday evenings between 5 and 7 p.m. Behind each number is someone dealing with appointments, missed shifts, and an insurance adjuster who calls before the pain has settled. LawProactive exists for that moment. We are not a law firm, and we do not give legal advice. We are a free service that connects injured people in Santa Clara with an independent personal injury attorney who handles cases like theirs. You tell us what happened; we match you; the attorney reviews your situation at no charge. If you decide to move forward, the attorney works on contingency, which means no fee unless there is a recovery. Whether you were hit while biking on Lafayette, rear-ended on San Tomas, or hurt in a fall at a Santa Clara business, the first step costs nothing.",
+    "commonInjuriesTitle": "Injuries We See Most Often in Santa Clara Cases",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones from bike and scooter crashes",
+      "Knee and hip injuries from falls on commercial property",
+      "Back injuries and herniated discs",
+      "Cuts, bruising, and soft-tissue damage that lingers"
+    ],
+    "ctaText": "Tell us what happened and get connected with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Santa Clara Claim",
+    "items": [
+      {
+        "title": "You generally have two years to file",
+        "desc": "California gives most injury victims two years from the date of injury to bring a claim. If a city vehicle, a county bus, or another government entity is involved, the window can shrink to six months, so timing matters more than people expect."
+      },
+      {
+        "title": "Being partly at fault does not end your case",
+        "desc": "California follows pure comparative fault. If you were 20 percent responsible for a collision on El Camino Real, your recovery is reduced by 20 percent, not wiped out."
+      },
+      {
+        "title": "Pain and suffering are not capped",
+        "desc": "In an ordinary injury case, California places no statutory ceiling on non-economic damages such as pain, lost enjoyment of life, or emotional distress. What you actually went through counts."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay nothing up front, and the attorney is paid only if your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "My doctor bills are piling up while I can't work.",
+      "I might have been partly at fault. Does that mean I get nothing?",
+      "I have no idea how long I have before it's too late to act."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not provide legal advice. We put you in touch with an independent personal injury attorney who serves Santa Clara County, and that attorney handles your case directly."
+      },
+      {
+        "question": "Where do crashes tend to happen in Santa Clara?",
+        "answer": "Public collision records for 2025 show El Camino Real, Lafayette Street, San Tomas Expressway, and Monroe Street as the corridors with the highest counts. Reported crashes also cluster on Tuesdays between 5 p.m. and 7 p.m. These are neutral record counts, and a crash anywhere in the city may still support a claim."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of the injury. If a government entity is involved, such as a city or county vehicle, the deadline to file a claim can be as short as six months. Speaking with an attorney early helps make sure no deadline slips by."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, which means your share of responsibility reduces your recovery in proportion but does not eliminate it. An attorney can look at the police report and other evidence to sort out how fault is likely to be assigned."
+      },
+      {
+        "question": "What will it cost me to work with an attorney?",
+        "answer": "Attorneys in our network work on contingency, so there is no upfront fee and no hourly bill. The attorney is paid a percentage only if there is a recovery in your case. The initial connection through LawProactive is free as well."
+      }
+    ]
+  }
+}

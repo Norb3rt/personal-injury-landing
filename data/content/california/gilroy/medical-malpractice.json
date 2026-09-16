@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "gilroy medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gilroy Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Gilroy? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Gilroy medical visit leads to a preventable injury, understanding your options shouldn't add to the stress. We connect you, at no cost, with an independent attorney who handles medical malpractice claims under California law."
+  },
+  "about": {
+    "title": "Gilroy Medical Malpractice Claims",
+    "longDescription": "Gilroy residents rely on a mix of local clinics, urgent care centers, and larger Santa Clara County medical systems for care, and most visits go as expected. But when a diagnosis is missed, a surgery goes wrong, or medication is mismanaged, the result can be a lasting injury rather than a recovery. California law recognizes that a bad outcome by itself isn't proof of malpractice — a claim generally requires showing that a provider failed to meet the accepted standard of care, and that failure caused harm. These cases are technical, often requiring a qualified medical expert to evaluate the records and testify about what should have happened differently. LawProactive doesn't practice law or evaluate your medical records ourselves; instead, we connect Gilroy residents with an independent attorney experienced in these claims, free of charge, so you can understand whether pursuing a case makes sense for your situation.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Birth injuries to mother or infant",
+      "Medication or dosage errors",
+      "Anesthesia complications",
+      "Failure to treat a known condition promptly"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Gilroy Patients Should Know Before Filing",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines Apply",
+        "desc": "California generally gives you one year from when you discover the injury, and no more than three years from the injury itself, to file — plus a required 90-day pre-suit notice to the provider."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "MICRA sets a statutory limit on non-economic damages like pain and suffering, and that cap increases annually, so the numbers change year to year."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor outcome alone isn't enough, California claims typically need a qualified medical expert to confirm the standard of care was breached and connect it to your injury."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery near Gilroy — is that automatically malpractice?",
+        "answer": "Not necessarily. California law requires showing the provider deviated from the accepted standard of care and that this deviation caused your injury, not just that the result was disappointing. An independent attorney can help review your medical records to see if the facts support a claim."
+      },
+      {
+        "question": "How long do I have to bring a claim in Santa Clara County?",
+        "answer": "Generally, you have one year from when you discover the injury and no more than three years from when it occurred, though exceptions can apply. You must also typically give the provider 90 days' written notice before filing suit, so it's important not to wait."
+      },
+      {
+        "question": "Does LawProactive review my medical records or represent me directly?",
+        "answer": "No — LawProactive is a free connection service, not a law firm, so we don't review records or provide legal advice ourselves. We simply connect Gilroy residents with an independent attorney who can evaluate the case and represent you on a contingency basis, meaning no fee unless there's a recovery."
+      }
+    ]
+  }
+}

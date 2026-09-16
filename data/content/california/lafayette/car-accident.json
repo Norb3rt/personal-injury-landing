@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "lafayette car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lafayette Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Lafayette car accident? LawProactive connects you free with an independent CA attorney. No fee unless you recover. Call today."
+  },
+  "hero": {
+    "subtitle": "If a crash on SR-24 or a Lafayette side street left you hurt, LawProactive can connect you with an independent Contra Costa County attorney at no cost to you.\nWe help you find the right legal help while you focus on healing."
+  },
+  "about": {
+    "title": "Lafayette Car Accident Claims",
+    "longDescription": "Lafayette sits along the SR-24 corridor, a route that carries heavy commuter traffic between the Caldecott Tunnel and points east through Contra Costa County. Public records show 106 injury collisions in the most recent final crash year, with 142 people hurt and one traffic death — and reported crashes tend to cluster on Friday afternoons between 4 and 6 p.m., a familiar pattern for anyone who's sat in that backup near the freeway on-ramps. If you were injured in one of these collisions, the aftermath can feel overwhelming: medical appointments, insurance calls, missed work. LawProactive is a free service that connects injured Lafayette residents with an independent personal injury attorney who can evaluate your situation. We don't practice law ourselves, and we never guarantee an outcome — but we can help you find someone who understands how California claims work and who takes cases on contingency, meaning you owe nothing unless you recover.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Fractured bones",
+      "Herniated or bulging discs",
+      "Torn ligaments and soft tissue damage",
+      "Cuts, bruising, and lacerations"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Dealing With Insurance",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash date to file a car accident lawsuit in California, but claims against a government entity — like a road defect on SR-24 — can require notice in as little as six months. An attorney can help you figure out which deadline applies before it passes."
+      },
+      {
+        "title": "Comparative Fault Can Reduce Your Recovery",
+        "desc": "California uses pure comparative fault, which means your compensation can be reduced by whatever percentage of fault is assigned to you. What you say to an adjuster, including in a recorded statement, can be used to shift blame your way — so it's worth having guidance before that call."
+      },
+      {
+        "title": "No Cap Doesn't Mean No Fight",
+        "desc": "California places no cap on non-economic damages like pain and suffering, but insurers still push back hard on these claims. An attorney working on contingency has an incentive to build your case fully, since they're only paid if you recover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurers often use these statements to find ways to reduce or deny your claim. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if my crash happened on SR-24 near Lafayette during rush hour?",
+        "answer": "Corridors like SR-24 see a high volume of traffic, especially during the Friday 4-6 p.m. window when reported crashes tend to cluster. Evidence such as traffic camera footage, dashcam video, and witness contact information can disappear quickly, so preserving it early matters. An attorney can help make sure that evidence is gathered before it's lost."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and the attorneys in our network work on contingency — meaning they only get paid if you recover compensation. There's no upfront cost or obligation to move forward."
+      }
+    ]
+  }
+}

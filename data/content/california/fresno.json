@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "voice": "brand-standard (plain-spoken, victim-first)",
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-09-11",
+    "source": "accident-hub + state-laws + city facts",
+    "note": "Fresno city page."
+  },
+  "seo": {
+    "metaTitle": "Fresno Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Fresno? Connect free with a personal injury attorney serving Fresno County. California gives you 2 years to file — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Hurt in a crash on SR-99, in a fall, or on the job in Fresno? We connect you — free — with an independent personal injury attorney who handles Fresno County claims. No fee unless you recover."
+  },
+  "about": {
+    "title": "Personal Injury Help in Fresno, California",
+    "longDescription": "As the hub of the Central Valley, Fresno sees heavy movement of people and freight along SR-99 and SR-41 and on wide surface arterials like Blackstone and Shaw Avenues. Public records logged more than 1,600 injury collisions in the city in 2025, leaving over 2,100 people hurt, with reported crashes tending to peak on Friday evenings. High-speed rural highways at the city's edges add their own risk, and agricultural and warehouse work sends many residents to the emergency room each year. Whatever the cause, California law gives injured people rights and a limited time to assert them. LawProactive is a free service that connects injured residents of Fresno with an independent personal injury attorney who understands how Fresno County claims and courts work. We are not a law firm; we match you with counsel and stay out of your way. You pay no fee unless your case recovers compensation.",
+    "commonInjuriesTitle": "Injuries we help Fresno residents pursue claims for",
+    "commonInjuries": [
+      "Whiplash, neck and back injuries from highway crashes",
+      "Traumatic brain injuries and concussions",
+      "Fractures and crush injuries",
+      "Spinal cord and disc injuries",
+      "Agricultural and workplace injuries",
+      "Serious burns, lacerations and scarring"
+    ],
+    "ctaText": "See if you have a case — free"
+  },
+  "whyChoose": {
+    "title": "What Fresno injury victims should know",
+    "items": [
+      {
+        "title": "Two years, in most cases",
+        "desc": "California generally gives you two years from the date of injury to file. On high-speed corridors like SR-99, evidence fades fast, so early action strengthens a claim."
+      },
+      {
+        "title": "Shared fault won't end your claim",
+        "desc": "California follows pure comparative fault; you can recover even if you were partly to blame, with your award reduced by your share of fault."
+      },
+      {
+        "title": "No cap on non-economic damages",
+        "desc": "Most California injury cases place no limit on pain and suffering, so the full human toll can be part of your recovery."
+      },
+      {
+        "title": "Local Fresno County experience",
+        "desc": "Your claim runs through the Fresno County court system and the insurers active in the Valley. We connect you with an attorney who works these cases locally."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Insurers pushing a fast settlement before you know the full damage",
+      "Medical bills and missed paychecks stacking up",
+      "A lowball offer that won't cover long-term care",
+      "Uncertainty about whether you even have a case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Fresno?",
+        "answer": "Most California injury claims must be filed within two years of the injury. Claims against a government entity can carry far shorter deadlines — sometimes six months — so consult an attorney promptly."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "You can still recover. Under California's pure comparative fault rule, your damages are reduced by your percentage of responsibility rather than eliminated."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney?",
+        "answer": "The case review is free, and personal injury attorneys in our network work on contingency — no fee unless they recover compensation for you."
+      },
+      {
+        "question": "Where do injury crashes cluster in Fresno?",
+        "answer": "Reported-collision records for recent years point to SR-99, SR-41 and busy arterials like Blackstone and Shaw Avenues, with crashes peaking on Friday evenings. These are public-record counts, not a judgment about any road."
+      },
+      {
+        "question": "Do most cases go to trial?",
+        "answer": "No. The large majority of injury claims settle out of court. Your attorney handles negotiations and only litigates if a fair settlement can't be reached."
+      }
+    ]
+  }
+}

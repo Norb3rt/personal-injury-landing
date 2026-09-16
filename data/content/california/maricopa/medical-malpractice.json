@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "maricopa medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Maricopa Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error near Maricopa, CA? LawProactive connects you free with an independent injury attorney familiar with Kern County cases."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay goes wrong near Maricopa, the nearest specialists are often miles away in Bakersfield — LawProactive can connect you with an attorney who understands medical malpractice claims that start in small Kern County communities."
+  },
+  "about": {
+    "title": "Maricopa Medical Malpractice Claims",
+    "longDescription": "Maricopa is a small community of roughly 1,192 people at the southern edge of Kern County's oil country, and most residents rely on clinics in town or hospitals in Bakersfield or Taft for anything beyond basic care. That distance can matter when something goes wrong — a delayed transfer, a missed test result, or a rushed diagnosis made without enough follow-up. California's MICRA law gives injured patients a path to pursue a claim, but it comes with strict timing rules and a requirement that a qualified medical expert weigh in on whether the care fell below an acceptable standard. LawProactive doesn't practice law or promise any result; we simply connect Maricopa residents with an independent attorney who can review medical records, talk through what happened, and explain whether the facts support moving forward. The conversation costs nothing, and there's no obligation to continue.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosing mistakes",
+      "Anesthesia complications",
+      "Failure to refer to a specialist in time",
+      "Birth injuries to mother or newborn"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Pursue a Claim",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines Apply",
+        "desc": "Under MICRA, you generally have one year from when you discover the harm, and no more than three years from the date of injury, to bring a claim — waiting too long can close the door entirely."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "California law requires sending the healthcare provider a formal notice at least 90 days before filing suit, which affects how and when a case gets started."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A bad medical outcome by itself isn't proof of malpractice — California generally requires a qualified medical expert to confirm the care fell below the accepted standard before a claim can proceed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Bakersfield after being referred from Maricopa — is that automatically malpractice?",
+        "answer": "Not necessarily. California law recognizes that medicine involves risk, and a poor result alone doesn't establish negligence. An attorney would need a qualified medical expert to review the records and determine whether the care given actually fell below what a competent provider would have done."
+      },
+      {
+        "question": "How long do I have to bring a claim after a medical error?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from when it happened. There are limited exceptions, so it's worth having someone review your specific timeline soon rather than waiting."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes — California caps non-economic damages in medical malpractice cases, though that cap rises annually under current law. Economic damages, like medical bills and lost income, generally aren't subject to that same cap."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and the attorneys in our network typically work on contingency, meaning there's no fee unless your case results in a recovery."
+      }
+    ]
+  }
+}

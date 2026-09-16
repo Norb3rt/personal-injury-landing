@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "ventura product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ventura Product Liability Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt by a defective product in Ventura, CA? LawProactive connects you free with an independent injury attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When a product you trusted fails and hurts you in Ventura, California's strict liability rules may put the burden where it belongs. LawProactive connects you, at no cost, with an independent attorney who handles defective product claims."
+  },
+  "about": {
+    "title": "Ventura Product Liability Claims",
+    "longDescription": "A blender that shatters mid-cycle, a space heater that ignites overnight, an airbag that fails on Victoria Avenue — defective products reach Ventura households through ordinary shopping and ordinary use. The harm, though, is local: Ventura County emergency rooms, missed shifts along the Telegraph Road commercial strip, a family rearranging life around one injury. Ventura logged 725 injury collisions in 2025, with 1,010 people hurt, and a share of crash injuries anywhere trace back to a component that did not perform as designed, whether brakes, tires, seatbelts, or child restraints. California law treats most of these cases under strict liability. You do not have to prove the manufacturer was careless, only that the product had a design, manufacturing, or warning defect and that the defect caused your injury. Hold on to the product itself, even the broken pieces. LawProactive is not a law firm; we are a free service that matches Ventura residents with an independent attorney who handles product cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from appliances, batteries, or e-bike chargers",
+      "Lacerations and amputations from power tools",
+      "Crash injuries linked to failed airbags, brakes, or tires",
+      "Choking or poisoning from mislabeled consumer goods",
+      "Head and spinal injuries from collapsing furniture or ladders",
+      "Organ damage or illness from defective medications or medical devices"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Ventura Residents Use LawProactive for Product Cases",
+    "items": [
+      {
+        "title": "Strict liability changes the question",
+        "desc": "In most California product cases you are not asked to prove the maker was negligent. The attorney we connect you with focuses on showing the defect and the link to your injury."
+      },
+      {
+        "title": "More than one party may answer for it",
+        "desc": "Manufacturers, distributors, and the Ventura retailer that sold the item can each carry liability under California law. An independent attorney can sort out who belongs in the claim."
+      },
+      {
+        "title": "Evidence gets protected early",
+        "desc": "The product itself is often the whole case. We move quickly so an attorney can advise you on preserving it before it is discarded, repaired, or returned."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My brakes failed on Telephone Road. Is that a car accident case or a product case?",
+        "answer": "It can be both. If a defective part contributed to a crash on Telephone Road or anywhere else in Ventura, a product liability claim against the manufacturer may sit alongside any claim involving other drivers. Keep the vehicle from being scrapped or repaired until an attorney has reviewed it, since the failed component is central evidence."
+      },
+      {
+        "question": "Do I need to prove the company knew the product was dangerous?",
+        "answer": "Usually not. California applies strict liability to most product defect claims, meaning you generally need to show the product had a design, manufacturing, or warning defect and that the defect caused your injury. The company's state of mind is typically not the deciding factor."
+      },
+      {
+        "question": "What does it cost to get connected through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, not a law firm, and we do not charge you for the introduction. The independent attorneys in our network work on contingency, so they collect a fee only if there is a recovery in your case."
+      }
+    ]
+  }
+}

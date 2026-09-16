@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "taft medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Taft Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Taft, CA? Connect free with an independent malpractice attorney serving Kern County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis is missed or a procedure goes wrong at a Taft-area medical facility, the aftermath can be confusing and isolating. LawProactive connects Taft residents with an independent attorney who understands California's medical malpractice rules at no cost to start."
+  },
+  "about": {
+    "title": "Taft Medical Malpractice Claims",
+    "longDescription": "Taft is a small community, and many residents rely on a limited number of local clinics and Kern County medical facilities for care they trust to be handled correctly. When that trust is broken — through a delayed diagnosis, a surgical mistake, or a medication error — the consequences can follow a person for years. Because Taft doesn't have the density of hospitals found in larger cities, malpractice claims here often involve travel to Bakersfield or other regional facilities for treatment, records, or follow-up procedures, adding complexity to an already stressful situation. California's medical malpractice laws, known as MICRA, set specific rules for how and when these claims must move forward. A bad medical outcome by itself doesn't mean malpractice occurred; the law requires proof that a provider's care fell below an accepted standard. LawProactive helps Taft residents connect, free of charge, with an independent attorney who can review what happened and explain the options available under California law.",
+    "commonInjuriesTitle": "Injuries Linked to Medical Errors",
+    "commonInjuries": [
+      "Misdiagnosis or delayed diagnosis of a serious condition",
+      "Surgical errors, including wrong-site or retained-instrument mistakes",
+      "Medication or dosage errors",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on abnormal test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your care, free of charge."
+  },
+  "whyChoose": {
+    "title": "What Taft Residents Should Know About These Claims",
+    "items": [
+      {
+        "title": "Strict Filing Windows Apply",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the injury, and no more than three years from when it happened. Missing these deadlines can end a claim before it's reviewed, so timing matters from day one."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can be filed in California, the provider must typically receive 90 days' written notice. An attorney can help make sure this step is handled correctly so it doesn't delay or derail the process."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "California law generally requires a qualified medical expert to support a malpractice claim, confirming that the care fell below an accepted standard. This is part of why an independent attorney's involvement can matter early on."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does Taft's smaller size affect where a malpractice claim gets handled?",
+        "answer": "Not for the legal process itself, but many Taft residents receive treatment at facilities in Bakersfield or elsewhere in Kern County, which can mean records and providers are spread across more than one location. An independent attorney can help gather documentation from all relevant facilities as part of reviewing the case."
+      },
+      {
+        "question": "Is a bad medical outcome the same as malpractice?",
+        "answer": "No. California law recognizes that medicine involves uncertainty, so a poor result alone isn't enough to prove malpractice. A claim generally requires showing that a provider's care fell below an accepted medical standard, which is why expert review is typically part of the process."
+      },
+      {
+        "question": "How much does it cost to speak with an attorney through LawProactive?",
+        "answer": "Nothing upfront. LawProactive is a free service that connects you with an independent attorney, and attorneys in the network typically work on contingency, meaning there's no fee unless there's a recovery."
+      }
+    ]
+  }
+}

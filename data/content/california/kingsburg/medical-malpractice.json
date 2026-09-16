@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "kingsburg medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Kingsburg Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Kingsburg? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong in Kingsburg, the medical and legal path forward can feel overwhelming. LawProactive helps you connect, at no cost, with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Kingsburg Medical Malpractice Claims",
+    "longDescription": "Kingsburg residents rely on a small number of nearby clinics and hospitals for care, and most of the time that care goes as expected. But when a provider misses a diagnosis, makes a surgical error, or mismanages medication, the harm can follow a patient for years. California's malpractice laws are notoriously technical: strict notice periods, expert-witness requirements, and a cap on non-economic damages that shifts annually under MICRA. A bad medical outcome by itself doesn't prove malpractice occurred — sorting that out takes a careful review of records and standards of care. LawProactive doesn't practice law or evaluate your case ourselves. Instead, we connect Kingsburg residents, free of charge, with an independent attorney in our network who can review what happened, explain your options in plain language, and take on the case on a contingency basis if they agree to represent you.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your care, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "What Kingsburg Families Should Know About MICRA",
+    "items": [
+      {
+        "title": "Strict Notice and Filing Windows",
+        "desc": "California generally requires a claim within one year of discovering the harm, and no more than three years from the injury itself, plus a 90-day pre-suit notice to the provider. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor outcome alone isn't proof of malpractice, a qualified medical expert typically has to weigh in on whether the standard of care was broken. An attorney connected through LawProactive can help arrange that kind of review."
+      },
+      {
+        "title": "Damage Caps That Change Yearly",
+        "desc": "MICRA sets a cap on non-economic damages (like pain and suffering) that rises annually by statute. Understanding how that cap applies to your specific situation is something best discussed directly with an attorney."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it happened. There's also a required 90-day notice to the healthcare provider before filing suit. These deadlines are strict, so it helps to speak with an attorney as soon as possible after you suspect something went wrong."
+      },
+      {
+        "question": "Is Kingsburg's smaller size a factor in how these cases work?",
+        "answer": "Kingsburg patients are often treated at regional facilities outside the immediate city, which can mean records, providers, and witnesses are spread across Fresno County. An attorney connected through LawProactive can help track down and organize that information regardless of where the care took place."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. California law requires showing that a provider failed to meet the accepted standard of care, and that failure caused harm. A qualified medical expert almost always has to weigh in on that question, which is one reason these claims benefit from experienced legal guidance."
+      },
+      {
+        "question": "Is there really no cost to me for getting connected through LawProactive?",
+        "answer": "That's right. LawProactive is a free service, and attorneys in our network typically work on contingency, meaning there's no fee unless you recover compensation. You're never obligated to hire anyone we connect you with."
+      }
+    ]
+  }
+}

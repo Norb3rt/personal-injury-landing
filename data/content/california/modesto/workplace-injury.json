@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "modesto workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Modesto Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt at work in Modesto? See how workers' comp and third-party claims work in Stanislaus County, then connect free with an independent attorney."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in Modesto? Workers' compensation may not be your only option, and a free connection with an independent attorney can help you find out what else applies."
+  },
+  "about": {
+    "title": "Modesto Workplace Injury Claims",
+    "longDescription": "Work in Modesto spans a lot of ground: food processing plants, warehouses, farm operations across Stanislaus County, construction sites, and the delivery and service routes along Coffee Road, Oakdale Road, Tully Road and Briggsmore Avenue. An injury in any of these settings raises the same first question — what are you actually entitled to? Under California law, workers' compensation usually covers medical care and part of your lost wages no matter who was at fault, and it is normally your only claim against your employer. But if someone outside your company caused the harm — a subcontractor, the owner of the property you were working on, the maker of equipment that failed, or another driver who hit your work vehicle — a separate third-party injury claim may be open to you as well. That second path matters for people who drive for work; Modesto recorded 1,365 injury collisions in 2025, and some of those happened on the clock. LawProactive is a free service that pairs you with an independent Modesto attorney who can sort out which claims apply.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Modesto Workplace Cases",
+    "commonInjuries": [
+      "Back and spine injuries from lifting, loading or repetitive strain",
+      "Crush and amputation injuries from processing or packing machinery",
+      "Falls from ladders, scaffolds, loading docks or roofs",
+      "Heat illness from outdoor and agricultural work in the Valley",
+      "Injuries from vehicle collisions while driving for work",
+      "Burns, chemical exposure and respiratory harm on industrial sites"
+    ],
+    "ctaText": "Tell us what happened and we will connect you, free, with an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Modesto Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We help you see past workers' comp",
+        "desc": "Comp is usually the exclusive remedy against your employer, but the attorneys we connect you with also look for a negligent third party — a subcontractor, property owner, equipment maker or another driver — whose conduct could support a separate claim."
+      },
+      {
+        "title": "We keep the deadlines straight",
+        "desc": "You have 30 days to report an injury to your employer, and any third-party claim generally carries a two-year filing deadline in California. An early conversation keeps both clocks from running out quietly."
+      },
+      {
+        "title": "Free to you, and no fee unless there is a recovery",
+        "desc": "LawProactive is a free connection service, not a law firm. Attorneys in our network work on contingency, and it is illegal for an employer to retaliate against you for reporting an injury or seeking help."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on Briggsmore Avenue while making deliveries for my employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of who caused the crash. If the other driver was at fault, you may also have a separate third-party injury claim against that driver, which follows California's two-year deadline. An attorney can help you pursue both without one undermining the other."
+      },
+      {
+        "question": "Do I have to report a workplace injury right away?",
+        "answer": "California asks you to notify your employer within 30 days of the injury. Reporting sooner is better, and putting it in writing helps create a clear record. Your employer cannot legally fire, demote or punish you for reporting an injury or filing a claim."
+      },
+      {
+        "question": "My injury was caused by a machine at a Modesto processing plant. Can I sue anyone?",
+        "answer": "Generally you cannot sue your own employer because workers' comp is the exclusive remedy against them. However, if the machine was defectively designed or manufactured, or a separate contractor serviced it improperly, a third-party claim against that company may be possible. An independent attorney can review the equipment and maintenance history to see whether that path exists."
+      }
+    ]
+  }
+}

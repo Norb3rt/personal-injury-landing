@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "indio medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Indio, CA Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Indio? LawProactive connects you free with an independent malpractice attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When care in Indio goes wrong, sorting out what happened should not fall on you alone. LawProactive links Riverside County patients and families with an independent medical malpractice attorney at no cost."
+  },
+  "about": {
+    "title": "Indio Medical Malpractice Claims",
+    "longDescription": "Indio is home to roughly 87,500 people, and most of them will sit in a clinic, urgent care, or emergency room at some point. The overwhelming majority of those visits go fine. A few do not. A missed diagnosis, a medication mix-up, a surgical error, or a delay in treatment can leave a patient far worse off than when they walked in, and the explanation from the provider is often thin. Medical malpractice claims in California run under a specific set of rules known as MICRA. The clock is short, a formal notice must go out before any lawsuit is filed, and nearly every case requires a qualified medical expert to explain how the standard of care was breached. That is a lot to manage while you are also trying to heal. LawProactive is not a law firm. We are a free service that connects Indio residents with an independent attorney who handles medical negligence matters on contingency, so there is no fee unless your case recovers something.",
+    "commonInjuriesTitle": "Harm Frequently Tied to Medical Negligence",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures or retained objects",
+      "Medication and dosage mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to follow up on abnormal test results"
+    ],
+    "ctaText": "Talk through what happened — free, and with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Indio Patients Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "The MICRA clock moves quickly",
+        "desc": "In most cases you have one year from the date you discovered the harm, and never more than three years from the injury itself. A prompt connection to counsel helps protect that window."
+      },
+      {
+        "title": "Notice and expert requirements are handled early",
+        "desc": "California requires a 90-day pre-suit notice before filing, and a qualified medical expert is almost always needed to support the claim. The attorneys we connect you with understand both steps from the outset."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Every attorney in our network works on contingency. MICRA caps non-economic damages at a figure that rises each year, and your attorney can explain how that applies to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at a hospital after a collision on Indio Boulevard and my condition got worse. Is that a car accident case or a malpractice case?",
+        "answer": "It may be both, and they are handled differently. Indio recorded 266 people injured in traffic collisions in 2025, and some of those patients end up questioning the care they received afterward. An attorney can review the medical records to separate injuries caused by the crash from harm caused by treatment, and pursue each part under the correct set of rules."
+      },
+      {
+        "question": "My surgery did not turn out the way I hoped. Do I have a claim?",
+        "answer": "Not necessarily. Under California law, a bad outcome alone is not malpractice; the question is whether the provider fell below the accepted standard of care and that failure caused your harm. A qualified medical expert is almost always required to make that showing. An attorney can gather your records and have them reviewed before anyone commits to a case."
+      },
+      {
+        "question": "How long do I have to act in Riverside County?",
+        "answer": "MICRA generally gives you one year from the date you discovered, or reasonably should have discovered, the injury, with an outer limit of three years from the injury itself. Before filing suit, a 90-day notice of intent must be sent to the provider. Because those dates interact, it is wise to speak with an attorney sooner rather than later."
+      }
+    ]
+  }
+}

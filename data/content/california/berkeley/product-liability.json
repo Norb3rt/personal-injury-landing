@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "berkeley product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Berkeley Product Liability Attorney | LawProactive",
+    "metaDescription": "Hurt by a defective product in Berkeley, CA? LawProactive connects you free with an independent product liability attorney. Strict liability may apply."
+  },
+  "hero": {
+    "subtitle": "A product that fails in a Berkeley home, on a campus sidewalk, or on I-80 can change a life in seconds. LawProactive connects you, at no cost, with an independent attorney who handles defective product claims in Alameda County."
+  },
+  "about": {
+    "title": "Berkeley Product Liability Claims",
+    "longDescription": "Berkeley runs on small kitchens, shared houses, bike commutes and long walks down Shattuck and University Avenue. Most of what fills those days — space heaters, e-bike batteries, pressure cookers, children's car seats, over-the-counter medications — works exactly as it should. When a product doesn't, and someone in Alameda County ends up hurt, California law takes a practical view. Under strict liability, you generally do not have to prove the manufacturer was careless. You show the product had a defect in its design, its manufacturing, or its warnings, and that the defect caused your injury. Traffic is part of the picture too: Berkeley recorded 603 injury collisions in 2025, with 775 people hurt, and when a crash on I-80 or Ashby Avenue involves an airbag that never deployed or a tire that separated, the product itself may be part of the case. LawProactive is a free service, not a law firm. Tell us what happened and we will connect you, free, with an independent attorney who works on contingency — no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Commonly Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from battery fires or overheating appliances",
+      "Lacerations from shattered glass or sharp components",
+      "Crush injuries from collapsing furniture or equipment",
+      "Chemical exposure or poisoning from mislabeled goods",
+      "Head and spinal injuries when a safety device fails",
+      "Internal harm from faulty medical devices or medications"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Berkeley Residents Use LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Changes the Question",
+        "desc": "In California, a product case usually turns on whether the item was defective and caused harm, not on whether the company was careless. An attorney in our network can help you frame your claim around that standard."
+      },
+      {
+        "title": "The Product Is Your Evidence",
+        "desc": "Keep the item, its packaging, receipts, and any photos of what went wrong, even if it is broken or partly burned. We will connect you with an attorney who can help preserve it properly before anything is discarded."
+      },
+      {
+        "title": "More Than One Party May Answer",
+        "desc": "Manufacturers, distributors, and the store that sold the item can each carry responsibility under California law. An independent attorney can sort out who belongs in the claim so nothing is left on the table."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My e-bike battery caught fire in my Berkeley apartment. Is that a product liability case?",
+        "answer": "It may be. Lithium battery fires in bikes and scooters are a recognized category of product claims, and California's strict liability rule means you generally need to show the battery or charger was defective and caused the fire, not that the maker was negligent. Keep what remains of the battery, the charger, and the packaging, and photograph the damage before cleanup. An attorney in our network can review the facts and explain your options."
+      },
+      {
+        "question": "Do I have to prove the manufacturer did something wrong?",
+        "answer": "Usually not. California product liability often runs on strict liability, so the focus is on the product itself — whether it had a design, manufacturing, or warning defect — and whether that defect caused your injury. That said, each case has its own wrinkles, so an independent attorney should look at your specific situation."
+      },
+      {
+        "question": "I threw the product away after I got hurt. Is my claim over?",
+        "answer": "Not necessarily, though it does make things harder, since the product is often the most important piece of evidence. Photos, receipts, medical records, the model number, and any identical units you still have can help. Reach out as soon as you can so an attorney can start gathering what is still available."
+      }
+    ]
+  }
+}

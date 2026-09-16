@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "newark medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Help in Newark, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Newark? Get connected free with an independent CA malpractice attorney. No fee unless you recover. MICRA rules apply."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Newark went wrong and left you injured, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's MICRA rules — at no cost to you."
+  },
+  "about": {
+    "title": "Newark Medical Malpractice Claims",
+    "longDescription": "Newark residents rely on a mix of local clinics and larger Alameda County medical systems for everything from routine care to emergency treatment. When a provider misses a clear warning sign, mishandles a procedure, or fails to follow up properly, the harm can follow a patient long after they've left the exam room. California law does not treat every bad outcome as malpractice — a qualified medical expert generally has to confirm that the care fell below an accepted standard. That's a high bar, and it usually requires records, timelines, and expert review most people can't assemble alone. LawProactive doesn't practice law or evaluate your case ourselves; we connect you, free of charge, with an independent California attorney who can review what happened, explain your options under MICRA's notice and filing rules, and tell you honestly whether pursuing a claim makes sense for your situation.",
+    "commonInjuriesTitle": "Injuries That Often Lead to a Malpractice Review",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about what happened — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "What Matters Before You Move Forward",
+    "items": [
+      {
+        "title": "Strict, Unforgiving Deadlines",
+        "desc": "California generally gives you one year from when you discovered the harm, and never more than three years from the injury itself, to bring a claim. Miss that window and the right to sue can disappear, so an early consult matters."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can even be filed in California, the provider typically must receive 90 days' written notice. An attorney experienced with this step can make sure it's done correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor outcome by itself isn't proof of malpractice, California claims generally need a qualified medical expert to confirm the care fell short. The attorney you're connected with can help determine whether that standard can realistically be met."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Newark — does that mean it was malpractice?",
+        "answer": "Not necessarily. California law requires showing that a provider's care fell below an accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney can review your records and let you know whether the facts support a claim."
+      },
+      {
+        "question": "How long do I have to bring a claim after treatment at a Newark or Alameda County facility?",
+        "answer": "Generally, California gives you one year from when you discovered or reasonably should have discovered the harm, and no more than three years from the date of the injury. There's also a required 90-day notice period before filing suit. Because these deadlines are unforgiving, it helps to talk to an attorney sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I could recover in a California malpractice case?",
+        "answer": "California caps non-economic damages — things like pain and suffering — in medical malpractice cases, and that cap rises each year under state law. Economic damages, such as medical bills and lost income, are generally not subject to that same cap. An attorney can walk you through how this applies to your specific situation."
+      }
+    ]
+  }
+}

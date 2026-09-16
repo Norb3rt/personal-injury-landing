@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "rosemead workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rosemead Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Rosemead? Get connected free to an independent attorney who handles work injury and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Warehouses, retail centers, and light industrial sites along Valley Boulevard and Garvey Avenue keep Rosemead workers busy — and sometimes hurt. If you were injured on the job here, we can connect you free with an independent attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "Rosemead Workplace Injury Claims",
+    "longDescription": "Rosemead sits along the I-10 corridor, home to a mix of retail plazas, food processing operations, and warehouse distribution sites that draw workers from across the San Gabriel Valley. When someone gets hurt on the job here, California's workers' compensation system is usually the first line of recovery — but it isn't always the whole story. If a subcontractor, property owner, or piece of defective equipment played a role in causing the injury, a separate claim against that third party may be possible alongside comp benefits. Navigating both tracks at once can be confusing, especially while trying to heal and keep your job secure. LawProactive doesn't practice law — we connect injured Rosemead workers with an independent attorney who can look at the full picture, sort out what type of claim applies, and explain next steps in plain language, at no upfront cost.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, docks, or uneven warehouse flooring",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Being struck by falling inventory or shifting loads",
+      "Burns or chemical exposure in food processing settings",
+      "Injuries from third-party contractors on shared job sites"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Rosemead Workers Reach Out to Us",
+    "items": [
+      {
+        "title": "We Understand the 30-Day Reporting Window",
+        "desc": "California requires injured workers to notify their employer within 30 days of a workplace injury. Missing that window can complicate a claim, so we help connect you with an attorney quickly."
+      },
+      {
+        "title": "We Look Beyond Workers' Comp",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party — like a subcontractor, property owner, or equipment manufacturer — may still owe a separate claim. An attorney can evaluate whether that applies to your situation."
+      },
+      {
+        "title": "Retaliation Protection Matters",
+        "desc": "It's illegal for an employer to retaliate against a worker for filing a claim. If you're worried about your job, an independent attorney can advise you on your rights while your case moves forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work near the Garvey Avenue warehouses — does it matter where my injury happened?",
+        "answer": "The location itself doesn't change your basic rights, but it can matter for figuring out if a property owner or outside contractor bears some responsibility. Many Rosemead job sites involve shared spaces between employers, subcontractors, and delivery companies, which is exactly the kind of situation where a third-party claim can come into play. An attorney can review the specifics of your worksite to sort this out."
+      },
+      {
+        "question": "Can I still get help if I already filed a workers' comp claim?",
+        "answer": "Yes. Workers' comp and a third-party injury claim aren't mutually exclusive — you can pursue both if a non-employer party contributed to your injury. LawProactive can connect you with an attorney who can review your existing claim and tell you whether additional options exist."
+      },
+      {
+        "question": "What if my employer told me not to file a claim?",
+        "answer": "Retaliation against a worker for reporting an injury or filing a claim is against California law. If you've experienced pressure, threats, or discipline related to reporting your injury, an independent attorney can advise you on how to protect yourself going forward."
+      }
+    ]
+  }
+}

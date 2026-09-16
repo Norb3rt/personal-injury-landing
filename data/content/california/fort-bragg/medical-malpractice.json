@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "fort-bragg medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fort Bragg Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent Fort Bragg medical malpractice attorney. No fee unless you recover. Mendocino County MICRA deadlines apply."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or hospital stay in Fort Bragg went wrong, LawProactive can connect you with an independent attorney who handles medical malpractice claims across Mendocino County."
+  },
+  "about": {
+    "title": "Fort Bragg Medical Malpractice Claims",
+    "longDescription": "Fort Bragg residents often rely on a small number of local clinics and the regional hospital for care, and when something goes wrong there, it can feel personal in a town this size — with roughly 7,289 residents, many people know the providers involved. Medical malpractice claims are different from car crash cases: they almost always require a qualified medical expert to explain how a provider's care fell below the accepted standard, and a bad result by itself isn't proof of malpractice. California's MICRA law gives you generally one year from when you discovered the harm, and no more than three years from the injury itself, to file — plus a required 90-day notice before a lawsuit can be filed. LawProactive doesn't practice law; we're a free service that connects you with an independent attorney in the network who can review what happened at your local Mendocino County provider and explain your options, with no fee unless there's a recovery.",
+    "commonInjuriesTitle": "Types of Cases We Help Connect",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injury or labor & delivery complications",
+      "Anesthesia complications",
+      "Hospital-acquired infections or neglect"
+    ],
+    "ctaText": "Get connected with an independent Fort Bragg medical malpractice attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Reach Out Through LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Are Tighter Than You Think",
+        "desc": "MICRA generally gives you one year from discovering the harm, capped at three years from the injury, and a 90-day pre-suit notice must go out first — waiting can cost you the right to file at all."
+      },
+      {
+        "title": "Expert Review Matters From Day One",
+        "desc": "Because a qualified medical expert is almost always required to establish that care fell below the accepted standard, an early case review can help determine whether what happened qualifies as malpractice."
+      },
+      {
+        "title": "No Upfront Cost, No Guesswork on Damages Rules",
+        "desc": "Attorneys in the network work on contingency, so there's no fee unless you recover, and they can walk you through how California's rising non-economic damages cap may apply to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery in Fort Bragg — does that automatically mean malpractice?",
+        "answer": "Not necessarily. California law requires showing that a provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney can review your medical records to help you understand whether the facts support a malpractice claim."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim after treatment in Mendocino County?",
+        "answer": "Under MICRA, it's generally one year from when you discovered the injury, but never more than three years from the date it occurred. There's also a required 90-day notice period before filing suit, so it's worth getting a case reviewed sooner rather than later."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No — LawProactive is a free service, and we're not a law firm ourselves. If you're matched with an independent attorney in the network, they work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

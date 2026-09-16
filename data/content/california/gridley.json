@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "gridley city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gridley, CA Injury Claim Help | Free Attorney Match",
+    "metaDescription": "Hurt in a Gridley crash? Butte County residents have 2 years to file. Connect free with an independent attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Rt 99 or injured in a fall closer to home, LawProactive connects Gridley and Butte County residents with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "Personal Injury Help in Gridley, California",
+    "longDescription": "Gridley is a small city, but its streets carry real traffic risk. In the most recent recorded year, 11 injury collisions were reported here, affecting 11 people — thankfully with zero traffic deaths on record. Corridors like Rt 99, Magnolia Street, Spruce Street, and Sycamore Street see the most collision activity, and reports tend to cluster on Wednesday evenings between 5 and 7 p.m., when commuters and local traffic overlap. If you were hurt on one of these roads, or anywhere else in Gridley, you likely have questions about what comes next — medical bills, missed work, and who's responsible. LawProactive is a free service that helps injured people in Butte County get connected with an independent personal injury attorney. We are not a law firm, and we don't provide legal advice ourselves. Instead, we make it simple to reach someone who can review what happened and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless your case results in a recovery. Reaching out costs nothing and doesn't commit you to anything.",
+    "commonInjuriesTitle": "Common Injuries We See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Get connected with an attorney at no cost — see if you have a case worth discussing."
+  },
+  "whyChoose": {
+    "title": "Why Gridley Residents Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "California's Two-Year Filing Window",
+        "desc": "Most injury claims in California must be filed within two years of the incident, though claims against a government entity can require action in as little as six months. Acting sooner preserves your options and evidence."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows a pure comparative fault rule, meaning you can still recover damages even if you were partly responsible for what happened. Your share of fault only reduces your recovery — it doesn't eliminate it."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Unlike some states, California places no cap on non-economic damages, like pain and suffering, in ordinary injury cases. That matters when an injury affects your daily life beyond medical bills."
+      },
+      {
+        "title": "No Upfront Cost to Get Legal Help",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That structure lets injured people get legal help without worrying about hourly billing."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know who's going to pay them.",
+      "I can't work right now and I'm worried about my paycheck.",
+      "I'm not sure if what happened was even my fault.",
+      "I don't know if I can afford a lawyer to help me figure this out."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Gridley?",
+        "answer": "In most cases, California law gives you two years from the date of the incident to file a personal injury lawsuit. If a government entity was involved, such as a city or county vehicle, that window can shrink to as little as six months. It's best to speak with an attorney as soon as possible so deadlines don't slip by."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still pursue compensation even if you share some blame. Your recovery is reduced by your percentage of fault, but it isn't barred entirely. An attorney can help assess how fault might be allocated in your situation."
+      },
+      {
+        "question": "Where do collisions tend to get reported in Gridley?",
+        "answer": "Based on public collision records, Rt 99, Magnolia Street, Spruce Street, and Sycamore Street show the highest volume of reported incidents in Gridley, with activity often reported on Wednesdays between 5 and 7 p.m. These are simply counts from public records, not a judgment about any particular road or area."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "No — California does not cap non-economic damages, like pain and suffering, in standard personal injury cases. This means compensation can reflect the real impact an injury has had on your life, not just your medical bills."
+      },
+      {
+        "question": "Does it cost anything to talk to LawProactive?",
+        "answer": "No, connecting with LawProactive is completely free, and we are not a law firm ourselves. If you're matched with an attorney, they typically work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

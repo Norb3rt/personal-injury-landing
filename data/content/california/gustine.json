@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "gustine city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gustine, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Gustine or Merced County? Get connected free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, fall, or another accident around Gustine, we can connect you free of charge with an independent personal injury attorney serving Merced County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Gustine, California",
+    "longDescription": "Gustine is a small, tight-knit community, but its roads still see their share of collisions. Public records show 8 injury collisions in the most recent final crash year, with 12 people hurt along corridors like Rt 140, Rt 33, 4th Street, and 6th Avenue — the same streets locals use daily to get to work, school, or the store. Reports tend to cluster on Friday afternoons between 3 and 5 p.m., when traffic picks up as people head home for the weekend. If you were injured in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — that connects injured people in Gustine with an independent personal injury attorney who can review what happened and explain your options. There's no cost to get connected, and any attorney you work with operates on a no-fee-unless-you-win basis. You don't have to figure this out by yourself or guess at deadlines. A quick, free conversation can help you understand where you stand and what steps make sense next for your situation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but claims against a government agency can require notice in as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, and loss of enjoyment of life. That means your recovery isn't artificially limited before your case is even evaluated."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That removes the financial barrier to getting a professional opinion on your situation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while missing work",
+      "Feeling pressured by insurance adjusters calling repeatedly",
+      "Not knowing if you waited too long to take action",
+      "Wondering if being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to pay anything to get connected with an attorney?",
+        "answer": "No. LawProactive's connection service is completely free. If you choose to work with an attorney from our network, they operate on contingency, meaning they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Gustine?",
+        "answer": "Generally, California law gives you two years from the date of the injury to file a personal injury lawsuit. If your injury involved a government entity, such as a city vehicle, the notice deadline can be as short as six months, so it's wise not to wait."
+      },
+      {
+        "question": "Where do collisions tend to happen in Gustine?",
+        "answer": "Public crash records show that reported collisions in Gustine cluster along corridors including Rt 140, Rt 33, 4th Street, and 6th Avenue, with activity often peaking on Fridays between 3 and 5 p.m. These are simply public-record counts, not a statement about any particular road's safety."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, so being partly responsible doesn't bar you from recovering compensation. Your total recovery is reduced by your percentage of fault, but you can still pursue a claim."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We're a free service that connects injured people with independent personal injury attorneys who can evaluate their situation and explain their legal options."
+      }
+    ]
+  }
+}

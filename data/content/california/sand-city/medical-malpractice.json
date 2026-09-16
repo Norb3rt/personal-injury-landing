@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "sand-city medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sand City Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Sand City? Get connected free to an independent Monterey County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in Sand City goes wrong, the path to answers can feel narrow and confusing. LawProactive connects you at no cost with an independent attorney who handles medical malpractice claims under California's specific rules."
+  },
+  "about": {
+    "title": "Sand City Medical Malpractice Claims",
+    "longDescription": "Sand City is a small coastal community within Monterey County, and residents here often travel to nearby facilities in Monterey, Seaside, or Salinas for hospital care, surgery, or specialist treatment. When something goes wrong during that care — a missed diagnosis, a medication error, a surgical mistake — the aftermath can be disorienting, especially in a town this size where medical options are limited. California law treats these claims differently than a typical injury case: there's a shorter window to act, a required pre-suit notice, and rules about what a case must show before it can move forward. A bad result by itself isn't enough; the law requires evidence that care fell below an accepted medical standard. LawProactive doesn't practice law or decide claims — we simply listen to what happened, then connect you with an independent Monterey County attorney who can review the medical record and explain, plainly, what options may exist. There's no cost to start the conversation, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on abnormal test results"
+    ],
+    "ctaText": "Talk with an independent attorney about what happened — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Sand City Families Turn to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Move Fast",
+        "desc": "Under MICRA, you generally have one year from when you discover the harm, and no more than three years from the injury itself, plus a required 90-day pre-suit notice — an attorney can help track these dates before they pass."
+      },
+      {
+        "title": "Damages Caps Require Careful Case-Building",
+        "desc": "California places a statutory cap on non-economic damages that rises annually, which makes it important to fully document both economic losses and the human impact of what happened."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "Because a qualified medical expert is typically required to support a malpractice claim, connecting with an attorney who can arrange that review early matters, especially in a small community with fewer local specialists."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Sand City?",
+        "answer": "California generally allows one year from when you discovered (or reasonably should have discovered) the harm, but never more than three years from the date of the injury itself. There's also a 90-day pre-suit notice requirement before a lawsuit can be filed. Because these deadlines can overlap in confusing ways, it helps to have them reviewed as soon as possible."
+      },
+      {
+        "question": "Is a poor medical outcome automatically malpractice?",
+        "answer": "No. California law requires proof that a provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. This is usually shown through a qualified medical expert who reviews the records and treatment decisions. An attorney can help determine whether the facts support that kind of claim."
+      },
+      {
+        "question": "Sand City is small — does that affect my case?",
+        "answer": "Not directly under the law, but many Sand City residents receive care at facilities in nearby Monterey, Seaside, or Salinas, so records and witnesses may be spread across more than one location. An attorney familiar with Monterey County providers can help gather what's needed regardless of where treatment occurred."
+      }
+    ]
+  }
+}

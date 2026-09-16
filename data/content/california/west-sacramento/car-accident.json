@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "west-sacramento car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "West Sacramento Car Accident Help | LawProactive",
+    "metaDescription": "Hurt in a West Sacramento car crash? Get connected free with an independent injury attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a collision on US-50, I-80, or Jefferson Boulevard left you injured, we can connect you with an independent West Sacramento attorney at no cost to you."
+  },
+  "about": {
+    "title": "West Sacramento Car Accident Claims",
+    "longDescription": "West Sacramento's crash reports show a steady pattern: 257 injury collisions and 366 people hurt in the most recent year on record, with Fridays between 5 and 7 p.m. showing up often. Corridors like US-50, I-80, Jefferson Boulevard, and West Capitol Avenue carry heavy commuter and freight traffic, and that volume shows up in the numbers. If you were injured in one of these crashes, what you do in the first days matters. Photos, witness contacts, and vehicle damage can disappear or get repaired quickly, and insurance adjusters often call fast, hoping for a recorded statement before you've talked to anyone. LawProactive doesn't practice law - we simply connect injured people in West Sacramento with an independent personal injury attorney who can review the facts, deal with insurers, and help protect your position under California's fault and damages rules. There's no cost to find out where you stand.",
+    "commonInjuriesTitle": "Injuries Often Reported After West Sacramento Crashes",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Back and spinal disc injuries",
+      "Concussions and other head trauma",
+      "Broken bones, especially wrists and ribs",
+      "Torn ligaments and knee injuries",
+      "Soft tissue bruising and deep lacerations"
+    ],
+    "ctaText": "Find out if you have a claim - free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Dealing With Insurance",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash to file suit, but if a government vehicle or road defect on a corridor like West Capitol Avenue is involved, that window can shrink to as little as six months. Missing it can end a claim before it starts."
+      },
+      {
+        "title": "Comparative Fault Can Cut Into Your Recovery",
+        "desc": "California allows recovery even if you're partly at fault, but your percentage of blame reduces what you can collect. An attorney can push back on unfair fault arguments insurers raise early in a claim."
+      },
+      {
+        "title": "Recorded Statements Can Work Against You",
+        "desc": "Insurers often ask for a recorded statement soon after a crash, before injuries or full costs are clear. An attorney can handle that communication so nothing you say gets used to minimize your claim later."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a car accident in West Sacramento?",
+        "answer": "California generally gives you two years from the date of the crash to file a lawsuit. If your crash involved a city or county vehicle or road defect, the deadline to act can be much shorter, sometimes six months. It's worth having an attorney review the timeline early."
+      },
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "Not without talking to an attorney first. Adjusters may use early statements, made before you know the full extent of your injuries, to reduce what they eventually offer. An independent attorney can communicate on your behalf instead."
+      },
+      {
+        "question": "What if the crash happened on US-50 or I-80 and involved multiple vehicles?",
+        "answer": "Multi-vehicle crashes on high-volume corridors like US-50 and I-80 can involve overlapping insurance policies and disputed fault among several drivers. California's comparative fault rule means your share of blame, if any, affects your recovery, so it helps to have someone sorting out the details on your side."
+      }
+    ]
+  }
+}

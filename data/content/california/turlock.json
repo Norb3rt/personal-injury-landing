@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "turlock city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Turlock, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Turlock or elsewhere in Stanislaus County? California gives you 2 years to file. Get connected to a local injury attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on Geer Road, knocked off a bike near downtown, or hurt on someone else's property, LawProactive connects you with an independent injury attorney at no cost. We serve Turlock and all of Stanislaus County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Turlock, California",
+    "longDescription": "Turlock sits in the heart of Stanislaus County, and its streets stay busy well past the afternoon rush around Stanislaus State. In 2025, the most recent final reporting year, the city logged 331 injury collisions. Those crashes left 473 people hurt and took one life. Public-record counts show the heaviest volume along Lander Avenue, W Main Street, Geer Road, and N Golden State Boulevard, with reports rising on Fridays between 5 p.m. and 7 p.m., the hours when people are heading home, picking up kids, or driving out to dinner. Numbers like these are simply a record of where collisions get reported, not a judgment about any road. Behind each entry, though, is a person dealing with pain, missed shifts, and a phone that will not stop ringing with adjuster calls. That is the moment LawProactive is built for. We are a free service, not a law firm. Our job is to connect you with an independent personal injury attorney who handles cases in Turlock and the surrounding county. Nothing about the connection costs you a dime, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. California gives most injury victims two years to file, but evidence fades faster than that, so it makes sense to talk with someone soon.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Turlock",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken wrists, arms, and collarbones",
+      "Concussions and other head trauma",
+      "Lower back and disc injuries",
+      "Road rash and fractures from bicycle or pedestrian crashes",
+      "Knee and hip injuries from slip-and-fall incidents"
+    ],
+    "ctaText": "Tell us what happened. We will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Turlock Claim",
+    "items": [
+      {
+        "title": "Two years is the usual deadline",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, the window to file a claim can shrink to six months."
+      },
+      {
+        "title": "Partial fault does not shut you out",
+        "desc": "California follows pure comparative fault. Even if you share some blame, you can still recover, with your share of responsibility reducing the amount rather than erasing it."
+      },
+      {
+        "title": "No ceiling on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages. Compensation for physical pain, sleepless nights, and lost enjoyment of life is decided on the facts, not a preset limit."
+      },
+      {
+        "title": "You pay nothing unless you recover",
+        "desc": "Attorneys in our network take injury cases on contingency. Their fee comes out of any recovery, so there is no upfront bill and no fee at all if the case does not result in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps pushing me to settle before I have finished treatment.",
+      "I cannot work my shift and the bills are stacking up on the counter.",
+      "I was partly at fault, so I assume I have no case.",
+      "I do not know how long I have before it is too late to do anything."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do injury crashes in Turlock tend to happen?",
+        "answer": "Public-record collision counts for 2025 show the highest volumes on Lander Avenue, W Main Street, Geer Road, and N Golden State Boulevard. Reports also tend to peak on Fridays between 5 p.m. and 7 p.m. These are simply counts of where and when crashes were reported; they are not a verdict on any particular road or intersection."
+      },
+      {
+        "question": "How much time do I have to file a personal injury claim in California?",
+        "answer": "For most injury claims, California allows two years from the date of the incident. When a government entity is involved, such as a claim against the city or county, you may have only six months to file an administrative claim first. Because these deadlines are strict, it is wise to speak with an attorney early."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault, so sharing some responsibility does not bar you from recovering. Your compensation is reduced by your percentage of fault but not eliminated. An attorney can help sort out how fault is actually being assigned and whether the insurer's version holds up."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not give legal advice or represent you; the attorney you are connected with does that. There is never a charge for using our service."
+      },
+      {
+        "question": "Will I have to pay an attorney out of pocket?",
+        "answer": "Attorneys in our network handle injury cases on contingency. That means their fee is a percentage of any recovery, and if there is no recovery, there is no fee. You should ask the attorney to walk you through the exact percentage and how costs are handled before you sign anything."
+      }
+    ]
+  }
+}

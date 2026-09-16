@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "westminster city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Westminster, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Westminster or elsewhere in Orange County? You have 2 years to file. Get connected free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Car crashes, slip-and-falls, dog bites — if you were hurt in Westminster through someone else's carelessness, LawProactive connects you free with an independent injury attorney serving Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Westminster, California",
+    "longDescription": "Westminster is home to roughly 92,000 people, and in 2025 public records logged 82 injury collisions within the city — 112 people hurt and one life lost. Behind each of those counts is a household sorting out what comes next. Collision reports point to a few corridors where crashes are reported most often: Beach Boulevard (State Route 39), Goldenwest Street, and Westminster Boulevard. Records also show reported crashes clustering late on Thursday nights, roughly midnight to 2 a.m.\n\nGetting hurt here — whether on the road, in a parking lot, inside a business, or on a neighbor's property — tends to scramble ordinary life. Bills show up before the pain fades. An insurance adjuster wants a recorded statement. Missed shifts pile up.\n\nLawProactive was built to simplify one piece of that. We are a free service, not a law firm, and we do not give legal advice. Our role is to connect you with an independent personal injury attorney who takes cases in Orange County. Attorneys in our network work on contingency, so there is no fee unless there is a recovery. Reaching out costs nothing, and whether to move forward is entirely your call after you talk with the attorney.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Westminster",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Fractured wrists, arms, and collarbones",
+      "Concussions and other head injuries",
+      "Back and spinal disc injuries",
+      "Knee and hip injuries from falls",
+      "Cuts, bruising, and soft-tissue damage from dog bites"
+    ],
+    "ctaText": "Tell us what happened — the connection is free and there is no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Westminster Claim",
+    "items": [
+      {
+        "title": "The clock is two years — sometimes far less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, a claim may need to be presented in as little as six months, which is why talking to an attorney early matters."
+      },
+      {
+        "title": "Partial fault does not end your case",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share — but it is not wiped out."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California places no statutory ceiling on non-economic damages such as pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "Contingency fees keep the door open",
+        "desc": "Attorneys in the LawProactive network charge no fee unless there is a recovery. You do not need money up front to have your case reviewed."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps pushing for a quick statement",
+      "I can't work right now and the rent is still due",
+      "Some of this might have been my fault — do I still have a case?",
+      "I'm not sure a hospital bill this large will ever get sorted out"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes in Westminster tend to be reported?",
+        "answer": "Public collision records for Westminster show the highest counts along Beach Boulevard (State Route 39), Goldenwest Street, and Westminster Boulevard. In 2025, the city recorded 82 injury collisions, 112 people injured, and one traffic death. These are neutral counts from public records, and where a crash happened does not on its own determine who was at fault."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Westminster?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date of injury. If a government entity is involved — a city vehicle, a public sidewalk, a county facility — you may need to file a claim within six months. Because these deadlines are strict, it is wise to speak with an attorney soon after the incident."
+      },
+      {
+        "question": "I think I was partly to blame. Does that mean I can't recover anything?",
+        "answer": "No. California uses pure comparative fault, which means your compensation is reduced by your percentage of responsibility rather than eliminated. Even someone found mostly at fault can still recover the portion attributable to others. An attorney can help evaluate how fault might be assigned in your situation."
+      },
+      {
+        "question": "Is LawProactive a law firm, and what does it cost?",
+        "answer": "LawProactive is not a law firm and does not provide legal advice. We are a free service that connects you with an independent personal injury attorney handling cases in Orange County. The attorneys in our network work on contingency, so there is no fee unless there is a recovery."
+      },
+      {
+        "question": "What should I do in the first few days after being hurt?",
+        "answer": "Get medical care first, even if your symptoms seem minor, and keep every record. Photograph the scene, your injuries, and any property damage, and collect contact information from witnesses. Before giving a recorded statement to an insurer, consider speaking with an attorney about your rights."
+      }
+    ]
+  }
+}

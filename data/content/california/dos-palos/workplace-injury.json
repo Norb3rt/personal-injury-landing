@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "dos-palos workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dos Palos Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Dos Palos? Get connected free with an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Dos Palos, from a farm equipment accident on Rt 33 to a warehouse fall near Frank Avenue, you may have more than one path to recovery. We'll connect you free with an attorney who can sort out workers' comp and any third-party options."
+  },
+  "about": {
+    "title": "Dos Palos Workplace Injury Claims",
+    "longDescription": "Dos Palos sits in Merced County, where agriculture, trucking, and small commercial operations along Rt 33 and Elgin Avenue keep plenty of workers on the move. When a job injury happens here, the first question is usually about workers' compensation. But comp isn't always the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver on SR-33 contributed to what happened, you may have a separate injury claim against that third party, on top of any comp benefits. Local crash data shows Dos Palos sees a handful of injury collisions each year, some involving people simply driving for work. Whether you were hurt operating farm machinery, working a delivery route, or on a job site, understanding your options matters. LawProactive doesn't practice law; we connect you, at no cost, with an independent attorney who can look at your specific situation and explain what applies.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Farm equipment and machinery injuries",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Repetitive strain and back injuries",
+      "Vehicle collisions while driving for work",
+      "Crush or caught-in injuries near equipment",
+      "Burns or chemical exposure on the job"
+    ],
+    "ctaText": "Tell us what happened, and we'll connect you with an attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Dos Palos Work Injury",
+    "items": [
+      {
+        "title": "Comp Isn't Always the Full Picture",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but a negligent third party, like a subcontractor or equipment maker, can still be held separately liable. An attorney can help identify whether that applies to you."
+      },
+      {
+        "title": "Deadlines Work Differently Depending on the Claim",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, while a third-party injury claim carries its own 2-year deadline. Missing either window can limit your options, so timing matters."
+      },
+      {
+        "title": "Retaliation for Reporting Is Illegal",
+        "desc": "California law protects you from being punished for reporting a workplace injury. If you're worried about your job while dealing with a claim, an attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near Frank Avenue. Does workers' comp cover that?",
+        "answer": "Possibly, since injuries while driving for work duties are often covered by comp. But if another driver caused the collision, you may also have a separate claim against that driver. An attorney can review the details and explain both paths."
+      },
+      {
+        "question": "Can I still file a claim if my employer says it was my fault?",
+        "answer": "Yes. California workers' comp generally doesn't require proving fault, since it's a no-fault system for employer claims. Fault becomes more relevant only in a third-party claim, which is a separate matter entirely."
+      },
+      {
+        "question": "What if I'm afraid my employer will retaliate if I report an injury?",
+        "answer": "Retaliation for reporting a legitimate workplace injury is illegal under California law. If you're concerned about your job, an independent attorney can walk you through your rights before you file anything."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "colfax slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colfax Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall at a Colfax property? Get connected free with an independent premises liability attorney serving Placer County."
+  },
+  "hero": {
+    "subtitle": "A fall on someone else's property in Colfax can mean confusing questions about who's responsible. LawProactive connects you, at no cost, with an independent attorney who handles premises liability cases in Placer County."
+  },
+  "about": {
+    "title": "Colfax Slip & Fall Claims",
+    "longDescription": "Colfax is a small town along I-80, but the mix of older buildings downtown, hillside terrain, and businesses that see a lot of foot traffic near S Auburn Street and N Main Street creates plenty of chances for uneven walkways, poor lighting, and neglected spills to cause serious falls. Whether the fall happened in a grocery store, a rental property, or on a business's front steps, California law requires the property owner to have known or reasonably should have known about the hazard before they can be held responsible. That's why what happens right after the fall matters: photos of the exact spot, the names of any witnesses, and a request to preserve any surveillance footage can make a real difference later. LawProactive doesn't practice law ourselves, but we can connect you with an independent attorney familiar with Placer County premises cases who can review what happened, explain your options, and help you understand the notice requirement as it applies to your situation.",
+    "commonInjuriesTitle": "Common Injuries From Falls",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures",
+      "Traumatic brain injuries",
+      "Spinal disc injuries",
+      "Torn ligaments and knee injuries",
+      "Shoulder dislocations"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Colfax Fall",
+    "items": [
+      {
+        "title": "Proving Notice Takes Evidence",
+        "desc": "California requires showing the property owner knew or should have known about the hazard, which usually means gathering maintenance records, prior complaints, or inspection logs. An attorney can help identify and request this evidence before it disappears."
+      },
+      {
+        "title": "Surveillance Video Doesn't Wait",
+        "desc": "Many businesses overwrite security footage within days or weeks. An independent attorney can send a preservation letter quickly to help make sure video of the fall isn't lost."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, a Claim",
+        "desc": "Even if you're partly blamed for not seeing a hazard, California's pure comparative fault rule means you may still recover a share tied to the other party's responsibility. An attorney can help present the facts fairly rather than let assumptions decide the outcome."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a slip and fall claim in Colfax?",
+        "answer": "California generally allows two years from the date of the fall to file a premises liability claim. If the property involved is owned by a public entity, such as certain government buildings, the deadline is much shorter and requires an early formal claim. Speaking with an attorney soon after the fall helps avoid missing these windows."
+      },
+      {
+        "question": "What if the store or property owner says I wasn't paying attention?",
+        "answer": "Property owners and their insurers often raise this defense, but California's comparative fault rule allows you to recover a portion of damages even if you share some blame. The key question is still whether the owner had notice of the hazard and failed to address it. An attorney can help evaluate how fault might be divided in your specific case."
+      },
+      {
+        "question": "Are falls near I-80 or downtown Colfax handled differently?",
+        "answer": "The location itself, whether it's a business off I-80 or a shop on N Main Street, doesn't change the legal standard, but it can affect which video systems, witnesses, or maintenance records are available. That's why documenting details specific to where the fall happened matters. An independent attorney can help figure out what evidence exists for that particular property."
+      }
+    ]
+  }
+}

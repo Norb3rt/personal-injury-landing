@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "norco city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Norco, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Norco? Connect free with an independent Riverside County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Hamner Avenue or a fall somewhere around town, we'll connect you with an independent attorney at no cost — serving Norco and all of Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Norco, California",
+    "longDescription": "Norco sits along a busy stretch of Riverside County where horse trails cross paths with fast-moving traffic on Hamner Avenue, I-15, 6th Street, and River Road. In the most recent reporting year, the city recorded 112 injury collisions that left 147 people hurt and, tragically, 2 people dead. Numbers like these are public record — they don't tell you what a shattered ankle or a totaled truck means for your work, your family, or your peace of mind. That part is personal, and it's why we exist. LawProactive is a free service that connects injured people in Norco with an independent personal injury attorney who can review what happened and explain your options. We are not a law firm, and we don't decide your case or promise any result. The attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. If a car accident, a fall, or another incident has left you dealing with medical bills and missed work, reaching out costs you nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from car or motorcycle crashes",
+      "Traumatic brain injuries from impact or falls",
+      "Torn ligaments and knee injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and road rash from pedestrian or bike incidents"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and there's no pressure to proceed."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity was involved. Waiting too long can close the door on a claim entirely."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Claim",
+        "desc": "California follows pure comparative fault, so even if you shared some responsibility for what happened, you may still recover compensation — just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "Unlike some states, California places no cap on non-economic damages in ordinary injury cases, meaning compensation for pain and suffering isn't artificially limited."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. That means getting informed about your options carries no financial risk."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Fear that admitting any fault means losing everything",
+      "Not knowing if it's too late to do anything",
+      "Feeling overwhelmed by insurance calls and paperwork"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Norco?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If a government entity is involved, that deadline can shrink to as little as six months, so it's wise to get informed sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means partial fault reduces your compensation but doesn't automatically bar you from recovering anything. An attorney can help you understand how fault might affect your specific situation."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Norco?",
+        "answer": "Public crash records show reported collisions concentrated along corridors like Hamner Avenue, I-15, 6th Street, and River Road, with reports peaking on Fridays between 4 and 6 p.m. These are simply counts from public data, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people with an independent attorney who may be able to assist, at no cost to you for the connection."
+      },
+      {
+        "question": "How much money will I get for my injury?",
+        "answer": "No one can promise a specific outcome, and we don't make guarantees about settlements or verdicts. An independent attorney can review the details of your situation and explain what factors might affect any potential recovery."
+      }
+    ]
+  }
+}

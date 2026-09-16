@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "los-alamitos medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Alamitos Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent Los Alamitos medical malpractice attorney. No fee unless you recover. Learn your MICRA deadlines today."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or procedure at an Orange County hospital or clinic goes wrong, Los Alamitos patients deserve straight answers about their options. LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's specific rules."
+  },
+  "about": {
+    "title": "Los Alamitos Medical Malpractice Claims",
+    "longDescription": "Los Alamitos residents rely on a small network of local clinics and nearby Orange County hospitals for everything from routine checkups to surgery, and most visits go the way they should. But when a provider misses a clear warning sign, mishandles a procedure, or gets a medication wrong, the effects can follow a patient for years. California treats these cases differently than a typical injury claim: medical malpractice suits fall under MICRA, a law with its own notice requirements, filing deadlines, and expert-review rules. That's a lot to sort through while you're also trying to heal or care for a family member. LawProactive doesn't practice law ourselves — we're a free service that connects Los Alamitos residents with an independent attorney who focuses on these cases and can explain, in plain terms, whether what happened to you looks like a case worth pursuing.",
+    "commonInjuriesTitle": "Common Malpractice Scenarios We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on abnormal test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before MICRA Deadlines Pass",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally gives you one year from when you discover the injury and never more than three years from the incident itself. Waiting to ask questions can quietly close that window."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can even be filed, California law requires a 90-day notice to the provider — meaning the clock on your case starts moving well before a courtroom is involved."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A qualified medical expert typically has to confirm the care fell below the accepted standard; a bad outcome by itself isn't enough. An attorney experienced in MICRA cases knows how to get that evaluation started early."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered — or reasonably should have discovered — the injury, but never more than three years from the date it happened. There's also a required 90-day notice to the healthcare provider before a lawsuit can be filed, so the process starts earlier than people expect. An attorney can help you figure out exactly where your timeline stands."
+      },
+      {
+        "question": "My surgery or treatment in Los Alamitos didn't go as expected — is that automatically malpractice?",
+        "answer": "Not necessarily. California law requires proof that the provider's care fell below the accepted medical standard, and a qualified medical expert almost always has to weigh in to confirm that. A poor outcome alone, even a difficult one, doesn't by itself establish malpractice."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "Yes — California caps non-economic damages (like pain and suffering) in these cases, though that cap rises each year under current law. Economic losses, such as medical bills and lost income, are handled separately. An independent attorney can walk you through how this applies to your specific situation."
+      }
+    ]
+  }
+}

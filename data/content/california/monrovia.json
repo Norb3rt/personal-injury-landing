@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "monrovia city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Monrovia, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Monrovia? Free connection to an LA County attorney. 2 years to file. No fee unless you win. Fast, no-obligation case review."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident around Monrovia, we can connect you with an independent attorney at no cost, serving all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Monrovia, California",
+    "longDescription": "Monrovia sits at the base of the San Gabriel foothills, where local traffic funnels through I-210, Huntington Drive, and Foothill Boulevard to reach downtown, schools, and the shops along Myrtle Avenue. In the most recent year on record, Monrovia saw 193 injury collisions, 263 people injured, and 1 traffic death — public-record numbers that reflect how much daily driving happens through this small city. Whether the crash happened merging onto the 210, waiting at a light on Huntington, or crossing Foothill near a neighborhood intersection, the aftermath is usually the same: medical bills, missed work, and a lot of unanswered questions. LawProactive is a free service that helps injured Monrovia residents get connected with an independent personal injury attorney who can look at the specifics of what happened. We are not a law firm, and we don't decide claims or represent anyone directly — we simply make the introduction. Attorneys in our network work on contingency, meaning there's no upfront cost and no fee unless there's a recovery. If you're trying to figure out next steps after getting hurt, reaching out costs nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal cord injuries",
+      "Torn ligaments and joint damage",
+      "Cuts, bruises, and soft tissue trauma"
+    ],
+    "ctaText": "Find out if you have a case — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling Anything",
+    "items": [
+      {
+        "title": "California Gives You Two Years — But It Moves Fast",
+        "desc": "Most injury claims in California must be filed within two years of the accident, though claims against a government entity can require notice in as little as six months. Waiting too long can close the door on compensation entirely."
+      },
+      {
+        "title": "Partial Fault Doesn't Mean No Recovery",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still recover damages — just reduced by your share of fault. An insurer telling you 'you were at fault, so no payout' isn't the full picture."
+      },
+      {
+        "title": "No Cap on Pain and Suffering Damages",
+        "desc": "In ordinary injury cases, California doesn't limit how much you can recover for non-economic harm like pain, suffering, or loss of enjoyment of life. That's a meaningful difference from states that cap these damages."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys connected through LawProactive work on contingency, meaning legal fees only come out of a settlement or award. There's no hourly billing and no upfront retainer to worry about."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're out of work",
+      "Not knowing if the insurance adjuster's offer is fair",
+      "Feeling like the crash was partly your fault and wondering if that matters",
+      "Running out of time to file without realizing it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and attorneys in our network work on contingency, which means they only get paid if you receive a settlement or award. There's no upfront fee to speak with someone about your situation."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive connects injured people with independent, licensed personal injury attorneys. We don't provide legal representation ourselves — we simply help make the introduction."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "For most personal injury cases, California law gives you two years from the date of the accident. If your claim involves a government entity, such as a city-owned road or vehicle, the notice period can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Monrovia?",
+        "answer": "Public collision records show higher volumes along corridors like I-210 (Foothill Freeway), Huntington Drive, and Foothill Boulevard, with reported crashes tending to peak on Fridays between roughly 5 and 7 p.m. These are neutral traffic-volume figures, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover damages even if you share some responsibility for the crash. Your compensation would simply be reduced by your percentage of fault, rather than being eliminated altogether."
+      }
+    ]
+  }
+}

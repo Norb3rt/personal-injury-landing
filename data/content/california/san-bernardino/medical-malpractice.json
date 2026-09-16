@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "san-bernardino medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Bernardino Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Bernardino? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a provider in San Bernardino missed a diagnosis, botched a procedure, or sent you home too soon, you deserve a clear answer about whether the care fell short. LawProactive connects you, at no cost, with an independent medical malpractice attorney who can review what happened."
+  },
+  "about": {
+    "title": "San Bernardino Medical Malpractice Claims",
+    "longDescription": "When something goes wrong in a clinic or hospital, most people in San Bernardino are left with more questions than answers. Was the delay in reading a scan a judgment call, or a mistake no careful provider would have made? California draws a firm line here: a poor result on its own is not malpractice. A claim depends on showing that care fell below the accepted standard and that the shortfall caused real harm, and that showing almost always requires a qualified medical expert to say so. The timing is tight, too. Under MICRA, you generally have one year from the date you discovered the injury, and never more than three years from when it happened, along with a 90-day notice that must go to the provider before any lawsuit is filed. LawProactive exists to take the guesswork out of the first step. We are not a law firm. We connect San Bernardino County residents, at no cost, with an independent attorney who handles medical negligence cases on contingency, so a review of your records costs nothing up front.",
+    "commonInjuriesTitle": "Harm That Often Leads to a Malpractice Review",
+    "commonInjuries": [
+      "Missed or delayed cancer, stroke, or heart attack diagnosis",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Infections or sepsis from inadequate post-operative care"
+    ],
+    "ctaText": "Ask a Medical Malpractice Attorney to Review Your Records"
+  },
+  "whyChoose": {
+    "title": "Why San Bernardino Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "The MICRA clock is short and easy to miss",
+        "desc": "California generally allows one year from discovery of the injury, capped at three years from the date it occurred, and a 90-day notice must reach the provider before suit. Getting connected early protects those deadlines."
+      },
+      {
+        "title": "Expert testimony is nearly always required",
+        "desc": "A malpractice claim rises or falls on a qualified medical expert explaining how the care departed from the accepted standard. The attorneys in our network know how to find and work with those experts."
+      },
+      {
+        "title": "A cap that changes each year, and a free connection",
+        "desc": "California limits non-economic damages in these cases, and that cap rises annually, so the applicable figure depends on timing. Our service is free, and network attorneys work on contingency, meaning no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at an emergency room after a crash on I-215 and they missed a fracture. Is that malpractice?",
+        "answer": "It might be, but the answer depends on what a reasonably careful emergency physician would have done with the same symptoms and imaging. San Bernardino recorded 1,380 injury collisions in 2025, and emergency departments see many crash patients, so the question becomes whether the workup met the accepted standard. A missed finding that a competent provider should have caught, and that caused you additional harm, is the kind of case an attorney and a medical expert can evaluate."
+      },
+      {
+        "question": "My surgery had a bad outcome. Does that mean I have a case?",
+        "answer": "Not by itself. California law is clear that a disappointing or even painful result is not malpractice unless the care itself fell below the standard other providers would follow. An attorney will typically have a qualified physician review your records to determine whether an error occurred and whether it caused the harm you experienced."
+      },
+      {
+        "question": "How long do I have to act in San Bernardino County?",
+        "answer": "Under MICRA, the general rule is one year from when you discovered, or reasonably should have discovered, the injury, and no more than three years from the date of the injury itself. You also must give the provider 90 days' written notice before filing a lawsuit. Because those windows overlap and can shrink quickly, it helps to speak with an attorney as soon as you suspect something went wrong."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "mcfarland medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "McFarland Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in McFarland, CA? Get connected free with an independent attorney who handles Kern County malpractice claims."
+  },
+  "hero": {
+    "subtitle": "When a McFarland medical provider misses something they shouldn't have, families are often left with more questions than answers. LawProactive can connect you, at no cost, with an independent attorney who reviews malpractice cases originating in Kern County."
+  },
+  "about": {
+    "title": "McFarland Medical Malpractice Claims",
+    "longDescription": "McFarland is a small community, and many residents drive toward larger Kern County medical centers for specialized care — which means records, providers, and timelines can span more than one facility. When something goes wrong during that care, sorting out what happened, and whether it crosses the legal line into malpractice, takes a careful review of medical records and expert opinion. California's MICRA framework applies strict timing rules and a required pre-suit notice period, so waiting to ask questions can cost you options. LawProactive doesn't practice law or evaluate your medical chart ourselves; we simply connect McFarland residents with an independent attorney who can look at what occurred, explain whether a qualified medical expert supports a claim, and walk through next steps on a contingency basis. There's no cost to start that conversation, and no obligation to move forward afterward.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-treatment condition"
+    ],
+    "ctaText": "Ask about your situation — connecting with an attorney is free.'"
+  },
+  "whyChoose": {
+    "title": "Why Timing and Expert Review Matter in McFarland",
+    "items": [
+      {
+        "title": "Strict Filing Windows Under MICRA",
+        "desc": "California generally allows one year from discovery of the injury, and no more than three years from when it occurred, to bring a claim. A 90-day pre-suit notice is also required before filing, so early action matters."
+      },
+      {
+        "title": "A Qualified Medical Expert Is Almost Always Required",
+        "desc": "California malpractice cases typically need a qualified medical expert to confirm the standard of care was breached. An independent attorney can help determine whether your records support that kind of review."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises Yearly",
+        "desc": "California law places a statutory cap on non-economic damages in malpractice cases, and that cap increases annually. Understanding how this affects a claim's value is something an attorney can walk through with you directly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in McFarland but was treated at a hospital outside the city — does that matter?",
+        "answer": "Not necessarily. What matters is where the alleged negligence occurred and where the medical records originate, not simply your home address. An independent attorney can sort out jurisdiction and which county's court applies to your situation."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law is clear that a poor result alone doesn't prove negligence — the claim depends on whether the provider deviated from the accepted standard of care. That's why a qualified medical expert review is typically required before a case can move forward."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally you have one year from when you discovered, or reasonably should have discovered, the injury, but no more than three years from the date it happened. There's also a mandatory 90-day notice period before filing suit, so it helps to start the review process well before any deadline approaches."
+      }
+    ]
+  }
+}

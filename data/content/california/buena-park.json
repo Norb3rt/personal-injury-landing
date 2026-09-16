@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "buena-park city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Buena Park, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Buena Park or elsewhere in Orange County? California gives you 2 years to file. Free attorney connection — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a crash on Beach Boulevard left you with a back injury or a fall at a local business broke a bone, LawProactive connects you with an independent personal injury attorney at no cost. We serve Buena Park and all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Buena Park, California",
+    "longDescription": "Buena Park is a city of about 83,000 people, best known to visitors for Knott's Berry Farm and known to residents for the everyday traffic on Beach Boulevard, La Palma Avenue and Western Avenue, along with SR-91. Public records show those four corridors carry the highest collision counts in the city. In 2025, the most recent finalized year, Buena Park recorded 338 injury collisions. Behind that figure are 483 people who were hurt and 8 who lost their lives. Reports tend to cluster on Fridays between 5 p.m. and 7 p.m., when the workweek ends and the roads fill up. If one of those numbers is you or someone in your family, the paperwork that follows can feel heavier than the injury itself. LawProactive exists to take one task off your plate. We are a free service, not a law firm. Our role is simple: we listen to what happened, then connect you with an independent personal injury attorney who handles cases in Orange County. There is no charge for the connection, and the attorneys in our network work on contingency, meaning they collect a fee only if your case ends in a recovery. You keep control of every decision.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Buena Park",
+    "commonInjuries": [
+      "Whiplash and neck strain after rear-end collisions",
+      "Concussions and other head trauma",
+      "Broken wrists, arms and collarbones",
+      "Herniated discs and lower back injuries",
+      "Knee and ligament damage from falls",
+      "Road rash and lacerations for cyclists and pedestrians"
+    ],
+    "ctaText": "Tell us what happened. The connection is free, and the next step is yours."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Buena Park Claim",
+    "items": [
+      {
+        "title": "The two-year window is real",
+        "desc": "Most injury claims in California must be filed within two years of the date of injury. Claims against a city, county or state agency can carry a much shorter notice deadline, sometimes just six months."
+      },
+      {
+        "title": "Being partly at fault does not end your case",
+        "desc": "California follows pure comparative fault. If you share some responsibility, your recovery is reduced by your percentage of fault, but you are not barred from recovering."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For a typical injury claim in California, there is no statutory ceiling on non-economic damages such as pain, loss of enjoyment and emotional distress."
+      },
+      {
+        "title": "Nothing out of pocket to hire an attorney",
+        "desc": "Attorneys in the LawProactive network work on contingency. That means no fee unless there is a recovery, and no charge from us for making the connection."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say",
+      "I missed shifts and the bills are piling up faster than the checks",
+      "The other driver says I was partly to blame",
+      "I'm not sure a case like mine is worth an attorney's time"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Buena Park tend to happen?",
+        "answer": "Public collision records for Buena Park show the highest counts along Beach Boulevard, SR-91, La Palma Avenue and Western Avenue. These are simply the corridors with the most reported incidents, which tracks with how much traffic they carry. Reports also tend to peak on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of the injury. If a government entity is involved, such as a city vehicle or a hazard on public property, a formal claim may need to be filed within six months. An attorney can help pin down which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses pure comparative fault, so sharing some blame does not disqualify you. Your recovery is reduced by your percentage of fault, but it is not eliminated. This is one reason it helps to have an attorney examine how fault is being assigned."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match injured people in Buena Park and across Orange County with an independent personal injury attorney, and we do not provide legal advice or represent anyone ourselves."
+      },
+      {
+        "question": "What will it cost me to hire an attorney?",
+        "answer": "Our connection is free, and the attorneys we work with handle injury cases on contingency. That means their fee comes out of a recovery if there is one, and there is no fee if there is not. You will not be asked to pay anything up front."
+      }
+    ]
+  }
+}

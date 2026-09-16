@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "burlingame workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Burlingame Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Burlingame? Get connected free with an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Burlingame, San Mateo County's workers' comp rules can feel confusing fast. We connect you, at no cost, with an independent attorney who can sort out what you're owed."
+  },
+  "about": {
+    "title": "Burlingame Workplace Injury Claims",
+    "longDescription": "Burlingame's mix of hotels, offices near the airport corridor, retail along El Camino Real, and warehouses tucked off California Drive means workplace injuries here span everything from delivery-vehicle collisions to falls, equipment mishaps, and repetitive strain. Most injured workers in California go through workers' compensation, which generally applies no matter who was at fault, but that's not always the whole story. When a subcontractor, property owner, equipment manufacturer, or another driver contributed to the accident, a separate third-party claim may be available alongside your workers' comp benefits. Given that Burlingame sees regular traffic activity on corridors like US-101 and California Drive, on-the-job driving or roadside incidents are a real possibility for delivery workers, service techs, and commuting employees. LawProactive doesn't practice law ourselves — we're a free service that connects you with an independent attorney familiar with both workers' comp and third-party injury claims, so you understand which paths might apply to your situation and what deadlines matter.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven flooring",
+      "Repetitive strain and overuse injuries",
+      "Equipment or machinery-related injuries",
+      "Vehicle collisions during work-related driving or deliveries",
+      "Burns, chemical exposure, or respiratory irritation",
+      "Back, neck, and shoulder injuries from lifting or awkward positions"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Burlingame Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Full Picture",
+        "desc": "California generally treats workers' comp as the exclusive remedy against your employer, but if a third party like a subcontractor, property owner, or equipment maker played a role, a separate injury claim may still be possible."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You typically have 30 days to report a workplace injury to your employer, and missing that window can complicate your benefits — an attorney can help you understand what's still on the table even if time has passed."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "California law prohibits employers from retaliating against workers who report injuries or file claims, and an independent attorney can advise you if you feel you're being pressured or penalized."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near El Camino Real — do I file workers' comp or a regular injury claim?",
+        "answer": "Likely both could apply. Workers' comp usually covers you regardless of fault, but if another driver caused the crash, you may also have a separate third-party claim with its own 2-year deadline. An attorney can help you sort out which benefits apply and how they interact."
+      },
+      {
+        "question": "My employer says I waited too long to report my injury — is my claim over?",
+        "answer": "Not necessarily. While California generally expects injuries reported within 30 days, there can be exceptions depending on the circumstances, especially with injuries that developed gradually. An independent attorney can review the specifics of your situation before assuming the door is closed."
+      },
+      {
+        "question": "Can my employer fire me for filing a workers' comp claim in Burlingame?",
+        "answer": "No — California law makes it illegal for employers to retaliate against workers for reporting an injury or filing a claim. If you believe you've faced retaliation, it's worth discussing your options with an attorney who can look at what happened and advise you on next steps."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "wildomar city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Wildomar, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Wildomar? Riverside County residents have 2 years to file. Connect free with an attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Clinton Keith Road or suffered a fall or other injury, we'll connect you free of charge with an independent attorney serving Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Wildomar, California",
+    "longDescription": "Wildomar sits along the I-15 corridor in Riverside County, and its local roads carry a steady mix of commuter and through traffic. Public records show 91 injury collisions in the most recent reporting year, leaving 127 people hurt and 3 people dead. Corridors like Bundy Canyon Road, Clinton Keith Road, Palomar Street, and the I-15 southbound stretch show up repeatedly in collision counts, and reports tend to cluster on Thursday evenings between 5 and 7 p.m. when traffic is heaviest. If you or someone you love was hurt in one of these incidents, it helps to understand your options early, since California generally gives injured people only two years from the date of the incident to file a claim — and that window can shrink to as little as six months if a government entity is involved. LawProactive is a free service that connects injured Wildomar residents with an independent personal injury attorney; we are not a law firm and don't provide legal advice ourselves. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Deep cuts and lacerations",
+      "Soft tissue and joint injuries"
+    ],
+    "ctaText": "Find out where you stand — reach out for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "Time Limits Are Real",
+        "desc": "California law generally allows two years from the incident date to file a personal injury claim, but claims against a government entity can require notice in as little as six months. Acting sooner preserves your options."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Bar You",
+        "desc": "California follows pure comparative fault, so even if you share some responsibility for what happened, you may still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California doesn't limit non-economic damages like pain and suffering, which can matter for injuries that affect daily life long after physical wounds heal."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you win or settle your case — there's no upfront cost to get answers."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "How will I pay for medical bills piling up after the crash?",
+      "Will missing work because of my injuries put my finances at risk?",
+      "Am I still able to get compensation if I was partly at fault?",
+      "How much time do I actually have before it's too late to file?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Wildomar?",
+        "answer": "In most cases, California law gives you two years from the date of the incident to file a lawsuit. If a government agency or vehicle was involved, that window can shrink to as little as six months, so it's wise to get informed quickly."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows pure comparative fault, which means your compensation may be reduced by your percentage of fault, but you aren't automatically barred from recovering. Even partial responsibility on your part doesn't necessarily end your claim."
+      },
+      {
+        "question": "Where do collisions tend to cluster in Wildomar?",
+        "answer": "Public collision records show higher counts along Bundy Canyon Road, Clinton Keith Road, Palomar Street, and the I-15 southbound corridor, with reports often peaking on Thursdays between 5 and 7 p.m. These are simply the corridors with the most recorded incidents, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "No — in typical personal injury cases in California, there is no statutory cap on non-economic damages such as pain and suffering. Compensation depends on the specifics of your injuries and how they've affected your life."
+      },
+      {
+        "question": "Does it cost anything to speak with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney, and we are not a law firm ourselves. Attorneys in the network work on contingency, so there's no fee unless your case results in a recovery."
+      }
+    ]
+  }
+}

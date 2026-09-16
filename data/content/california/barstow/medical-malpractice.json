@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "barstow medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Barstow Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Barstow? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Barstow hospital visit or diagnosis goes wrong, the path forward can feel confusing. LawProactive can connect you with an independent attorney who understands medical malpractice claims in San Bernardino County."
+  },
+  "about": {
+    "title": "Barstow Medical Malpractice Claims",
+    "longDescription": "Barstow residents rely on a limited number of local clinics and San Bernardino County hospitals for care, and when something goes wrong during treatment, the effects can ripple through a family fast. Medical malpractice cases arise when a provider's care falls below an accepted standard and causes real harm — not simply because an outcome was disappointing. California law places strict timelines on these claims, including a required 90-day notice before filing suit, so acting early matters. LawProactive doesn't practice law or charge for its service; it exists to connect Barstow patients and families with an independent attorney who can review medical records, consult qualified experts, and explain whether a claim may be worth pursuing. If you or someone you love was harmed by a delayed diagnosis, surgical error, medication mistake, or other lapse in care, getting a free case review started sooner rather than later can help preserve your options under California's malpractice rules.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia errors",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Get a free, no-obligation case review from an independent attorney."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Pursue a Claim",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines Apply",
+        "desc": "California generally requires malpractice claims within one year of discovering the harm, and never more than three years from the injury itself. Missing these windows can end a claim regardless of its merits."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can be filed, California law requires sending the healthcare provider a 90-day notice of intent to sue. An attorney can help make sure this step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad medical outcome alone isn't proof of malpractice, a qualified medical expert typically must confirm that care fell below an accepted standard. An independent attorney can help arrange that review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have a case just because my treatment didn't go well?",
+        "answer": "Not necessarily. California law recognizes that medicine involves risk, so a poor outcome by itself isn't evidence of malpractice. A claim generally requires showing the provider's care fell below an accepted medical standard and that this caused the harm."
+      },
+      {
+        "question": "Where would a Barstow malpractice case likely be handled?",
+        "answer": "Most claims involving Barstow patients move through San Bernardino County's court system, since that's where the county's healthcare providers and hospitals operate. An independent attorney connected through LawProactive can explain what to expect locally."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "Yes, California's MICRA law sets a cap on non-economic damages like pain and suffering, and that cap rises each year under current law. Economic damages, such as medical bills and lost income, are generally not subject to this same cap."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "alturas city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Alturas, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Modoc County? Free, no-obligation connection to an independent Alturas attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash, a fall, or another accident around Alturas, we'll connect you with an independent attorney at no cost to you — serving Modoc County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Alturas, California",
+    "longDescription": "Alturas is a small, tight-knit community of about 2,594 people, and most folks here know the local roads well — County Road 1, 4th Street, County Road 54, and the stretch near 6058 County Road 90. The most recent full-year public-record data shows zero injury collisions, zero people injured, and zero traffic deaths reported in Alturas for 2025 — a reflection of the town's low traffic volume, though collisions can still happen any time of year, especially when reports cluster around Tuesday evenings between 8 and 10 p.m. If you or someone you love is hurt in a car accident, a fall, or another type of incident in Modoc County, sorting out medical bills, insurance calls, and paperwork can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — that connects injured people in Alturas with an independent personal injury attorney who can review the details of what happened. There's no cost to get connected, and any attorney you're matched with works on contingency, meaning no fee unless there's a recovery. You focus on healing; let someone else help sort out the rest.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from slips, trips, and falls"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney After an Injury in Alturas",
+    "items": [
+      {
+        "title": "You Have a Limited Window to Act",
+        "desc": "California law generally gives you two years from the date of an injury to file a claim, though claims against a government entity can require notice in as little as six months. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut the Door",
+        "desc": "Under California's pure comparative fault rule, you can still seek compensation even if you were partly responsible for what happened. Your recovery may be reduced by your share of fault, but it isn't automatically barred."
+      },
+      {
+        "title": "No Ceiling on Non-Economic Damages",
+        "desc": "In an ordinary injury case, California doesn't cap the amount you can seek for pain, suffering, and other non-economic losses. That means your claim isn't limited to medical bills and lost wages alone."
+      },
+      {
+        "title": "No Fee Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so you don't pay out of pocket to get advice or representation. Fees only come out of money recovered on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how medical bills will get paid",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you waited too long to take action",
+      "Wondering if being partly at fault means you have no case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney?",
+        "answer": "Nothing. LawProactive is a free service, and there's no obligation to move forward after you're connected. Any attorney in our network works on contingency, so you don't pay unless there's a recovery."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. We're a free connection service that links injured people in Alturas with an independent personal injury attorney. We don't provide legal representation ourselves."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Generally, you have two years from the date of injury to file a personal injury claim in California. If your claim involves a government entity, the deadline can be much shorter, sometimes as little as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "Where do crashes tend to happen in Alturas?",
+        "answer": "Public records show collision counts concentrated along corridors like County Road 1, 4th Street, County Road 54, and near 6058 County Road 90. Reported crashes also tend to cluster on Tuesdays between roughly 8 and 10 p.m. These are simply neutral public-record patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California follows a pure comparative fault rule, meaning you can still pursue compensation even if you share some blame. Your total recovery may be reduced in proportion to your share of fault, but it won't automatically disqualify your claim."
+      }
+    ]
+  }
+}

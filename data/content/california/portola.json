@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "portola city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Portola, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Portola, Plumas County? Connect free with an independent CA attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a crash on Rt 70 or Grizzly Road left you with whiplash, a broken bone, or worse, we can connect you free of charge with an independent attorney serving Plumas County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Portola, California",
+    "longDescription": "Portola is a small Plumas County community, but its roads still see their share of collisions. In the most recent full year on record, Portola logged 2 injury collisions with 3 people hurt and, thankfully, no traffic deaths. Public crash records point to Rt 70, Grizzly Road, 155 Sixth Avenue, and 5th Avenue as the corridors with the highest reported collision counts, with activity tending to cluster on Saturday mornings between 9 and 11 a.m. Those numbers are simply public records — they don't label any street or route as dangerous, and every situation is different. If you were hurt in a crash near these roads, LawProactive can help. We are a free service, not a law firm, and we don't provide legal advice ourselves. Instead, we connect injured people in Portola with an independent personal injury attorney who can review the details of what happened and explain your options. There's no upfront cost, and any attorney in our network works on contingency, meaning there's no fee unless you recover compensation. Reaching out costs you nothing and starts with a conversation, not a commitment.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries from impact"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and doesn't obligate you to anything."
+  },
+  "whyChoose": {
+    "title": "Why Portola Residents Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "You have a limited window to act",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, though claims against a government entity can require notice in as little as six months. Waiting too long can close the door on compensation entirely."
+      },
+      {
+        "title": "Shared fault doesn't shut you out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No cap on your pain and suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, or loss of enjoyment of life. This matters when the injury affects more than just your wallet."
+      },
+      {
+        "title": "No upfront cost to get help",
+        "desc": "Attorneys connected through LawProactive work on contingency, so there's no fee unless they recover money for you. That means you can explore your options without any out-of-pocket risk."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the other driver's insurance will actually cover your injuries",
+      "Feeling pressured to accept a quick settlement offer before you understand your options",
+      "Wondering whether it's even worth pursuing a claim over a smaller crash"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Portola?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If your injury involved a government entity, such as a public road crew or a government vehicle, that window can shrink to as little as six months, so it's wise to act quickly."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Portola?",
+        "answer": "Public crash records show that Rt 70, Grizzly Road, 155 Sixth Avenue, and 5th Avenue have the highest reported collision counts in Portola, with activity tending to peak on Saturdays between 9 and 11 a.m. These are neutral public-record counts, not a judgment about any road's safety."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses a pure comparative fault rule, so being partially responsible doesn't bar you from recovering compensation. Your total recovery is simply reduced by the percentage of fault assigned to you."
+      },
+      {
+        "question": "Will I owe money upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in the network work on contingency, meaning they only get paid if you recover compensation. There's no retainer or hourly fee required to get started."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm and does not provide legal representation or advice. We're a free service that connects injured people in Portola with an independent attorney who can evaluate their situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "buellton workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Buellton Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Buellton, CA? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Buellton, from a vineyard, hospitality job, or a delivery route along Rt 246, you don't have to sort out your options alone. LawProactive can connect you with an independent attorney who can look at both your workers' comp situation and any third-party claim, free of charge."
+  },
+  "about": {
+    "title": "Buellton Workplace Injury Claims",
+    "longDescription": "Buellton's economy runs on a mix of agriculture, hospitality, and small businesses tucked around Avenue Of The Flags and 2nd Street, and workplace injuries here range from repetitive strain in kitchens and tasting rooms to falls on job sites and vehicle collisions during work travel. In most cases, California law channels an injured worker's claim through workers' compensation regardless of who caused the accident, which means your employer's insurance covers medical care and lost wages even without proving fault. But when a third party, like a subcontractor, delivery vehicle driver, or equipment manufacturer, contributed to the injury, a separate civil claim may be possible alongside your workers' comp benefits. Because these two paths run on different rules and deadlines, it helps to have someone look at the full picture early. LawProactive connects injured workers in Buellton with an independent attorney at no cost, so you can understand what applies to your situation before decisions get made for you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Back and spine strain from lifting or repetitive tasks",
+      "Fall-related fractures on uneven work surfaces",
+      "Repetitive stress injuries in hands and wrists",
+      "Burns or cuts in kitchen or production settings",
+      "Vehicle collision injuries during work travel",
+      "Injuries from malfunctioning equipment or machinery"
+    ],
+    "ctaText": "Get a free, no-obligation attorney connection today."
+  },
+  "whyChoose": {
+    "title": "Why Buellton Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle Comp vs. Third-Party Claims",
+        "desc": "California generally treats workers' comp as the exclusive remedy against an employer, but a negligent third party can still be held separately liable. An independent attorney can help identify whether that applies to your injury."
+      },
+      {
+        "title": "We Understand the Reporting Clock",
+        "desc": "California law gives injured workers 30 days to report an injury to their employer to preserve comp benefits. Missing that window can complicate your claim, so timing matters from day one."
+      },
+      {
+        "title": "We Know Retaliation Is Illegal",
+        "desc": "Employers cannot legally punish you for reporting a workplace injury or filing a claim. If you're worried about your job, an attorney connection can help you understand your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a vineyard job outside Buellton, does workers' comp still apply?",
+        "answer": "In most cases, yes, agricultural employers in California are generally required to carry workers' compensation coverage. It typically applies regardless of who was at fault for the accident. If equipment failure or a third-party contractor played a role, there may also be a separate claim worth exploring."
+      },
+      {
+        "question": "What if my injury happened while driving for work near Rt 246 or Avenue Of The Flags?",
+        "answer": "Injuries during work-related travel are usually covered under workers' comp, but if another driver caused the crash, that driver's negligence could support an additional third-party claim. These situations often involve two separate processes running at once, so getting clarity early is useful."
+      },
+      {
+        "question": "How long do I have to file a claim if a third party was involved?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the incident. Workers' comp reporting deadlines are much shorter, typically 30 days to notify your employer, so acting promptly protects both potential claims."
+      }
+    ]
+  }
+}

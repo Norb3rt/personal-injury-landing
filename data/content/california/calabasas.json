@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "calabasas city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calabasas, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Calabasas? Free connection to an LA County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash or fall in Calabasas, we can connect you with an independent attorney at no cost. Serving injured people throughout Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Calabasas, California",
+    "longDescription": "Calabasas sits where US-101 (the Ventura Freeway) crosses paths with Las Virgenes Road, Calabasas Road, and Mulholland Highway — corridors that carry heavy commuter and canyon traffic every day. Public records show 96 injury collisions in the most recent final year, with 132 people injured and 1 traffic death citywide. Crashes tend to cluster on Fridays between 3 and 5 p.m., when commuters, school traffic, and weekend travelers all converge on the same stretches of road. Whether the crash happened merging onto the 101, navigating Mulholland's curves, or crossing an intersection on Calabasas Road, the aftermath is often the same: medical bills, missed work, and confusion about what happens next. LawProactive is a free service that connects injured people in Calabasas with an independent personal injury attorney — we are not a law firm, and we don't decide or handle your case ourselves. The attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and starts with a simple conversation about what happened to you.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Torn ligaments and soft tissue injury",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before It's Too Late",
+    "items": [
+      {
+        "title": "California's Two-Year Clock",
+        "desc": "Most injury claims in California must be filed within two years of the incident. If a government entity was involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial Fault Doesn't Erase Your Claim",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you may still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, or loss of enjoyment of life."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That removes the financial barrier to simply asking questions."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Will I be able to afford my medical bills?",
+      "Is it too late to do anything about this?",
+      "Was any of this my fault, and does that matter?",
+      "Can I even afford a lawyer right now?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim in Calabasas?",
+        "answer": "California generally gives you two years from the date of the incident to file a personal injury claim. If your injury involved a government vehicle or agency, that deadline can be as short as six months. It's wise to act sooner rather than later so evidence and witness memories stay fresh."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses a pure comparative fault rule, so being partly responsible doesn't bar you from recovering compensation. Your recovery would simply be reduced by your percentage of fault. An attorney can help assess how fault might be allocated in your specific situation."
+      },
+      {
+        "question": "Where do crashes tend to happen in Calabasas?",
+        "answer": "Public collision records show higher counts along US-101, Las Virgenes Road, Calabasas Road, and Mulholland Highway, with reported crashes clustering on Fridays between 3 and 5 p.m. These are neutral counts from public data, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply connect injured people with an independent attorney, and any attorney you work with typically operates on a contingency basis — no fee unless there's a recovery."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases in California, there is no cap on non-economic damages such as pain and suffering. This can differ in certain claim types, like some medical malpractice cases, so it's worth discussing your specific situation with an attorney."
+      }
+    ]
+  }
+}

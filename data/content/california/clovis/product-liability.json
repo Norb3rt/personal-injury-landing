@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "clovis product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Clovis, CA Product Liability Attorney | LawProactive",
+    "metaDescription": "Hurt by a defective product in Clovis? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a defective product injures someone in Clovis, California law does not ask you to prove the maker was careless — only that the product was flawed and that the flaw hurt you. LawProactive connects you, at no cost, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Clovis Product Liability Claims",
+    "longDescription": "A product that fails in your kitchen, garage, or car on Herndon Avenue can change an ordinary day in Clovis into a long recovery. Product liability law in California exists for that situation. In most of these cases the injured person does not have to prove the manufacturer was careless. Strict liability means you generally need to show the product had a defect — in its design, in how that unit was made, or in the warnings that came with it — and that the defect caused your injury.\n\nClovis is home to more than 104,000 people in Fresno County, and the products in those households and on those roads come from many hands: the company that designed the item, the factory that built it, the distributor that shipped it, and the retailer that sold it. Under California law, each of those parties may share responsibility. LawProactive is a free service, not a law firm. We connect you with an independent attorney who handles these claims on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, appliances, or e-bikes",
+      "Lacerations and amputations from power tools or yard equipment",
+      "Crash injuries tied to airbag, brake, or tire failures",
+      "Choking or internal injuries from unsafe children's products",
+      "Illness or organ damage from contaminated food, drugs, or supplements",
+      "Fractures from collapsing furniture, ladders, or chairs"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Clovis Residents Use LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability, Explained Plainly",
+        "desc": "The attorney you are matched with can evaluate whether your case fits California's strict liability rule, where the question is whether the product was defective — not whether anyone intended harm."
+      },
+      {
+        "title": "Help Preserving the Product",
+        "desc": "The item itself is usually the central evidence, so the attorney can guide you on keeping it, along with packaging, receipts, and photos, before anything is thrown away or returned."
+      },
+      {
+        "title": "Every Link in the Chain",
+        "desc": "Manufacturers, distributors, and retailers may all be responsible under California law, and an experienced attorney can identify which parties belong in your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag did not deploy in a crash on Shaw Avenue in Clovis. Is that a car accident case or a product case?",
+        "answer": "It may be both. Clovis recorded 356 injury collisions in 2025, and in some of those crashes a vehicle component failure adds a product liability claim on top of any claim against another driver. An attorney can review whether a defect contributed to your injuries and which parties may be responsible."
+      },
+      {
+        "question": "Do I really need to keep the product that hurt me?",
+        "answer": "Yes, whenever it is safe to do so. In a strict liability claim the defect itself is what you need to show, and the product is the most direct way to do that. Keep the item, its packaging, the receipt, and any instructions, and avoid repairing or returning it before speaking with an attorney."
+      },
+      {
+        "question": "I bought the item from a local Clovis store, not from the manufacturer. Who is responsible?",
+        "answer": "Under California law, responsibility can extend beyond the manufacturer to the distributor and the retailer who sold the product. That means a Clovis store may be part of the claim even though it did not design or build the item. The attorney you connect with can sort out which parties to include."
+      }
+    ]
+  }
+}

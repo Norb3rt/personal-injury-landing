@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "fontana medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Lawyer in Fontana, CA | LawProactive",
+    "metaDescription": "Hurt by a medical mistake in Fontana? Get a free connection to an independent malpractice attorney. MICRA deadlines apply; no fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care at a Fontana hospital, clinic, or surgical center goes wrong, sorting out what happened should not fall on you alone. LawProactive connects Fontana patients and families with an independent medical malpractice attorney at no cost."
+  },
+  "about": {
+    "title": "Fontana Medical Malpractice Claims",
+    "longDescription": "Fontana is home to more than 207,000 people, and most of them will trust a doctor, nurse, or hospital in San Bernardino County at some point. Nearly all of that care goes as it should. Once in a while it does not, and the person left dealing with the aftermath is rarely in a position to figure out whether a mistake was made or whether the result was simply an unavoidable risk. That distinction matters a great deal under California law. A poor outcome by itself is not malpractice; the question is whether a provider fell below the accepted standard of care and caused harm as a result. Answering that almost always takes a qualified medical expert, plus records that can be slow to arrive. California's MICRA rules add short clocks and a required 90-day notice before suit. LawProactive is not a law firm. We simply connect you, for free, with an independent attorney who handles these cases on contingency, so you can find out where you stand without paying anything up front.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosage mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or respond to a patient's decline"
+    ],
+    "ctaText": "Ask a Fontana malpractice attorney to review your records for free."
+  },
+  "whyChoose": {
+    "title": "Why Fontana Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are short and easy to miss",
+        "desc": "In most cases you have one year from when you discovered the injury, and never more than three years from when it happened. A connected attorney can spot which date controls before it slips by."
+      },
+      {
+        "title": "The 90-day notice is a real requirement",
+        "desc": "California requires written notice to each provider at least 90 days before a malpractice lawsuit is filed. Getting that step right early keeps your options open."
+      },
+      {
+        "title": "Expert review comes with the case, not out of your pocket",
+        "desc": "These claims almost always need a qualified medical expert to confirm that care fell below the standard. Network attorneys work on contingency, so that review is part of the representation and you owe nothing unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Fontana but referred to a specialist in another city. Does that complicate my claim?",
+        "answer": "Not usually. Many Fontana residents receive part of their care locally and part elsewhere in San Bernardino County or the Inland Empire, and a claim can involve more than one provider. An attorney will look at each stage of treatment to determine where, if anywhere, the standard of care was not met. What matters is the conduct, not the address."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages such as pain and suffering, and that cap rises each year under the current MICRA schedule. Economic losses like medical bills and lost income are not subject to that cap. An attorney can explain how the cap in effect for your case applies to your situation."
+      },
+      {
+        "question": "My surgery had a bad result. Is that automatically malpractice?",
+        "answer": "No. Every procedure carries known risks, and a disappointing outcome on its own does not prove that anyone did something wrong. Malpractice means a provider's care fell below what a reasonably careful provider would have done and that this caused your injury. A qualified medical expert is generally needed to make that determination, which is one reason an early attorney review is useful."
+      }
+    ]
+  }
+}

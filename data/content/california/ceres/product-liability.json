@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "ceres product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ceres Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Ceres, CA? Get connected free to an independent attorney who handles strict liability product claims."
+  },
+  "hero": {
+    "subtitle": "When a defective product injures someone in Ceres, California law often doesn't require proving anyone was careless — just that the product itself was flawed. LawProactive can connect you, at no cost, with an independent attorney who handles these Stanislaus County claims."
+  },
+  "about": {
+    "title": "Ceres Product Liability Claims",
+    "longDescription": "Defective products show up everywhere in Ceres life — a faulty ladder at a Whitmore Avenue job site, a malfunctioning appliance in a Mitchell Road apartment, a car part that fails near Hatch Road. California generally treats these as strict liability cases, meaning the injured person usually doesn't have to prove the manufacturer was negligent, only that the product had a defect and that defect caused harm. That's a meaningfully different path than a typical negligence claim, and it can involve manufacturers, distributors, and retailers all at once. Because Ceres sits within a busy agricultural and logistics corridor, equipment, machinery, and vehicle-related products come up often in local injury reports. If a product hurt you or someone in your family here, keeping the item itself and any packaging can matter a great deal later. LawProactive doesn't practice law — we simply connect you, free of charge, with an independent attorney in our network who can look at what happened and explain your options.",
+    "commonInjuriesTitle": "Injuries We See Connected to Defective Products",
+    "commonInjuries": [
+      "Burns from faulty appliances or wiring",
+      "Traumatic injuries from equipment or machinery failures",
+      "Injuries from defective vehicle parts or components",
+      "Harm from tools or ladders that break or malfunction",
+      "Chemical or toxic exposure from mislabeled products",
+      "Injuries from children's products or furniture defects"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Strict Liability Matters for Ceres Residents",
+    "items": [
+      {
+        "title": "You Don't Have to Prove Carelessness",
+        "desc": "Because California often applies strict liability to defective products, an attorney may be able to build your case around the product's flaw itself rather than trying to show a company was negligent."
+      },
+      {
+        "title": "Multiple Parties Can Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable under California product liability law, which may give your case more than one path forward."
+      },
+      {
+        "title": "Preserving the Product Preserves Your Options",
+        "desc": "Since the defective item is often the central piece of evidence in a strict liability claim, an attorney can advise you early on how to keep it safe rather than risk losing that evidence."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I need to prove the manufacturer knew about the defect?",
+        "answer": "Not necessarily. Under California's strict liability approach, the focus is generally on whether the product was defective and caused injury, not on what the manufacturer knew or intended. An independent attorney can explain how this applies to your specific situation."
+      },
+      {
+        "question": "What should I do with the product that hurt me here in Ceres?",
+        "answer": "Try to keep the item exactly as it was at the time of the injury, along with any packaging, receipts, or instructions. Don't attempt repairs or throw it away, since it may be important evidence for a claim. An attorney in our network can advise you on safe storage once you're connected."
+      },
+      {
+        "question": "Is LawProactive a law firm that will handle my product liability case?",
+        "answer": "No — LawProactive is a free connection service, not a law firm. We match you with an independent attorney in our network who handles product liability matters and typically works on contingency, meaning there's no fee unless there's a recovery."
+      }
+    ]
+  }
+}

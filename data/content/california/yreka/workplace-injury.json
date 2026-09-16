@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "yreka workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Yreka Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Yreka? LawProactive connects injured workers with an independent CA attorney, free, no obligation, no fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a job site injury sidelines you in Yreka, the paperwork and questions about who's responsible can pile up fast. LawProactive can connect you with an independent attorney who understands both workers' comp and Siskiyou County work sites, at no cost to you."
+  },
+  "about": {
+    "title": "Yreka Workplace Injury Claims",
+    "longDescription": "Yreka's economy runs on a mix of local trades, retail along S Main Street, transportation tied to Interstate 5, and small-scale industry that keeps this Siskiyou County community moving. That variety also means workplace injuries here range from warehouse falls to equipment accidents to highway-adjacent job hazards for delivery and utility crews working near I-5 or Rt 3. In most cases, California law channels workplace injuries through workers' compensation regardless of who was at fault, which can limit what you recover and leave questions about medical bills, lost wages, and equipment or third-party responsibility unanswered. If a subcontractor, property owner, or equipment manufacturer contributed to your injury, a separate claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law directly, but we can connect you, free of charge, with an independent attorney who can walk through your specific situation, explain your options under California law, and help you understand what steps might make sense next.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Repetitive strain and overexertion injuries",
+      "Equipment or machinery-related injuries",
+      "Vehicle collisions during work-related driving on I-5 or local roads",
+      "Struck-by injuries from falling objects or forklifts",
+      "Chemical exposure or burns in industrial or maintenance settings"
+    ],
+    "ctaText": "Talk with an independent attorney about your workplace injury, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Yreka Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Clarity on Workers' Comp vs. Third-Party Claims",
+        "desc": "California generally treats workers' compensation as the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker may still be separately liable. An attorney can help sort out which path applies to your situation."
+      },
+      {
+        "title": "Protection From Retaliation",
+        "desc": "Reporting a workplace injury within 30 days is required under California law, and retaliation against you for doing so is illegal. Understanding this timeline matters, especially in a smaller community like Yreka where workplaces are close-knit."
+      },
+      {
+        "title": "Awareness of Claim Deadlines",
+        "desc": "If a third-party claim applies to your injury, California generally allows two years to file. Missing that window can close off options, so getting informed early is worthwhile."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on the job in Yreka near Interstate 5. Do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer no matter who was at fault. But if a third party, like another driver on I-5 or a subcontractor, contributed to your injury, a separate claim may also be possible. An independent attorney can review the details and explain which options fit your case."
+      },
+      {
+        "question": "How long do I have to report a workplace injury in California?",
+        "answer": "Generally, you should notify your employer within 30 days of the injury to protect your right to workers' compensation benefits. Waiting too long can complicate your claim, so it's best to report promptly even if the injury seems minor at first."
+      },
+      {
+        "question": "Can my employer fire me for reporting an injury?",
+        "answer": "No, retaliation against an employee for reporting a workplace injury is illegal under California law. If you're worried about your job because you reported an injury, an independent attorney can help explain your rights and what recourse may be available."
+      }
+    ]
+  }
+}

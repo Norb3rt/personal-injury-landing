@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "adelanto workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Adelanto Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Adelanto? LawProactive connects you free with an independent attorney to sort out workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Adelanto—whether on a warehouse floor, a job site off Palmdale Road, or behind the wheel for work near Rt 395—LawProactive can connect you with an independent attorney at no cost to sort out your options."
+  },
+  "about": {
+    "title": "Adelanto Workplace Injury Claims",
+    "longDescription": "Adelanto's economy runs on logistics yards, trucking routes, and industrial work spread along corridors like Air Expwy and Bellflower Street, which means workplace injuries here often involve heavy equipment, forklifts, or vehicles rather than just a slip in an office. In most cases, California workers' compensation is the only path against your employer, no matter who caused the accident. But if a subcontractor, delivery driver, property owner, or equipment manufacturer contributed to what happened, you may also have a separate injury claim against that third party. Adelanto's growing warehouse and distribution presence means more workers are exposed to forklift traffic, loading dock hazards, and vehicle collisions on the job. LawProactive doesn't practice law or handle your claim directly—we simply connect you, free of charge, with an independent attorney who can look at both the workers' comp side and any possible third-party claim, and explain what applies to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Forklift and loading dock accidents",
+      "Falls from ladders, scaffolding, or platforms",
+      "Repetitive strain and back injuries from lifting",
+      "Vehicle collisions during work-related driving",
+      "Machinery and equipment-related injuries",
+      "Burns or chemical exposure on industrial sites"
+    ],
+    "ctaText": "Get connected with an independent attorney today—free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "Because workers' comp is usually the exclusive remedy against your employer, an attorney can help identify whether a negligent third party—like a subcontractor or equipment maker—might owe you more."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires you to report a workplace injury to your employer within 30 days, and missing that window can complicate your claim, so getting guidance early matters."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a claim, and an attorney can help you understand those protections if concerns come up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near Rt 395—do I file workers' comp or a lawsuit?",
+        "answer": "Possibly both. Workers' comp generally covers your injury regardless of fault, but if another driver caused the crash, that driver's insurance may be a separate third-party claim. An independent attorney can look at the details and explain which paths apply to you."
+      },
+      {
+        "question": "How long do I have to bring a claim if a third party caused my injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the incident. That's separate from the 30-day window for reporting the injury to your employer, so it helps to understand both timelines early."
+      },
+      {
+        "question": "Can my employer fire me for reporting an injury at an Adelanto job site?",
+        "answer": "No, retaliation for reporting a workplace injury is illegal under California law. If you're worried about how your employer might respond, an independent attorney can walk you through your rights before you report."
+      }
+    ]
+  }
+}

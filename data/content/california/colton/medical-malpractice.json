@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "colton medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colton Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney serving Colton, CA. No fee unless you recover. Strict deadlines apply."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or treatment in Colton left you worse off, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California's specific rules for these cases."
+  },
+  "about": {
+    "title": "Colton Medical Malpractice Claims",
+    "longDescription": "Colton residents rely on nearby San Bernardino County medical facilities for everything from emergency care after a collision on I-215 or I-10 to routine surgeries and ongoing treatment. Most of the time, that care goes as expected. But when a diagnosis is missed, a medication is administered incorrectly, or a surgical error occurs, the physical and financial toll can be significant. Medical malpractice cases in California are governed by unique rules that differ from typical injury claims, including shorter timelines to act and specific notice requirements before a lawsuit can even be filed. LawProactive doesn't practice law or represent clients directly. Instead, we connect Colton residents who believe they were harmed by substandard medical care with an independent attorney who can review the treatment records, evaluate whether the standard of care was met, and explain what options may exist. There's no cost to get connected, and no obligation to move forward.",
+    "commonInjuriesTitle": "Types of Harm We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor post-op patients"
+    ],
+    "ctaText": "Get connected with an independent attorney to discuss what happened."
+  },
+  "whyChoose": {
+    "title": "Why Timing and Evidence Matter in Colton",
+    "items": [
+      {
+        "title": "MICRA's Discovery Rule Is Narrow",
+        "desc": "California generally allows one year from when the harm was discovered, but never more than three years from the date of injury. Waiting to sort out what happened can quietly close that window."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can be filed, California law typically requires sending the healthcare provider a 90-day notice of intent. An independent attorney can help make sure this step is handled correctly."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "A poor medical result by itself isn't proof of malpractice. California cases generally require a qualified medical expert to confirm the standard of care was actually breached."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Colton?",
+        "answer": "California generally allows one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it occurred. These deadlines can be affected by the required 90-day pre-suit notice, so it's worth getting a review sooner rather than later."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. Medicine involves risk, and a poor result on its own doesn't establish that a provider was negligent. An independent attorney typically works with a qualified medical expert to determine whether the care fell below the accepted standard."
+      },
+      {
+        "question": "Does Colton have specific hospitals or facilities involved in these claims?",
+        "answer": "Colton residents often receive care at facilities throughout San Bernardino County, including after collisions along corridors like I-215, I-10, and Mt Vernon Avenue that send patients to local emergency rooms. LawProactive doesn't name specific providers, but an independent attorney can review records from wherever your treatment occurred."
+      }
+    ]
+  }
+}

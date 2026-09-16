@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "chula-vista medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Chula Vista Medical Malpractice Attorney | LawProactive",
+    "metaDescription": "Hurt by a medical error in Chula Vista? LawProactive connects you free with an independent malpractice attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "If a provider in Chula Vista missed something, delayed something, or made an error that changed your health, an independent attorney can review what happened. LawProactive makes that connection at no cost to you."
+  },
+  "about": {
+    "title": "Chula Vista Medical Malpractice Claims",
+    "longDescription": "Medical care is supposed to make things better. When it doesn't—when a diagnosis is missed, a medication is mixed up, or a procedure goes wrong in a way it shouldn't have—people in Chula Vista are often left with more questions than answers. Sorting out whether an error actually occurred is the first job, and it is rarely simple. California law is clear that a poor result by itself is not malpractice; a claim has to show that a provider fell below the accepted standard of care and that the lapse caused harm. That nearly always requires a qualified medical expert to review the records and say so. Timing matters too. Under MICRA, most claims must be brought within one year of discovering the injury and never more than three years after it happened, with a 90-day notice sent to the provider before filing. LawProactive is a free service, not a law firm. We connect Chula Vista residents with an independent San Diego County attorney who takes malpractice cases on contingency—no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Errors That Commonly Lead to Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed diagnosis, including cancer and stroke",
+      "Surgical mistakes, such as wrong-site or retained instruments",
+      "Medication and dosing errors",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or respond to a worsening condition"
+    ],
+    "ctaText": "Ask an independent attorney to review your records—free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Chula Vista Residents Use LawProactive",
+    "items": [
+      {
+        "title": "The MICRA clock is short",
+        "desc": "You generally have one year from when you discovered the injury, and no more than three years from when it happened, plus a 90-day notice must go to the provider before suit. An early connection keeps those dates from slipping past."
+      },
+      {
+        "title": "An expert has to weigh in",
+        "desc": "California nearly always requires a qualified medical expert to confirm the standard of care was breached. The attorneys in our network know how to line that review up before deadlines close in."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Non-economic damages in malpractice cases are capped, though the cap rises each year, and every case is different. Network attorneys work on contingency, so evaluating your situation costs you nothing up front."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after a procedure in Chula Vista. Is that automatically malpractice?",
+        "answer": "No. California law treats a poor result and malpractice as two different things. A claim has to show the provider acted below the accepted standard of care and that this failure caused your harm, and a qualified medical expert almost always has to support that conclusion. An attorney can request your records and get that review started."
+      },
+      {
+        "question": "I was hurt in a crash on Broadway and the emergency room missed a fracture. Do I have two separate claims?",
+        "answer": "Possibly. Chula Vista logged 940 injury collisions in 2025, and some of those patients later discover that follow-up care fell short. The crash claim and a malpractice claim involve different parties, different deadlines, and different proof, so it helps to have one attorney look at both together."
+      },
+      {
+        "question": "How long do I have to act, and what is the 90-day notice?",
+        "answer": "Under MICRA, most malpractice claims must be filed within one year of discovering the injury and never more than three years after it occurred. Before filing, a written notice of intent has to be sent to the provider at least 90 days ahead. Because the notice can affect the deadline, it is wise to speak with an attorney well before the year is up."
+      }
+    ]
+  }
+}

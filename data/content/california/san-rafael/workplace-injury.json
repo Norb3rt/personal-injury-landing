@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "san-rafael workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Rafael Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in San Rafael? Get connected free with an independent attorney who understands workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been injured while working in San Rafael, from a warehouse near US-101 to a job site off 2nd Street, LawProactive can connect you with an independent attorney at no cost to sort out your options."
+  },
+  "about": {
+    "title": "San Rafael Workplace Injury Claims",
+    "longDescription": "San Rafael's mix of commercial corridors, marina-adjacent businesses, and construction near Lincoln Avenue and 3rd Street means workplace injuries come in many forms — falls, equipment accidents, vehicle collisions during work duties, and repetitive strain from warehouse or retail jobs. Most injured workers in Marin County file for workers' compensation, which generally covers medical costs and lost wages regardless of fault, but it isn't always the whole story. When a subcontractor, property owner, equipment manufacturer, or another driver contributed to the injury, a separate claim against that third party may be possible alongside workers' comp. Figuring out which path applies, and whether both apply, can be confusing while you're also trying to recover physically. LawProactive doesn't practice law or charge fees — we simply connect you with an independent attorney who can look at your specific situation and explain what options might exist under California law.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Injuries from malfunctioning machinery or tools",
+      "Vehicle collisions while driving for work, including near US-101",
+      "Repetitive strain and overexertion injuries",
+      "Struck-by incidents involving forklifts or falling materials",
+      "Injuries from unsafe conditions on a third party's property"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why San Rafael Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Exclusive Remedy Rule",
+        "desc": "California generally treats workers' compensation as your only path against your employer, regardless of fault. An attorney can help clarify what that means for your specific injury and employer relationship."
+      },
+      {
+        "title": "Spotting a Third-Party Claim",
+        "desc": "If a subcontractor, equipment maker, or another driver contributed to your injury on the job, you may have a separate injury claim beyond workers' comp. This distinction matters and is easy to miss without guidance."
+      },
+      {
+        "title": "Protecting Your Rights and Timeline",
+        "desc": "You typically need to report a workplace injury to your employer within 30 days, and any third-party claim carries its own two-year deadline. Retaliation for reporting an injury is illegal, and an attorney can help you understand your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I still qualify for workers' compensation if the accident happened while driving for my job near US-101?",
+        "answer": "Generally yes — injuries during work-related driving are typically covered by workers' compensation regardless of fault. If another driver caused the crash, there may also be a separate third-party claim worth exploring. An independent attorney can help sort out which claims apply to your situation."
+      },
+      {
+        "question": "Can I be fired for reporting a workplace injury in San Rafael?",
+        "answer": "No. California law prohibits employer retaliation against workers who report injuries or file workers' compensation claims. If you believe you've faced retaliation, that's something an attorney can address directly."
+      },
+      {
+        "question": "What if my injury happened on a construction site with multiple contractors involved?",
+        "answer": "Jobs with multiple contractors, common along corridors like 3rd Street and Lincoln Avenue, can create situations where a subcontractor or property owner other than your direct employer bears some responsibility. That can open the door to a third-party claim in addition to workers' compensation. An attorney can review the site details and determine what applies."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "san-rafael city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Rafael, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in San Rafael, Marin County? Connect free with an independent attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on US-101 or knocked down as a pedestrian downtown, we can connect you free of charge with an independent attorney serving Marin County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Rafael, California",
+    "longDescription": "San Rafael sits along the US-101 corridor, where the freeway meets local surface streets like 2nd Street, 3rd Street, and Lincoln Avenue. Public records show 286 injury collisions in the most recent year, leaving 383 people hurt and 5 people dead on city and county roads. These streets carry commuters heading to and from the freeway, delivery trucks, and pedestrians crossing near downtown, and that mix of speeds and turning movements is part of why collisions happen. If you were hurt in one of these crashes, LawProactive can help. We are a free service, not a law firm, and we connect injured people with an independent personal injury attorney who works on contingency, meaning there's no fee unless you recover money. Getting hurt already disrupts your income, your routine, and your peace of mind. Our job is simply to make that first connection easier so you can focus on healing while someone else looks at what happened and what your options are.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones from vehicle impacts",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Pedestrian and cyclist injuries",
+      "Soft tissue and joint damage"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "You Have Time, But Not Unlimited Time",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require notice in as little as six months. Acting sooner preserves evidence and options."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In an ordinary injury case, California places no cap on non-economic damages like pain and suffering, so your compensation isn't artificially limited by a fixed ceiling."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning you pay nothing upfront and owe no fee unless there's a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if you waited too long to take action",
+      "Fearing the insurance company will use your own fault against you",
+      "Feeling unsure whether talking to anyone is even worth it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim in San Rafael?",
+        "answer": "Under California law, you typically have two years from the date of the injury to file a personal injury claim. If a government entity, like the city or county, was involved, the window can be much shorter, sometimes just six months. It's best not to wait to find out where your situation falls."
+      },
+      {
+        "question": "Where do crashes tend to cluster in San Rafael?",
+        "answer": "Public collision records show higher counts along US-101 and on surface streets like 2nd Street, 3rd Street, and Lincoln Avenue, with reported crashes tending to peak on Fridays between 5 and 7 p.m. These are neutral counts reflecting traffic volume and patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you were partially responsible. Your recovery would simply be reduced by your percentage of fault, rather than blocked entirely."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people reach an independent personal injury attorney. We don't provide legal representation ourselves, and there's no cost to use our service."
+      },
+      {
+        "question": "Will I owe anything upfront to get legal help?",
+        "answer": "Attorneys in our network typically work on contingency, which means they only get paid if you recover compensation. There's generally no upfront fee to have your situation reviewed."
+      }
+    ]
+  }
+}

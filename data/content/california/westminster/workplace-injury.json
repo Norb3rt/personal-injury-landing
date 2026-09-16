@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "westminster workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Westminster Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Westminster, CA? LawProactive connects you free with an independent attorney to review workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Westminster? Workers' comp may not be your only option, and a free connection with an independent attorney can help you understand where you stand."
+  },
+  "about": {
+    "title": "Westminster Workplace Injury Claims",
+    "longDescription": "Workplace injuries in Westminster happen far beyond construction sites. A cook burned on Westminster Boulevard, a delivery driver rear-ended on Beach Boulevard while making rounds, a warehouse worker crushed by a failing pallet rack off Goldenwest Street — each situation raises the same question: who pays? Under California law, your employer's workers' compensation coverage usually answers that regardless of fault, covering medical care and a portion of lost wages. What many people in Orange County don't realize is that comp may not be the end of the road. If a separate party contributed to the harm — a subcontractor, the owner of the property where you were working, the company that built the equipment, or another motorist on Route 39 — a distinct injury claim can exist alongside your comp benefits. LawProactive is not a law firm. We are a free service that connects you with an independent attorney who can sort out which path, or both, applies to you. The attorneys in our network work on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See in Westminster",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Burns and scalds in kitchens and industrial settings",
+      "Crush injuries from machinery or falling stock",
+      "Collisions while driving a work vehicle",
+      "Repetitive stress injuries to hands, wrists, and shoulders"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you, free, with an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Westminster Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Comp and third-party claims, sorted out",
+        "desc": "Workers' compensation is usually your exclusive remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver may owe you separately. The attorney you're connected with can evaluate both."
+      },
+      {
+        "title": "Deadlines kept in view",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and third-party injury claims carry a two-year filing deadline. An early connection helps keep those dates from slipping."
+      },
+      {
+        "title": "Protection against retaliation",
+        "desc": "Firing, demoting, or punishing a worker for reporting an injury is illegal in California. If your employer has pushed back, that is something an independent attorney can address alongside your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit while driving for work on Beach Boulevard. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were on the job, workers' compensation typically covers your medical care and part of your lost wages no matter who caused the crash. If the other driver was at fault, a separate injury claim against that driver may also be available, and it follows the two-year deadline. Westminster recorded 82 injury collisions in 2025, and a number of those involved people simply doing their jobs."
+      },
+      {
+        "question": "Do I have to tell my employer about the injury right away?",
+        "answer": "California asks you to report a work injury to your employer within 30 days. Reporting promptly, in writing if you can, protects your comp benefits and creates a record of what happened. Your employer cannot legally retaliate against you for making that report."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, not a law firm, and we don't represent you ourselves. The independent attorneys in our network work on contingency, meaning there is no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

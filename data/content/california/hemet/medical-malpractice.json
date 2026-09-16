@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "hemet medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hemet Medical Malpractice Lawyer Referral | LawProactive",
+    "metaDescription": "Harmed by a medical error in Hemet? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines apply—learn your options."
+  },
+  "hero": {
+    "subtitle": "If a hospital, clinic, or provider in Hemet made an error that left you worse off, LawProactive can connect you at no cost with an independent attorney who reviews medical negligence claims under California's MICRA rules."
+  },
+  "about": {
+    "title": "Hemet Medical Malpractice Claims",
+    "longDescription": "For many of Hemet's roughly 84,000 residents, care begins at a nearby clinic or emergency department. Most of it goes well. When it doesn't—a missed diagnosis, the wrong medication, a skipped surgical step—the harm can be lasting, and deciding whether it amounts to malpractice is not something a patient should sort out alone. California treats these claims differently from ordinary injury cases. Under MICRA, you generally have one year from discovering the harm, and no more than three years from the injury itself. A 90-day notice must go to the provider before suit is filed, and nearly every case requires a qualified medical expert to explain what standard of care applied and how it was breached. A poor result by itself is not enough. LawProactive is a free connection service, not a law firm. We match Hemet patients and families with an independent attorney who handles these claims on contingency—no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm Often Seen in Hemet Medical Negligence Claims",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Medication and dosage errors",
+      "Surgical mistakes, including wrong-site procedures",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Emergency room discharge without proper evaluation"
+    ],
+    "ctaText": "Ask a Hemet malpractice attorney whether your case qualifies"
+  },
+  "whyChoose": {
+    "title": "Why Hemet Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Short",
+        "desc": "California gives you generally one year from discovering the harm and no more than three years from the injury, plus a required 90-day pre-suit notice. An attorney can map those dates for your situation before time runs out."
+      },
+      {
+        "title": "Experts Decide the Question",
+        "desc": "A bad outcome alone is not malpractice under California law. The attorneys in our network work with qualified medical experts to determine whether the care you received fell below the accepted standard."
+      },
+      {
+        "title": "Understanding the Damages Cap",
+        "desc": "MICRA places a cap on non-economic damages that rises each year, while economic losses like medical bills and lost income are treated separately. An independent attorney can explain how those categories apply to your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in a Hemet emergency room after a collision on Florida Avenue and my injuries were missed. Is that malpractice?",
+        "answer": "It might be, but the answer depends on what a reasonable provider would have done with the same information. Hemet recorded 273 injury collisions in 2025, and emergency departments see many crash patients whose injuries only become clear later. An attorney would have a medical expert review your records to see whether the evaluation met the standard of care, separate from any claim against the driver who caused the crash."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally one year from the date you discovered, or reasonably should have discovered, the injury, and never more than three years from the date the harm occurred. On top of that, California requires a 90-day written notice to the provider before a lawsuit is filed. Because these rules interact, it helps to speak with an attorney early rather than waiting for a hospital's internal review to finish."
+      },
+      {
+        "question": "What does it cost to have a Hemet attorney look at my case?",
+        "answer": "Nothing to get connected through LawProactive, and the attorneys in our network handle medical malpractice on contingency, meaning no fee unless there is a recovery. Expert review costs are typically advanced by the attorney and addressed at the end of the case. You can ask about that arrangement directly during your first conversation."
+      }
+    ]
+  }
+}

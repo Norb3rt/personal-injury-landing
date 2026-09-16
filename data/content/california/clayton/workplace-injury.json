@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "clayton workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Clayton, CA Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Clayton, CA? Get connected free to an independent attorney about workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "If a work injury has sidelined you in Clayton, sorting out workers' comp paperwork alongside a possible third-party claim can feel like a second job. We connect you, free of charge, with an independent attorney who can help make sense of it."
+  },
+  "about": {
+    "title": "Clayton Workplace Injury Claims",
+    "longDescription": "Clayton's mix of small businesses, contractors, and workers commuting along Clayton Road and Marsh Creek Road means job-related injuries here can range from warehouse falls to vehicle collisions during work duties. Under California law, workers' compensation is generally your only path against your own employer, no matter who caused the accident — but that's not always the full picture. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate claim outside the workers' comp system. Given Clayton's proximity to busier corridors like Oakhurst Drive and Keller Ridge Drive, work-related vehicle incidents aren't unusual. LawProactive doesn't practice law or handle claims directly — we simply connect injured workers in Clayton with an independent attorney who can review the details, explain your options, and help you understand whether a third-party claim might apply alongside your workers' comp benefits.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions while driving for work",
+      "Equipment or machinery-related injuries",
+      "Struck-by or falling object incidents",
+      "Injuries from defective tools or safety gear"
+    ],
+    "ctaText": "Talk to an independent attorney about your options — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Clayton Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Exclusive Remedy Rule",
+        "desc": "California generally limits your claim against your own employer to workers' compensation, regardless of fault. An attorney can help you determine whether that's truly your only path here."
+      },
+      {
+        "title": "Spotting Third-Party Liability",
+        "desc": "If a subcontractor, property owner, or equipment maker played a role in your injury, you may have a separate claim outside workers' comp. That claim carries its own two-year deadline, so timing matters."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Reporting an injury to your employer within 30 days is required, and retaliation for doing so is illegal in California. An independent attorney can help you understand your rights if you're worried about pushback at work."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site along Clayton Road — can I file a claim against my employer directly?",
+        "answer": "In most cases, California workers' compensation is your exclusive remedy against your own employer, even if the injury happened on a busy stretch like Clayton Road. However, if another party — such as a subcontractor or equipment supplier — contributed to the accident, you might have a separate third-party claim. An independent attorney can review the specifics and explain which path applies to your situation."
+      },
+      {
+        "question": "What if my injury happened while driving for work near Marsh Creek Road or Oakhurst Drive?",
+        "answer": "Work-related vehicle incidents can involve both workers' compensation and a potential third-party claim, especially if another driver was involved. Since another driver isn't your employer, a separate injury claim against them may be possible in addition to any workers' comp benefits. Getting the timeline and facts sorted out early helps preserve your options."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim?",
+        "answer": "You generally need to report a workplace injury to your employer within 30 days to protect your workers' compensation rights. If a third party's negligence contributed to your injury, that separate claim typically carries a two-year deadline. Because these timelines differ, it helps to talk to an independent attorney sooner rather than later."
+      }
+    ]
+  }
+}

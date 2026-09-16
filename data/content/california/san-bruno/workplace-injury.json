@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "san-bruno workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Bruno Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in San Bruno? Get connected free with an independent attorney who can review your workers' comp and third-party options."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in San Bruno, from a warehouse near El Camino Real to a job site off I-380, we can connect you with an independent attorney who understands both workers' comp and third-party claims at no cost to you."
+  },
+  "about": {
+    "title": "San Bruno Workplace Injury Claims",
+    "longDescription": "San Bruno's mix of logistics hubs, retail corridors along El Camino Real, and job sites near the I-280/I-380 interchange means workplace injuries happen in all kinds of settings, from warehouses to construction zones to office buildings. In California, workers' compensation is typically your primary path after a job injury, covering medical care and partial wage loss regardless of fault. But that's not always the full picture. When a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, a separate third-party claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law ourselves; we simply connect injured San Bruno workers with an independent attorney who can look at the details of your accident, explain your options in plain terms, and help you understand deadlines that apply to your specific situation. There's no cost to get that conversation started, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or falls",
+      "Repetitive stress injuries in warehouse or office roles",
+      "Crush or laceration injuries from machinery",
+      "Fractures from falls on job sites or loading docks",
+      "Vehicle-related injuries for delivery or field workers",
+      "Burns or chemical exposure in industrial settings"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury claim.a"
+  },
+  "whyChoose": {
+    "title": "Why San Bruno Workers Reach Out to Us",
+    "items": [
+      {
+        "title": "We Understand the 30-Day Reporting Window",
+        "desc": "California law requires you to notify your employer of a workplace injury within 30 days, and missing that window can complicate your claim. An attorney can help you document what happened and meet that deadline properly."
+      },
+      {
+        "title": "We Know Retaliation Is Illegal",
+        "desc": "You have a legal right to report an injury or file a workers' comp claim without fear of being fired, demoted, or punished. If you're worried about how your employer might react, an attorney can explain your protections."
+      },
+      {
+        "title": "We Look Beyond Workers' Comp When It Matters",
+        "desc": "Workers' comp is usually your exclusive remedy against your employer, but if a third party like a subcontractor or equipment maker played a role, that separate claim carries its own two-year deadline. We help connect you with someone who can evaluate both angles."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job site near the I-280/I-380 interchange in San Bruno. Who's responsible?",
+        "answer": "If your employer's own negligence caused the injury, workers' compensation is generally your path forward regardless of fault. But if another driver, a subcontractor, or a property owner near that interchange contributed to what happened, you may also have a separate third-party claim. An independent attorney can help sort out which applies to your situation."
+      },
+      {
+        "question": "Can I be fired for filing a workers' comp claim in San Bruno?",
+        "answer": "No. California law prohibits employer retaliation against workers who report injuries or file workers' comp claims. If you believe you've faced retaliation, an attorney can advise you on next steps."
+      },
+      {
+        "question": "How long do I have to file a third-party claim after a workplace injury?",
+        "answer": "Third-party injury claims in California generally must be filed within two years of the incident. This is separate from your workers' comp claim, so it's worth having both timelines reviewed by someone familiar with your case."
+      }
+    ]
+  }
+}

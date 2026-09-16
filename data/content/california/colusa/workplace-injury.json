@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "colusa workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colusa Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Colusa? Get connected free with an independent attorney who understands work comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a job injury sidelines you in Colusa, sorting out workers' comp versus a possible third-party claim can feel overwhelming on top of recovery. LawProactive connects you, at no cost, with an independent attorney who can help sort out your options."
+  },
+  "about": {
+    "title": "Colusa Workplace Injury Claims",
+    "longDescription": "Colusa's economy leans heavily on agriculture, food processing, and small local businesses, and each of these workplaces carries its own set of injury risks — from equipment accidents in the fields to falls in warehouses along routes like Market Street. Most job injuries in California route through workers' compensation, which pays medical bills and partial wage loss without requiring proof of fault, but it's not always the full story. If a piece of faulty equipment, a subcontractor, or another company's negligence contributed to your injury, you may have a separate claim against that third party outside the workers' comp system. Colusa County's smaller size means fewer nearby specialists, which can make it harder to know where to turn after an injury. LawProactive helps by connecting injured workers with an independent attorney familiar with both workers' comp and third-party injury claims, free of charge, so you can focus on healing while someone else sorts out the legal path forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Agricultural equipment and machinery injuries",
+      "Falls from heights or on uneven surfaces",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle-related injuries during work duties",
+      "Burns or chemical exposure incidents",
+      "Injuries from defective tools or equipment"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Colusa Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help You See Beyond Workers' Comp",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but if a negligent third party — like an equipment manufacturer or subcontractor — played a role, a separate claim may be possible. An attorney can help you understand if that applies to your situation."
+      },
+      {
+        "title": "We Know the Clock Is Ticking",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and any third-party injury claim carries its own two-year deadline. Missing these windows can limit your options, so timing matters from day one."
+      },
+      {
+        "title": "We Understand Your Rights Are Protected",
+        "desc": "California law prohibits employer retaliation against workers who report injuries or file claims. If you're worried about your job while dealing with an injury, an independent attorney can help you understand what protections apply to you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working on a farm outside Colusa. Does workers' comp still apply?",
+        "answer": "In most cases, yes — California workers' compensation generally covers agricultural workers just as it does other employees, regardless of fault. However, if defective equipment or a third-party contractor contributed to your injury, you may also have a separate claim worth exploring. An independent attorney can help clarify which paths apply to your case."
+      },
+      {
+        "question": "Can I sue my employer directly after a workplace injury in Colusa?",
+        "answer": "Typically no — workers' compensation is usually the exclusive remedy against your employer, even if they were careless. That said, claims against a negligent third party, such as an equipment maker or another company on a job site, are handled separately and may still be available."
+      },
+      {
+        "question": "What if my employer discourages me from reporting my injury?",
+        "answer": "Retaliation against a worker for reporting an injury or filing a workers' comp claim is illegal under California law. You still have 30 days to report the injury to preserve your rights, and an independent attorney can advise you on documenting the incident properly if you're facing pushback."
+      }
+    ]
+  }
+}

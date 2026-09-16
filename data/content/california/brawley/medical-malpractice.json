@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "brawley medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Brawley Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Brawley? Get connected free to an independent injury attorney who handles California medical malpractice claims."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or treatment mistake at a Brawley or Imperial County medical facility left you injured, you deserve straight answers about what happened. LawProactive can connect you at no cost with an independent attorney who reviews medical malpractice cases in this area."
+  },
+  "about": {
+    "title": "Brawley Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases in Brawley often start with confusion — a surgery that didn't go as explained, a delayed diagnosis, or a medication mix-up that left someone worse off than before. Imperial County residents rely on a limited number of local hospitals and clinics, which means many families here also travel for specialty care, adding another layer of questions when something goes wrong. Because California law treats these claims differently than typical injury cases — with strict notice rules and specific expert requirements — it helps to have someone look closely at the medical records before assuming nothing can be done. A bad outcome by itself isn't proof of malpractice, but if a provider's care fell below the accepted standard, you may have options. LawProactive doesn't practice law or promise results; we simply connect Brawley residents with an independent attorney who can review the facts and explain what a claim might involve.",
+    "commonInjuriesTitle": "Injuries Linked to Medical Errors",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Delayed or missed diagnosis of a serious condition",
+      "Medication errors or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Post-surgical infections from improper care"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — no cost to ask."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "Strict Filing Windows Apply",
+        "desc": "California generally allows one year from when you discovered the harm and no more than three years from the injury itself, so timing matters more than it might seem."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can be filed, California law requires a 90-day notice to the provider, which affects how and when a claim gets started."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a poor outcome alone isn't enough to prove malpractice, a qualified medical expert typically has to confirm the care fell below an accepted standard."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it happened. There are limited exceptions, so it's worth having the specifics reviewed rather than guessing at your own deadline."
+      },
+      {
+        "question": "Is there a cap on what I can recover?",
+        "answer": "California law caps non-economic damages — things like pain and suffering — though that cap adjusts upward each year under current law. Economic losses, like medical bills and lost income, are generally handled separately and aren't subject to that same cap."
+      },
+      {
+        "question": "I live in Brawley — does it matter that my care happened at a small local facility?",
+        "answer": "It can matter for practical reasons, since Imperial County has fewer hospitals than larger counties, and records or specialists involved may be spread across more than one facility. An attorney reviewing your claim would look at where the care was given and pull the relevant records accordingly, regardless of the facility's size."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No — not every unfavorable result is a sign of negligence, since medicine carries inherent risk even with proper care. What matters is whether the provider's actions fell below the accepted medical standard for the situation, which is why an expert review is generally required."
+      }
+    ]
+  }
+}

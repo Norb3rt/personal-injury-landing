@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "arcata workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Arcata Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Arcata? Get connected free to an independent injury attorney who understands workers' comp and third-party claims in Humboldt County."
+  },
+  "hero": {
+    "subtitle": "When a job site injury sidelines you in Arcata, the paperwork and confusion can feel like a second job. LawProactive connects you, free of charge, with an independent attorney who can sort out what your Humboldt County claim actually involves."
+  },
+  "about": {
+    "title": "Arcata Workplace Injury Claims",
+    "longDescription": "Arcata's economy runs on a mix of retail along the plaza, timber-adjacent industry, fishing support work near the marsh, and campus operations tied to Cal Poly Humboldt. Any of these can put workers at risk of falls, repetitive strain, or equipment mishaps. In California, an on-the-job injury usually goes through workers' compensation, which pays medical bills and partial wages regardless of fault, but it typically bars you from suing your employer directly. However, if someone outside your employer contributed to the accident, such as a subcontractor, a property owner, or the maker of faulty equipment, you may have a separate claim worth pursuing. Arcata's compact size means many workers commute short distances on streets like Samoa Boulevard or 11th Street, and a work-related task might even involve driving. LawProactive doesn't practice law or handle claims itself, but we can connect you with an attorney who reviews your situation and explains what options actually apply.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or wet floors",
+      "Repetitive strain and overexertion injuries",
+      "Machinery and equipment-related injuries",
+      "Injuries from being struck by falling objects",
+      "Vehicle collisions during work-related driving",
+      "Exposure injuries from chemicals or fumes"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, at no cost to start."
+  },
+  "whyChoose": {
+    "title": "Why Arcata Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Always Obvious",
+        "desc": "Workers' comp is usually the only path against your employer, but a negligent subcontractor, equipment manufacturer, or property owner might still owe you a separate claim. An attorney can spot when that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "California law generally requires notifying your employer within 30 days of a workplace injury, so waiting can complicate your case. Getting matched with an attorney early helps make sure that step isn't missed."
+      },
+      {
+        "title": "Retaliation Is Illegal, Full Stop",
+        "desc": "If you're worried that reporting an injury could cost you your job, California law prohibits retaliation against employees who file workers' comp claims. An attorney can help you understand your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near Samoa Boulevard. Does workers' comp cover that?",
+        "answer": "Generally yes, injuries during work-related driving are typically covered by workers' compensation regardless of fault. But if another driver caused the crash, you may also have a separate third-party claim against them. An attorney can look at both angles for your specific situation."
+      },
+      {
+        "question": "Can I sue my employer directly if they were careless?",
+        "answer": "In most cases, California's workers' compensation system is the exclusive remedy against your employer, even if they were negligent. This trade-off gives you faster, no-fault benefits but generally blocks a lawsuit against the employer itself. Exceptions are limited, so it's worth discussing your facts with an attorney."
+      },
+      {
+        "question": "What if my injury happened on a job site involving a contractor who isn't my employer?",
+        "answer": "That's exactly the kind of situation where a third-party claim may come into play, separate from your workers' comp benefits. If a subcontractor, equipment supplier, or another company's negligence contributed to your injury in Arcata, you could have an additional avenue for recovery. A connected attorney can evaluate whether that applies to you."
+      },
+      {
+        "question": "How long do I have to act on a third-party claim from a workplace injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the incident. This is separate from the 30-day window for reporting the injury to your employer for workers' comp purposes. Missing either deadline can limit your options, so earlier action is generally better."
+      }
+    ]
+  }
+}

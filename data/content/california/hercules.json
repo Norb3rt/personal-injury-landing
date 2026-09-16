@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "hercules city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hercules, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Hercules? Free connection to an independent Contra Costa County attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a crash on I-80, San Pablo Avenue, or elsewhere in Hercules left you hurt, we can connect you free with an independent attorney serving Contra Costa County. From whiplash to broken bones, we help you find someone who can look at your situation."
+  },
+  "about": {
+    "title": "Personal Injury Help in Hercules, California",
+    "longDescription": "Hercules is a quiet stretch of the Bay Area, but its roads still see their share of trouble. In the most recent full year on record, the city logged 53 injury collisions and 76 people injured — no traffic deaths, but plenty of people left dealing with pain, medical bills, and missed work. Traffic tends to bottleneck along I-80, San Pablo Avenue, and SR-4, corridors that carry a lot of commuter and through traffic in and out of the city. If you were hurt in one of these collisions, sorting out what comes next can feel overwhelming, especially while you're trying to heal. LawProactive is a free service — not a law firm — that connects injured people in Hercules with an independent personal injury attorney who can review what happened. There's no cost to get connected, and the attorneys we work with take cases on contingency, meaning no fee unless there's a recovery. You don't have to figure out insurance calls, paperwork, or deadlines by yourself. Reaching out costs nothing and puts you in touch with someone who can explain your options.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why It Helps to Act Early",
+    "items": [
+      {
+        "title": "The Filing Clock Is Real",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government entity can require notice in as little as six months. Missing that window can end your ability to recover anything."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you're partly responsible for a crash, you may still recover damages — just reduced by your share of fault. An attorney can help sort out how fault is being assigned."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California does not cap non-economic damages like pain and suffering. That means your claim isn't automatically limited to medical bills and lost wages."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. That removes the financial barrier to getting legal help after a crash."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worried medical bills will pile up before you're even back on your feet",
+      "Not sure if the insurance company's settlement offer is fair",
+      "Confused about who's at fault and whether that affects your claim",
+      "Anxious about deadlines and losing the right to file"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Hercules?",
+        "answer": "California generally allows two years from the date of the injury to file a personal injury lawsuit. If your claim involves a government entity, such as a city vehicle or road defect, the notice deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses pure comparative fault, which means you can still recover damages even if you share some blame. Your recovery would just be reduced by your percentage of fault, not eliminated entirely."
+      },
+      {
+        "question": "Where do crashes tend to happen in Hercules?",
+        "answer": "Based on public crash records, collisions in Hercules cluster along corridors like I-80, San Pablo Avenue, and SR-4, with reports tending to peak on Fridays between 5 and 7 p.m. These are simply where collision counts are higher, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we are not a law firm and don't charge for the connection. The attorneys in our network work on contingency, meaning they only get paid if you recover compensation."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases in California, there is no cap on non-economic damages like pain and suffering. This differs from certain other types of cases, so it helps to have someone review the specifics of your situation."
+      }
+    ]
+  }
+}

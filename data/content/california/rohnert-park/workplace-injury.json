@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "rohnert-park workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rohnert Park Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Rohnert Park? Get connected free to an independent attorney who can look into workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Rohnert Park, whether at a Rohnert Park Expressway warehouse, a Golf Course Drive job site, or anywhere else in Sonoma County, we can connect you with an independent attorney free of charge to sort out your options."
+  },
+  "about": {
+    "title": "Rohnert Park Workplace Injury Claims",
+    "longDescription": "Rohnert Park's mix of retail centers, light industrial spaces, and service businesses along corridors like Redwood Drive and Rohnert Park Expressway means workplace injuries here take many forms, from warehouse falls to delivery-related crashes. California generally routes injured workers through the workers' compensation system, which pays medical bills and partial wage replacement regardless of fault, but it doesn't cover everything, and it usually bars a separate lawsuit against your employer. What it doesn't block is a claim against a negligent third party, like a subcontractor, equipment manufacturer, property owner, or another driver, if their carelessness contributed to your injury. Sorting out whether a third party bears responsibility takes a close look at how the injury happened. LawProactive doesn't practice law itself; we simply connect injured workers in Rohnert Park with an independent attorney who can review the details and explain what options may be available, at no cost to start.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from defective tools or machinery",
+      "Vehicle collisions during work-related driving",
+      "Burns, chemical exposure, or electrical injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney about your workplace injury, free."
+  },
+  "whyChoose": {
+    "title": "Why Rohnert Park Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Untangle Workers' Comp From Third-Party Claims",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker may still owe you a separate claim. An independent attorney can help figure out which path, or both, applies to your situation."
+      },
+      {
+        "title": "We Understand the Reporting Clock",
+        "desc": "California requires you to report a workplace injury to your employer within 30 days, and missing that window can complicate your claim. We connect you quickly so an attorney can help you protect your rights before deadlines slip by."
+      },
+      {
+        "title": "We Know Retaliation Is Illegal, and So Should You",
+        "desc": "Employers cannot legally punish you for reporting an injury or pursuing a claim. If you're worried about your job, an independent attorney can explain your protections and how a third-party claim, which carries its own two-year deadline, fits into the picture."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job site near Rohnert Park Expressway. Can I sue my employer?",
+        "answer": "In most cases, California workers' compensation is the exclusive remedy against your employer, meaning a separate lawsuit isn't usually available regardless of fault. However, if a third party, like a contractor, equipment supplier, or another driver, contributed to your injury, you may have a separate claim against them. An independent attorney can review the specifics and let you know."
+      },
+      {
+        "question": "Does workers' comp cover everything if I'm injured on the job in Rohnert Park?",
+        "answer": "Workers' compensation typically covers medical treatment and a portion of lost wages, but it doesn't cover pain and suffering and often falls short of full lost income. That's part of why a third-party claim, when one applies, can matter so much. An attorney can look at your specific losses and explain what's covered and what isn't."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim?",
+        "answer": "You generally need to report a workplace injury to your employer within 30 days to preserve your workers' comp rights. If your case involves a third party, that claim carries its own two-year deadline under California law. Because these timelines run separately, it helps to get guidance early rather than waiting."
+      }
+    ]
+  }
+}

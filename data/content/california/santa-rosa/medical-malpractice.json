@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "santa-rosa medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Rosa Medical Malpractice Claims | LawProactive",
+    "metaDescription": "Hurt by a medical error in Santa Rosa? LawProactive connects you, free, with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Something went wrong during your care in Santa Rosa, and now you need straight answers. LawProactive connects you at no cost with an independent attorney who handles medical malpractice claims in Sonoma County."
+  },
+  "about": {
+    "title": "Santa Rosa Medical Malpractice Claims",
+    "longDescription": "Medical care in Santa Rosa is supposed to make things better. When it doesn't, the question that keeps people up at night is whether something actually went wrong or whether it was simply a hard case. California law draws that line clearly: a poor result by itself is not malpractice. What matters is whether a doctor, nurse, or facility in Sonoma County fell below the accepted standard of care and that lapse caused harm. Proving it almost always takes a qualified medical expert who can explain what should have happened instead. Timing is tight, too. Under MICRA, most claims must be filed within one year of discovering the injury and never more than three years from when it occurred, with a 90-day notice sent before suit. LawProactive is not a law firm. We are a free service that connects Santa Rosa residents with an independent attorney who handles these cases on contingency, so there is no fee unless there is a recovery. If you're unsure whether your experience counts, asking costs nothing.",
+    "commonInjuriesTitle": "Errors That Often Lead to Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical mistakes, including wrong-site procedures or retained instruments",
+      "Medication and dosing errors",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or respond to worsening symptoms"
+    ],
+    "ctaText": "Ask a Santa Rosa malpractice attorney whether your case qualifies—free."
+  },
+  "whyChoose": {
+    "title": "Why Santa Rosa Patients Use LawProactive",
+    "items": [
+      {
+        "title": "Expert review from the start",
+        "desc": "California malpractice claims almost always need a qualified medical expert to establish what the standard of care required. The attorneys we connect you with know how to line that up early rather than scrambling later."
+      },
+      {
+        "title": "MICRA deadlines handled",
+        "desc": "One year from discovery, three years outside, and a 90-day pre-suit notice: miss one and the claim can be lost. An attorney tracks each date so you don't have to."
+      },
+      {
+        "title": "Current on the damages cap",
+        "desc": "MICRA limits non-economic damages, but that cap rises every year. Your attorney will apply the figure in effect for your case rather than an outdated number."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How do I know if what happened to me was malpractice or just bad luck?",
+        "answer": "Medicine involves risk, and an unwanted outcome on its own is not malpractice under California law. The test is whether the provider did something a reasonably careful professional would not have done, and whether that choice caused your harm. A qualified medical expert is nearly always needed to answer that question. An independent attorney can arrange that review at no upfront cost."
+      },
+      {
+        "question": "I was injured in a crash on US-101 near Santa Rosa and then my treatment made things worse. Do I have one claim or two?",
+        "answer": "Possibly two. The collision itself may support a personal injury claim against the at-fault driver, while a later error in your care could be a separate malpractice claim. With 790 people injured on Santa Rosa roads in 2025, this overlap comes up more than you might expect. An attorney can sort out how the two interact and which deadlines apply to each."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice case in Sonoma County?",
+        "answer": "Under MICRA, you generally have one year from the date you discovered, or reasonably should have discovered, the injury, and never more than three years from when it occurred. Before filing, a 90-day notice must be sent to the provider. Because the discovery date can be disputed, it helps to speak with an attorney sooner rather than later."
+      }
+    ]
+  }
+}

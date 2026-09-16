@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "pomona product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pomona, CA Product Liability Attorney Connection",
+    "metaDescription": "Hurt by a faulty product in Pomona? LawProactive connects you free with an independent attorney. Strict liability may apply. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product you trusted fails and leaves you hurt in Pomona, California's strict liability rules may put the responsibility on the companies that made and sold it. LawProactive connects you, at no cost, with an independent attorney who can look at what happened."
+  },
+  "about": {
+    "title": "Pomona Product Liability Claims",
+    "longDescription": "A product that fails in Pomona can fail anywhere in the house or on the road: a space heater that overheats in a Garey Avenue apartment, a ladder that buckles in a backyard off Holt Avenue, a tire that comes apart on the I-10 San Bernardino Freeway. When something you bought does not work the way it was supposed to and you are hurt as a result, California law gives you a path forward. You usually do not have to prove the company was careless. Under strict liability, the question is whether the product had a defect in its design, its manufacturing, or its warnings, and whether that defect caused your injury. The manufacturer, the distributor, and the store that sold it may all share responsibility. LawProactive is a free service that connects Pomona residents with an independent personal injury attorney. There is no charge to be connected, and network attorneys work on contingency, so no fee is owed unless there is a recovery. Hold on to the product. It is the heart of the case.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from appliances, batteries, or heaters that overheat",
+      "Lacerations and crush injuries from power tools and machinery",
+      "Head and spinal injuries from failed ladders, chairs, or furniture",
+      "Fractures from collapsing or malfunctioning equipment",
+      "Internal injuries or illness from contaminated food and medication",
+      "Crash injuries tied to airbag, brake, or tire failures"
+    ],
+    "ctaText": "Tell us what happened. We will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Pomona Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Don't Have to Prove Carelessness",
+        "desc": "California product liability generally runs on strict liability, so the focus is on whether the product was defective and caused your injury, not on proving the maker acted negligently. An attorney can help frame the case that way from the start."
+      },
+      {
+        "title": "Every Link in the Chain Matters",
+        "desc": "Manufacturers, distributors, and retailers can each be held responsible for a defective product. The attorney you are connected with can sort out who belongs in the claim."
+      },
+      {
+        "title": "Protecting the Evidence Early",
+        "desc": "The product itself is often the single most important piece of proof, and it is easy to lose or throw away. Getting connected quickly helps make sure it is preserved before it is gone."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My tire blew out on the I-10 through Pomona and I crashed. Is that a product liability case or a car accident case?",
+        "answer": "It may be both, and that matters. If the tire or another vehicle component had a design or manufacturing defect, the companies that made and sold it could be responsible under strict liability, separate from any driver fault. Keep the tire and the vehicle exactly as they are after the crash so an attorney can have them examined."
+      },
+      {
+        "question": "Do I need to prove the company knew the product was defective?",
+        "answer": "Usually not. Under California's strict liability approach, the injured person generally needs to show the product had a defect in its design, manufacturing, or warnings and that the defect caused the injury. Whether the company knew or was careless is typically not the central question."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Keep it, along with the packaging, receipt, instructions, and any photos of the failure or your injuries. Do not repair it, return it to the store, or send it back to the manufacturer, since that can mean losing the evidence entirely. An attorney connected through LawProactive can advise on how to store and document it properly."
+      }
+    ]
+  }
+}

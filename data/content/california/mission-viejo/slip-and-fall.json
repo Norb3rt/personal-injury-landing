@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "mission-viejo slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mission Viejo Slip & Fall Attorney Match | LawProactive",
+    "metaDescription": "Fell on someone else's property in Mission Viejo? LawProactive connects you, free, with an independent premises liability attorney. Contingency fees only."
+  },
+  "hero": {
+    "subtitle": "Injured by a wet floor, broken step, or unlit walkway somewhere in Mission Viejo? LawProactive connects you, at no cost, with an independent Orange County attorney who handles premises liability claims."
+  },
+  "about": {
+    "title": "Mission Viejo Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely happens where you expect it. In Mission Viejo, it might be a slick tile entry at a store off Alicia Parkway, a cracked curb in a parking lot near Marguerite Parkway, or a dim stairwell at an apartment complex along Los Alisos Boulevard. What these moments share is one question under California law: did the property owner know, or should they have known, about the hazard, and did they fail to fix it or warn you? That question, called notice, sits at the center of every premises liability claim, and answering it depends on evidence that fades fast. Spills get mopped up. Surveillance footage gets overwritten within days. LawProactive exists to close the gap between your injury and a real conversation with an independent attorney who works these cases in Orange County. The service is free, and the attorneys in our network handle premises claims on contingency, so there is no fee unless there is a recovery. You do not need to know whether you have a case before reaching out. Sorting that out is what the conversation is for.",
+    "commonInjuriesTitle": "Injuries We Commonly See After a Fall in Mission Viejo",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and elbow breaks from bracing",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back strain",
+      "Torn knee ligaments and meniscus damage",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Mission Viejo Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole case, and it needs proof",
+        "desc": "California requires you to show the owner knew or should have known about the hazard. An attorney can move quickly to request maintenance logs, inspection schedules, and prior complaints before they are hard to get."
+      },
+      {
+        "title": "Video disappears faster than you think",
+        "desc": "Many stores and complexes overwrite surveillance footage in a matter of days. Getting a preservation letter out early can be the difference between a recorded fall and a disputed one."
+      },
+      {
+        "title": "Being partly at fault does not end your claim",
+        "desc": "California uses pure comparative fault, so a claim is reduced by your share of responsibility rather than erased. An independent attorney can push back when an owner tries to pin everything on you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a public sidewalk or at a city facility in Mission Viejo. Is the deadline different?",
+        "answer": "Yes, and it is much shorter. When a public entity such as the City of Mission Viejo or Orange County owns the property, California generally requires a formal government claim within six months of the injury before any lawsuit can be filed. Missing that window can end the claim entirely, so it is worth speaking with an attorney soon after a fall on public property."
+      },
+      {
+        "question": "How long do I have to file a premises liability claim in California?",
+        "answer": "For falls on privately owned property, the statute of limitations is generally two years from the date of injury. That sounds like plenty of time, but the evidence you need, especially video and witness memories, does not last nearly that long. Starting early protects the proof, not just the deadline."
+      },
+      {
+        "question": "What should I do right after a fall at a store or apartment complex?",
+        "answer": "Photograph the hazard from several angles before anyone cleans it, and note the time, lighting, and any missing warning signs. Ask for an incident report and the names of employees or witnesses, then get medical care even if you feel mostly fine. An attorney can then send a written request that the owner preserve all surveillance footage from that day."
+      }
+    ]
+  }
+}

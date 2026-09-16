@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "half-moon-bay workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Half Moon Bay Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Half Moon Bay? Get free help connecting with an independent attorney about workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working along San Mateo Road, on a Highway 1 job site, or anywhere else in Half Moon Bay, we can connect you with an independent attorney who handles workers' compensation questions and possible third-party claims — free, with no obligation."
+  },
+  "about": {
+    "title": "Half Moon Bay Workplace Injury Claims",
+    "longDescription": "Half Moon Bay's economy leans on agriculture, coastal tourism, and small construction crews, which means workplace injuries here often look different than in a big-city office setting: falls on uneven farm terrain, equipment accidents at greenhouses and nurseries, vehicle-related injuries for workers who travel Highway 1 or San Mateo Road for their job, and strains from physical labor in restaurants and hospitality. Whatever the setting, California generally requires injured workers to go through the workers' compensation system rather than suing their employer directly. But that's not always the end of the story — if a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate claim outside the workers' comp system. LawProactive doesn't practice law or promise results; we simply help connect you with an independent attorney in San Mateo County who can look at your situation and explain your options in plain terms.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls on farms, greenhouses, or uneven outdoor worksites",
+      "Equipment and machinery injuries in agriculture or landscaping",
+      "Vehicle collisions while driving for work on Highway 1 or local roads",
+      "Repetitive strain injuries from kitchen, hospitality, or retail work",
+      "Falls from ladders or scaffolding on small construction jobs",
+      "Injuries from falling objects or unsecured materials"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney to talk to."
+  },
+  "whyChoose": {
+    "title": "What Half Moon Bay Workers Should Know",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "California law generally makes workers' compensation the exclusive remedy against your employer, but if a third party — like a subcontractor, property owner, or equipment maker — contributed to the accident, a separate injury claim may be possible."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires injured workers to report the injury to their employer within 30 days, so acting quickly helps protect your options no matter which path your case takes."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "Employers cannot legally punish or retaliate against you for reporting a workplace injury or pursuing a workers' compensation claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working near Rt 1 or San Mateo Road while on the job — can I file a claim?",
+        "answer": "If you were injured while working, workers' compensation is typically the first path regardless of fault. However, if another driver or a third party contributed to a crash on a corridor like Highway 1 or San Mateo Road, you may also have a separate third-party injury claim. An independent attorney can review the specifics and explain which options apply to your situation."
+      },
+      {
+        "question": "What if my employer in Half Moon Bay doesn't have workers' comp insurance?",
+        "answer": "Most California employers are required to carry workers' compensation coverage, and if yours doesn't, you may have additional legal options beyond the standard workers' comp process. This is a good reason to speak with an independent attorney who can walk through what applies to your case."
+      },
+      {
+        "question": "How long do I have to bring a third-party claim after a workplace injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the injury. That's separate from the 30-day window for reporting the injury to your employer, so it helps to understand both timelines early on."
+      },
+      {
+        "question": "Can I get fired for reporting a workplace injury?",
+        "answer": "No — California law prohibits employer retaliation against workers who report an injury or file a workers' compensation claim. If you believe you've faced retaliation, that's something worth discussing with an attorney as part of your overall situation."
+      }
+    ]
+  }
+}

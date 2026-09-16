@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "san-clemente city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Clemente, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in San Clemente? Orange County residents have 2 years to file. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on I-5 or a fall somewhere around town, we'll connect you with an independent attorney at no cost, serving all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Clemente, California",
+    "longDescription": "San Clemente's roads carry a steady mix of commuters, beachgoers, and local traffic, and that mix shows up in the numbers. In the most recent year on record, San Clemente saw 182 injury collisions and 240 people hurt, with one traffic death. Corridors like I-5 (San Diego Freeway), Avenida Pico, S El Camino Real, and N El Camino Real account for a large share of the reported collision activity in the city, and public records show reported crashes tend to cluster on Saturday afternoons between 3 and 5 p.m., when weekend traffic builds. If you were hurt in one of these collisions, or in any other kind of accident around San Clemente, LawProactive can help. We're a free service, not a law firm — we connect injured people with an independent personal injury attorney who can review what happened and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless you recover money. You focus on healing; let us handle the introduction to someone who can help you sort out the rest.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Get connected with an independent attorney today, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Act Now Matters",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require notice in as little as six months. Waiting too long can mean losing your right to recover."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for an accident, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on What You Can Recover",
+        "desc": "In most ordinary injury cases, California places no limit on non-economic damages like pain and suffering, so your compensation isn't artificially capped."
+      },
+      {
+        "title": "No Fee Unless You Win",
+        "desc": "Attorneys in our network work on contingency, meaning you pay nothing upfront and owe no fee unless there's a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know how I'll pay them",
+      "I'm not sure if I can still work while I recover",
+      "The insurance company keeps calling and I don't know what to say",
+      "I don't know if I waited too long to do something about this"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and attorneys in our network work on contingency, so there's no fee unless you recover compensation."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in San Clemente?",
+        "answer": "California generally allows two years from the date of injury to file a personal injury claim. If a government entity was involved, that window can shrink to as little as six months, so it's worth getting guidance sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to cluster in San Clemente?",
+        "answer": "Public collision records point to corridors like I-5, Avenida Pico, S El Camino Real, and N El Camino Real as having higher reported collision counts, with activity often peaking on Saturday afternoons between 3 and 5 p.m. These are neutral, publicly reported figures, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still pursue compensation even if you share some blame. Your recovery would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people find an independent personal injury attorney. We don't provide legal representation ourselves."
+      }
+    ]
+  }
+}

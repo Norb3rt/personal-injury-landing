@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "daly-city workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Daly City Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt at work in Daly City? LawProactive connects you free with an independent attorney to review workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in Daly City? We'll connect you, at no cost, with an independent attorney who can explain what workers' compensation covers and whether a third party may also owe you a claim."
+  },
+  "about": {
+    "title": "Daly City Workplace Injury Claims",
+    "longDescription": "Work in Daly City looks different depending on which block you're standing on. Some people spend their shifts stocking shelves along Mission Street, while others drive deliveries up John Daly Boulevard or merge onto I-280 in a company van. When a shift ends with an injury, the path forward isn't always obvious. California workers' compensation typically covers you regardless of who was at fault, and it is usually your only claim against your employer. But if someone outside your employer caused the harm — a subcontractor on a job site, a property owner who ignored a hazard, the manufacturer of a defective tool, or another driver who hit you while you were on the clock — a separate injury claim may exist alongside workers' comp. Daly City recorded 257 injury collisions in 2025, and some of those involved people who were simply doing their jobs. LawProactive is a free service, not a law firm. We connect you with an independent attorney in San Mateo County who can sort out which claims apply to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Daly City",
+    "commonInjuries": [
+      "Back and shoulder strains from lifting or repetitive motion",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Crush and pinch injuries from machinery or equipment",
+      "Burns and chemical exposure in kitchens and service work",
+      "Slip and trip injuries on wet or cluttered floors",
+      "Collisions while driving on the clock along I-280 or Junipero Serra Boulevard"
+    ],
+    "ctaText": "Ask a Daly City attorney about your options — free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Daly City Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look past workers' comp",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but it does not cover pain and suffering. The attorneys we connect you with check whether a negligent third party — a subcontractor, property owner, equipment maker, or another driver — opens a separate claim."
+      },
+      {
+        "title": "Timing and reporting matter",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and a third-party claim generally must be filed within two years. Getting connected early helps you keep both windows open."
+      },
+      {
+        "title": "Retaliation is illegal, and the connection is free",
+        "desc": "Your employer cannot lawfully punish you for reporting an injury or filing a claim. LawProactive charges nothing to connect you, and network attorneys work on contingency, so there is no fee unless you recover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver on I-280 while making deliveries for my Daly City employer. Do I only have workers' comp?",
+        "answer": "Not necessarily. Because you were working, workers' compensation should cover your medical care and part of your lost wages no matter who caused the crash. Since the other driver is a third party rather than your employer, you may also have a separate injury claim against that driver, which can include damages workers' comp doesn't pay. An attorney can evaluate both tracks together so they don't work against each other."
+      },
+      {
+        "question": "Can I sue my employer directly for an injury at work in California?",
+        "answer": "In most situations, no. Workers' compensation is the exclusive remedy against your employer regardless of fault, which means you receive benefits without proving negligence but generally give up the right to sue them. The exception is when someone other than your employer contributed to the injury — for example, a subcontractor on a shared job site or the maker of a defective machine. Those parties can be pursued separately."
+      },
+      {
+        "question": "How quickly do I need to report a workplace injury in Daly City?",
+        "answer": "Tell your employer within 30 days, ideally in writing, even if the injury seems minor at first. Waiting longer can jeopardize your workers' compensation benefits. If a third party was involved, that separate claim carries a two-year deadline, but evidence like surveillance footage or a police report from San Mateo County can disappear much sooner, so acting promptly protects you."
+      }
+    ]
+  }
+}

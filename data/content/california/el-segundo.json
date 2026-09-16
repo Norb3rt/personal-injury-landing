@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "el-segundo city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Segundo, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in El Segundo? Free connection to an independent LA County attorney. 2 years to file, no fee unless you win. Get help now."
+  },
+  "hero": {
+    "subtitle": "Whether it's whiplash from a rear-end crash on Sepulveda or a broken bone from a fall, we connect you free of charge with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in El Segundo, California",
+    "longDescription": "El Segundo is a small coastal city, but its roads carry heavy daily traffic — commuters cutting through on Sepulveda Boulevard, drivers merging off Pacific Coast Highway, and cars crossing Imperial Highway near the airport corridor. In the most recent full year of public data, the city recorded 85 injury collisions, with 106 people hurt and 2 lives lost. Douglas Street also sees steady traffic tied to nearby office parks and industrial sites. Crashes here tend to cluster on Wednesday evenings between 5 and 7 p.m., a pattern likely tied to end-of-week commute volume. If you were hurt in one of these collisions, sorting out medical bills, lost wages, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — that connects injured people in El Segundo with an independent personal injury attorney who can review what happened and explain your options. There's no fee unless the attorney recovers compensation for you. Reaching out costs nothing and there's no obligation to move forward if it's not the right fit.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and road rash",
+      "Torn ligaments and soft-tissue damage"
+    ],
+    "ctaText": "Connect free with an independent attorney today."
+  },
+  "whyChoose": {
+    "title": "Why It Helps to Act Early",
+    "items": [
+      {
+        "title": "The clock is running",
+        "desc": "California generally gives you 2 years from the date of injury to file a claim, but that window shrinks to as little as 6 months for claims against a government entity. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Shared fault doesn't shut you out",
+        "desc": "Under California's pure comparative fault rule, you can still recover compensation even if you were partly responsible for the crash. Your recovery is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "title": "No ceiling on pain and suffering claims",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in ordinary injury cases. That means your compensation isn't limited to medical bills and lost wages alone."
+      },
+      {
+        "title": "You risk nothing upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no hourly billing and no fee unless your case results in a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Not knowing if you waited too long to take action",
+      "Fearing you won't be taken seriously because you were partly at fault"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney at no cost. If you move forward and the attorney takes your case, they work on contingency, meaning there's no fee unless you recover compensation."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Generally, you have 2 years from the date of the injury to file a personal injury claim in California. If your claim involves a government entity, such as a city vehicle, the deadline can be as short as 6 months, so it's wise to act quickly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some responsibility for the crash. Your total recovery is reduced by your percentage of fault rather than denied outright."
+      },
+      {
+        "question": "Where do injury collisions tend to cluster in El Segundo?",
+        "answer": "Public crash records show higher collision counts along Pacific Coast Highway, Sepulveda Boulevard, Imperial Highway, and Douglas Street, with reports also peaking on Wednesdays between 5 and 7 p.m. These are neutral counts from public records, not a judgment about any road's safety."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in standard personal injury cases. An independent attorney can help you understand what factors into that portion of a claim."
+      }
+    ]
+  }
+}

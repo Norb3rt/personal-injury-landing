@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "burbank city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Burbank, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Burbank? LawProactive connects Los Angeles County residents with an independent injury attorney for free. 2 years to file; no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a freeway collision, a fall on a store floor, or a dog bite left you hurt, LawProactive connects you with an independent personal injury attorney at no cost to you. Serving Burbank and all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Burbank, California",
+    "longDescription": "Burbank keeps a steady rhythm: commuters funneling onto I-5 (the Golden State Freeway), crews heading in and out of the studio lots, families running errands along Glenoaks Boulevard. Most days pass without incident. In 2025, though, public records logged 209 injury collisions in the city, leaving 297 people hurt. No one died on Burbank streets that year, which is worth noting, yet hundreds still went home with injuries that reshaped their next several months. Collision counts run highest along I-5, SR-134 (the Ventura Freeway), and Glenoaks Boulevard, and reports tend to climb on Friday evenings between 5 and 7 p.m., as the workweek lets out. If you were hurt in a crash, a fall on someone else's property, or by a dog that got loose, you probably have questions you would rather not sort through alone. That is where LawProactive fits in. We are a free service, not a law firm. We do not give legal advice or handle cases; we connect Burbank residents with an independent personal injury attorney who does. Those attorneys work on contingency, meaning no fee unless your case ends in a recovery. California allows two years for most injury claims, and less when a government entity is involved, so an early conversation keeps your options open.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Burbank Residents",
+    "commonInjuries": [
+      "Whiplash and soft-tissue neck strain",
+      "Concussions and other head trauma",
+      "Fractured wrists, ribs, and collarbones",
+      "Herniated discs and lower back injuries",
+      "Road rash and deep lacerations",
+      "Knee and shoulder ligament tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Burbank Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window",
+        "desc": "California generally gives you two years from the injury to file a lawsuit, but claims against a city, county, or state agency can require notice in as little as six months. Starting early protects that timeline."
+      },
+      {
+        "title": "Being partly at fault does not shut the door",
+        "desc": "California follows pure comparative fault. If you share some blame, your recovery is reduced by your percentage, but you are not barred from recovering."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California places no statutory limit on non-economic damages such as pain, lost enjoyment of life, and emotional distress."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in our network work on contingency. You pay nothing up front, and there is no attorney fee unless your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "I can't work right now, and the bills keep arriving.",
+      "The other driver's insurer wants a recorded statement, and I don't know what to say.",
+      "I was partly at fault, so I assume I have no case.",
+      "I don't have money to hire a lawyer up front."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match injured people in Burbank with an independent personal injury attorney, and that attorney, not us, handles your case and gives legal advice."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "Most injury claims carry a two-year statute of limitations from the date of the injury. If a government entity is involved, such as a city vehicle or a hazard on public property, you may need to file an administrative claim within six months. Missing these deadlines can end a claim, so it pays to ask early."
+      },
+      {
+        "question": "Where do collisions in Burbank tend to happen?",
+        "answer": "Public-record counts for Burbank show the highest collision volume along I-5 (the Golden State Freeway), SR-134 (the Ventura Freeway), and Glenoaks Boulevard. Reports tend to peak on Fridays between 5 and 7 p.m. These are neutral counts reflecting traffic volume, not a judgment about any road."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses pure comparative fault. Your recovery is reduced by whatever share of blame is assigned to you, but even a large share does not eliminate your right to recover. An attorney can walk through how fault might be assessed in your situation."
+      },
+      {
+        "question": "What does it cost to speak with an attorney through LawProactive?",
+        "answer": "Nothing. Our connection is free, and the attorneys in our network work on contingency. That means no fee unless your case results in a recovery, and no up-front charge to get started."
+      }
+    ]
+  }
+}

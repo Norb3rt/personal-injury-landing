@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "oxnard city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oxnard, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Oxnard? Connect free with an independent Ventura County injury attorney. 2 years to file in California. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Oxnard Boulevard, a fall at a store, or a bicycle collision near the beach, we connect you at no cost with an independent injury attorney serving Ventura County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Oxnard, California",
+    "longDescription": "Oxnard stretches from farm fields to the Pacific, and most of its daily traffic funnels through a few familiar streets: Saviers Road, Oxnard Boulevard, Rose Avenue, and Ventura Road. Public collision records list those four corridors with the highest crash counts in the city. During 2025, Oxnard logged 857 injury collisions, 1,289 people were hurt, and 8 people lost their lives on local roads. Reports tend to climb on Friday evenings between 5 and 7 p.m., when commuters, delivery drivers, and weekend traffic share the same lanes. Behind every one of those figures is a person coping with pain, missed shifts, and calls from an insurance adjuster. If that is where you find yourself, LawProactive can help you take a first step. We are a free service, not a law firm. We do not give legal advice or handle claims. What we do is connect you with an independent personal injury attorney who serves Ventura County and can look at what happened to you. There is no charge to be connected, and attorneys in our network work on contingency, meaning you owe no attorney fee unless your case ends in a recovery. Ask your questions, learn your options, and decide what feels right for you.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Oxnard",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from motorcycle and bicycle crashes",
+      "Concussions and other head injuries",
+      "Back and spinal injuries after high-speed impacts",
+      "Slip-and-fall injuries at stores and apartment complexes",
+      "Dog bites and animal-related wounds"
+    ],
+    "ctaText": "Get connected with an Oxnard-area injury attorney for free"
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Oxnard Claim",
+    "items": [
+      {
+        "title": "The clock runs two years, sometimes less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, you may have as little as six months to file a claim, so early action matters."
+      },
+      {
+        "title": "Partial fault does not shut you out",
+        "desc": "California follows pure comparative fault. Even if you were partly responsible for a crash on Rose Avenue or anywhere else, you can still recover, with your share reduced by your percentage of fault."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "California does not limit non-economic damages such as pain, suffering, and loss of enjoyment of life in typical injury cases. An attorney can explain how these losses are evaluated."
+      },
+      {
+        "title": "You pay nothing up front",
+        "desc": "Attorneys in our network work on contingency. There is no attorney fee unless your case results in a recovery, and our connection service is free."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "Medical bills are piling up while I can't work my shift.",
+      "I might have been partly at fault and worry that ruins my claim.",
+      "I've never talked to a lawyer and can't afford to pay one up front."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Oxnard?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date you were hurt. If your claim involves a government entity, such as a city bus or a poorly maintained public road, you may need to file a formal claim within six months. Because these deadlines are strict, it helps to speak with an attorney soon after the injury."
+      },
+      {
+        "question": "Where do crashes cluster in Oxnard, according to public records?",
+        "answer": "Public collision counts show the highest volumes along Saviers Road, Oxnard Boulevard, Rose Avenue, and Ventura Road. In 2025 the city recorded 857 injury collisions and 1,289 people injured, with reports tending to peak on Fridays between 5 and 7 p.m. These are neutral counts from public records and simply reflect where traffic and collisions are most frequently reported."
+      },
+      {
+        "question": "What if I was partly to blame for the accident?",
+        "answer": "California uses pure comparative fault, which means being partly responsible does not bar you from recovering. Your compensation is reduced by your percentage of fault, but you can still pursue a claim. An attorney can help you understand how fault might be assigned in your situation."
+      },
+      {
+        "question": "How much does it cost to use LawProactive or hire an attorney?",
+        "answer": "LawProactive is completely free to use. We connect you with an independent attorney, and the attorneys in our network work on contingency, so there is no attorney fee unless your case results in a recovery. You can ask about the exact fee terms during your first conversation."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not provide legal advice or represent clients. Our role is to put you in touch with an independent personal injury attorney serving Ventura County who can review your case directly."
+      }
+    ]
+  }
+}

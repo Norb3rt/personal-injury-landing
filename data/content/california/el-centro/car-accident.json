@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "el-centro car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Car Accident Help in El Centro, CA | LawProactive",
+    "metaDescription": "Injured in a car accident in El Centro? Get connected free with an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Imperial, 4th Street, Main, or La Brucherie left you hurt, LawProactive can connect you with an independent El Centro attorney at no upfront cost."
+  },
+  "about": {
+    "title": "El Centro Car Accident Claims",
+    "longDescription": "El Centro sees a steady stream of collisions on corridors like Imperial, 4th Street, Main, and La Brucherie, with public records showing 63 injury crashes and 83 people hurt in the most recent year, and reports tend to cluster on Friday afternoons between 1 and 3 p.m. That timing matters — it often means school pickup traffic, weekend errands, and commuters converging at once. Whatever the cause, the aftermath can be disorienting: medical bills arriving, an insurance adjuster calling, and questions about who's responsible piling up. LawProactive doesn't practice law ourselves; we're a free service that connects injured people in Imperial County with an independent personal injury attorney who can review the details and explain realistic options. There's no obligation to move forward, and no fee unless the attorney you're matched with recovers something for you.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Broken bones or fractures",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee joint injuries"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Already Running",
+        "desc": "You generally have two years from the crash date to file a car accident claim in California, but that window shrinks to as little as six months if a government vehicle or road defect is involved — something worth checking early given El Centro's public roadways."
+      },
+      {
+        "title": "Comparative Fault Can Reduce What You Recover",
+        "desc": "California lets you recover damages even if you're partly at fault, but your share of blame reduces the payout, so how the crash is documented matters from day one."
+      },
+      {
+        "title": "No Fee Unless There's a Recovery",
+        "desc": "Attorneys in the network work on contingency, meaning you pay nothing upfront and owe a fee only if your case results in a settlement or award."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurers sometimes use those statements to minimize what they owe, and details can be misconstrued. An independent attorney can advise you on how to communicate with adjusters."
+      },
+      {
+        "question": "What if my accident happened at a busy time, like Friday afternoon on Imperial or 4th Street?",
+        "answer": "Crash reports, traffic camera footage, and witness accounts can be harder to track down as time passes, especially at higher-traffic times and locations. Acting quickly to preserve evidence — photos, witness names, the police report number — can strengthen a claim. An attorney can help identify what evidence to gather."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and the independent attorneys in our network work on a contingency basis, so there's no fee unless they recover money on your behalf."
+      }
+    ]
+  }
+}

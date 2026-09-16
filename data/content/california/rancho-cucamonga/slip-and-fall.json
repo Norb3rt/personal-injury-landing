@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "rancho-cucamonga slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Slip & Fall Attorney in Rancho Cucamonga | LawProactive",
+    "metaDescription": "Hurt in a fall at a Rancho Cucamonga store, complex, or sidewalk? LawProactive connects you free with an independent premises liability attorney."
+  },
+  "hero": {
+    "subtitle": "A wet aisle off Foothill Boulevard, a broken stair at an apartment complex, an unlit walkway after dark — if a property hazard hurt you in Rancho Cucamonga, we can connect you at no cost with an independent attorney who handles premises liability claims."
+  },
+  "about": {
+    "title": "Rancho Cucamonga Slip & Fall Claims",
+    "longDescription": "Rancho Cucamonga is home to about 175,000 people, and much of daily life here happens on someone else's property: shopping centers along Foothill Boulevard, grocery stores, apartment communities, parking structures, restaurants, and gyms. When a person falls because of a spill left on the floor, a torn mat, uneven pavement, or a missing handrail, California premises liability law asks a specific question. Did the owner or operator know about the hazard, or should they have known, and did they fail to fix it or warn about it? Answering that question is where most of these cases are won or lost. Proof often lives in a manager's incident log, a cleaning schedule, or surveillance footage that stores may overwrite within days. Photographs of the exact spot, names of witnesses, and prompt medical care in San Bernardino County all help. LawProactive is not a law firm. We are a free service that links you with an independent attorney who works on contingency, so there is no fee unless your case recovers money.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and shoulder fractures",
+      "Concussions and head trauma",
+      "Knee ligament and meniscus tears",
+      "Lower back and spinal disc injuries",
+      "Tailbone and coccyx injuries"
+    ],
+    "ctaText": "Tell us what happened and get connected with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Fall Victims in Rancho Cucamonga Turn to LawProactive",
+    "items": [
+      {
+        "title": "Notice is the heart of your case",
+        "desc": "California requires proof that the property owner knew or reasonably should have known about the hazard. The attorney you're matched with focuses on finding that evidence early, before it disappears."
+      },
+      {
+        "title": "Video and records get preserved fast",
+        "desc": "Retail and apartment surveillance systems often record over footage in a matter of days. Prompt preservation letters and hazard documentation can make the difference between a claim with proof and one built on memory alone."
+      },
+      {
+        "title": "Deadlines and fault rules explained plainly",
+        "desc": "You typically have two years to file, but the window shrinks sharply if a city, county, or other public entity owns the property. California's pure comparative fault rule also means you can still recover even if you share some of the blame."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a public sidewalk in Rancho Cucamonga. Is the deadline different?",
+        "answer": "Yes, and this matters a great deal. When a public entity such as a city or county owns or maintains the property, a formal claim must be filed with that agency in a much shorter window than the standard two years for private property. Missing that step can end the case before it begins, so reach out as soon as you can."
+      },
+      {
+        "question": "The store says I wasn't paying attention. Can I still bring a claim?",
+        "answer": "Often, yes. California follows pure comparative fault, which means your recovery is reduced by whatever percentage of blame is assigned to you, but not eliminated. Distraction on your part does not excuse a hazard the owner should have addressed or warned about."
+      },
+      {
+        "question": "What should I do in the first few days after a fall?",
+        "answer": "Get medical care right away and ask for a copy of any incident report the business creates. Photograph the hazard, your footwear, and the surrounding area, and write down the names of anyone who saw what happened. Ask, in writing, that the property preserve surveillance video, since many systems overwrite footage quickly. An attorney can then send a formal preservation demand."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "mendota medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mendota Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Mendota, CA? Get connected free with an independent attorney who understands MICRA's rules and deadlines."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong at a Mendota-area medical facility, understanding your options shouldn't add to the stress. LawProactive connects Mendota residents with an independent attorney familiar with California's medical malpractice rules, free of charge."
+  },
+  "about": {
+    "title": "Mendota Medical Malpractice Claims",
+    "longDescription": "Mendota is a small farming community in Fresno County, and many residents travel outside city limits for specialized medical care, which can complicate a malpractice claim when providers and records are spread across different clinics or hospitals. If a delayed diagnosis, surgical mistake, medication error, or birth injury caused harm to you or a family member, California law gives you a limited window to act. Under MICRA, claims generally must be filed within one year of discovering the harm and no more than three years after the injury occurred, and a 90-day pre-suit notice to the provider is typically required before a lawsuit can move forward. These claims also demand a qualified medical expert to establish that the care fell below an accepted standard. LawProactive doesn't practice law itself, but we can connect you with an independent attorney who can review your medical records, explain your options, and help you understand whether a bad outcome was simply an unfortunate result or a sign that something went wrong. There's no cost to start this conversation.",
+    "commonInjuriesTitle": "Common Harms From Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosing or prescription mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Hospital-acquired infections from poor care"
+    ],
+    "ctaText": "Talk to an independent attorney about your medical care, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Mendota Families Turn to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Are Strict and Short",
+        "desc": "MICRA generally requires filing within one year of discovering the harm and no more than three years from the injury itself. Missing this window can end a claim before it starts, so early legal guidance matters."
+      },
+      {
+        "title": "Pre-Suit Notice Is Required",
+        "desc": "California law requires a 90-day notice to the healthcare provider before a malpractice lawsuit can be filed. An attorney familiar with this step can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Essential",
+        "desc": "A qualified medical expert almost always has to confirm that a provider's care fell below the accepted standard. The independent attorneys in our network work with experts who can evaluate whether that standard was actually met in your case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is every bad medical result considered malpractice?",
+        "answer": "No. California law recognizes that medicine involves risk, and a poor outcome by itself isn't proof of malpractice. A claim generally requires showing that a provider's care fell below an accepted medical standard, which is why a qualified expert's review is almost always necessary."
+      },
+      {
+        "question": "I live in Mendota but got treated at a hospital outside the city. Does that change anything?",
+        "answer": "It doesn't change your legal rights, but it can affect where records need to be gathered and which facility or provider is named in a claim. Many Mendota residents receive care at outside clinics or hospitals, and an attorney can help sort out which providers were involved and where notice needs to be sent."
+      },
+      {
+        "question": "How much time do I have to bring a claim after discovering an error?",
+        "answer": "Under MICRA, you generally have one year from when you discover the harm, but never more than three years from when the injury happened, whichever comes first. There's also a required 90-day notice period before filing suit, so it helps to start the process well before any deadline approaches."
+      }
+    ]
+  }
+}

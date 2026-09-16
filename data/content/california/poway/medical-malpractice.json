@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "poway medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Poway Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Poway? LawProactive connects you free with an independent attorney who handles California malpractice claims."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in Poway goes wrong, the aftermath can feel isolating and confusing. LawProactive helps you get connected, at no cost, with an independent attorney familiar with San Diego County medical malpractice cases."
+  },
+  "about": {
+    "title": "Poway Medical Malpractice Claims",
+    "longDescription": "Poway residents rely on a mix of local clinics, urgent care centers, and larger San Diego County hospital systems for their medical needs. Most visits go as expected, but when a provider misses a diagnosis, makes a surgical error, or mishandles medication, the consequences can follow a patient for years. California law treats these cases differently than a typical injury claim, with strict notice requirements and shorter timelines than many people expect. If you believe your care in Poway fell below an acceptable standard, it helps to talk with someone who understands how these claims are built and what evidence matters. LawProactive doesn't practice law itself; instead, we listen to what happened and connect you with an independent attorney in our network who takes cases like yours on contingency, meaning there's no fee unless they recover something for you.",
+    "commonInjuriesTitle": "Injuries That May Point to Malpractice",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to treat or monitor a known condition"
+    ],
+    "ctaText": "Talk with someone about what happened — it costs nothing to ask."
+  },
+  "whyChoose": {
+    "title": "Why Poway Families Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding MICRA's Timeline",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to act. A 90-day pre-suit notice is also required, so early guidance matters."
+      },
+      {
+        "title": "Knowledge of the Damages Cap",
+        "desc": "Non-economic damages in California malpractice cases are capped by statute, though that cap rises annually. An attorney familiar with the current figure can help you understand what's realistic."
+      },
+      {
+        "title": "Access to Required Medical Review",
+        "desc": "California nearly always requires a qualified medical expert to support a malpractice claim. LawProactive connects you with attorneys who know how to secure and present that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is every bad medical outcome considered malpractice?",
+        "answer": "No. California law is clear that a poor result alone doesn't prove negligence occurred. There has to be evidence that the provider's care fell below the accepted standard, and that failure caused the harm. An attorney can help evaluate whether your situation meets that bar."
+      },
+      {
+        "question": "How much time do I have to bring a claim after treatment in Poway?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from when it happened, whichever comes first. There's also a 90-day notice requirement before a lawsuit can be filed. Because these deadlines are strict, it's worth getting guidance sooner rather than later."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, our service is free and there's no obligation. Attorneys in our network generally work on contingency, so they only get paid if your case results in a recovery."
+      }
+    ]
+  }
+}

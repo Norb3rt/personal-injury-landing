@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "huron workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Huron Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Huron, CA? Get connected free with an independent attorney who handles workers' comp and third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "Whether you work the fields around Huron or a job site along Lassen Avenue, a workplace injury can upend your paycheck and your health at the same time. LawProactive connects you at no cost with an independent attorney who can look at your options beyond a standard workers' comp claim."
+  },
+  "about": {
+    "title": "Huron Workplace Injury Claims",
+    "longDescription": "Huron's economy runs on agricultural work, packing operations, and the trucks and equipment that move product along Lassen Avenue, Palmer Avenue, and 4th Street. Those same jobs come with real risks — falls from ladders and loading docks, injuries from machinery, and repetitive strain from long hours in the fields or packing lines. In California, workers' compensation usually pays for medical care and lost wages no matter who was at fault, but it typically doesn't cover pain and suffering, and it isn't your only path if someone outside your employer — a contractor, equipment manufacturer, or another driver — contributed to the accident. LawProactive doesn't practice law or handle claims directly. We're a free connection service that puts Huron workers in touch with an independent personal injury attorney who can review what happened, explain whether a third-party claim might apply alongside workers' comp, and help you understand your options without any upfront cost or obligation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, docks, or scaffolding",
+      "Machinery and equipment-related injuries",
+      "Repetitive strain from packing or field labor",
+      "Vehicle and forklift collisions on the job",
+      "Chemical or pesticide exposure incidents",
+      "Heat-related illness from outdoor field work"
+    ],
+    "ctaText": "Get connected with an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Huron Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Beyond Workers' Comp",
+        "desc": "If a subcontractor, equipment maker, or another driver contributed to your injury, California law allows a separate claim against that third party even while you receive workers' comp benefits."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to punish you for reporting a workplace injury, and an attorney can help you understand what protections apply if you feel pressured."
+      },
+      {
+        "title": "Clear Deadlines, Clearly Explained",
+        "desc": "You generally have 30 days to report an injury to your employer and up to two years to pursue a third-party injury claim, so getting connected early matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a farm job near Huron — does workers' comp cover me?",
+        "answer": "Most California employees are covered by workers' compensation regardless of fault, including many agricultural workers. An independent attorney can review your specific job setup, since coverage details vary by employer and work arrangement."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury?",
+        "answer": "Generally no — workers' compensation is usually the exclusive remedy against your employer, even if they were careless. However, if a separate party like an equipment manufacturer or subcontractor caused or contributed to your injury, a third-party claim may be possible alongside your workers' comp benefits."
+      },
+      {
+        "question": "What if my injury happened driving on Lassen Avenue or Palmer Avenue for work?",
+        "answer": "Work-related vehicle incidents on roads like Lassen Avenue or Palmer Avenue can involve both a workers' comp claim and a potential third-party claim if another driver was involved. An independent attorney can look at the details and explain which options may apply to your situation."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing upfront. LawProactive is a free service, and attorneys in our network typically work on contingency, meaning there's no fee unless there's a recovery."
+      }
+    ]
+  }
+}

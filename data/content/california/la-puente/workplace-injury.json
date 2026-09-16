@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "la-puente workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Puente Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in La Puente? Get connected free to an independent attorney who handles third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "Workers across La Puente's warehouses, shops, and job sites along Hacienda Boulevard and Amar Road get injured on the clock every year. If someone other than your employer contributed to your injury, you may have options beyond workers' comp — and LawProactive can connect you with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "La Puente Workplace Injury Claims",
+    "longDescription": "La Puente's mix of light industrial yards, retail centers, and delivery routes near Valley Boulevard and Temple Avenue means workplace injuries happen in warehouses, parking lots, and on the road. In most cases, California law channels an injured worker's claim through workers' compensation, which pays medical care and partial wages regardless of who was at fault. But when a subcontractor, equipment manufacturer, property owner, or another driver's negligence contributed to the incident, a separate third-party claim can sometimes be pursued alongside your comp benefits. LawProactive doesn't practice law or charge fees — we simply listen to what happened, then connect you with an independent personal injury attorney familiar with these overlapping claims. That attorney can review your situation and explain whether a third-party case might apply, all on a contingency basis, so you owe nothing unless there's a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Forklift and loading-dock accidents",
+      "Falls from ladders or unguarded platforms",
+      "Repetitive strain and lifting injuries",
+      "Crush or caught-in-machinery injuries",
+      "Vehicle collisions while driving for work",
+      "Injuries from defective tools or equipment"
+    ],
+    "ctaText": "Tell us what happened — it costs nothing to find out where you stand."
+  },
+  "whyChoose": {
+    "title": "Why La Puente Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Look Beyond the Comp Claim",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker can still be held responsible separately."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires notifying your employer within 30 days of a workplace injury, so we help route your case quickly to someone who can advise on next steps."
+      },
+      {
+        "title": "Retaliation Isn't Legal",
+        "desc": "You're protected from employer retaliation for reporting an injury, and an independent attorney can explain those protections if you're worried about speaking up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I still file a claim if I already reported my injury through workers' comp?",
+        "answer": "Yes, workers' comp and a third-party claim can sometimes move forward at the same time. Comp covers medical bills and wage loss regardless of fault, while a separate claim against a negligent third party addresses damages comp doesn't cover. An independent attorney can look at your specific facts to see if that applies."
+      },
+      {
+        "question": "I was hurt driving for my job near Amar Road — does that count as a workplace injury?",
+        "answer": "It might qualify as both a workplace injury and a vehicle collision claim, especially if another driver caused the crash. La Puente sees a steady number of injury collisions along corridors like Amar Road and Hacienda Boulevard, and a work-related crash caused by someone else could open up a third-party claim in addition to comp benefits."
+      },
+      {
+        "question": "What if my employer discourages me from reporting the injury?",
+        "answer": "Retaliation against an employee for reporting a workplace injury is illegal in California. If you're facing pressure not to report, it's worth speaking with an independent attorney who can explain your rights and the 30-day reporting window before it closes."
+      }
+    ]
+  }
+}

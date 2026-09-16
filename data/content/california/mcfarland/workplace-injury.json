@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "mcfarland workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "McFarland Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in McFarland? Get connected free to an independent attorney who handles workers' comp and third-party claims in Kern County."
+  },
+  "hero": {
+    "subtitle": "When a shift on an Elmo Highway job site or a Garzoli Avenue worksite ends in an injury, McFarland workers need clear answers, not more confusion. LawProactive connects you free with an independent attorney familiar with Kern County workplace claims."
+  },
+  "about": {
+    "title": "McFarland Workplace Injury Claims",
+    "longDescription": "McFarland's economy leans heavily on agriculture, trucking, and the industrial corridors near SR-99 and Driver Road, and injuries on these job sites are common — from equipment accidents to falls to vehicle collisions during work duties. California generally requires injured workers to go through workers' compensation rather than sue their employer directly, but that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate claim against that third party outside the workers' comp system. Understanding which path applies — or whether both apply — matters, and getting it wrong can cost you money or time you don't have. LawProactive doesn't practice law or promise results; we simply connect you, at no cost, with an independent attorney who can look at your specific McFarland workplace injury and explain your options clearly.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connections For",
+    "commonInjuries": [
+      "Farm and agricultural equipment injuries",
+      "Falls from ladders, scaffolding, or elevated platforms",
+      "Vehicle collisions during work duties on SR-99 or Elmo Highway",
+      "Repetitive strain and overexertion injuries",
+      "Machinery entanglement or crush injuries",
+      "Chemical or pesticide exposure incidents"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why McFarland Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help You Spot Third-Party Claims",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party — like a subcontractor or another driver — can still be held separately liable. An attorney can help you determine if that applies to your McFarland injury."
+      },
+      {
+        "title": "We Know Reporting Deadlines Matter",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days. Missing that window can jeopardize your workers' comp claim, so getting guidance quickly is important."
+      },
+      {
+        "title": "We Understand Retaliation Protections",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a claim. If you're worried about your job, an independent attorney can explain your rights before you decide anything."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I sue my employer directly if I'm hurt on the job in McFarland?",
+        "answer": "Usually not — California workers' compensation is typically the exclusive remedy against your employer, regardless of fault. However, if a third party, like an equipment manufacturer or another company's employee, contributed to the injury, you may have a separate claim against them. An independent attorney can review the facts of your situation to see what applies."
+      },
+      {
+        "question": "What if my injury happened on Elmo Highway or another busy McFarland corridor while working?",
+        "answer": "Work-related vehicle incidents on roads like Elmo Highway, SR-99, or Driver Road can involve both workers' comp and a possible third-party claim if another driver was at fault. Since McFarland saw a traffic death in the latest reporting year, these corridors do see serious incidents. An attorney can sort out which claims apply to your case."
+      },
+      {
+        "question": "How long do I have to report a workplace injury or file a claim?",
+        "answer": "You generally need to notify your employer within 30 days of the injury to protect your workers' comp rights. If a third-party claim is involved, California's statute of limitations for that type of injury claim is typically two years. Acting sooner rather than later helps preserve evidence and your options."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "wheatland city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Wheatland, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Wheatland, Yuba County? Free connection to an independent CA attorney. 2 years to file. No fee unless you win. Get help now."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on SR-65 or injured in a fall closer to home, LawProactive can connect you with an independent attorney at no cost. We serve people across Yuba County, including Wheatland, and there's never a fee to get matched."
+  },
+  "about": {
+    "title": "Personal Injury Help in Wheatland, California",
+    "longDescription": "Wheatland sits along Rt 65 and SR-65, with Spenceville Road and Wheatland Road feeding local traffic through town. In the most recent full year on record, Yuba County logged 17 injury collisions here that hurt 29 people — thankfully with no reported traffic deaths. Small numbers don't mean small consequences: a broken bone, a head injury, or months of physical therapy can upend a household regardless of how many other collisions happened that year. If you were hurt on one of these roads, or anywhere else in town, you probably have questions about medical bills, missed work, and what comes next. LawProactive is a free service — not a law firm — that connects injured people in Wheatland with an independent personal injury attorney who can review what happened. There's no cost to talk, and the attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. You don't have to figure this out on your own or guess at deadlines. A quick conversation can help you understand your options while the details are still fresh.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can require notice in as little as six months. Waiting too long can close the door on a claim entirely."
+      },
+      {
+        "title": "Partial Fault Doesn't Erase Your Claim",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no hourly bill and no retainer to worry about while you're healing."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills piling up after the crash",
+      "Fear that missing work will cost you your job or income",
+      "Uncertainty about whether the insurance company's offer is fair",
+      "Not knowing how much time you actually have to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We don't represent you directly, and there's no obligation to move forward after you're connected."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Generally, you have two years from the date of the injury to file a personal injury claim in California. If a government entity was involved, the window can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some blame. Your total recovery would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Wheatland?",
+        "answer": "Public collision records show activity concentrated along Rt 65, SR-65, Spenceville Road, and Wheatland Road, with reported crashes tending to peak on Fridays between 4 and 6 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I owe money if I talk to an attorney?",
+        "answer": "No. Connecting with an attorney through LawProactive is free, and attorneys in our network work on contingency — meaning they only get paid if they recover money for you. There's no upfront cost to have your situation reviewed."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "ione medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ione Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Ione, CA? Get connected free to an independent Amador County medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis was missed or a treatment went wrong at an Ione-area medical facility, LawProactive can connect you with an independent attorney who understands Amador County's limited network of hospitals and clinics."
+  },
+  "about": {
+    "title": "Ione Medical Malpractice Claims",
+    "longDescription": "Ione is a small community of about 7,000 people, and like much of Amador County, residents often travel outside city limits for specialized medical care. That distance can sometimes complicate follow-up treatment or delay recognition of an error, which matters when California law sets strict, short windows for filing a claim. Medical malpractice cases require showing that a provider's care fell below an accepted standard, not simply that a treatment didn't work out the way anyone hoped. Because these cases usually need a qualified medical expert to explain what should have happened, having someone review your medical records early can matter. LawProactive doesn't practice law or handle claims itself. Instead, we connect Ione residents who believe they were harmed by a medical provider with an independent attorney who can evaluate the records, timeline, and applicable law at no upfront cost.",
+    "commonInjuriesTitle": "Types of Harm We Commonly Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication dosage or prescription mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Ione Patients Should Know About California Malpractice Law",
+    "items": [
+      {
+        "title": "The Filing Window Is Short",
+        "desc": "California generally requires a malpractice claim within one year of discovering the harm, and never more than three years from the injury itself. An early conversation helps preserve your options before that clock runs out."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can be filed, California law requires sending the provider a 90-day notice of intent to sue. An attorney familiar with this step can make sure it's done correctly and on time."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "MICRA sets a statutory limit on non-economic damages, and that cap increases annually. An independent attorney can explain how the current cap applies to your specific situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How do I know if what happened to me counts as malpractice?",
+        "answer": "A bad medical outcome by itself isn't automatically malpractice under California law. It generally has to be shown that a provider's care fell below the accepted standard and that this failure caused the harm. A qualified medical expert typically reviews the records to make that determination, which is why an early case review matters."
+      },
+      {
+        "question": "Ione doesn't have a large hospital — does that affect my claim?",
+        "answer": "It can affect where treatment happened and which providers or facilities may be involved, since many Amador County residents are referred to larger centers outside the city. An independent attorney can help sort out which providers are responsible and gather records from every facility involved."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and attorneys in the network generally work on contingency, meaning there's no fee unless you recover compensation. There's no obligation to move forward after the initial conversation."
+      }
+    ]
+  }
+}

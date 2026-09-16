@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "bakersfield product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bakersfield Product Liability Lawyer | LawProactive",
+    "metaDescription": "Injured by a defective product in Bakersfield? LawProactive connects you with an independent Kern County product liability attorney for free."
+  },
+  "hero": {
+    "subtitle": "A defective tool, vehicle part, appliance, or medication can turn an ordinary day in Bakersfield upside down. LawProactive connects Kern County residents with an independent product liability attorney at no cost."
+  },
+  "about": {
+    "title": "Bakersfield Product Liability Claims",
+    "longDescription": "Bakersfield runs on equipment. Oilfield tools, agricultural machinery, pickup trucks, backyard grills, space heaters for cold Kern County mornings — most of it works exactly as promised. When a product doesn't, the harm can be sudden and serious. California treats these cases differently from an ordinary negligence claim. Under strict liability, you generally do not have to prove the manufacturer was careless. You need to show the product had a defect in its design, its manufacturing, or its warnings, and that the defect caused your injury. That shift matters for a family recovering at home off Ming Avenue or White Lane while medical bills arrive. The chain of responsibility can also be broader than people expect: the company that built the product, the distributor that shipped it, and the Bakersfield retailer that sold it may all share liability. LawProactive is a free service that connects injured people with an independent product liability attorney. We are not a law firm, and network attorneys work on contingency — no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Commonly Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, heaters, or appliances",
+      "Crush and amputation injuries from machinery or power tools",
+      "Head and spinal injuries when airbags, seatbelts, or tires fail",
+      "Lacerations from broken blades, guards, or housings",
+      "Illness or organ damage from recalled medications and medical devices",
+      "Choking, poisoning, or falls tied to unsafe children's products"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney — free."
+  },
+  "whyChoose": {
+    "title": "Why Bakersfield Residents Use LawProactive for Product Cases",
+    "items": [
+      {
+        "title": "Strict liability changes the question",
+        "desc": "In California you generally don't have to prove the maker was negligent — only that the product was defective and that the defect hurt you. An attorney who handles these claims knows how to frame a design, manufacturing, or warning defect."
+      },
+      {
+        "title": "The product itself is the evidence",
+        "desc": "Keeping the failed heater, tire, tool, or packaging — unrepaired and unaltered — can be the difference between a clear claim and a disputed one. The attorney you're connected with can advise on preserving it right away."
+      },
+      {
+        "title": "More than one company may owe you",
+        "desc": "Manufacturers, distributors, and retailers can all be held responsible under California law. A product liability attorney can trace that supply chain from the Bakersfield store shelf back to the factory."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "A tire or airbag failed during my crash on Panama Lane. Is that a car accident case or a product case?",
+        "answer": "It can be both. Bakersfield recorded 1,436 injury collisions in 2025, and some of those involve a vehicle component that did not perform as designed. If a defect contributed to your injuries, a strict liability claim against the manufacturer may exist alongside any claim against another driver. Do not have the vehicle repaired or scrapped before an attorney can look at it."
+      },
+      {
+        "question": "Do I have to prove the manufacturer did something wrong?",
+        "answer": "Usually not. California product liability often runs on strict liability, meaning you generally need to show the product was defective in its design, manufacturing, or warnings and that the defect caused your injury. Whether the company was careful or careless is not the central question. That said, gathering the product, receipts, and medical records early still matters a great deal."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Keep it, along with any packaging, manuals, and proof of purchase, and store it somewhere it won't be altered or thrown away. Photograph it as it is now, including any damage. Resist the urge to return it to the retailer or send it back to the manufacturer before speaking with an attorney, since the item itself is often the core of the claim."
+      }
+    ]
+  }
+}

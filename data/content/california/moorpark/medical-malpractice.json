@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "moorpark medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Moorpark Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Moorpark? Get connected free to an independent attorney who handles California MICRA malpractice claims."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong at a Moorpark clinic or hospital, sorting out what happened can feel overwhelming. LawProactive can connect you at no cost with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Moorpark Medical Malpractice Claims",
+    "longDescription": "Moorpark residents rely on a mix of local clinics and larger Ventura County medical centers for everything from routine care to emergency treatment. Most visits go fine, but when a provider misses a diagnosis, makes a surgical error, or mismanages medication, the effects can follow a patient for years. California law treats these cases differently than a typical injury claim — there are strict notice requirements, tight filing deadlines, and a legal standard that requires showing a provider fell below the accepted standard of care, not just that the outcome was disappointing. That's why an early conversation with someone who understands MICRA and its procedural traps matters. LawProactive doesn't practice law or take a cut of any recovery; we simply connect Moorpark residents with an independent attorney who can review medical records, consult with a qualified expert, and explain whether a claim is worth pursuing. There's no cost to start that conversation and no obligation to move forward.",
+    "commonInjuriesTitle": "Situations We See",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Birth injuries to mother or newborn",
+      "Medication or dosage errors",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Makes Malpractice Claims Different",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives one year from when the injury is discovered, capped at three years from the injury itself, plus a required 90-day pre-suit notice to the provider. Missing any part of that sequence can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Required",
+        "desc": "Because a bad outcome alone isn't proof of malpractice, a qualified medical expert almost always has to weigh in on whether care fell below the accepted standard. An attorney familiar with this process can help line up that review early."
+      },
+      {
+        "title": "Damages Caps That Shift Yearly",
+        "desc": "California places a statutory cap on non-economic damages in these cases, and that cap adjusts annually. Understanding how it applies to a specific claim is something an attorney experienced in MICRA cases can walk through with you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Moorpark?",
+        "answer": "Under MICRA, it's generally one year from when you discover the injury, and no more than three years from the date it happened, whichever comes first. There's also a required 90-day notice to the provider before a lawsuit can be filed, so the practical deadline is often earlier than people expect. An attorney can help pin down exact dates based on your medical records."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No — California law requires showing the provider's care fell below the accepted medical standard, not just that the result was poor. This is why a qualified medical expert typically reviews the records before a claim moves forward. Many disappointing outcomes happen even when providers acted appropriately."
+      },
+      {
+        "question": "Which providers in the Moorpark area might a claim involve?",
+        "answer": "Claims can involve local clinics, urgent care visits, or larger Ventura County hospital systems that Moorpark residents commonly use for surgery, imaging, or specialist care. The specific facility doesn't change the legal standard, but it can affect how records are gathered and reviewed. An independent attorney can help identify what documentation is needed."
+      }
+    ]
+  }
+}

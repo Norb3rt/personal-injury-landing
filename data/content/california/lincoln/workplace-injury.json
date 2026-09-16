@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "lincoln workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lincoln, CA Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Lincoln, CA? Free connection to an independent attorney for workers' comp and third-party injury claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Lincoln, from a warehouse near Twelve Bridges Drive to a job site off Joiner Parkway, we can connect you with an independent attorney who handles both workers' comp and third-party claims at no upfront cost."
+  },
+  "about": {
+    "title": "Lincoln Workplace Injury Claims",
+    "longDescription": "Lincoln has grown fast, and with that growth comes more construction crews, delivery routes, and retail operations along corridors like Lincoln Boulevard and Ferrari Ranch Road. When a worker gets hurt on the job here in Placer County, the path forward usually starts with a workers' compensation claim through the employer, since California generally treats that system as the exclusive remedy regardless of who was at fault. But that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate third-party claim may be possible alongside workers' comp. Sorting out which path applies, and whether more than one applies, takes a careful look at the facts. LawProactive doesn't practice law; we simply connect injured workers in Lincoln with an independent attorney who can walk through the options and explain what timelines and paperwork matter most.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connections For",
+    "commonInjuries": [
+      "Falls from ladders or scaffolding",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Injuries from defective tools or machinery",
+      "Construction site falls or struck-by incidents"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury options."
+  },
+  "whyChoose": {
+    "title": "Why Lincoln Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the 30-Day Report Window",
+        "desc": "California generally requires an injured worker to notify their employer within 30 days to preserve a workers' comp claim. An independent attorney can help make sure that step, and the paperwork behind it, is handled correctly."
+      },
+      {
+        "title": "Spotting a Third-Party Claim",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party, like a subcontractor, equipment maker, or another driver, can open the door to a separate injury claim. Recognizing when that applies can matter for what compensation is available."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "It's illegal for an employer to retaliate against a worker for reporting an injury or filing a claim. An attorney connected through LawProactive can help explain what protections apply if that becomes a concern."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working near Ferrari Ranch Road in a company vehicle. Does workers' comp still apply?",
+        "answer": "Generally yes, workers' comp is usually the exclusive remedy against your employer regardless of fault, even for a vehicle-related injury on the job. However, if another driver caused the crash, that driver may be a third party you can also pursue a separate claim against. An independent attorney can look at the specifics of the incident to sort out which claims might apply."
+      },
+      {
+        "question": "My employer says my injury isn't covered because I didn't report it fast enough. What now?",
+        "answer": "California generally expects an injury to be reported to the employer within 30 days, and missing that window can complicate a claim, but it doesn't automatically end your options. An independent attorney can review the timeline and circumstances to see what can still be done. It's worth having someone look at the details before assuming the claim is closed."
+      },
+      {
+        "question": "Can I be fired for filing a workers' comp claim in Lincoln?",
+        "answer": "No, retaliation against an employee for reporting a workplace injury or filing a workers' comp claim is illegal under California law. If you believe you've faced retaliation, an independent attorney can help explain what evidence matters and what steps might be available. This applies to workers across Placer County, not just larger employers."
+      }
+    ]
+  }
+}

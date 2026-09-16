@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "live-oak city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Live Oak, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Live Oak, Sutter County? Free connection to an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or workplace accident left you hurt in Live Oak, we can connect you with an independent personal injury attorney free of charge, serving families throughout Sutter County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Live Oak, California",
+    "longDescription": "Live Oak may be a small Sutter County community, but its roads carry real daily traffic risk. Public records show 10 injury collisions in the most recent final crash year, with 10 people hurt on local streets. Corridors like Rt 99, Pennington Road, and Larkin Road see the heaviest reported collision counts, and crash reports tend to cluster on Thursday afternoons between 3 and 5 p.m., a window when work traffic, school pickups, and errands often overlap. If you were injured in one of these collisions, or in a fall, workplace incident, or another type of accident, sorting out next steps can feel overwhelming on top of dealing with pain, medical appointments, and missed work. LawProactive is a free service that connects injured people in Live Oak with an independent personal injury attorney — we are not a law firm, and we don't decide or handle your case ourselves. The attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and puts you in touch with someone who can review what happened and explain your options under California law.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft tissue damage",
+      "Knee and joint injuries from falls or impact"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Have Two Years — But Don't Wait",
+        "desc": "California generally gives injured people two years from the date of an accident to file a personal injury claim. Claims against a government agency can require notice in as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still pursue compensation — it's simply reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so you pay nothing upfront and owe no attorney fee unless your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling unsure whether you waited too long to take action",
+      "Fear that being partly at fault means you can't get help"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Live Oak?",
+        "answer": "California generally allows two years from the date of the accident to file a personal injury lawsuit. If your injury involved a government entity, such as a city road crew, the notice window can be as short as six months. It's wise to act sooner rather than later so evidence and records stay available."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so being partially responsible doesn't bar you from recovering compensation. Your recovery is simply reduced by your percentage of fault. An attorney can help evaluate how fault might be allocated in your situation."
+      },
+      {
+        "question": "Where do crashes tend to happen in Live Oak?",
+        "answer": "Public collision records show that reported injury crashes in Live Oak are concentrated along corridors such as Rt 99, Pennington Road, and Larkin Road, with reports also clustering on Thursday afternoons between 3 and 5 p.m. These are neutral public-record patterns, not a judgment about any road's safety."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases in California, there is no cap on non-economic damages like pain and suffering. Certain specialized cases, such as medical malpractice, can have different rules, which an attorney can explain."
+      },
+      {
+        "question": "What does it cost to speak with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in the network work on contingency, so you owe no fee unless they recover compensation for you."
+      }
+    ]
+  }
+}

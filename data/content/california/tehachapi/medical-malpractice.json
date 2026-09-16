@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "tehachapi medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tehachapi Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney serving Tehachapi and Kern County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or treatment in Tehachapi left you worse off, LawProactive can connect you with an independent attorney who handles medical malpractice cases across Kern County at no upfront cost.'"
+  },
+  "about": {
+    "title": "Tehachapi Medical Malpractice Claims",
+    "longDescription": "Tehachapi residents rely on a small pool of local clinics and often travel toward Bakersfield for specialized or hospital-level care, which means questions about who's responsible for a bad outcome can get complicated fast. Maybe a diagnosis was delayed, a medication mix-up happened, or a surgical complication went unaddressed. Whatever brought you here, sorting out whether it's ordinary risk versus malpractice under California law takes a careful look at your records. LawProactive doesn't practice law itself — we're a free service that connects people in Tehachapi with an independent, contingency-fee attorney who can review what happened, explain your options under California's MICRA rules, and tell you honestly whether you have a case worth pursuing. There's no obligation and no cost to find out. A bad outcome by itself isn't proof of a mistake, but you deserve a real answer, not a guess.",
+    "commonInjuriesTitle": "Situations We Help Connect You On",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or complications",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia errors",
+      "Failure to monitor a patient's condition"
+    ],
+    "ctaText": "Get connected with an independent malpractice attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Moves Faster Than You Think",
+        "desc": "California generally gives you one year from when you discovered the harm, and never more than three years from the injury itself, to bring a claim — so early review matters."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can even be filed, California law requires a 90-day notice to the healthcare provider, which affects how soon your case needs to get moving."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A qualified medical expert typically has to weigh in to support a malpractice claim, and the attorney you're connected with can help arrange that kind of evaluation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law recognizes that not every complication or disappointing result means a provider was negligent. An attorney would need to review whether the care fell below the accepted medical standard, which is why a proper case evaluation matters before assuming anything."
+      },
+      {
+        "question": "I live in Tehachapi but was treated in Bakersfield — does that matter?",
+        "answer": "It can affect where a claim is filed and which providers are involved, but it doesn't stop you from getting help. An independent attorney familiar with Kern County cases can sort out those details for you."
+      },
+      {
+        "question": "What does California's damages cap mean for my case?",
+        "answer": "MICRA places a cap on non-economic damages — things like pain and suffering — and that cap rises each year under current law. Economic damages, like medical bills and lost income, aren't limited the same way, and an attorney can walk you through how that applies to your situation."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network generally work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

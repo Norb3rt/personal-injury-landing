@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "los-banos slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Banos Slip & Fall Lawyer Help | LawProactive",
+    "metaDescription": "Hurt in a fall in Los Banos? Get connected free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Los Banos grocery store, gas station, or apartment complex can leave you with more than bruises — it can leave you with bills and questions about who's responsible. LawProactive connects you with an independent attorney who can look into what happened, free of charge."
+  },
+  "about": {
+    "title": "Los Banos Slip & Fall Claims",
+    "longDescription": "Los Banos sees steady foot traffic through its shopping centers, restaurants, and public buildings, many clustered near Rt 152 and Pacheco Boulevard. Wet floors, uneven pavement, poor lighting in a parking lot, or a spill left unattended can turn an ordinary errand into a painful injury. California law doesn't automatically hold a property owner responsible just because someone got hurt on their premises — you generally have to show the owner knew, or reasonably should have known, about the hazard and didn't fix it or warn people about it. That's why what happens right after a fall matters: photos of the scene, names of witnesses, and any store surveillance footage can make a real difference later. LawProactive doesn't practice law itself, but we can connect you, at no cost, with an independent attorney in Merced County who understands how these claims work and can help you sort out next steps.",
+    "commonInjuriesTitle": "Injuries We See in Slip & Fall Cases",
+    "commonInjuries": [
+      "Broken wrists, hips, or ankles from falls",
+      "Torn ligaments and sprains",
+      "Head injuries from hitting the floor or fixtures",
+      "Back and spinal injuries",
+      "Shoulder dislocations from bracing a fall",
+      "Facial or dental injuries from hard falls"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Documentation Matters in Los Banos Premises Cases",
+    "items": [
+      {
+        "title": "Notice Is the Whole Case",
+        "desc": "Under California law, you generally have to show the property owner knew or should have known about the hazard. An attorney can help track down maintenance logs, prior complaints, or inspection records that speak to that."
+      },
+      {
+        "title": "Surveillance Video Disappears Fast",
+        "desc": "Many Los Banos businesses overwrite security footage within days or weeks. Getting a preservation request out quickly can be the difference between having proof and having none."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Erase, Your Claim",
+        "desc": "California uses pure comparative fault, so even if you're found partly responsible for not seeing a hazard, you may still recover a reduced amount rather than nothing at all."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Los Banos?",
+        "answer": "In California, you generally have two years from the date of the fall to file a lawsuit for injuries. That window can be much shorter if the property involved is owned by a government entity, like a city building or public sidewalk, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I fell in a store parking lot near Rt 152 or Pacheco Boulevard?",
+        "answer": "Parking lots, sidewalks, and entryways are common trouble spots because of uneven pavement, potholes, or poor lighting. Ownership and maintenance responsibility can get complicated when multiple businesses share a lot, so an attorney can help figure out who's accountable."
+      },
+      {
+        "question": "Do I need proof the store knew about the hazard?",
+        "answer": "Generally, yes — California law requires showing the owner had notice of the dangerous condition, either because they created it, knew about it, or should have discovered it through reasonable inspection. Evidence like how long a spill sat there or prior complaints can help establish that."
+      }
+    ]
+  }
+}

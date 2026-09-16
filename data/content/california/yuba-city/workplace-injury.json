@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "yuba-city workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Yuba City Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Yuba City? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been injured working in Yuba City or Sutter County, LawProactive can connect you with an independent attorney who understands both workers' compensation and third-party claims at no cost to you."
+  },
+  "about": {
+    "title": "Yuba City Workplace Injury Claims",
+    "longDescription": "Yuba City's economy runs on agriculture, food processing, warehousing, and construction, and each of these industries carries its own set of on-the-job hazards. Workers hurt while operating machinery, driving delivery routes along Rt 99 or Garden Highway, or handling equipment at a processing facility often assume workers' comp is their only option. That's usually true against the employer, but California law allows a separate claim against a negligent third party, such as an equipment manufacturer, subcontractor, or property owner, if their negligence contributed to the injury. LawProactive doesn't practice law itself; we're a free service that listens to what happened and connects you with an independent attorney in our network who can sort out whether a third-party claim applies alongside any workers' comp benefits you're pursuing. There's no upfront cost, and attorneys in the network work on contingency, meaning fees only come from a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Back and spinal injuries from lifting or falls",
+      "Machinery and equipment-related crush injuries",
+      "Repetitive strain injuries from warehouse or processing work",
+      "Injuries from forklift or vehicle accidents on the job",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Chemical or agricultural exposure injuries"
+    ],
+    "ctaText": "Tell us what happened and get connected with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Injured Workers in Yuba City Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Third-Party Angle",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party, like a subcontractor or equipment maker, can still be liable. We help connect you with an attorney who can evaluate whether that applies to your situation."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury. If you're worried about your job while dealing with an injury, an attorney can explain your rights before you decide anything."
+      },
+      {
+        "title": "Clarity on Deadlines That Matter",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, while a third-party injury claim carries a separate two-year deadline. Missing either window can limit your options, so getting guidance early matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I already filed a workers' comp claim in Sutter County. Can I still pursue something else?",
+        "answer": "Possibly. Workers' comp typically covers your employer's liability regardless of fault, but if a third party, like a driver, contractor, or equipment company, contributed to your injury, you may have a separate claim. An independent attorney can review your situation and let you know if that path makes sense."
+      },
+      {
+        "question": "What if my injury happened on Rt 99 or Garden Highway while working?",
+        "answer": "If you were injured in a vehicle-related incident while performing job duties on corridors like Rt 99 or Garden Highway, you may have both a workers' comp claim and a potential third-party claim against another driver. These situations often overlap, which is exactly the kind of case an attorney in our network can help untangle."
+      },
+      {
+        "question": "How much does it cost to get connected through LawProactive?",
+        "answer": "Nothing upfront. LawProactive is a free service, and attorneys in our network typically work on contingency, meaning they only get paid if you recover compensation. You can ask questions and get guidance without any financial risk."
+      }
+    ]
+  }
+}

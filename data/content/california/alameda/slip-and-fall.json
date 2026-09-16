@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "alameda slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Alameda Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Alameda, CA? LawProactive connects you, free, with an independent premises liability attorney on contingency."
+  },
+  "hero": {
+    "subtitle": "If a wet floor, broken stair, or uneven walkway in Alameda left you hurt, LawProactive can connect you at no cost with an independent premises liability attorney. You focus on healing; we handle the introduction."
+  },
+  "about": {
+    "title": "Alameda Slip & Fall and Premises Liability Claims",
+    "longDescription": "A wet entryway along Park Street, a broken step at an apartment building off Lincoln Avenue, a cracked walkway outside a Central Avenue storefront — falls in Alameda tend to happen in ordinary places on ordinary days. Emergency visits, missed shifts, and questions about who is supposed to pay pile up quickly afterward. California law puts the focus on notice: to hold a property owner responsible, you generally need to show they knew about the hazard, or should have known, and did not fix it or warn you. That is why what you do in the first days matters so much. Photograph the spot, get names of anyone who saw it, and ask in writing that surveillance footage be saved before it is overwritten. LawProactive is not a law firm. We are a free service that connects Alameda residents with an independent premises liability attorney who handles cases on contingency, so there is no fee unless there is a recovery. One conversation can clarify whether you have a claim.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Alameda",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and shoulder injuries from bracing a fall",
+      "Concussions and other head injuries",
+      "Knee ligament and meniscus tears",
+      "Back and tailbone injuries",
+      "Cuts and bruising from hitting fixtures or pavement"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Alameda Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole ballgame",
+        "desc": "California asks whether the owner knew or should have known about the hazard. An attorney in our network can dig into inspection logs, maintenance records, and prior complaints to answer that question."
+      },
+      {
+        "title": "Deadlines are shorter than people expect",
+        "desc": "Most premises claims carry a two-year limit, but a fall on property owned by the City of Alameda, Alameda County, or another public entity triggers a much shorter claim window. Early contact keeps those options open."
+      },
+      {
+        "title": "Video disappears fast",
+        "desc": "Store and building cameras often record over footage within days. Attorneys in the network send preservation letters promptly so the evidence of the hazard is not lost."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a lifted sidewalk slab in Alameda. Who is responsible?",
+        "answer": "It depends on who owns and maintains that stretch of pavement — sometimes the adjacent property owner, sometimes the City of Alameda or another public agency. If a public entity is involved, California requires a formal government claim within roughly six months, far sooner than the usual two-year deadline. Photograph the slab with something for scale and note the nearest address so ownership can be traced quickly."
+      },
+      {
+        "question": "Does it hurt my case if I was looking at my phone when I fell?",
+        "answer": "Not necessarily. California uses pure comparative fault, which means a jury can assign you a share of responsibility and reduce your recovery by that percentage rather than eliminating it. The owner still has to answer for a hazard they knew about or should have caught."
+      },
+      {
+        "question": "The store manager said they would 'look into it.' Is that enough?",
+        "answer": "No. Ask in writing that all surveillance video from the area be preserved, and keep a copy of your request. Many systems overwrite footage within a week or two, and once it is gone, proving how long the hazard existed becomes much harder."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "montague medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Montague Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Montague, CA? Get matched free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or treatment goes wrong in Montague, the path forward can feel unclear. LawProactive connects you at no cost with an independent attorney who handles Siskiyou County medical malpractice claims."
+  },
+  "about": {
+    "title": "Montague Medical Malpractice Claims",
+    "longDescription": "Montague is a small Siskiyou County community, and many residents travel to nearby clinics or regional hospitals for care. When that care falls short — a missed diagnosis, a surgical mistake, a medication error — the effects ripple through a family that may already have limited local medical options. California law recognizes that a poor outcome by itself isn't proof of malpractice; what matters is whether a provider deviated from accepted medical standards and caused harm. These cases require a qualified medical expert to establish that standard and show how it was breached. Because Montague sits in a rural area, records and providers may be spread across multiple facilities, which makes early organization important. LawProactive doesn't practice law — we simply connect you, free of charge, with an independent attorney experienced in these claims. They can review what happened, explain your options, and help you understand realistic next steps without pressure or obligation.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We See",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "We Understand the MICRA Timeline",
+        "desc": "California generally gives you one year from discovering the harm, and no more than three years from the injury itself, plus a required 90-day pre-suit notice. Missing these windows can end a claim, so acting early matters."
+      },
+      {
+        "title": "Expert Review Is Built In",
+        "desc": "A qualified medical expert is almost always required to show a provider's care fell below the accepted standard. The attorneys in our network work with medical experts who can evaluate whether that standard was met."
+      },
+      {
+        "title": "No Upfront Cost, Ever",
+        "desc": "Attorneys we connect you with work on contingency, meaning there's no fee unless they recover money for you. That's true whether your claim touches the non-economic damages cap or focuses on economic losses."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover (or reasonably should have discovered) the injury, but no more than three years from the date it occurred. Before filing, California also requires a 90-day pre-suit notice to the provider. An attorney can help pinpoint your specific deadline based on your facts."
+      },
+      {
+        "question": "I live in Montague — does it matter that the hospital or clinic is outside town?",
+        "answer": "Not for your legal rights. Many Montague residents receive treatment at facilities elsewhere in Siskiyou County or beyond, and California malpractice law applies based on where the care was given and where you were harmed, not where you live. An independent attorney can help gather records from any facility involved."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law requires showing that a provider's care fell below the accepted medical standard and that this deviation caused your injury. A poor result alone, even a serious one, isn't enough without expert testimony connecting the two. That's why a qualified medical expert review is part of nearly every case."
+      }
+    ]
+  }
+}

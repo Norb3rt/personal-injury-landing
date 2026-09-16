@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "livermore workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Livermore Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Livermore? LawProactive connects you free with an independent attorney who can review workers' comp and third-party claim options."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Livermore? Workers' compensation may not be the whole story, and a free connection with an independent attorney can help you see every option."
+  },
+  "about": {
+    "title": "Livermore Workplace Injury Claims",
+    "longDescription": "Livermore's workday stretches across warehouses, construction sites, vineyards, delivery routes and offices, and a serious injury in any of them can upend a household fast. If you were hurt while working in Livermore, California's workers' compensation system is normally your route to medical care and partial wage replacement from your employer, and it applies whether or not anyone was at fault. That system, though, is usually the exclusive remedy against the employer itself. Many people don't realize a second path may exist: when a subcontractor, a property owner, the maker of a defective tool, or another driver on I-580 or Isabel Avenue caused the harm, a separate third-party injury claim can be considered alongside the comp case. Two rules matter early. Report the injury to your employer within 30 days, and know that the third-party claim carries a two-year deadline. Retaliation for reporting is illegal. LawProactive is a free service, not a law firm; we connect Alameda County workers with an independent attorney who can sort out which claims fit your situation.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Livermore Workplace Cases",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding or loading docks",
+      "Back, shoulder and knee injuries from lifting",
+      "Crush and amputation injuries from machinery",
+      "Burns and chemical or heat exposure",
+      "Repetitive strain and overuse conditions",
+      "Collisions while driving for work on I-580 or local roads"
+    ],
+    "ctaText": "Ask a free question about your Livermore work injury"
+  },
+  "whyChoose": {
+    "title": "Why Livermore Workers Reach Out Through LawProactive",
+    "items": [
+      {
+        "title": "Comp is not always the end of it",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but an independent attorney can check whether a subcontractor, property owner, equipment manufacturer or another driver opened the door to a separate claim."
+      },
+      {
+        "title": "Deadlines that are easy to miss",
+        "desc": "California expects you to report the injury to your employer within 30 days, and any third-party claim runs on a two-year clock. Getting connected early keeps both timelines in view."
+      },
+      {
+        "title": "Protection when you speak up",
+        "desc": "Retaliating against a worker for reporting an injury is illegal in California. The attorneys in our network handle cases on contingency, so there is no fee unless there is a recovery, and our connection service costs nothing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on I-580 while making deliveries for my Livermore employer. Is that just a workers' comp case?",
+        "answer": "Not necessarily. Because you were on the job, workers' compensation would typically cover your medical care and part of your lost wages regardless of fault. The other driver, however, is a third party, so a separate injury claim against them may also be possible. Livermore recorded 364 injury collisions in 2025, with reported crashes peaking on Fridays between 5 and 7 p.m., so on-duty drivers in this area do face this situation."
+      },
+      {
+        "question": "What happens if I wait too long to tell my employer I got hurt?",
+        "answer": "California asks you to report a work injury to your employer within 30 days. Waiting past that can complicate or weaken your workers' compensation claim, even if the injury is real. If the injury developed gradually, report it as soon as you connect it to your work. An attorney can explain how the timing rules apply to your facts."
+      },
+      {
+        "question": "Can my employer fire me for filing a claim after an injury in Livermore?",
+        "answer": "Retaliation for reporting a workplace injury or filing a workers' compensation claim is illegal in California. That includes firing, demoting, cutting hours or threatening you because you spoke up. If you believe this has happened, the attorney you are connected with can review whether you have additional claims beyond the injury itself."
+      }
+    ]
+  }
+}

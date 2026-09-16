@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "lakeport slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lakeport Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Lakeport? Get connected free to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall on someone else's property in Lakeport can leave you with medical bills and questions about who's responsible. We connect you, at no cost, with an independent attorney who handles premises liability cases around Lake County."
+  },
+  "about": {
+    "title": "Lakeport Slip & Fall & Premises Liability Claims",
+    "longDescription": "Lakeport is a small city, but that doesn't mean falls on poorly maintained property are rare. Wet floors at a Main Street shop, a cracked sidewalk near S Main Street, uneven parking lot pavement, or a poorly lit stairwell can all lead to serious injuries. Under California law, a property owner or business isn't automatically responsible just because someone got hurt — the injured person generally has to show the owner knew, or reasonably should have known, about the hazard and didn't fix it or warn people about it. That's why documenting the scene matters so much: photos of the hazard, witness names, and any store surveillance footage can make or break a claim. LawProactive doesn't handle your case directly. Instead, we connect you with an independent attorney in our network who can evaluate what happened, help preserve evidence before it disappears, and walk you through your options — all without charging you anything upfront.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fall Cases",
+    "commonInjuries": [
+      "Broken wrists, hips, or ankles",
+      "Head injuries and concussions",
+      "Torn ligaments or knee injuries",
+      "Shoulder dislocations from bracing a fall",
+      "Back and spinal injuries",
+      "Cuts or lacerations requiring stitches"
+    ],
+    "ctaText": "Get connected with an attorney about your fall — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Matters Most in a Lakeport Premises Case",
+    "items": [
+      {
+        "title": "Proving the Owner Knew or Should Have Known",
+        "desc": "California requires showing the property owner had actual or constructive notice of the hazard. An attorney can help gather evidence — like prior complaints or how long a spill sat there — to establish that notice."
+      },
+      {
+        "title": "Racing the Clock on Surveillance Footage",
+        "desc": "Stores and businesses often overwrite security video within days or weeks. Getting a preservation request out quickly can be the difference between having proof and having nothing."
+      },
+      {
+        "title": "Understanding Comparative Fault",
+        "desc": "California uses pure comparative fault, meaning your recovery can be reduced but not eliminated if you were partly careless too. An attorney can help present the facts in a way that fairly accounts for shared responsibility."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Lakeport?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit. If your fall happened on public property, like a city sidewalk in Lakeport, the deadline to file a claim against the government entity is much shorter. It's best to talk to an attorney as soon as possible so you don't lose your window."
+      },
+      {
+        "question": "What if I was partly at fault for my own fall?",
+        "answer": "California's pure comparative fault rule means you can still recover damages even if you share some blame, though your compensation may be reduced by your percentage of fault. For example, being distracted while walking doesn't automatically bar your claim. An attorney can help evaluate how fault might be allocated in your specific situation."
+      },
+      {
+        "question": "I fell at a store on Main Street in Lakeport — what should I do first?",
+        "answer": "Try to take photos of the hazard, get the names of any witnesses, and ask the business to preserve any surveillance footage before it's deleted. Report the fall to store management and get medical attention even if you feel okay at first. Then consider getting a free case review so an attorney can advise on next steps while evidence is still fresh."
+      }
+    ]
+  }
+}

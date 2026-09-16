@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "corona medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Corona Medical Malpractice Lawyer Match | LawProactive",
+    "metaDescription": "Hurt by a medical error in Corona? LawProactive is a free service connecting you with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care in Corona goes wrong, the questions come fast and the answers come slow. LawProactive connects you, at no cost, with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Corona Medical Malpractice Claims",
+    "longDescription": "Most people in Corona walk into a clinic, an urgent care, or an emergency room expecting to leave better than they arrived. Usually that is what happens. Sometimes it is not, and the harm traces back to a missed diagnosis, a medication mix-up, or a procedure that was not performed the way it should have been. Riverside County's medical system is busy, and Corona feeds a steady stream of patients into it. In 2025 alone, 735 injury collisions in the city left 981 people hurt, many of them arriving at local emergency departments along SR-91, I-15, and Main Street on Friday afternoons when collisions tend to peak. Those patients depend on accurate, timely care. California's MICRA rules shape how a malpractice case moves forward: a one-year discovery deadline capped at three years from the injury, a 90-day notice to providers before filing, and a requirement that a qualified medical expert review what happened. LawProactive is not a law firm. We are a free service that connects Corona residents with an independent attorney who can evaluate whether the care you received fell below the accepted standard.",
+    "commonInjuriesTitle": "Common Medical Malpractice Harms in Corona",
+    "commonInjuries": [
+      "Missed or delayed diagnosis",
+      "Surgical mistakes and retained instruments",
+      "Medication and dosing errors",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections tied to lapses in care"
+    ],
+    "ctaText": "Talk through your Corona medical care concern for free."
+  },
+  "whyChoose": {
+    "title": "Why Corona Residents Use LawProactive",
+    "items": [
+      {
+        "title": "Deadlines that start earlier than you think",
+        "desc": "MICRA generally gives you one year from when you discovered the harm, and never more than three years from the injury itself, plus a 90-day pre-suit notice. An attorney can map those dates against your Corona treatment timeline right away."
+      },
+      {
+        "title": "An expert opinion is nearly always required",
+        "desc": "A bad outcome by itself is not malpractice under California law. The attorneys in our network know how to get a qualified medical expert to review whether the standard of care was actually breached."
+      },
+      {
+        "title": "A cap that changes every year",
+        "desc": "California limits non-economic damages in malpractice cases, and that cap rises annually. Your attorney can explain how the current figure applies to your situation and pursue economic losses separately."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on the 91 in Corona and the emergency room missed a fracture. Is that malpractice?",
+        "answer": "Possibly, but it depends on whether a reasonably careful provider would have caught it under the same circumstances. A missed injury after a collision can support a claim if the standard of care was not met and the delay caused additional harm. An attorney will typically have a qualified physician review your records before deciding whether to proceed."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice claim in California?",
+        "answer": "Under MICRA, you generally have one year from the date you discovered, or reasonably should have discovered, the injury. There is also an outer limit of three years from the date the harm occurred. Before filing, a 90-day notice of intent must be sent to the provider, so it is wise to speak with an attorney early."
+      },
+      {
+        "question": "Does LawProactive charge me anything to connect with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm. The independent attorneys in our network work on contingency, meaning there is no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

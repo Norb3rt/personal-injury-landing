@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "nevada-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Nevada City, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Nevada City or Nevada County? Connect free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on SR-49 or suffered a fall or other injury, we'll connect you with an independent attorney serving Nevada County at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in Nevada City, California",
+    "longDescription": "Nevada City is a small foothill town, but its roads carry real traffic and real risk. In the most recent full year on record, Nevada County logged 11 injury collisions and 14 injured people on and around town, with no traffic deaths reported that year. Local corridors like SR-49, SR-20, and State Route 20 see the bulk of reported collisions, and crash reports tend to bunch up on Monday afternoons between 4 and 6 p.m., likely tied to commute and school-pickup traffic. If you were hurt in a wreck on one of these roads, or in a fall, dog bite, or other accident somewhere in town, sorting out what comes next can feel like a lot on top of recovering physically. That's where we come in. LawProactive is a free service — not a law firm — that connects injured people in Nevada City with an independent personal injury attorney who can look at the specifics of what happened. The attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and doesn't commit you to anything.",
+    "commonInjuriesTitle": "Common Injuries We See Referrals For",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from vehicle or pedestrian crashes",
+      "Traumatic brain injuries from falls or crashes",
+      "Herniated discs and back injuries",
+      "Cuts, bruises, and soft-tissue injuries from dog bites",
+      "Shoulder and knee injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline Is Real",
+        "desc": "Most injury claims in California must be filed within two years, but claims against a government agency can require notice in as little as six months. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't End Your Claim",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault. An attorney can help sort out how fault gets divided."
+      },
+      {
+        "title": "No Cap on What You Can Seek for Pain and Suffering",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in typical injury cases. That matters when an injury changes daily life, not just medical bills."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, meaning their fee comes only from money recovered on your behalf. There's no upfront cost to find out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing whether the insurance company's offer is fair",
+      "Feeling unsure if you waited too long to do anything about the crash",
+      "Wondering if being partly at fault means you have no case at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Nevada City?",
+        "answer": "In California, most personal injury claims must be filed within two years of the incident. If a government entity was involved — like a county road crew or a public bus — the deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover damages even if you share some responsibility. Your recovery would just be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Nevada City?",
+        "answer": "Public-record collision counts show SR-49, SR-20, and State Route 20 carry the highest volume of reported crashes in the area, with reports tending to peak on Monday afternoons between 4 and 6 p.m. These are neutral collision counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney — we are not a law firm and don't charge fees ourselves. Attorneys in our network work on contingency, so they only get paid if you receive a recovery."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In an ordinary California injury case, there's no cap on non-economic damages such as pain and suffering. The actual amount depends heavily on the specifics of your injury and case, which an attorney can help evaluate."
+      }
+    ]
+  }
+}

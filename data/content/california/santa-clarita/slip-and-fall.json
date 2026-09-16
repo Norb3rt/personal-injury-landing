@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "santa-clarita slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Slip & Fall Attorney in Santa Clarita, CA | LawProactive",
+    "metaDescription": "Hurt in a fall at a Santa Clarita store, apartment or parking lot? LawProactive connects you free with an independent premises liability attorney."
+  },
+  "hero": {
+    "subtitle": "A fall in a Santa Clarita shopping center, apartment complex or parking lot can turn an ordinary errand into months of recovery. LawProactive connects you, at no cost, with an independent attorney who handles California premises liability claims."
+  },
+  "about": {
+    "title": "Santa Clarita Slip & Fall and Premises Liability Claims",
+    "longDescription": "Santa Clarita spreads out along Soledad Canyon Road, Bouquet Canyon Road, McBean Parkway and Sierra Highway, and much of daily life here happens in the shopping centers, restaurants, apartment complexes and office parks that line those corridors. Falls happen there too: a wet entryway nobody cordoned off, an unmarked parking-lot pothole, a stair rail that gave way. Under California premises liability law, being hurt on someone else's property is not enough. You generally have to show the owner or operator knew about the hazard, or reasonably should have known, and failed to fix it or warn you. That word, notice, usually decides these cases, which is why what you do in the first days matters so much. Photograph the spot, keep your shoes and clothing, get names of anyone who saw it, and ask in writing that surveillance footage be saved before it is overwritten. LawProactive is a free service, not a law firm. We connect Santa Clarita residents with an independent attorney who handles premises cases on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Santa Clarita",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Broken wrists, arms and collarbones",
+      "Concussions and other head injuries",
+      "Herniated discs and lower-back injuries",
+      "Torn knee ligaments and ankle sprains",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent Santa Clarita premises liability attorney for a free consultation."
+  },
+  "whyChoose": {
+    "title": "Why Santa Clarita Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys who understand the notice requirement",
+        "desc": "California premises cases hinge on proving the property owner knew or should have known about the hazard. The attorneys in our network build that proof from inspection logs, maintenance records, prior complaints and video."
+      },
+      {
+        "title": "Help preserving evidence before it disappears",
+        "desc": "Store and apartment surveillance systems often record over footage within days or weeks. An attorney can send a written preservation demand quickly so the video of your fall is not lost."
+      },
+      {
+        "title": "Clear guidance on deadlines and shared fault",
+        "desc": "You generally have two years to file a premises liability lawsuit in California, but claims against a city or county carry a much shorter window. Under pure comparative fault, you can still recover even if you were partly to blame, with your share reduced accordingly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a cracked sidewalk or in a public park in Santa Clarita. Is the process different?",
+        "answer": "Yes. When the property belongs to the City of Santa Clarita, Los Angeles County or another public entity, you must usually file a formal government claim first, and that deadline is far shorter than the two-year limit for private property. Missing it can end your case before it starts, so it is worth talking with an attorney soon after the fall to confirm who owns the location."
+      },
+      {
+        "question": "The store manager said I should have been watching where I was going. Do I still have a claim?",
+        "answer": "Possibly. California uses pure comparative fault, which means a jury can assign a percentage of responsibility to you and still hold the property owner accountable for its share. Your recovery is reduced by your percentage rather than eliminated. The key question remains whether the owner knew or should have known about the hazard and failed to address it."
+      },
+      {
+        "question": "What should I do in the first few days after a fall at a business?",
+        "answer": "Get medical care first, then document everything you can: photos of the hazard, the lighting, any missing warning signs, and your footwear. Ask the business for an incident report and request in writing that surveillance video be preserved. Contact information for witnesses is also valuable, since memories and footage both fade quickly."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "san-jose slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Jose Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Injured in a fall on San Jose property? LawProactive connects you, free, with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A wet grocery aisle, a broken stair in a Santa Clara County apartment complex, a dim parking garage downtown: if a property hazard in San Jose put you on the ground, we can connect you with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "San Jose Slip & Fall and Premises Liability Claims",
+    "longDescription": "San Jose is home to more than a million people, and every day they move through stores, office lobbies, transit platforms, parking structures, and rental housing that someone else is responsible for maintaining. When that maintenance slips, people get hurt. Under California premises liability law, the question is usually not whether you fell but whether the owner knew, or reasonably should have known, about the hazard and failed to fix it or warn you. That notice element is where many San Jose claims are won or lost, so the details matter: how long the spill sat there, whether the handrail had been reported, whether lighting had been out for weeks. Property managers and insurers in Santa Clara County often move quickly to protect their side. LawProactive exists to help you move quickly too. We are a free service, not a law firm. Tell us what happened, and we will connect you with an independent personal injury attorney in our network who handles premises cases on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Common in San Jose Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures, especially in older adults",
+      "Wrist, elbow, and shoulder fractures from bracing a fall",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Tailbone and coccyx injuries"
+    ],
+    "ctaText": "Tell us about your fall in San Jose and get connected with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why San Jose Residents Turn to LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys who understand the notice requirement",
+        "desc": "Proving an owner knew or should have known about a hazard takes evidence, not assumptions. The independent attorneys in our network know how to pursue inspection logs, prior complaints, and maintenance records."
+      },
+      {
+        "title": "Fast connection while video still exists",
+        "desc": "Many San Jose businesses overwrite surveillance footage within days. Connecting with an attorney early gives someone the chance to send a preservation demand before the recording of your fall disappears."
+      },
+      {
+        "title": "Deadlines tracked, fault put in perspective",
+        "desc": "California gives most fall victims two years to file, but claims against a public entity carry a much shorter clock. California's pure comparative fault rule also means a claim is not automatically lost just because you were partly at fault."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a cracked sidewalk or in a City of San Jose facility. Is the deadline different?",
+        "answer": "Yes, and this catches people off guard. When the responsible party is a public entity such as the City of San Jose, Santa Clara County, or a transit agency, California generally requires a formal government claim within six months of the injury, well before the standard two-year lawsuit deadline. Missing that window can end a claim before it starts. If there is any chance public property was involved, it is worth speaking with an attorney right away."
+      },
+      {
+        "question": "The store says I should have watched where I was walking. Does that end my case?",
+        "answer": "Not in California. The state follows pure comparative fault, which means a person's own share of responsibility reduces a recovery proportionally rather than eliminating it. An owner who left a hazard in place still has to answer for that, and the details of what you could reasonably have seen are part of the discussion, not a shortcut around it."
+      },
+      {
+        "question": "What should I do in the first few days after a fall in San Jose?",
+        "answer": "Get medical care first, even if you feel mostly bruised, because fractures and concussions do not always announce themselves immediately. Photograph the exact spot, the hazard, your footwear, and anything like lighting or missing warning signs. Ask the business for an incident report and, in writing, that surveillance video be preserved. Then reach out to LawProactive so we can connect you with an independent attorney who can take it from there."
+      }
+    ]
+  }
+}

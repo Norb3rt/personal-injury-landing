@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "suisun-city workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Suisun City Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Suisun City? Get connected free with an independent attorney who handles third-party workplace injury claims in Solano County."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Suisun City, LawProactive can connect you at no cost with an independent attorney who understands how workers' comp and third-party claims intersect in Solano County workplaces."
+  },
+  "about": {
+    "title": "Suisun City Workplace Injury Claims",
+    "longDescription": "Suisun City's job sites range from warehouses and shipping operations near the waterfront to retail centers and construction along corridors like Rt 12 and Sunset Avenue. When a work injury happens here, most employees go through the workers' compensation system first, since California generally treats it as the exclusive remedy against an employer regardless of fault. But comp doesn't always tell the whole story. If a subcontractor, property owner, delivery driver, or equipment manufacturer contributed to what happened, you may have a separate claim against that third party. LawProactive doesn't practice law or handle claims directly. Instead, we connect injured workers in Suisun City with an independent attorney who can look at both the workers' comp side and any potential third-party liability, free of charge, so you understand your options before deadlines pass.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and back injuries",
+      "Injuries from defective tools or machinery",
+      "Struck-by incidents involving vehicles or falling materials",
+      "Chemical exposure or burns on the job"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Suisun City Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Help You See the Full Picture",
+        "desc": "Because workers' comp is usually the exclusive remedy against your employer, it's easy to assume that's the end of it. An attorney can evaluate whether a negligent third party, like a subcontractor or equipment maker, opens up a separate injury claim."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "California generally requires you to report a workplace injury to your employer within 30 days. We can connect you with someone who explains what that timeline means for your specific situation before it slips by."
+      },
+      {
+        "title": "You're Protected From Retaliation",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or pursuing a claim. An independent attorney can advise you on your rights if you're worried about how reporting might be received."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I still file a claim if my employer says the injury was my fault?",
+        "answer": "In California, workers' compensation generally doesn't depend on who was at fault, so an employer's opinion on that usually doesn't bar your claim. If a third party outside your employer also contributed to the accident, that could open a separate path worth exploring. An independent attorney can walk through the specifics with you."
+      },
+      {
+        "question": "What if my injury happened on Highway 12 or Sunset Avenue while working?",
+        "answer": "Suisun City sees regular traffic on corridors like Highway 12 and Sunset Avenue, and injuries connected to a work errand or delivery route can raise both workers' comp and third-party questions, especially if another driver was involved. Those situations often benefit from a closer look at who else may share responsibility. LawProactive can connect you with an attorney to sort through it."
+      },
+      {
+        "question": "Is there a deadline if I want to pursue a claim against someone other than my employer?",
+        "answer": "Yes. Third-party injury claims in California generally carry a two-year deadline from the date of the injury. Missing that window can close off your options, so it helps to talk with an attorney sooner rather than later."
+      }
+    ]
+  }
+}

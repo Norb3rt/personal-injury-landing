@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "clovis city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Clovis, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Clovis? Connect free with an independent injury attorney serving Fresno County. 2 years to file in California. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From rear-end collisions on Shaw Avenue to slip-and-fall injuries at a local business, LawProactive connects Clovis residents with an independent personal injury attorney at no cost. Serving all of Fresno County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Clovis, California",
+    "longDescription": "Clovis sits just northeast of Fresno, and much of daily life here runs along a handful of busy corridors. Shaw Avenue, Herndon Avenue, Clovis Avenue, and W Shaw Avenue carry the highest public-record collision counts in the city. In 2025, the most recent final reporting year, Clovis logged 356 injury collisions, with 509 people hurt and 1 traffic death. Reports tend to peak on Fridays between 5 p.m. and 7 p.m., when the end-of-week commute and errand traffic overlap. Whether your injury happened in a car near Old Town Clovis, on a bike along a neighborhood street, or in a fall at a local shop, the questions afterward tend to be the same: who pays for treatment, how do you deal with the insurer, and what happens to the income you are missing. LawProactive exists to make the next step simple. We are a free service, not a law firm. We connect you with an independent personal injury attorney who handles cases in Fresno County, and we never charge you for that connection. The attorney you speak with works on contingency, so there is no fee unless there is a recovery. You describe what happened; we help you find someone who can review it. It costs you nothing to start.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Clovis Cases",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end crashes",
+      "Concussions and other head injuries",
+      "Broken bones from falls or collisions",
+      "Back and spinal injuries",
+      "Road rash and fractures from bike or pedestrian incidents",
+      "Soft-tissue injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Tell us what happened and get connected with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Clovis Claim",
+    "items": [
+      {
+        "title": "The clock is two years, sometimes less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city, county, or state agency is involved, the window can shrink to as little as six months, so it helps to talk with an attorney early."
+      },
+      {
+        "title": "Partial fault does not shut you out",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not barred from pursuing a claim."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "California does not limit non-economic damages in typical injury cases. That means the attorney can account for the full effect the injury has had on your daily life, not just your medical bills."
+      },
+      {
+        "title": "Attorneys work on contingency",
+        "desc": "The independent attorneys in our network do not charge hourly fees. They are paid only if there is a recovery, so cost should never be the reason you wait."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I do not know what to say.",
+      "My medical bills are piling up while I am still off work.",
+      "I think I might have been partly at fault. Does that mean I have no case?",
+      "I cannot afford to pay a lawyer up front."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes in Clovis most often occur?",
+        "answer": "Public collision records show the highest counts along Shaw Avenue, Herndon Avenue, Clovis Avenue, and W Shaw Avenue. In 2025, the city recorded 356 injury collisions and 509 injured people, with reports peaking on Fridays between 5 p.m. and 7 p.m. These are simply counts from public data reflecting where traffic volume is heaviest."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match you with an independent personal injury attorney who serves Fresno County, and we do not provide legal advice or represent you ourselves."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date of injury. If your claim is against a government entity, such as a city or county agency, you may have only six months to file a required notice. An attorney can confirm which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system. Your recovery is reduced by whatever percentage of fault is assigned to you, but you can still pursue a claim even if you share some blame. This is one of the reasons it is worth having an attorney review the details before assuming you have no options."
+      },
+      {
+        "question": "What will it cost me to talk to an attorney?",
+        "answer": "Nothing to get connected, and nothing up front. The attorneys in our network work on contingency, which means they are paid a percentage only if there is a recovery in your case. If there is no recovery, you owe no attorney fee."
+      }
+    ]
+  }
+}

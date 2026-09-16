@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "brisbane city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Brisbane, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Brisbane, CA? Connect free with an independent attorney serving San Mateo County. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident on Brisbane's roads left you hurt, we'll connect you free of charge with an independent personal injury attorney serving San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Brisbane, California",
+    "longDescription": "Brisbane sits along the US-101 corridor, where Bayshore Boulevard and Guadalupe Canyon Parkway feed into some of the busiest stretches of traffic in this part of San Mateo County. Public records show 27 injury collisions in the most recent final year, leaving 35 people hurt and, tragically, 1 person dead. Reports show these crashes tend to cluster on Thursday afternoons, between 4 and 6 p.m., when commuter traffic and local trips overlap on US-101 and its northbound lanes. Whether you were hurt near the Bayshore corridor, on Guadalupe Canyon Parkway, or elsewhere in town, the moments after a crash can be disorienting — medical visits, insurance calls, missed work, and no clear sense of what comes next. LawProactive is a free service, not a law firm. We simply connect injured people in Brisbane with independent personal injury attorneys who can review what happened and explain your options. If you decide to move forward, those attorneys work on contingency, meaning there's no fee unless they recover compensation for you. There's no obligation to reach out, and no pressure once you do.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Emotional distress after a serious crash"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Reach Out Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "You generally have 2 years from the date of injury to file a personal injury claim in California, though claims against a government entity can require notice in as little as 6 months. Waiting too long can close the door on your options entirely."
+      },
+      {
+        "title": "Partial Fault Won't Bar Your Claim",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still pursue compensation — it's simply reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no limit on compensation for pain, suffering, and other non-economic losses, unlike some states that cap these amounts."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost and no fee unless they win a recovery on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters pushing for a quick settlement",
+      "Not knowing whether a shared-fault crash still qualifies for compensation",
+      "Fearing that time is running out to take any legal action at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Brisbane?",
+        "answer": "California generally allows 2 years from the date of injury to file a personal injury lawsuit. If your claim involves a government entity, such as a city or county road issue, the notice window can be as short as 6 months, so it's best not to wait."
+      },
+      {
+        "question": "Where do injury collisions tend to cluster in Brisbane?",
+        "answer": "Public crash records point to US-101, Bayshore Boulevard, US-101 Northbound, and Guadalupe Canyon Parkway as the corridors with the highest reported collision counts in Brisbane. These are neutral, public-record figures and not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some responsibility for the accident. Your total recovery would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We connect you with an independent personal injury attorney, and if you choose to work with one, they typically handle cases on contingency, meaning no fee unless there's a recovery."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In ordinary California personal injury cases, there is no cap on non-economic damages like pain and suffering. An independent attorney can walk you through how this applies to your specific situation."
+      }
+    ]
+  }
+}

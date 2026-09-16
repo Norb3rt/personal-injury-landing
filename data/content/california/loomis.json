@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "loomis city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Loomis, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Loomis, Placer County? Learn your options — 2 years to file, no fee unless you win. Free, no-obligation connection to an attorney."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or other accident has left you hurt, you're not alone — we connect Placer County residents with an independent attorney at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in Loomis, California",
+    "longDescription": "Loomis is a small, close-knit town in Placer County, but its roads still carry real risk. In the most recent recorded year, Loomis saw 17 injury collisions, 26 people hurt, and 1 traffic death — numbers that reflect the everyday exposure people face on corridors like Sierra College Boulevard, Taylor Road, Horseshoe Bar Road, and Laird Road. Crashes here tend to cluster on Thursday afternoons between 3 and 5 p.m., a pattern that lines up with commuters, school pickups, and weekend-bound traffic moving through town. Whether you were hurt on one of these roads, in a store, or somewhere else in Loomis, the aftermath can feel overwhelming — medical bills, missed work, and a lot of unanswered questions. LawProactive is a free service that connects injured people with an independent personal injury attorney; we are not a law firm and don't provide legal advice ourselves. If you choose to move forward, the attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Our goal is simply to make that first step easier and less confusing.",
+    "commonInjuriesTitle": "Common Injuries We See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Timing and Facts Matter Under California Law",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you 2 years from the date of an injury to file a claim, but that window can shrink to as little as 6 months if a government entity is involved. Waiting too long can close the door on your options entirely."
+      },
+      {
+        "title": "Partial Fault Won't Erase Your Claim",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, or loss of enjoyment of life. This matters when injuries affect your daily life long after medical bills are paid."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys connected through our service work on contingency, so there's no upfront cost to you. Fees only come out of a settlement or verdict if your case succeeds."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while missing work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling pressured to settle quickly before understanding your rights",
+      "Uncertainty about whether you waited too long to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Loomis?",
+        "answer": "California law generally allows 2 years from the date of injury to file a claim. If a government agency or public road issue is involved, that deadline can be as short as 6 months, so it's worth acting sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still pursue compensation even if you share some responsibility. Any award would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to happen in Loomis?",
+        "answer": "Public records show injury collisions have been reported along Sierra College Boulevard, Taylor Road, Horseshoe Bar Road, and Laird Road, with reports clustering on Thursday afternoons between 3 and 5 p.m. These are neutral collision counts, not a ranking of any road's safety."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — in typical personal injury cases, California does not cap non-economic damages such as pain and suffering. Compensation depends on the specifics of your injury and how it has affected your life."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. If you decide to proceed, attorneys in the network work on contingency, so there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

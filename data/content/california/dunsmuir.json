@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "dunsmuir city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dunsmuir, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Dunsmuir, Siskiyou County? Free attorney connection, no fee unless you win. CA gives you 2 years to file—get help now."
+  },
+  "hero": {
+    "subtitle": "Whether it's a highway collision on I-5 or a fall on Dunsmuir Avenue, we connect injured people across Siskiyou County with an independent attorney at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in Dunsmuir, California",
+    "longDescription": "Dunsmuir is a small mountain town, but its stretch of I-5 and local streets like Dunsmuir Avenue and Castle Avenue still see real crashes. Public records show 3 injury collisions in the most recent full year, with 5 people hurt and no traffic deaths reported. Weekend evenings, especially Saturdays between 6 and 8 p.m., tend to see more reported crashes than other times, likely tied to travel patterns through this I-5 corridor town. If you or someone you love was hurt in a collision here, sorting out next steps while healing can feel overwhelming. LawProactive is a free service that helps injured people in Siskiyou County connect with an independent personal injury attorney — we are not a law firm, and we don't decide your case or give legal advice. The attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Our only job is to make that first connection simple, so you can focus on recovering while someone with legal experience looks at what happened and explains your options under California law.",
+    "commonInjuriesTitle": "Common Injuries We See Connections For",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Emotional distress after a serious crash"
+    ],
+    "ctaText": "Get connected with an attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most injury claims in California must be filed within 2 years of the incident, though claims against a government entity can require notice in as little as 6 months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. An attorney can help you understand what that might mean for your specific situation."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they secure a recovery for you. That means getting legal help doesn't add financial stress while you're already dealing with an injury."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up before you've even healed",
+      "Not knowing if the insurance company's offer is fair",
+      "Fearing you'll be blamed for part of the crash and get nothing",
+      "Feeling unsure whether it's too late to do anything at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "Generally, you have 2 years from the date of the incident to file most personal injury claims in California. If a government entity is involved, that window can shrink to as little as 6 months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partially at fault doesn't bar you from recovering compensation. Your final recovery is just reduced by your percentage of fault, which an attorney can help evaluate."
+      },
+      {
+        "question": "Where do crashes tend to happen in Dunsmuir?",
+        "answer": "Public collision records show higher counts along I-5, Dunsmuir Avenue, and Castle Avenue, with reports clustering on Saturdays between 6 and 8 p.m. These are simply reported counts, not a judgment about any particular road or area."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people find an independent personal injury attorney. We don't provide legal advice or represent clients directly — that's the attorney's role once you're connected."
+      },
+      {
+        "question": "How much does it cost to get connected with an attorney?",
+        "answer": "Using LawProactive costs nothing, and the attorneys in our network work on contingency. That means you typically pay no fee unless they recover compensation on your behalf."
+      }
+    ]
+  }
+}

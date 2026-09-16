@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "fortuna city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fortuna, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Fortuna, Humboldt County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash, a broken bone, or a more serious injury from a car crash in Fortuna, we'll connect you free of charge with an independent attorney serving Humboldt County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Fortuna, California",
+    "longDescription": "Fortuna is a small city, but its roads still see their share of collisions. Public records show 2 injury collisions in the most recent final crash year, with 2 people hurt and no traffic deaths recorded. Corridors like S Fortuna Boulevard, Main Street, Rohnerville Road, and 12th Street carry the bulk of local traffic, and crashes on these streets have tended to cluster on Monday afternoons between 4 and 6 p.m. If you were hurt in a wreck on one of these roads, or anywhere else in town, you may be wondering what comes next — medical bills, missed work, insurance calls. LawProactive is a free service that connects injured people in Fortuna with an independent personal injury attorney. We are not a law firm, and we don't charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. You focus on healing; let someone with legal experience handle the rest. Reaching out costs nothing and doesn't obligate you to anything.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Find out if an attorney can help — reach out today, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "You generally have two years from the date of injury to file a personal injury claim in California. That window can shrink to as little as six months if a government entity was involved, so it pays to know where you stand early."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for the crash, you can still recover compensation — it's just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California doesn't limit how much you can recover for non-economic damages like pain and suffering, unlike some other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That means getting help doesn't require any money out of your pocket."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Fearing that being partly at fault means getting nothing",
+      "Feeling overwhelmed by paperwork and deadlines while trying to recover"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Fortuna?",
+        "answer": "In most cases, California gives you two years from the date of the injury to file a claim. If a government agency, like a city or county road department, was involved, that deadline can be as short as six months, so it's best to look into it sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some blame for the crash. Your recovery would simply be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to happen in Fortuna?",
+        "answer": "Public crash records show that corridors such as S Fortuna Boulevard, Main Street, Rohnerville Road, and 12th Street have the highest reported collision counts in town. These are simply the roads that carry the most traffic and reported incidents, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm. We simply help connect injured people in Fortuna with an independent attorney who may be able to assist."
+      },
+      {
+        "question": "Will I owe money if my case doesn't result in a recovery?",
+        "answer": "Attorneys in our network work on a contingency basis, meaning they only get paid if you receive a settlement or award. There's no upfront cost to you for reaching out or having your situation reviewed."
+      }
+    ]
+  }
+}

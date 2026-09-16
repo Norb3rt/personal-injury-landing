@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "vista medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Vista, CA Medical Malpractice Help | LawProactive",
+    "metaDescription": "Harmed by a medical error in Vista, CA? LawProactive connects you, free, with an independent malpractice attorney who works on contingency."
+  },
+  "hero": {
+    "subtitle": "When treatment in Vista leaves you worse off than it should have, sorting out what went wrong takes more than a second opinion. LawProactive connects you, at no cost, with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Vista Medical Malpractice Claims",
+    "longDescription": "Vista sits inland in North San Diego County, and with roughly 100,000 residents, families here rely on nearby clinics, urgent care centers, and regional hospitals for everything from routine checkups to emergency treatment after a collision on SR-78 or E Vista Way. Sometimes care goes wrong, and when a provider's mistake causes real harm, California handles the matter under a specific set of rules known as MICRA. A claim generally must be filed within one year of discovering the injury and no later than three years from when it occurred. A 90-day notice must go to the provider before a lawsuit is filed. Non-economic damages are capped, though that cap rises every year. And nearly every case needs a qualified medical expert to explain what a careful provider would have done differently. A poor result by itself is not malpractice. Whether the standard of care was actually breached takes review by someone who handles these cases. LawProactive is a free service that connects Vista residents with an independent attorney for that review, and there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Questions",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary procedures or delayed treatment"
+    ],
+    "ctaText": "Ask a Vista malpractice attorney to review your records"
+  },
+  "whyChoose": {
+    "title": "Why Vista Residents Use LawProactive for Malpractice Claims",
+    "items": [
+      {
+        "title": "MICRA deadlines are short and layered",
+        "desc": "California generally allows one year from the date you discovered the injury, and never more than three years from when it happened. An attorney can pin down which clock applies to you before time runs out."
+      },
+      {
+        "title": "The 90-day notice step is handled correctly",
+        "desc": "State law requires written notice to each provider at least 90 days before a suit can be filed. Getting this wrong can cost you time you do not have, so it helps to have someone who does it routinely."
+      },
+      {
+        "title": "Expert review comes first, not last",
+        "desc": "Because a bad outcome alone is not malpractice, almost every claim needs a qualified medical expert to say the standard of care was breached. Attorneys in our network arrange that review early so you know where you stand."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My surgery at a hospital near Vista had complications. Is that automatically malpractice?",
+        "answer": "No. California law recognizes that some complications happen even when a provider does everything right. Malpractice means the provider fell below the accepted standard of care and that failure caused your harm. A qualified medical expert almost always has to confirm that before a case can move forward."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice claim in California?",
+        "answer": "Under MICRA, you generally have one year from the date you discovered, or reasonably should have discovered, the injury. There is also an outer limit of three years from the date the injury occurred, regardless of discovery. On top of that, you must give the provider 90 days' written notice before filing suit, so it is wise to start early."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages such as pain and suffering, but the cap increases every year under current law. Economic losses like medical bills and lost income are not subject to that cap. An attorney can explain how the cap applies to the year your claim is filed."
+      }
+    ]
+  }
+}

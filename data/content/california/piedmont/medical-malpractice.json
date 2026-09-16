@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "piedmont medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Piedmont Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Piedmont, CA? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or treatment went wrong at a Piedmont-area hospital or clinic, LawProactive can connect you with an independent attorney who understands California's medical malpractice rules — at no cost to you."
+  },
+  "about": {
+    "title": "Piedmont Medical Malpractice Claims",
+    "longDescription": "Piedmont is a small, tightly-knit Alameda County community, and most residents here travel to nearby Oakland or Berkeley facilities for hospital-level or specialist care. When that care falls short — a missed diagnosis, a surgical mistake, a medication error, or a delay in treatment — the harm can follow you home to Piedmont for years. Medical malpractice cases are different from typical injury claims: California requires a qualified medical expert to review what happened, a 90-day pre-suit notice before filing, and strict timing rules under MICRA. LawProactive doesn't practice law or take a fee directly. We simply listen to what happened, gather the basics, and connect eligible Piedmont residents with an independent attorney who handles these cases on contingency, meaning there's no cost unless a recovery is made. A bad medical outcome by itself doesn't prove malpractice, but if something feels wrong about the care you received, it's worth a conversation.",
+    "commonInjuriesTitle": "Common Situations We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk with an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Piedmont Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand MICRA's Tight Clock",
+        "desc": "California generally gives you one year from discovering the harm, and no more than three years from the injury itself, to bring a claim — plus a required 90-day notice before filing suit. We help connect you with counsel early enough to protect these deadlines."
+      },
+      {
+        "title": "Expert Review Is Required — We Help You Get There",
+        "desc": "Because a qualified medical expert almost always has to weigh in on whether care fell below the standard, we connect you with attorneys who already have relationships with the right medical reviewers."
+      },
+      {
+        "title": "Damages Caps Change Every Year — Get Current Guidance",
+        "desc": "MICRA's cap on non-economic damages rises annually, so what applied a few years ago may not apply to your case today. An attorney in our network can explain how the current cap and rules may affect your specific situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Piedmont but was treated at a hospital in Oakland — can I still get help?",
+        "answer": "Yes. What matters is where the care happened and where the harm occurred, not just where you live. LawProactive connects Piedmont residents with attorneys who handle malpractice claims across Alameda County, including care received in Oakland, Berkeley, or elsewhere in the region."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the harm, and no more than three years from the date of the injury itself. There's also a required 90-day pre-suit notice to the provider before a lawsuit can be filed. These deadlines are strict, so it's best not to wait too long to ask questions."
+      },
+      {
+        "question": "My surgery had a bad outcome — does that automatically mean malpractice happened?",
+        "answer": "Not necessarily. California law is clear that a poor result alone doesn't establish malpractice; the care itself has to have fallen below the accepted medical standard, which is why a qualified medical expert almost always needs to review the record. An independent attorney can help you understand whether your situation warrants further investigation."
+      }
+    ]
+  }
+}

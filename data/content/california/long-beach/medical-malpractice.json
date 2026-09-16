@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "long-beach medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Long Beach Medical Malpractice Attorneys | LawProactive",
+    "metaDescription": "Hurt by a medical error in Long Beach? LawProactive connects you, free, with an independent malpractice attorney who knows California's MICRA rules."
+  },
+  "hero": {
+    "subtitle": "If a Long Beach doctor, nurse, or hospital made a mistake that left you worse off, you deserve a clear explanation of your options. LawProactive is a free service that puts you in touch with an independent medical malpractice attorney in Los Angeles County."
+  },
+  "about": {
+    "title": "Long Beach Medical Malpractice Claims",
+    "longDescription": "Long Beach is home to nearly half a million people, and on any given day thousands of them are sitting in exam rooms, emergency departments, and outpatient clinics across the city. Most leave with the care they needed. When something goes wrong—a missed diagnosis, a surgical mistake, a prescription that should never have been written—the harm can follow a family for years. Medical malpractice claims in Los Angeles County run on their own set of rules. California's MICRA law generally gives you one year from the date you discovered the injury, and no more than three years from when it happened. Before a lawsuit is filed, the provider must receive 90 days' written notice. Almost every case needs a qualified medical expert to explain how the standard of care was breached, and a disappointing result on its own does not make a claim. LawProactive does not practice law. We are a free service that connects Long Beach residents with an independent attorney who handles these cases on contingency, so you owe nothing unless there is a recovery.",
+    "commonInjuriesTitle": "Medical Errors That Lead to Claims in Long Beach",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical mistakes, including wrong-site procedures",
+      "Medication and dosage errors",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Infections tied to inadequate hospital care"
+    ],
+    "ctaText": "Talk through what happened—free and with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Long Beach Residents Use LawProactive for Malpractice Cases",
+    "items": [
+      {
+        "title": "Deadlines That Start With Discovery",
+        "desc": "Under MICRA, the clock usually runs one year from when you learned of the injury, with an outside limit of three years from the event. An attorney can help pin down which date applies to you before time runs out."
+      },
+      {
+        "title": "The 90-Day Notice Done Right",
+        "desc": "California requires written notice to the provider before a malpractice suit is filed. The attorney you connect with handles that step so a technicality does not derail your claim."
+      },
+      {
+        "title": "Experts and the Rising Damages Cap",
+        "desc": "Malpractice cases nearly always depend on a qualified medical expert, and non-economic damages are subject to a statutory cap that increases every year. An attorney who works these cases keeps both in view from the start."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was injured in a crash on Pacific Coast Highway and then my hospital treatment made things worse. Do I have two claims?",
+        "answer": "Possibly. Long Beach recorded 3,123 people injured in traffic collisions in 2025, and many of them were treated at local emergency rooms. If a provider's error caused a separate injury on top of the crash, that can be its own malpractice claim with its own MICRA deadlines. An attorney can sort out which harm came from the collision and which came from the care."
+      },
+      {
+        "question": "My surgery did not go the way I hoped. Is that malpractice?",
+        "answer": "Not by itself. California law is clear that a bad outcome alone is not malpractice; there has to be a departure from the accepted standard of care that caused the harm. That is why a qualified medical expert is almost always needed to review the records and give an opinion. A consultation is the quickest way to find out whether your situation fits."
+      },
+      {
+        "question": "What will it cost me to get a Long Beach malpractice attorney through LawProactive?",
+        "answer": "LawProactive's connection service is free. The independent attorneys in our network take medical malpractice cases on contingency, meaning there is no fee unless there is a recovery. You can ask about costs, the 90-day notice process, and the current non-economic damages cap during your first conversation."
+      }
+    ]
+  }
+}

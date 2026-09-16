@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "santa-monica city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Monica, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Santa Monica? LawProactive connects Los Angeles County residents with an injury attorney for free. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on Lincoln Boulevard, knocked off your bike near the beach, or hurt in a fall on someone else's property, LawProactive connects you with an independent personal injury attorney at no cost. Serving Santa Monica and all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Santa Monica, California",
+    "longDescription": "Santa Monica is small on the map but busy on the ground. Beach traffic pours off the I-10 (Santa Monica Freeway) toward the Pier, Pacific Coast Highway carries commuters and weekend visitors along the coast, and Lincoln Boulevard and 4th Street stay crowded from morning through the evening rush. In 2025, the city's final public-record numbers showed 445 injury collisions, 572 people injured, and 5 traffic deaths within a population of about 93,220. Reports tend to peak on Fridays between 4 p.m. and 6 p.m., when the week winds down and the roads fill up. Behind every one of those counts is a person trying to figure out what comes next — a rideshare passenger, a cyclist on the beach path, a pedestrian in a crosswalk, a shopper who slipped in a store. LawProactive exists for that moment. We are a free service, not a law firm. Tell us what happened and we connect you with an independent personal injury attorney who handles cases in Los Angeles County. There is no charge for the connection, and the attorneys in our network work on contingency, so there is no fee unless there is a recovery. California generally gives you two years to file, though claims against a public agency can carry a six-month deadline, so reaching out early matters.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Santa Monica",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway and stop-and-go collisions",
+      "Broken wrists, collarbones, and ankles from bicycle and scooter crashes",
+      "Concussions and head injuries in pedestrian and crosswalk incidents",
+      "Knee and hip injuries from slips and falls in stores, hotels, and rentals",
+      "Back injuries and herniated discs after rideshare and delivery-vehicle crashes",
+      "Road rash, lacerations, and shoulder damage in motorcycle collisions"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Santa Monica Claim",
+    "items": [
+      {
+        "title": "The clock is real: two years, sometimes six months",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a city bus, a public agency vehicle, or a poorly maintained public sidewalk was involved, a government claim may be due in as little as six months."
+      },
+      {
+        "title": "Being partly at fault does not end your case",
+        "desc": "California follows pure comparative fault. If you share some of the blame, your recovery is reduced by your percentage of responsibility, but it is not wiped out."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary injury cases",
+        "desc": "California does not limit non-economic damages like pain, lost enjoyment, and emotional distress in a standard car crash or premises case. The full picture of what you lost can be part of the claim."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in the LawProactive network are paid only from a recovery. If there is no recovery, you owe no attorney fee, and our connection service itself is always free."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say",
+      "I can't work while I heal and the bills are already stacking up",
+      "I was in the crosswalk but the police report makes it sound like my fault",
+      "I don't know if my case is big enough to bother a lawyer with"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Santa Monica tend to occur?",
+        "answer": "Public-record collision counts for Santa Monica show the highest volumes along Pacific Coast Highway, Lincoln Boulevard, 4th Street, and the I-10 (Santa Monica Freeway). These are simply the corridors that carry the most traffic and log the most reports. Citywide in 2025 there were 445 injury collisions, and reports clustered on Fridays between 4 p.m. and 6 p.m."
+      },
+      {
+        "question": "How much does it cost to use LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, not a law firm, and we never bill you. The independent attorney you are connected with works on contingency, so an attorney fee is owed only if there is a recovery in your case."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of injury. If a government entity is involved — for example a city vehicle or a public property hazard — a formal claim may need to be filed within six months. Because that shorter window comes up quickly, it helps to get your questions answered early."
+      },
+      {
+        "question": "I think I was partly responsible. Can I still recover anything?",
+        "answer": "Yes. California uses pure comparative fault, which means your compensation is reduced by your share of the blame rather than eliminated. If you were found 20 percent responsible, for example, you could still recover the remaining 80 percent of your damages."
+      },
+      {
+        "question": "What happens after I contact LawProactive?",
+        "answer": "You tell us the basics of what happened and how you were hurt. We connect you with an independent personal injury attorney who handles cases in Los Angeles County, and that attorney reviews your situation with you directly. There is no obligation, and you decide whether to move forward."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "visalia slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Visalia Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell at a Visalia store, apartment or parking lot? LawProactive connects Tulare County residents with an independent premises liability attorney, free."
+  },
+  "hero": {
+    "subtitle": "When a wet floor, broken step or unlit walkway in Visalia puts you on the ground, the property owner's insurer starts working right away. LawProactive connects you, at no cost, with an independent attorney who handles Tulare County premises liability claims."
+  },
+  "about": {
+    "title": "Visalia Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You are on the floor of a grocery aisle, or the stairwell of an apartment complex, or a parking lot off S Mooney Boulevard, and the first thought is embarrassment, not evidence. Yet premises liability cases in Visalia turn on what happens in those first hours. California asks the injured person to show that the property owner knew about the hazard, or reasonably should have, and did nothing to fix it or warn about it. That question of notice is often answered by a store's own surveillance footage, which many businesses overwrite within days. LawProactive exists to shorten the gap between the fall and the help. We are not a law firm. We are a free service that connects Tulare County residents with an independent personal injury attorney who handles premises cases on contingency, meaning no fee unless there is a recovery. Reach out, describe what happened, and let someone who knows the process take it from there.",
+    "commonInjuriesTitle": "Injuries Commonly Reported After Falls in Visalia",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow and shoulder fractures from bracing the fall",
+      "Concussions and other head trauma",
+      "Knee ligament and meniscus tears",
+      "Tailbone and lower back injuries",
+      "Ankle sprains and broken ankles"
+    ],
+    "ctaText": "Tell us where and how you fell. The connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Visalia Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole case",
+        "desc": "California premises law requires proof that the owner knew, or should have known, about the hazard and failed to address it. The attorneys in our network know how to build that proof through inspection logs, employee statements and prior complaints."
+      },
+      {
+        "title": "Video disappears fast",
+        "desc": "Most Visalia businesses keep surveillance footage for only a short window before it is overwritten. An attorney can send a preservation demand early, before the clearest evidence of the hazard is gone."
+      },
+      {
+        "title": "Deadlines and shared blame are manageable",
+        "desc": "You generally have two years to file, far less if a public entity owns the property, and California's pure comparative fault rule means being partly responsible does not end your claim. An independent attorney can sort out both issues from the start."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Visalia. Is the city responsible?",
+        "answer": "It depends on who owns and maintains that stretch of sidewalk, which can be the City of Visalia, Tulare County, or the adjacent property owner. Claims against a public entity in California follow a much shorter timeline than the standard two years, typically requiring a written claim within six months of the injury. Because that clock runs quickly, it is worth speaking with an attorney soon rather than waiting to see how your recovery goes."
+      },
+      {
+        "question": "The store says I should have been watching where I was walking. Do I still have a claim?",
+        "answer": "Possibly. California uses pure comparative fault, so a jury or adjuster assigns a percentage of responsibility to each side and reduces your compensation by your share. Even if you were partly distracted, the owner's failure to clean up, repair, or warn can still carry most of the weight. An attorney can evaluate how that split is likely to play out in your situation."
+      },
+      {
+        "question": "What should I do in the first day or two after a fall at a Visalia business?",
+        "answer": "Photograph the exact spot, the hazard itself, and any missing signage before anything is cleaned or fixed. Ask for an incident report and get the names of employees or shoppers who saw what happened. Then contact an attorney quickly, because a written request to preserve surveillance video needs to reach the business before its system records over the footage."
+      }
+    ]
+  }
+}

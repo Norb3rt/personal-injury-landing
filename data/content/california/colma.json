@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "colma city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colma, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Colma? Free, no-obligation connection to a San Mateo County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on El Camino Real or suffered a fall or workplace injury elsewhere in town, LawProactive can connect you with an independent attorney at no cost, serving Colma and all of San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Colma, California",
+    "longDescription": "Colma is a small city, but its roads carry a steady flow of traffic passing through San Mateo County, and collisions still happen. Public records show 4 injury collisions in the most recent final crash year, with 5 people injured and no traffic deaths reported. Corridors like Hillside Boulevard, Junipero Serra Boulevard, and El Camino Real (SR-82) see the most reported activity, and Friday late mornings into early afternoon show up more often than other times in the data. If you were hurt in one of these incidents, or in any other kind of accident around town, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering. LawProactive is a free service that connects injured people in Colma with an independent personal injury attorney who can review the details of what happened. We are not a law firm, and we don't decide your case or promise any result. Attorneys in our network work on contingency, meaning there's no fee unless there is a recovery. Reaching out costs nothing and puts you in touch with someone who can explain your options.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity is involved. Waiting too long can cost you the right to recover at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault. An attorney can help sort out how fault gets divided."
+      },
+      {
+        "title": "No Cap on What You Can Recover for Pain and Suffering",
+        "desc": "In most ordinary injury cases, California doesn't limit non-economic damages like pain, suffering, or loss of enjoyment of life. That means your recovery isn't automatically capped just because your medical bills were modest."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to have your case reviewed. If there's no recovery, you owe no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worried medical bills will pile up faster than you can pay them",
+      "Not sure if you can afford a lawyer right now",
+      "Concerned the insurance company won't take your injury seriously",
+      "Anxious you waited too long or missed some deadline"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much time do I have to file a personal injury claim in Colma?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file most personal injury claims. If a government entity is involved, that deadline can be as short as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you were partly responsible. Your recovery is simply reduced by your percentage of fault, so it's rarely an automatic bar to a claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Colma?",
+        "answer": "Based on public collision records, Hillside Boulevard, Junipero Serra Boulevard, and El Camino Real (SR-82) show the highest counts of reported crashes in Colma, with Friday late morning to early afternoon appearing more frequently than other times. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't represent you directly or handle your case ourselves — we simply help you get in touch with an attorney who can."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. Connecting with an attorney through LawProactive is free, and attorneys in our network work on contingency. That means they only get paid if there's a recovery in your case."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "fresno slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fresno Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Fresno? LawProactive connects you, free, with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Whether you went down in a grocery aisle, a Fresno parking lot, or an apartment stairwell, the property owner may be responsible. We connect you with an independent attorney at no cost so you can find out."
+  },
+  "about": {
+    "title": "Fresno Slip & Fall and Premises Liability Claims",
+    "longDescription": "A wet aisle with no cone. A parking-lot pothole outside a store on Blackstone Avenue. A stairwell in a Fresno apartment complex where the light has been out for weeks. Falls like these happen quietly across Fresno County, and the people hurt often wonder whether they can be compensated at all. Under California law, you may. Property owners and businesses owe visitors reasonable care, which means the question usually comes down to notice: did the owner know, or should they have known, about the hazard and fail to fix it or warn you? Proving that takes evidence, and evidence disappears fast. Spills get mopped, video gets overwritten, and witnesses move on. LawProactive is not a law firm. We are a free service that connects Fresno residents with an independent personal injury attorney who handles premises liability claims and works on contingency, so there is no fee unless there is a recovery. If you fell somewhere you had every right to be, it costs nothing to find out where you stand.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Fresno",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and elbow breaks from catching a fall",
+      "Concussions and head trauma",
+      "Herniated discs and lower back injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Fresno Residents Turn to LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice Is the Whole Case",
+        "desc": "California requires you to show the owner knew or should have known about the hazard and did nothing. The attorneys we connect you with know how to dig for cleaning logs, prior complaints, and maintenance records that prove it."
+      },
+      {
+        "title": "Video Doesn't Wait",
+        "desc": "Many Fresno stores and complexes overwrite surveillance footage within days. An attorney can send a preservation demand quickly, before the moment of your fall is gone for good."
+      },
+      {
+        "title": "Deadlines and Shared Fault Are Manageable",
+        "desc": "You generally have two years to file, far less if a public entity is involved, and California's pure comparative fault rule means being partly at fault does not erase your claim. A lawyer helps you protect both."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a sidewalk or in a building owned by the City of Fresno or Fresno County. Is that different?",
+        "answer": "Yes, and the difference matters a lot. Claims against a California public entity must usually start with a written government claim within six months of the injury, not the two years that applies to private owners. Missing that window can end the case before it starts, so it is worth speaking with an attorney right away if government property was involved."
+      },
+      {
+        "question": "The store says the spill had only been there a minute. Do I still have a claim?",
+        "answer": "Possibly. How long a hazard existed is exactly what the notice requirement turns on, and the store's word is not the final answer. Surveillance footage, inspection schedules, and employee statements can show whether staff had a reasonable chance to catch it. An attorney can request that evidence and evaluate it honestly with you."
+      },
+      {
+        "question": "I was looking at my phone when I fell. Does that ruin everything?",
+        "answer": "No. California follows pure comparative fault, so a jury or insurer can assign you a share of blame without dismissing your claim entirely. Your recovery would simply be reduced by your percentage of fault. That is different from some states where any fault at all bars a claim."
+      }
+    ]
+  }
+}

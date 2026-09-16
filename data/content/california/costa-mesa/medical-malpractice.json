@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "costa-mesa medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Lawyer in Costa Mesa, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Costa Mesa? LawProactive connects you free with an independent MICRA-savvy attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "If a provider in Costa Mesa missed something, prescribed the wrong thing, or made a surgical error, LawProactive can connect you at no cost with an independent attorney who handles California medical negligence claims."
+  },
+  "about": {
+    "title": "Costa Mesa Medical Malpractice Claims",
+    "longDescription": "Medical care in Costa Mesa moves quickly. Orange County residents pass through local clinics, urgent care offices, surgical centers and emergency departments every day, and most visits end the way they should. When a diagnosis is missed, a medication is mixed up, or a procedure goes wrong because a provider fell short of the accepted standard of care, the person left dealing with the aftermath deserves clear answers. We are not a law firm. LawProactive is a free service that matches you with an independent personal injury attorney who handles medical negligence claims under California's MICRA framework. That framework is unforgiving on timing: generally one year from when you discovered the harm, never more than three years from the injury, plus a 90-day notice before suit can be filed. A bad result by itself is not malpractice, so a qualified medical expert is nearly always needed to show what went wrong. If you were treated in Costa Mesa and something feels off, a conversation costs nothing.",
+    "commonInjuriesTitle": "Medical Errors We See in Costa Mesa Cases",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke or infection",
+      "Surgical mistakes, including wrong-site procedures",
+      "Medication and dosage errors",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor a patient after treatment"
+    ],
+    "ctaText": "Talk through what happened, free of charge"
+  },
+  "whyChoose": {
+    "title": "Why Costa Mesa Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Tracked From Day One",
+        "desc": "California generally allows one year from discovery of the harm and no more than three years from the injury itself. The attorney you are matched with will pin down which date applies to you before anything else."
+      },
+      {
+        "title": "Notice and Expert Requirements Handled",
+        "desc": "A 90-day pre-suit notice must go to each provider, and a qualified medical expert is almost always needed to show the standard of care was breached. Network attorneys build the case around both from the start."
+      },
+      {
+        "title": "Current Damages Cap Applied Correctly",
+        "desc": "MICRA caps non-economic damages, and that cap rises every year. An attorney who follows the current figure can value the non-economic side of your claim accurately rather than using an outdated number."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in a Costa Mesa emergency room after a collision on Newport Boulevard and my fracture was missed. Is that malpractice?",
+        "answer": "Possibly, but not automatically. Costa Mesa recorded 619 injury collisions and 847 people injured in 2025, so local emergency staff treat a steady stream of crash patients, and a missed finding only becomes malpractice if a competent provider in the same situation would have caught it. An independent attorney can have a qualified expert review your imaging and chart to see whether the standard of care was met. Your crash claim and any medical negligence claim would be evaluated separately."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Under MICRA, the general rule is one year from the date you discovered, or reasonably should have discovered, the injury, and never more than three years from when the injury occurred. Before filing suit, a 90-day notice of intent has to be sent to the provider. Because those clocks can overlap in confusing ways, it helps to have an attorney sort out your dates early."
+      },
+      {
+        "question": "Does LawProactive charge anything, and is there a limit on what I can recover?",
+        "answer": "LawProactive is free, and we are not a law firm; we simply connect you with an independent attorney who works on contingency, meaning no fee unless there is a recovery. California does cap non-economic damages such as pain and suffering in malpractice cases, and that cap increases each year. Economic losses like medical bills and lost income are handled separately from that cap."
+      }
+    ]
+  }
+}

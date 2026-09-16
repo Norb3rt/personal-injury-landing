@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "isleton workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Isleton Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Isleton? Get connected free to an independent attorney who handles workers' comp and third-party claims in Sacramento County."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working near SR-160 or anywhere in Isleton, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party job-site claims at no cost to you."
+  },
+  "about": {
+    "title": "Isleton Workplace Injury Claims",
+    "longDescription": "Isleton is a small Sacramento County town, but its levee roads, farm operations, and river-adjacent worksites still generate real injury risk for the people who work there. Whether someone is hurt on a delta farm, doing roadwork along SR-160 or Isleton Road, or working a job site near H Street, California's workers' compensation system usually applies first, covering medical care and lost wages regardless of fault. But that system doesn't always tell the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate third-party claim may be possible alongside workers' comp. LawProactive is a free connection service, not a law firm, and we can put you in touch with an independent attorney who can look at both the comp side and any third-party angle, so nothing gets left on the table simply because no one asked the right questions.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, trucks, or elevated platforms",
+      "Machinery and equipment-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Burns or chemical exposure on farm or industrial sites",
+      "Struck-by injuries from falling objects or tools"
+    ],
+    "ctaText": "Get connected with an independent attorney today, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Isleton Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Only Option",
+        "desc": "California treats workers' comp as the usual exclusive remedy against an employer, but if a third party like a subcontractor or equipment maker contributed to your injury, a separate claim may be available."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and missing that window can complicate your comp claim, so getting guidance early matters."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury or filing a claim, and an attorney can help you understand your protections if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working on a farm near Isleton — does workers' comp still apply?",
+        "answer": "In most cases, yes. California's workers' compensation system generally covers agricultural and delta-area jobs the same as other industries, regardless of fault. An independent attorney can review your specific situation, including whether a third party like an equipment supplier played a role."
+      },
+      {
+        "question": "Can I still file a claim if my injury happened on SR-160 while working?",
+        "answer": "Possibly, through two separate paths. Workers' comp may cover medical costs and lost wages, while a third-party claim against another driver could be available separately, and that claim carries a 2-year deadline in California."
+      },
+      {
+        "question": "What if my employer tells me not to report the injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal in California, and you generally still have 30 days to notify your employer regardless of what they say. Speaking with an independent attorney early can help protect your rights before that window closes."
+      }
+    ]
+  }
+}

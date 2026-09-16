@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "campbell city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Campbell, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in a Campbell crash? Santa Clara County. 2 years to file. No fee unless you win. Free, no-obligation connection to an attorney."
+  },
+  "hero": {
+    "subtitle": "If a car crash, fall, or workplace accident has left you hurt in Campbell, we can connect you with an independent attorney at no cost, serving people throughout Santa Clara County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Campbell, California",
+    "longDescription": "Campbell may be a small city, but its roads carry a lot of daily traffic. In the most recent full year on record, Campbell saw 107 injury collisions, with 124 people hurt and 1 traffic death. Corridors like SR-17, San Tomas Expressway, and Hamilton Avenue show up often in these public collision counts, and reports tend to cluster on Fridays between 5 and 7 p.m., when commuters and weekend traffic overlap. Whether your injury happened at one of these corridors or elsewhere in the city, the aftermath is often the same: medical bills, missed work, and a lot of unanswered questions. LawProactive is a free service that helps injured people in Campbell connect with an independent personal injury attorney. We are not a law firm, and we don't handle your case ourselves — we simply make the introduction. Attorneys in our network work on contingency, meaning there's no fee unless you recover money. If you're trying to figure out your next step after an injury, reaching out for a free connection costs you nothing and puts you in touch with someone who can look at the specifics of what happened to you.",
+    "commonInjuriesTitle": "Common Injuries We See Connections For",
+    "commonInjuries": [
+      "Whiplash and neck injuries from rear-end collisions",
+      "Broken bones from vehicle or pedestrian crashes",
+      "Traumatic brain injuries from falls or auto accidents",
+      "Back and spinal cord injuries",
+      "Torn ligaments and soft tissue damage",
+      "Cuts, bruises, and scarring from impact trauma"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require notice in as little as six months. Acting sooner helps preserve evidence and protects your options."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means compensation isn't limited to just medical bills and lost wages."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to get help. They only get paid if you win a settlement or verdict."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the insurance company's offer is fair",
+      "Fear that admitting any fault will cost them their entire claim",
+      "Uncertainty about how much time they have left to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much time do I have to file a claim after a Campbell accident?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a personal injury claim. If your injury involved a government entity, such as a city vehicle, the window to act can be much shorter — sometimes just six months. It's best not to wait to find out which timeline applies to you."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Campbell?",
+        "answer": "Public collision records show that corridors like SR-17, San Tomas Expressway, and Hamilton Avenue have higher collision counts than some other parts of the city, with reports peaking on Fridays between 5 and 7 p.m. These are simply neutral counts from public records, not a judgment about any particular road or area."
+      },
+      {
+        "question": "Will I still be able to recover money if I was partly at fault?",
+        "answer": "Yes. California follows a pure comparative fault rule, which means your compensation is reduced by your percentage of fault rather than barred entirely. Even if you were 40% or 60% at fault, you may still be able to recover the remaining percentage."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In most standard personal injury cases in California, there is no cap on non-economic damages such as pain and suffering. This is different from some other states, and it means your compensation isn't limited strictly to medical bills and lost income."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney through LawProactive?",
+        "answer": "No, our connection service is completely free, and we are not a law firm ourselves. Attorneys in our network work on contingency, so if you do hire one, there's no fee unless they recover money for you."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "west-covina city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "West Covina, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in West Covina? LawProactive connects Los Angeles County residents with an independent injury attorney free. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a freeway collision on the I-10, struck as a pedestrian on Azusa Avenue, or injured in a fall at a local store, LawProactive connects you with an independent personal injury attorney at no cost. Serving West Covina and all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in West Covina, California",
+    "longDescription": "Most days in West Covina, traffic moves along Azusa Avenue, Sunset Avenue and Amar Road without incident, and the I-10 San Bernardino Freeway carries commuters through the San Gabriel Valley. Still, public records for 2025 show 409 injury collisions in the city, with 573 people injured and 5 lives lost. Those collisions tended to cluster on Wednesday afternoons between 3 and 5 p.m., when school lets out and the evening commute begins to build. Behind each of those numbers is someone who suddenly has medical bills, missed shifts, and an insurance adjuster asking questions. That is where LawProactive comes in. We are not a law firm, and we do not give legal advice. We are a free service that connects injured people in West Covina and the rest of Los Angeles County with an independent personal injury attorney who handles cases like theirs. You tell us what happened, and we match you with a lawyer who can review it. Attorneys in our network work on contingency, so there is no fee unless there is a recovery. Whether you were rear-ended near the Plaza West Covina exit, hit while crossing Amar Road, or hurt in a fall at a neighborhood business, a conversation costs nothing and may bring some clarity.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in West Covina",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions on the I-10",
+      "Broken bones from pedestrian and bicycle collisions",
+      "Concussions and other head injuries",
+      "Back and spinal disc injuries",
+      "Knee, hip and shoulder injuries from slip-and-fall accidents",
+      "Cuts, burns and soft-tissue injuries from motorcycle crashes"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your West Covina Claim",
+    "items": [
+      {
+        "title": "You have two years, usually",
+        "desc": "California gives most injury victims two years from the date of harm to file a lawsuit. If a city, county or state agency is involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not shut the door",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share of the blame, but you are not barred from bringing a claim."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For typical injury claims in California, there is no statutory ceiling on non-economic damages such as pain, emotional distress and loss of enjoyment of life. A lawyer can explain how these are evaluated."
+      },
+      {
+        "title": "Contingency means no upfront cost",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay no attorney fee unless there is a recovery, and our matching service is free as well."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The hospital bills are arriving and I do not know who is supposed to pay them.",
+      "The other driver's insurance company keeps calling and I am not sure what to say.",
+      "I missed work after the crash and my paycheck is not going to cover rent.",
+      "I was partly at fault, so I assume I have no case at all."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do injury crashes in West Covina tend to happen?",
+        "answer": "Public collision records list the I-10 San Bernardino Freeway, Azusa Avenue, Sunset Avenue and Amar Road as the corridors with the highest counts of reported crashes in West Covina. These are simply the busiest routes in the city, so more traffic means more reports. In 2025, the city recorded 409 injury collisions, and reports tended to peak on Wednesdays between 3 p.m. and 5 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury cases, California allows two years from the date of the injury to file a lawsuit. Claims against a government entity, such as a crash involving a city vehicle or a fall on public property, can require a formal claim within six months. Speaking with an attorney early helps protect those deadlines."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses pure comparative fault, which means partial responsibility reduces your recovery rather than eliminating it. If you are found 25 percent at fault, for example, your compensation is reduced by that percentage. An attorney can review the facts and explain how fault might be assigned in your situation."
+      },
+      {
+        "question": "How much does it cost to use LawProactive or hire an attorney?",
+        "answer": "LawProactive is free. We are not a law firm; we connect you with an independent personal injury attorney who can evaluate your case. The attorneys in our network work on contingency, so there is no attorney fee unless there is a recovery."
+      },
+      {
+        "question": "What should I do in the first few days after an injury in West Covina?",
+        "answer": "Get medical care first, even if you feel mostly fine, because some injuries take days to show up. Keep copies of the police report, photos, medical records and any messages from insurers. Consider talking with an attorney before giving a recorded statement to the other side's insurance company."
+      }
+    ]
+  }
+}

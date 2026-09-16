@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "escalon workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Escalon Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Escalon, CA? Get connected free with an independent attorney who understands work comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "When a job site injury sidelines an Escalon worker, sorting out workers' comp versus a possible third-party claim can be confusing. LawProactive connects you, at no cost, with an independent attorney who can walk through your options."
+  },
+  "about": {
+    "title": "Escalon Workplace Injury Claims",
+    "longDescription": "Escalon's economy leans on agriculture, food processing, trucking along Rt 120, and small local businesses, which means workplace injuries here often involve heavy equipment, farm machinery, delivery vehicles, or repetitive strain from packing and production lines. In San Joaquin County, most job injuries go through the workers' compensation system, which pays medical care and partial wage replacement without regard to fault. But that system doesn't cover everything, and it doesn't apply to everyone involved in an incident. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate legal claim outside of workers' comp. LawProactive doesn't practice law ourselves. We simply help injured Escalon workers connect, at no charge, with an independent attorney who can look at both the workers' comp side and any potential third-party claim, so nothing gets missed while you focus on recovering.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Machinery and equipment entanglement injuries",
+      "Forklift and heavy vehicle accidents",
+      "Repetitive strain and overexertion injuries",
+      "Chemical or pesticide exposure incidents",
+      "Injuries from defective tools or safety equipment"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Escalon Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Always Obvious",
+        "desc": "Workers' comp is usually the only remedy against your employer, but a negligent contractor, equipment maker, or driver may still owe you separately. An attorney can spot claims that workers' comp alone won't cover."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires injuries be reported to your employer within 30 days, and missing that window can complicate your claim. Getting guidance early helps protect your rights before deadlines slip by."
+      },
+      {
+        "title": "Retaliation Is Illegal, and You Have Options",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury or filing a claim. If you're worried about that, an independent attorney can explain what protections apply to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a farm near Escalon Avenue while operating equipment. Do I have a case?",
+        "answer": "Possibly, depending on who's responsible. If the injury happened during your job duties, workers' comp is typically the first path regardless of fault. But if defective machinery, a subcontractor, or another company's negligence played a role, a separate third-party claim may also be available."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "Generally no, because workers' compensation is the exclusive remedy against your employer even if they were careless. There are limited exceptions, such as intentional harm, but most cases route through the comp system instead of a lawsuit."
+      },
+      {
+        "question": "What if my injury happened during a Thursday afternoon delivery run through town, when traffic on Mchenry Avenue and Rt 120 tends to be busier?",
+        "answer": "If you were injured while working and another driver was at fault, you may have both a workers' comp claim and a separate injury claim against that driver. Timing and location on public roads like these often become relevant evidence, so it helps to have those details reviewed early."
+      }
+    ]
+  }
+}

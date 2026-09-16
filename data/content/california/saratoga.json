@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-15",
+    "note": "saratoga city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Saratoga, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Saratoga or elsewhere in Santa Clara County? California gives you 2 years to file. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end collision on SR-85, a fall at a shop, or a dog bite has left you hurt, LawProactive connects Saratoga residents with an independent personal injury attorney at no cost. We serve all of Santa Clara County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Saratoga, California",
+    "longDescription": "Saratoga is a small city of about 31,000 people in Santa Clara County, and most days the traffic along Saratoga Avenue, Saratoga Sunnyvale Road and Saratoga Los Gatos Road moves without incident. Still, the public record for 2025 shows 61 injury collisions within the city, with 72 people hurt and, thankfully, no traffic deaths. Those roads, together with SR-85, account for the highest collision counts in town, and reports tend to bunch up on Thursday afternoons between 3 p.m. and 5 p.m. If one of those numbers now describes you, the paperwork that follows a crash, a fall, or a dog bite can feel heavier than the injury itself. That is where LawProactive comes in. We are a free service, not a law firm. We do not represent you or give legal advice. What we do is listen to what happened and connect you with an independent personal injury attorney who handles cases like yours in Santa Clara County. The attorneys in our network work on contingency, which means no fee unless there is a recovery. California allows two years to file most injury claims, and even partial fault does not shut the door on compensation. Reaching out costs nothing, and you decide what happens next.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Saratoga Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Fractured wrists, arms and collarbones",
+      "Back and spinal disc injuries",
+      "Knee and hip damage from slip-and-fall incidents",
+      "Puncture wounds and scarring from dog bites"
+    ],
+    "ctaText": "Tell us what happened. The connection is free, and there is no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Saratoga Injury Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window",
+        "desc": "California gives most injured people two years from the date of injury to file a claim. If a city, county or state agency is involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not end your case",
+        "desc": "California uses pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not barred from recovering."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "For a typical injury claim in California, there is no statutory ceiling on non-economic damages like pain, suffering and loss of enjoyment of life."
+      },
+      {
+        "title": "You pay nothing up front",
+        "desc": "Attorneys in our network work on contingency. Their fee comes out of a recovery, and if there is no recovery, there is no fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "I am still in pain and the medical bills have already started arriving.",
+      "The other driver's insurer keeps calling and I do not know what to say.",
+      "I missed work and I am worried about covering rent this month.",
+      "I think I might have been partly at fault, so maybe I have no case."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions tend to cluster in Saratoga?",
+        "answer": "Public collision records for Saratoga show the highest counts along Saratoga Avenue, SR-85, Saratoga Sunnyvale Road and Saratoga Los Gatos Road. In 2025 the city recorded 61 injury collisions and 72 people injured, with reports peaking on Thursdays between 3 p.m. and 5 p.m. These are neutral counts from the record, not a judgment about any particular road."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims the deadline is two years from the date you were hurt. Claims against a government entity, such as a city or Caltrans, often require a notice within six months. An attorney can tell you which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California follows pure comparative fault. Your compensation is reduced by your percentage of responsibility, but being partly at fault does not prevent you from recovering. Even someone found mostly at fault can still recover the remaining share."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney in Santa Clara County. We do not give legal advice or represent clients, and there is never a charge for using our service."
+      },
+      {
+        "question": "How does the attorney get paid?",
+        "answer": "Attorneys in our network work on a contingency basis. That means their fee is a percentage of whatever is recovered on your behalf, and if nothing is recovered, you owe no attorney fee. The details of the arrangement are spelled out in writing before you agree to anything."
+      }
+    ]
+  }
+}

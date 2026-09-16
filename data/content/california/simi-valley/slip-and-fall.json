@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "simi-valley slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Simi Valley Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Simi Valley? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A wet floor, a broken step, or an unlit stairwell in Simi Valley can change a routine errand into months of recovery. LawProactive connects you, at no cost, with an independent attorney who handles premises liability claims across Ventura County."
+  },
+  "about": {
+    "title": "Simi Valley Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You are on the ground in a grocery aisle off Los Angeles Avenue or a parking structure near Cochran Street, embarrassed, checking whether anything is broken. Only later, once the wrist swells or the back tightens, does the question surface: who is responsible for the wet floor, the loose tile, the missing handrail? In California, that answer turns on notice. The owner or business generally has to have known about the hazard, or been in a position where they should have known, and then failed to repair it or warn people. Simi Valley's storefronts, apartment complexes, and office parks each carry that same duty. LawProactive is not a law firm. We are a free service that connects Simi Valley residents with an independent personal injury attorney who takes premises cases on contingency, meaning no fee unless there is a recovery. If you were hurt on property you did not control, the sooner someone starts securing photos, incident reports, and camera footage, the steadier your position will be.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Simi Valley",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, forearm, and elbow breaks",
+      "Concussions and other head injuries",
+      "Torn knee and ankle ligaments",
+      "Herniated discs and lower back strain",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened. The connection is free and there is no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Simi Valley Residents Turn to LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the heart of the case",
+        "desc": "California does not hold an owner liable simply because you fell. The attorney you are connected with will focus on proving the property owner knew or should have known about the hazard and did nothing about it."
+      },
+      {
+        "title": "Video disappears fast",
+        "desc": "Many Simi Valley stores and complexes overwrite surveillance footage within days. Getting an attorney involved early means a preservation request can go out before the recording of your fall is gone."
+      },
+      {
+        "title": "Deadlines and shared blame are manageable",
+        "desc": "You generally have two years to file, and much less if a public entity owns the property. Even if you were partly at fault, California's pure comparative fault rule still allows a claim, reduced by your share."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped in a Simi Valley park. Is that handled differently than a fall at a store?",
+        "answer": "Yes, and the difference matters a great deal. When the property belongs to a city, county, school, or park district, you usually must file a formal government claim first, and the window is far shorter than the two years that applies to private owners, often measured in months. An attorney can quickly sort out who actually owns or maintains the spot where you fell and what deadline applies."
+      },
+      {
+        "question": "The store says I should have watched where I was walking. Does that end my claim?",
+        "answer": "No. California follows pure comparative fault, so if a jury decided you were partly responsible, your recovery would be reduced by that percentage rather than eliminated. Owners raise this argument routinely, which is one reason photos of the hazard and any witness names are so useful."
+      },
+      {
+        "question": "What should I do right after a fall if I can?",
+        "answer": "Report the incident to the manager or owner and ask that it be written up before you leave. Photograph the hazard, your footwear, and the surrounding area, and get names of anyone who saw what happened. Then see a doctor even if you feel only sore, and ask that the property preserve any camera footage from that day."
+      }
+    ]
+  }
+}

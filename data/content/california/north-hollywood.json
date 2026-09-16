@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "north-hollywood city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "North Hollywood, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in North Hollywood? LA County's 2-year filing deadline applies. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Lankershim Blvd or a slip-and-fall near the NoHo Arts District, we'll connect you with an independent attorney at no cost, serving all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in North Hollywood, California",
+    "longDescription": "North Hollywood sits at a busy crossroads of Los Angeles County, where corridors like Lankershim Boulevard, Victory Boulevard, Burbank Boulevard, and Vineland Avenue carry heavy daily traffic through residential streets, the Metro Red Line station, and the shops and theaters of the NoHo Arts District. With roughly 87,241 residents plus commuters and visitors passing through, public records show collisions and other injury incidents occur along these corridors on a regular basis. If you or someone you love was hurt here, sorting out medical bills, missed work, and an insurance claim can feel like too much to handle alone. LawProactive is a free service that connects injured people with an independent personal injury attorney in our network — we are not a law firm, and we don't decide or handle your case ourselves. The attorneys we connect you with work on contingency, meaning there's no upfront cost and no fee unless they recover money for you. Reaching out costs nothing and starts the conversation about your options while time limits are still on your side.",
+    "commonInjuriesTitle": "Common Injuries We See Referrals For",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from pedestrian or bicycle accidents",
+      "Traumatic brain injuries from vehicle crashes",
+      "Slip-and-fall injuries at stores or apartment complexes",
+      "Soft tissue damage from motorcycle accidents",
+      "Spinal injuries from serious traffic collisions"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why North Hollywood Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have a Limited Window to Act",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, though claims against a government entity can require notice in as little as six months. Connecting with an attorney early helps make sure that deadline doesn't slip by."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover compensation even if you were partly responsible for the accident — your share of fault simply reduces the amount, it doesn't eliminate your claim."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, and loss of enjoyment of life, so these losses can be fully considered in your claim."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, which means they only get paid if they win or settle your case — there's no fee out of pocket to get started."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while you can't work",
+      "Fearing the insurance company will blame you for the accident",
+      "Not knowing how much time you have left to take legal action",
+      "Feeling overwhelmed trying to find a lawyer who will actually listen"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in North Hollywood?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a personal injury lawsuit. If your claim involves a government entity, such as a city vehicle or a hazard on public property, the notice deadline can be as short as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some blame for what happened. Your total recovery is simply reduced by your percentage of fault, rather than being blocked entirely."
+      },
+      {
+        "question": "Where do injury incidents tend to cluster in North Hollywood?",
+        "answer": "Based strictly on public traffic and incident records, injury-related events tend to occur more often along high-traffic corridors such as Lankershim Boulevard, Victory Boulevard, and Vineland Avenue, likely reflecting the volume of vehicles, pedestrians, and transit activity in those areas. This is a neutral observation about traffic volume, not a judgment about any particular road or intersection."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — in typical personal injury cases, California does not cap non-economic damages such as pain, suffering, or emotional distress. These damages are evaluated based on the specific facts of your injury and its impact on your life."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No, connecting with an attorney through LawProactive is free, and we are not a law firm ourselves — we simply help match you with an independent attorney in our network. Those attorneys work on contingency, so you owe nothing unless they secure a recovery for you."
+      }
+    ]
+  }
+}

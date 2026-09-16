@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "blue-lake workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Blue Lake Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Blue Lake, CA? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Blue Lake workers injured on the job face a small-town mix of ranching, lumber, and river-adjacent trades — and the claims process can be confusing no matter the industry. We connect you, free of charge, with an independent attorney who can look at whether workers' comp, a third-party claim, or both apply to your situation."
+  },
+  "about": {
+    "title": "Blue Lake Workplace Injury Claims",
+    "longDescription": "Blue Lake is a small Humboldt County city, and many residents work in trades tied to timber, agriculture, hospitality, or the casino corridor along Casino Way. When a job injury happens here, California law generally routes the claim through workers' compensation rather than a lawsuit against your employer — but that's not always the whole story. If a subcontractor, equipment manufacturer, property owner, or another company's employee contributed to the accident, a separate third-party injury claim may be possible alongside your comp benefits. Sorting out which path applies, and meeting the reporting deadlines, matters for protecting what you're owed. LawProactive doesn't practice law or handle your case directly; we simply connect injured Blue Lake workers with an independent attorney, free of charge, so you can get clear answers about your specific situation without guessing at the rules yourself.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven job sites",
+      "Equipment and machinery-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle or forklift collisions during work duties",
+      "Injuries from falling materials or improper storage",
+      "Burns or chemical exposure on the job"
+    ],
+    "ctaText": "Get connected with an independent attorney, free, and find out what options may apply to your workplace injury."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Full Picture",
+        "desc": "California generally treats workers' comp as the exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can still be pursued separately."
+      },
+      {
+        "title": "Deadlines Move Fast",
+        "desc": "You typically have 30 days to report a workplace injury to your employer, and any third-party claim carries its own 2-year deadline, so early guidance matters."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "California law prohibits employers from punishing you for reporting an injury or filing a claim, and an attorney can help you understand your protections if that becomes a concern."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at work in Blue Lake — do I file a lawsuit or a workers' comp claim?",
+        "answer": "In most cases, workers' compensation is the exclusive path against your employer, regardless of who was at fault. However, if someone outside your employer — like a subcontractor, property owner, or equipment manufacturer — contributed to your injury, a separate third-party claim may also be available. An independent attorney can help sort out which applies to your case."
+      },
+      {
+        "question": "Does Blue Lake's small size affect how workplace injury claims are handled?",
+        "answer": "The legal process itself follows California-wide rules regardless of city size, but a smaller community like Blue Lake may mean fewer nearby specialists to compare, which is part of why free attorney-matching services exist. The public-record crash data for Blue Lake shows no reported injury collisions in 2024, but that doesn't reflect on-the-job incidents, which follow separate reporting requirements. Getting matched with an attorney familiar with Humboldt County claims can help regardless of where you're located."
+      },
+      {
+        "question": "What if my employer tries to discourage me from reporting my injury?",
+        "answer": "Retaliation for reporting a workplace injury or filing a claim is illegal in California. You generally have 30 days to report the injury to your employer, and taking that step promptly helps protect your claim. If you're facing pushback, an independent attorney can advise you on your rights and next steps."
+      }
+    ]
+  }
+}

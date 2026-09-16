@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "antioch workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Antioch Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt at work in Antioch? LawProactive connects you, free, with an independent attorney to review workers' comp and third-party injury options."
+  },
+  "hero": {
+    "subtitle": "An on-the-job injury in Antioch can leave you juggling medical visits, missed shifts, and paperwork all at once. LawProactive connects you at no cost with an independent attorney who can explain what workers' comp covers and whether someone outside your employer may also be responsible."
+  },
+  "about": {
+    "title": "Antioch Workplace Injury Claims",
+    "longDescription": "Antioch is a working city of about 110,542 people, and much of that work happens on job sites, warehouse floors, retail backrooms, and behind the wheel. When someone gets hurt earning a paycheck here, the first question is usually simple: who pays for this? California workers' compensation normally covers medical care and part of your lost wages no matter who caused the injury, and it is generally the only claim you can bring against your own employer. Still, if a subcontractor left a hazard on a Hillcrest Avenue build, a property owner ignored a broken stair, a tool failed because of a defect, or another driver hit you while you were on the clock along SR-4 or Lone Tree Way, that outside party may owe you a separate injury claim. Antioch recorded 293 injury collisions in 2025, and some of those people were working at the time. LawProactive helps Contra Costa County workers reach an independent attorney who can sort out which path fits, at no cost to you.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Antioch Workplace Cases",
+    "commonInjuries": [
+      "Back and spinal strains from lifting or repetitive motion",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Crush and pinch injuries from machinery or equipment",
+      "Fractures and soft-tissue damage from work-related vehicle crashes",
+      "Burns, chemical exposure, and electrical injuries",
+      "Head injuries from falling objects or slips on wet floors"
+    ],
+    "ctaText": "Tell us what happened at work. We'll connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Antioch Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Systems, One Clear Explanation",
+        "desc": "Workers' comp is usually your only route against your employer, but a negligent third party can open a separate injury claim. The attorney we connect you with can look at both and explain how they interact."
+      },
+      {
+        "title": "Deadlines That Actually Matter",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and third-party injury claims generally carry a two-year deadline. Getting connected early keeps both windows open."
+      },
+      {
+        "title": "Protection From Pushback",
+        "desc": "It is illegal for an employer to retaliate against you for reporting an injury or filing a claim. If you sense pressure to stay quiet, an independent attorney can address it directly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on SR-4 while driving for my job in Antioch. Is that workers' comp or a car accident claim?",
+        "answer": "It may be both. Because you were working, workers' compensation should cover your medical care and a portion of lost wages regardless of fault. If another driver caused the crash, you may also have a separate injury claim against that driver, which is handled outside the comp system. An attorney can review the police report and your work status to map out each option."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most situations, no. Workers' compensation is the exclusive remedy against your employer, meaning you receive benefits without proving fault but generally cannot file a lawsuit against them. The exception is a negligent third party, such as a subcontractor, property owner, or equipment manufacturer, who can be pursued separately. That is why it helps to have someone look closely at who else was involved."
+      },
+      {
+        "question": "What if I waited a few weeks to tell my supervisor I was hurt?",
+        "answer": "California gives you 30 days to report a work injury to your employer, so report it in writing as soon as you can if you have not already. Missing that window can complicate a comp claim, though it does not always end it. Any third-party claim runs on its own two-year clock. Reaching out now lets an attorney assess where you stand on both timelines."
+      }
+    ]
+  }
+}

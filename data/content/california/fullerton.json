@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "fullerton city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fullerton, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Fullerton or elsewhere in Orange County? California gives you 2 years to file. Connect free with an attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on Harbor Boulevard, hurt in a fall, or bitten by a dog, LawProactive connects you with an independent personal injury attorney at no cost. Serving Fullerton and all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Fullerton, California",
+    "longDescription": "Fullerton is a city of roughly 140,847 people, and much of daily life here runs along a handful of busy corridors: Harbor Boulevard through downtown, Euclid Street, Orangethorpe Avenue, and the southbound lanes of SR-57 near Cal State Fullerton. In 2025, the most recent final reporting year, Fullerton recorded 734 injury collisions. Those crashes left 1,135 people hurt, and 4 people lost their lives. Reports cluster most often on Friday evenings between 5 p.m. and 7 p.m., when commuters, students, and families are all trying to get home at once.\n\nIf you were one of those people — or if you were hurt some other way, in a fall, a bike crash, or a dog attack — you probably have practical questions before legal ones. Who pays the ER bill? What happens to your paycheck while you heal?\n\nLawProactive exists to answer the question that comes before all of those: who do I talk to? We are a free service, not a law firm. We connect you with an independent personal injury attorney who handles cases in Orange County. There is no charge to reach out, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. You describe what happened; we make the introduction; the rest of the conversation is between you and the attorney.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Fullerton Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones from falls",
+      "Back and spinal disc injuries",
+      "Road rash and fractures from bicycle or scooter crashes",
+      "Puncture wounds and scarring from dog bites"
+    ],
+    "ctaText": "Tell us what happened. We'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Fullerton Claim",
+    "items": [
+      {
+        "title": "The clock is already running",
+        "desc": "California gives most injury victims 2 years from the date of injury to file a lawsuit. If a city, county, or state agency is involved — say, a crash with a municipal vehicle or a fall on public property — a claim may need to be filed in as little as 6 months."
+      },
+      {
+        "title": "Being partly at fault doesn't shut you out",
+        "desc": "California follows pure comparative fault. If you were found 30 percent responsible, your recovery would be reduced by 30 percent, not eliminated."
+      },
+      {
+        "title": "No statutory ceiling on pain and suffering",
+        "desc": "In an ordinary California injury case there is no cap on non-economic damages, which covers things like pain, lost sleep, and the activities an injury took from you. Each case is valued on its own facts."
+      },
+      {
+        "title": "You don't pay unless there's a recovery",
+        "desc": "Attorneys in our network work on a contingency basis. Their fee comes out of any settlement or verdict, so there is nothing to pay up front, and no fee at all if the case does not recover money."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't afford to miss more shifts, but my doctor says I'm not ready.",
+      "My car is sitting in a body shop and nobody will tell me who's paying.",
+      "I think the crash was partly my fault — does that mean I get nothing?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do injury crashes tend to be reported in Fullerton?",
+        "answer": "Public collision records for 2025 show the highest counts along Harbor Boulevard, Euclid Street, southbound SR-57, and Orangethorpe Avenue. These are simply the corridors that carry the most traffic and generate the most reports. Citywide, Fullerton logged 734 injury collisions that year, with 1,135 people injured and 4 deaths, and reports were most frequent on Fridays between 5 and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We take a few details about your situation and introduce you to an independent personal injury attorney who handles cases in Orange County. Any legal advice comes from that attorney, not from us."
+      },
+      {
+        "question": "How long do I have to act after an injury in Fullerton?",
+        "answer": "For most California injury claims, the statute of limitations is 2 years from the date of the injury. If a government entity is involved — for example, a crash involving a city bus or a fall at a public facility — you may need to file a formal claim within 6 months. Because the deadlines differ, it's wise to speak with an attorney early rather than assume you have time."
+      },
+      {
+        "question": "What if the police report says I contributed to the crash?",
+        "answer": "California uses pure comparative fault, so sharing blame reduces your recovery but does not eliminate it. Your percentage of fault is subtracted from your damages. An attorney can also review whether the report's version of events is actually accurate."
+      },
+      {
+        "question": "What does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. Our connection is free, and the attorneys in our network work on contingency, which means they are paid only as a percentage of any recovery. If your case does not result in a settlement or verdict, you owe no attorney fee."
+      }
+    ]
+  }
+}

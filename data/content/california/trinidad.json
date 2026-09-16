@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "trinidad city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Trinidad, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Trinidad or Humboldt County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash on US-101 or suffered a fall or other injury, we'll connect you free of charge with an independent attorney serving Humboldt County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Trinidad, California",
+    "longDescription": "Trinidad is a small coastal community, but its roads still see their share of collisions. Public records show US-101, Scenic Drive near 27 Scenic Drive, Patricks Point Drive, and Trinidad Frontage Road are among the corridors where crashes have been reported. In the most recent final year on record, Trinidad had 1 injury collision resulting in 1 person injured and no traffic deaths — a reminder that even a town this size isn't immune to the aftermath of a crash. Reports tend to cluster on Monday mornings between 9 and 11 a.m., which may reflect commute patterns along these routes. If you or someone you love has been hurt in a crash or other accident here, LawProactive can help. We are a free service, not a law firm, that connects injured people with an independent personal injury attorney in the area. Any attorney you're connected with through us works on contingency, meaning there's no fee unless you recover compensation. Understanding your options shouldn't add stress to an already difficult time — that's why the connection itself costs you nothing.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from falls or pedestrian incidents"
+    ],
+    "ctaText": "Find out if you may have a claim — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "Contingency Fee Basis",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost. You only pay if there's a recovery on your behalf."
+      },
+      {
+        "title": "Comparative Fault Still Allows Recovery",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you may still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In most ordinary injury cases in California, there's no limit on damages for pain, suffering, and other non-economic losses."
+      },
+      {
+        "title": "Time Limits Matter",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require action in as little as six months. Acting sooner helps preserve your options."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if you can afford a lawyer to look into what happened",
+      "Feeling unsure whether the crash was partly your fault and if that ruins your chances",
+      "Concerned that too much time has already passed to do anything about it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent personal injury attorney. Attorneys in our network work on contingency, so there's no fee unless you recover compensation."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is not a law firm. We simply help connect injured people in Trinidad and throughout Humboldt County with an independent attorney who can evaluate their situation."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Generally, you have two years from the date of injury to file a personal injury claim in California. If your claim involves a government entity, the window can be as short as six months, so it's wise not to wait."
+      },
+      {
+        "question": "Where do crashes tend to occur in Trinidad?",
+        "answer": "Public records show collisions reported along corridors including US-101, Scenic Drive near the 27 Scenic Drive area, Patricks Point Drive, and Trinidad Frontage Road. These are simply the routes with the highest recorded collision counts, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still seek compensation even if you share some responsibility. Any award would typically be reduced by your percentage of fault, but partial fault does not bar you from recovering."
+      }
+    ]
+  }
+}

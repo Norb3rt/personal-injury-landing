@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "ridgecrest workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ridgecrest Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Ridgecrest? Free connection to an independent attorney. Learn about workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a job site injury sidelines you in Ridgecrest, sorting out workers' comp from a possible third-party claim can feel like a second job. We connect you, at no cost, with an independent attorney who can help sort out your options."
+  },
+  "about": {
+    "title": "Ridgecrest Workplace Injury Claims",
+    "longDescription": "Ridgecrest's workforce spans everything from Naval Air Weapons Station contractors to retail and warehouse jobs along China Lake Boulevard, and job-site injuries here range from equipment mishaps to vehicle collisions during work travel. California generally routes injured workers through the workers' compensation system rather than a lawsuit against the employer, regardless of who was at fault. But when a subcontractor, equipment manufacturer, property owner, or another driver contributed to the accident, a separate third-party injury claim may be possible alongside your workers' comp benefits. That distinction matters because third-party claims can address losses workers' comp doesn't fully cover, like pain and suffering. LawProactive doesn't practice law ourselves — we simply connect injured Ridgecrest workers with an independent attorney, free of charge, who can review the specifics of the incident and explain what paths might be open. There's no obligation and no upfront cost to have that conversation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or elevated platforms",
+      "Equipment and machinery-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions while driving for work purposes",
+      "Burns or chemical exposure incidents",
+      "Struck-by or caught-in-between accidents"
+    ],
+    "ctaText": "Get connected with an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "While employer liability is typically limited to the workers' compensation system, a negligent third party involved in your accident may still owe you a separate claim."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires reporting a workplace injury to your employer within 30 days, so getting guidance early can help protect your options."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or pursuing a claim, and an attorney can help you understand those protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site near S China Lake Boulevard — do I file a lawsuit or a workers' comp claim?",
+        "answer": "In most cases, workers' compensation is the exclusive route against your employer regardless of fault. However, if a third party — like a subcontractor, property owner, or another driver — contributed to the accident, a separate injury claim against them may also be possible. An independent attorney can help figure out which applies to your situation."
+      },
+      {
+        "question": "What if my employer discourages me from reporting the injury?",
+        "answer": "Retaliation against an employee for reporting a workplace injury or filing a claim is illegal under California law. If you're experiencing pushback, it's worth speaking with an independent attorney promptly to understand your options and protect your rights."
+      },
+      {
+        "question": "How long do I have to bring a third-party claim after a Ridgecrest workplace accident?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the incident. That's separate from the 30-day window for reporting the injury to your employer for workers' comp purposes, so it helps to act on both fronts without delay."
+      }
+    ]
+  }
+}

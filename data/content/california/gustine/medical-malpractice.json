@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "gustine medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gustine Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney serving Gustine, CA. No fee unless you recover. Merced County resources."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis is missed or a routine procedure goes wrong in Gustine, the aftermath can feel isolating in a small community. LawProactive can connect you with an independent attorney who understands Merced County medical malpractice claims at no upfront cost."
+  },
+  "about": {
+    "title": "Gustine Medical Malpractice Claims",
+    "longDescription": "Gustine is a tight-knit farming town of just under 6,000 residents, and many locals rely on nearby Merced County clinics and hospitals for care. When that care falls short — a delayed diagnosis, a surgical error, a medication mix-up — the effects ripple through a small community fast. California's MICRA law shapes how these claims move forward: patients generally have one year from discovering the harm (and no more than three years from the injury itself) to act, a 90-day notice must go to the provider before a lawsuit is filed, and a qualified medical expert almost always has to review the case. A poor outcome by itself isn't proof of malpractice; the law requires showing the provider fell below the accepted standard of care. LawProactive doesn't practice law — we simply connect Gustine residents with an independent attorney who can evaluate the details and explain what MICRA's rules mean for a specific situation, free of charge.",
+    "commonInjuriesTitle": "Injuries Linked to Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to treat or monitor a known condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Gustine Families Should Know About MICRA",
+    "items": [
+      {
+        "title": "The Clock Starts at Discovery",
+        "desc": "California generally allows one year from when the harm is discovered to file, but never more than three years from the original injury. Because rural care networks can mean delayed test results or referrals, pinning down that discovery date matters."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can be filed, the provider must typically receive 90 days' written notice. An attorney familiar with this step can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "A qualified medical expert almost always has to confirm the care fell below accepted standards — a bad result alone isn't enough. This is why an early, honest case review matters before assuming what happened qualifies."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Gustine?",
+        "answer": "Under MICRA, it's generally one year from when you discover the injury, and never more than three years from when it occurred. Because Gustine residents often see multiple providers across Merced County before a problem is caught, figuring out the discovery date can take some digging. An attorney can help sort through medical records to pin that down."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No — a poor result alone doesn't establish malpractice under California law. The claim has to show the provider's care fell below what a reasonably careful provider would have done, usually confirmed by a qualified medical expert. That's why a case review matters before drawing conclusions."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes, MICRA sets a cap on non-economic damages, though that cap rises each year under current law. Economic losses like medical bills and lost income are handled separately. An independent attorney can walk through how these categories apply to your specific case."
+      }
+    ]
+  }
+}

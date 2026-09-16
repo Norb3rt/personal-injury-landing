@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "plymouth slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Plymouth Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Plymouth, CA? We connect you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Plymouth business or property can leave you with real medical bills and no clear next step. LawProactive connects you, at no cost, with an independent attorney near Amador County who handles premises liability claims."
+  },
+  "about": {
+    "title": "Plymouth Slip & Fall Claims",
+    "longDescription": "Plymouth is a small town, but its shops, wineries, and public spaces along Rt 49 and Main Street still carry the same legal duty to keep visitors reasonably safe. When a spill, broken step, uneven walkway, or poor lighting causes a fall, California law asks whether the property owner knew, or should have known, about the hazard and failed to correct or warn about it. That question of notice often decides the outcome of a premises liability claim. Because small-town properties may not always have surveillance systems or formal incident logs, getting details written down and preserved quickly matters even more here. LawProactive doesn't practice law or handle your case directly. Instead, we listen to what happened, then connect you with an independent attorney in our network who can review the property conditions, gather available evidence, and explain your options. There's no cost to you for this connection, and the attorneys we work with take premises cases on contingency.",
+    "commonInjuriesTitle": "Injuries Commonly Reported After Falls",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures",
+      "Torn ligaments or knee injuries",
+      "Traumatic brain injury or concussion",
+      "Spinal disc injury or herniation",
+      "Cuts requiring stitches or reconstruction"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Notice and Timing Matter in a Plymouth Fall Case",
+    "items": [
+      {
+        "title": "Proving the Owner Knew or Should Have Known",
+        "desc": "California premises liability turns on notice: an owner isn't automatically liable for a hazard, but they can be liable if they knew about it or should have discovered it through reasonable inspection and didn't fix or warn about it."
+      },
+      {
+        "title": "Surveillance Footage Doesn't Wait",
+        "desc": "Many businesses overwrite security video within days or weeks, so requesting preservation quickly can be the difference between having evidence and having none."
+      },
+      {
+        "title": "Two Years to Act, Fault Can Be Shared",
+        "desc": "California generally gives you two years from the fall to file a claim, and under pure comparative fault rules you can still recover even if you were partly responsible, though your share of fault reduces the amount."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell at a small shop in Plymouth that doesn't have security cameras. Do I still have a case?",
+        "answer": "Yes, a lack of cameras doesn't rule out a claim. Photos of the hazard, witness statements, and any maintenance or complaint records the business kept can still help establish that the owner knew or should have known about the condition."
+      },
+      {
+        "question": "How long do I have to file a premises liability claim after a fall in Amador County?",
+        "answer": "In most cases, California law gives you two years from the date of the fall to file a lawsuit. If a government-owned property is involved, such as a public building or sidewalk, the deadline to act is much shorter, so it's worth having a claim reviewed sooner rather than later."
+      },
+      {
+        "question": "What if I was partly to blame for my own fall, like not watching where I was walking?",
+        "answer": "California follows a pure comparative fault rule, meaning you can still pursue compensation even if you share some responsibility. Your recovery would simply be reduced by your percentage of fault, so it's still worth having an independent attorney evaluate the specifics."
+      }
+    ]
+  }
+}

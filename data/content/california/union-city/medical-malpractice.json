@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "union-city medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Union City Medical Malpractice Attorney Connection",
+    "metaDescription": "Harmed by a medical error in Union City, CA? LawProactive connects you free with an independent malpractice attorney who knows MICRA's short deadlines."
+  },
+  "hero": {
+    "subtitle": "A missed diagnosis or surgical mistake in Union City can change everything, and California's MICRA rules give you limited time to act. We connect you, at no cost, with an independent attorney who handles these cases on contingency."
+  },
+  "about": {
+    "title": "Union City Medical Malpractice Claims",
+    "longDescription": "Union City sits in southern Alameda County, home to 74,494 people who rely on local clinics, urgent care, and nearby hospitals when something goes wrong. Most of that care is competent. When it isn't — when a fracture from a Whipple Road collision is misread, a medication is dosed incorrectly, or a diagnosis is delayed until a condition worsens — the fallout can reshape a family's life. California treats these cases under MICRA, a set of rules unlike ordinary injury claims. The clock is short: generally one year from the date you discovered the harm, and never more than three years from the injury itself. A 90-day notice must go to each provider before a lawsuit is filed. And because a poor result alone is not malpractice, a qualified medical expert almost always has to explain how the standard of care was breached. LawProactive is a free service, not a law firm. We connect Union City residents with an independent attorney who handles these claims on contingency, so you owe no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm We Commonly See in Union City Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Hospital-acquired infections left untreated"
+    ],
+    "ctaText": "Ask a free question about your Union City case"
+  },
+  "whyChoose": {
+    "title": "Why Union City Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are unforgiving",
+        "desc": "You generally have one year from discovering the harm, and no more than three years from the injury, to bring a claim. Getting connected early leaves room for the mandatory 90-day pre-suit notice."
+      },
+      {
+        "title": "Expert testimony is nearly always required",
+        "desc": "California courts expect a qualified medical expert to explain how care fell below the accepted standard. The independent attorneys in our network know how to build a case around that testimony."
+      },
+      {
+        "title": "Free connection, contingency representation",
+        "desc": "LawProactive costs nothing to use, and the attorney you're matched with works on contingency. There is no fee unless your case produces a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on I-880 near Union City, and the emergency room missed an injury. Is that a car accident claim or a malpractice claim?",
+        "answer": "It may be both, and they proceed under different rules. The collision itself falls under ordinary personal injury law, while a missed or delayed diagnosis at the hospital is governed by MICRA, with its shorter deadlines and expert requirement. An attorney can sort out which parties may be responsible for which portion of your harm."
+      },
+      {
+        "question": "Does a bad result from my surgery automatically mean I have a case?",
+        "answer": "No. California law is clear that an unfortunate outcome, by itself, is not malpractice. You must show the provider departed from the accepted standard of care and that the departure caused your injury, which is why a qualified medical expert is almost always needed to review the records."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California medical malpractice case?",
+        "answer": "MICRA places a statutory cap on non-economic damages such as pain and suffering, and that cap rises each year under current law. Economic losses like medical bills and lost income are treated separately. An attorney can explain how the cap in effect at the time of your case applies to your situation."
+      }
+    ]
+  }
+}

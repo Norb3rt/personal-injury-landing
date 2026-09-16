@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "south-pasadena city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "South Pasadena, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in South Pasadena, LA County? 2 years to file. Free attorney connection, no fee unless you win. Get help today."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident in South Pasadena, we can connect you with an independent attorney at no cost to you. Free, no-obligation help for injured residents across Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in South Pasadena, California",
+    "longDescription": "South Pasadena is a small city with a lot of daily traffic passing through it, especially along Fremont Avenue, Fair Oaks Avenue, Huntington Drive, and Monterey Road. In the most recent full year on record, the city logged 57 injury collisions and 75 people hurt — numbers that reflect how often ordinary trips through town can turn into something serious. Data also shows crashes tend to cluster on Fridays between 3 and 5 p.m., a window many residents recognize from weekend errands or the school and work commute overlapping. If you or someone you love was hurt in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel like a full-time job on top of recovering. LawProactive is a free service — not a law firm — that connects injured people in South Pasadena with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk, and attorneys in our network only get paid if you recover compensation. You don't have to figure this out by yourself.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from falls or slip-and-fall accidents"
+    ],
+    "ctaText": "Talk to us for free — see what your options might be."
+  },
+  "whyChoose": {
+    "title": "What South Pasadena Residents Should Know About California Injury Law",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, but claims against a government agency can require notice in as little as six months. Waiting to get answers can cost you your case before it even starts."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover compensation even if you were partially responsible for what happened. Your share of fault simply reduces the amount, it doesn't eliminate it."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Unlike some states, California places no cap on non-economic damages — like pain, suffering, and loss of enjoyment of life — in a standard personal injury case. That matters when an injury changes your daily routine."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront fee to have your case reviewed or represented. Payment only comes out of money recovered on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while you're out of work",
+      "Feeling pressured by insurance adjusters calling before you've healed",
+      "Not knowing if you waited too long or missed a filing deadline",
+      "Wondering whether being partly at fault means you have no case at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in South Pasadena?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If a government entity — like a city vehicle or a defect on public property — was involved, that window can shrink to as little as six months, so it's worth getting advice early."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still pursue compensation even if you share some blame. Your fault percentage simply reduces your recovery rather than blocking it entirely."
+      },
+      {
+        "question": "Are certain roads in South Pasadena more likely to see crashes?",
+        "answer": "Public collision records show that Fremont Avenue, Fair Oaks Avenue, Huntington Drive, and Monterey Road are among the higher-volume corridors for reported injury collisions in the city. These are simply neutral counts of where more crashes have been recorded, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — California does not cap non-economic damages, such as pain and suffering, in a typical personal injury case. This is different from some other states and can matter significantly depending on your injury."
+      },
+      {
+        "question": "Does it cost anything to speak with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award."
+      }
+    ]
+  }
+}

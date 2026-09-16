@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "cypress medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Cypress Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Cypress, CA? Get connected free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis is missed or a procedure goes wrong at a Cypress medical facility, sorting out what happened can feel overwhelming. LawProactive connects you at no cost with an independent attorney who can review your care and explain your options."
+  },
+  "about": {
+    "title": "Cypress Medical Malpractice Claims",
+    "longDescription": "Cypress residents rely on a mix of Orange County clinics, urgent care centers, and hospital systems for everything from routine visits to surgery. Most of the time, that care goes as expected. But when a provider misses a diagnosis, makes a surgical error, or mismanages medication, the consequences can follow a patient for years. California law recognizes that not every bad outcome is malpractice — the question is whether the provider deviated from the accepted standard of care, and whether that deviation caused harm. Because these cases require a qualified medical expert and strict adherence to notice and filing deadlines, early review matters. LawProactive doesn't practice law or handle your claim directly. Instead, we connect Cypress residents with an independent attorney, free of charge, who can look at your medical records, explain whether your situation fits the legal definition of malpractice, and walk you through what comes next without any obligation on your part.",
+    "commonInjuriesTitle": "Common Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Cypress Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Are Short and Specific",
+        "desc": "Under MICRA, claims generally must be brought within one year of discovering the injury, and no more than three years after it occurred, with a required 90-day pre-suit notice to the provider. Missing these windows can end a claim before it starts, so early guidance matters."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "California law limits non-economic damages in medical malpractice cases, though that cap increases annually under current law. An independent attorney can explain how this affects what a case might be worth in your specific situation."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California generally requires a qualified medical expert to establish that a provider's care fell below the accepted standard. LawProactive connects you with an attorney who can help determine whether your case has the medical support needed to move forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How do I know if what happened to me counts as malpractice under California law?",
+        "answer": "A poor outcome by itself doesn't establish malpractice — the law requires showing that a provider's care fell below what a reasonably careful provider would have done, and that this caused your injury. An independent attorney can review your records and medical history to help make that determination. This evaluation through LawProactive costs nothing and carries no obligation."
+      },
+      {
+        "question": "Is there a local hospital or clinic in Cypress I should be worried about?",
+        "answer": "We don't single out any specific facility, and a bad outcome at any Cypress-area provider doesn't automatically mean malpractice occurred. What matters is whether the care given deviated from accepted medical standards. An attorney can look at the specifics of your treatment, wherever it took place."
+      },
+      {
+        "question": "What's the 90-day notice requirement I've heard about?",
+        "answer": "Before filing a medical malpractice lawsuit in California, you generally must give the healthcare provider 90 days' written notice of your intent to sue. This step is separate from the underlying filing deadlines and has its own timing rules. An attorney can help make sure this notice is prepared and sent correctly."
+      }
+    ]
+  }
+}

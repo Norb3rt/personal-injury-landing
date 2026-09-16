@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "pleasanton city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pleasanton, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Pleasanton or Alameda County? California gives you 2 years to file. Connect free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From freeway collisions on I-580 to slip-and-fall injuries and bicycle crashes, LawProactive connects Pleasanton residents with an independent personal injury attorney at no cost. Serving all of Alameda County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Pleasanton, California",
+    "longDescription": "Pleasanton sits where I-580 and I-680 meet, and that junction shapes daily life for the city's 79,510 residents. Commuters funnel onto I-580 Westbound in the morning and back along I-580 Eastbound in the evening, while I-680 Southbound carries traffic south out of town. Public collision records reflect that pattern: I-580 in both directions and I-680 Southbound account for the highest volumes of reported crashes in the city, and incidents cluster on Fridays between 5 p.m. and 7 p.m. In 2025, Pleasanton recorded 324 injury collisions. Those crashes left 447 people injured and took 3 lives. Behind each number is someone dealing with medical bills, missed shifts, and an insurance adjuster who calls before the pain has even settled. LawProactive exists to make one part of that easier. We are a free service, not a law firm. When you reach out, we connect you with an independent personal injury attorney who handles cases in Alameda County. You pay nothing to be matched, and attorneys in our network work on contingency, meaning no fee unless there is a recovery. Whether you were rear-ended on the freeway, struck while crossing a local street, or hurt on someone else's property, a conversation about your options costs nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Pleasanton",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken bones from pedestrian and bicycle crashes",
+      "Back and spinal disc injuries",
+      "Shoulder and knee damage from falls",
+      "Soft-tissue injuries that surface days later"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney — free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Pleasanton Claim",
+    "items": [
+      {
+        "title": "Two Years, Sometimes Far Less",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, that window can shrink to six months, so timing matters more than people expect."
+      },
+      {
+        "title": "Partial Fault Doesn't Close the Door",
+        "desc": "California follows pure comparative fault. Even if you were partly responsible for a crash, you can still recover, with the amount reduced by your share of the blame rather than eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages. Pain, disruption to your daily life, and emotional strain can all be part of a claim."
+      },
+      {
+        "title": "Nothing Out of Pocket",
+        "desc": "Attorneys in the LawProactive network work on contingency. There is no fee unless there is a recovery, and our connection service is always free."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "I can't work right now and the bills are already stacking up.",
+      "The other driver's insurance keeps calling and I don't know what to say.",
+      "I feel partly at fault, so maybe I don't have a case.",
+      "I've never hired a lawyer and can't afford one anyway."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Pleasanton occur most often?",
+        "answer": "Based on public-record collision counts, the highest volumes are reported on I-580 Westbound, I-580 Eastbound, I-580 generally, and I-680 Southbound. Records also show crashes peaking on Fridays between 5 p.m. and 7 p.m. These are simply where and when the numbers are highest, not a judgment about any particular stretch of road."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date you were hurt. When a government entity is involved, such as a claim tied to a public road or a city vehicle, a notice may be required within six months. An attorney can pin down which deadline applies to your situation."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney serving Alameda County. We do not provide legal advice or represent clients ourselves."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses pure comparative fault, so sharing blame does not bar you from recovering. Your compensation would be reduced by your percentage of fault, but the claim can still move forward. This is one reason it is worth talking to an attorney before assuming you have no case."
+      },
+      {
+        "question": "How much does it cost to get connected with an attorney?",
+        "answer": "Nothing. Our matching service is free, and the attorneys we connect you with work on contingency. That means no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

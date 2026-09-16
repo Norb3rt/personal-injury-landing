@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "hillsborough car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hillsborough Car Accident Help | LawProactive",
+    "metaDescription": "Free connection to an independent car accident attorney serving Hillsborough, CA. No fee unless you recover. Call before you talk to any insurer."
+  },
+  "hero": {
+    "subtitle": "If a collision on I-280, Skyline Boulevard, or Crystal Springs Road left you hurt, LawProactive can connect you with an independent Hillsborough car accident attorney at no cost to you."
+  },
+  "about": {
+    "title": "Hillsborough Car Accident Claims",
+    "longDescription": "Hillsborough is a quiet, low-density town, but its residents still travel the same regional corridors as everyone else in San Mateo County — I-280 and its northbound lanes, Skyline Boulevard, and Crystal Springs Road. Public records show a small but real number of injury collisions here each year, with Thursday afternoons between 1 and 3 p.m. showing up more often than other times. Whether you were driving through town on I-280 or navigating the curves along Skyline, an injury crash can leave you dealing with medical appointments, missed work, and calls from an insurance adjuster who wants a recorded statement. LawProactive doesn't practice law — we connect injured drivers and passengers with an independent personal injury attorney who can review the crash, help preserve evidence like vehicle damage and road conditions, and explain your options under California law. There's no cost to get connected, and no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Herniated or bulging discs",
+      "Fractured bones",
+      "Torn ligaments or tendons",
+      "Soft tissue injuries requiring ongoing treatment"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer Calls Back",
+    "items": [
+      {
+        "title": "California's Two-Year Clock",
+        "desc": "You generally have two years from the crash date to file a car accident lawsuit in California, though claims involving a government road or vehicle can require notice in as little as six months. Acting early helps make sure that window doesn't close on you."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California uses pure comparative fault, meaning your compensation can be reduced by whatever percentage of blame you're assigned — even a recorded statement given casually to an insurer can be used to shift that percentage higher. An attorney can help you avoid giving away ground before the facts are clear."
+      },
+      {
+        "title": "No Cap, No Upfront Cost",
+        "desc": "California places no cap on non-economic damages like pain and suffering, and attorneys in our network work on contingency, meaning there's no fee unless you recover. That structure lets you focus on treatment instead of legal bills while your claim is reviewed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was in a crash on I-280 near Hillsborough — do I need to give the other driver's insurer a statement right away?",
+        "answer": "No, you're not required to give a recorded statement to the other driver's insurance company, and it's often better to speak with an attorney first. Anything you say can be used later to argue you were partly at fault under California's comparative fault rule. LawProactive can connect you with an independent attorney before you make that call."
+      },
+      {
+        "question": "How long do I have to file a claim after a car accident in Hillsborough?",
+        "answer": "In most cases, California gives you two years from the date of the crash to file a lawsuit. If a government entity's vehicle or road defect was involved, that window can shrink to as little as six months, so it's worth getting an attorney's input sooner rather than later."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California follows pure comparative fault, which means you can still recover compensation even if you share some responsibility — your recovery is just reduced by your percentage of fault. An independent attorney can help evaluate how fault might be allocated and what that means for your specific situation."
+      }
+    ]
+  }
+}

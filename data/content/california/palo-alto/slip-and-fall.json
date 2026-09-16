@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "palo-alto slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Palo Alto Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Palo Alto? Get connected free to an independent premises liability attorney. No fee unless you recover. Start now."
+  },
+  "hero": {
+    "subtitle": "A fall on a poorly maintained sidewalk, wet grocery aisle, or unlit stairwell in Palo Alto can leave you with real injuries and real bills. We connect you, free of charge, with an independent attorney who handles premises liability claims in Santa Clara County."
+  },
+  "about": {
+    "title": "Palo Alto Slip & Fall Claims",
+    "longDescription": "Palo Alto blends dense retail corridors along University Avenue, tech campuses, and older residential streets, which means the conditions behind a fall vary widely — a cracked walkway near Middlefield Road, a slick floor inside a café, a poorly lit apartment stairwell. Whatever the setting, California law asks a specific question: did the property owner know, or should they have reasonably known, about the hazard, and did they fail to fix or warn about it? That single issue often decides a premises liability claim. Because evidence like spill logs, maintenance records, and surveillance footage can disappear quickly, documenting the scene and reporting the fall matters. LawProactive doesn't practice law — we simply connect injured people in Palo Alto with an independent attorney who can evaluate the hazard, gather evidence before it's gone, and explain your options. There's no cost to get connected, and no fee owed unless your case results in a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures from bracing a fall",
+      "Traumatic brain injury from head impact",
+      "Torn ligaments or meniscus damage in the knee",
+      "Spinal disc injury or herniation",
+      "Shoulder dislocation or rotator cuff tears"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why the Details Matter in a Premises Case",
+    "items": [
+      {
+        "title": "Proving Notice Takes Evidence",
+        "desc": "California requires showing the owner knew or should have known about the hazard. An attorney can pull maintenance logs, prior complaints, and inspection records to build that case."
+      },
+      {
+        "title": "Surveillance Footage Disappears Fast",
+        "desc": "Many stores and buildings overwrite security video within days or weeks. Acting quickly to request preservation of that footage can be critical to your claim."
+      },
+      {
+        "title": "Comparative Fault Doesn't Bar Recovery",
+        "desc": "Even if you were partly distracted or moving quickly when you fell, California's pure comparative fault rule still allows you to recover a share of damages reduced by your percentage of fault."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Palo Alto?",
+        "answer": "Generally you have two years from the date of the fall to file a lawsuit in California. If the property involved is owned by a public entity, such as a city building or park, the deadline is much shorter and requires a separate claims process. Talking to an attorney early helps make sure you don't miss a critical window."
+      },
+      {
+        "question": "What if I fell at a business near University Avenue or a downtown Palo Alto shop?",
+        "answer": "Commercial property owners and tenants are expected to keep walkways, floors, and entrances reasonably safe for customers. If a hazard existed long enough that staff should have noticed and addressed it, that supports a notice argument. An attorney can help identify who's responsible — the store, the landlord, or a maintenance contractor."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. Attorneys in our network generally work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

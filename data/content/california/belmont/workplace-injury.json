@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "belmont workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Belmont Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Belmont? LawProactive connects you free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Belmont, from a warehouse near Old County Road to an office along El Camino Real, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims at no cost to you."
+  },
+  "about": {
+    "title": "Belmont Workplace Injury Claims",
+    "longDescription": "Belmont's mix of small businesses, office parks, and light industrial sites along Ralston Avenue and Old County Road means workplace injuries here come in many forms — falls, equipment mishaps, repetitive strain, and vehicle-related incidents for employees who drive as part of their job. Most injured workers in San Mateo County will file through workers' compensation, since that system is usually the exclusive remedy against an employer regardless of fault. But when a subcontractor, property owner, equipment manufacturer, or another driver contributed to the injury, a separate third-party claim may also be possible. Sorting out which path applies — or whether both do — can be confusing while you're focused on recovering. LawProactive doesn't practice law or take a fee itself; we simply connect Belmont workers with an independent attorney who can review the details and explain the options, free of charge and without any obligation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Repetitive strain and overuse injuries",
+      "Machinery or equipment-related injuries",
+      "Vehicle collisions during work-related driving",
+      "Struck-by or falling object injuries",
+      "Chemical exposure or respiratory irritation"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Belmont Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Clarity on Comp vs. Third-Party Claims",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker can open a separate claim. An attorney can help sort out which route, or both, fits your situation."
+      },
+      {
+        "title": "Protection From Retaliation",
+        "desc": "California law prohibits employer retaliation against workers who report an injury or file a claim. If you're worried about your job while reporting within the required 30-day window, an attorney can help you understand your protections."
+      },
+      {
+        "title": "Awareness of Claim Deadlines",
+        "desc": "Third-party injury claims generally carry a two-year deadline in California, separate from workers' comp reporting rules. Missing either window can limit your options, so early guidance matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at work in Belmont — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is your exclusive remedy against your employer, regardless of who was at fault. However, if a third party like a contractor, property owner, or equipment manufacturer contributed to your injury, you may also have a separate claim against them. An independent attorney can look at your specific facts and explain which paths apply."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer?",
+        "answer": "California generally requires you to report a workplace injury to your employer within 30 days. Waiting longer can complicate your workers' comp claim, so it's worth reporting as soon as you're able. This is separate from any deadline that applies to a third-party claim."
+      },
+      {
+        "question": "Many Belmont commuters get hurt driving for work near Ralston Avenue or US-101 — does that count as a workplace injury?",
+        "answer": "Reportable public-record crash data shows collisions on corridors like Ralston Avenue and US-101, and if you were driving as part of your job duties when injured, it may qualify as a workplace injury under workers' comp. It could also open a third-party claim if another driver was at fault. An attorney can help determine how your specific commute or work-driving situation fits the law."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "firebaugh workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Firebaugh Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Firebaugh? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Whether you work the fields around Firebaugh, drive Rt 33 for deliveries, or work a shift near N Street, a job injury can leave you with more questions than answers. LawProactive connects you free with an independent attorney who can look at your options."
+  },
+  "about": {
+    "title": "Firebaugh Workplace Injury Claims",
+    "longDescription": "Firebaugh's economy leans heavily on agriculture, trucking, and the small businesses that serve Fresno County's farmland, and that kind of work carries real physical risk. When someone gets hurt on the job here, California's workers' compensation system is usually the first stop, since it typically applies no matter who was at fault. But that's not always the end of the story. If a piece of equipment failed, a subcontractor's negligence played a role, or someone outside your employer caused the harm, a separate third-party claim may be possible. LawProactive doesn't practice law; we simply connect Firebaugh workers with an independent personal injury attorney who can review the details of what happened and explain what paths might apply. There's no cost to ask, and no obligation to move forward until you understand your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Back and spine strain from lifting or repetitive labor",
+      "Machinery and equipment-related injuries",
+      "Falls from ladders, trucks, or uneven ground",
+      "Heat-related illness during outdoor agricultural work",
+      "Crush or pinch injuries from farm or industrial equipment",
+      "Vehicle-related injuries while driving for work"
+    ],
+    "ctaText": "Talk with an independent attorney about your workplace injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Firebaugh Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Only Path",
+        "desc": "California generally treats workers' compensation as the exclusive remedy against your employer, but if a third party, like an equipment manufacturer, subcontractor, or another driver, contributed to your injury, a separate claim may be available."
+      },
+      {
+        "title": "Your Report Window Matters",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days, so timing can affect what options remain open to you."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "If you're worried about speaking up, California law prohibits employers from retaliating against workers who report an injury or pursue a claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near N Dos Palos Road. Can I still file a workers' comp claim?",
+        "answer": "Generally, yes, injuries that happen while performing job duties, including driving for work, are typically covered under California workers' compensation regardless of fault. If another driver caused the crash, there may also be a separate third-party claim worth exploring. An independent attorney can look at the specifics and explain what applies to your situation."
+      },
+      {
+        "question": "What if my employer says my injury doesn't qualify because I work in agriculture?",
+        "answer": "Agricultural workers are generally covered under California's workers' compensation system just like other employees, though the details can get complicated depending on your role and employer. It's worth having an independent attorney review your case rather than accepting a denial at face value."
+      },
+      {
+        "question": "How long do I have to bring a claim if a third party, not my employer, caused my injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the injury. That's separate from the 30-day window for reporting a workplace injury to your employer, so it helps to understand both timelines early."
+      }
+    ]
+  }
+}

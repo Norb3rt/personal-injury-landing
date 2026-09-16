@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "folsom workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Folsom Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Folsom, CA? Learn how workers' comp and third-party claims work, then get a free connection to an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "An injury at work in Folsom can leave you juggling medical appointments, missed paychecks, and a workers' comp system that feels built for someone else. We help you understand your options and connect you, free, with an independent attorney."
+  },
+  "about": {
+    "title": "Folsom Workplace Injury Claims",
+    "longDescription": "Folsom's working days happen in a lot of different places: the office and tech campuses off Iron Point Road, the retail strips along E Bidwell Street, construction sites in growing neighborhoods, and the vehicles that move between all of them. When a shift ends with an injury, most people in Sacramento County start with workers' compensation. That system pays medical bills and a portion of lost wages without asking who was at fault, and in exchange it is usually the only claim you can bring against your employer. What many injured workers don't realize is that a second path can exist. If someone outside your company caused the harm — a subcontractor, the owner of the building where you were working, the manufacturer of a machine that failed, or another driver who hit you while you were on the clock — California allows a separate injury claim against that third party. LawProactive helps you sort out which options apply and connects you, free of charge, with an independent attorney who works on contingency.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Folsom Workplace Cases",
+    "commonInjuries": [
+      "Back and spinal strains from lifting or repetitive motion",
+      "Fractures from falls off ladders, scaffolds, or loading docks",
+      "Crush and amputation injuries from machinery or equipment",
+      "Burns and electrical injuries on job sites",
+      "Whiplash and head trauma from on-the-clock vehicle collisions",
+      "Hearing loss and chemical or respiratory exposure"
+    ],
+    "ctaText": "Tell us what happened at work. The connection is free, and you decide what comes next."
+  },
+  "whyChoose": {
+    "title": "Why Folsom Workers Use LawProactive",
+    "items": [
+      {
+        "title": "We look past workers' comp",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but California lets you pursue a negligent subcontractor, property owner, equipment maker, or driver separately. An attorney can tell you whether that second claim exists in your situation."
+      },
+      {
+        "title": "We keep the deadlines straight",
+        "desc": "You have 30 days to report an injury to your employer, and a third-party injury claim in California generally carries a two-year filing deadline. Knowing which clock applies to which claim matters from day one."
+      },
+      {
+        "title": "No fee unless you recover, no cost to connect",
+        "desc": "Our service is free, and the independent attorneys in our network handle injury cases on contingency. Retaliation for reporting a work injury is illegal in California, so you can ask questions without fear of losing your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver on Iron Point Road while making deliveries for my employer. Is that workers' comp or a car accident case?",
+        "answer": "It may be both. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of fault. Because a separate driver caused the crash, California also allows a third-party injury claim against that driver, which can address losses workers' comp does not. An attorney can help coordinate the two so they don't work against each other."
+      },
+      {
+        "question": "Do I have to report a Folsom job injury right away, and can my employer fire me for it?",
+        "answer": "California asks you to report the injury to your employer within 30 days, so it's wise to do it in writing as soon as you can. Retaliating against a worker for reporting an injury or filing a claim is illegal under state law. If you feel pressure after reporting, that is worth mentioning to an attorney."
+      },
+      {
+        "question": "Can I sue my employer directly if I was hurt on a Folsom job site?",
+        "answer": "In most cases, no. Workers' compensation is the exclusive remedy against your employer in California, even when the employer was careless. The exception is a negligent third party — a different contractor on the site, the property owner, or the company that made faulty equipment — who can be held responsible through a separate injury claim with a two-year deadline."
+      }
+    ]
+  }
+}

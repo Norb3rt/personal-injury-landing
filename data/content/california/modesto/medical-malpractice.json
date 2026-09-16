@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "modesto medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Attorney in Modesto, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Modesto? LawProactive connects you with an independent malpractice attorney for free. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When treatment in Modesto leaves you worse off than before, you deserve straight answers about what went wrong. LawProactive connects Stanislaus County patients with an independent medical malpractice attorney at no cost to you."
+  },
+  "about": {
+    "title": "Modesto Medical Malpractice Claims",
+    "longDescription": "Medical care in Modesto never really stops. Emergency rooms and urgent care clinics across the city see a steady flow of patients, including many of the 1,992 people injured in local traffic collisions in 2025. Most of that care goes well. When it doesn't, a missed diagnosis, a medication error, or a surgical mistake can leave a Stanislaus County family facing a second injury on top of the first. California handles these claims under rules known as MICRA. The deadlines are short: generally one year from the date you discovered the harm, and no more than three years from when it happened. Before suit is filed, the provider must receive 90 days' notice. A qualified medical expert almost always has to review the records and confirm the care fell below the accepted standard, because a poor result by itself is not malpractice. LawProactive is not a law firm. We are a free service that connects Modesto patients with an independent attorney who takes medical negligence cases on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Types of Harm Seen in Medical Negligence Cases",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or respond to a worsening condition"
+    ],
+    "ctaText": "Talk through what happened. It's free, and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Modesto Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "Short deadlines, handled early",
+        "desc": "MICRA generally gives you one year from discovering the harm, capped at three years from the injury itself. Connecting with an attorney promptly protects that window."
+      },
+      {
+        "title": "The 90-day notice step covered",
+        "desc": "California requires written notice to the provider before a malpractice lawsuit is filed. The attorney you're matched with handles that step so nothing is missed."
+      },
+      {
+        "title": "Expert review, not guesswork",
+        "desc": "A qualified medical expert is almost always needed to show the care fell below the standard. Network attorneys arrange that review and explain honestly whether your case meets the bar."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Modesto after a crash and my injury got worse. Is that malpractice?",
+        "answer": "Not automatically. Many of the 1,365 injury collisions reported in Modesto in 2025 sent people to local emergency rooms, and some conditions worsen even with proper care. Malpractice means a provider fell below the accepted standard and that failure caused harm. A qualified medical expert has to confirm that before a claim moves forward."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages such as pain and suffering in malpractice cases, and that cap rises each year under current law. Economic losses like medical bills and lost income are treated separately. An attorney can explain how the current figures apply to your situation."
+      },
+      {
+        "question": "How much does it cost to use LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, not a law firm. The independent attorneys in our network work on contingency, so there is no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

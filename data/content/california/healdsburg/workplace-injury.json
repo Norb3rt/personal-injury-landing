@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "healdsburg workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Healdsburg Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Healdsburg? Get connected free with an independent attorney who handles work injury and third-party claims in Sonoma County."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt while working in Healdsburg, whether on a Dry Creek Road vineyard job site or a warehouse near US-101, we can connect you with an independent attorney who understands both workers' comp and third-party claims at no cost to you."
+  },
+  "about": {
+    "title": "Healdsburg Workplace Injury Claims",
+    "longDescription": "Healdsburg's economy runs on wine, hospitality, and the trades that keep both running — vineyard crews, cellar workers, delivery drivers, hotel staff, and contractors moving equipment along Healdsburg Avenue and near US-101. When someone gets hurt on the job here, California law usually routes the claim through workers' compensation rather than a lawsuit against the employer. But that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate third-party claim may be possible alongside the workers' comp claim. Sonoma County's mix of agricultural work, tourism, and construction means injury circumstances vary widely, and figuring out whether a third party bears responsibility takes a careful look at the facts. LawProactive doesn't practice law — we simply connect injured Healdsburg workers with an independent attorney who can review what happened, explain the options, and help move a claim forward without any upfront cost.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or vineyard equipment",
+      "Back and shoulder strains from repetitive lifting",
+      "Injuries from forklifts or heavy machinery",
+      "Cuts and crush injuries during equipment operation",
+      "Vehicle collisions while driving for work",
+      "Heat-related illness during outdoor agricultural labor"
+    ],
+    "ctaText": "Tell us what happened — we'll help you find the right attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Injured Healdsburg Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle Comp vs. Third-Party Claims",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker can open a separate path to recovery. We connect you with an attorney who can sort out which claims apply to your situation."
+      },
+      {
+        "title": "We Know the Clock Matters",
+        "desc": "Employer injury reports are generally due within 30 days, while a third-party injury claim carries a two-year deadline in California. Getting matched with an attorney early helps make sure neither deadline slips by."
+      },
+      {
+        "title": "We Understand Retaliation Concerns Are Real",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury or filing a claim. If you're worried about retaliation, an independent attorney can advise you on your rights before you say anything to your employer."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a vineyard job near Dry Creek Road — can I still file a claim?",
+        "answer": "Yes. Agricultural work is covered under California workers' compensation just like other jobs, so an injury there generally starts as a workers' comp claim. If equipment failure or a subcontractor's negligence played a role, there may also be grounds for a separate third-party claim. An attorney can look at the specifics of the job site and equipment involved."
+      },
+      {
+        "question": "Does it matter that Healdsburg is a small city with fewer employers than a big metro area?",
+        "answer": "Not really — the size of the city doesn't change the underlying California law, which applies the same workers' comp rules and third-party claim options whether you work in a small operation or a large one. What matters more is the nature of the injury and who else, besides your employer, might share responsibility. An independent attorney can evaluate that regardless of company size."
+      },
+      {
+        "question": "What if my employer says I can't sue them for my injury?",
+        "answer": "They're generally right that workers' comp is the exclusive remedy against an employer for a workplace injury, which is why most claims go through that system rather than a lawsuit. However, that doesn't shut the door on claims against other responsible parties, like equipment manufacturers or subcontractors. An attorney can explain whether your specific injury opens up any additional options."
+      }
+    ]
+  }
+}

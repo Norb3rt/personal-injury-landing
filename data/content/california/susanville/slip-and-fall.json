@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "slip-and-fall",
+    "note": "susanville slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Susanville Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Susanville? Get connected free to an independent premises liability attorney serving Lassen County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Main Street shop or a Susanville apartment complex can leave you with real injuries and real questions. We'll connect you with an independent attorney who handles premises liability cases across Lassen County — free of charge to you."
+  },
+  "about": {
+    "title": "Susanville Slip & Fall Claims",
+    "longDescription": "Falls happen fast, but the aftermath in Susanville can drag on for weeks — medical visits, missed shifts, and calls from an insurance adjuster who wants a statement before you've even seen a doctor. Whether the fall happened on icy pavement near Skyline Road, in a grocery aisle off Main Street, or at a rental property, California law asks a specific question: did the property owner know, or should they have known, about the hazard, and did they fail to fix it or warn you? That's where these claims are won or lost. Lassen County's smaller-town setting means fewer businesses carry robust surveillance systems, which makes it even more important to document what happened quickly. LawProactive doesn't practice law — we simply connect you, at no cost, with an independent attorney in our network who can evaluate your fall, gather evidence before it disappears, and handle the insurance conversations so you can focus on healing.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fall Cases",
+    "commonInjuries": [
+      "Fractured wrists, hips, or ankles",
+      "Traumatic brain injury or concussion",
+      "Torn ligaments and knee injuries",
+      "Spinal disc injuries or herniation",
+      "Shoulder dislocations and rotator cuff tears",
+      "Deep lacerations requiring stitches or surgery"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and takes minutes."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "Proving Notice Takes Evidence",
+        "desc": "California requires showing the property owner knew or reasonably should have known about the hazard. An attorney can help gather photos, incident reports, and maintenance records before that evidence gets lost."
+      },
+      {
+        "title": "Surveillance Footage Disappears Fast",
+        "desc": "Many stores and apartment complexes overwrite security video within days or weeks. Acting quickly to request preservation of footage can make or break a premises liability claim."
+      },
+      {
+        "title": "Comparative Fault Can Reduce What You Recover",
+        "desc": "Because California uses pure comparative fault, an insurer may try to pin partial blame on you to lower your payout. An attorney can push back on unfair fault arguments and negotiate from a stronger position."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Susanville?",
+        "answer": "Generally, California gives you two years from the date of the fall to file a lawsuit. If your fall happened on property owned by a city, county, or other government entity — which is worth checking given how many public spaces exist in a smaller community like Susanville — the deadline is much shorter and requires an early formal claim. Because of these differences, it's best to have a claim reviewed as soon as possible."
+      },
+      {
+        "question": "What if I fell at a store on Main Street or near Rt 36 and no one wrote up a report?",
+        "answer": "An incident report helps, but it isn't the only way to build a claim. Photos of the hazard, witness names, and prompt medical documentation can all support your case even without a formal report. An attorney can also request any surveillance footage from the business before it's deleted."
+      },
+      {
+        "question": "Will I still recover something if I was partly at fault for the fall?",
+        "answer": "Possibly, yes. California's pure comparative fault rule allows you to recover a reduced amount even if you share some responsibility for the fall. The key is making sure the property owner's share of fault — like an unmarked spill or broken step — is properly documented and argued."
+      }
+    ]
+  }
+}

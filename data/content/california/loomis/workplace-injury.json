@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "loomis workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Loomis Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Loomis? Get connected free with an independent attorney who understands Placer County work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Loomis, whether on a job site near Sierra College Boulevard or making deliveries along Taylor Road, LawProactive can connect you with an independent attorney at no cost to sort out your options."
+  },
+  "about": {
+    "title": "Loomis Workplace Injury Claims",
+    "longDescription": "Loomis sits in a stretch of Placer County where small businesses, ranch properties, and light industrial sites mix with commuter routes like Sierra College Boulevard and Horseshoe Bar Road. Workers here range from agricultural crews to warehouse staff to tradespeople driving between job sites on Laird Road. When someone gets hurt on the job, California workers' compensation is typically the only route against the employer, no matter who was at fault. But that's not always the full picture. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate claim against that third party may be possible alongside a workers' comp claim. LawProactive doesn't practice law; we simply connect injured workers in Loomis with an independent attorney who can look at the facts, explain the deadlines, and help figure out whether a third-party claim applies in addition to any comp benefits already in motion.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from defective tools or machinery",
+      "Vehicle collisions during work-related driving",
+      "Repetitive strain and overexertion injuries",
+      "Injuries caused by a negligent subcontractor on a shared job site",
+      "Burns or chemical exposure incidents"
+    ],
+    "ctaText": "Get connected with an independent attorney about your work injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Loomis Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Can Run Alongside Workers' Comp",
+        "desc": "Because workers' comp is usually the exclusive remedy against an employer, an attorney can help identify whether a separate party, like a subcontractor or driver, bears responsibility too."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires an injury to be reported to the employer within 30 days, so timing can affect what benefits and claims remain available."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against a worker for reporting an injury, and an attorney can explain what those protections look like in practice."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site off Horseshoe Bar Road. Do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer, regardless of fault. However, if someone other than your employer, like a subcontractor or equipment supplier, contributed to the injury, a separate third-party claim may also be possible. An independent attorney can review the details and explain which paths apply to your situation."
+      },
+      {
+        "question": "What if my injury happened while driving for work near Taylor Road or Sierra College Boulevard?",
+        "answer": "Work-related driving injuries can sometimes involve both a workers' comp claim and a separate claim against another driver if that driver was negligent. These situations often overlap, so it helps to have someone look at both angles. LawProactive can connect you with an attorney who handles that kind of dual analysis."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer in Loomis?",
+        "answer": "California generally requires injured workers to report the incident to their employer within 30 days. Missing that window can complicate your workers' comp claim, though it doesn't necessarily affect a separate third-party claim, which carries its own two-year deadline. An attorney can walk through what applies to your specific timeline."
+      }
+    ]
+  }
+}

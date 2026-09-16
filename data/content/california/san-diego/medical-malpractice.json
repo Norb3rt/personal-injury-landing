@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "san-diego medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Diego Medical Malpractice Lawyer | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Diego? LawProactive connects you, free, with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care in a San Diego hospital, clinic or surgical center goes wrong, the questions come fast and the deadlines come faster. We connect you, at no cost, with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "San Diego Medical Malpractice Claims",
+    "longDescription": "San Diego County is home to a large network of hospitals, surgical centers, urgent care clinics and specialty practices serving well over a million residents in the city alone. Most visits go the way they should. Sometimes they do not, and when a provider falls short of the accepted standard of care, California law gives the injured patient a path forward. That path is narrower than many people expect. Under MICRA, a claim generally must be filed within one year of discovering the harm and never more than three years after the injury itself. A 90-day notice must go to each provider before suit is filed. Non-economic damages are capped, though the cap rises annually. And a bad outcome by itself is not malpractice; a qualified medical expert almost always has to explain what should have happened differently. LawProactive is not a law firm. We are a free service that connects San Diego patients and families with an independent attorney who handles these cases on contingency, so you owe nothing unless there is a recovery.",
+    "commonInjuriesTitle": "Harm Commonly Seen in San Diego Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up after treatment"
+    ],
+    "ctaText": "Ask a San Diego malpractice attorney to review what happened, free."
+  },
+  "whyChoose": {
+    "title": "Why San Diego Patients Start With LawProactive",
+    "items": [
+      {
+        "title": "The clock is shorter than you think",
+        "desc": "MICRA gives you roughly one year from the date you discovered the harm, and never more than three years from the injury. Getting connected early protects that window."
+      },
+      {
+        "title": "Notice and expert requirements are handled for you",
+        "desc": "California requires a 90-day pre-suit notice to each provider, and a qualified medical expert is almost always needed to establish what the standard of care demanded. An attorney in our network knows how to line both up."
+      },
+      {
+        "title": "Honest answers about what a claim can and cannot recover",
+        "desc": "Non-economic damages in California malpractice cases are capped by statute, though the cap rises each year. You get a straight explanation of how that applies to your situation, not a sales pitch."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My surgery had a complication. Does that mean I have a malpractice case?",
+        "answer": "Not necessarily. California law is clear that a poor result on its own is not malpractice; there has to be a departure from the accepted standard of care that caused the harm. That usually requires a qualified medical expert to review the records and say what a reasonable provider would have done differently. An attorney can arrange that review and tell you frankly whether the facts support a claim."
+      },
+      {
+        "question": "I was treated at a military or VA facility in San Diego. Are the rules different?",
+        "answer": "Often, yes. Claims involving federal facilities, which are common in the San Diego area, generally proceed under federal procedures with their own notice requirements and deadlines, rather than the state MICRA framework alone. Sorting out which rules apply is one of the first things an attorney will do, so it helps to mention where you were treated when you reach out."
+      },
+      {
+        "question": "How much does it cost to talk to a malpractice attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, not a law firm, and the independent attorneys in our network handle medical malpractice cases on contingency. That means there is no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

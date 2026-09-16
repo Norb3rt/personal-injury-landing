@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "belmont city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Belmont, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Belmont? Connect free with a San Mateo County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash, a fall, or a bike or pedestrian collision, we'll connect you with an independent attorney at no cost, serving Belmont and all of San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Belmont, California",
+    "longDescription": "Belmont is a quiet place to live, but its roads still see their share of collisions. In the most recent reporting year, the city logged 52 injury crashes and 60 people hurt, with no traffic deaths recorded. Corridors like Ralston Avenue, El Camino Real, Old County Road, and the stretch of US-101 running through town carry the bulk of local traffic, and public crash records show activity clustering there, especially as Friday evening commutes pick up between 5 and 7 p.m. If you or someone you love was hurt in one of these collisions, sorting out medical bills, insurance calls, and lost work on top of recovery can feel like too much at once. LawProactive is a free service that connects injured people in Belmont with an independent personal injury attorney — we are not a law firm, and we never charge you anything to make the connection. The attorneys in our network handle these cases on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and starts the process of understanding what your options actually are.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Concussions and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from pedestrian and bicycle collisions"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most personal injury claims in California must be filed within two years of the incident, but claims against a government entity can require notice in as little as six months. Waiting too long can permanently close the door on a claim."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and loss of enjoyment of life. This matters for anyone dealing with a lasting injury from a Belmont-area collision."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. That means you can get legal help without worrying about hourly bills piling up during recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Mounting medical bills with no clear way to pay them",
+      "Insurance adjusters calling and pushing for a quick, low settlement",
+      "Missed paychecks while unable to work and recover",
+      "Uncertainty about whether it's too late or worth it to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Belmont?",
+        "answer": "California generally gives you two years from the date of the incident to file a personal injury lawsuit. If your claim involves a government entity, such as a city road or public vehicle, the notice period can be as short as six months, so it's important not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your final recovery is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Belmont?",
+        "answer": "Public crash records show that collisions in Belmont concentrate along corridors like Ralston Avenue, El Camino Real, Old County Road, and US-101, with reported crashes tending to peak on Friday evenings between 5 and 7 p.m. These are simply neutral collision counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We connect you with an independent attorney, and the attorneys in our network work on contingency, meaning they only get paid if you recover money."
+      },
+      {
+        "question": "Is there a limit on how much compensation I can receive?",
+        "answer": "In an ordinary personal injury case in California, there's no cap on non-economic damages such as pain and suffering. The specifics of your situation, including the severity of your injuries, will shape what compensation may be available."
+      }
+    ]
+  }
+}

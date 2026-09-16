@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "lynwood medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lynwood Medical Malpractice Attorney Match | LawProactive",
+    "metaDescription": "Harmed by a medical error in Lynwood? LawProactive connects you free with an independent malpractice attorney. Strict MICRA deadlines apply."
+  },
+  "hero": {
+    "subtitle": "If a Lynwood doctor, nurse, or facility fell short of the standard of care and you were hurt, LawProactive can connect you — at no cost — with an independent attorney who handles California medical negligence claims."
+  },
+  "about": {
+    "title": "Lynwood Medical Malpractice Claims",
+    "longDescription": "Lynwood sits in the heart of south Los Angeles County, home to nearly 72,000 people who rely on local clinics, emergency rooms, and specialists to get care right. When a provider falls below the accepted standard of care, though, the harm can reshape a family's life — and the path forward is governed by a specific California law called MICRA. Under MICRA, a claim generally must be filed within one year of discovering the injury and never more than three years after it happened, with a 90-day notice sent to the provider before suit. The state also caps non-economic damages, a figure that rises annually. Nearly every case depends on a qualified medical expert who can explain what should have happened differently. It is worth knowing that a poor result by itself is not malpractice; the question is whether care was negligent. LawProactive is not a law firm. We are a free service connecting Lynwood residents with an independent attorney who handles these claims on contingency — no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm We Commonly See in Lynwood Medical Negligence Claims",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical mistakes, including wrong-site procedures or retained objects",
+      "Medication and dosing errors",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Emergency room discharge without proper evaluation"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Lynwood Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA's clock is short",
+        "desc": "California generally allows one year from the date you discovered the injury, and never more than three years from when it occurred. Connecting early gives an attorney room to send the required 90-day notice before that window closes."
+      },
+      {
+        "title": "Expert review comes first",
+        "desc": "A qualified medical expert is almost always needed to show the standard of care was breached. The independent attorneys in our network know how to arrange that review before deciding whether a claim should move forward."
+      },
+      {
+        "title": "Honest about what counts",
+        "desc": "Not every bad outcome is negligence, and a good attorney will say so. You get a candid assessment of whether your Lynwood case fits MICRA's framework — including how the annually rising cap on non-economic damages may apply."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at an emergency room after a crash on Long Beach Boulevard and I think they missed an injury. Is that malpractice?",
+        "answer": "It might be, but it depends on whether the ER's evaluation fell below what a reasonably careful provider would have done in the same situation. Lynwood recorded 398 people injured in collisions in 2025, and many of them passed through local emergency departments where imaging or follow-up decisions matter. An attorney would typically have a medical expert review your records to determine whether the missed finding was negligent or an unavoidable limitation of emergency care."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice claim in California?",
+        "answer": "Under MICRA, you generally have one year from the date you discovered — or reasonably should have discovered — the injury, and in no case more than three years from when the injury occurred. Before filing, a 90-day notice of intent must be sent to the provider. Because these limits interact in complicated ways, it is wise to speak with an attorney well before either deadline approaches."
+      },
+      {
+        "question": "Does LawProactive charge me anything, and will I owe legal fees?",
+        "answer": "LawProactive is a free connection service, not a law firm, so there is no charge to be matched with an independent attorney. The attorneys in our network handle medical negligence cases on contingency, which means no fee unless there is a recovery. Any fee arrangement is agreed upon directly between you and the attorney you choose to work with."
+      }
+    ]
+  }
+}

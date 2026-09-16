@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "hawthorne medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hawthorne Medical Malpractice Attorney Connection | CA",
+    "metaDescription": "Hurt by a medical error in Hawthorne, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care in Hawthorne goes wrong and you are left carrying the harm, LawProactive can connect you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Hawthorne Medical Malpractice Claims",
+    "longDescription": "Hawthorne is home to roughly 88,000 people inside Los Angeles County, and most of them will sit in an exam room, urgent care, or hospital bed at some point without ever thinking about what happens if the care falls short. Medical malpractice in California is not simply a bad result. It means a doctor, nurse, or facility failed to act the way a reasonably careful provider would have, and that failure caused real harm you would not otherwise have suffered. Proving that gap almost always takes a qualified medical expert, which is one reason these cases feel out of reach to people handling them alone. There is also a clock. Under MICRA you generally have one year from when you discovered the injury, and never more than three years from when it happened, and a 90-day notice must go to the provider before a lawsuit is filed. LawProactive exists to take the first step off your plate. We are not a law firm. We connect Hawthorne residents, for free, with an independent attorney who can review the records and explain your options.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed cancer and stroke diagnoses",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections or pressure sores from neglected hospital care"
+    ],
+    "ctaText": "Ask for a free, no-obligation connection to a malpractice attorney"
+  },
+  "whyChoose": {
+    "title": "Why Hawthorne Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Are Shorter Than People Expect",
+        "desc": "MICRA gives you one year from discovery, capped at three years from the injury, plus a required 90-day pre-suit notice. Getting connected early keeps those windows open."
+      },
+      {
+        "title": "Experts Are Nearly Always Required",
+        "desc": "California courts expect a qualified medical professional to explain how the standard of care was breached. The attorneys in our network know how to line that up."
+      },
+      {
+        "title": "A Free Service, Contingency Attorneys",
+        "desc": "LawProactive charges nothing to connect you, and the independent attorney you speak with works on contingency, so there is no attorney fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Hawthorne but the specialist was elsewhere in Los Angeles County. Does that matter?",
+        "answer": "Not for your right to bring a claim. Malpractice cases follow the provider and the care, not the city limits, so treatment that spanned Hawthorne and other parts of Los Angeles County can be reviewed together. An independent attorney can help sort out which providers may be responsible."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California places a statutory cap on non-economic damages such as pain and suffering, and that cap rises each year under MICRA. Economic losses like medical bills and lost wages are treated separately. An attorney can explain how the current figures apply to your situation without anyone promising a particular result."
+      },
+      {
+        "question": "My surgery did not go well. Is that automatically malpractice?",
+        "answer": "No. A poor outcome by itself is not malpractice under California law. The question is whether the provider acted below the accepted standard of care and whether that failure caused your harm, which usually needs a qualified medical expert to answer. A free connection through LawProactive lets an attorney look at the records and tell you honestly whether a claim seems supportable."
+      }
+    ]
+  }
+}

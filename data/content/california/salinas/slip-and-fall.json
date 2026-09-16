@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "salinas slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Salinas Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on someone else's property in Salinas, CA? LawProactive connects you free with a premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Whether you slipped in a store aisle off N Main Street or tripped on a broken walkway in a Salinas apartment complex, LawProactive can connect you with an independent premises liability attorney at no cost to you."
+  },
+  "about": {
+    "title": "Salinas Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely announces itself. One moment you are stepping through a doorway on N Main Street or crossing a parking lot off E Laurel Drive, and the next you are on the ground trying to work out what just happened. In Salinas, as everywhere in California, the question that decides a premises liability claim is notice: did the property owner know about the hazard, or should they have known, and did they fail to fix it or warn about it? Answering that takes evidence gathered early — photos of the spill, the broken step, the unlit stairwell — along with witness names and a prompt written request that any surveillance footage be preserved before it is overwritten. Deadlines matter too. Most claims must be filed within two years, and if the property belongs to a public entity in Monterey County, the window is far shorter. LawProactive is a free service that connects you with an independent attorney who handles these cases on contingency, so you can focus on healing.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Salinas",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and shoulder breaks",
+      "Head injuries and concussions",
+      "Knee ligament tears",
+      "Spinal disc injuries and back strain",
+      "Cuts, bruising, and torn skin from sharp edges"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney — free."
+  },
+  "whyChoose": {
+    "title": "Why Salinas Fall Victims Turn to LawProactive",
+    "items": [
+      {
+        "title": "Attorneys who understand the notice rule",
+        "desc": "California requires proof that the owner knew or should have known about the hazard. The attorneys in our network know how to build that proof through inspection logs, cleaning schedules, and prior complaints."
+      },
+      {
+        "title": "Evidence secured before it disappears",
+        "desc": "Store and lot cameras often overwrite footage within days. An attorney can send a preservation demand quickly and document the hazard while it still looks the way it did when you fell."
+      },
+      {
+        "title": "Clarity on deadlines and shared fault",
+        "desc": "You generally have two years to file, but claims against a city or county entity move much faster. Under California's pure comparative fault rule, a claim can still proceed even if part of the blame lands on you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a sidewalk owned by the City of Salinas or Monterey County. Is the process different?",
+        "answer": "Yes, and the timing is the biggest difference. Claims against a public entity in California require a formal government claim on a much shorter clock than the standard two-year deadline, often just months from the injury. Missing that step can end the case before it begins, so speaking with an attorney early matters."
+      },
+      {
+        "question": "I was looking at my phone when I slipped in a store. Does that end my claim?",
+        "answer": "Not by itself. California follows pure comparative fault, meaning your recovery may be reduced by your share of responsibility rather than eliminated. The owner's failure to address a hazard they knew or should have known about remains the central question."
+      },
+      {
+        "question": "What should I do in the first few days after a fall in Salinas?",
+        "answer": "Get medical care first, even if the pain seems minor at the time. Photograph the hazard and the surrounding area, write down what happened while it is fresh, and collect names of anyone who saw the fall. Ask the property owner or manager in writing to preserve any surveillance video, since footage is often erased quickly."
+      }
+    ]
+  }
+}

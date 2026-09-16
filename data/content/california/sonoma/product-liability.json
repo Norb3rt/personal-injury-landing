@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "sonoma product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sonoma Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Sonoma? Get connected free with an independent CA product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a faulty product causes harm in Sonoma, California law often lets injured people pursue the maker or seller without proving negligence. LawProactive connects you free with an independent attorney who handles these strict liability claims."
+  },
+  "about": {
+    "title": "Sonoma Product Liability Claims",
+    "longDescription": "Sonoma's mix of wine-country tourism, agricultural work, and everyday household life means residents encounter all kinds of consumer products, farm equipment, vehicle parts, and appliances. When one of those products fails and causes harm, California's strict liability rules can work in the injured person's favor: you generally don't have to prove the manufacturer was careless, only that the product had a defect and that defect led to your injury. This applies whether the flaw was in the design, a mistake on the assembly line, or a missing warning about a known risk. Liability can reach beyond the manufacturer to distributors and retailers who sold the item. If you were hurt by something you bought, used at work, or borrowed here in Sonoma, holding onto the product and any packaging matters. LawProactive can connect you, at no cost, with an independent attorney who reviews these details and explains what your options may be.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or equipment",
+      "Lacerations from faulty tools or machinery",
+      "Traumatic brain injuries from failed safety devices",
+      "Broken bones from collapsing furniture or structures",
+      "Chemical exposure or poisoning from mislabeled products",
+      "Crush injuries from defective vehicle or farm equipment parts"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why Sonoma Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Case",
+        "desc": "California often doesn't require proof the manufacturer was negligent — just that the product was defective and caused harm. This can streamline what you need to show compared to other injury claims."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable under California product liability law. An attorney can help identify every responsible party connected to your defective product."
+      },
+      {
+        "title": "Preserving Evidence Matters Early On",
+        "desc": "Because the product itself is central evidence in a defective product claim, keeping it intact and unaltered can be important. An independent attorney can advise you on how to protect that evidence right away."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the manufacturer was negligent?",
+        "answer": "Not usually. California product liability claims often rely on strict liability, meaning you generally need to show the product was defective and that the defect caused your injury, not that the company was careless. An attorney can review your situation and explain how this applies to your case."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Try to keep the product, along with any packaging, receipts, or instructions, exactly as it was when the injury happened. This is true whether it happened along Broadway, near W Napa Street, or anywhere else in Sonoma. Don't attempt repairs or alterations, since the item itself often becomes key evidence."
+      },
+      {
+        "question": "Is this different from a typical car accident claim in Sonoma?",
+        "answer": "Yes. While Sonoma sees injury collisions on corridors like 5th Street W and Rt 12, a product liability claim focuses on a defective item rather than driver behavior. If a faulty vehicle part or equipment failure contributed to a crash, both types of claims could potentially apply, and an attorney can help sort out which legal paths make sense."
+      }
+    ]
+  }
+}

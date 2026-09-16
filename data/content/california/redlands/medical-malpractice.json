@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "redlands medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Redlands Medical Malpractice Claims | LawProactive",
+    "metaDescription": "Hurt by a medical error in Redlands? LawProactive connects you, free, with an independent malpractice attorney. MICRA deadlines apply—ask early."
+  },
+  "hero": {
+    "subtitle": "When treatment in Redlands leaves you worse off and nobody will explain why, you deserve an honest look at what happened. LawProactive connects you at no cost with an independent attorney who handles medical negligence claims under California's MICRA rules."
+  },
+  "about": {
+    "title": "Redlands Medical Malpractice Claims",
+    "longDescription": "Most people in Redlands who walk out of an appointment feeling uneasy never learn whether something actually went wrong. A missed lab result, a rushed discharge, a medication that should have been checked against another — these things surface slowly, and by the time they do, the calendar has already started moving under California's MICRA rules. Injuries here come from all directions: in 2025 alone, 671 people were hurt in 477 injury collisions across the city, many along I-10, Orange Street, Alabama Street and Lugonia Avenue, and injured people need emergency care and follow-up afterward. That care is usually sound. Sometimes it isn't. LawProactive exists for the second case. We are not a law firm. We are a free service that listens to what happened to you in San Bernardino County and connects you with an independent attorney who handles medical negligence claims on contingency. Whether your case has merit is a question for that attorney and, almost always, a qualified medical expert — not for us, and not for a website.",
+    "commonInjuriesTitle": "Medical Errors Redlands Patients Ask About",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or heart attack",
+      "Surgical mistakes, including wrong-site procedures and retained objects",
+      "Medication and dosing errors in hospitals or pharmacies",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications and failure to monitor vital signs",
+      "Hospital-acquired infections tied to lapses in care"
+    ],
+    "ctaText": "Talk through what happened — free, and with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Redlands Patients Start With LawProactive",
+    "items": [
+      {
+        "title": "MICRA's clock is shorter than most people expect",
+        "desc": "California generally allows one year from when you discovered the injury, and never more than three years from when it occurred, plus a 90-day notice to the provider before suit. An attorney can tell you quickly where you stand on those dates."
+      },
+      {
+        "title": "A bad result is not the same as negligence",
+        "desc": "California law asks whether a provider fell below the accepted standard of care, and proving that almost always requires a qualified medical expert. The attorneys in our network know how to evaluate that question before anyone commits to a case."
+      },
+      {
+        "title": "The cap on non-economic damages changes every year",
+        "desc": "MICRA limits pain-and-suffering damages, but the limit rises annually, so the figure that applied to a neighbor's case a few years ago may not apply to yours. Your attorney will explain the current number and what it does and does not cover."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on I-10 near Redlands and I think the emergency room missed something. Is that a car accident case or a malpractice case?",
+        "answer": "It may be both, and they are handled as separate claims with separate rules. The crash claim looks at the other driver; the malpractice claim looks at whether the ER fell below the standard of care and whether that failure made your injury worse. A qualified medical expert would need to support the second part. An attorney can sort out which claims exist and how their deadlines interact."
+      },
+      {
+        "question": "What does the 90-day notice mean, and do I have to send it myself?",
+        "answer": "Before filing a medical malpractice lawsuit in California, the provider must receive at least 90 days' written notice of the intent to sue. It does not need to be complicated, but its timing can affect your filing deadline, so it is usually prepared by the attorney handling your case. This is one of the reasons people reach out earlier rather than later."
+      },
+      {
+        "question": "Does LawProactive charge anything, and who actually represents me?",
+        "answer": "LawProactive is free to use and is not a law firm. We connect you with an independent attorney who handles medical negligence matters in San Bernardino County. That attorney works on contingency, meaning there is no fee unless there is a recovery, and you decide whether to move forward after speaking with them."
+      }
+    ]
+  }
+}

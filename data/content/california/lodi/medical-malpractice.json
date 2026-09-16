@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "lodi medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lodi Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Lodi? Get connected free to an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Lodi hospital visit or treatment goes wrong, the aftermath can feel overwhelming and confusing. LawProactive connects you at no cost with an independent attorney who understands medical malpractice claims under California law."
+  },
+  "about": {
+    "title": "Lodi Medical Malpractice Claims",
+    "longDescription": "Lodi residents rely on local clinics and hospitals near the SR-99 corridor and around Kettleman Lane for everything from routine care to emergency treatment, and most of the time that care goes as expected. But when a diagnosis is missed, a surgery goes wrong, or medication is mishandled, the consequences can follow a patient for years. California law recognizes that not every bad outcome is malpractice — proving a claim requires showing a provider failed to meet the accepted standard of care, and that failure caused real harm. These cases move on a strict timeline and almost always need a qualified medical expert to establish what happened. LawProactive doesn't practice law or represent clients directly. Instead, we listen to what happened, gather the basic facts, and connect Lodi residents with an independent attorney in our network who handles these claims on a contingency basis, so there's no upfront cost to find out where you stand.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Missed or delayed diagnosis of serious conditions",
+      "Medication errors or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Post-treatment infections from improper care"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Early",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the injury, and no more than three years from when it occurred. Waiting too long can close the door on a claim entirely."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before a lawsuit can be filed, California law requires sending the provider a 90-day notice of intent to sue. An attorney can make sure this step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a bad outcome alone isn't proof of malpractice, a qualified medical expert typically has to review the case and confirm the standard of care wasn't met. An experienced attorney knows how to line up that review early."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Lodi?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it occurred. These deadlines are strict, so it's best to speak with an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "Is every bad medical outcome considered malpractice?",
+        "answer": "No. A poor result or unexpected complication isn't automatically malpractice under California law. A claim requires showing the provider's care fell below the accepted medical standard and that this failure directly caused harm, which usually takes a qualified medical expert to establish."
+      },
+      {
+        "question": "Does LawProactive handle malpractice cases for Lodi hospitals directly?",
+        "answer": "No, LawProactive is a free connection service, not a law firm. We gather details about what happened at a Lodi-area facility and connect you with an independent attorney in our network who can evaluate the claim and represents you on a contingency basis."
+      }
+    ]
+  }
+}

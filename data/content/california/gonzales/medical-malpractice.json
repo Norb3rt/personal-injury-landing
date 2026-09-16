@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "gonzales medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Help in Gonzales, CA | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for Gonzales, CA patients. No fee unless you recover. Get help understanding your options."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or treatment in Gonzales left you worse off than before, LawProactive can connect you with an independent attorney who handles medical malpractice claims under California law."
+  },
+  "about": {
+    "title": "Gonzales Medical Malpractice Claims",
+    "longDescription": "Gonzales residents rely on a small handful of nearby clinics and hospitals in Monterey County for everything from routine care to emergency treatment, and most visits go the way they should. But when a diagnosis is missed, a medication is mismanaged, or a surgical step goes wrong, the effects can follow a person for years. California law recognizes that medical malpractice cases are different from other injury claims — they require a qualified medical expert to explain how the care fell below an acceptable standard, and they move on a tighter clock than most people expect. LawProactive doesn't practice law or promise any result; we simply listen to what happened, then connect Gonzales residents with an independent attorney who can review medical records, evaluate whether the treatment met the required standard, and explain what steps, if any, make sense next. There's no fee to talk with an attorney through our network, and no obligation to move forward.",
+    "commonInjuriesTitle": "Types of Harm We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Gonzales Patients Should Know Before Waiting",
+    "items": [
+      {
+        "title": "MICRA's Clock Moves Fast",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury, to file — plus a required 90-day notice before a lawsuit can even begin. Waiting too long can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Required, Not Optional",
+        "desc": "Nearly every California malpractice case needs a qualified medical expert to show the care given fell below an accepted standard. A poor outcome by itself isn't enough — the attorney and expert have to connect the specific error to the harm."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "California law caps non-economic damages in these cases, though that cap increases each year by statute. An attorney can walk you through how that affects your specific situation and what damages might still be available."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim from care received in Gonzales?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the harm, and no more than three years from the date of the injury itself. There's also a required 90-day notice period before a lawsuit can be filed. Because these deadlines are strict, it helps to talk with an attorney sooner rather than later."
+      },
+      {
+        "question": "Does a bad outcome from treatment automatically mean malpractice happened?",
+        "answer": "No — California law is clear that an unfavorable result alone isn't proof of malpractice. A claim requires showing that the care fell below what a qualified provider should have done, usually backed by expert medical review. An independent attorney can help sort out whether your situation involves an error or simply a difficult medical outcome."
+      },
+      {
+        "question": "I live in Gonzales but was treated at a facility outside Monterey County — can LawProactive still help?",
+        "answer": "Yes. LawProactive connects people based on where they live and where the care happened, and the attorney network isn't limited to facilities inside Gonzales or Monterey County itself. What matters most is getting your situation in front of someone who can evaluate the medical records and the applicable deadlines."
+      }
+    ]
+  }
+}

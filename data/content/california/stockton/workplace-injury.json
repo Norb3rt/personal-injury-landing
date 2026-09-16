@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "stockton workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Stockton Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Stockton? LawProactive connects you free with an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Injured at work in Stockton? We connect you, at no cost, with an independent attorney who can explain workers' compensation and whether a negligent third party gives you a separate claim."
+  },
+  "about": {
+    "title": "Stockton Workplace Injury Claims",
+    "longDescription": "When a shift ends with an injury instead of a paycheck, the questions come fast. In Stockton, as across California, workers' compensation is usually the exclusive remedy against your employer, and it applies no matter who was at fault. It covers medical care and part of your lost wages, but it does not pay for pain or the wider cost of a life knocked off course. A third-party claim can. If a subcontractor, property owner, equipment manufacturer, or another driver caused the harm, a separate claim against that party may run alongside workers' comp. Driving for work is a real factor here: San Joaquin County's largest city recorded 1,313 injury collisions in 2025, with public records showing high collision counts on El Dorado Street, Hammer Lane, Airport Way, and March Lane, and reported crashes peaking Friday afternoons. LawProactive is a free service that connects you with an independent attorney who can sort out which paths fit your situation, with no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Stockton",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive loading",
+      "Crush and pinch injuries from forklifts, pallets, and machinery",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Injuries from work-related vehicle collisions",
+      "Burns and chemical exposure",
+      "Fractures from struck-by or caught-between incidents"
+    ],
+    "ctaText": "Talk through your options with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Stockton Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Systems, One Clear Explanation",
+        "desc": "Workers' comp is usually your only claim against the employer, but a negligent third party can open a separate injury claim. The attorney you are matched with can tell you whether both apply."
+      },
+      {
+        "title": "Deadlines Kept in View",
+        "desc": "You should report a work injury to your employer within 30 days, and third-party claims in California carry a two-year deadline. Early guidance helps keep both on track."
+      },
+      {
+        "title": "Protection From Retaliation",
+        "desc": "Firing, demoting, or punishing a worker for reporting an injury is illegal in California. An independent attorney can help you document what happened if your employer pushes back."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit while driving for work on Hammer Lane. Do I have more than a workers' comp claim?",
+        "answer": "Possibly. Your injury on the job is covered by workers' compensation regardless of fault, but if another driver caused the collision, that driver is a third party and may be responsible in a separate injury claim. Stockton's corridors such as Hammer Lane, March Lane, and Airport Way show high collision counts in public records, so this situation is not unusual. An attorney can review the crash report and explain how the two claims interact."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer?",
+        "answer": "California asks you to notify your employer within 30 days of the injury. Putting it in writing, even a short email, creates a record. Missing that window can complicate your workers' comp benefits, so it is worth doing promptly."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free connection service, not a law firm. The independent attorneys in our network work on contingency, which means no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

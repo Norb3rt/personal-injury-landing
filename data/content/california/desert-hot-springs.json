@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "desert-hot-springs city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Desert Hot Springs, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Desert Hot Springs? Riverside County claims have a 2-year filing deadline. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Palm Drive or injured as a pedestrian, we'll connect you free of charge with an independent attorney serving Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Desert Hot Springs, California",
+    "longDescription": "Desert Hot Springs is a small city, but its roads carry plenty of daily traffic — and that traffic leads to real consequences. In the most recent full year on record, the city saw 70 injury collisions, 99 people hurt, and 4 traffic deaths. Corridors like Palm Drive, Dillon Road, Pierson Boulevard, and Hacienda Avenue see the highest volume of reported crashes, and Monday afternoons between 3 and 5 p.m. tend to show up more often in the record than other times. If you or someone you love was hurt in one of these collisions, you're likely dealing with medical bills, missed work, and a lot of uncertainty about what comes next. LawProactive is a free service — we are not a law firm — that connects injured people in Desert Hot Springs with an independent personal injury attorney who can review what happened and explain your options. There's no cost to ask, and if the attorney takes your case, you don't pay unless there's a recovery. You don't have to sort through this alone or guess at deadlines that could affect your claim.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Clock Is Ticking",
+        "desc": "Most injury claims in California must be filed within two years, but claims against a government entity can require notice in as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you share some blame for the collision, you can still recover damages — just reduced by your percentage of fault. An attorney can help make sure your share isn't overstated."
+      },
+      {
+        "title": "No Cap on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California doesn't limit how much you can recover for non-economic harm like pain, suffering, or loss of enjoyment of life. That means your full experience matters, not just your medical bills."
+      },
+      {
+        "title": "You Don't Pay Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to get advice or representation. Fees only come out of a recovery, if there is one."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "How am I going to pay medical bills that keep piling up?",
+      "Will missing work because of this injury cost me my job?",
+      "Was the crash partly my fault, and does that mean I get nothing?",
+      "How do I even know if I'm still within the deadline to file a claim?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Desert Hot Springs?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If your claim involves a government entity, such as a city road crew or public bus, the notice deadline can be as short as six months, so it's worth getting advice early."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover damages even if you were partly at fault. Your total recovery would simply be reduced by your share of responsibility, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Desert Hot Springs?",
+        "answer": "Based on public-record collision counts, Palm Drive, Dillon Road, Pierson Boulevard, and Hacienda Avenue show the highest volume of reported crashes in the city. Monday afternoons between 3 and 5 p.m. also appear more frequently in the data than other times, though this reflects reported patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people with an independent attorney who can evaluate their situation."
+      },
+      {
+        "question": "Will I owe money if the attorney doesn't win my case?",
+        "answer": "Attorneys in our network work on a contingency basis, meaning they only get paid if there's a recovery in your case. There's no fee unless you win."
+      }
+    ]
+  }
+}

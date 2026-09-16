@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "morgan-hill city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Morgan Hill, CA Injury Lawyer Connection | Free Review",
+    "metaDescription": "Injured in Morgan Hill? Santa Clara County residents have 2 years to file. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash, a fall, or a workplace accident, you can connect free with an independent attorney serving Santa Clara County. There's no cost to get matched and no obligation to move forward."
+  },
+  "about": {
+    "title": "Personal Injury Help in Morgan Hill, California",
+    "longDescription": "Morgan Hill sits along Monterey Road and US-101, two corridors that, along with Butterfield Boulevard and Dunne Avenue, see a steady share of the city's reported collisions. In the most recent full year on record, Morgan Hill logged 117 injury collisions, leaving 160 people hurt and 3 people dead. Numbers like these mean real neighbors dealing with medical bills, missed work, and the stress of figuring out what comes next. LawProactive was built for that moment. We're a free service, not a law firm — we simply connect injured people in Morgan Hill and across Santa Clara County with an independent personal injury attorney who can review the details of what happened. There's no charge to get connected, and attorneys in our network only get paid if you recover compensation. If a crash on Monterey Road or elsewhere in town left you or someone you love injured, you don't have to sort through insurance calls and paperwork by yourself. A short conversation can help you understand your options before any deadlines pass, and it costs you nothing to start.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring surgery or long-term care"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Morgan Hill Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months for claims against a government agency. Talking to someone sooner rather than later helps make sure you don't lose that option."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you're found partly responsible for what happened, you can still pursue compensation — it's just reduced by your share of fault. An independent attorney can help sort out how fault is being assigned."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Unlike some states, California doesn't cap non-economic damages — like pain, suffering, and loss of enjoyment of life — in typical injury cases. That matters when an injury affects more than just your wallet."
+      },
+      {
+        "title": "You Pay Nothing Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront fee to hire one. They only get paid out of a settlement or award, which means the case has to actually help you first."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're out of work",
+      "Not knowing if the insurance adjuster's offer is fair",
+      "Feeling like the crash was partly your fault and you have no options",
+      "Running out of time to even understand your legal rights"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that puts injured people in touch with an independent personal injury attorney. We don't represent you directly, and there's no cost to use the service."
+      },
+      {
+        "question": "How long do I have to file a claim after a crash in Morgan Hill?",
+        "answer": "Under California law, most personal injury claims must be filed within two years of the date of injury. If a government entity was involved, such as a city vehicle or a road defect, that deadline can be as short as six months, so it's worth getting guidance early."
+      },
+      {
+        "question": "Where do collisions tend to cluster in Morgan Hill?",
+        "answer": "Public collision records show that reported crashes in Morgan Hill are concentrated along corridors like Monterey Road, US-101, Butterfield Boulevard, and Dunne Avenue, with reports also tending to peak on Fridays between 5 and 7 p.m. These are neutral counts from public data, not a judgment about any road's safety."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some blame for the accident. Your recovery would simply be reduced by your percentage of fault, so it's worth having an attorney review the specifics rather than assuming you have no case."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. Getting connected through LawProactive is free, and independent attorneys in our network work on a contingency basis. That means they only collect a fee if you receive a settlement or award, not before."
+      }
+    ]
+  }
+}

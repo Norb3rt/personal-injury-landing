@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "woodland medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Woodland Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Woodland, CA? Get connected free with an independent malpractice attorney serving Yolo County."
+  },
+  "hero": {
+    "subtitle": "When treatment at a Woodland clinic or hospital goes wrong, understanding your options matters. LawProactive can connect you with an independent attorney familiar with Yolo County medical malpractice claims, at no cost to you."
+  },
+  "about": {
+    "title": "Woodland Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases in Woodland often begin the same way as anywhere else: a patient trusts a provider, and something goes wrong that a reasonably careful clinician should have caught or avoided. Yolo County residents rely on local clinics, urgent care centers, and hospitals for everything from routine visits to emergency care, and most of the time that care meets the expected standard. But when a diagnosis is missed, a surgery causes preventable harm, or medication is administered incorrectly, patients are left sorting out what happened and what it means for their health and finances. California law does not treat every disappointing outcome as malpractice — proving a case requires showing a provider deviated from accepted medical standards and that the deviation caused harm. LawProactive doesn't practice law itself; we simply help Woodland residents connect with an independent attorney who can review medical records, consult qualified experts, and explain whether a claim may be worth pursuing.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Woodland Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding MICRA's Timeline",
+        "desc": "California generally gives patients one year from discovering the harm, and no more than three years from the injury itself, to file a malpractice claim. An attorney can help identify which deadline applies before it passes."
+      },
+      {
+        "title": "Navigating the 90-Day Notice Requirement",
+        "desc": "Before filing suit, California law requires a 90-day notice to the healthcare provider. Missing this procedural step can complicate a claim, so early legal guidance matters."
+      },
+      {
+        "title": "Working With Required Medical Experts",
+        "desc": "Because a qualified medical expert is almost always necessary to establish a malpractice claim, connecting with an attorney who knows how to retain the right expert can make a meaningful difference in how a case is built."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad medical result automatically malpractice?",
+        "answer": "No. California law recognizes that not every poor outcome means a provider was negligent. A claim generally requires showing the provider fell below the accepted standard of care and that this failure caused the harm."
+      },
+      {
+        "question": "Are there Woodland-specific hospitals or clinics involved in these claims?",
+        "answer": "Cases can involve any Yolo County healthcare setting, from local clinics along Main Street to larger hospital systems serving the Woodland area. An independent attorney can help identify the right parties and records to review regardless of where treatment occurred."
+      },
+      {
+        "question": "Is there a cap on what I can recover in a California malpractice case?",
+        "answer": "California's MICRA law places a statutory cap on non-economic damages, though that cap rises each year under current law. Economic damages, like medical bills and lost income, are generally handled separately. An attorney can walk through how these categories may apply to your situation."
+      }
+    ]
+  }
+}

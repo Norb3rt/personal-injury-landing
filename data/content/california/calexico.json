@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "calexico city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calexico, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Calexico or Imperial County? Free, no-obligation connection to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash, a fall, or another accident, we'll connect you with an independent attorney at no cost. Serving injured residents throughout Imperial County, including Calexico."
+  },
+  "about": {
+    "title": "Personal Injury Help in Calexico, California",
+    "longDescription": "Calexico sits right at the border, and daily life here runs along a handful of familiar roads — Rt 111, Rt 98, Cole Road, and Cesar Chavez carry the bulk of local traffic in and out of town. The most recent finalized state data for Calexico recorded zero injury collisions, zero people injured, and zero traffic deaths, though collisions can and do still happen, and when they do, reports tend to cluster on Tuesday afternoons between 3 and 5 p.m. If you or someone you love was hurt in a crash, a slip-and-fall, or another type of accident anywhere in Imperial County, you don't have to figure out next steps alone. LawProactive is a free service — not a law firm — that connects injured people in Calexico with an independent personal injury attorney who can review what happened and explain your options. There's no cost to get connected, and any attorney you're matched with works on contingency, meaning there's no fee unless your case results in a recovery. Reaching out costs nothing and doesn't commit you to anything.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Torn ligaments and soft tissue damage",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no pressure, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most personal injury claims in California must be filed within two years of the incident, and that window can shrink to as little as six months if a government entity is involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages such as pain and suffering. That means the specifics of your situation, not an arbitrary limit, help shape what's fair."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to have your case reviewed. You only pay attorney fees if your case results in a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing whether the insurance adjuster's offer is fair",
+      "Feeling overwhelmed trying to handle paperwork while recovering",
+      "Being unsure if it's too late, or too soon, to talk to a lawyer"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and we're not a law firm ourselves. If you're matched with an independent attorney, they work on contingency, so there's no fee unless your case results in a recovery."
+      },
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "answer": "Generally, you have two years from the date of the incident to file most personal injury claims in California. If your claim involves a city, county, or other government entity, that deadline can be as short as six months, so it's worth getting information early."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault rule, which means being partly at fault doesn't stop you from recovering compensation. Your recovery is reduced by your percentage of fault, but it isn't barred outright."
+      },
+      {
+        "question": "Where do crashes tend to happen in Calexico?",
+        "answer": "Based on public-record collision counts, higher volumes of reported crashes have been recorded along Rt 111, Rt 98, Cole Road, and Cesar Chavez, with reports tending to peak on Tuesdays between 3 and 5 p.m. This is neutral traffic data, not a judgment about the safety of any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases in California, there's no cap on non-economic damages like pain and suffering. What you may be entitled to depends on the facts of your specific situation, which an attorney can help evaluate."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "glendale workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Glendale, CA Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt at work in Glendale? LawProactive connects you, free, with an independent attorney to review workers' comp and third-party claim options."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in Glendale? Workers' compensation may not be your only option, and a free conversation with an independent attorney can help you see what else applies."
+  },
+  "about": {
+    "title": "Glendale Workplace Injury Claims",
+    "longDescription": "Glendale's workforce is spread across different settings: the offices and retail along Brand Boulevard, the warehouses and light industry lining San Fernando Road, hospitals, studios, restaurants, and construction sites tucked between them. A job injury in any of these usually starts with a workers' compensation claim, which covers medical care and partial wage replacement regardless of fault. That system, though, is generally the only claim you can bring against your own employer. What many injured workers in Glendale don't hear is that a separate personal injury claim may exist when someone other than the employer caused the harm — a subcontractor on a shared site, a property owner who ignored a hazard, the maker of a defective tool, or another driver. That last one matters here. In 2025, Glendale recorded 727 injury collisions, and employees who drive for work on SR-134, I-5, or city streets are part of that count. LawProactive is a free service, not a law firm. We connect you with an independent attorney who can sort out which claims apply to your situation.",
+    "commonInjuriesTitle": "Injuries We Commonly See From Glendale Workplaces",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Crush and amputation injuries from machinery",
+      "Burns and chemical exposure",
+      "Collision injuries while driving on the job",
+      "Repetitive stress injuries to hands, wrists, and shoulders"
+    ],
+    "ctaText": "Talk through your options at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Glendale Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look past the workers' comp ceiling",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but a negligent third party can open a separate injury claim. The attorney we connect you with will check for both."
+      },
+      {
+        "title": "We help you protect your rights early",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and it is illegal for an employer to punish you for doing so. Understanding those protections early keeps your claim on solid footing."
+      },
+      {
+        "title": "No cost to connect, no fee without recovery",
+        "desc": "LawProactive is free to use, and the independent attorneys in our network work on contingency. If there is no recovery, there is no attorney fee."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver while making deliveries on San Fernando Road for my job. Do I only get workers' comp?",
+        "answer": "Not necessarily. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of fault. But the other driver is a third party, so you may also have a separate personal injury claim against them for losses workers' comp does not pay. That third-party claim generally carries a two-year filing deadline in California, so it is worth reviewing sooner rather than later."
+      },
+      {
+        "question": "My employer told me not to file a claim. Can they do that?",
+        "answer": "No. California law prohibits employers from retaliating against workers who report an injury or file a workers' compensation claim. You are still expected to report the injury within 30 days, so do that in writing even if you were discouraged. An attorney can explain what to do if you have already faced pushback."
+      },
+      {
+        "question": "How does LawProactive help, and what does it cost me?",
+        "answer": "We are not a law firm. We are a free service that connects injured Glendale workers with an independent personal injury attorney who can evaluate whether a third-party claim exists alongside workers' comp. There is no charge to be connected, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "newport-beach workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Newport Beach Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt at work in Newport Beach? LawProactive connects you, free, with an independent attorney for workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in Newport Beach, whether at a harbor restaurant, a job site, or behind the wheel on Jamboree Road? We connect you at no cost with an independent attorney who can explain what workers' compensation covers and when a separate claim may exist."
+  },
+  "about": {
+    "title": "Newport Beach Workplace Injury Claims",
+    "longDescription": "Newport Beach runs on people who work on their feet: restaurant and hotel staff along the harbor, boatyard and marina crews, landscapers, construction trades remodeling homes, and office workers in the towers near Jamboree Road and MacArthur Boulevard. When one of them is hurt on the clock, two systems can come into play. Workers' compensation pays for medical care and partial wages regardless of fault, and it is usually the only claim you can bring against your own employer. If a negligent third party caused the harm, though — a subcontractor, the owner of the property where you were working, the maker of a defective tool, or another motorist who hit you while you drove for work on W Coast Highway — a separate injury claim may exist, with its own two-year deadline. That distinction matters in a city that logged 419 injury collisions in 2025; a work-related crash often raises both questions at once. LawProactive is a free connection service, not a law firm. We match you with an independent attorney who can sort out which paths apply to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See in Newport Beach",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or roofs on residential remodels",
+      "Back, shoulder, and knee injuries from lifting and carrying",
+      "Burns, cuts, and slip injuries in restaurant and hotel kitchens",
+      "Crush and pinch injuries from boat lifts, forklifts, and machinery",
+      "Repetitive strain from years at a desk, register, or workstation",
+      "Crashes while driving a company vehicle or making deliveries"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Newport Beach Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look beyond workers' comp",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but a negligent subcontractor, property owner, equipment manufacturer, or driver can be held separately responsible. The attorney we connect you with can check whether a third-party claim is on the table."
+      },
+      {
+        "title": "Deadlines are watched from day one",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and any third-party claim generally must be filed within two years. Getting connected early keeps both clocks in view."
+      },
+      {
+        "title": "No cost to you, and no fear of speaking up",
+        "desc": "Our service is free, and network attorneys work on contingency, meaning no fee unless there is a recovery. Retaliating against you for reporting an injury or filing a claim is illegal in California."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on Jamboree Road while driving for my employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical treatment and part of your lost wages no matter who caused the crash. Because another driver was at fault, you may also have a separate injury claim against that driver, and that claim carries California's two-year deadline."
+      },
+      {
+        "question": "Do I need to report the injury even if it seemed minor at first?",
+        "answer": "Yes. California asks you to notify your employer within 30 days, and a written report protects you if pain shows up later, which is common with back and shoulder strains. Reporting is your legal right, and your employer cannot lawfully punish you for doing it."
+      },
+      {
+        "question": "Can I sue my employer directly if unsafe conditions caused my injury?",
+        "answer": "In most situations, no. Workers' compensation is the exclusive remedy against your employer regardless of fault. However, if someone other than your employer contributed to the injury, such as a general contractor on a Newport Beach job site or the maker of a faulty tool, a separate claim against that party may be possible. An attorney can review the facts and explain which options fit."
+      }
+    ]
+  }
+}

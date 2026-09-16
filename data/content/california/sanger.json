@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "sanger city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sanger, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Sanger, Fresno County? Connect free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, fall, or other accident in Sanger, we can connect you with an independent attorney at no cost to you. LawProactive serves injured people throughout Fresno County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Sanger, California",
+    "longDescription": "Sanger sits along corridors like Academy Avenue, Jensen Avenue, Bethel Avenue, and Annadale Avenue, all of which see regular traffic from local commuters and agricultural routes. Public records show 30 injury collisions in the most recent final crash year, with 46 people injured and 1 traffic death. Fridays between 3 and 5 p.m. tend to show the most reported crashes, a pattern likely tied to end-of-week commute and errand traffic. If you or someone you love was hurt in one of these incidents, the days afterward can feel overwhelming — medical visits, insurance calls, missed work. LawProactive is a free service that connects injured Sanger residents with an independent personal injury attorney; we are not a law firm and do not provide legal advice ourselves. The attorneys in our network handle cases on contingency, meaning there's no fee unless they recover compensation for you. Whether your injury came from a car collision on one of Sanger's busier roads, a workplace incident, or a fall, reaching out costs nothing and can help you understand your options before time limits under California law become a concern.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Deep cuts and lacerations",
+      "Soft tissue and joint damage"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "Time Limits Apply",
+        "desc": "California generally allows 2 years from the date of injury to file a claim, but claims against a government entity can require notice in as little as 6 months. Acting early helps preserve your options."
+      },
+      {
+        "title": "Fault Won't Automatically Bar You",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for an accident, you may still recover a reduced amount. An attorney can help sort out how fault may apply to your situation."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California does not limit non-economic damages like pain and suffering. This can matter significantly in cases involving serious injury."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so you pay nothing upfront and owe no fee unless they win compensation for you."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills",
+      "Not knowing if insurance will cover lost wages",
+      "Feeling pressured to accept a quick settlement offer",
+      "Unsure how long you have to take legal action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and connecting you with an independent attorney costs you nothing. Attorneys in our network work on contingency, so they only get paid if you recover compensation."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "Generally, you have 2 years from the date of the injury under California law. If your claim involves a government agency, the window can be as short as 6 months, so it's wise not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means partial fault reduces your recovery but does not prevent you from pursuing a claim. An independent attorney can help evaluate how fault may affect your case."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Sanger?",
+        "answer": "Public crash records show higher collision counts along corridors like Academy Avenue, Jensen Avenue, Bethel Avenue, and Annadale Avenue, with Fridays between 3 and 5 p.m. showing the most reports. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that links injured people with independent, licensed personal injury attorneys. We don't provide legal representation or advice ourselves."
+      }
+    ]
+  }
+}

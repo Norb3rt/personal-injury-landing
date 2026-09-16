@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "san-mateo city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Mateo, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in San Mateo County? LawProactive connects you free with an independent injury attorney. Most claims allow 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on US-101, hit while crossing S El Camino Real, or hurt in a fall at a local business, LawProactive connects you free of charge with an independent personal injury attorney serving San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Mateo, California",
+    "longDescription": "San Mateo sits between the Bay and the hills, and most of its daily traffic moves through a few routes: US-101 running the length of the city, S El Camino Real carrying local trips through downtown and the neighborhoods, and SR-92 linking the Peninsula to the bridge and the coast. Public records for 2025, the most recent final year, list 386 injury collisions in San Mateo, with 529 people injured and 4 traffic deaths. Those three corridors carry the largest share of reported collisions, and the counts tend to rise on Wednesdays between 5 p.m. and 7 p.m., when commuters are heading home. A number on a report is easy to read. Being one of the 529 is not. Medical bills show up before you feel steady, an adjuster wants a recorded statement, and you're not sure what a fair outcome even looks like. LawProactive exists to take one decision off your plate. We are not a law firm and we do not give legal advice. We are a free service that connects you with an independent personal injury attorney who handles cases in San Mateo County. That attorney reviews your situation at no cost, and if they take your case, they work on contingency, meaning no fee unless there is a recovery. If you were hurt on US-101, along El Camino, or anywhere else in San Mateo, the first step is simply a conversation.",
+    "commonInjuriesTitle": "Injuries We Commonly See in San Mateo Cases",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end crashes",
+      "Concussions and other head injuries",
+      "Fractured wrists, arms, and collarbones",
+      "Back and spinal disc injuries",
+      "Knee and hip injuries from pedestrian and bicycle collisions",
+      "Cuts, bruising, and road rash from motorcycle crashes"
+    ],
+    "ctaText": "Tell us what happened. The connection is free, and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your San Mateo Claim",
+    "items": [
+      {
+        "title": "You Generally Have Two Years, Not Forever",
+        "desc": "California gives most injury claims a two-year filing window from the date of the injury. If a government entity is involved, such as a city vehicle or a public roadway defect, the deadline to file a claim can be as short as six months."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault. If you share some blame for what happened on SR-92 or El Camino, your recovery is reduced by your percentage of fault, but you are not barred from recovering."
+      },
+      {
+        "title": "No Cap on Pain and Suffering in Ordinary Injury Cases",
+        "desc": "For typical car, pedestrian, and premises injury claims, California does not cap non-economic damages. The attorney you connect with can explain how your actual losses, physical and emotional, factor into a claim."
+      },
+      {
+        "title": "Attorneys in Our Network Work on Contingency",
+        "desc": "You don't pay a retainer or hourly fee. If the attorney takes your case, their fee comes from the recovery, and if there's no recovery, there's no fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say",
+      "I'm missing shifts and the bills are stacking up",
+      "I feel partly responsible, so I'm not sure I even have a case",
+      "I don't know how long I have before it's too late to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in San Mateo tend to happen?",
+        "answer": "According to public collision records, the highest counts in San Mateo are along US-101, S El Camino Real, and SR-92. These are the city's busiest through-routes, so higher traffic volume naturally means more reported incidents. Records also show crashes peaking on Wednesdays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we don't provide legal advice or represent anyone. We connect you with an independent personal injury attorney who serves San Mateo County, and that attorney handles your case directly."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of injury. Claims against a government entity, such as a city, county, or transit agency, can require a formal claim within six months. Because these deadlines vary, it's worth talking with an attorney early rather than waiting."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses pure comparative fault, so partial responsibility reduces your recovery rather than eliminating it. If you were found 30 percent at fault, for example, your recovery would be reduced by 30 percent. An attorney can review the police report and evidence to assess how fault might be assigned."
+      },
+      {
+        "question": "What does it cost to speak with an attorney through LawProactive?",
+        "answer": "Nothing. Our connection is free, and the attorneys in our network offer a no-cost initial case review. If they take your case, they work on contingency, which means no fee unless there is a recovery."
+      }
+    ]
+  }
+}

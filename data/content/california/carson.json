@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "carson city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Carson, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Carson, Los Angeles County? Most California claims allow 2 years to file. Get connected free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end crash on the 405 left you with whiplash or a fall at a Carson shopping center broke a bone, LawProactive connects you with an independent injury attorney at no cost. We serve Carson and all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Carson, California",
+    "longDescription": "Carson sits where the 405 and the 91 cross, so a great deal of traffic moves through a city of roughly 93,000 people every single day. Public records for 2025, the most recent final year, list 383 injury collisions inside city limits, with 507 people hurt and 2 lives lost. The corridors that appear most often in those counts are I-405 (San Diego Freeway), Avalon Boulevard, SR-91 (Artesia Freeway), and Carson Street, and reports tend to bunch up on Friday evenings between 5 and 7 p.m. Behind each figure is a person dealing with a stiff neck, a car that will not start, and a pile of paperwork from an insurer. That is where LawProactive fits. We are a free service, not a law firm. We do not represent you and we do not give legal advice. What we do is connect you with an independent personal injury attorney who handles cases in Los Angeles County. That attorney works on contingency, meaning there is no fee unless there is a recovery. If you were hurt merging onto the Artesia Freeway, walking near Dignity Health Sports Park, or slipping in a store on Carson Street, reach out and we will handle the matching. You decide whether to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Carson",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end crashes",
+      "Fractured wrists, arms, and collarbones",
+      "Concussions and other head injuries",
+      "Herniated discs and lower-back injuries",
+      "Knee and shoulder damage from falls",
+      "Road rash and lacerations from motorcycle or bicycle crashes"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Carson Claim",
+    "items": [
+      {
+        "title": "Two Years, Sometimes Much Less",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, the window can shrink to six months, so timing matters."
+      },
+      {
+        "title": "Partial Fault Does Not End Your Claim",
+        "desc": "California follows pure comparative fault. Even if you share some of the blame, you can still recover; your share of fault simply reduces the amount."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no ceiling on non-economic damages like pain, distress, and lost enjoyment of life. Each case is valued on its own facts."
+      },
+      {
+        "title": "No Fee Unless There Is a Recovery",
+        "desc": "Attorneys in our network work on contingency. You pay nothing up front, and the attorney is paid only if your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say.",
+      "I can't work right now and the bills are not waiting.",
+      "The other driver says it was partly my fault.",
+      "I'm not sure I can afford a lawyer at all."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes tend to happen in Carson?",
+        "answer": "Public collision records for 2025 show the highest counts along I-405 (San Diego Freeway), Avalon Boulevard, SR-91 (Artesia Freeway), and Carson Street. Those same records show reports clustering on Fridays between 5 and 7 p.m. These are neutral counts from public data, not a judgment about any road."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is two years from the date of the injury. Claims against a government entity, such as a city bus or a poorly maintained public sidewalk, can require a claim within six months. An attorney can tell you which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California uses pure comparative fault, so sharing some responsibility does not bar you from recovering. Your compensation is reduced by your percentage of fault. For example, if you were found 20 percent at fault, you could still recover 80 percent of your damages."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match injured people in Carson and the rest of Los Angeles County with an independent personal injury attorney, and that attorney handles your case directly."
+      },
+      {
+        "question": "What will it cost me to hire an attorney?",
+        "answer": "Attorneys in our network work on a contingency basis. That means no upfront payment and no fee unless there is a recovery in your case. Our connection service is free as well, so there is no cost to find out where you stand."
+      }
+    ]
+  }
+}

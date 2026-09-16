@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "goleta workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Goleta Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Goleta? Get connected free to an independent attorney who can review your workers' comp or third-party claim options."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt working in Goleta — whether on a job site near Storke Road or delivering along Hollister Avenue — LawProactive can connect you with an independent attorney who handles workplace injury cases at no upfront cost."
+  },
+  "about": {
+    "title": "Goleta Workplace Injury Claims",
+    "longDescription": "Goleta's mix of tech offices, agricultural operations, hospitality businesses, and retail centers along corridors like Hollister Avenue and Calle Real means workplace injuries here range from repetitive strain and falls to serious equipment accidents. Most injured workers in California go through the workers' compensation system, which generally covers medical care and partial wage replacement regardless of who caused the accident. But workers' comp isn't the only avenue — if a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, you may have a separate claim against that third party. Santa Barbara County employers and their insurers move quickly after a workplace accident, and the paperwork deadlines can be unforgiving. LawProactive doesn't practice law itself; we connect injured workers in Goleta with an independent attorney who can look at both the workers' comp side and any potential third-party claim, so you understand your options before deadlines pass. There's no cost to get that conversation started.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Repetitive strain and overuse injuries",
+      "Equipment and machinery accidents",
+      "Vehicle-related injuries during work travel",
+      "Chemical or agricultural exposure injuries",
+      "Overexertion and lifting injuries"
+    ],
+    "ctaText": "Get connected with an independent workplace injury attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Goleta Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Both Paths",
+        "desc": "California workers' comp is usually the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker can still be liable. An independent attorney can help sort out which path — or both — applies to your situation."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Reporting a workplace injury within 30 days is required, and California law makes it illegal for an employer to retaliate against you for doing so. An attorney in our network can help you understand your rights if you feel pressured after reporting an injury."
+      },
+      {
+        "title": "Awareness of Claim Deadlines",
+        "desc": "While workers' comp has its own reporting timeline, any related third-party injury claim generally carries a two-year deadline in California. Knowing which clock applies to your case matters, and it's something an attorney can clarify early."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work near Storke Road and got hurt in a work-related car accident — is that workers' comp or something else?",
+        "answer": "It could be both. Workers' compensation typically covers medical costs and lost wages if you were injured while performing job duties, even in a vehicle. But if another driver caused the crash, you may also have a separate injury claim against that driver, which is different from the workers' comp process."
+      },
+      {
+        "question": "What if my employer says I can't file a claim because I didn't report the injury right away?",
+        "answer": "California generally requires reporting a workplace injury to your employer within 30 days, but missing that window doesn't automatically end your options. An independent attorney can review the specifics of your situation and any related third-party claim, which runs on a separate two-year deadline."
+      },
+      {
+        "question": "Can I be fired for filing a workers' comp claim in Goleta?",
+        "answer": "No. California law prohibits employer retaliation against workers who report injuries or file workers' comp claims. If you believe you've faced retaliation, it's worth discussing with an attorney who can evaluate what happened."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "san-diego product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Product Liability Lawyer in San Diego, CA | LawProactive",
+    "metaDescription": "Injured by a defective product in San Diego? LawProactive connects you free with an independent attorney. No fee unless there's a recovery."
+  },
+  "hero": {
+    "subtitle": "A defective product does not care whether you read the manual. If something you bought hurt you in San Diego, we will connect you at no cost with an independent attorney who handles product liability claims."
+  },
+  "about": {
+    "title": "San Diego Product Liability Claims",
+    "longDescription": "When something you bought does harm, the question in California usually is not whether the manufacturer was careless. It is whether the product was defective and whether that defect hurt you. That strict liability standard shapes how product claims move through San Diego County. Roughly 1.39 million people live in the city of San Diego, and nearly all of them rely daily on products built by companies they will never meet: power tools, e-bikes, medications, car seats, appliances, and the vehicles on I-5 and I-805. San Diego recorded 5,813 injury collisions in 2025, with 7,830 people hurt; some crash injuries trace back not to a driver but to a tire, airbag, or brake component that did not perform as designed. Defects come in three forms: a flawed design, a manufacturing error, and missing or inadequate warnings. Manufacturers, distributors, and retailers can each be liable. LawProactive is a free service, not a law firm. We connect you with an independent attorney who handles product cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries or appliances",
+      "Lacerations and amputations from tools and machinery",
+      "Head and spine injuries from failed vehicle components",
+      "Chemical exposure and poisoning from mislabeled goods",
+      "Fractures from collapsing furniture or equipment",
+      "Internal injuries from defective medical devices or drugs"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Use LawProactive for a San Diego Product Claim",
+    "items": [
+      {
+        "title": "Strict liability is the starting point",
+        "desc": "In California you generally do not have to prove the maker was negligent. An attorney in our network can focus on showing the defect and the injury it caused."
+      },
+      {
+        "title": "Preserving the product matters",
+        "desc": "The item that hurt you is often the single most important piece of evidence. We connect you quickly so an attorney can help secure it before it is thrown out or repaired."
+      },
+      {
+        "title": "Every link in the chain is examined",
+        "desc": "Manufacturers, distributors, and the San Diego retailer who sold the item may all share responsibility. An independent attorney can sort out who belongs in the claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I bought the product from a big-box store in San Diego, not the manufacturer. Can I still bring a claim?",
+        "answer": "Yes. Under California's strict liability rules, retailers and distributors in the chain of sale can be held responsible alongside the company that made the product. Where you bought it in San Diego County does not have to be the end of the inquiry. An attorney can identify each party that placed the product into the market."
+      },
+      {
+        "question": "Do I need to prove the company did something wrong?",
+        "answer": "Usually not. California product liability generally asks whether the product had a design, manufacturing, or warning defect and whether that defect caused your injury. Carelessness by the manufacturer is not typically something you have to establish. Your attorney can explain which theory fits your situation."
+      },
+      {
+        "question": "What should I do with the product that injured me?",
+        "answer": "Keep it, and keep the packaging, receipt, and any instructions if you have them. Do not repair, return, or dispose of it, even if the store offers a refund. The item itself is central evidence, and an attorney from our network can arrange for it to be stored and examined properly."
+      }
+    ]
+  }
+}

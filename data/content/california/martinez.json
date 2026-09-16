@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "martinez city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Martinez, CA Injury Lawyer Connection | Free Review",
+    "metaDescription": "Injured in Martinez, Contra Costa County? Free connection to an independent attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on SR-4 or a fall somewhere around town, we'll connect you with an independent attorney at no cost. We serve people throughout Contra Costa County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Martinez, California",
+    "longDescription": "Martinez sits along busy corridors like Alhambra Avenue, SR-4, and I-680, where daily commuter and local traffic mix. In the most recent full year on record, the city logged 116 injury collisions, 141 people injured, and 2 traffic deaths — numbers that reflect how often ordinary trips can turn into something life-changing. If you were hurt in a collision on one of these roads, or in a fall, workplace incident, or other accident anywhere in Martinez, you likely have questions about what comes next: medical bills, missed work, insurance calls that don't feel fair. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we don't decide your case or promise any result. Instead, we make it simple to get a free case review from an attorney who can look at what happened and explain your options. There's no upfront cost, and attorneys in our network only get paid if you recover compensation. If something happened to you in Martinez, it costs nothing to find out where you stand.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from falls or workplace accidents"
+    ],
+    "ctaText": "Get connected with an attorney for a free case review — no cost, no obligation."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Decide",
+    "items": [
+      {
+        "title": "You Have Two Years — But Don't Wait",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government agency can require notice in as little as six months. Talking to an attorney early helps make sure no deadline slips by."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you may still recover compensation — just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering, so the value of a claim isn't artificially limited."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, meaning legal fees only come out of money recovered for you — there's no bill if there's no payout."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Not knowing if you can still get help because you were partly at fault",
+      "Fear that a deadline you didn't know about might cost you your claim"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney for a case review. If you decide to move forward, attorneys work on contingency, so you don't pay unless you recover compensation."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Martinez?",
+        "answer": "California generally allows two years from the date of injury to file a personal injury claim. If a government entity was involved — like a city road issue — the window can be much shorter, sometimes just six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you were partially at fault. Your share of responsibility would reduce, not eliminate, what you might receive."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Martinez?",
+        "answer": "Public collision records show higher volumes along corridors such as Alhambra Avenue, SR-4, and I-680, with reported crashes tending to peak on Fridays between 5 and 7 p.m. These are simply recorded counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people reach an independent personal injury attorney. We don't provide legal representation ourselves, and using our service never guarantees a particular outcome."
+      }
+    ]
+  }
+}

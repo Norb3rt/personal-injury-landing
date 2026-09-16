@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "hercules car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hercules Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Hercules car crash? LawProactive connects you free with an independent injury attorney serving Contra Costa County."
+  },
+  "hero": {
+    "subtitle": "If a collision on I-80, San Pablo Avenue, or SR-4 left you hurt, LawProactive can connect you with an independent Hercules-based attorney at no cost to you."
+  },
+  "about": {
+    "title": "Hercules Car Accident Claims",
+    "longDescription": "Hercules sits along a stretch of I-80 that feeds into San Pablo Avenue and SR-4, corridors that carry heavy commuter traffic through Contra Costa County. Public records show 53 injury collisions and 76 people hurt in the most recent reporting year, with Friday evenings between 5 and 7 p.m. showing the most reported crashes. When a crash happens here, the aftermath can mean medical appointments, missed work, and calls from an insurance adjuster before you've even had time to think. LawProactive is not a law firm — we're a free connection service that puts you in touch with an independent personal injury attorney who understands how these local roads factor into a claim. They can help you gather evidence, communicate with insurers, and understand what a fair path forward might look like, all on a contingency basis so there's nothing owed unless your case results in a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Hercules Car Accidents",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head trauma",
+      "Back and spinal disc injuries",
+      "Broken bones and fractures",
+      "Shoulder and knee ligament damage",
+      "Cuts and bruising from airbags or glass"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Speaking to the Insurer",
+    "items": [
+      {
+        "title": "California's Comparative Fault Rule",
+        "desc": "California uses pure comparative fault, meaning you can still recover damages even if you're partly responsible for the crash. An attorney can help make sure your share of fault isn't overstated by the other driver's insurer."
+      },
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the crash date to file a personal injury lawsuit, but claims involving a government entity — like a road defect on a Contra Costa County-maintained street — can require notice in as little as six months. Acting early helps preserve your options."
+      },
+      {
+        "title": "What You Say Can Be Used Against You",
+        "desc": "Insurance adjusters often ask for a recorded statement soon after a crash, and those statements can be used to minimize your claim later. An independent attorney can advise you on what to say and what to hold off on."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What should I do first after a car accident in Hercules?",
+        "answer": "Seek medical attention even if injuries seem minor, since some symptoms show up later. Try to document the scene — photos, witness names, and the exact location along I-80, San Pablo Avenue, or SR-4 — and avoid giving a recorded statement to any insurance company until you've spoken with an attorney."
+      },
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and the independent attorneys in our network work on contingency, meaning they only get paid if your case results in a recovery. There's no upfront cost to you for the connection or the consultation."
+      },
+      {
+        "question": "How long do I have to file a claim after a crash in Hercules?",
+        "answer": "In California, you generally have two years from the date of the accident to file a personal injury lawsuit. If your crash involved a government-owned road or vehicle, the deadline to file a claim can be as short as six months, so it's worth getting advice sooner rather than later."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "glendale medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice in Glendale, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Glendale? LawProactive connects you, free, with an independent California malpractice attorney. MICRA deadlines are short."
+  },
+  "hero": {
+    "subtitle": "When treatment in Glendale leaves you worse off than the condition you came in with, sorting out whether a provider actually fell short is not something you should have to do alone. LawProactive connects you at no cost with an independent attorney who reviews malpractice claims under California's MICRA rules."
+  },
+  "about": {
+    "title": "Glendale Medical Malpractice Claims",
+    "longDescription": "Glendale is home to roughly 201,000 people, and most of them will sit in a clinic, emergency room, or surgical suite in Los Angeles County at some point. The overwhelming majority of those visits go fine. Some do not, and the hard part is telling the difference between an unlucky result and a genuine failure to meet the standard of care. California law draws that line carefully: a bad outcome by itself is not malpractice, and a claim generally needs a qualified medical expert to explain what a competent provider would have done differently. Timing matters too. Under MICRA, you usually have one year from the date you discovered the injury, and no more than three years from when it happened, plus a 90-day notice that must go to the provider before any lawsuit is filed. LawProactive is not a law firm. We are a free service that connects Glendale residents with an independent personal injury attorney who handles malpractice claims on contingency, so you pay nothing unless there is a recovery.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained objects",
+      "Medication and dosage mistakes",
+      "Anesthesia complications",
+      "Birth injuries to mother or child",
+      "Failure to order, read, or act on test results"
+    ],
+    "ctaText": "Ask a Glendale malpractice attorney to review what happened, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Glendale Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "The Clock Under MICRA Is Short",
+        "desc": "California generally gives you one year from discovering the injury, capped at three years from the date it occurred, and a 90-day notice must reach the provider before suit. Getting connected early protects those windows."
+      },
+      {
+        "title": "Expert Review Comes First",
+        "desc": "A qualified medical expert is almost always needed to show the care fell below the accepted standard, not just that things ended badly. The attorneys in our network know how to arrange that review before committing you to a claim."
+      },
+      {
+        "title": "Damages Rules That Change Every Year",
+        "desc": "California places a statutory cap on non-economic damages in malpractice cases, and that cap rises annually. An attorney current on the figures can explain honestly what the law does and does not allow, without guessing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was injured in a crash on SR-134 in Glendale, and then my hospital treatment made things worse. Is that one case or two?",
+        "answer": "It can be both. The driver who caused the collision is responsible for the crash injuries, while a provider who later fell below the standard of care may be separately responsible for the added harm. The malpractice portion still runs on MICRA's shorter timeline and needs its own expert support, so it helps to have an attorney look at the full picture early. LawProactive can connect you with one at no cost."
+      },
+      {
+        "question": "My surgery did not work. Does that mean I have a malpractice claim?",
+        "answer": "Not by itself. California law is clear that a poor result is not the same as negligence; the question is whether a reasonably careful provider in the same specialty would have acted differently. Answering that usually takes a qualified medical expert reviewing your records. An attorney can tell you whether that review is worth pursuing."
+      },
+      {
+        "question": "How does the free connection work, and what does an attorney cost?",
+        "answer": "You share what happened, and LawProactive connects you with an independent personal injury attorney who takes malpractice matters. We are not a law firm and there is no charge for the connection. Attorneys in the network work on contingency, meaning no fee unless there is a recovery, and no attorney can promise a particular result in advance."
+      }
+    ]
+  }
+}

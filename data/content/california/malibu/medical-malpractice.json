@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "malibu medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Malibu Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Malibu? Get connected free to an independent attorney who handles California medical malpractice claims."
+  },
+  "hero": {
+    "subtitle": "When care from a Malibu clinic or hospital leaves you worse off, sorting out whether it was malpractice or just an unfortunate outcome can feel overwhelming. LawProactive connects you at no cost with an independent attorney who can review what happened."
+  },
+  "about": {
+    "title": "Malibu Medical Malpractice Claims",
+    "longDescription": "Malibu residents and visitors rely on a small but busy network of urgent care centers and nearby hospital systems, often after accidents along Pacific Coast Highway or Malibu Canyon Road. When a diagnosis is missed, a treatment goes wrong, or surgical care falls short of accepted standards, the aftermath can be confusing and isolating, especially in a community where many people commute for specialized care. California law sets specific rules for these claims, including short deadlines and a requirement that a qualified medical expert weigh in before a case moves forward. A bad outcome by itself doesn't mean malpractice occurred, which is why an early, informed review matters. LawProactive doesn't practice law or charge any fee; we simply connect you with an independent attorney in our network who can look at your situation, explain your options, and help you understand whether the care you received fell below what's expected under California law.",
+    "commonInjuriesTitle": "Injuries We See in Malpractice Claims",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to diagnose stroke or heart attack"
+    ],
+    "ctaText": "Talk to an independent attorney about your care, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Move Forward",
+    "items": [
+      {
+        "title": "The Clock Starts Sooner Than You Think",
+        "desc": "California generally gives you one year from when you discover the harm, but never more than three years from the original injury. Waiting to look into what happened can quietly cost you your claim."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can be filed in California, the law requires 90 days' advance notice to the provider. An attorney familiar with this step can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California law generally requires a qualified medical expert to support a malpractice claim, since a poor result alone isn't enough. An independent attorney can help arrange for that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at an urgent care in Malibu after a PCH accident and something felt off afterward. Could that be malpractice?",
+        "answer": "It's possible, but not every complication after treatment amounts to malpractice under California law. An independent attorney can review your records and the standard of care that applied to your treatment. This kind of review is free through LawProactive."
+      },
+      {
+        "question": "How long do I actually have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the harm, but no more than three years from the date of the injury itself. There are exceptions in some cases, so it's worth having someone check your specific timeline. Waiting too long can close the door on your claim entirely."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "California caps non-economic damages in medical malpractice cases, though that cap adjusts upward each year under current law. Economic losses, like medical bills and lost income, are handled separately. An attorney can walk you through how this applies to your situation."
+      }
+    ]
+  }
+}

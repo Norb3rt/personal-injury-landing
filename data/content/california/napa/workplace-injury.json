@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "napa workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Napa Workplace Injury Attorney Connection | LawProactive",
+    "metaDescription": "Hurt on the job in Napa? LawProactive connects you free with an independent workplace injury attorney. Contingency fee, 30-day report rule explained."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Napa — in a vineyard, a tasting room, a kitchen, or behind the wheel on Rt 29? We connect you, at no cost, with an independent attorney who can tell you whether your case goes beyond workers' comp."
+  },
+  "about": {
+    "title": "Napa Workplace Injury Claims",
+    "longDescription": "Work in Napa takes many forms — vineyard rows, tasting-room floors, hotel kitchens, construction sites, and delivery routes up and down Rt 29. When a shift ends with an injury, most people assume workers' compensation is the whole story. Often it is: in California, comp is usually your exclusive remedy against your employer, and it pays regardless of who was at fault. But not every workplace injury is caused by the employer. A subcontractor who left a hazard on a job site, a property owner who ignored a broken stair, a manufacturer whose equipment failed, or another driver who hit you while you were on the clock along Soscol Avenue or Jefferson Street may all be responsible third parties, and a third-party claim is separate from comp. Napa's public record shows 253 injury collisions and 357 people injured in 2025; some of those people were working when it happened. LawProactive is not a law firm. We connect Napa workers, free of charge, with an independent attorney who can sort out what comp covers and whether a third-party claim exists.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Napa Workplace Cases",
+    "commonInjuries": [
+      "Back and shoulder strains from lifting, pruning, or repetitive tasks",
+      "Falls from ladders, scaffolds, catwalks, and loading docks",
+      "Crush and amputation injuries from machinery or equipment",
+      "Burns and scalds in kitchens and production areas",
+      "Injuries from on-the-clock vehicle collisions",
+      "Chemical and pesticide exposure"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney — free."
+  },
+  "whyChoose": {
+    "title": "Why Napa Workers Start With LawProactive",
+    "items": [
+      {
+        "title": "Comp and third-party claims are different tracks",
+        "desc": "Workers' comp is usually the only claim you can bring against your employer, but a negligent subcontractor, property owner, equipment maker, or another driver can face a separate injury claim. The attorney we connect you with looks at both."
+      },
+      {
+        "title": "The clock is already running",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and any third-party claim generally carries a 2-year deadline. Getting a referral early keeps both windows open."
+      },
+      {
+        "title": "Free connection, no fee unless you recover",
+        "desc": "LawProactive charges nothing to match you with an independent attorney, and attorneys in our network work on contingency. Retaliating against you for reporting an injury is illegal, and a lawyer can address that too."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work on Soscol Avenue and another driver caused it. Is that just a comp case?",
+        "answer": "Not necessarily. Workers' comp should cover your medical care and part of your lost wages because you were on the job, but the other driver is a third party, and California lets you bring a separate injury claim against them. That claim is where things comp doesn't pay, such as pain and suffering, can be pursued. Keep in mind the 2-year deadline applies to the third-party side."
+      },
+      {
+        "question": "My Napa employer says I waited too long to report. Do I still have options?",
+        "answer": "California asks for a report within 30 days, but a late report doesn't always end the matter, especially if the employer already knew about the injury or you were getting treatment. It also has no bearing on a third-party claim against someone other than your employer. An attorney can review the timeline and tell you where you actually stand."
+      },
+      {
+        "question": "Can I be fired for filing a claim after a vineyard or winery injury?",
+        "answer": "No. Retaliating against an employee for reporting a work injury or filing for comp is illegal in California. If you are demoted, cut from the schedule, or let go after reporting, that is a separate issue worth raising with the attorney you are connected to."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "pasadena medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pasadena Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Pasadena? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If treatment you received in Pasadena left you worse off than it should have, you deserve a straight answer about whether the care fell short. We connect you, free, with an independent attorney who handles Los Angeles County medical malpractice claims."
+  },
+  "about": {
+    "title": "Pasadena Medical Malpractice Claims",
+    "longDescription": "Pasadena is a city where a lot of care happens fast. Someone hurt on the Foothill Freeway or along Colorado Boulevard is often in an emergency room within the hour, and in 2025 alone, 1,333 people were injured in collisions inside the city limits. Most received the care they needed. A few did not. When a Pasadena doctor, nurse, surgeon, or facility falls below the accepted standard of care and that lapse causes real harm, California law gives you a path forward, but it is a narrow one. The Medical Injury Compensation Reform Act, known as MICRA, shapes every step: how long you have to act, what notice must be sent before filing, how much can be recovered for pain and suffering, and what kind of proof is required. LawProactive exists to make the first step simple. Tell us what happened, and we connect you at no cost with an independent attorney who handles Los Angeles County malpractice claims and can review your records honestly, including telling you if a claim isn't there.",
+    "commonInjuriesTitle": "Harm That Can Come From Substandard Medical Care",
+    "commonInjuries": [
+      "Surgical mistakes, including wrong-site procedures or retained instruments",
+      "Missed or delayed diagnosis of cancer, stroke, or heart attack",
+      "Medication and dosing errors",
+      "Injuries to mother or baby during labor and delivery",
+      "Anesthesia complications",
+      "Post-operative infections or neglect that went unaddressed"
+    ],
+    "ctaText": "Ask us to review what happened. It's free, and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Pasadena Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA's clock is short and unforgiving",
+        "desc": "California generally allows one year from the date you discovered the injury, and never more than three years from when it happened, plus a 90-day notice to the provider before any suit is filed. An early connection to an attorney protects those dates."
+      },
+      {
+        "title": "Experts decide these cases, not opinions",
+        "desc": "Nearly every California malpractice claim needs a qualified medical expert to explain how the standard of care was breached. The attorneys in our network know how to obtain that review before committing you to a long fight."
+      },
+      {
+        "title": "Honest about the cap and about weak claims",
+        "desc": "MICRA limits non-economic damages, though the limit rises each year, and a poor result by itself is not malpractice. You'll get a candid read on both points rather than a sales pitch."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Pasadena after a crash on the 210. Can I bring a malpractice claim on top of the accident claim?",
+        "answer": "Possibly, and the two are separate. If a provider's error during your care caused harm beyond what the collision itself did, that may be a distinct malpractice claim governed by MICRA, with its own deadlines and its own expert requirement. Keep in mind that a complicated recovery isn't proof of negligence; an attorney would need medical records reviewed by a qualified expert to know whether the care actually fell below the standard."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice case in California?",
+        "answer": "Under MICRA, the general rule is one year from when you discovered, or reasonably should have discovered, the injury, and in no event more than three years from the date the injury occurred. Before filing, you must also give the provider 90 days' written notice. Because those windows can overlap in confusing ways, it's wise to speak with an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a Pasadena malpractice case?",
+        "answer": "California caps non-economic damages, meaning pain, suffering, and loss of enjoyment of life, and that cap increases annually under current law. Economic losses such as medical bills, future care, and lost income are not subject to that cap. An attorney can explain how the cap that applies in your year affects your particular situation."
+      }
+    ]
+  }
+}

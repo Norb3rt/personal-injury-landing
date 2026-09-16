@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "lomita workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lomita Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Lomita? Get connected free with an independent injury attorney who handles third-party workplace claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you were hurt working near Pacific Coast Highway, Western Avenue, or anywhere else in Lomita, we can connect you with an independent attorney who understands how workers' comp and third-party claims fit together."
+  },
+  "about": {
+    "title": "Lomita Workplace Injury Claims",
+    "longDescription": "Lomita sits in a stretch of Los Angeles County where warehouses, auto shops, delivery routes, and small manufacturing sites line corridors like Lomita Boulevard and Palos Verdes Drive N. Workers injured on these job sites often assume workers' compensation is their only option, but that's not always true. When a subcontractor, property owner, equipment manufacturer, or even another driver on the road contributed to the accident, a separate third-party injury claim may be possible alongside any workers' comp benefits. LawProactive doesn't practice law — we're a free service that connects injured workers with an independent attorney who can sort out whether a third party bears responsibility. Given that Lomita's crash data shows real injury collisions each year, some involving vehicles on routes workers use for deliveries or commutes, it's worth having someone review the full picture. There's no cost to find out where you stand, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Injuries from defective tools or machinery",
+      "Vehicle collisions during work-related driving or deliveries",
+      "Burns, chemical exposure, or crush injuries on job sites"
+    ],
+    "ctaText": "Find out if you have a third-party claim — connect with an attorney today, free."
+  },
+  "whyChoose": {
+    "title": "Why Lomita Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Look Beyond Workers' Comp",
+        "desc": "California law generally makes workers' comp the exclusive remedy against your employer, but a negligent third party like a subcontractor or equipment maker can still be liable. We help connect you with an attorney who checks for that overlap."
+      },
+      {
+        "title": "We Understand the Reporting Clock",
+        "desc": "You have 30 days to report a workplace injury to your employer, and missing that window can complicate your case. An independent attorney can help you understand what's still on the table even if time has passed."
+      },
+      {
+        "title": "We Know the 2-Year Deadline for Third-Party Claims",
+        "desc": "Separate from workers' comp, a third-party injury claim in California carries a two-year statute of limitations. Connecting early gives an attorney more room to investigate and preserve evidence."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I already filed a workers' comp claim in Lomita — can I still pursue something else?",
+        "answer": "Yes, in many cases. Workers' comp and a third-party claim aren't mutually exclusive; if a subcontractor, property owner, or another driver contributed to your injury, a separate claim may be available. An independent attorney can review your situation and explain whether both paths apply to you."
+      },
+      {
+        "question": "My employer told me not to file a claim — is that legal?",
+        "answer": "No. Retaliation against an employee for reporting a workplace injury is illegal under California law. If you've experienced pressure not to report, an attorney connected through our service can advise you on your options."
+      },
+      {
+        "question": "What if my injury happened while driving for work near Western Avenue or Pacific Coast Highway?",
+        "answer": "If another driver's negligence caused the crash while you were working, that could open up a third-party claim in addition to any workers' comp benefits. Given how many injury collisions occur on Lomita's busier corridors, this situation isn't unusual for delivery or field workers. An attorney can look at the specifics of the crash to determine what applies."
+      }
+    ]
+  }
+}

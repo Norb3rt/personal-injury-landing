@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "dublin medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dublin Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Dublin, CA? LawProactive connects you free to an independent attorney familiar with MICRA rules and deadlines."
+  },
+  "hero": {
+    "subtitle": "When care at a Dublin clinic or hospital goes wrong, sorting out what happened can feel overwhelming. LawProactive helps you connect, at no cost, with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Dublin Medical Malpractice Claims",
+    "longDescription": "Dublin residents rely on a mix of local clinics and larger Alameda County medical centers for everything from routine visits to emergency care. Most of the time, that care goes as expected. But when a diagnosis is missed, a surgical step is skipped, or medication is mismanaged, the harm can follow a patient long after they've left the exam room. Medical malpractice cases are different from other injury claims — California requires a qualified medical expert to weigh in on whether the care fell below an accepted standard, and there's a mandatory 90-day notice before a lawsuit can even be filed. LawProactive doesn't practice law or evaluate your medical records ourselves. Instead, we connect you with an independent attorney in our network who can review what happened, explain your options under California's malpractice framework, and help you understand what timeline applies to your specific situation. There's no cost to get connected, and no obligation to move forward.",
+    "commonInjuriesTitle": "Common Types of Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Get connected with an independent attorney about your Dublin medical malpractice matter."
+  },
+  "whyChoose": {
+    "title": "Why Dublin Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the MICRA Notice Requirement",
+        "desc": "California requires a 90-day pre-suit notice before a medical malpractice lawsuit can be filed, a step that's easy to miss without guidance. An attorney in our network can help make sure this requirement is handled correctly and on time."
+      },
+      {
+        "title": "Navigating the Discovery-Based Deadline",
+        "desc": "Malpractice claims generally must be filed within one year of discovering the injury, and no more than three years from when it occurred. Because these injuries aren't always obvious right away, knowing which deadline applies to your case matters."
+      },
+      {
+        "title": "Connecting You With Expert-Ready Representation",
+        "desc": "California law almost always requires a qualified medical expert to support a malpractice claim. LawProactive can connect you with an attorney who works with these requirements regularly, rather than leaving you to sort them out alone."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery in Dublin — does that mean malpractice happened?",
+        "answer": "Not necessarily. California law recognizes that medicine involves risk, and a poor result by itself isn't proof that a provider did anything wrong. An attorney would need to look at whether the care given fell below an accepted medical standard, which usually requires a qualified expert's review."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from when it occurred. There's also a required 90-day notice period before filing suit, so it's worth getting guidance early rather than waiting."
+      },
+      {
+        "question": "Are there limits on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages in medical malpractice cases, though that cap rises each year under current law. Economic losses, like medical bills and lost income, are generally handled separately. An independent attorney can walk you through how this applies to your situation."
+      },
+      {
+        "question": "Does LawProactive handle malpractice claims for care received outside Dublin?",
+        "answer": "Yes. Many Dublin residents receive care at facilities throughout Alameda County or beyond, and that doesn't limit your ability to get connected with an attorney. What matters is where the care happened and when, not just where you live."
+      }
+    ]
+  }
+}

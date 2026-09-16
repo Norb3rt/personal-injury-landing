@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "fillmore workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fillmore Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Fillmore? Get connected free to an independent attorney who understands Ventura County workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "If a work injury has sidelined you in Fillmore, LawProactive can connect you at no cost with an independent attorney who can sort out whether workers' comp, a third-party claim, or both apply to your situation."
+  },
+  "about": {
+    "title": "Fillmore Workplace Injury Claims",
+    "longDescription": "Fillmore's economy runs on agriculture, packing operations, and the small businesses that line A Street and Ventura Street, and workers in these settings face real risks — equipment accidents, falls, repetitive strain, and vehicle-related incidents on routes like Rt 126. Most workplace injuries in California are handled through workers' compensation, which pays medical care and partial wage replacement regardless of who was at fault. But that system doesn't cover everything, and it doesn't apply at all when someone outside your employer — a subcontractor, equipment manufacturer, property owner, or another driver — caused or contributed to the harm. In those cases, a separate third-party injury claim may be available alongside your workers' comp benefits. LawProactive doesn't practice law; we simply connect injured workers in Fillmore with an independent attorney who can look at the details of your injury, your job, and how it happened, then explain what options might realistically apply to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or packing equipment",
+      "Machinery and equipment-related crush or cut injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work travel or deliveries",
+      "Chemical or pesticide exposure incidents",
+      "Struck-by injuries from falling objects or forklifts"
+    ],
+    "ctaText": "Tell us what happened — get connected with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Fillmore Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help You See Beyond the Comp System",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but if a third party contributed to your injury, a separate claim may be possible. An attorney can help identify whether that applies to your case."
+      },
+      {
+        "title": "We Understand the Reporting Clock",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days. Missing that window can complicate your claim, so getting guidance early matters."
+      },
+      {
+        "title": "Protection Against Retaliation Is Built Into the Law",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or pursuing a claim. An independent attorney can help you understand your rights if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if I was hurt driving for work near Fillmore's Route 126?",
+        "answer": "Possibly. Workers' comp typically covers injuries during work travel, but if another driver caused the crash, that driver's insurance may be a separate source of recovery. An attorney can review the crash details to see what applies."
+      },
+      {
+        "question": "What if my employer says my injury doesn't qualify for workers' comp?",
+        "answer": "Employers don't have final say over whether a claim qualifies. If you believe you were wrongly denied, an independent attorney can review the denial and explain your options, including appeal processes."
+      },
+      {
+        "question": "Is there a deadline to bring a third-party claim after a work injury?",
+        "answer": "Yes, third-party injury claims in California generally carry a two-year deadline from the date of injury. That's separate from workers' comp reporting rules, so it helps to get both timelines clarified early."
+      }
+    ]
+  }
+}

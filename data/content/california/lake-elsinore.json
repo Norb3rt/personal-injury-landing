@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "lake-elsinore city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lake Elsinore, CA Injury Lawyer Help | Free Case Review",
+    "metaDescription": "Injured in Lake Elsinore? Riverside County residents get 2 years to file. Connect free with an attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Railroad Canyon Road or injured in a fall, we connect Lake Elsinore residents with an independent attorney at no cost, serving all of Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Lake Elsinore, California",
+    "longDescription": "Lake Elsinore sits along busy corridors like Railroad Canyon Road, Riverside Drive, Lakeshore Drive, and the I-15, where daily traffic brings real risk to drivers, cyclists, and pedestrians alike. In the most recent reporting year, the city recorded 270 injury collisions, 408 people injured, and 7 traffic deaths — numbers that reflect how often ordinary trips around town can turn serious. If you or someone you love was hurt in a crash, a slip-and-fall, or another accident caused by someone else's carelessness, you don't have to sort through medical bills, insurance calls, and paperwork alone. LawProactive is a free service — we are not a law firm — that connects injured people in Lake Elsinore with an independent personal injury attorney who can evaluate your situation and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and puts you in touch with someone who can look at the specifics of what happened to you.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Cuts, bruises, and soft tissue injuries",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection with an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California generally gives you 2 years from the date of injury to file a claim, but that window shrinks to as little as 6 months if a government entity is involved. Waiting too long can cost you your right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover compensation reduced by your share of fault. An attorney can help sort out how fault gets divided."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages like pain and suffering in standard injury cases. That means your compensation isn't artificially limited by a statutory ceiling."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless you actually recover money. That removes the financial barrier to getting legal help after an accident."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Fearing the insurance company will blame you for the accident",
+      "Not knowing if you waited too long to take action",
+      "Feeling overwhelmed trying to handle everything while still recovering"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after an accident in Lake Elsinore?",
+        "answer": "In most California injury cases you have 2 years from the date of the accident to file a lawsuit. If a government agency was involved, that deadline can shrink to as little as 6 months, so it's best to act quickly."
+      },
+      {
+        "question": "Will I still be able to recover money if I was partly at fault?",
+        "answer": "Yes. California uses pure comparative fault, which means your compensation is reduced by your percentage of fault but not eliminated entirely. Even if you share some blame, you may still recover damages."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Lake Elsinore?",
+        "answer": "Public crash records show higher collision counts along corridors such as Railroad Canyon Road, Riverside Drive, Lakeshore Drive, and the I-15. These are simply the roads carrying the most reported traffic volume, not a judgment about any location."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't provide legal representation ourselves — we simply help you find someone who can."
+      },
+      {
+        "question": "What does it cost to speak with an attorney through LawProactive?",
+        "answer": "Nothing. Our connection service is free, and attorneys in the network work on contingency, meaning they only get paid if you recover compensation. There's no upfront cost or obligation to move forward."
+      }
+    ]
+  }
+}

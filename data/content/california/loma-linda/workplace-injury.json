@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "loma-linda workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Loma Linda Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Loma Linda? Get connected free with an independent attorney who handles workers' comp and third-party workplace claims."
+  },
+  "hero": {
+    "subtitle": "Loma Linda's mix of hospital campuses, university facilities, and businesses along Redlands Boulevard and Barton Road means workplace injuries can involve unusual questions of who's responsible. We can connect you at no cost with an independent attorney who can sort through your options."
+  },
+  "about": {
+    "title": "Loma Linda Workplace Injury Claims",
+    "longDescription": "Loma Linda's economy is shaped heavily by its medical center and university, along with warehousing and retail near the I-10 corridor. Workers in these settings face injuries ranging from patient-handling strains to equipment accidents to slip-and-falls in busy facilities. In California, a workplace injury usually goes through the workers' compensation system first, since that system doesn't require proving employer fault. But when a subcontractor, property owner, or equipment manufacturer contributed to the accident, a separate claim against that third party may also be possible. LawProactive doesn't practice law or handle claims directly — we're a free service that connects injured workers with independent attorneys familiar with both the workers' comp process and third-party injury claims. If you were hurt while working in Loma Linda, getting matched with the right attorney early can help you understand which paths are available to you and what deadlines apply.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Repetitive strain and lifting injuries",
+      "Slip, trip, and fall accidents",
+      "Equipment or machinery-related injuries",
+      "Falls from ladders or elevated platforms",
+      "Vehicle or forklift accidents on the job site",
+      "Injuries from defective tools or equipment"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Loma Linda Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the 30-Day Reporting Window",
+        "desc": "California requires you to notify your employer of a workplace injury within 30 days. An attorney can help make sure this step is handled correctly so your claim isn't jeopardized."
+      },
+      {
+        "title": "Spotting Third-Party Liability",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party — like a subcontractor or equipment maker — can still be pursued separately. An independent attorney can evaluate whether this applies to your situation."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a claim. If you're worried about your job, an attorney can advise you on your rights before you take any steps."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to go through workers' comp even if someone else caused my injury?",
+        "answer": "In California, workers' compensation is typically the exclusive remedy against your employer, regardless of fault. However, if a third party — such as a subcontractor, property owner, or equipment manufacturer — contributed to your injury, you may also have a separate claim against them. An attorney can help determine if that applies to your case."
+      },
+      {
+        "question": "I was hurt at a Loma Linda hospital facility — does that change anything?",
+        "answer": "Hospital and healthcare settings often involve subcontractors, medical equipment vendors, and outside maintenance companies, which can create third-party liability separate from workers' comp. Given how much of Loma Linda's workforce is tied to its medical campuses, this is worth having an attorney review closely. Each situation depends on who was involved and what caused the injury."
+      },
+      {
+        "question": "What happens if my employer retaliates after I report an injury?",
+        "answer": "Retaliation for reporting a workplace injury or filing a workers' comp claim is illegal under California law. If you experience demotion, reduced hours, or termination after reporting an injury, this may be a separate legal issue worth discussing with an attorney. Documenting any changes in your employment after the injury can help support this."
+      }
+    ]
+  }
+}

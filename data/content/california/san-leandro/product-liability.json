@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "san-leandro product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Leandro Product Liability Lawyer Connection",
+    "metaDescription": "Hurt by a defective product in San Leandro? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product sold or used in San Leandro fails and someone gets hurt, California law lets you hold the maker accountable without proving carelessness. We connect you, at no charge, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "San Leandro Product Liability Claims",
+    "longDescription": "A product that fails in your kitchen, your garage, or on the road doesn't care where you bought it. In San Leandro, defective goods reach households through retail purchases, online orders delivered daily, and the freight moving along I-880. When one of those products injures someone, California law takes a different path than most injury cases. Under strict liability, you generally do not have to prove the manufacturer was careless. You need to show the product had a defect — in its design, in how it was made, or in the warnings that came with it — and that the defect caused your harm. That shifts the focus from blame to the product itself, which is why keeping the item, its packaging, and any receipts matters so much. Responsibility can also extend beyond the maker to the distributors who moved it and the retailer who sold it. LawProactive connects San Leandro and Alameda County residents with an independent attorney who handles these claims, and the connection itself costs you nothing.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries or appliances",
+      "Lacerations from power tools that break or lack guards",
+      "Crush injuries from collapsing furniture or equipment",
+      "Harm from airbags, seatbelts, or tires that fail in a crash",
+      "Illness or poisoning from contaminated food, supplements, or medication",
+      "Choking and strangulation hazards in children's products"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Product Cases Are Different in California",
+    "items": [
+      {
+        "title": "You Don't Have to Prove Negligence",
+        "desc": "California applies strict liability to most defective-product claims. The question is whether the product had a design, manufacturing, or warning defect that caused your injury — not whether the company meant to cut corners."
+      },
+      {
+        "title": "The Product Is the Evidence",
+        "desc": "Keeping the item, its packaging, manuals, and proof of purchase can shape the entire case. An attorney can help arrange proper storage and testing before anything is discarded or repaired."
+      },
+      {
+        "title": "More Than One Party May Answer",
+        "desc": "Manufacturers, distributors, and retailers can all share responsibility under California law. That matters when the maker is overseas or hard to identify but the seller is right here in Alameda County."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I threw away the product that hurt me. Do I still have a case?",
+        "answer": "Possibly, but it makes things harder. The product is usually the central piece of evidence, so photos, receipts, order confirmations, and any remaining pieces become much more important. If the item is still in your trash or with a repair shop, retrieve it if you safely can. An attorney can look at what remains and tell you honestly where things stand."
+      },
+      {
+        "question": "A part on my car failed on I-880 near San Leandro. Is that a crash case or a product case?",
+        "answer": "It can be both. San Leandro recorded 304 injury collisions in 2025, and some collisions involve a component that didn't perform as designed, such as a tire, brake, or airbag. If a defect contributed, the manufacturer may be liable under strict liability alongside any driver who was at fault. Preserve the vehicle without repairs until an attorney has reviewed it."
+      },
+      {
+        "question": "How much does it cost to get connected and hire an attorney?",
+        "answer": "LawProactive charges you nothing to connect you with an independent attorney. The attorneys in our network work on contingency, meaning there is no fee unless there is a recovery in your case. You can ask about the specific percentage and case costs during your first conversation with them."
+      }
+    ]
+  }
+}

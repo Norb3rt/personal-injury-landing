@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "la-puente city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Puente, CA Injury Lawyer Help | Free Case Review",
+    "metaDescription": "Hurt in La Puente? Los Angeles County residents get 2 years to file. Connect free with an independent attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, fall, or other accident in La Puente, we can connect you with an independent attorney at no cost. Serving families throughout Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in La Puente, California",
+    "longDescription": "La Puente sits in the San Gabriel Valley, where daily traffic moves along corridors like Amar Road, Temple Avenue, Hacienda Boulevard, and Valley Boulevard. Public records show 116 injury collisions in the most recent final crash year, leaving 160 people hurt. Behind each number is someone dealing with pain, missed work, and a stack of medical bills they didn't expect. If that's your situation, LawProactive can help you take a next step. We are a free service that connects injured people in La Puente with an independent personal injury attorney from our network—we are not a law firm, and we don't decide or handle your case ourselves. The attorneys we connect you with work on contingency, meaning there's no fee unless they recover money for you. Whether your injury happened on one of La Puente's busy corridors, at a local business, or somewhere else in the community, getting a free case review can help you understand your options before deadlines or insurance pressure make the decision for you. There's no obligation to move forward, and reaching out costs you nothing.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Get a free, no-obligation case review today."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity is involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "California places no limit on non-economic damages, like pain and suffering, in typical injury cases. That means your recovery isn't artificially boxed in by a statutory ceiling."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. That structure lets you focus on healing instead of legal bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Feeling unsure whether the insurance company's offer is fair",
+      "Not knowing how long you have to take legal action",
+      "Wondering if you can still recover money if you were partly at fault"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in La Puente?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If your injury involved a government entity, such as a city vehicle or public property, that deadline can be as short as six months. It's best to talk with an attorney early so you don't lose your right to pursue compensation."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows pure comparative fault, which means you can still recover damages even if you contributed to the accident. Your compensation is reduced by your percentage of fault rather than blocked entirely. An attorney can help assess how fault might affect your specific claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in La Puente?",
+        "answer": "Public crash records show higher collision counts along corridors like Amar Road, Temple Avenue, Hacienda Boulevard, and Valley Boulevard, with reported crashes tending to peak on Fridays between 6 and 8 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people in La Puente get in touch with an independent personal injury attorney. We don't represent you directly or handle your case ourselves—we simply help you find legal help."
+      },
+      {
+        "question": "Will I owe money if I use LawProactive?",
+        "answer": "Reaching out to LawProactive is completely free, and there's no obligation to move forward. Attorneys in our network work on contingency, meaning they only get paid if they recover compensation for you."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "bellflower city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bellflower, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Bellflower, Los Angeles County? You have 2 years to file most injury claims. Get connected free to an independent attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hit on Bellflower Boulevard, injured in a fall, or bitten by a dog, LawProactive connects you at no cost with an independent injury attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Bellflower, California",
+    "longDescription": "Bellflower sits in the middle of southeast Los Angeles County, and most of its everyday traffic funnels through a handful of streets: Clark Avenue, Bellflower Boulevard, Woodruff Avenue, and Alondra Boulevard. Public records show those four corridors carry the largest share of the city's collisions. In 2025, the most recent year with final numbers, Bellflower logged 357 injury collisions. Those crashes left 513 people hurt and took 10 lives. Friday evenings between 5 and 7 p.m. are when reports come in most often, which lines up with the end of the work week for a town of roughly 78,000 residents. A crash, a fall at a store, or a dog bite can change a normal week into months of appointments and paperwork. If that has happened to you, LawProactive can help you take the first step. We are a free service, not a law firm. Our role is simple: we listen to what happened and connect you with an independent personal injury attorney who handles claims in Los Angeles County. There is no charge for the connection. The attorney you speak with works on contingency, so you pay no fee unless there is a recovery in your case. You keep control of every decision, including whether to move forward at all.",
+    "commonInjuriesTitle": "Injuries People in Bellflower Ask Us About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken wrists, arms, and collarbones",
+      "Concussions and other head injuries",
+      "Knee and hip injuries from slip-and-falls",
+      "Road rash and fractures from motorcycle or bicycle crashes",
+      "Puncture wounds and scarring from dog bites"
+    ],
+    "ctaText": "Tell us what happened. The connection is free, and you decide what comes next."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Bellflower Claim",
+    "items": [
+      {
+        "title": "Two years, and sometimes far less",
+        "desc": "Most California injury claims must be filed within 2 years of the injury. If a city, county, or state agency is involved, the deadline to file a claim can be as short as 6 months, so timing matters."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "California follows pure comparative fault. Even if you share some blame for a crash on Alondra Boulevard, you can still recover, with the amount reduced by your percentage of responsibility."
+      },
+      {
+        "title": "Pain and suffering are not capped",
+        "desc": "In ordinary injury cases, California places no ceiling on non-economic damages such as pain, lost enjoyment of life, and emotional distress."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in our network work on contingency. You do not pay hourly rates or upfront costs, and a fee is only owed if your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "My car is totaled and I still have to get to work in Downey.",
+      "The ER bill arrived before I could even walk without pain.",
+      "I was partly at fault, so I assumed I had no options."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Bellflower show up most often in public records?",
+        "answer": "Based on public-record collision counts, Clark Avenue, Bellflower Boulevard, Woodruff Avenue, and Alondra Boulevard see the highest volumes in the city. Reports also tend to cluster on Fridays between 5 p.m. and 7 p.m. These are simply counts from official data, not a judgment about any particular street."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, the deadline is 2 years from the date of the injury. When a government entity is involved, such as a claim over a city vehicle or a public sidewalk, you may have only 6 months to file an administrative claim. An attorney can confirm which deadline applies to your situation."
+      },
+      {
+        "question": "Does LawProactive charge anything?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney. We are not a law firm and do not give legal advice. The attorney you connect with works on contingency, meaning no fee unless there is a recovery."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses pure comparative fault. Your compensation is reduced by your share of the blame, but you are not barred from recovering. For example, being found 30 percent at fault would reduce a recovery by 30 percent, not eliminate it."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In ordinary California injury cases, there is no cap on non-economic damages like pain, suffering, and loss of enjoyment of life. Certain specialized claims follow different rules, so it is worth reviewing the specifics with an attorney. No one can promise a particular result, but the law does not impose a fixed ceiling here."
+      }
+    ]
+  }
+}

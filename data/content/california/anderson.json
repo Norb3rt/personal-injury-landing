@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "anderson city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Anderson, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in Anderson, Shasta County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end crash or a broken bone from a fall, we'll connect you at no cost with an independent attorney serving Shasta County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Anderson, California",
+    "longDescription": "Anderson sits along key Shasta County corridors like Rt 273, I-5, Deschutes Road, and North Street — roads that carry a steady mix of local traffic, commuters, and travelers passing through. Public records show 26 injury collisions in the most recent final crash year, with 40 people hurt and 1 traffic death. Reported crashes here tend to cluster on Thursday afternoons between 3 and 5 p.m., a pattern worth knowing if you're piecing together how a wreck happened. If you were hurt in one of these incidents, you likely have questions about medical bills, lost work, and what comes next. LawProactive is a free service — not a law firm — that connects injured people in Anderson with an independent personal injury attorney who can review the details of a case. There's no upfront cost, and the attorneys in our network only get paid if there's a recovery. We're simply here to help you find someone who can explain your options and, if it makes sense, take the next steps on your behalf.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts requiring stitches or surgery",
+      "Soft-tissue and joint damage"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "Why People in Anderson Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require notice in as little as six months. Connecting early helps make sure that window doesn't close on you."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows a pure comparative fault rule, meaning even if you share some blame for the crash, you can still recover damages — just reduced by your percentage of fault."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering, so the value of a claim isn't artificially limited."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, which means their fee comes out of any settlement or award — not out of your pocket upfront."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're out of work",
+      "Not knowing if the other driver's insurance will actually cover your costs",
+      "Feeling pressured to accept a quick settlement offer",
+      "Wondering if it's too late, or too complicated, to do anything at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to pay anything to get connected with an attorney?",
+        "answer": "No. LawProactive's connection service is completely free. If an independent attorney takes your case, they typically work on contingency, meaning they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Anderson?",
+        "answer": "California generally allows two years from the date of injury to file most personal injury claims. If a government entity was involved, such as a city road crew, the notice deadline can be as short as six months, so it's wise not to wait."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses a pure comparative fault system, so being partly at fault doesn't prevent you from recovering compensation. Your recovery is simply reduced by your share of the fault, which an attorney can help evaluate."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Anderson?",
+        "answer": "Public crash records show higher collision counts along corridors like Rt 273, I-5, Deschutes Road, and North Street, with reporting showing a pattern around Thursday afternoons between 3 and 5 p.m. These are simply publicly reported counts, not a judgment about any particular road or area."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't represent clients directly — we simply help you find someone who can review your situation."
+      }
+    ]
+  }
+}

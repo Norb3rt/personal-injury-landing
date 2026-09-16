@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "blue-lake city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Blue Lake, CA Injury Help | Free Attorney Connection",
+    "metaDescription": "Injured in Blue Lake, Humboldt County? Free, no-obligation connection to an independent CA attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident in Blue Lake, we can connect you with an independent personal injury attorney at no cost. Serving residents throughout Humboldt County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Blue Lake, California",
+    "longDescription": "Blue Lake is a small city, and its collision numbers reflect that: the most recent final tally for 2024 shows no reported injury collisions and no traffic deaths recorded that year. Still, public records tied to local corridors like 33 Chartin Way, 777 Casino Way, Davis Street, and Sunrise Boulevard show where collision reports have been logged over time, and Tuesday mornings between 5 and 7 a.m. show up as a period when reports tend to cluster. Whether a crash happens on one of these roads or elsewhere in town, the aftermath is the same for the person dealing with it: medical visits, missed work, and questions about what comes next. LawProactive is a free service that helps people in Blue Lake connect with an independent personal injury attorney - we are not a law firm, we don't handle cases ourselves, and we never charge for the connection. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. If you're trying to figure out your options after getting hurt, reaching out costs nothing and starts the conversation.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries requiring physical therapy"
+    ],
+    "ctaText": "Find out if you have a case - the call is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "You have a limited window",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government agency can require action in as little as six months. Missing that window can mean losing your right to recover."
+      },
+      {
+        "title": "Being partly at fault doesn't end your claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "There's no cap on pain and suffering",
+        "desc": "In ordinary injury cases, California law does not limit the amount you can recover for non-economic harm like pain and suffering. That's a factor worth discussing with an attorney before accepting any offer."
+      },
+      {
+        "title": "No upfront cost to get advice",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. That structure lets you get legal input without paying out of pocket first."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling unsure whether you can still file a claim if you were partly at fault",
+      "Fearing that time is running out to take any action at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have a case if the crash happened in Blue Lake?",
+        "answer": "It depends on the details, but Blue Lake residents have the same legal rights as anyone else in California. The best way to know is to have a free conversation with an independent attorney who can review what happened."
+      },
+      {
+        "question": "Is there really no cost to use LawProactive?",
+        "answer": "Correct - LawProactive is a free service, not a law firm, and connecting with an attorney through us costs nothing. If you move forward with an attorney, they typically work on contingency, so there's no fee unless you recover money."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Most personal injury claims must be filed within two years of the injury. If a government entity is involved, that window can shrink to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Are certain roads in Blue Lake riskier than others?",
+        "answer": "We don't make judgments about which roads are more or less risky. What we can say is that public collision records show reports concentrated around corridors like 33 Chartin Way, 777 Casino Way, Davis Street, and Sunrise Boulevard, with Tuesday mornings between 5 and 7 a.m. showing up frequently in those records."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your recovery would simply be reduced in proportion to your share of fault, not denied outright."
+      }
+    ]
+  }
+}

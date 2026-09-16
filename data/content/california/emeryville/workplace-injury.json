@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "emeryville workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Emeryville Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Emeryville? Get connected free with an independent attorney who handles work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Emeryville's warehouses, biotech labs, and busy loading docks near I-80 and Powell Street see their share of on-the-job injuries. LawProactive can connect you free with an independent attorney to sort out your options."
+  },
+  "about": {
+    "title": "Emeryville Workplace Injury Claims",
+    "longDescription": "Emeryville's economy runs on a mix of biotech research, retail distribution, and light industry clustered near I-80, Powell Street, and Hollis Street. That variety means workplace injuries here range from forklift accidents in a Hollis Street warehouse to slip-and-falls at a 40th Street office complex. In California, workers' compensation is typically the only path against your employer, no matter who was at fault, but it doesn't cover everything a serious injury costs you. If a subcontractor, property owner, delivery driver, or equipment manufacturer contributed to what happened, a separate third-party claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law or handle claims directly — we're a free service that connects injured workers in Emeryville with an independent attorney who can look at the full picture, including whether a third-party claim applies to your situation. There's no cost to find out where you stand.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Warehouse and loading dock accidents",
+      "Forklift and heavy equipment injuries",
+      "Falls from heights or ladders",
+      "Repetitive strain and lifting injuries",
+      "Chemical or lab exposure incidents",
+      "Injuries from defective tools or machinery"
+    ],
+    "ctaText": "Get matched with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Full Story",
+        "desc": "California treats workers' comp as the usual exclusive remedy against your employer, but it doesn't rule out a claim against a negligent third party like a contractor or equipment maker. An attorney can help sort out which path — or paths — apply to your Emeryville workplace injury."
+      },
+      {
+        "title": "The 30-Day Reporting Window Matters",
+        "desc": "California law generally requires you to report a workplace injury to your employer within 30 days to protect your workers' comp rights. Missing that window can complicate a claim, so getting guidance early matters."
+      },
+      {
+        "title": "Retaliation Is Illegal, and Deadlines Are Real",
+        "desc": "Your employer cannot legally punish you for reporting an injury or filing a claim. If your case involves a third party, that separate claim generally carries a 2-year deadline, so timing counts."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a warehouse job near Hollis Street. Do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' comp is your primary path against your employer regardless of fault. But if a subcontractor, delivery company, or equipment manufacturer contributed to the accident, you may also have a separate third-party claim. An independent attorney can review the details and explain which options fit your situation."
+      },
+      {
+        "question": "Can my employer fire me for reporting an injury?",
+        "answer": "No. California law prohibits retaliation against workers who report injuries or file workers' comp claims. If you believe you've faced retaliation, that's worth discussing with an attorney separately from your injury claim."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim?",
+        "answer": "You generally need to notify your employer within 30 days to protect your workers' comp rights. If a third party is involved, that separate claim typically carries a 2-year deadline in California, so it helps not to wait."
+      }
+    ]
+  }
+}

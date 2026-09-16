@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "sonoma city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sonoma, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Sonoma County? Free connection to an independent injury attorney. 2 years to file, no fee unless you win. Get help now."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Broadway or a fall somewhere else in town, we'll connect you free of charge with an independent attorney serving Sonoma County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Sonoma, California",
+    "longDescription": "Sonoma is a small town with busy stretches — Broadway, 5th Street W, W Napa Street, and Rt 12 see a steady flow of local and visiting traffic, and public records show 41 injury collisions in the most recent final year, leaving 51 people hurt. Fridays between 3 and 5 p.m. tend to show up more often in these reports, likely tied to end-of-week traffic and weekend visitors heading into wine country. Getting hurt in a collision or other accident here can leave you dealing with medical bills, missed work, and insurance calls you didn't ask for. LawProactive is a free service — not a law firm — that connects injured people in Sonoma with an independent personal injury attorney who can look at your situation and explain your options. There's no fee unless the attorney recovers money for you. We don't practice law or handle your case ourselves; we simply help you find someone who can. If you've been injured, reaching out costs nothing and can help you understand where you stand.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from falls or pedestrian accidents"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why People in Sonoma Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have a Limited Window",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require notice in as little as six months. Waiting too long can cost you the chance to recover anything."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you share some blame for what happened, you can still recover compensation reduced by your percentage of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering, so your compensation isn't artificially capped."
+      },
+      {
+        "title": "No Fee Unless You Recover Money",
+        "desc": "Attorneys in our network work on contingency, meaning you pay nothing upfront and owe no fee unless they win compensation on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about who will pay for medical bills piling up",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you waited too long to take action",
+      "Fear that being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Sonoma?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If a government entity is involved, the window can be as short as six months, so it's worth checking your situation early."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you were partly to blame. Your total recovery would simply be reduced by your share of fault."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people in Sonoma find an independent personal injury attorney. We don't provide legal representation ourselves."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Sonoma?",
+        "answer": "Public crash records show higher collision counts along Broadway, 5th Street W, W Napa Street, and Rt 12, with Friday afternoons between 3 and 5 p.m. appearing more often in reports. These are simply neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Do I have to pay anything upfront to speak with an attorney?",
+        "answer": "No. Connecting with an attorney through LawProactive is free, and attorneys in our network work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

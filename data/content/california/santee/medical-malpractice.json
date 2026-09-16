@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "santee medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santee Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Santee, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Santee hospital visit or treatment leaves you worse off, it's fair to want answers. LawProactive can connect you at no cost with an independent attorney who reviews medical malpractice cases in San Diego County."
+  },
+  "about": {
+    "title": "Santee Medical Malpractice Claims",
+    "longDescription": "Santee residents rely on a handful of nearby clinics, urgent care centers, and San Diego County hospitals for everything from routine checkups to emergency care after a crash on Mission Gorge Road or SR-52. Most of the time, that care goes fine. But when a diagnosis is missed, a surgery goes wrong, or medication is mismanaged, the harm can be lasting. Medical malpractice claims in California are different from ordinary injury cases — they involve stricter deadlines, a required pre-suit notice, and rules about expert review that most people have never encountered before. LawProactive doesn't practice law or promise any result. What we do is connect Santee residents, free of charge, with an independent attorney who can look at the medical records, explain whether the case appears to meet California's legal standards, and walk through next steps in plain language.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication overdose or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a patient after treatment"
+    ],
+    "ctaText": "Talk with an independent attorney about your Santee medical care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Santee Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Are Short and Strict",
+        "desc": "California generally allows one year from when you discover the harm, and no more than three years from the injury itself, plus a 90-day pre-suit notice requirement — waiting to sort out records can cost you the claim."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A qualified medical expert typically has to confirm the care fell below the accepted standard; a poor outcome by itself isn't proof of malpractice, so early case evaluation matters."
+      },
+      {
+        "title": "Damages Rules Are Complex",
+        "desc": "California's cap on non-economic damages rises each year under MICRA, and how a claim is valued depends on details an independent attorney is better positioned to walk through than a general search."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Santee?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discover the injury, but never more than three years from when it happened. There's also a 90-day notice you must give before filing suit. Because these deadlines can overlap in confusing ways, it helps to have someone review your specific timeline early."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No — California law requires proof that a provider's care fell below the accepted medical standard, usually backed by a qualified expert. A treatment that simply didn't work as hoped isn't enough on its own. An independent attorney can help determine whether your situation involves an actual departure from standard care."
+      },
+      {
+        "question": "Does LawProactive handle malpractice claims tied to Santee hospitals directly?",
+        "answer": "LawProactive isn't a law firm and doesn't handle claims itself — we're a free connection service. If you were treated at a facility serving the Santee area, we can connect you with an independent attorney who reviews these cases and can advise on the specific medical provider involved."
+      }
+    ]
+  }
+}

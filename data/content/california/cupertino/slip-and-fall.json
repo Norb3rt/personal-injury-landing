@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "cupertino slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Cupertino Slip & Fall Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a fall in Cupertino? Get connected free to an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a De Anza Boulevard shopping center or a Stevens Creek Boulevard office park can leave you with more questions than answers. LawProactive connects Cupertino residents hurt on someone else's property with an independent attorney, free of charge."
+  },
+  "about": {
+    "title": "Cupertino Slip & Fall and Premises Liability Claims",
+    "longDescription": "Cupertino's mix of tech campuses, retail centers, and residential complexes near Stevens Creek Boulevard and De Anza Boulevard means plenty of foot traffic across parking lots, stairwells, and walkways. When a property owner or manager lets a spill, broken pavement, or poor lighting go unaddressed, a routine errand can end in a serious fall. Under California law, you generally need to show the owner knew or reasonably should have known about the hazard and failed to fix or warn about it. That makes documenting the scene and preserving any nearby surveillance footage important early on, since store and building cameras often overwrite recordings within days. LawProactive doesn't represent you directly - we're a free connection service that puts injured Cupertino residents in touch with an independent attorney who can evaluate the property conditions, notice requirements, and your options moving forward.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and arm fractures",
+      "Torn ligaments and knee injuries",
+      "Traumatic brain injuries from head impact",
+      "Spinal disc injuries and herniation",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Get connected with an independent attorney - free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "Notice Is Everything in These Cases",
+        "desc": "California premises liability claims hinge on showing the property owner knew or should have known about the hazard and didn't fix or warn about it. An attorney can help identify evidence, like prior complaints or maintenance logs, that speaks to notice."
+      },
+      {
+        "title": "Video Disappears Fast",
+        "desc": "Many Cupertino retailers and office buildings overwrite security footage within a week or two. Getting an attorney involved quickly can help with requests to preserve that footage before it's gone."
+      },
+      {
+        "title": "Comparative Fault Doesn't Bar Your Claim",
+        "desc": "California uses pure comparative fault, meaning even if you were partly responsible for the fall, you may still recover a reduced amount. An attorney can help sort out how fault might be allocated in your specific situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell at a store on Stevens Creek Boulevard. What should I do first?",
+        "answer": "Try to photograph the hazard, your injuries, and the surrounding area before conditions change or get cleaned up. Report the fall to store management and ask for an incident report copy. Then consider getting connected with an independent attorney who can send a preservation letter for any security video."
+      },
+      {
+        "question": "How long do I have to file a premises liability claim in California?",
+        "answer": "Generally you have two years from the date of the fall, though claims against a public entity, like a city-owned facility, involve a much shorter window. Missing these deadlines can end your ability to recover, so it's worth getting guidance sooner rather than later."
+      },
+      {
+        "question": "Does it matter that Cupertino has a lot of tech campus and retail foot traffic?",
+        "answer": "High foot-traffic areas near De Anza Boulevard and Stevens Creek Boulevard tend to generate more slip and fall reports simply due to volume, not because any location is inherently unsafe. What matters legally is whether the specific property owner had notice of a hazard and failed to address it."
+      }
+    ]
+  }
+}

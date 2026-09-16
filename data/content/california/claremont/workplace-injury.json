@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "claremont workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Claremont Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Claremont? LawProactive connects you free with an independent attorney to sort out comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "When a job site injury happens near Indian Hill Boulevard or along the Foothill corridor, sorting out who's actually responsible can be confusing. LawProactive connects injured Claremont workers with an independent attorney who can look at whether a third party, not just your employer, played a role."
+  },
+  "about": {
+    "title": "Claremont Workplace Injury Claims",
+    "longDescription": "Claremont sits in a stretch of Los Angeles County where warehouses, retail centers, and small manufacturing shops line corridors like Foothill Boulevard and Baseline Road, and workplace accidents happen in all of them. Most injured workers assume workers' compensation is their only path forward, and in many cases that's true against the employer. But California law allows a separate claim against a negligent third party, like a subcontractor, a property owner, or an equipment manufacturer, when their actions contributed to the injury. LawProactive is a free connection service, not a law firm, and we don't guarantee any result. What we do is put injured Claremont workers in touch with an independent attorney who can review the details, figure out whether a third-party claim exists alongside a workers' comp filing, and explain the options in plain language before any deadline passes.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from malfunctioning tools or heavy machinery",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle-related injuries during work deliveries or errands",
+      "Burns or chemical exposure on job sites",
+      "Injuries caused by falling materials or unsafe storage"
+    ],
+    "ctaText": "Tell us what happened, and we'll connect you with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Claremont Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Look Beyond the Comp System",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but it doesn't cover claims against a negligent third party like a subcontractor or equipment maker. We connect you with an attorney who checks for that separate path."
+      },
+      {
+        "title": "We Know the Clock Matters",
+        "desc": "Reporting a workplace injury to your employer within 30 days protects your comp rights, and a third-party injury claim carries its own 2-year deadline. Getting connected early gives an attorney more room to work."
+      },
+      {
+        "title": "We Understand Retaliation Concerns",
+        "desc": "California law prohibits employers from retaliating against workers who report an injury. If you're worried about your job while sorting out a claim, an independent attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My employer says workers' comp is my only option. Is that true?",
+        "answer": "Usually workers' comp is the exclusive remedy against your employer, regardless of fault. But if a third party, like a contractor, equipment manufacturer, or property owner, contributed to your injury, you may have a separate claim outside the comp system. An independent attorney can look at the facts and tell you whether that applies to your situation."
+      },
+      {
+        "question": "I was injured at a job site along Foothill Boulevard in Claremont. Does location matter?",
+        "answer": "The specific corridor doesn't change the legal rules, but it can help identify whether other businesses, property owners, or subcontractors operating nearby were involved. Job sites along busy commercial stretches like Foothill Boulevard often involve multiple companies, which is exactly the kind of situation where a third-party claim can surface. An attorney can sort out who was actually responsible."
+      },
+      {
+        "question": "Can I lose my job for reporting a workplace injury in California?",
+        "answer": "No, retaliation against a worker for reporting an injury is illegal under California law. If you believe your employer is punishing you for filing a report or seeking treatment, that's worth raising with an independent attorney right away. Documenting the timeline of events can help support your position."
+      }
+    ]
+  }
+}

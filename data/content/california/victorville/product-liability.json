@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "victorville product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Victorville Product Liability Attorney | LawProactive",
+    "metaDescription": "Hurt by a defective product in Victorville? LawProactive connects you free with an independent attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When a tire, tool, appliance, or auto part fails in Victorville, California's strict liability rules may put the responsibility on the companies that made and sold it. LawProactive connects you, at no cost, with an independent attorney who handles defective-product claims."
+  },
+  "about": {
+    "title": "Victorville Product Liability Claims",
+    "longDescription": "Victorville sits where the high desert meets the I-15 corridor, and the products people depend on here work hard: summer heat that stresses tires and batteries, long drives down Rt 395 and Bear Valley Road, and household goods carried home from the retail stretches along Amargosa Road. When one of those products fails and someone is hurt, California law does not usually ask whether the manufacturer was careless. It asks whether the product was defective in its design, in how that particular unit was built, or in the warnings that came with it, and whether that defect caused the injury. That is strict liability, and it can reach the maker, the distributor, and the retailer together. Public records for 2025 list 522 injury collisions in Victorville, 753 people injured, and 23 traffic deaths; some crashes trace back to a part that gave out rather than a driver's choice. LawProactive is a free service, not a law firm. We connect Victorville residents with an independent attorney who handles defective-product claims on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, chargers, or appliances",
+      "Crash injuries tied to tire, brake, or airbag failure",
+      "Lacerations and amputations from power tools and machinery",
+      "Harm from contaminated or mislabeled food, supplements, or medication",
+      "Choking, poisoning, or falls involving children's products",
+      "Head and spinal injuries from collapsing furniture, ladders, or equipment"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Victorville Residents Use LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Changes the Question",
+        "desc": "You generally do not need to prove the manufacturer was negligent, only that the product was defective and that the defect caused your injury. The attorneys we connect you with build cases around that standard."
+      },
+      {
+        "title": "Every Link in the Supply Chain",
+        "desc": "California allows claims against the maker, the distributor, and the store that sold the product. An independent attorney can identify each responsible company rather than stopping at the first one."
+      },
+      {
+        "title": "Guidance on Preserving the Product",
+        "desc": "The failed item is usually the most important piece of evidence, so keeping it intact and unrepaired matters. We connect you quickly so an attorney can advise on preservation before anything is thrown away or returned."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "A tire blew out on Rt 395 near Victorville and I crashed. Is that a product case or a car accident case?",
+        "answer": "It could be both. If the tire had a design or manufacturing defect, or lacked proper warnings, the tire maker and seller may be strictly liable for your injuries, separate from any claim involving another driver. Keep the tire and the vehicle as they are until an attorney has looked at them, because the physical evidence is what shows the defect."
+      },
+      {
+        "question": "Do I have to prove the company knew the product was faulty?",
+        "answer": "Usually not. Under California's strict liability rules, the focus is on whether the product was defective and whether that defect hurt you, not on what the company knew or how careful it was. Negligence can still be argued in some cases, but it is not the only path."
+      },
+      {
+        "question": "I bought the item at a Victorville store, not directly from the manufacturer. Can I still make a claim?",
+        "answer": "Yes. Retailers and distributors in California can be held liable alongside the manufacturer for a defective product they sold. Hold on to your receipt, the packaging, and the product itself, and an independent attorney can sort out which companies belong in the claim."
+      }
+    ]
+  }
+}

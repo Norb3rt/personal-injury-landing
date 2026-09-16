@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "azusa city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Azusa, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Azusa, LA County? Get connected free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or dog bite around Azusa, we can connect you free of charge with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Azusa, California",
+    "longDescription": "Azusa sits at the base of the San Gabriel Mountains, and its traffic reflects a mix of local streets and freeway commuters. Public records show 190 injury collisions in the most recent final crash year, with 278 people hurt and 1 traffic death citywide. Corridors like I-210 (Foothill Freeway), Azusa Avenue, Arrow Highway, and San Gabriel Avenue carry the heaviest reported collision counts, and crash reports tend to cluster on Friday evenings between 5 and 7 p.m. when commuter traffic mixes with weekend errands. If you were hurt in one of these incidents, sorting out medical bills, insurance calls, and lost work can feel overwhelming on top of physical recovery. LawProactive is a free service — not a law firm — that connects injured people in Azusa with an independent personal injury attorney who can review the details of what happened. Consultations are free, and attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. You don't have to figure out the next steps alone.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Dog bite wounds",
+      "Soft tissue and back injuries"
+    ],
+    "ctaText": "Get a free case review to see what your options may be."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the injury date to file a claim, but claims against a government agency can require notice in as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover a reduced amount. An attorney can help make sure your share of fault is fairly assessed."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means your compensation isn't artificially limited by a statutory ceiling."
+      },
+      {
+        "title": "No Upfront Cost to You",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That removes the financial barrier to simply getting a professional opinion on your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Fear that admitting any fault means losing the right to compensation",
+      "Uncertainty about whether it's too late to file a claim",
+      "Feeling pressured by insurance adjusters calling before you've healed"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Azusa?",
+        "answer": "California generally allows two years from the date of injury to file a personal injury lawsuit. If a government entity is involved, such as a city vehicle or road defect, the notice window can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Will I still recover money if I was partly at fault?",
+        "answer": "Yes. California uses pure comparative fault, which reduces your recovery by your percentage of fault but doesn't bar it entirely. Even if you're found 40% responsible, you could still recover the remaining 60% of damages."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Azusa?",
+        "answer": "Public crash records show higher collision counts along I-210 (Foothill Freeway), Azusa Avenue, Arrow Highway, and San Gabriel Avenue, with reports peaking on Fridays between 5 and 7 p.m. These are simply the corridors with the most recorded incidents, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge any fees?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in our network work on contingency, meaning they only get paid if you recover compensation."
+      },
+      {
+        "question": "What should I do right after a crash in Azusa?",
+        "answer": "Seek medical attention even if injuries seem minor, since some symptoms appear later. Document the scene if you can, get a police report number, and avoid giving detailed statements to insurance adjusters before speaking with an attorney."
+      }
+    ]
+  }
+}

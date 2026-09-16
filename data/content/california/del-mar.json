@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "del-mar city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Del Mar, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Del Mar? Connect free with an independent San Diego County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash, a fracture, or something more serious after a car crash or fall, we'll connect you with an independent attorney serving San Diego County — free of charge, with no obligation."
+  },
+  "about": {
+    "title": "Personal Injury Help in Del Mar, California",
+    "longDescription": "Del Mar is a small coastal city, but its roads carry a steady flow of daily traffic — locals running errands, visitors heading to the fairgrounds, and commuters cutting through on Via De La Valle or Carmel Valley Road. In the most recent full year on record, Del Mar saw 17 injury collisions and 22 people hurt, with no traffic deaths reported. Camino Del Mar and Del Mar Heights Road show up regularly in public crash records too, simply because they carry so much of the city's traffic. If you were hurt in a collision on any of these roads, or anywhere else in Del Mar, sorting out what comes next can feel overwhelming — medical visits, insurance calls, missed work. LawProactive is a free service that connects injured people with an independent personal injury attorney; we are not a law firm, and we don't charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. If you're trying to figure out your options after a crash in Del Mar, reaching out costs nothing and can help you understand where you stand.",
+    "commonInjuriesTitle": "Types of Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring physical therapy or surgery"
+    ],
+    "ctaText": "Find out if you have a case — connecting with an attorney is free."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Decide What's Next",
+    "items": [
+      {
+        "title": "You Have Two Years, But Don't Wait",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. That window shrinks dramatically — sometimes to just six months — if a government entity is involved, so it pays to figure out your situation early."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover compensation. Your share of fault simply reduces the amount, rather than eliminating your claim entirely."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means compensation isn't artificially limited the way it is in some other states."
+      },
+      {
+        "title": "You Pay Nothing Unless There's a Recovery",
+        "desc": "Attorneys connected through LawProactive work on contingency. That means no upfront fees and no bill at all unless your case results in a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Feeling pressured by an insurance adjuster to settle quickly",
+      "Not knowing whether you can still make a claim if you were partly at fault",
+      "Fearing that hiring a lawyer will cost more than you can afford"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Del Mar?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If a government entity, like a city or county vehicle, was involved, that deadline can shrink to as little as six months, so it's worth checking your specific situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your fault percentage reduces your recovery but doesn't eliminate it."
+      },
+      {
+        "question": "Where do crashes tend to be reported in Del Mar?",
+        "answer": "Public crash records show higher collision counts along Camino Del Mar, Via De La Valle, Del Mar Heights Road, and Carmel Valley Road, with reported crashes tending to cluster on Fridays between roughly noon and 2 p.m. These are simply the corridors carrying the most traffic — not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we're not a law firm ourselves. We simply help connect injured people with an independent attorney who can review their situation."
+      },
+      {
+        "question": "Will I owe money if my case doesn't result in a settlement?",
+        "answer": "Attorneys in our network work on a contingency basis, which means their fee comes only from a settlement or award if you win. If there's no recovery, you typically owe no attorney fee."
+      }
+    ]
+  }
+}

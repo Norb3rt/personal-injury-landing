@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "sonora car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sonora Car Accident Help | LawProactive",
+    "metaDescription": "Hurt in a car accident in Sonora, CA? LawProactive connects you free to an independent attorney near Tuolumne County. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Rt 49, Mono Way, or S Washington Street left you hurt, LawProactive can connect you with an independent Sonora-area attorney at no cost to you."
+  },
+  "about": {
+    "title": "Sonora Car Accident Claims",
+    "longDescription": "Sonora sees a steady stream of traffic moving through Tuolumne County on corridors like Rt 49, Mono Way, S Washington Street, and Sanguinetti Road, and public records show dozens of injury collisions here each year. Friday afternoons between 3 and 5 p.m. tend to bring more reported crashes, likely tied to commuters and weekend travel through town. When a collision happens, the moments and days afterward matter: insurance adjusters move fast, and physical evidence like skid marks, vehicle damage, and witness memories fade quickly. LawProactive doesn't practice law ourselves — we're a free service that connects injured Sonora residents with an independent personal injury attorney who can evaluate what happened, deal with insurers, and help protect your right to recover. There's no obligation to move forward, and no upfront cost to find out where you stand.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussion or traumatic brain injury",
+      "Fractured ribs or limbs",
+      "Herniated or bulging discs",
+      "Soft tissue and ligament damage",
+      "Lacerations and deep bruising"
+    ],
+    "ctaText": "Get connected with a Sonora-area attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Ticking",
+        "desc": "You generally have two years to file a car accident claim in California, but that window can shrink to as little as six months if a government entity (like a county road issue) is involved. An attorney can help you figure out which deadline applies before it passes."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California allows recovery even if you're partly at fault, but your share of blame reduces what you can recover. Insurers often try to pin more fault on you early, so it helps to have someone reviewing the facts before you say anything on record."
+      },
+      {
+        "title": "No Cap Means Your Claim's Full Value Matters",
+        "desc": "California doesn't cap non-economic damages like pain and suffering in car accident cases, so undervaluing your claim early can cost you later. An attorney working on contingency has an incentive to pursue the claim's actual worth, not a quick settlement."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurance adjusters are trained to ask questions that can be used to minimize your claim later. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if my crash happened on Rt 49 or Mono Way and involved a county or state road issue?",
+        "answer": "Claims involving government-maintained roads, like certain stretches of Rt 49 or Sanguinetti Road, can carry a much shorter filing deadline than a typical two-year window, sometimes as little as six months. It's important to have this reviewed quickly by an attorney familiar with California's rules for claims against public entities."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and there's no cost to you to be connected with an independent attorney. If you move forward and they take your case, they typically work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

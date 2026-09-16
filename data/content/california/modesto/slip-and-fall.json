@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "modesto slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Modesto Slip & Fall Attorney Match | LawProactive",
+    "metaDescription": "Hurt in a fall on Modesto property you don't own? LawProactive connects you, free, with an independent premises liability attorney. Contingency fee only."
+  },
+  "hero": {
+    "subtitle": "A wet grocery aisle, a broken parking-lot curb, an unlit stairwell — falls on someone else's property happen every week across Modesto. LawProactive connects you, at no cost, with an independent attorney who handles Stanislaus County premises liability claims."
+  },
+  "about": {
+    "title": "Modesto Slip & Fall and Premises Liability Claims",
+    "longDescription": "Modesto is home to more than 211,000 people, and most of them spend their days moving through property someone else controls — supermarkets along Briggsmore Avenue, apartment complexes off Coffee Road, restaurants, medical offices, and the parking lots that connect them all. When a floor is left wet, a walkway crumbles, or a hazard goes unmarked, the person who falls is often left wondering whether anyone is responsible. Under California law, the answer depends on notice: did the owner or manager know about the condition, or should they have known, and did they fail to fix it or warn about it? That question is where evidence matters most. Photos of the hazard, the names of witnesses, incident reports, and especially surveillance footage can disappear quickly if nobody asks for them. Modesto residents generally have two years to file a premises claim, but the clock runs shorter when a city, county, or other public entity owns the property. LawProactive is not a law firm. We simply connect you, free, with an independent attorney who can review what happened in Stanislaus County and explain your options.",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and shoulder fractures from bracing a fall",
+      "Concussions and other head injuries",
+      "Spinal disc injuries and lower back strain",
+      "Knee ligament and meniscus tears",
+      "Cuts, deep bruising, and soft-tissue injuries"
+    ],
+    "ctaText": "Tell us about your fall and we'll connect you with a Modesto premises liability attorney — free.OK"
+  },
+  "whyChoose": {
+    "title": "Why Modesto Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the heart of the case",
+        "desc": "California requires proof that the property owner knew or should have known about the hazard and did nothing. An attorney in our network can dig into inspection logs, prior complaints, and maintenance records to establish that timeline."
+      },
+      {
+        "title": "Video gets erased fast",
+        "desc": "Stores and apartment buildings often keep surveillance footage only for days. Getting a preservation request out early is one of the first things a premises attorney will do, and connecting quickly through LawProactive helps make that possible."
+      },
+      {
+        "title": "Being partly at fault does not end your claim",
+        "desc": "California follows pure comparative fault, so a recovery is reduced by your share of responsibility rather than eliminated. An attorney can push back if a property owner tries to blame your footwear or where you were looking."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell in a store parking lot on Oakdale Road in Modesto. Who is responsible — the store or the shopping center?",
+        "answer": "It can be either, or both, depending on who controlled and maintained the area where you fell. Leases often split responsibility between tenants and the property owner, and a management company may be involved too. An attorney can request those agreements and identify every party that owed you a duty of care. In the meantime, photograph the exact spot and note the date and time."
+      },
+      {
+        "question": "How long do I have to file a slip and fall claim in Stanislaus County?",
+        "answer": "For most private property, California gives you two years from the date of the fall. If the property belongs to a public entity — a city sidewalk, a county building, a public park — you must generally file a government claim within six months before any lawsuit can proceed. Because those deadlines differ so much, it helps to have an attorney sort out ownership early rather than assuming you have time."
+      },
+      {
+        "question": "The store manager said I should have watched where I was walking. Does that mean I have no case?",
+        "answer": "No. California uses pure comparative fault, which means even if you share some blame, you can still recover the portion that isn't attributed to you. The real question remains whether the owner knew or should have known about the hazard and failed to address it. An attorney in the LawProactive network can evaluate that for free and explain how comparative fault might apply to your situation."
+      }
+    ]
+  }
+}

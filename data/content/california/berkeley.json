@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "berkeley city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Berkeley, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Berkeley or elsewhere in Alameda County? You have 2 years to file. Get connected free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on I-80, struck while crossing Shattuck, or injured in a fall, LawProactive connects you at no cost with an independent personal injury attorney serving Alameda County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Berkeley, California",
+    "longDescription": "Berkeley moves in a lot of directions at once. Students cross Shattuck on foot near the UC Berkeley campus, commuters funnel onto I-80 from University Avenue, and buses share Ashby Avenue with cyclists and delivery vans. In 2025, the most recent final reporting year, the city recorded 603 injury collisions, with 775 people hurt and 6 lives lost. Public collision records show the highest counts along I-80, University, Ashby Avenue, and Shattuck, and reports tend to peak on Fridays between 5 p.m. and 7 p.m. If one of those numbers is now part of your story, the days that follow can feel disorganized: an ER visit at the end of a long week, an adjuster calling before you have slept, a car that will not start. LawProactive exists for that moment. We are a free service, not a law firm. We simply connect you with an independent personal injury attorney who handles cases in Alameda County. There is no charge to be matched, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. California gives most injured people two years to file, though claims against a city, university, or transit agency can require notice in as little as six months. Reaching out early keeps your options open.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Berkeley",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones from bicycle and scooter crashes",
+      "Pedestrian injuries at crosswalks and bus stops",
+      "Knee and hip injuries from falls on uneven sidewalks or in stores",
+      "Back and spinal injuries requiring ongoing care"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Berkeley Claim",
+    "items": [
+      {
+        "title": "Two years to file, sometimes far less",
+        "desc": "Most California injury claims must be filed within two years of the injury. If a public entity such as the city, a transit district, or a state university is involved, a formal claim may be due within six months."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "California follows pure comparative fault. If you were partly responsible, your recovery is reduced by your share of the blame rather than eliminated."
+      },
+      {
+        "title": "No statutory cap on pain and suffering",
+        "desc": "In ordinary injury cases, California does not limit non-economic damages such as pain, disruption to daily life, and emotional distress. What you recover depends on the facts of your case, not a preset ceiling."
+      },
+      {
+        "title": "Nothing out of pocket to get started",
+        "desc": "Our connection service is free, and the independent attorneys we work with are paid on contingency. If there is no recovery, there is no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer wants a recorded statement and I don't know what to say.",
+      "I missed shifts after the crash and rent in Berkeley doesn't wait.",
+      "My bike was destroyed and the driver's insurance is dragging its feet.",
+      "I'm worried I waited too long or that being partly at fault ruins everything."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions in Berkeley tend to be reported most often?",
+        "answer": "Public collision records for Berkeley show the highest counts along I-80, University Avenue, Ashby Avenue, and Shattuck Avenue. Those are simply the corridors with the most reported incidents, which tracks with how much traffic they carry. Records also show reports peaking on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney who practices in Alameda County. We do not give legal advice or represent you; the attorney you are connected with does that directly."
+      },
+      {
+        "question": "What if the crash involved an AC Transit bus or a city vehicle?",
+        "answer": "Claims against government entities in California follow different rules, and the deadline to file a formal claim can be as short as six months. That is much tighter than the usual two-year window. If a public vehicle or public property was involved, it is worth speaking with an attorney quickly."
+      },
+      {
+        "question": "I was riding my bike without lights. Can I still recover anything?",
+        "answer": "Possibly. California's pure comparative fault rule means being partly at fault reduces your recovery by your percentage of responsibility, but it does not bar the claim outright. An attorney can help sort out how fault might be apportioned based on the specific facts."
+      },
+      {
+        "question": "How much will it cost me to talk to an attorney?",
+        "answer": "Being connected through LawProactive costs nothing. The attorneys in our network work on contingency, so their fee comes out of a recovery rather than your pocket, and if there is no recovery, there is no fee. The initial consultation is free as well."
+      }
+    ]
+  }
+}

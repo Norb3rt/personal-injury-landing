@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "fowler product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fowler Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Fowler, CA? Get connected free to an independent attorney who handles strict liability claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a defective product hurt you or someone you love in Fowler, you don't have to sort out the manufacturer, the retailer, and the paperwork on your own. LawProactive connects you, free of charge, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Fowler Product Liability Claims",
+    "longDescription": "Fowler is a small community wedged between Golden State Boulevard and SR-99, where households rely on everyday products — farm equipment, tools, vehicle parts, appliances, and consumer goods — without a second thought. When one of those products fails because of a design flaw, a manufacturing error, or a missing warning, the injuries can be serious and the cause isn't always obvious right away. California law generally lets an injured person pursue a strict liability claim without having to prove the maker was careless, but building that case still takes work: identifying every company in the supply chain, preserving the product, and gathering records. LawProactive doesn't practice law ourselves — we're a free connection service that matches Fowler residents with an independent attorney experienced in defective product cases. That attorney can review what happened, explain your options, and take on the investigation while you focus on recovering. There's no cost to get matched, and the attorneys in our network only get paid if you do.",
+    "commonInjuriesTitle": "Common Injuries We See Referred",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or electronics",
+      "Crush or amputation injuries from farm or industrial equipment",
+      "Traumatic injuries from defective vehicle parts or tires",
+      "Chemical exposure or poisoning from mislabeled products",
+      "Lacerations from faulty tools or machinery",
+      "Injuries from children's products lacking adequate safety warnings"
+    ],
+    "ctaText": "Tell us what happened — get matched with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Fowler Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Case",
+        "desc": "California often allows injured people to recover without proving the manufacturer was negligent, focusing instead on whether the product itself was defective. An attorney can help identify which type of defect applies to your situation."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable under California product liability law. A connected attorney can investigate the full supply chain rather than settling for the first name on the box."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "Because the product itself is often the key piece of evidence, keeping it safe and unaltered after an injury can be critical. We can connect you quickly with an attorney who can advise on preservation before evidence is lost or discarded."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the manufacturer was careless?",
+        "answer": "Not necessarily. Under California's strict liability approach, you generally need to show the product was defective and that it caused your injury, not that the company was negligent. An independent attorney can evaluate which type of defect — design, manufacturing, or warning — fits your case."
+      },
+      {
+        "question": "What if the product broke on Golden State Boulevard or SR-99?",
+        "answer": "Location matters less than the product itself, but where an incident happens, such as along Fowler's Golden State Boulevard or SR-99 corridor, can affect witnesses, records, and responding agencies. An attorney can help gather any relevant local reports while the details are still fresh."
+      },
+      {
+        "question": "Is there any cost to get matched with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, and the independent attorneys in our network generally work on contingency, meaning there's no fee unless you recover compensation. You can reach out to see if you have a case with nothing to lose."
+      }
+    ]
+  }
+}

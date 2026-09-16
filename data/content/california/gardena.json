@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "gardena city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gardena, CA Personal Injury Help | Free Connection",
+    "metaDescription": "Injured in Gardena, LA County? 2 years to file in CA. Get connected free to an independent attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash, a fall, or a workplace accident, you can connect with an independent attorney at no cost. We proudly help injured residents throughout Los Angeles County, including Gardena."
+  },
+  "about": {
+    "title": "Personal Injury Help in Gardena, California",
+    "longDescription": "Gardena is a busy pocket of Los Angeles County, and its residents share the road daily along corridors like Redondo Beach Boulevard, Western Avenue, Normandie Avenue, and Rosecrans Avenue. In the most recent full year of public crash records, the city recorded 3 injury collisions, 4 people injured, and 1 traffic death — numbers that remind us these streets carry real weight in people's lives, especially around Friday afternoons between 4 and 6 p.m. when reported crashes tend to cluster. If you or someone you love was hurt in a collision or another accident in Gardena, sorting out medical bills, lost wages, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — that connects injured people with an independent personal injury attorney who can review the details of what happened and explain your options under California law. There's no obligation to move forward, and attorneys in our network work on contingency, meaning there's no fee unless there's a recovery. Reaching out costs nothing and can help you understand where you stand.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Knee and joint injuries from falls or impact"
+    ],
+    "ctaText": "Find out where you stand — connect with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to Someone Now",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require notice in as little as six months. Waiting too long can cost you the right to recover at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover damages — reduced by your share of fault, but not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering, so your compensation isn't artificially boxed in."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, which means they only get paid if you recover money. There's no hourly billing and no retainer required just to have a conversation."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills that keep piling up",
+      "Fear that missing work will cost you your income or your job",
+      "Feeling pressured by insurance adjusters to settle quickly",
+      "Uncertainty about whether you even have a valid claim"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Gardena?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If a government agency was involved, that window can shrink to as little as six months, so it's best not to wait to get information."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, so being partly responsible doesn't bar you from recovering compensation. Your total recovery would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Gardena?",
+        "answer": "Based on public crash records, Redondo Beach Boulevard, Western Avenue, Normandie Avenue, and Rosecrans Avenue show higher collision counts than other streets, and reported crashes tend to peak on Fridays between 4 and 6 p.m. These are neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm. If you're matched with an attorney and choose to move forward, they work on contingency, meaning payment only comes from a recovery."
+      },
+      {
+        "question": "What kinds of accidents can LawProactive help with?",
+        "answer": "We help people connect with attorneys after car crashes, falls, workplace injuries, and other accidents causing harm. Each situation is different, so an independent attorney can review your specific facts and explain what options may apply."
+      }
+    ]
+  }
+}

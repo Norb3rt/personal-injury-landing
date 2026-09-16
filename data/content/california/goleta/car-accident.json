@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "goleta car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Goleta Car Accident Help | Free Attorney Connection",
+    "metaDescription": "Injured in a Goleta car accident? Get connected free with an independent CA attorney. No fee unless you recover. Call today."
+  },
+  "hero": {
+    "subtitle": "If a crash on Hollister Avenue or Storke Road left you hurt, LawProactive can connect you with an independent Goleta-area attorney at no cost to you."
+  },
+  "about": {
+    "title": "Goleta Car Accident Claims",
+    "longDescription": "Goleta's mix of commuter traffic, UCSB students, and local drivers makes corridors like Hollister Avenue, Calle Real, Storke Road, and Cathedral Oaks Road busy year-round, and Santa Barbara County's public crash records show 129 injury collisions and 169 people hurt in the most recent final reporting year, with a concentration of reports around Wednesday evenings. If you were injured in one of these collisions, the days right after matter: insurance adjusters move fast, and evidence like skid marks, dashcam footage, and witness memories fade quickly. LawProactive doesn't practice law ourselves — we're a free service that connects injured Goleta residents with an independent personal injury attorney who can evaluate what happened, deal with insurers on your behalf, and explain your options. There's no obligation to move forward, and attorneys in our network work on contingency, so you owe nothing upfront.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Car Accident Claims",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Broken bones and fractures",
+      "Herniated or bulging discs",
+      "Soft tissue and ligament damage",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Get connected with a Goleta car accident attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before You Talk to the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash date to file a car accident lawsuit in California, but claims against a government entity (like a city road defect issue) can require notice in as little as six months. An attorney can help make sure deadlines aren't missed."
+      },
+      {
+        "title": "Comparative Fault Can Cost You",
+        "desc": "California uses pure comparative fault, meaning your compensation can be reduced by whatever percentage you're found responsible for. An independent attorney can help push back on unfair fault assignments before they get baked into a settlement offer."
+      },
+      {
+        "title": "No Cap Means Careful Documentation Matters",
+        "desc": "California doesn't cap non-economic damages like pain and suffering, but that value has to be supported with evidence, not assumed. Attorneys in our network can help preserve records and avoid statements to the other driver's insurer that could undercut your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurance adjusters are trained to ask questions that can be used to minimize your claim later. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if my accident happened at an intersection along Hollister Avenue or Storke Road?",
+        "answer": "Public crash data shows these corridors see regular collision reports, but that doesn't determine fault in your specific case. An attorney can look at police reports, traffic signal timing, and witness accounts specific to your Goleta intersection to build your claim."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and attorneys in our network typically work on contingency, meaning they only get paid if you recover compensation. There's no obligation to hire anyone after your initial conversation."
+      }
+    ]
+  }
+}

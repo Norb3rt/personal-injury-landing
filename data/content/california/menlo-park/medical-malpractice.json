@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-15",
+    "practice": "medical-malpractice",
+    "note": "menlo-park medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice in Menlo Park, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Menlo Park? LawProactive connects you, free, with an independent California malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When treatment in Menlo Park leaves you worse off than you should be, you deserve a clear answer about whether the standard of care was met. LawProactive connects San Mateo County patients, at no cost, with an independent attorney who reviews medical negligence claims."
+  },
+  "about": {
+    "title": "Menlo Park Medical Malpractice Claims",
+    "longDescription": "Medical care in Menlo Park often means a short drive along El Camino Real or Willow Road to a clinic, urgent care, or hospital. Most of that care goes well. Sometimes it does not, and the reason is not bad luck but a provider who fell below the accepted standard of care. Under California's MICRA rules, that distinction matters: a disappointing result by itself is not malpractice, and proving a claim almost always requires a qualified medical expert to explain what should have happened. Time is also tight. You generally have one year from when you discovered the harm, and never more than three years from the injury, with a 90-day notice to the provider required before filing suit. LawProactive is not a law firm. We are a free service that connects San Mateo County residents with an independent attorney who handles medical negligence claims on contingency. If something about your treatment in Menlo Park feels wrong, we can help you find someone qualified to review it.",
+    "commonInjuriesTitle": "Harm Commonly Tied to Medical Negligence",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary or unmonitored care"
+    ],
+    "ctaText": "Ask for a free case review"
+  },
+  "whyChoose": {
+    "title": "Why Menlo Park Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA's Clock Is Short",
+        "desc": "California gives you roughly one year from discovering the harm and no more than three years from the injury, plus a 90-day notice step before any lawsuit. Getting connected early keeps those windows open."
+      },
+      {
+        "title": "Expert Review Is Nearly Always Required",
+        "desc": "A malpractice claim in California almost always needs a qualified medical expert to testify about the standard of care. The attorneys in our network know how to arrange that review before deadlines pass."
+      },
+      {
+        "title": "Honest About What Malpractice Is",
+        "desc": "A bad outcome alone is not negligence, and the cap on non-economic damages under MICRA changes each year. An independent attorney can tell you plainly whether your situation fits the law, with no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a collision on US-101 in Menlo Park, then misdiagnosed at the hospital. Do I have one claim or two?",
+        "answer": "Possibly two. The crash itself is a standard personal injury matter, while a missed or wrong diagnosis afterward is governed by California's medical malpractice rules under MICRA, with its own deadlines and notice requirements. Menlo Park recorded 203 injury collisions and 273 people injured in 2025, so this overlap is not unusual. An attorney can sort out how the two pieces fit together."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice claim in California?",
+        "answer": "Generally one year from the date you discovered, or reasonably should have discovered, the injury, and in no case more than three years from the injury itself. Before filing, you must give the provider 90 days' written notice. Because these periods can overlap in confusing ways, it is wise to get a review sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a Menlo Park malpractice case?",
+        "answer": "California caps non-economic damages such as pain and suffering, and that cap rises each year under the updated MICRA law. Economic losses like medical bills and lost income are handled separately. An independent attorney can explain how the current figures apply to your specific facts without predicting any outcome."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "st-helena city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "St. Helena, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in St. Helena, Napa County? Get connected free with an independent injury attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Rt 29 or an accident elsewhere in Napa County, we can connect you free with an independent personal injury attorney to talk through your options."
+  },
+  "about": {
+    "title": "Personal Injury Help in St. Helena, California",
+    "longDescription": "St. Helena is a small city, but its streets still see their share of collisions. In the most recent year with finalized public records, 2016, the city logged 24 injury collisions and 31 people hurt — thankfully with zero traffic deaths that year. Local roads like Main Street, Rt 29, Oak Avenue, and Silverado Trail see the bulk of reported crashes, and Thursdays between noon and 2 p.m. tend to be when reports cluster. If you were hurt in a crash on any of these roads, or anywhere else around town, it helps to understand your options early — especially since California gives most injury victims only two years to file a claim, and less time if a government entity is involved. LawProactive is a free service that helps connect injured people in St. Helena with an independent personal injury attorney in our network. We are not a law firm and don't handle your case ourselves — we simply make the introduction so you can get advice from someone who can look at your specific situation. There's no cost to connect, and attorneys in the network only get paid if you recover money.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries from impact"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection with an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity is involved. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California doesn't limit how much you can recover for pain, suffering, and other non-economic losses. An attorney can help make sure that side of your claim isn't overlooked."
+      },
+      {
+        "title": "You Don't Pay Unless You Win",
+        "desc": "Attorneys in our network work on contingency, meaning there's no upfront cost and no fee unless they recover money for you. That structure exists so cost isn't a barrier to getting advice."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're too hurt to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling like the crash was partly your fault and you might not have a claim",
+      "Being unsure how much time you actually have to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in St. Helena?",
+        "answer": "In most cases, California law gives you two years from the date of the accident to file a personal injury claim. If your accident involved a government vehicle or public property, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault rule, so being partly responsible doesn't bar you from recovering compensation. Your total recovery is simply reduced by the percentage of fault assigned to you."
+      },
+      {
+        "question": "Where do crashes tend to cluster in St. Helena?",
+        "answer": "Public crash records show that reported collisions in St. Helena concentrate along corridors like Main Street, Rt 29, Oak Avenue, and Silverado Trail, with Thursdays around midday showing more reports than other times. These are simply patterns from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people in St. Helena get in touch with an independent personal injury attorney. We don't represent clients or handle cases ourselves — we make the introduction, and the attorney handles everything from there."
+      },
+      {
+        "question": "Will I owe anything to talk to an attorney?",
+        "answer": "Connecting with an attorney through LawProactive costs nothing. If you decide to move forward, attorneys in our network work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

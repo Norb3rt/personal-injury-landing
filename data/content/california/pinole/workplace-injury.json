@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "pinole workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pinole Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Pinole? Free connection to an independent attorney for workers' comp and third-party injury claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you were hurt working near the I-80 corridor, San Pablo Avenue, or anywhere else in Pinole, we can connect you with an independent attorney who handles both workers' comp and third-party claims at no upfront cost."
+  },
+  "about": {
+    "title": "Pinole Workplace Injury Claims",
+    "longDescription": "Pinole's mix of warehouses, retail centers along San Pablo Avenue, and delivery routes feeding I-80 means workplace injuries here often involve more than one company. A warehouse worker hurt by faulty equipment, a delivery driver struck on I-80 Eastbound while making a job stop, or a contractor injured on a site owned by someone other than their employer may have options beyond the workers' comp system alone. California generally requires injured workers to report a workplace incident to their employer within 30 days to preserve benefits, and retaliation for filing a claim is against the law. Separately, if a third party — a subcontractor, property owner, or equipment manufacturer — contributed to the injury, a civil claim may be possible alongside workers' comp, though it carries its own two-year filing window. LawProactive doesn't practice law; we simply connect injured workers in Pinole with an independent attorney who can sort out which paths apply, free of charge unless there's a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Back and spinal strain from repetitive lifting",
+      "Falls from ladders, loading docks, or uneven surfaces",
+      "Injuries from malfunctioning machinery or tools",
+      "Crush or laceration injuries in warehouse settings",
+      "Vehicle collisions during work-related driving on I-80 or San Pablo Ave",
+      "Repetitive stress injuries from warehouse or retail tasks"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Pinole Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle Comp vs. Third-Party Claims",
+        "desc": "California workers' comp is usually the exclusive remedy against an employer, but a negligent third party can still be held separately liable. An attorney in our network can review the facts and determine whether a Pinole worker's injury opens the door to an additional claim."
+      },
+      {
+        "title": "We Understand the 30-Day Reporting Window",
+        "desc": "California law generally requires reporting a workplace injury to the employer within 30 days to protect benefit eligibility. We help make sure injured workers get matched with an attorney quickly so this deadline isn't missed."
+      },
+      {
+        "title": "No Cost Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, meaning there's no fee unless money is recovered. That applies whether the case involves workers' comp, a third-party claim, or both."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near the I-80/San Pablo Avenue interchange — is that just a workers' comp case?",
+        "answer": "Not necessarily. If another driver, a vehicle defect, or a third party's negligence contributed to the crash, you may have a separate injury claim in addition to workers' comp. An independent attorney can look at the specifics of your Pinole incident and explain which claims may apply."
+      },
+      {
+        "question": "What happens if my employer retaliates after I report an injury?",
+        "answer": "Retaliation for reporting a workplace injury or filing a workers' comp claim is illegal in California. If you believe you've faced retaliation, an attorney can advise you on your options separate from the underlying injury claim."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim?",
+        "answer": "California generally expects workplace injuries to be reported to the employer within 30 days to preserve workers' comp benefits. If a third party is involved, that separate civil claim typically carries a two-year deadline, so it's worth getting matched with an attorney promptly."
+      }
+    ]
+  }
+}

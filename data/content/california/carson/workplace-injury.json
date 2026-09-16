@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "carson workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Carson Workplace Injury Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt on the job in Carson, CA? LawProactive connects you free with an independent injury attorney to review workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Carson? Workers' compensation may not be your only option, and a free connection to an independent attorney can help you see the full picture."
+  },
+  "about": {
+    "title": "Carson Workplace Injury Claims",
+    "longDescription": "Carson sits where the I-405 and SR-91 run through south Los Angeles County, and a good share of the work here happens on the move—delivery routes down Avalon Boulevard, service calls along Carson Street, shifts that start before dawn and end after dark. In 2025, the city recorded 383 injury collisions and 507 people hurt, with reported crashes tending to cluster on Fridays between 5 and 7 p.m., inside many workers' commutes and final runs of the day. Not every workplace injury involves a vehicle. Falls, equipment failures, and repetitive strain put people out of work just as often. California's workers' compensation system generally covers your medical care and wage benefits no matter who was at fault, but it is usually the only claim you can bring against your employer. When someone outside your company played a role—a subcontractor, a property owner, an equipment manufacturer, another driver—a separate injury claim may be available. LawProactive is a free service that connects you with an independent attorney who can sort out which path fits your situation.",
+    "commonInjuriesTitle": "Injuries We Commonly See From Carson Workplaces",
+    "commonInjuries": [
+      "Back and spine injuries from lifting or falls",
+      "Crush injuries from forklifts and heavy equipment",
+      "Fractures from falls off ladders, docks, or scaffolding",
+      "Burns and chemical exposure",
+      "Repetitive strain in shoulders, wrists, and knees",
+      "Crash injuries while driving for work on I-405, SR-91, or Avalon Boulevard"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Carson Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We look past workers' comp",
+        "desc": "Comp is usually the exclusive remedy against your employer, but a negligent third party—another driver, a subcontractor, a property owner, an equipment maker—can open a separate claim. The attorneys we connect you with review both."
+      },
+      {
+        "title": "Deadlines don't slip by",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and third-party injury claims carry a 2-year limit. Getting connected early keeps those clocks from becoming problems."
+      },
+      {
+        "title": "No fee unless you recover",
+        "desc": "LawProactive is free, and attorneys in our network work on contingency. Retaliation for reporting an injury is illegal in California, and your attorney can address that too if it comes up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on the 405 in Carson while driving a company vehicle. Is that only a workers' comp case?",
+        "answer": "Not necessarily. Because you were working, workers' compensation generally applies regardless of fault. But the other driver is a third party, so a separate injury claim against that driver may also be possible. An independent attorney can evaluate whether both apply and how they interact."
+      },
+      {
+        "question": "I didn't tell my supervisor right away. Is it too late?",
+        "answer": "California asks you to report a work injury to your employer within 30 days, so if you're still inside that window, report it now in writing. If more time has passed, don't assume the door is closed—there are situations where a later report is still workable. Talk to an attorney about your specific timeline."
+      },
+      {
+        "question": "Can my employer fire me for filing a claim?",
+        "answer": "No. Retaliating against a worker for reporting an injury or filing a workers' compensation claim is illegal in California. If you've been demoted, cut from the schedule, or let go after reporting, mention it when we connect you—that may be a separate issue an attorney can pursue."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "suisun-city medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Suisun City Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Suisun City? Get connected free to an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis was missed or a procedure went wrong at a Suisun City clinic or hospital, we can connect you with an independent attorney who handles California medical malpractice claims.  There's no cost to find out where you stand."
+  },
+  "about": {
+    "title": "Suisun City Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases look different from the crash injury claims that dominate Solano County's public records around Highway 12 and Sunset Avenue. There's no collision report to start from — instead, these cases hinge on medical records, expert review, and a timeline that California law watches closely. Suisun City residents who suspect a surgical mistake, a delayed diagnosis, or a medication error at a local hospital or clinic often aren't sure whether what happened to them counts as malpractice or simply an unfortunate outcome. That distinction matters under California's MICRA framework, which requires a qualified medical expert to weigh in before a claim can move forward. LawProactive doesn't practice law or evaluate your medical records ourselves — we connect you, at no cost, with an independent attorney in our network who can review what happened and explain your options under California law, working on contingency so you owe nothing unless there's a recovery.",
+    "commonInjuriesTitle": "Common Malpractice Injuries We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Birth injuries to mother or newborn",
+      "Medication or dosage errors",
+      "Anesthesia complications",
+      "Failure to treat a worsening condition"
+    ],
+    "ctaText": "Find out if you have a case — free and confidential."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Start a Claim",
+    "items": [
+      {
+        "title": "The Clock Starts at Discovery",
+        "desc": "California generally gives you one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date it happened. Waiting to sort out what occurred can cost you the ability to file at all."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can be filed, California law requires sending the healthcare provider a 90-day notice of intent to sue. An attorney familiar with this step can make sure it's done correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "A bad medical outcome by itself isn't proof of malpractice — California law requires a qualified medical expert to support the claim. This is one reason an independent attorney's early review matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is every bad medical outcome considered malpractice in California?",
+        "answer": "No. California law recognizes that medicine involves uncertainty, so a poor result alone doesn't establish malpractice. A claim generally needs a qualified medical expert to confirm the provider's care fell below the accepted standard and caused harm."
+      },
+      {
+        "question": "How long do I have to bring a claim after treatment in Suisun City?",
+        "answer": "Generally, you have one year from when you discovered or should have discovered the injury, and no more than three years from the date it occurred, whichever comes first. Because Suisun City residents may have been treated at facilities across Solano County, it's worth having someone confirm exact dates before time runs short."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes, California law (MICRA) caps non-economic damages, though that cap rises each year under current law. Economic damages, like medical bills and lost income, are generally not subject to this cap."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, our service is free. Attorneys in our network work on contingency, meaning they only get paid if you recover money."
+      }
+    ]
+  }
+}

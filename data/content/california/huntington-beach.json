@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "huntington-beach city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Huntington Beach, CA Personal Injury Lawyer | Free Review",
+    "metaDescription": "Hurt in Huntington Beach? LawProactive connects Orange County residents with an injury attorney for free. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a car crash on Beach Boulevard or a fall on someone else's property left you hurting, LawProactive connects you with an independent personal injury attorney at no cost. Serving Huntington Beach and all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Huntington Beach, California",
+    "longDescription": "Huntington Beach stretches along Pacific Coast Highway, and on a warm weekend the roads near the pier fill up fast. Beach Boulevard carries much of that traffic inland, and where it meets PCH is one of the highest-volume stretches in the city. Public records for 2025 list 724 injury collisions here, with 1,011 people hurt and 15 lives lost. Collision reports cluster along Route 39 and Route 1, and they tend to peak on Saturday afternoons between 3 and 5 p.m. If you are one of those numbers, the paperwork can feel heavier than the injury itself. Insurance adjusters call. Bills arrive before you can work again. Questions about fault linger. LawProactive exists to take one task off your plate. We are a free service, not a law firm, and we do not give legal advice. What we do is connect Huntington Beach residents with an independent personal injury attorney who handles cases like yours. The attorneys in our network work on contingency, meaning there is no fee unless there is a recovery. California gives most people two years to file an injury claim, though that window shrinks to as little as six months when a government entity is involved. Reaching out sooner keeps your options open.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Huntington Beach",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from motorcycle and bicycle crashes along PCH",
+      "Concussions and other head injuries",
+      "Back and spinal injuries",
+      "Pedestrian injuries near beach crossings and parking lots",
+      "Slip-and-fall injuries at stores, restaurants, and rentals"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Huntington Beach Claim",
+    "items": [
+      {
+        "title": "Two Years, Not Forever",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, you may have only six months to file a claim."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Case",
+        "desc": "California uses pure comparative fault. If you were partly responsible, your recovery is reduced by your share, but you are not shut out entirely."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no legal cap on non-economic damages such as pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "No Fee Unless There Is a Recovery",
+        "desc": "Attorneys in our network work on contingency. You pay nothing upfront, and a fee is only owed if your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance company already offered me something and wants an answer fast",
+      "I was partly at fault, so I assume I have no case",
+      "I can't afford a lawyer while I'm out of work",
+      "I don't know if my injuries will get worse before I settle"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes in Huntington Beach tend to happen?",
+        "answer": "Public-record collision counts show the highest volumes along Route 39 (Beach Boulevard) and Route 1 (Pacific Coast Highway), the two corridors that carry the most traffic through the city. Reports also peak on Saturdays between 3 p.m. and 5 p.m. These are neutral counts, not a judgment about any particular road; they simply reflect where and when the most vehicles are moving."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Huntington Beach?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date of the injury. If your claim involves a government entity, such as a city vehicle or a public sidewalk, you may need to file a formal claim within six months. An attorney can confirm which deadline applies to your situation."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not provide legal advice or represent you; the attorney you are connected with does that."
+      },
+      {
+        "question": "What if the other driver says I caused the crash?",
+        "answer": "California follows pure comparative fault, so being partly responsible does not bar you from recovering. Your compensation is reduced by your percentage of fault, whatever that turns out to be. Disputed fault is exactly the kind of question an attorney can dig into."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney?",
+        "answer": "Our connection is free, and the attorneys in our network work on contingency. That means no upfront payment and no fee unless there is a recovery in your case. You can ask about the fee percentage before agreeing to anything."
+      }
+    ]
+  }
+}

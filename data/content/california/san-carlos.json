@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "san-carlos city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Carlos, CA Injury Lawyer Help | Free Case Review",
+    "metaDescription": "Hurt in a San Mateo County crash? Free, no-obligation help finding an attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a fender-bender on El Camino Real or a more serious injury from a highway collision, we'll connect you with an independent attorney at no cost. Serving San Carlos and all of San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Carlos, California",
+    "longDescription": "San Carlos is a walkable, tree-lined city of nearly 30,000 people, but its roads still see their share of collisions. In the most recent full year on record, San Carlos logged 85 injury collisions and 109 people hurt — thankfully with zero traffic deaths. Much of that activity concentrates along El Camino Real, US-101, San Carlos Avenue, and Holly Street, the corridors that carry the bulk of the city's daily traffic. If you were injured in one of these crashes, or in a fall, work accident, or other incident anywhere in San Carlos, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering. LawProactive is a free service — not a law firm — that connects injured people with independent personal injury attorneys who work on contingency, meaning there's no fee unless they recover money for you. We don't practice law or make legal decisions for you; we simply help you get in touch with someone who can review your situation and explain your options, so you can focus on getting better while someone else handles the legal legwork.",
+    "commonInjuriesTitle": "Common Injuries We See Referrals For",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Tell us what happened — the connection is free, and there's no pressure to move forward."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity was involved. Waiting too long can cost you the right to recover at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the incident — your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California doesn't limit the amount you can seek for non-economic harm like pain, suffering, and emotional distress, unlike some states that impose caps."
+      },
+      {
+        "title": "You Don't Pay Unless They Win",
+        "desc": "Attorneys in our network work on contingency, meaning their fee comes only from money they recover for you. There's no upfront cost to find out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're too hurt to work",
+      "Feeling pressured by an insurance adjuster who's calling too soon",
+      "Not knowing whether your case is worth pursuing at all",
+      "Fearing that being partly at fault means you have no options"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in San Carlos?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If a city or county vehicle or property was involved, that deadline can be as short as six months, so it's worth getting information early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your total recovery is reduced by your percentage of fault, but it isn't wiped out entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in San Carlos?",
+        "answer": "Based on public crash records, reported collisions in San Carlos show higher counts along corridors like El Camino Real, US-101, San Carlos Avenue, and Holly Street, with activity often peaking on Fridays between 5 and 7 p.m. These are simply where traffic volume and reported incidents concentrate, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a cost to using LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney; we are not a law firm and don't charge anything for the connection. Attorneys in our network work on contingency, so you only pay a fee if they recover money on your behalf."
+      },
+      {
+        "question": "How much is my case worth?",
+        "answer": "There's no set answer — it depends on factors like the extent of your injuries, medical costs, lost wages, and the specific circumstances of what happened. An independent attorney can review your situation and give you a realistic sense of your options after learning the details."
+      }
+    ]
+  }
+}

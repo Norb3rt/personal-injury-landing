@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "moorpark workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Moorpark Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Moorpark? Get connected free to an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "If a workday injury has sidelined you in Moorpark, LawProactive can connect you at no cost with an independent attorney who understands both workers' comp rules and third-party claims tied to job sites along corridors like Los Angeles Avenue and SR-118."
+  },
+  "about": {
+    "title": "Moorpark Workplace Injury Claims",
+    "longDescription": "Moorpark's mix of agriculture, retail, warehousing, and construction work near corridors like Los Angeles Avenue and Tierra Rejada Road means workplace injuries here range from repetitive strain to serious falls and equipment accidents. Ventura County employers generally carry workers' compensation coverage, which is usually the exclusive path for medical treatment and wage-loss benefits after an on-the-job injury, regardless of who caused it. But not every injury stays inside that system. When a subcontractor, property owner, equipment manufacturer, or another driver on the road contributed to what happened, a separate third-party injury claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law or handle claims directly. We simply connect injured Moorpark workers with an independent attorney, free of charge, so you can understand which paths apply to your situation and move forward without guessing at deadlines or paperwork on your own.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Repetitive strain and overuse injuries",
+      "Machinery and equipment-related injuries",
+      "Vehicle collisions during work travel or deliveries",
+      "Struck-by or caught-in incidents at job sites",
+      "Chemical exposure or respiratory injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney about your workplace injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Moorpark Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the 30-Day Reporting Window",
+        "desc": "California law requires reporting a workplace injury to your employer within 30 days to preserve your workers' comp rights. An attorney can help you confirm this was done correctly and address any employer pushback."
+      },
+      {
+        "title": "Spotting Third-Party Claims Beyond Workers' Comp",
+        "desc": "Because workers' comp is usually the exclusive remedy against your employer, a separate claim against a negligent third party — like a subcontractor, equipment maker, or another driver on Los Angeles Avenue or SR-118 — may need to be pursued differently and within a 2-year deadline."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Retaliation for filing a workplace injury claim is illegal in California. If you've faced demotion, reduced hours, or termination after reporting an injury, an independent attorney can help you understand your options."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near SR-118 in Moorpark — does workers' comp cover that?",
+        "answer": "Likely yes, since injuries during work-related driving are typically covered by workers' compensation regardless of fault. However, if another driver caused the crash, you may also have a separate third-party injury claim against that driver, subject to the standard 2-year deadline. An attorney can help sort out how both claims interact."
+      },
+      {
+        "question": "Can I sue my employer directly for my workplace injury?",
+        "answer": "In most cases, no — workers' compensation is the exclusive remedy against your employer even if they were careless. Exceptions can exist, and a negligent third party outside the employment relationship, such as a property owner or equipment supplier, may still be liable separately. An independent attorney can review your specific situation."
+      },
+      {
+        "question": "What if my employer discourages me from reporting my injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law, and you still have 30 days to report the injury to preserve your rights. Documenting what happened and speaking with an independent attorney early can help protect you. LawProactive can connect you with one free of charge."
+      }
+    ]
+  }
+}

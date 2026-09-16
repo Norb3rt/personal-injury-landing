@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "tustin medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tustin Medical Malpractice Lawyer Match | LawProactive",
+    "metaDescription": "Hurt by a medical mistake in Tustin, CA? LawProactive connects you free with an independent malpractice attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When care in Tustin goes wrong, the questions pile up fast. LawProactive connects you, at no cost, with an independent Orange County attorney who handles medical malpractice claims."
+  },
+  "about": {
+    "title": "Tustin Medical Malpractice Claims",
+    "longDescription": "Something felt wrong after a procedure, a diagnosis came too late, or a medication was given at the wrong dose. If that happened to you or a family member in Tustin, you are probably carrying more questions than answers. LawProactive exists to take one task off your plate: finding an independent medical malpractice attorney in Orange County who is willing to look at your situation. The service costs nothing, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery.\n\nMedical malpractice cases in California run on their own rules. Under MICRA, you generally have one year from the date you discovered the harm, and never more than three years from the injury itself, to file. A 90-day notice must go to the provider before a lawsuit begins. Nearly every claim also depends on a qualified medical expert explaining what the standard of care required and how it was missed. A poor result by itself is not malpractice; an attorney can help sort out where your experience falls.",
+    "commonInjuriesTitle": "Harm That Often Leads to Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary conditions or missed follow-up"
+    ],
+    "ctaText": "Ask to be connected with a Tustin malpractice attorney"
+  },
+  "whyChoose": {
+    "title": "Why Tustin Residents Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are unforgiving",
+        "desc": "California allows one year from discovery and no more than three years from the injury, plus a 90-day pre-suit notice. Connecting early gives an attorney room to work within those windows."
+      },
+      {
+        "title": "Expert review comes first",
+        "desc": "A qualified medical expert is almost always required before a claim can move forward. The attorneys in our network know how to arrange that review and what it needs to show."
+      },
+      {
+        "title": "Free to you, contingency for them",
+        "desc": "LawProactive charges nothing to connect you, and network attorneys are paid only if there is a recovery. You can find out whether you have a case without spending money to ask."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on Red Hill Avenue and then my emergency care made things worse. Is that one claim or two?",
+        "answer": "It may be two separate matters with two separate sets of rules. The crash itself falls under ordinary personal injury law, while mistakes in the treatment that followed are governed by MICRA, with its own deadlines and expert requirement. An attorney can review both parts and explain how they fit together."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "MICRA places a cap on non-economic damages, such as pain and suffering, and that cap rises each year. Economic losses like medical bills and lost income are treated differently. An attorney can explain how the current figures apply to your circumstances without predicting any particular result."
+      },
+      {
+        "question": "My surgery had a bad outcome. Does that automatically mean malpractice?",
+        "answer": "No. A disappointing or even serious result can happen when care was entirely appropriate. Malpractice means the provider fell below the accepted standard of care and that failure caused the harm. Sorting the two apart is exactly what a qualified medical expert and an experienced attorney do together."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "coachella workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Coachella Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Coachella? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Coachella's fields, warehouses, and roadside job sites see their share of workplace injuries, and figuring out who's responsible isn't always simple. LawProactive can connect you, at no cost, with an independent attorney who can sort through your options."
+  },
+  "about": {
+    "title": "Coachella Workplace Injury Claims",
+    "longDescription": "Coachella's economy runs on agriculture, warehousing, and transportation, and those industries carry real physical risk. When a worker gets hurt, California law usually routes the claim through workers' compensation regardless of who was careless — but that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver on a road like Grapefruit Boulevard or 52nd Avenue contributed to the injury, a separate third-party claim may be possible alongside comp benefits. That distinction matters, especially in a city where farmworkers, delivery drivers, and warehouse staff face different hazards every shift. LawProactive doesn't practice law or handle claims directly — we simply connect injured workers with an independent attorney, free of charge, who can look at the facts of a Coachella workplace injury and explain what paths might apply. There's no upfront cost, and attorneys in the network work on contingency, meaning payment only comes if there's a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Heat-related illness from outdoor agricultural work",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and back injuries from manual labor",
+      "Vehicle collisions during work-related driving",
+      "Machinery entanglement or crush injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Coachella Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the Third-Party Angle",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent third party like a subcontractor or equipment maker can still be pursued separately. An attorney can help identify whether that applies to your situation."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against a worker for reporting an injury. If that happens, an independent attorney can advise on next steps."
+      },
+      {
+        "title": "Awareness of Filing Deadlines",
+        "desc": "Injured workers generally need to report an incident to their employer within 30 days, and third-party claims carry a separate two-year deadline. Missing either window can limit your options, so timing matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt while driving for work near Van Buren Street. Can I still file a claim?",
+        "answer": "Yes — if another driver was negligent, that could support a third-party claim separate from workers' compensation. An independent attorney can review the crash details and explain what applies to your specific situation."
+      },
+      {
+        "question": "Does workers' comp cover injuries from outdoor heat exposure in Coachella's fields?",
+        "answer": "Heat-related illness sustained while performing job duties can generally be covered under workers' compensation, since it doesn't require proving employer fault. If unsafe conditions were caused by a third party, like faulty equipment, a separate claim may also be worth exploring."
+      },
+      {
+        "question": "What happens if I report my injury late to my employer?",
+        "answer": "California generally expects injury reports within 30 days, and missing that window can complicate a claim, though it doesn't always end it. An independent attorney can look at your specific timeline and explain your options."
+      }
+    ]
+  }
+}

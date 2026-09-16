@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "redondo-beach city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Redondo Beach, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Redondo Beach? Get connected free with an independent Los Angeles County injury attorney. 2 years to file in CA. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on Pacific Coast Highway, hit while biking near the pier, or hurt in a fall at a local business, LawProactive connects you with an independent injury attorney at no cost. Serving Redondo Beach and all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Redondo Beach, California",
+    "longDescription": "Redondo Beach is a compact city of about 68,000 people, and much of its daily traffic funnels through a handful of streets: Pacific Coast Highway (Route 1) running the length of town, Artesia Boulevard and Inglewood Avenue to the north, and Aviation Boulevard along the eastern edge. Public records for 2025, the most recent finalized year, show 235 injury collisions inside the city, with 302 people hurt and no traffic deaths. Those reports cluster most often on Fridays between 5 and 7 p.m., when commuters, beachgoers heading toward the Redondo Beach Pier, and delivery drivers are all sharing the same lanes. A collision is only one way people get hurt here. A slip in a harbor-area restaurant, a bike or e-scooter knocked over on the Esplanade, a dog bite on a neighborhood walk — any of these can leave you with medical bills and missed paychecks while an insurer moves at its own pace. LawProactive exists to take one task off your plate. We are a free service, not a law firm. Tell us what happened, and we connect you with an independent personal injury attorney who handles Redondo Beach cases and works on contingency, meaning no fee unless there is a recovery. Reaching out costs nothing, and you decide whether to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Redondo Beach",
+    "commonInjuries": [
+      "Whiplash and neck strain from stop-and-go collisions on PCH",
+      "Fractures from bicycle and e-scooter crashes near the beach",
+      "Concussions and head injuries in intersection collisions",
+      "Back and spinal injuries from rear-end crashes on Artesia Boulevard",
+      "Slip-and-fall injuries at restaurants, shops, and parking structures",
+      "Pedestrian injuries in crosswalks and along Aviation Boulevard"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Redondo Beach Claim",
+    "items": [
+      {
+        "title": "The clock is real: two years, sometimes six months",
+        "desc": "California gives most injury victims two years to file a lawsuit, but a claim against a city, county, or state agency can require a written notice within six months. Knowing which deadline applies to you is one of the first things an attorney sorts out."
+      },
+      {
+        "title": "Partial fault doesn't shut the door",
+        "desc": "California follows pure comparative fault. If you were partly responsible — say, rolling a stop sign on Inglewood Avenue — your recovery is reduced by your share, not erased."
+      },
+      {
+        "title": "No ceiling on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, lost enjoyment, and emotional harm. Your claim is valued on your actual losses, not a fixed number."
+      },
+      {
+        "title": "You don't pay unless you recover",
+        "desc": "Attorneys in our network work on contingency. Their fee comes out of any recovery, so there is nothing to pay up front and nothing owed if the case doesn't result in one."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say",
+      "I can't work right now and the bills are already stacking up",
+      "I'm not sure whether the crash was partly my fault",
+      "I don't know if I can afford to talk to a lawyer at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do most Redondo Beach crashes happen?",
+        "answer": "Public collision records for Redondo Beach list Inglewood Avenue, Route 1 (Pacific Coast Highway), Artesia Boulevard, and Aviation Boulevard as the corridors with the highest counts. These are simply the busiest routes through town, so more trips mean more reports. In 2025 the city logged 235 injury collisions and 302 people injured, with reports peaking on Fridays from 5 to 7 p.m."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of the injury. If a government entity is involved — a city vehicle, a public sidewalk, a county bus — you may have to file a formal claim within six months. Because the shorter deadline is easy to miss, it helps to speak with an attorney early."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "You can still pursue a claim. California uses pure comparative fault, so your compensation is reduced by your percentage of responsibility rather than eliminated. Someone found 30 percent at fault, for example, can still recover 70 percent of their damages."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney; we are not a law firm and we don't handle your case ourselves. The attorneys in our network work on contingency, which means no fee unless there is a recovery."
+      },
+      {
+        "question": "Should I talk to the other driver's insurance company first?",
+        "answer": "You're not required to give a recorded statement to another party's insurer, and many people find it wise to wait until they've spoken with an attorney. Adjusters may ask questions designed to minimize what the company pays. An attorney can handle those conversations for you so you can focus on getting better."
+      }
+    ]
+  }
+}

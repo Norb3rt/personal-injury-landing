@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "milpitas medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Lawyer in Milpitas, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Milpitas? LawProactive connects Santa Clara County patients with an independent malpractice attorney at no cost to you."
+  },
+  "hero": {
+    "subtitle": "When care in Milpitas goes wrong in a way that should have been prevented, you deserve a clear-eyed look at what happened. LawProactive connects you, free of charge, with an independent medical malpractice attorney who handles Santa Clara County cases."
+  },
+  "about": {
+    "title": "Milpitas Medical Malpractice Claims",
+    "longDescription": "Milpitas is home to roughly 77,604 people, and most of them will see a doctor, fill a prescription, or sit in a waiting room this year without a second thought. For a small number, something will go wrong that a careful provider would have caught. A missed diagnosis, a medication mix-up, a surgical error. Under California's MICRA rules, those cases are held to a specific standard. A disappointing result by itself is not malpractice; the question is whether the provider fell short of what a reasonably careful professional would have done, and whether that shortfall caused harm. Answering that almost always takes a qualified medical expert, and the clock is tight: generally one year from when you discovered the injury, and never more than three years from when it occurred, with a 90-day notice due before any lawsuit is filed. LawProactive is not a law firm. We are a free service that connects Milpitas residents with an independent attorney who can review your records, weigh the timeline, and explain your options. Attorneys in our network work on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Common Medical Malpractice Injuries in Milpitas",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors and wrong-site procedures",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Hospital-acquired infections left untreated"
+    ],
+    "ctaText": "Ask for a free, no-obligation review of your Milpitas case."
+  },
+  "whyChoose": {
+    "title": "Why Milpitas Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are short and layered",
+        "desc": "California generally allows one year from discovery of the injury and no more than three years from the date it happened, plus a mandatory 90-day pre-suit notice. Getting connected early protects those windows."
+      },
+      {
+        "title": "Expert review is nearly always required",
+        "desc": "A malpractice claim usually cannot move forward without a qualified medical expert confirming the standard of care was breached. The attorneys we connect you with know how to line up that review."
+      },
+      {
+        "title": "Honest screening, not pressure",
+        "desc": "Because a bad outcome alone is not malpractice, a candid early assessment matters. Our network attorneys work on contingency, so you owe nothing unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Milpitas but had follow-up care elsewhere in Santa Clara County. Does that complicate my claim?",
+        "answer": "Not necessarily. Many Milpitas patients travel along I-880, I-680, or Route 237 to reach specialists in other parts of the county, and care spread across several providers is common. An attorney will gather records from each location and sort out who was responsible for what. The key is starting early so those records can be requested before deadlines close in."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "MICRA places a statutory cap on non-economic damages such as pain and suffering, and that cap rises each year under current law. Economic losses like medical bills and lost income are handled separately. An independent attorney can explain how the cap applies to your specific situation."
+      },
+      {
+        "question": "My surgery did not turn out the way I hoped. Is that malpractice?",
+        "answer": "Not on its own. California law asks whether the provider failed to act as a reasonably careful professional would have, and whether that failure caused your injury. A qualified medical expert almost always has to review the records to answer that. LawProactive can connect you with an attorney who will tell you plainly whether your case fits."
+      }
+    ]
+  }
+}

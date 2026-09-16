@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "larkspur city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Larkspur, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Larkspur or Marin County? Free, no-obligation connection to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash, a fall, or another accident, we'll connect you with an independent attorney at no cost — serving Larkspur and all of Marin County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Larkspur, California",
+    "longDescription": "Larkspur may be a small city, but its streets see their share of collisions. Public records for the most recent full year show 39 injury collisions and 54 people hurt on local roads, with no traffic deaths reported. Corridors like Magnolia Avenue, US-101, Esfd Boulevard, and Sir Francis Drake Boulevard carry the heaviest collision counts, and reports tend to cluster on Friday afternoons between 4 and 6 p.m., likely tied to commute and weekend traffic. If you or someone you love was hurt in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of physical recovery. LawProactive is a free service — we are not a law firm — that connects injured people in Larkspur with an independent personal injury attorney who can review the details of what happened. Attorneys in our network work on contingency, meaning there's no fee unless they recover compensation for you. Reaching out costs nothing and puts no obligation on you to move forward. We simply help you find someone who can explain your options under California law.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and lacerations",
+      "Soft tissue and joint damage"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can require notice in as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in most ordinary injury cases. That means the value of your claim isn't artificially limited by state law."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. This lets you get legal help without worrying about hourly rates or retainers."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Feeling pressured by insurance adjusters to settle quickly",
+      "Not knowing whether you waited too long to take action",
+      "Wondering if being partly at fault means you can't recover anything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Larkspur?",
+        "answer": "California generally allows two years from the date of the incident to file a personal injury lawsuit. If a government agency or vehicle was involved, that window can shrink to as little as six months, so it's wise to act sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows pure comparative fault, which means you can still recover compensation even if you share some blame. Your total recovery is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Larkspur?",
+        "answer": "Public collision records show higher counts along Magnolia Avenue, US-101, Esfd Boulevard, and Sir Francis Drake Boulevard, with reports peaking on Friday afternoons between 4 and 6 p.m. These are neutral, publicly reported figures and not a judgment about any particular road."
+      },
+      {
+        "question": "Will I owe money upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no upfront cost or obligation to move forward."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We're a free service that connects injured people in Larkspur and throughout Marin County with independent personal injury attorneys who can evaluate their situation."
+      }
+    ]
+  }
+}

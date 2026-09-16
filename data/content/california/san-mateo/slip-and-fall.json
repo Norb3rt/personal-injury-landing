@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "san-mateo slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Mateo Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in San Mateo? LawProactive connects you, free, with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A wet floor, a broken step, a poorly lit parking lot along S El Camino Real can change your year in a second. LawProactive connects San Mateo residents with an independent premises liability attorney, free of charge."
+  },
+  "about": {
+    "title": "San Mateo Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You are on the ground in a store aisle off S El Camino Real, or on a slick stairwell in a San Mateo apartment building, and the only thought is getting back up. The questions come later: who was supposed to keep that floor dry, and how long had it been that way? Under California premises liability law, those questions decide a lot. An owner or occupier is generally responsible only when they knew, or reasonably should have known, about a hazard and did nothing to fix it or warn you. That is why what you capture early carries real weight. Photos of the spill, the torn carpet, the missing handrail. Names of anyone who saw it happen. A prompt written request that the property hold onto its camera footage before it gets overwritten. LawProactive is not a law firm. We connect people hurt in San Mateo County with an independent attorney who handles these claims on contingency, and the connection costs you nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in San Mateo",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow and arm fractures",
+      "Concussions and other head injuries",
+      "Lower back and spinal disc injuries",
+      "Knee ligament and meniscus tears",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened. We will connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why San Mateo Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole ballgame",
+        "desc": "California asks whether the owner knew or should have known about the hazard. An attorney in our network knows how to look for inspection logs, prior complaints and cleaning schedules that answer that question."
+      },
+      {
+        "title": "Two years sounds long, until it isn't",
+        "desc": "Most premises claims in California must be filed within two years, and a fall on city, county or other public property in San Mateo comes with a much shorter claim window. Getting connected early protects your options."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "California follows pure comparative fault, so being partly responsible reduces a recovery rather than erasing it. That makes preserving surveillance video and photos of the scene especially important."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a public sidewalk in San Mateo. Is that different from falling inside a store?",
+        "answer": "Yes, in an important way. When the property belongs to the City of San Mateo, San Mateo County or another public agency, California requires a formal government claim first, and the window for filing it is far shorter than the two years that apply to private property. Missing that step can end the case before it starts. If you are unsure who owns the sidewalk or lot where you fell, that is a question worth putting to an attorney quickly."
+      },
+      {
+        "question": "I was looking at my phone when I slipped. Do I still have a claim?",
+        "answer": "Possibly. California uses pure comparative fault, which means a jury or insurer can assign you a percentage of blame without wiping out your claim entirely. The owner's failure to address a known hazard still counts against them. An independent attorney can weigh how the facts of your fall line up."
+      },
+      {
+        "question": "How do I get the store's surveillance video of my fall?",
+        "answer": "Most businesses along corridors like S El Camino Real run cameras, but footage is often overwritten within days or weeks. Send a written request, sometimes called a preservation letter, asking the property to keep all video from the date and time of your fall. Attorneys in the LawProactive network routinely send these notices as one of the first steps, which is one more reason not to wait."
+      }
+    ]
+  }
+}

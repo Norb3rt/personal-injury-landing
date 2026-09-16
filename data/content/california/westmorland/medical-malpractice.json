@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "westmorland medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Westmorland Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Westmorland, CA? Get connected free to an independent Imperial County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong in Westmorland, the road to answers can feel confusing and lonely. LawProactive connects you, at no cost, with an independent attorney who handles medical malpractice claims across Imperial County."
+  },
+  "about": {
+    "title": "Westmorland Medical Malpractice Claims",
+    "longDescription": "Westmorland is a small Imperial County community, and many residents travel to nearby cities like El Centro or Brawley for hospital care, specialists, or surgery. When that care falls below the accepted standard and causes real harm, families are often left sorting through unfamiliar medical terms while also managing recovery. Medical malpractice cases are different from other injury claims — California requires a qualified medical expert to review the case, and strict notice and filing deadlines apply. LawProactive doesn't practice law or make outcome promises; instead, we listen to what happened, gather the basic facts, and connect you with an independent attorney in our network who can evaluate whether the care you or a loved one received fell short. There's no cost to find out where you stand, and any attorney matched through us works on contingency, so you owe nothing unless there's a recovery.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or baby",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to someone about what happened — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "What Matters in a Westmorland Malpractice Case",
+    "items": [
+      {
+        "title": "Strict, Unforgiving Deadlines",
+        "desc": "California generally gives one year from when the harm is discovered, and never more than three years from the injury, to bring a claim. A 90-day pre-suit notice must also go to the provider before a lawsuit is filed, so early action matters."
+      },
+      {
+        "title": "Expert Review Is Required",
+        "desc": "A qualified medical expert almost always has to weigh in to show the care fell below the accepted standard. A poor result alone, even a hard one, doesn't by itself prove malpractice occurred."
+      },
+      {
+        "title": "Damage Caps Change Over Time",
+        "desc": "California places a cap on non-economic damages like pain and suffering, and that cap rises each year under MICRA. An attorney can walk through how the current figure applies to your specific situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Westmorland but was treated at a hospital in another city. Does that matter?",
+        "answer": "Not for whether you can pursue a claim — what matters is where the care happened and who provided it, not where you live. Many Westmorland residents receive care outside city limits, and an attorney can still evaluate the case regardless of the treating facility's location. LawProactive can connect you with someone familiar with Imperial County providers and courts."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover (or reasonably should have discovered) the injury, but never more than three years from the date it happened. There's also a required 90-day notice to the provider before filing suit. Because these rules are strict and case-specific, it helps to get a timeline review sooner rather than later."
+      },
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No — medicine involves risk, and a poor result doesn't by itself mean a provider was negligent. Malpractice requires showing the care fell below an accepted standard, typically through a qualified medical expert's opinion. An independent attorney can help sort out whether your situation looks like a standard-of-care issue or an unfortunate but non-negligent outcome."
+      }
+    ]
+  }
+}

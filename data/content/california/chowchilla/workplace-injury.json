@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "chowchilla workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Chowchilla Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Chowchilla? Get connected free to an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Workers hurt on job sites across Madera County, from Robertson Boulevard warehouses to farm operations off SR-99, often face confusion over who's responsible for their injury. LawProactive connects you free with an independent attorney who can sort out your workers' comp and any third-party options."
+  },
+  "about": {
+    "title": "Chowchilla Workplace Injury Claims",
+    "longDescription": "Chowchilla's economy runs on agriculture, distribution, and the correctional facilities nearby, all of which carry real injury risk from heavy equipment, repetitive strain, and vehicle traffic. When a workplace injury happens, most employees assume workers' compensation is their only path forward, but that's not always the full picture. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate claim outside the workers' comp system entirely. This matters in a town where flatbed trucks, delivery vans, and farm vehicles regularly move along Robertson Boulevard and Trinity Avenue near work sites. LawProactive doesn't practice law or promise results, we simply connect injured workers with an independent attorney, at no cost to you, who can review your specific situation and explain whether a third-party claim applies alongside your workers' comp benefits. There's no obligation to move forward, and no fee unless the attorney recovers something for you.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Crush injuries from heavy machinery or equipment",
+      "Fractures from falls on job sites",
+      "Vehicle-related injuries during work travel",
+      "Burns or chemical exposure incidents",
+      "Shoulder and joint injuries from repetitive tasks"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost.  "
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California treats workers' comp as the exclusive remedy against your employer in most cases, but a negligent third party, like a subcontractor or equipment maker, can still be held separately liable."
+      },
+      {
+        "title": "Reporting Deadlines Move Fast",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and missing that window can complicate your benefits, so early guidance matters."
+      },
+      {
+        "title": "Retaliation Is Illegal, and Deadlines Still Apply",
+        "desc": "Your employer cannot legally punish you for reporting an injury, and if a third-party claim exists, California gives you two years to pursue it, so understanding your timeline early protects your options."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job site near SR-99, does workers' comp cover everything?",
+        "answer": "Workers' comp usually covers medical costs and lost wages regardless of fault, but it typically doesn't cover pain and suffering. If a third party, like a delivery driver or equipment supplier, contributed to the crash or incident, a separate claim may be available alongside your workers' comp benefits."
+      },
+      {
+        "question": "What if my employer discourages me from reporting my injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal in California. If you're facing pressure not to report, an independent attorney can advise you on protecting your rights while still meeting the 30-day reporting window."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, the connection service itself is free, and LawProactive is not a law firm. Attorneys in the network typically work on contingency, meaning there's no fee unless they recover something for you."
+      }
+    ]
+  }
+}

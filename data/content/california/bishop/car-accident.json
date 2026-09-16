@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "bishop car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bishop Car Accident Help | LawProactive",
+    "metaDescription": "Free connection to an independent car accident attorney in Bishop, CA. No fee unless you recover. Get guidance before speaking with insurers."
+  },
+  "hero": {
+    "subtitle": "If a collision on Rt 395, US-395, or N Main Street left you hurt, LawProactive can connect you with an independent Bishop-area attorney at no cost to you."
+  },
+  "about": {
+    "title": "Bishop Car Accident Claims",
+    "longDescription": "Bishop sits along a corridor where Rt 395 and US-395 funnel through town, meeting local streets like N Main and N Fowler. Public crash records show injury collisions happen throughout the year here, with a noticeable cluster on Thursday afternoons between noon and 2 p.m., likely tied to through-traffic mixing with local errands and school pickup times. When a crash happens on these roads, injured people in Inyo County often face the same challenges: adjusters calling quickly, medical bills arriving before fault is sorted out, and questions about who's responsible. LawProactive doesn't practice law or promise results, but we can connect you, free of charge, with an independent attorney familiar with claims arising from Bishop-area roads. That attorney can help you understand your options, protect evidence from the scene, and communicate with insurers on your behalf while you focus on recovering.",
+    "commonInjuriesTitle": "Injuries We See Reported After Bishop Car Accidents",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head injuries",
+      "Broken bones, especially wrists and ribs",
+      "Back and spinal disc injuries",
+      "Cuts and lacerations from broken glass",
+      "Knee and joint damage from impact"
+    ],
+    "ctaText": "Get connected with a Bishop-area car accident attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the crash date to file a car accident claim, but that window can shrink to as little as six months if a government vehicle or road defect was involved. An attorney can help identify which deadline applies to your situation."
+      },
+      {
+        "title": "Shared Fault Doesn't Erase Your Claim",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash. An independent attorney can help make sure your compensation reflects your actual share of fault, not an inflated one assigned by the other driver's insurer."
+      },
+      {
+        "title": "Avoid Giving a Recorded Statement Too Soon",
+        "desc": "Insurance adjusters often request a recorded statement early, before you know the full extent of your injuries. An attorney can advise you on what to say, and what to hold off on, so nothing you say is later used to minimize your claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash near N Fowler Street. Do I have to talk to the other driver's insurance company right away?",
+        "answer": "No, you're not required to give a recorded statement to the other driver's insurer, and it's often better not to until you've spoken with an attorney. Anything you say can be used to dispute your injuries or shift blame. LawProactive can connect you with an attorney who can communicate with the insurer for you."
+      },
+      {
+        "question": "What if the crash happened on US-395, a state highway, or involved a Caltrans vehicle?",
+        "answer": "Claims involving a government entity, like Caltrans or a county vehicle, often carry a much shorter deadline, sometimes as little as six months to file a claim. This is one of the most time-sensitive situations in California injury law, so it's worth getting guidance quickly. An independent attorney can help determine what applies to your specific crash."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No, LawProactive is a free service, and there's no cost to you to be connected with an independent attorney. Attorneys in the network typically work on contingency, meaning they only get paid if you recover compensation. LawProactive itself is not a law firm and doesn't handle your case directly."
+      }
+    ]
+  }
+}

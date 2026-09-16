@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "voice": "brand-standard (plain-spoken, victim-first)",
+    "model": "claude-opus-4-8",
+    "generatedAt": "2026-09-11",
+    "source": "accident-hub + state-laws + city facts",
+    "note": "Long Beach city page."
+  },
+  "seo": {
+    "metaTitle": "Long Beach Personal Injury Lawyer | Free Review",
+    "metaDescription": "Injured in Long Beach? Connect free with a personal injury attorney serving Los Angeles County. 2 years to file — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Hurt in a crash on the 405 or Pacific Coast Highway, in a fall, or on the job in Long Beach? We connect you — free — with an independent personal injury attorney who handles Los Angeles County claims. No fee unless you recover."
+  },
+  "about": {
+    "title": "Personal Injury Help in Long Beach, California",
+    "longDescription": "As home to one of the nation's busiest ports, Long Beach mixes heavy truck traffic with dense neighborhoods and beachfront tourism. Public records show more than 2,100 injury collisions in the city in 2025, leaving over 3,100 people hurt, with reported crashes tending to peak on Friday evenings. Corridors like Atlantic Avenue, Long Beach Boulevard, Pacific Coast Highway and the I-405 (San Diego Freeway) carry a constant flow of cars, big rigs, cyclists and pedestrians. Whether you were injured in a wreck, in a fall at a business, in a workplace or port-area incident, or by a defective product, California law gives you rights and a limited time to use them. LawProactive is a free service that connects injured people in Long Beach with an independent personal injury attorney who understands how Los Angeles County claims and courts work. We are not a law firm; we simply match you with counsel. There is never a fee unless your case recovers compensation.",
+    "commonInjuriesTitle": "Injuries we help Long Beach residents pursue claims for",
+    "commonInjuries": [
+      "Whiplash, neck and back injuries from crashes",
+      "Truck and big-rig collision injuries",
+      "Traumatic brain injuries and concussions",
+      "Fractures and crush injuries",
+      "Pedestrian and bicyclist impact injuries",
+      "Serious burns, lacerations and scarring"
+    ],
+    "ctaText": "See if you have a case — free"
+  },
+  "whyChoose": {
+    "title": "What Long Beach injury victims should know",
+    "items": [
+      {
+        "title": "Usually a 2-year deadline",
+        "desc": "California generally gives you two years from the date of injury to file. Around a busy port, dashcam and traffic-camera footage can vanish within days, so acting early protects your claim."
+      },
+      {
+        "title": "Partial fault still recovers",
+        "desc": "California uses pure comparative fault, so you can recover even if you were partly to blame; your compensation is reduced by your share of fault."
+      },
+      {
+        "title": "Truck cases can involve many parties",
+        "desc": "A crash with a commercial truck may involve the driver, the carrier and others. An attorney can identify every responsible party and insurer."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "Most California injury cases place no limit on non-economic damages, so the human toll of your injury can be part of your claim."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Adjusters — sometimes a trucking company's — calling right away",
+      "Medical bills and lost wages piling up while you recover",
+      "A fast, low offer that won't cover long-term care",
+      "Not knowing whether your case is worth pursuing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Long Beach?",
+        "answer": "Most California injury claims must be filed within two years. Claims against a public entity — a city vehicle or hazardous public road — can carry a deadline as short as six months, so speak with an attorney quickly."
+      },
+      {
+        "question": "What if the accident was partly my fault?",
+        "answer": "You can still recover. California uses pure comparative fault, so your award is reduced by your percentage of fault rather than eliminated."
+      },
+      {
+        "question": "A truck was involved — is my case different?",
+        "answer": "Often yes. Commercial-truck claims can involve multiple insurers and federal safety rules, and evidence like driver logs must be preserved quickly. An attorney can act to secure it."
+      },
+      {
+        "question": "What does a case review cost?",
+        "answer": "Nothing. The review is free and attorneys in our network work on contingency, so there's no attorney fee unless they recover compensation for you."
+      },
+      {
+        "question": "Where do injury crashes cluster in Long Beach?",
+        "answer": "Reported-collision records for recent years point to Atlantic Avenue, Long Beach Boulevard, Pacific Coast Highway and the I-405, with crashes peaking on Friday evenings. These are public-record counts, not a verdict about any road."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "la-habra medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Habra Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in La Habra? LawProactive connects you free with an independent attorney who understands MICRA deadlines and rules."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong at a La Habra clinic or hospital, the aftermath can feel isolating. LawProactive can connect you at no cost with an independent attorney who handles medical malpractice matters under California law."
+  },
+  "about": {
+    "title": "La Habra Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases are different from most injury claims, and that's especially true here in La Habra, where residents often rely on a mix of local clinics, urgent care centers, and larger Orange County hospital systems for treatment. When something goes wrong during diagnosis, surgery, medication management, or aftercare, families are usually left with more questions than answers. California's MICRA law adds extra layers most people never anticipate: strict notice requirements, tight filing windows, and a near-universal need for a qualified medical expert to weigh in before a claim can move forward. A bad medical outcome by itself doesn't automatically mean malpractice occurred — proving negligence requires digging into records and medical standards. LawProactive doesn't practice law or take a cut of any recovery. We simply connect La Habra residents who believe they were harmed by a provider's error with an independent attorney who can evaluate what happened and explain the options, free of charge and with no obligation to move forward.",
+    "commonInjuriesTitle": "Situations We Commonly See",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Failure to monitor a patient after treatment",
+      "Anesthesia errors during a procedure"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your situation, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Early",
+    "items": [
+      {
+        "title": "The Clock Starts Sooner Than You'd Think",
+        "desc": "California generally gives one year from when you discover the harm, and never more than three years from the injury, to act. Because that discovery date can be argued over, getting an early legal opinion protects your options."
+      },
+      {
+        "title": "A 90-Day Notice Comes Before Any Lawsuit",
+        "desc": "Before a malpractice claim can be filed in court, California law requires sending the healthcare provider a 90-day notice of intent to sue. Missing or mishandling this step can delay or jeopardize a case."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor outcome alone isn't proof of malpractice, California claims almost always need a qualified medical expert to establish that the standard of care was breached. An attorney can help arrange that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered or reasonably should have discovered the injury, and no more than three years from the date it happened. These deadlines can be affected by specific circumstances, so it's worth getting a prompt legal opinion rather than assuming how much time remains."
+      },
+      {
+        "question": "Is a bad medical result the same as malpractice?",
+        "answer": "No. A poor outcome by itself doesn't establish negligence under California law. A claim typically requires showing the provider deviated from the accepted standard of care, which is why a qualified medical expert almost always has to review the case."
+      },
+      {
+        "question": "I was treated at a clinic near La Habra Boulevard or Imperial Highway — does that matter for my claim?",
+        "answer": "The specific location of treatment doesn't change the legal standards that apply, but it can help identify which facility's records and providers need to be reviewed. An independent attorney can sort out those details once they understand where and how the care was provided."
+      },
+      {
+        "question": "Does LawProactive charge anything for this service?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and attorneys in the network typically work on contingency, meaning there's no fee unless there's a recovery. We simply help match you with someone who can evaluate your situation."
+      }
+    ]
+  }
+}

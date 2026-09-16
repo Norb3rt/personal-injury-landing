@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "dixon medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dixon Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Dixon, CA? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or treatment goes wrong at a Dixon-area clinic or Solano County hospital, sorting out what happened can feel overwhelming. LawProactive connects you, free of charge, with an independent attorney who handles medical malpractice claims."
+  },
+  "about": {
+    "title": "Dixon Medical Malpractice Claims",
+    "longDescription": "Dixon is a small, close-knit community of roughly 19,390 people, and many residents travel toward larger Solano County medical centers for specialty care or surgery. When something goes wrong during that care — a missed diagnosis, a surgical mistake, a medication error — patients and families are often left with more questions than answers. California law recognizes that not every bad outcome is malpractice; what matters is whether a provider deviated from the accepted standard of care and caused harm. These cases require early medical review, careful documentation, and an understanding of strict filing deadlines. LawProactive doesn't practice law ourselves — we're a free service that connects people in Dixon with an independent, contingency-fee attorney who can evaluate what happened and explain your options. There's no obligation to move forward, and no cost unless your case results in a recovery.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect Cases For",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical patients"
+    ],
+    "ctaText": "Get connected free with an independent Dixon-area malpractice attorney."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Contact an Attorney",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines Apply",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the injury, and never more than three years after it occurred. A 90-day pre-suit notice to the provider is also required before a lawsuit can proceed."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor outcome alone isn't proof of malpractice, California law typically requires a qualified medical expert to confirm the standard of care was violated. An attorney can help arrange that kind of case review."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises Yearly",
+        "desc": "MICRA sets a statutory cap on non-economic damages such as pain and suffering, and that cap increases each year by law. An independent attorney can walk through how current limits may apply to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Dixon but received treatment at a hospital outside the city — can I still get help?",
+        "answer": "Yes. Where the care happened matters more than where you live, and many Dixon residents are treated at facilities elsewhere in Solano County or nearby regions. LawProactive can still connect you with an attorney who handles cases tied to that provider or facility."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it happened. There are limited exceptions, so it's worth having a claim reviewed sooner rather than later. A 90-day notice must also be sent to the provider before filing suit."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice occurred?",
+        "answer": "No — California law is clear that a poor result alone isn't enough to prove malpractice. There has to be evidence the provider failed to meet the accepted standard of care, which is why a qualified medical expert's review is almost always required. An attorney can help determine whether your situation meets that threshold."
+      }
+    ]
+  }
+}

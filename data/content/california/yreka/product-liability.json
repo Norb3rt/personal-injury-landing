@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "yreka product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Yreka Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Yreka, CA? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a defective tool, vehicle part, or household product injures someone in Yreka, California law often lets them pursue the maker without proving negligence. LawProactive can connect you with an independent attorney familiar with these claims, at no cost to start."
+  },
+  "about": {
+    "title": "Yreka Product Liability Claims",
+    "longDescription": "Siskiyou County residents rely on all kinds of manufactured goods every day — farm and forestry equipment, vehicles that travel Interstate 5 and Route 3, tools used on ranches near S Main Street, appliances in homes across town. When one of those products fails because of a flaw in its design, a mistake in manufacturing, or a missing warning, the person hurt by it may have a claim against the manufacturer, distributor, or seller. California generally allows these claims under strict liability, meaning the injured person doesn't have to prove the company was careless — only that the product was defective and caused harm. That's an important distinction for anyone in a small community like Yreka trying to figure out what happened and who's responsible. LawProactive doesn't practice law itself; we simply connect people who've been hurt by a defective product with an independent attorney who can look at the facts and explain the options, free of charge to start.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or equipment",
+      "Lacerations or amputations from defective power tools",
+      "Crush injuries from failing machinery or vehicle parts",
+      "Traumatic brain injury from airbag or seatbelt failure",
+      "Poisoning or chemical exposure from mislabeled products",
+      "Fractures from collapsing furniture or ladders"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney who can look into it."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Defective Product",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Case",
+        "desc": "Because California often applies strict liability to defective products, an attorney can focus on showing the defect and the harm it caused rather than trying to prove the manufacturer was careless."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, and an attorney can help identify which parties were involved in getting the product into your hands."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "Keeping the defective item, its packaging, and any manuals intact is often critical to a claim, and an attorney can advise you on how to protect that evidence before it's lost or discarded."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I need to prove the manufacturer was negligent?",
+        "answer": "Not usually. California product liability claims often proceed under strict liability, which generally means you need to show the product was defective and that the defect caused your injury, not that the company acted carelessly. An independent attorney can review your situation and explain which legal theory fits best."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Try to keep it exactly as it was when the injury happened, along with any packaging, receipts, or instructions. Don't attempt repairs or throw it away, since the product itself is often the most important piece of evidence in these claims."
+      },
+      {
+        "question": "I was hurt by equipment out on I-5 or Route 3 near Yreka — does that change anything?",
+        "answer": "Not necessarily. Whether the incident happened on a highway corridor like Interstate 5, a rural road like Route 3, or somewhere in town, the same basic product liability principles usually apply. What matters most is the product's defect and how it caused your injury, regardless of location."
+      },
+      {
+        "question": "How does LawProactive work?",
+        "answer": "LawProactive is a free service that connects injured people with an independent attorney in our network — we are not a law firm ourselves. There's no cost to get connected, and attorneys typically work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

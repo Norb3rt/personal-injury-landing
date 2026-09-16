@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "alturas medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Alturas Medical Malpractice Help | LawProactive",
+    "metaDescription": "Injured by a medical error in Alturas? LawProactive connects you free with an independent malpractice attorney serving Modoc County."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or treatment goes wrong at a Modoc County facility, sorting out what happened can feel isolating in a small community like Alturas. LawProactive can connect you at no cost with an independent attorney who handles medical malpractice claims."
+  },
+  "about": {
+    "title": "Alturas Medical Malpractice Claims",
+    "longDescription": "Alturas residents rely on a limited number of local providers, and when care at one of them falls short of the accepted standard, patients and families are often left with more questions than answers. Modoc County's rural setting means specialists and full-service hospitals may be hours away, which can complicate both treatment and the process of documenting what went wrong. California's MICRA framework governs these claims statewide, including Alturas, and requires a qualified medical expert to weigh in on whether care fell below the accepted standard. A poor result by itself does not establish malpractice — the law looks at whether the provider's conduct deviated from what a reasonably careful practitioner would have done. Because notice and filing deadlines are strict and unforgiving, waiting to sort out the details can quietly close off options. LawProactive offers a free, no-obligation way to get connected with an attorney familiar with these rules who can review what happened and explain what, if anything, can be done next.",
+    "commonInjuriesTitle": "Situations We Commonly See",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on results"
+    ],
+    "ctaText": "Get connected with an independent attorney today, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Starts Early",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to act. In a small county like Modoc, gathering records can take longer than expected, so starting early matters."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can be filed in California, the provider must typically receive 90 days' written notice. Missing this step can delay or derail a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "California law generally requires a qualified medical expert to confirm that care fell below the accepted standard. Non-economic damages are also subject to a statutory cap that rises annually, which an attorney can explain in plain terms."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law recognizes that medicine involves uncertainty, and a poor result alone doesn't prove negligence. Malpractice requires showing the provider's care fell below what a reasonably careful professional would have done, which is why a qualified medical expert typically has to review the case."
+      },
+      {
+        "question": "What if my care happened outside Alturas because local facilities didn't have what I needed?",
+        "answer": "Many Modoc County residents are referred out for specialized treatment, and that doesn't prevent a claim. What matters is where the alleged error occurred and which provider was responsible, and an attorney can help sort out the right venue and parties."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing upfront. LawProactive is a free service, and attorneys in the network generally work on contingency, meaning there's no fee unless there's a recovery."
+      }
+    ]
+  }
+}

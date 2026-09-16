@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "foster-city city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Foster City, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Foster City? Connect free with a San Mateo County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on SR-92 or injured as a pedestrian along Foster City Boulevard, we'll connect you free of charge with an independent attorney serving San Mateo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Foster City, California",
+    "longDescription": "Foster City is a compact, bike-and-pedestrian-friendly community of roughly 33,477 residents, wrapped around lagoons and connected to the rest of the Peninsula by SR-92. That connectivity comes with traffic, and public records show it: in the most recent final year on record, Foster City saw 107 injury collisions, 139 people hurt, and 2 traffic deaths. Corridors like SR-92, Foster City Boulevard, E Hillsdale Boulevard, and SR-92 Eastbound carry the highest volume of reported collisions in the city, and crash reports tend to cluster on Tuesday afternoons between 3 and 5 p.m., when commuter and school traffic overlap. If you were hurt in one of these incidents, sorting out medical bills, insurance calls, and paperwork can feel like a second job on top of recovering. LawProactive is a free service — not a law firm — that connects injured Foster City residents with an independent personal injury attorney who can evaluate what happened. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and starts the process of understanding your options under California law.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from vehicle or bicycle crashes",
+      "Traumatic brain injuries from falls or crashes",
+      "Herniated discs and back injuries",
+      "Pedestrian injuries near lagoon-front crossings",
+      "Soft-tissue injuries needing ongoing physical therapy"
+    ],
+    "ctaText": "Tell us what happened — the connection is free, and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "California's Two-Year Filing Window",
+        "desc": "California law generally gives you two years from the date of injury to file a personal injury claim, but that window can shrink to as little as six months if a government entity, like a city road agency, is involved. An attorney can help you figure out which deadline applies to your situation before it passes."
+      },
+      {
+        "title": "Pure Comparative Fault Still Allows Recovery",
+        "desc": "Under California's pure comparative fault rule, even if you were partly responsible for what happened, you may still recover compensation — it's just reduced by your share of fault. This means insurers can't automatically deny your claim just because fault is disputed."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages Here",
+        "desc": "In an ordinary personal injury case in California, there's no statutory cap on non-economic damages like pain and suffering. That matters when injuries affect your daily life well beyond medical bills."
+      },
+      {
+        "title": "Contingency Fees Mean No Upfront Cost",
+        "desc": "Attorneys in our network work on contingency, so you don't pay legal fees unless there's a recovery. That structure lets you focus on healing instead of worrying about hourly rates."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by an insurance adjuster calling too soon",
+      "Not knowing if you waited too long or still have time to act",
+      "Wondering whether being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and attorneys in our network work on contingency, so there's no fee unless they recover money for you. There's no cost or obligation just to have a conversation about what happened."
+      },
+      {
+        "question": "How long do I have to file a claim after a crash in Foster City?",
+        "answer": "California generally allows two years from the date of injury to file a personal injury claim. If a government entity — such as a public road agency — is involved, that deadline can be as short as six months, so it helps to get guidance early."
+      },
+      {
+        "question": "Where do collisions get reported most often in Foster City?",
+        "answer": "Based on public collision records, corridors like SR-92, Foster City Boulevard, E Hillsdale Boulevard, and SR-92 Eastbound show the highest volume of reported collisions in the city, with reports tending to cluster on Tuesday afternoons between 3 and 5 p.m. These are simply the areas with the most recorded incidents, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some responsibility — your recovery is just reduced by your percentage of fault. This is different from states that bar recovery entirely if you're found partly at fault."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In a typical California personal injury case, there's no statutory cap on non-economic damages like pain and suffering. The specific facts of your case will shape what an attorney thinks is fair to pursue."
+      }
+    ]
+  }
+}

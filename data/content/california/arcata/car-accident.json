@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "arcata car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Arcata Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a car accident in Arcata? Get connected free with an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Samoa Boulevard, H Street, or anywhere else in Arcata left you hurt, LawProactive can connect you with an independent personal injury attorney at no cost to start."
+  },
+  "about": {
+    "title": "Arcata Car Accident Claims",
+    "longDescription": "Arcata's compact street grid puts a lot of local traffic onto a handful of corridors — Samoa Boulevard, Alliance Road, 11th Street, and H Street among them. Public records show 37 injury collisions and 40 injured people in the most recent full year, with a concentration of reports on Friday nights between midnight and 2 a.m. Whether your crash happened near the Plaza, on the way to Cal Poly Humboldt, or out toward the edge of town, the aftermath tends to look similar: medical visits, missed work, and calls from an insurance adjuster who wants a statement before you've even seen a doctor. LawProactive doesn't handle claims ourselves — we're a free service that connects you with an independent attorney in California who can look at what happened, explain your options, and take on the insurance conversations while you focus on healing. There's no cost to get matched, and no obligation to move forward.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Fractured bones",
+      "Herniated or bulging discs",
+      "Shoulder and knee ligament tears",
+      "Cuts and lacerations from broken glass or debris"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash date to file a personal injury claim in California, but that window shrinks to as little as six months if a government entity — like a city road crew or transit vehicle — was involved. An attorney can flag that deadline early so it doesn't quietly pass you by."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California allows recovery even if you're partly at fault, but any percentage assigned to you reduces what you can recover. Insurers know this, which is why an early recorded statement — before you understand the full picture — can be used to shift blame your way."
+      },
+      {
+        "title": "No Cap Doesn't Mean No Fight",
+        "desc": "California places no cap on non-economic damages like pain and suffering, but that doesn't mean an insurer will offer it freely. An attorney working on contingency only gets paid if you recover, so there's no upfront cost to having someone push back on your behalf."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was in a crash near 11th Street and the insurance adjuster already called. Should I give a statement?",
+        "answer": "It's generally best to avoid giving a recorded statement to the other driver's insurer before speaking with an attorney. Adjusters are trained to ask questions that can be used to minimize your claim later. An independent attorney can talk to them on your behalf so you're not navigating that alone."
+      },
+      {
+        "question": "What if the crash happened on a road maintained by the city or county?",
+        "answer": "Claims against a government entity in California often carry a much shorter deadline — sometimes as little as six months instead of the usual two years. If your crash involved a city vehicle, transit bus, or a road maintenance issue in Arcata, it's worth getting a quick attorney review sooner rather than later."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service — there's no cost to get matched with an independent personal injury attorney in California. Attorneys in the network typically work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

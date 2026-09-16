@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "redlands city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Redlands, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Redlands or elsewhere in San Bernardino County? You have 2 years to file. Get connected free to an injury attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether a rear-end crash on I-10 or a fall at a Redlands business left you hurt, LawProactive connects you at no cost with an independent injury attorney serving San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Redlands, California",
+    "longDescription": "Redlands sits where the I-10 threads through the east end of the San Bernardino Valley, and much of daily life here moves along Orange Street, Alabama Street, and Lugonia Avenue. Those same corridors show up most often in public collision records for the city. In 2025, the last complete reporting year, Redlands recorded 477 injury collisions, with 671 people injured and 5 lives lost. Reports tend to rise late on Friday afternoons, roughly 5 to 7 p.m., when commuters, students heading to and from the University of Redlands, and weekend traffic overlap.\n\nA number is just a number until it happens to you. Then it becomes missed shifts, a car you can't drive, and an adjuster asking for a recorded statement. LawProactive exists to make one part of that easier. We are a free service, not a law firm. When you reach out, we listen to what happened and connect you with an independent personal injury attorney who handles cases in San Bernardino County. That attorney works on contingency, so there is no fee unless there is a recovery. You decide whether to move forward; we simply open the door.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in Redlands",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back and spinal disc injuries",
+      "Knee and hip injuries from slip-and-falls",
+      "Dog bites and related scarring"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Redlands Claim",
+    "items": [
+      {
+        "title": "Two years to act—sometimes far less",
+        "desc": "Most California injury claims must be filed within two years of the incident. If a city, county, or state agency is involved, a claim may be due in as little as six months."
+      },
+      {
+        "title": "Partial fault doesn't shut you out",
+        "desc": "California follows pure comparative fault. If you share some of the blame, your recovery is reduced by that share, but you are not barred from recovering."
+      },
+      {
+        "title": "No fixed cap on pain and suffering",
+        "desc": "In ordinary injury cases, California does not cap non-economic damages such as pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "Contingency, not hourly billing",
+        "desc": "Attorneys in the LawProactive network work on contingency. You pay no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work while I heal, and the bills aren't waiting.",
+      "The police report says I was partly at fault—does that end it?",
+      "I've never hired a lawyer and I'm worried about what it costs."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions cluster in Redlands?",
+        "answer": "Public collision records for Redlands show the highest counts along I-10, Orange Street, Alabama Street, and Lugonia Avenue. In 2025 the city logged 477 injury collisions and 671 people injured, with reports peaking on Fridays between about 5 and 7 p.m. These are simply where and when the numbers are highest; they reflect traffic volume and are not a judgment about any road."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most injury claims, the deadline is two years from the date you were hurt. Claims against a government entity, such as a city or Caltrans, can require a written claim within six months. Because these deadlines are strict, it helps to talk with an attorney early."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses pure comparative fault. Your compensation is reduced by your percentage of fault, but you can still recover for the portion that was not your responsibility. An attorney can review how fault was assigned and whether it was fair."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not give legal advice or represent you; the attorney you are connected with does that."
+      },
+      {
+        "question": "What does it cost to hire an attorney through LawProactive?",
+        "answer": "Our connection service is free. The attorneys in our network work on a contingency basis, meaning you owe no attorney fee unless there is a recovery in your case. The fee terms will be explained to you in writing before you agree to anything."
+      }
+    ]
+  }
+}

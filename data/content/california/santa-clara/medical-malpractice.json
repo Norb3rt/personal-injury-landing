@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "santa-clara medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Clara Medical Malpractice Lawyer | LawProactive",
+    "metaDescription": "Hurt by a medical error in Santa Clara? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines apply—act early."
+  },
+  "hero": {
+    "subtitle": "When care in Santa Clara goes wrong and you suspect a preventable mistake, we connect you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Santa Clara Medical Malpractice Claims",
+    "longDescription": "Santa Clara is home to roughly 126,000 people, and most of them will sit in a clinic, urgent care, or hospital somewhere in Santa Clara County this year without a second thought. Sometimes, though, a patient leaves worse off than they arrived, and the question becomes whether that harm came from a known risk or from care that fell below the accepted standard. California law draws that line carefully. A poor result by itself is not malpractice; what matters is whether a reasonably careful provider would have acted differently. Sorting that out takes medical records, a qualified expert in the same field, and attention to MICRA's timing rules, which generally give you one year from the date you discovered the injury and never more than three years from when it happened. LawProactive is not a law firm. We are a free service that connects Santa Clara residents with an independent attorney who reviews these cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm We Commonly See in Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to treat infection or sepsis"
+    ],
+    "ctaText": "Ask a Santa Clara malpractice attorney to review your records"
+  },
+  "whyChoose": {
+    "title": "Why Santa Clara Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA clocks start sooner than people expect",
+        "desc": "California generally allows one year from discovery and no more than three years from the injury itself, plus a 90-day notice before suit can be filed. The attorneys we connect you with track those dates from the first call."
+      },
+      {
+        "title": "An expert is nearly always required",
+        "desc": "A malpractice claim in Santa Clara County almost always needs a qualified medical expert to explain how the standard of care was breached. Our network attorneys know how to locate and work with the right specialist."
+      },
+      {
+        "title": "Honest talk about the non-economic cap",
+        "desc": "MICRA limits non-economic damages, and that cap rises every year under current law. The attorney you are matched with can explain what that means for your specific situation rather than making promises."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated at a hospital in Santa Clara County. Where would my case actually be filed?",
+        "answer": "Medical malpractice suits arising from care in Santa Clara are typically filed in Santa Clara County Superior Court, though venue can depend on where the provider is located and other details. Before any filing, California requires a 90-day notice of intent to sue. The attorney you connect with through LawProactive will confirm the proper court and handle that notice for you."
+      },
+      {
+        "question": "My surgery didn't turn out the way I hoped. Is that malpractice?",
+        "answer": "Not by itself. Every procedure carries known risks, and a disappointing outcome does not mean anyone was careless. Malpractice means a provider failed to meet the standard a reasonably skilled professional would have met, and that failure caused your injury. A qualified medical expert is usually needed to make that determination."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Under MICRA, you generally have one year from the date you discovered, or reasonably should have discovered, the injury, and in no case more than three years from the date the injury occurred. There are limited exceptions, such as certain claims involving minors or concealed foreign objects. Because records take time to gather and an expert must review them, reaching out early gives your attorney the most room to work."
+      }
+    ]
+  }
+}

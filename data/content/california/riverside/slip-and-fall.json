@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "riverside slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Riverside Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell at a Riverside store, apartment, or parking lot? LawProactive connects you free with a premises liability attorney. No fee unless there's a recovery."
+  },
+  "hero": {
+    "subtitle": "If a wet floor, broken step, or unlit walkway in Riverside put you on the ground, you have the right to ask who was responsible. LawProactive connects you at no cost with an independent premises liability attorney who handles Riverside County claims."
+  },
+  "about": {
+    "title": "Riverside Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You are on the ground in a grocery aisle, an apartment stairwell, or a parking lot off Van Buren Boulevard, more embarrassed than anything, and only later does the wrist or hip start to tell the real story. In Riverside, a city of roughly 322,000 people in Riverside County, property owners and businesses have a duty to keep their premises reasonably safe for the people they invite in. When an owner knows about a spill, a loose handrail, or a dark walkway and does nothing to fix it or warn about it, California law can hold that owner accountable. LawProactive is not a law firm. We are a free service that listens to what happened and connects you with an independent premises liability attorney who takes Riverside cases. That attorney works on contingency, meaning you owe nothing unless there is a recovery. The sooner someone starts collecting photos, incident reports, and store video, the harder it becomes for a property owner to claim the hazard was never there.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Riverside",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, forearm, and elbow fractures",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back injuries",
+      "Torn knee ligaments and ankle sprains",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us where you fell and we'll connect you with a Riverside attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Riverside Fall Victims Reach Out Through LawProactive",
+    "items": [
+      {
+        "title": "Attorneys who understand the notice requirement",
+        "desc": "California premises cases usually turn on whether the owner knew or should have known about the hazard and failed to fix it or warn you. The attorneys in our network build that proof from cleaning logs, prior complaints, and how long the condition sat there."
+      },
+      {
+        "title": "Deadlines tracked from day one",
+        "desc": "Most Riverside slip and fall claims must be filed within two years, but a fall on city, county, or other public property triggers a much shorter window. Getting connected early keeps those dates from slipping past."
+      },
+      {
+        "title": "Evidence preserved before it disappears",
+        "desc": "Surveillance footage at many stores is overwritten within days, and pure comparative fault means the owner will look for any way to shift blame onto you. A prompt preservation letter and careful documentation of the hazard help protect your side of the story."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Riverside. Is the city responsible?",
+        "answer": "It can be, but claims against a public entity in California follow special rules. Instead of the usual two-year deadline, you generally must file a formal government claim within six months of the injury, and the claim has to go to the right agency. Because the City of Riverside, Riverside County, and private adjacent owners can each have different responsibilities for a stretch of sidewalk, an attorney will want to sort out who controlled that section quickly."
+      },
+      {
+        "question": "I was looking at my phone when I fell. Do I still have a case?",
+        "answer": "Possibly. California applies pure comparative fault, which means your recovery can be reduced by whatever share of blame is assigned to you, but you are not automatically shut out. The central question remains whether the property owner knew or should have known about the hazard and failed to address it. An attorney can evaluate how those two factors balance in your situation."
+      },
+      {
+        "question": "The store told me there is no camera footage. What should I do?",
+        "answer": "Do not take that answer as final. Many Riverside retailers and apartment complexes record entrances, aisles, and parking areas, and footage is often deleted on a short cycle unless someone formally requests that it be kept. An attorney can send a preservation demand right away and later ask for the footage, maintenance logs, and any prior incident reports. In the meantime, write down what you remember, photograph the spot, and keep your shoes and clothing as they were."
+      }
+    ]
+  }
+}

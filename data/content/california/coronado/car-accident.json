@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "coronado car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Coronado Car Accident Help | LawProactive",
+    "metaDescription": "Free connection to an independent car accident attorney in Coronado, CA. No fee unless you recover. Get guidance before you talk to any insurer."
+  },
+  "hero": {
+    "subtitle": "If a crash on Orange Avenue, Silver Strand Boulevard, or the bridge approach left you hurt, we can connect you with an independent Coronado attorney who handles car accident claims on contingency."
+  },
+  "about": {
+    "title": "Coronado Car Accident Claims",
+    "longDescription": "Coronado's compact grid means most drivers are moving between the same handful of corridors — Silver Strand Boulevard, Orange Avenue, 3rd, and 4th Street — and public crash records show injury collisions there tend to bunch up on Friday afternoons between 3 and 5 p.m., likely tied to base traffic, tourism, and the daily rush toward the bridge. San Diego County recorded 103 injury collisions and 140 injured people here in the most recent final year, with no traffic deaths reported. Behind each number is someone dealing with medical bills, missed work, and an insurance adjuster who calls before the bruises even fade. LawProactive doesn't practice law; we connect you with an independent Coronado-area attorney who can review your crash, explain your options under California's fault and damages rules, and help you avoid the early missteps that hurt injury claims. There's no cost to talk, and no fee unless the attorney recovers money for you.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Fractured wrists, ribs, or ankles",
+      "Back and spinal disc injuries",
+      "Torn ligaments (knee, shoulder)",
+      "Cuts and bruising from broken glass or airbags"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Coronado Residents Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Move Fast",
+        "desc": "California generally gives you two years to file a car accident claim, but if a government entity (like a road authority) may be involved, that window can shrink to as little as six months. Acting early protects your right to pursue a claim at all."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California's pure comparative fault rule means you can still recover damages even if you were partly at fault — your share of blame just reduces the amount, not the right to pursue it. An attorney can help make sure your side of the story is documented before the other insurer frames it differently."
+      },
+      {
+        "title": "Skip the Recorded Statement",
+        "desc": "You're not required to give the other driver's insurer a recorded statement, and doing so before you understand your injuries can work against you. An independent attorney can communicate with insurers on your behalf while evidence like skid marks, signal timing, or witness accounts is still fresh."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash near the Coronado bridge or Silver Strand — does it matter who I was hit by?",
+        "answer": "It can. If a government vehicle, road defect, or public entity is involved, the claims deadline can be as short as six months instead of the usual two years. An attorney can quickly sort out who the claim is against and what deadline applies to your situation."
+      },
+      {
+        "question": "Will I owe anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and the independent attorneys in our network typically work on contingency, meaning they only get paid if you recover money. There's no obligation to move forward after a conversation."
+      },
+      {
+        "question": "The other driver's insurance company already called me — should I talk to them?",
+        "answer": "You're not obligated to give a recorded statement, and it's usually smart to hold off until you've spoken with an attorney. Early statements can be used to minimize your claim before you even know the full extent of your injuries."
+      }
+    ]
+  }
+}

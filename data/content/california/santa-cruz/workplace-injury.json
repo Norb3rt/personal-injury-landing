@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "santa-cruz workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Cruz Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Santa Cruz? Get connected free with an independent attorney who handles work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Santa Cruz workers get hurt on job sites from the harbor to the boardwalk, and figuring out whether workers' comp covers everything isn't always obvious. We connect you, free of charge, with an independent attorney who can look at the whole picture."
+  },
+  "about": {
+    "title": "Santa Cruz Workplace Injury Claims",
+    "longDescription": "Whether you work in agriculture, tourism, construction, or one of the shops along Soquel Avenue and Ocean Street, a workplace injury in Santa Cruz can throw your income and recovery into question fast. California generally requires injured workers to go through workers' compensation rather than suing an employer directly, but that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver on Rt 1 or Water Street contributed to what happened, you may have a separate claim against that third party, on top of any comp benefits. LawProactive doesn't handle claims itself — we're a free connection service that puts injured workers in touch with an independent attorney who can sort out whether workers' comp is your only path or if there's more to pursue. There's no cost to find out, and no pressure to move forward if it's not the right fit.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from defective tools or machinery",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions while working (delivery, field crews, rideshare)",
+      "Injuries from falling objects or unsafe storage",
+      "Burns or chemical exposure on the job"
+    ],
+    "ctaText": "Get connected free with an independent attorney to review your options."
+  },
+  "whyChoose": {
+    "title": "Why Santa Cruz Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Automatically Ruled Out",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can still be held separately liable. An independent attorney can help determine if that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter Early On",
+        "desc": "California generally requires reporting a workplace injury to your employer within 30 days, and missing that window can complicate things. Getting matched with an attorney sooner rather than later helps protect your options."
+      },
+      {
+        "title": "Retaliation Protections Exist Under California Law",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or filing a claim. If you're worried about that, an independent attorney can explain your rights before you decide how to proceed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site near Soquel Avenue — can I sue my employer directly?",
+        "answer": "In most cases, California workers' comp is the exclusive remedy against your employer regardless of who was at fault, so a direct lawsuit against the employer usually isn't available. However, if a third party like a contractor, equipment supplier, or another driver contributed to the injury, a separate claim against that party may be possible. An independent attorney can look at the specifics of your job site incident to sort this out."
+      },
+      {
+        "question": "What if my injury happened while driving for work on Rt 1 or Ocean Street?",
+        "answer": "If you were injured in a work-related vehicle collision, workers' comp typically applies, but if another driver caused the crash, you may also have a third-party injury claim against that driver. These claims generally carry a 2-year deadline in California, so it helps to get guidance early. LawProactive can connect you with an attorney who handles both angles."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury in Santa Cruz?",
+        "answer": "No — California law prohibits retaliation against employees who report a workplace injury or file a workers' comp claim. If you believe you've faced retaliation, that's worth discussing with an independent attorney right away. This connection service can match you with someone who handles these situations at no upfront cost."
+      }
+    ]
+  }
+}

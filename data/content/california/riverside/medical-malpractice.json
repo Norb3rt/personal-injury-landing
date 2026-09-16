@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "riverside medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Attorney in Riverside, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Riverside? LawProactive connects you free with an independent malpractice attorney. Learn MICRA deadlines and your options."
+  },
+  "hero": {
+    "subtitle": "A missed diagnosis or surgical mistake in Riverside can upend a family's year. LawProactive connects you, at no cost, with an independent attorney who reviews medical negligence claims under California's MICRA rules."
+  },
+  "about": {
+    "title": "Riverside Medical Malpractice Claims",
+    "longDescription": "When a hospital stay or clinic visit in Riverside leaves you worse off than when you arrived, the first question is usually not about lawyers. It is about what went wrong and whether anyone will explain it. LawProactive exists for the moment after that, when you decide you want an independent attorney to look at your records. We are not a law firm. We are a free service that connects Riverside County residents with a personal injury attorney who handles medical negligence cases on contingency. California's MICRA rules shape every one of these claims: a one-year clock that starts when you discover the harm, a hard three-year outer limit from the date of injury, a 90-day notice you must send before filing, and a cap on non-economic damages that increases each year. Nearly every case also needs a qualified medical expert to say the care fell below the standard. That is why a bad result by itself is not enough; the attorney has to show the provider did something a careful one would not have done.",
+    "commonInjuriesTitle": "Harm Often Seen in Riverside Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed cancer and stroke diagnoses",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Emergency room discharge before a serious condition was caught"
+    ],
+    "ctaText": "Ask a Riverside malpractice attorney to review your records, free."
+  },
+  "whyChoose": {
+    "title": "Why Riverside Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "The MICRA clock is short and starts quietly",
+        "desc": "In California you generally have one year from when you discovered the harm, and never more than three years from the injury itself. An early connection gives your attorney room to gather records before that window narrows."
+      },
+      {
+        "title": "The 90-day notice is handled before filing",
+        "desc": "California requires written notice to each provider at least 90 days before a malpractice lawsuit is filed. The attorneys in our network build that step into the timeline so it does not become a surprise."
+      },
+      {
+        "title": "Expert review comes before promises",
+        "desc": "A qualified medical expert is almost always needed to show the care fell below the accepted standard, because a poor outcome alone is not malpractice. Your attorney will tell you honestly whether the medicine supports a claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in a Riverside emergency room after a crash on I-215 and they missed a fracture. Is that malpractice?",
+        "answer": "Possibly, but it depends on what a reasonable emergency physician would have caught with the information available that night. Riverside recorded 1,995 injury collisions in 2025, and emergency departments see a steady flow of crash patients, especially on Friday evenings. A missed injury becomes a malpractice claim only when a qualified expert concludes the standard of care was not met. An attorney can obtain your imaging and chart and have it reviewed."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California places a statutory cap on non-economic damages such as pain and suffering, and that cap rises each year under MICRA. Economic losses like medical bills, lost wages, and future care are handled separately. An attorney can explain how the current cap applies to the year your claim is filed."
+      },
+      {
+        "question": "How does LawProactive work, and what does it cost me?",
+        "answer": "LawProactive is a free connection service, not a law firm. We match you with an independent personal injury attorney in the Riverside area who handles medical negligence cases. Those attorneys work on contingency, meaning there is no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

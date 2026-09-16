@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "oceanside city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oceanside, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Oceanside? Get connected free to an independent San Diego County injury attorney. 2 years to file in California; no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From car crashes on Route 76 to slip-and-falls near the harbor, LawProactive connects injured Oceanside residents with an independent attorney at no cost. Serving all of San Diego County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Oceanside, California",
+    "longDescription": "Oceanside sits where Route 76 meets the coast, and its roads carry a steady mix of commuters, beachgoers, and weekend visitors. In 2025, public records counted 835 injury collisions inside the city, leaving 1,177 people hurt and 5 people dead. The corridors with the highest collision counts were Rt 76, Oceanside Boulevard, College Boulevard, and Mission Avenue, and reported crashes tended to peak on Fridays between 5 p.m. and 7 p.m. as the weekend rush built. Behind each of those numbers is a person who now has an adjuster on the phone and a stack of bills on the counter. That is where LawProactive comes in. We are a free service, not a law firm. We do not handle cases ourselves; instead, we connect people in Oceanside and across San Diego County with an independent personal injury attorney who can review what happened and explain the options in plain language. Being connected never costs anything, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. Whether you were rear-ended on Mission Avenue, struck while walking near the pier, or hurt in a fall at a local business, one short conversation can help you understand where you stand.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Oceanside",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from motorcycle and bicycle crashes",
+      "Concussions and other head injuries",
+      "Pedestrian injuries at crosswalks and driveways",
+      "Back injuries from slips and falls on business property",
+      "Soft-tissue injuries that show up days after a crash"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Oceanside Claim",
+    "items": [
+      {
+        "title": "Two years to act, sometimes less",
+        "desc": "California gives most injury victims two years from the date of injury to file a lawsuit. If a city, county, or state agency is involved, the deadline to file a claim can shrink to as little as six months."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "Under California's pure comparative fault rule, being partly responsible reduces your recovery by your share of blame, but it does not eliminate your right to compensation."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "In ordinary injury cases, California places no dollar limit on non-economic damages such as pain, lost enjoyment of life, and emotional distress."
+      },
+      {
+        "title": "Contingency fees, nothing upfront",
+        "desc": "Attorneys in our network work on contingency. You pay no fee unless there is a recovery in your case, and connecting through LawProactive is free."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I do not know what to say.",
+      "I cannot work right now and the medical bills are piling up.",
+      "I might have been partly at fault, so I assume I have no case.",
+      "I do not know whether I can afford a lawyer at all."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Oceanside?",
+        "answer": "Most California injury claims must be filed within two years of the date you were hurt. That window can be much shorter, sometimes six months, if the claim involves a government entity such as a city vehicle or a public roadway defect. Talking to an attorney early helps make sure nothing gets missed."
+      },
+      {
+        "question": "Where do crashes tend to happen in Oceanside?",
+        "answer": "According to public collision records, Rt 76, Oceanside Boulevard, College Boulevard, and Mission Avenue recorded the highest counts in the city. Reports also cluster on Fridays between 5 p.m. and 7 p.m. These are simply counts from public data and reflect traffic volume rather than any judgment about a particular road."
+      },
+      {
+        "question": "What if I was partly to blame for the collision?",
+        "answer": "California follows pure comparative fault. Your recovery is reduced by whatever percentage of fault is assigned to you, but you are not barred from recovering just because you share some responsibility. An attorney can help you understand how fault might be divided in your situation."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not give legal advice or handle cases. We connect you with an independent personal injury attorney who can review your situation directly."
+      },
+      {
+        "question": "How much does it cost to get an attorney through LawProactive?",
+        "answer": "Nothing to be connected, and the attorneys in our network work on contingency. That means you owe no attorney fee unless there is a recovery in your case. Any fee arrangement is agreed on directly between you and the attorney before work begins."
+      }
+    ]
+  }
+}

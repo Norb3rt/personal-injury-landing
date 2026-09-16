@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "bradbury workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bradbury Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Bradbury, CA? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been injured while working in Bradbury, the path to compensation can involve more than a workers' comp claim. LawProactive connects you, at no cost, with an independent attorney who can look at whether a third party shares responsibility."
+  },
+  "about": {
+    "title": "Bradbury Workplace Injury Claims",
+    "longDescription": "Bradbury is a small, quiet city in Los Angeles County, but workplace injuries still happen here — whether on a residential job site off Bradbury Hills Road, during property maintenance near Mount Olive Drive, or while making deliveries along Gardi Street and Woodlyn Lane. California law generally routes injured workers through workers' compensation, which pays regardless of fault but limits what you can recover from your employer directly. What many people don't realize is that a separate injury claim may be possible against a negligent third party — a subcontractor, equipment manufacturer, or property owner — who isn't your employer. LawProactive doesn't provide legal advice or represent you; we simply connect you with an independent attorney in our network who can review the details of your incident and explain your options, including whether a third-party claim applies alongside your workers' comp benefits, on a contingency basis so there's no upfront cost to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders or scaffolding",
+      "Equipment and machinery accidents",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle-related incidents during work duties",
+      "Injuries from defective tools or products",
+      "Slip-and-fall injuries on job sites"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California treats workers' comp as the usual exclusive remedy against your employer, but a negligent third party — like a subcontractor or equipment maker — can still be held separately liable for your injury."
+      },
+      {
+        "title": "Deadlines Move Fast",
+        "desc": "You generally have 30 days to report an injury to your employer, and any third-party claim carries a 2-year filing deadline, so early legal guidance helps protect your options."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "California law prohibits employers from retaliating against you for reporting a workplace injury or filing a claim, and an attorney can help you understand your protections if that becomes a concern."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site in Bradbury — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer, so that's typically your first claim. However, if a third party — such as a contractor, property owner, or equipment supplier — contributed to your injury, a separate claim against them may also be possible. An independent attorney can review the specifics of your situation to sort out which paths apply."
+      },
+      {
+        "question": "Bradbury is a small city with very few reported crashes — does that affect my claim?",
+        "answer": "Not directly. Workplace injury claims are based on the facts of your specific incident, not on general crash statistics for the area. Bradbury's low collision counts reflect road-traffic data and don't change how workers' comp or third-party injury law applies to your case."
+      },
+      {
+        "question": "What if my employer retaliates after I report an injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law. If you experience reduced hours, demotion, or termination after filing a claim, an independent attorney can advise you on how to respond and protect your rights."
+      }
+    ]
+  }
+}

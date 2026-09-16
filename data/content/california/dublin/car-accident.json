@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "dublin car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dublin Car Accident Help | Free Attorney Connection",
+    "metaDescription": "Injured in a Dublin car accident? Get connected free with an independent attorney. No fee unless you recover. Serving Alameda County."
+  },
+  "hero": {
+    "subtitle": "If a crash on Dublin Boulevard or Tassajara Road left you hurt, we can connect you free with an independent attorney who handles cases like yours in Alameda County."
+  },
+  "about": {
+    "title": "Dublin Car Accident Claims",
+    "longDescription": "Dublin's traffic runs heaviest along Dublin Boulevard, Dougherty Road, Amador Valley Boulevard, and Tassajara Road, and public crash records show 153 injury collisions and 197 injured people in the most recent final year, with Tuesday evenings between 5 and 7 p.m. a common time for reports to come in. Whether you were stopped at a light, merging near I-580, or crossing an intersection when someone else made a mistake, the aftermath can feel disorienting — medical visits, missed work, calls from insurance adjusters. LawProactive isn't a law firm; we're a free service that connects Dublin residents with an independent personal injury attorney who can evaluate what happened and explain your options under California law. There's no cost to get connected, and any attorney you work with typically takes cases on contingency, meaning no fee unless you recover. The sooner you reach out, the more evidence — witness accounts, photos, vehicle data — is likely to still be intact.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head injuries",
+      "Broken bones and fractures",
+      "Back and spinal disc injuries",
+      "Shoulder and knee ligament tears",
+      "Deep cuts and scarring from glass or debris"
+    ],
+    "ctaText": "Tell us what happened — get connected with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "California's Deadline Is Closer Than It Seems",
+        "desc": "You generally have two years from the crash to file suit, but claims against a government entity — like a city road authority — can require notice in as little as six months. Waiting to see how you feel can quietly cost you your case."
+      },
+      {
+        "title": "Comparative Fault Can Work Against You",
+        "desc": "California allows recovery even if you're partly at fault, but your share of blame reduces what you can recover. An early recorded statement to the other driver's insurer can be used to inflate your share, so it's worth getting guidance first."
+      },
+      {
+        "title": "No Cap Means Your Full Story Matters",
+        "desc": "California doesn't cap non-economic damages like pain and suffering, so a thorough accounting of how the crash has affected your daily life matters. Any attorney you connect with works on contingency, so there's no upfront cost to have that story properly documented."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurers often ask questions designed to get you to minimize your injuries or accept blame. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if my crash happened at a Dublin intersection near a city road or signal?",
+        "answer": "If a government entity like the City of Dublin or Alameda County may share responsibility, California often requires a formal claim notice within a shorter window — sometimes six months. This is different from the standard two-year deadline, so it's important to get this evaluated quickly."
+      },
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and we don't charge you to be connected with an independent attorney. If you decide to move forward, attorneys in our network typically work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

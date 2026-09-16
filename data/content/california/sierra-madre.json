@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "sierra-madre city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sierra Madre, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Sierra Madre? Connect free with an independent LA County attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Sierra Madre Boulevard or injured as a pedestrian near a local intersection, we can connect you at no cost with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Sierra Madre, California",
+    "longDescription": "Sierra Madre is a small foothill city, but its streets still see their share of collisions. In the most recent full year of public records, 14 injury collisions were reported here, leaving 17 people hurt. Corridors like Lima Street, Sierra Madre Boulevard, Michillinda Avenue, and E Sierra Madre Boulevard carry the highest volume of reported crashes, and Tuesdays around 11 a.m. to 1 p.m. tend to see more reports than other times. If you were hurt in one of these incidents, sorting out medical bills, insurance calls, and paperwork can feel overwhelming on top of recovering physically. LawProactive is a free service — not a law firm — that connects injured people in Sierra Madre with an independent personal injury attorney who can review what happened. There's no cost to get connected, and attorneys in this network work on contingency, meaning there's no fee unless there's a recovery. You don't have to figure out the legal side alone while you're still healing. Reaching out costs nothing and puts you in touch with someone who can look at your specific situation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring physical therapy"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Talk to Someone Now",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the injury date to file a claim, but claims against a government agency can require notice in as little as six months. Waiting too long can close doors you didn't know existed."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still recover damages, just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "In ordinary injury cases, California doesn't cap non-economic damages like pain and suffering, which matters when an injury affects daily life long after the bills stop coming."
+      },
+      {
+        "title": "Nothing Owed Unless You Win",
+        "desc": "Attorneys in this network work on contingency, so there's no upfront fee, and payment only happens if there's a recovery in your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills piling up while unable to work",
+      "Insurance adjusters calling before you're ready",
+      "Worrying you waited too long to act",
+      "Uncertainty about who's at fault and what that means for you"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent attorney, and it's not a law firm itself. Any attorney you're connected with typically works on contingency, so there's no fee unless there's a recovery."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "For most personal injury cases, California allows two years from the date of the injury to file a lawsuit. If a government entity is involved, the window can be much shorter, sometimes just six months to file a claim, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some responsibility. Your recovery would simply be reduced by the percentage of fault assigned to you."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Sierra Madre?",
+        "answer": "Public records show reported injury collisions concentrated along corridors like Lima Street, Sierra Madre Boulevard, Michillinda Avenue, and E Sierra Madre Boulevard, with more reports on Tuesdays between roughly 11 a.m. and 1 p.m. These are simply patterns in the public data, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In a typical personal injury case in California, there is no cap on non-economic damages such as pain and suffering. That said, every case is different, and an attorney can help you understand what applies to your specific situation."
+      }
+    ]
+  }
+}

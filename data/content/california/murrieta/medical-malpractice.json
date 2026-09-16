@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "murrieta medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Murrieta Medical Malpractice Attorney | LawProactive",
+    "metaDescription": "Hurt by a medical error in Murrieta, CA? LawProactive connects you, free, with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a doctor, nurse, or hospital in Murrieta made a mistake that changed your health, you deserve a clear answer about whether it was malpractice. LawProactive connects you, at no cost, with an independent California attorney who reviews these claims."
+  },
+  "about": {
+    "title": "Murrieta Medical Malpractice Claims",
+    "longDescription": "When you check into a hospital or a clinic in Murrieta, you expect the people caring for you to follow the standards their profession sets. Sometimes they don't, and the result is a missed diagnosis, a surgical mistake, or a medication error that leaves you worse off than when you walked in. Riverside County residents in that spot often don't know where to start, because California malpractice cases run on their own rules under MICRA. The clock is short: generally one year from the date you discovered the harm, and no more than three years from the injury. A 90-day notice has to go to the provider before a lawsuit is filed. And a qualified medical expert almost always has to review the records and confirm that the care fell below the standard, since a poor outcome by itself is not malpractice. LawProactive is a free service, not a law firm. We connect Murrieta residents with an independent attorney who handles these claims on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm We Commonly See in Murrieta Malpractice Claims",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from unsanitary care or delayed treatment"
+    ],
+    "ctaText": "Ask a Murrieta malpractice attorney to review your records, free"
+  },
+  "whyChoose": {
+    "title": "Why Murrieta Residents Reach Out Through LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines move quickly",
+        "desc": "California generally gives you one year from discovering the harm, and never more than three years from the injury, plus a required 90-day notice before suit. Connecting with an attorney early keeps those dates from slipping past."
+      },
+      {
+        "title": "An expert has to weigh in",
+        "desc": "Almost every malpractice claim in California needs a qualified medical expert to say the care fell below the accepted standard. The attorneys in our network know how to line that review up."
+      },
+      {
+        "title": "The non-economic cap changes yearly",
+        "desc": "MICRA limits non-economic damages, and that limit rises each year under current law. An independent attorney can explain which figure applies to your timeline and how it affects your case."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on Clinton Keith Road and the ER later missed a fracture. Is that a car accident case or a malpractice case?",
+        "answer": "It may be both, and they are handled as separate claims with separate deadlines. The crash claim goes against the driver at fault, while the missed fracture would need a medical expert to confirm the ER's care fell below the standard. Murrieta recorded 426 injury collisions in 2025, so this overlap comes up more than people expect. An attorney can sort out which claims are worth pursuing."
+      },
+      {
+        "question": "My surgery in Murrieta had complications. Does that mean malpractice?",
+        "answer": "Not by itself. California law is clear that a bad result is not the same as negligence, because many procedures carry known risks even when done correctly. The question is whether the provider did something a reasonably careful professional would not have done. That usually takes a records review by a qualified expert."
+      },
+      {
+        "question": "What does it cost to get connected to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, not a law firm, and we do not charge you for matching you with an independent attorney. The attorneys in our network take malpractice cases on contingency, meaning there is no fee unless there is a recovery."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "san-gabriel workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Gabriel Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in San Gabriel? Get connected free to an independent attorney who can review your workers' comp and third-party options."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt while working in San Gabriel, the rules around workers' compensation and outside-party claims can get confusing fast. LawProactive can connect you, at no cost, with an independent attorney who handles these cases in the San Gabriel Valley."
+  },
+  "about": {
+    "title": "San Gabriel Workplace Injury Claims",
+    "longDescription": "San Gabriel's mix of retail centers, restaurants, warehouses, and light industrial sites along Valley Boulevard and San Gabriel Boulevard means workplace injuries show up in a lot of different jobs — from delivery drivers navigating Las Tunas Drive to kitchen staff and construction crews. Under California law, workers' compensation is generally the only path against your employer, no matter who was at fault. But that's not always the end of the story: if a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, you may have a separate third-party claim worth exploring. LawProactive doesn't practice law or handle claims directly — we simply connect injured workers with an independent attorney who can look at the facts of your case and explain, in plain terms, what options might be available. There's no cost to get that conversation started, and no obligation once you do.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Falls from ladders, scaffolding, or wet floors",
+      "Forklift and heavy equipment accidents",
+      "Burns from kitchen or industrial equipment",
+      "Vehicle collisions during work-related driving",
+      "Crush or laceration injuries from machinery"
+    ],
+    "ctaText": "Find out if you have a claim — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Workplace Injury",
+    "items": [
+      {
+        "title": "Third-Party Claims Are Separate From Workers' Comp",
+        "desc": "Workers' comp is usually your only remedy against your employer, but a negligent third party like a subcontractor or equipment maker can be a separate source of recovery. An attorney can help sort out whether that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days, and missing that window can complicate your claim. Getting guidance early helps protect your options."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. An independent attorney can help you understand what protections apply if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a warehouse job near Valley Boulevard — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is your primary path against your employer regardless of fault. However, if a subcontractor, property owner, or piece of defective equipment played a role, you may also have a separate third-party claim. An attorney can review the details and explain which paths apply."
+      },
+      {
+        "question": "How long do I have to act after a workplace injury in San Gabriel?",
+        "answer": "You generally need to notify your employer within 30 days of the injury to preserve your workers' comp rights. If a third party is involved, California's personal injury claims typically carry a two-year deadline. Waiting too long can limit your options, so it helps to get information early."
+      },
+      {
+        "question": "Can my employer fire me for reporting an injury?",
+        "answer": "No — California law prohibits retaliation against employees for reporting a workplace injury or pursuing a claim. If you believe you've faced retaliation, an independent attorney can help you understand your rights and next steps."
+      }
+    ]
+  }
+}

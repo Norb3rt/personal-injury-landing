@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "el-monte city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "El Monte, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in El Monte or elsewhere in Los Angeles County? You have 2 years to file. Get connected free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Car crashes, pedestrian collisions, slip-and-falls: if you were hurt in El Monte, LawProactive will connect you free of charge with an independent personal injury attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in El Monte, California",
+    "longDescription": "El Monte sits where the San Gabriel Valley meets the I-10, and roughly 116,000 residents share its streets with commuters passing through every day. Public records for 2025 count 539 injury collisions inside the city, with 753 people hurt and 5 lives lost. The corridors that appear most often in those reports are Peck Road, the I-10 (San Bernardino Freeway), Valley Boulevard, and Lower Azusa Road, and the filings tend to cluster on Fridays between 5 p.m. and 7 p.m., when the week's final commute is under way. Numbers like these describe what happened across the city; they don't tell you what to do next if one of those collisions was yours. That is where LawProactive comes in. We are a free service, not a law firm. Our role is straightforward: listen to what happened, then connect you with an independent personal injury attorney who handles cases in Los Angeles County. There is no charge to be matched, and the attorneys in our network work on contingency, so you owe no attorney fee unless there is a recovery. Whether you were rear-ended on Valley Boulevard, struck while crossing Peck Road, or hurt in a fall at a local business, a conversation about your options costs you nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About in El Monte",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end crashes on surface streets",
+      "Broken bones from pedestrian and bicycle collisions",
+      "Concussions and other head injuries",
+      "Back and spinal disc injuries from freeway impacts",
+      "Knee and hip injuries from falls on commercial property",
+      "Cuts, bruising, and soft-tissue damage that lingers for months"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your El Monte Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window",
+        "desc": "California gives most injured people two years from the date of injury to file a lawsuit. If a city, county, or state agency is involved, a claim may need to be filed within six months, so timing matters more than people expect."
+      },
+      {
+        "title": "Being partly at fault doesn't end your claim",
+        "desc": "California follows pure comparative fault. Your recovery is reduced by your share of responsibility, but it is not wiped out, even if you were more than half to blame."
+      },
+      {
+        "title": "No fixed cap on pain and suffering",
+        "desc": "In an ordinary injury case, California places no statutory cap on non-economic damages such as pain, lost enjoyment of life, and emotional distress. What those losses are worth depends on the facts of your situation."
+      },
+      {
+        "title": "No attorney fee unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. You don't pay an attorney fee out of pocket, and nothing is owed unless your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I can't work right now and the bills keep arriving anyway.",
+      "I'm not sure I can afford a lawyer at all.",
+      "Part of the crash might have been my fault — does that mean I get nothing?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in El Monte?",
+        "answer": "For most personal injury claims in California, the deadline is two years from the date you were hurt. When a government entity is involved — say, a collision with a city vehicle or a fall on public property — you may have as little as six months to file a formal claim first. Because these deadlines are strict, it's wise to speak with an attorney early rather than wait."
+      },
+      {
+        "question": "Where do collisions in El Monte tend to occur, according to public records?",
+        "answer": "Public collision counts for El Monte show the highest volumes along Peck Road, the I-10 (San Bernardino Freeway), Valley Boulevard, and Lower Azusa Road. Reports also tend to peak on Fridays between 5 p.m. and 7 p.m. These are neutral record counts reflecting traffic volume and reporting, not a judgment about any particular street."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney; we are not a law firm and we don't represent you. The attorneys we connect you with work on contingency, meaning no attorney fee is owed unless there is a recovery in your case."
+      },
+      {
+        "question": "What if I was partly responsible for the crash?",
+        "answer": "California uses a pure comparative fault system. If you were found, for example, 30 percent at fault, your recovery would be reduced by 30 percent rather than eliminated. Even someone found mostly at fault can still recover a portion of their damages under this rule."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In ordinary injury cases in California, there is no statutory cap on non-economic damages like pain, suffering, and emotional distress. The amount depends entirely on the specifics of your injury and how it has affected your life. An attorney can help you understand how those losses are typically evaluated."
+      }
+    ]
+  }
+}

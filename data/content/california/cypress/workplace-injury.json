@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "cypress workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Cypress Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Cypress, CA? Get connected free with an independent attorney who handles workers' comp and third-party workplace claims."
+  },
+  "hero": {
+    "subtitle": "Whether you were injured at a warehouse near Valley View Street or on a job site off Ball Road, Cypress workers face real questions about who pays for a workplace injury. LawProactive can connect you at no cost with an independent attorney who sorts out workers' comp from other options."
+  },
+  "about": {
+    "title": "Cypress Workplace Injury Claims",
+    "longDescription": "Cypress sits in a busy stretch of Orange County where warehouses, retail centers, and light industrial sites line corridors like Walker Street and Lincoln Avenue. When someone gets hurt on the job here, the first assumption is usually workers' compensation — and in most cases, that's correct, since California treats it as the exclusive remedy against an employer regardless of fault. But workplace injuries aren't always that simple. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to what happened, a separate claim against that third party may be possible alongside any workers' comp benefits. Sorting out which path applies, and whether more than one applies, is where an attorney's review matters. LawProactive doesn't practice law or handle claims directly — we connect injured Cypress workers with an independent attorney, free of charge, who can look at the details and explain what options actually exist.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referrals For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and overexertion injuries",
+      "Struck-by or caught-in-machinery injuries",
+      "Chemical exposure or respiratory injuries",
+      "Injuries from defective tools or equipment"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free and no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Cypress Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the 30-Day Reporting Window",
+        "desc": "California requires an injured worker to report the incident to their employer within 30 days to preserve workers' comp rights. An attorney can help make sure that step, and any follow-up paperwork, doesn't get missed or mishandled."
+      },
+      {
+        "title": "Spotting a Third-Party Claim",
+        "desc": "Workers' comp is usually the only remedy against an employer, but if a subcontractor, property owner, or equipment maker played a role, a separate injury claim may be available. An independent attorney can review the facts and determine whether that door is open."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against a worker for reporting an injury or filing a claim. If a Cypress worker feels pressured or penalized, an attorney can address that as part of the bigger picture."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "If I already filed a workers' comp claim in Cypress, can I still talk to an attorney about a third-party claim?",
+        "answer": "Yes. Workers' comp and a third-party claim aren't mutually exclusive — they run on different tracks. If someone other than your employer, like a subcontractor or equipment manufacturer, contributed to your injury, a separate claim against them may still be possible. A third-party claim carries its own two-year deadline, so it's worth having it reviewed sooner rather than later."
+      },
+      {
+        "question": "How long do I have to bring a claim against a third party after a workplace injury in Cypress?",
+        "answer": "California generally gives injured workers two years from the date of injury to file a third-party injury claim. This is separate from the workers' comp reporting deadline. Missing that window can close off options, so getting a claim reviewed early is generally a good idea."
+      },
+      {
+        "question": "My employer near Ball Road told me not to file a claim — is that allowed?",
+        "answer": "No. California law prohibits employers from retaliating against workers for reporting an injury or pursuing a workers' comp claim. If that's happening, an independent attorney can explain your rights and next steps at no cost through LawProactive."
+      }
+    ]
+  }
+}

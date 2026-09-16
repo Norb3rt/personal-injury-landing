@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "villa-park medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Villa Park Medical Malpractice Help | LawProactive",
+    "metaDescription": "Villa Park medical malpractice guidance under MICRA. Free connection to an independent attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis error, surgical mistake, or medication mix-up hurt you or a loved one in Villa Park, we can connect you with an independent attorney who understands California's medical malpractice rules.  There's no cost to find out where you stand."
+  },
+  "about": {
+    "title": "Villa Park Medical Malpractice Claims",
+    "longDescription": "Villa Park is a small, quiet Orange County community of under 6,000 residents, but that doesn't mean local families are shielded from the harm a medical error can cause. Whether care was received at a nearby Orange County facility or during a specialist visit outside the city, the legal path for a malpractice claim runs through the same statewide framework: California's MICRA statute. This law sets tight deadlines, requires early notice to the provider, and caps certain damages. That's a lot to track while you're also focused on recovery. LawProactive doesn't practice law or charge for its service; we simply connect Villa Park residents with an independent attorney who can review medical records, consult a qualified expert, and explain honestly whether a claim is worth pursuing. The goal is clarity, not pressure, so you can make an informed decision about your next step.",
+    "commonInjuriesTitle": "Situations We Commonly See",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-op patients"
+    ],
+    "ctaText": "Get connected with an independent attorney today."
+  },
+  "whyChoose": {
+    "title": "Why Villa Park Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "We Understand the MICRA Clock",
+        "desc": "California generally gives you one year from discovering the injury and no more than three years from when it happened, plus a required 90-day pre-suit notice. Missing these windows can end a claim before it starts, so timing matters from day one."
+      },
+      {
+        "title": "Expert Review Isn't Optional, It's Required",
+        "desc": "California law almost always requires a qualified medical expert to support a malpractice claim. The attorneys we connect you with know how to line up that review so your case is built on solid medical footing, not just frustration with a bad outcome."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, meaning you owe nothing upfront and nothing at all unless there's a recovery. That takes the financial pressure off while you decide whether pursuing a claim makes sense."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a bad medical outcome automatically malpractice?",
+        "answer": "No. California law requires proof that a provider deviated from the accepted standard of care and that deviation caused harm. A poor result alone, even a serious one, doesn't establish malpractice without that link."
+      },
+      {
+        "question": "How long do I have to bring a claim after care received near Villa Park?",
+        "answer": "Generally you have one year from when you discovered (or reasonably should have discovered) the injury, and no more than three years from the date it occurred. There's also a 90-day pre-suit notice requirement before filing, so early legal review matters."
+      },
+      {
+        "question": "Are damages in a malpractice case capped?",
+        "answer": "California's MICRA law does cap non-economic damages, though that cap rises annually under current law. Economic damages like medical bills and lost income are typically calculated separately. An attorney can walk through how this applies to your specific situation."
+      }
+    ]
+  }
+}

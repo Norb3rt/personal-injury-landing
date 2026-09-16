@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "redlands slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Redlands Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Redlands? LawProactive connects you, free, with an independent premises liability attorney. Contingency fee only."
+  },
+  "hero": {
+    "subtitle": "A wet floor, a broken step, a dim parking lot off Orange Street: if a property owner in Redlands let a hazard sit and you got hurt, we can connect you with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "Redlands Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You are on the ground in a grocery aisle, a parking structure, or an apartment stairwell somewhere in Redlands, and the first thought is simply getting up. Later, once the wrist is splinted or the hip is imaged, the questions start. Who was supposed to fix that? Did anyone know? Under California premises liability law, those questions matter, because an owner is generally responsible only when they knew, or reasonably should have known, about the hazard and did nothing to correct or warn about it. That is the notice requirement, and it decides many of these claims. Redlands sits in San Bernardino County, with retail and service businesses spread along corridors like Orange Street, Alabama Street, and Lugonia Avenue, and property owners there carry the same duty as anywhere else in the state. LawProactive is not a law firm. We connect you, free, with an independent attorney who handles premises cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Seen in Redlands Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, forearm, and elbow fractures",
+      "Concussions and other head injuries",
+      "Torn knee or ankle ligaments",
+      "Herniated discs and lower back injuries",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Redlands Residents Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Notice is the whole fight, and evidence fades fast",
+        "desc": "California requires proof that the owner knew or should have known about the hazard. An attorney can move quickly to request surveillance footage before it is overwritten and to lock down photos, incident reports, and witness names."
+      },
+      {
+        "title": "Two years, or far less against a public entity",
+        "desc": "Most premises claims in California must be filed within two years of the injury, but a fall on city, county, or school property in Redlands triggers a much shorter government claim window. Knowing which clock applies early avoids a lost claim."
+      },
+      {
+        "title": "Being partly at fault does not end your claim",
+        "desc": "California uses pure comparative fault, so if an insurer argues you were looking at your phone or wearing the wrong shoes, your recovery is reduced by your share, not erased. An attorney can push back on inflated blame."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a lifted sidewalk slab in downtown Redlands. Is that different from falling inside a store?",
+        "answer": "Often, yes. If the sidewalk is maintained by the City of Redlands, San Bernardino County, or another public agency, you generally must file a formal government claim within six months, not the usual two-year period. Ownership of a given stretch of sidewalk is not always obvious, so it is worth getting help sorting that out right away."
+      },
+      {
+        "question": "The store manager said they had no idea the floor was wet. Does that end my case?",
+        "answer": "Not necessarily. Notice can be shown in more than one way, including proof that the spill had been there long enough that a reasonable inspection would have caught it, or that the same problem happened repeatedly. Surveillance video, cleaning logs, and employee statements are often where that proof lives, which is why preserving them early matters."
+      },
+      {
+        "question": "What should I do in the first few days after a fall in Redlands?",
+        "answer": "Get medical care first, even if the pain seems manageable, because fall injuries often worsen over the following days. Photograph the exact spot and whatever caused the fall, keep the shoes you were wearing, and write down names of anyone who saw it. Then ask the property owner in writing to preserve any camera footage, since many systems record over themselves within days or weeks."
+      }
+    ]
+  }
+}

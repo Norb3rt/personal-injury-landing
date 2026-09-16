@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "san-leandro workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Leandro Workplace Injury Attorney | LawProactive",
+    "metaDescription": "Hurt on the job in San Leandro? LawProactive connects Alameda County workers with an independent injury attorney for free. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Injured while working in San Leandro? Workers' compensation may not be your only option, and a free connection to an independent attorney can help you find out what else applies."
+  },
+  "about": {
+    "title": "San Leandro Workplace Injury Claims",
+    "longDescription": "Work injuries in San Leandro don't all happen inside a building. Many people here work behind the wheel, moving between I-880, Route 185, E 14th Street and Washington Avenue during a shift. In 2025, the city logged 304 injury collisions with 405 people hurt and 3 traffic deaths, and reported crashes tended to cluster on Wednesdays between 5 and 7 p.m., the tail end of many workdays. When a delivery driver, technician, or home-care worker is hit on the clock, the situation is layered: workers' compensation covers medical care and part of lost wages no matter who caused it, while a claim against the other driver may be available on top of that. The same layering applies off the road, on loading docks, in warehouses, and on job sites where a subcontractor, property owner, or equipment manufacturer contributed to what happened. LawProactive is a free service, not a law firm. We connect Alameda County workers with an independent attorney who can sort out which paths are open to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries in San Leandro",
+    "commonInjuries": [
+      "Back and shoulder injuries from lifting or overexertion",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and pallet jack accidents",
+      "Crush and amputation injuries from machinery",
+      "Vehicle collisions while driving for work",
+      "Repetitive strain and overuse injuries"
+    ],
+    "ctaText": "Tell us what happened and get connected with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why San Leandro Workers Use LawProactive",
+    "items": [
+      {
+        "title": "We look past workers' comp",
+        "desc": "In California, workers' compensation is usually your only claim against your employer, but a negligent subcontractor, property owner, equipment maker, or another driver can be held responsible separately. The attorney you're matched with can check whether a third-party claim exists."
+      },
+      {
+        "title": "Clear on the 30-day rule",
+        "desc": "You should report a work injury to your employer within 30 days, and it is illegal for them to retaliate against you for doing so. Knowing this early keeps your benefits and your job protected."
+      },
+      {
+        "title": "Deadlines tracked from day one",
+        "desc": "Third-party injury claims in California generally carry a two-year deadline, which runs on a different clock than your workers' comp case. An independent attorney can make sure neither one slips."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on I-880 in a company vehicle during my shift. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation applies regardless of who caused the crash. If the other driver was at fault, you may also have a separate injury claim against them, which is where an attorney becomes useful."
+      },
+      {
+        "question": "Can my San Leandro employer fire me for reporting an injury?",
+        "answer": "No. California law makes it illegal for an employer to retaliate against you for reporting a workplace injury or filing a workers' comp claim. You should still report within 30 days to protect your benefits, and if you experience pushback afterward, that is worth raising with an attorney."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free connection service, not a law firm. The independent attorneys in our network work on contingency, which means there is no fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

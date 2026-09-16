@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "la-quinta city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Quinta, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in La Quinta? Riverside County resource connects you with an attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on Highway 111 or suffered a fall or bike crash elsewhere in town, we can connect you with an independent attorney at no cost. Serving injured residents throughout Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in La Quinta, California",
+    "longDescription": "La Quinta's roads carry a steady mix of local traffic and visitors heading toward the resorts and golf courses, and that mix shows up in the numbers. In the most recent full year on record, the city saw 100 injury collisions, 144 people hurt, and 1 traffic death. Corridors like Washington Street, Highway 111, Rt 111, and Jefferson Street see the highest volume of reported crashes, and Fridays between 2 and 4 p.m. tend to be when incidents cluster. If you were hurt in one of these collisions, or in a fall, dog bite, or other accident somewhere in the city, you may be weighing medical bills, missed work, and a claims process that feels confusing. LawProactive is a free service — not a law firm — that connects injured people in La Quinta with an independent personal injury attorney who can review what happened and explain your options. There's no cost to talk, and any attorney you're matched with works on contingency, meaning no fee unless there's a recovery. You focus on healing; let someone else sort through the paperwork and insurance calls.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from car or motorcycle crashes",
+      "Traumatic brain injuries from falls or vehicle impacts",
+      "Spinal cord damage from high-speed collisions",
+      "Soft tissue injuries from pedestrian or bike accidents",
+      "Cuts, bruises, and lacerations from any type of accident"
+    ],
+    "ctaText": "Get connected with an independent attorney today — it costs nothing to find out where you stand."
+  },
+  "whyChoose": {
+    "title": "Why Getting Legal Help Matters in California",
+    "items": [
+      {
+        "title": "A Two-Year Clock Is Ticking",
+        "desc": "California law generally gives you two years from the date of injury to file a claim, though claims against a government agency can require notice in as little as six months. Missing these windows can end your ability to recover anything, so it helps to understand your timeline early."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover compensation reduced by your share of fault. An attorney can help make sure your percentage of blame is fairly assessed."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Unlike some states, California places no cap on non-economic damages, such as pain and suffering, in standard injury cases. This matters when injuries affect your daily life well beyond medical bills."
+      },
+      {
+        "title": "You Pay Nothing Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost and no fee unless your case results in a settlement or award. That structure is designed to let you pursue a claim without financial risk."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills while you're out of work",
+      "Feeling pressured by insurance adjusters calling before you've healed",
+      "Not knowing if you waited too long or if your claim is still valid",
+      "Wondering if being partly at fault means you have no case at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in La Quinta?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a personal injury lawsuit. If your claim involves a government entity, such as a city vehicle, that window can shrink to as little as six months, so it's wise to act sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some blame. Your total recovery would simply be reduced by your percentage of fault, so being partly responsible doesn't automatically bar your claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in La Quinta?",
+        "answer": "Public crash records show that Washington Street, Highway 111, Rt 111, and Jefferson Street report the highest volume of collisions in the city, with reported incidents tending to peak on Fridays between 2 and 4 p.m. These are simply counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I owe anything upfront to speak with an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency, meaning there's no fee unless your case results in a recovery. You can explore your options without any financial commitment."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "California does not cap non-economic damages, like pain and suffering, in typical personal injury cases. This differs from many other states and can matter significantly if your injuries have affected your quality of life beyond medical costs."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "menifee city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Menifee, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Menifee, Riverside County? You have 2 years to file most claims. Get connected free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Rear-ended on Newport Road, hurt on a Scott Road crosswalk, or injured in a fall at a local business? LawProactive connects Menifee and Riverside County residents with an independent injury attorney at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in Menifee, California",
+    "longDescription": "Menifee grew fast, and its roads carry that growth every day. In 2025, the city's final tally showed 312 injury collisions, 477 people hurt, and 7 lives lost on local streets. Public collision records point to Newport Road, Menifee Road, Murrieta Road, and Scott Road as the corridors with the highest counts, and reports tend to rise on Friday afternoons between 3 and 5 p.m., when commuters are heading home across Riverside County. Behind each number is someone dealing with a sore neck, a totaled car, a missed shift, or a phone call from an adjuster they didn't ask for. That is where LawProactive fits in. We are a free service, not a law firm. We do not give legal advice or handle cases ourselves. What we do is connect people in Menifee with an independent personal injury attorney who takes the time to hear what happened and explain the options. The attorneys in our network work on contingency, meaning there is no fee unless your case produces a recovery. Whether you were rear-ended on Newport Road, knocked off a bike near Scott Road, or slipped in a store off Menifee Road, reaching out costs nothing and puts a real person in your corner.",
+    "commonInjuriesTitle": "Injuries Menifee Residents Commonly Report",
+    "commonInjuries": [
+      "Whiplash and cervical strain from rear-end collisions",
+      "Concussions and other head trauma",
+      "Fractured wrists, ribs, and collarbones",
+      "Lower back and disc injuries",
+      "Road rash and lacerations from motorcycle or bicycle crashes",
+      "Knee and hip injuries from slips and falls"
+    ],
+    "ctaText": "Tell us what happened. We will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Menifee Claim",
+    "items": [
+      {
+        "title": "Two years is the usual window",
+        "desc": "California gives most injury claims a 2-year statute of limitations. If a city vehicle or public agency is involved, the deadline can shrink to as little as 6 months, so timing matters."
+      },
+      {
+        "title": "Being partly at fault does not shut you out",
+        "desc": "Under California's pure comparative fault rule, your recovery is reduced by your share of blame but not eliminated. Even a driver who was 40 percent responsible can still pursue the other 60 percent."
+      },
+      {
+        "title": "No ceiling on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages. Sleepless nights, lost hobbies, and daily pain are all part of the picture, not just medical bills."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. You do not pay hourly fees or a retainer, and if the case does not produce a recovery, you owe them nothing."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say.",
+      "My car is wrecked and I still have to get to work in Temecula.",
+      "The ER bill arrived before I even felt better.",
+      "I think I might have been partly at fault, so is it even worth asking?"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions cluster in Menifee?",
+        "answer": "Public collision records for Menifee show the highest counts along Newport Road, Menifee Road, Murrieta Road, and Scott Road. Reports also tend to peak on Fridays between roughly 3 p.m. and 5 p.m. These are neutral counts drawn from public data and reflect traffic volume, not a judgment about any particular street."
+      },
+      {
+        "question": "How long do I have to file an injury claim in Menifee?",
+        "answer": "For most injury claims in California, the deadline is 2 years from the date of the injury. When a government entity is involved, such as a claim tied to a city or county vehicle, the window can be as short as 6 months. An attorney can confirm which deadline applies to your situation."
+      },
+      {
+        "question": "What if I was partly to blame for the crash?",
+        "answer": "California follows pure comparative fault. Your compensation is reduced by your percentage of responsibility, but you are not barred from recovering. So if you were found 25 percent at fault, you could still pursue the remaining 75 percent from the other party."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people in Menifee with an independent personal injury attorney. We do not represent clients or offer legal advice. The attorney you are matched with handles the case directly."
+      },
+      {
+        "question": "What will it cost me to talk to an attorney?",
+        "answer": "Nothing up front. Our connection service is free, and the attorneys in our network work on contingency, meaning their fee comes out of a recovery if there is one. If the case does not result in a recovery, you do not owe attorney fees."
+      }
+    ]
+  }
+}

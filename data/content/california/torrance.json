@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "torrance city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Torrance, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Torrance or elsewhere in Los Angeles County? You have 2 years to file. Get connected free with an injury attorney — no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on Hawthorne Boulevard, knocked off your bike near PCH, or hurt in a fall at a Torrance business, LawProactive connects you with an independent injury attorney at no cost. We serve Torrance and all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Torrance, California",
+    "longDescription": "Torrance sits at the southern edge of Los Angeles County, and a lot of traffic moves through it. Hawthorne Boulevard carries shoppers and commuters north to south, Crenshaw Boulevard runs parallel to the east, Pacific Coast Highway cuts across the bottom of the city, and the I-405 San Diego Freeway pulls in drivers from across the South Bay. In 2025, the most recent final crash year on record, Torrance logged 329 injury collisions. Those crashes hurt 490 people and took 5 lives. Public records also show reports tend to peak on Friday afternoons between 3 and 5 p.m., when the work week is winding down and the roads fill up. If one of those numbers is now your story, here is what LawProactive does and does not do. We are not a law firm, and no attorney works for us. We are a free service that connects you with an independent personal injury attorney who handles cases in Torrance and the rest of Los Angeles County. There is no charge to reach out, and the attorneys in our network work on contingency, which means no fee unless there is a recovery. You describe what happened, and we help you get in front of someone who can evaluate it.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About From Torrance Residents",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway stop-and-go collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones from falls or bike crashes",
+      "Herniated discs and lower back injuries",
+      "Knee and shoulder damage from pedestrian strikes",
+      "Cuts, burns, and scarring from airbag or glass contact"
+    ],
+    "ctaText": "Tell us what happened. We will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Torrance Claim",
+    "items": [
+      {
+        "title": "The clock runs for two years — usually",
+        "desc": "California gives most injury claims a two-year filing window from the date of the injury. If a city or state entity is involved, that window can shrink to as little as six months, so timing matters more than people expect."
+      },
+      {
+        "title": "Partly at fault? You can still recover",
+        "desc": "California follows pure comparative fault. Your share of blame reduces what you recover, but it does not shut the door on your claim."
+      },
+      {
+        "title": "No cap on pain-and-suffering damages",
+        "desc": "In ordinary injury cases, California places no dollar limit on non-economic damages such as pain, lost sleep, or the toll on your daily life. Those losses count."
+      },
+      {
+        "title": "You pay nothing unless there is a recovery",
+        "desc": "The attorneys in our network work on contingency. Their fee comes out of a recovery, and if there is none, you do not owe attorney fees."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say.",
+      "My car is totaled and I still have to get to work.",
+      "The ER bill arrived before I could even walk normally again.",
+      "I feel like I should have seen it coming, so maybe it's partly my fault."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We link people hurt in Torrance with an independent personal injury attorney, and the attorney — not us — handles your case from there."
+      },
+      {
+        "question": "Where do crashes tend to happen in Torrance?",
+        "answer": "According to public collision records, the corridors with the highest counts in Torrance are Hawthorne Boulevard, the I-405 San Diego Freeway, Crenshaw Boulevard, and Pacific Coast Highway. These are neutral counts that largely track where traffic volume is heaviest, not a judgment about any particular road. Records also show reported crashes tend to peak on Fridays between 3 and 5 p.m."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date of the injury. If your claim involves a government entity — a city vehicle or a public property hazard, for example — the deadline can be as short as six months. Speaking with an attorney early helps you avoid missing either one."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses pure comparative fault, so you are not barred from recovering just because you share some blame. Your recovery is reduced by your percentage of fault. An attorney can help sort out how fault is likely to be assigned."
+      },
+      {
+        "question": "What does it cost to get connected with an attorney?",
+        "answer": "Nothing. Our service is free, and the attorneys in our network work on contingency, meaning no fee unless there is a recovery. You will not receive a bill from LawProactive at any point."
+      }
+    ]
+  }
+}

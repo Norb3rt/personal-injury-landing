@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "downey medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Downey Medical Malpractice Lawyer Match | LawProactive",
+    "metaDescription": "Hurt by a medical error in Downey, CA? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines apply—ask early."
+  },
+  "hero": {
+    "subtitle": "When care in a Downey clinic, hospital, or specialist's office falls below the accepted standard and you are left worse off, an independent attorney can help you understand whether you have a claim. LawProactive makes that first connection at no cost to you."
+  },
+  "about": {
+    "title": "Downey Medical Malpractice Claims",
+    "longDescription": "Downey is home to more than 114,000 people, and a large share of them pass through local emergency rooms, urgent-care centers, and physician offices every year. Many arrive after collisions on Lakewood Boulevard, Firestone Boulevard, Florence Avenue, or Paramount Boulevard; in 2025 alone, Downey recorded 829 injury collisions and 1,234 people injured, according to public records. Most receive competent treatment. Sometimes, though, a diagnosis is missed, a medication is mixed up, or a procedure goes wrong in a way that careful providers would have avoided.\n\nCalifornia handles these cases under a specific framework called MICRA. It sets a short clock, requires a 90-day notice before filing suit, and limits non-economic damages to a cap that increases annually. Nearly every claim also depends on a qualified medical expert who can explain what should have happened. A disappointing result by itself does not amount to malpractice; the question is whether the standard of care was breached.\n\nLawProactive is not a law firm. We connect Downey residents with an independent attorney who reviews the records and explains the options, free of charge to you.",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosage mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to follow up on abnormal test results"
+    ],
+    "ctaText": "Ask a Downey malpractice attorney to review your records"
+  },
+  "whyChoose": {
+    "title": "Why Downey Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "The MICRA Clock Is Short",
+        "desc": "California generally gives one year from when you discovered the harm, and never more than three years from the injury itself. Connecting early leaves room for the mandatory 90-day pre-suit notice."
+      },
+      {
+        "title": "Experts Are Nearly Always Required",
+        "desc": "A qualified medical expert must usually confirm that the care fell below the accepted standard. Attorneys in our network know how to obtain and evaluate that opinion before a case moves forward."
+      },
+      {
+        "title": "Free to You, Contingency-Based",
+        "desc": "LawProactive charges nothing for the connection, and network attorneys work on contingency, meaning no fee unless there is a recovery. You can ask questions without worrying about a bill."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Downey after a crash on Firestone Boulevard and my injury got worse. Is that malpractice?",
+        "answer": "Not necessarily. A worsening condition can happen even with proper care, so the real question is whether the providers did something a careful, similarly trained provider would not have done, or failed to do something they should have. An attorney can request your records and consult a medical expert to sort that out. You may also have a separate claim related to the collision itself."
+      },
+      {
+        "question": "How does California's cap on damages affect my case?",
+        "answer": "MICRA caps non-economic damages such as pain and suffering, and that cap rises each year under current law. Economic losses like medical bills and lost income are handled differently and are not subject to the same cap. An attorney can explain how the figures apply to your specific situation."
+      },
+      {
+        "question": "What happens after LawProactive connects me with an attorney?",
+        "answer": "You speak directly with an independent attorney who reviews what happened and gathers your medical records. If the case has merit, they typically arrange an expert review and prepare the required 90-day notice to the provider. There is no charge for the connection, and the attorney works on contingency."
+      }
+    ]
+  }
+}

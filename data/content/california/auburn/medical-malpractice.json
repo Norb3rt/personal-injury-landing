@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "auburn medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Auburn Medical Malpractice Attorney Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Auburn, CA? Get connected free with an independent Placer County malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or hospital stay in Auburn goes wrong, sorting out what happened and what comes next can feel overwhelming. LawProactive connects you, free of charge, with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Auburn Medical Malpractice Claims",
+    "longDescription": "Auburn residents rely on a mix of local clinics and larger Placer County medical centers, and most of the time that care goes fine. But when a surgeon, physician, hospital, or nursing staff makes an error that falls below the accepted standard of care, the result can be a new injury layered on top of whatever you were already dealing with. California treats these cases differently than a typical injury claim — there's a short notice window, a requirement for qualified medical expert review, and specific rules around damages. That combination trips people up if they wait too long or try to handle it alone. LawProactive doesn't practice law or take a cut of any settlement; we simply connect you with an independent attorney in our network who is set up to evaluate what happened, gather the right medical records, and tell you honestly whether you have a viable claim. There's no cost to start the conversation, and no obligation once you do.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect You About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Auburn Patients Should Know Before Moving Forward",
+    "items": [
+      {
+        "title": "The Clock Starts Sooner Than You Think",
+        "desc": "California generally gives you one year from when you discover the injury, and never more than three years from when it happened. Waiting to see if things improve can quietly close that window."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a malpractice lawsuit can even be filed in California, the law requires a 90-day pre-suit notice to the provider. An attorney familiar with this step can make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Isn't Optional",
+        "desc": "A bad outcome by itself doesn't prove malpractice — California requires a qualified medical expert to confirm the care fell below the accepted standard. Connecting with an attorney who can line up that review early matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery in Auburn — does that automatically mean malpractice?",
+        "answer": "Not necessarily. Under California law, an unfavorable result alone isn't enough; the care provided has to have fallen below what a reasonably careful provider would have done in the same situation. This is usually confirmed through a qualified medical expert's review, which is part of why getting an attorney involved early helps clarify where your case actually stands."
+      },
+      {
+        "question": "How long do I have to bring a claim if something went wrong at a Placer County facility?",
+        "answer": "California generally allows one year from when you discovered, or reasonably should have discovered, the injury, with an outside limit of three years from the date it happened. There's also a required 90-day notice period before a lawsuit can be filed, so the practical deadline to start the process is often earlier than people expect."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes. California law caps non-economic damages, like pain and suffering, in medical malpractice cases, though that cap rises each year under MICRA. Economic damages, such as medical bills and lost income, are handled separately and aren't subject to that same cap."
+      }
+    ]
+  }
+}

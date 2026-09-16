@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "ripon workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ripon Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Ripon, CA? Get connected free to an independent attorney who handles work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt while working in Ripon, San Joaquin County, you likely have questions about workers' comp and whether someone besides your employer bears responsibility. LawProactive connects you free with an independent attorney who can sort out your options."
+  },
+  "about": {
+    "title": "Ripon Workplace Injury Claims",
+    "longDescription": "Ripon's economy runs on agriculture, food processing, distribution, and the small businesses that line W Main Street and the corridors near SR-99. Workers in these fields face real risks — forklifts, loading docks, machinery, and delivery routes along N Jack Tone Road and State Route 99 all create opportunities for injury. Under California law, workers' compensation is generally the exclusive path against your own employer no matter who was at fault, but that's not always the full story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate third-party claim worth pursuing alongside your workers' comp benefits. LawProactive doesn't practice law — we're a free service that connects injured Ripon workers with an independent attorney who can look at the full picture, explain your reporting deadlines, and help you understand whether a third-party claim applies to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Back and spine injuries from lifting or falls",
+      "Crush injuries from machinery or forklifts",
+      "Repetitive strain injuries from warehouse work",
+      "Burns or chemical exposure in processing facilities",
+      "Fractures from ladder or loading dock falls",
+      "Injuries from work-related vehicle collisions on SR-99 or local roads"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Ripon Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the 30-Day Reporting Window",
+        "desc": "California requires you to notify your employer of a workplace injury within 30 days to preserve your workers' comp rights. An attorney can help make sure that notice is documented properly."
+      },
+      {
+        "title": "Spotting Third-Party Liability",
+        "desc": "When workers' comp is the exclusive remedy against your employer, a separate claim against a negligent third party — like a subcontractor, property owner, or equipment maker — may still be available and carries its own 2-year deadline."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Retaliating against an employee for reporting a workplace injury is illegal under California law. An independent attorney can advise you on your rights if you feel pressured after filing a claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work near SR-99 or N Jack Tone Road and got hurt in a work vehicle collision — is that different from a regular workplace injury?",
+        "answer": "It can be. If your injury happened while driving or riding for work, workers' comp usually still applies against your employer, but the other driver involved in the collision may be a separate, negligent third party. That third-party claim runs on its own 2-year deadline, separate from your workers' comp process. An independent attorney can look at the collision details and sort out which paths apply."
+      },
+      {
+        "question": "My employer says I should just accept workers' comp and move on — is that all I'm entitled to?",
+        "answer": "Workers' compensation is usually the exclusive remedy against your employer, but that doesn't automatically rule out other claims. If a subcontractor, property owner, or a piece of defective equipment played a role in your injury, a separate third-party claim might be available. It's worth having an independent attorney review the specifics before you assume workers' comp is your only option."
+      },
+      {
+        "question": "What if I'm afraid my employer will retaliate if I report my injury?",
+        "answer": "Retaliation against an employee for reporting a workplace injury is illegal in California. If you're worried about your job security, an independent attorney can advise you on documenting your report properly and what steps to take if you experience pushback afterward."
+      }
+    ]
+  }
+}

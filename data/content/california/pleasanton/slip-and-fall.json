@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "pleasanton slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pleasanton Slip & Fall Attorney | Premises Liability",
+    "metaDescription": "Fell at a Pleasanton store, complex, or rental? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Hurt in a fall on someone else's property in Pleasanton? We connect you, at no cost, with an independent premises liability attorney who can help you document the hazard before the evidence disappears."
+  },
+  "about": {
+    "title": "Pleasanton Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall can happen anywhere in Pleasanton: a wet grocery aisle, a cracked walkway outside an office park, a poorly lit apartment stairwell, an unmarked step at a restaurant. Unlike road collisions, which Alameda County tracks in public records, falls on private property rarely show up in any count. That leaves the injured person carrying the burden of proof, and California law sets that burden out plainly. You generally have to show the owner or operator knew about the hazard, or reasonably should have known, and failed to fix it or warn you. Evidence matters from the first hour. Photos of the spill, the names of anyone who saw it, and a prompt written request that the property preserve its surveillance footage can shape the entire claim, because many systems overwrite video within days. Most claims carry a two-year filing deadline, but if the property belongs to a public agency, the window is much shorter. LawProactive is a free service, not a law firm. We connect Pleasanton residents with an independent premises liability attorney who works on contingency.",
+    "commonInjuriesTitle": "Injuries We Often See After Falls in Pleasanton",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, forearm, and elbow fractures",
+      "Concussions and other head trauma",
+      "Herniated discs and lower back injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney at no charge."
+  },
+  "whyChoose": {
+    "title": "Why Pleasanton Residents Start With LawProactive",
+    "items": [
+      {
+        "title": "Proving Notice Takes Early Legwork",
+        "desc": "California asks you to show the owner knew or should have known about the hazard. An attorney can seek inspection logs, prior complaints, and maintenance records while they still exist."
+      },
+      {
+        "title": "Video Is Overwritten Fast",
+        "desc": "Stores, apartment buildings, and parking structures often keep footage for only a short time. A preservation letter sent promptly can keep the recording of your fall from being erased."
+      },
+      {
+        "title": "Partial Blame Doesn't End Your Claim",
+        "desc": "Under pure comparative fault, being partly responsible reduces your recovery instead of eliminating it. Property owners frequently argue you should have seen the hazard, and an attorney can push back on that."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Pleasanton. Does the city or the property owner answer for it?",
+        "answer": "It depends on who controlled that stretch of pavement, and sometimes both a public agency and an adjacent owner share responsibility. If a city, county, or other public entity is involved, you face a claim deadline far shorter than the usual two years. That's one reason to get the location photographed and reviewed by an attorney quickly."
+      },
+      {
+        "question": "The store manager says the spill had only been there a minute. Does that sink my case?",
+        "answer": "Not by itself. The question is whether the store knew or should have known about the hazard, and that turns on evidence like how often staff inspected the aisle, whether there were earlier complaints, and what the surveillance video shows. Managers' statements are one piece of the picture, not the final word."
+      },
+      {
+        "question": "What should I do in the first few days after a fall?",
+        "answer": "Get medical care and keep the records. Photograph the hazard, your shoes, and the surrounding area, and write down the names of any witnesses or employees. Then ask, in writing, that the property preserve its camera footage. An attorney connected through LawProactive can send that request on your behalf."
+      }
+    ]
+  }
+}

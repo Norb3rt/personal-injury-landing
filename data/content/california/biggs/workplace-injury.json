@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "biggs workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Biggs Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Biggs, CA? Get connected free with an independent attorney who handles workers' comp and third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Biggs, from a farm operation off SR-99 to a warehouse near 5th Street, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims at no cost to you."
+  },
+  "about": {
+    "title": "Biggs Workplace Injury Claims",
+    "longDescription": "Biggs is a small Butte County community, but workplace injuries still happen here — on agricultural sites, along SR-99 delivery routes, or inside the small businesses that line 5th Street and E Street. When someone gets hurt on the job, California law usually routes the claim through workers' compensation, regardless of who was at fault. But that's not always the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate third-party claim may be possible alongside the workers' comp process. Because Biggs is a tight-knit town with a small workforce, employees sometimes worry about how filing a claim will be perceived. LawProactive exists to remove that friction: we connect injured workers with an independent attorney, free of charge, so they can understand their options — comp benefits, third-party claims, or both — without guessing alone. There's no fee unless the attorney recovers something for you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Machinery and equipment-related injuries",
+      "Repetitive strain and overexertion injuries",
+      "Vehicle collisions during work-related driving",
+      "Chemical or agricultural exposure injuries",
+      "Struck-by or caught-in-between equipment incidents"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Injured Workers in Biggs Turn to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Automatic",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but if a subcontractor, property owner, or equipment maker contributed to your injury, a separate claim may apply. An attorney can help sort out whether that path exists in your case."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires injured workers to notify their employer within 30 days of a workplace injury. Missing that window can complicate a claim, so getting guidance early matters."
+      },
+      {
+        "title": "Retaliation Protections Exist",
+        "desc": "It's illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. If you're worried about that in a small town like Biggs, an independent attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work on a farm outside Biggs — does workers' comp still apply?",
+        "answer": "Yes, agricultural workers in California are generally covered by workers' compensation just like other employees. If equipment, a contractor, or another company's negligence played a role, there may also be a third-party claim worth exploring. An independent attorney can look at the specifics of your situation."
+      },
+      {
+        "question": "How long do I have to report my injury to my employer?",
+        "answer": "California law generally requires you to notify your employer within 30 days of the injury. Waiting longer can make it harder to pursue benefits, so it's best to report as soon as you're able. If you've already missed that window, it's still worth asking an attorney whether options remain."
+      },
+      {
+        "question": "My employer says I can't sue because of workers' comp — is that true?",
+        "answer": "For claims against your employer, workers' comp is usually the exclusive remedy, meaning you generally can't sue them separately even if they were careless. However, if someone other than your employer — like a subcontractor or equipment manufacturer — contributed to your injury, you may be able to bring a separate third-party claim. An independent attorney can help determine if that applies to you."
+      }
+    ]
+  }
+}

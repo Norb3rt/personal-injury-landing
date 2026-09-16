@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "lompoc city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lompoc, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Lompoc? Free service connects you with an independent Santa Barbara County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car wreck on Rt 1 or a fall somewhere around town, we'll connect you with an independent attorney serving Santa Barbara County — free, with no obligation."
+  },
+  "about": {
+    "title": "Personal Injury Help in Lompoc, California",
+    "longDescription": "Lompoc sits along Rt 1 and Rt 246, with H Street and O Street carrying much of the city's day-to-day traffic. Public records show 90 injury collisions in the most recent final crash year, leaving 111 people hurt and, tragically, 1 traffic death. Those numbers reflect what many Lompoc residents already sense: getting around town, whether commuting through Vandenberg-area routes or running errands downtown, comes with real risk. If you or someone you love has been injured — in a car crash, a fall, or another kind of accident — you probably have more questions than answers right now. That's where we come in. LawProactive is a free service that connects injured people in Lompoc with an independent personal injury attorney. We are not a law firm, and we don't decide your case or offer legal advice ourselves. We simply help you get in touch with someone who can look at what happened and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless they recover something for you. There's no cost and no pressure to reach out and find out where you stand.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord damage",
+      "Cuts, bruises, and soft-tissue injuries",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Find out if you have a case — it costs nothing to ask."
+  },
+  "whyChoose": {
+    "title": "Why Lompoc Residents Reach Out to Us",
+    "items": [
+      {
+        "title": "You Have a Limited Window",
+        "desc": "California law generally gives you two years from the date of injury to file a claim, though claims against a government agency can require action in as little as six months. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you share some responsibility for what happened, you can still recover damages — just reduced by your percentage of fault."
+      },
+      {
+        "title": "No Cap on What You Can Be Owed for Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and loss of enjoyment of life, unlike some other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you recover money. There's no retainer and no bill if there's no win."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're too hurt to work",
+      "Not knowing if the insurance company's offer is actually fair",
+      "Fear that admitting any fault means giving up your right to compensation",
+      "Feeling overwhelmed and unsure where to even start"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Lompoc?",
+        "answer": "Under California law, you generally have two years from the date of the injury to file a lawsuit. If your claim involves a government entity, such as a city or county road department, that window can shrink to as little as six months, so it's worth acting quickly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you were partly responsible. Your total recovery is simply reduced by your share of fault, so it's rarely a reason to avoid pursuing a claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Lompoc?",
+        "answer": "Public collision records show higher volume counts along corridors like Rt 1, H Street, Rt 246, and O Street, with reported crashes tending to peak on Fridays between 5 and 7 p.m. These are neutral traffic counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I owe money if I don't win my case?",
+        "answer": "No. Attorneys in our network work on contingency, which means they only get paid if you receive a settlement or award. If there's no recovery, there's no attorney fee."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't represent you directly or give legal advice; we simply help you find someone qualified to review your situation."
+      }
+    ]
+  }
+}

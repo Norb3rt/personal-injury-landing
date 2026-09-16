@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "carpinteria medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Carpinteria Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Carpinteria? Get connected free with an independent attorney who handles California malpractice claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong in Carpinteria, the aftermath can be confusing and isolating. LawProactive connects you at no cost with an independent attorney familiar with California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Carpinteria Medical Malpractice Claims",
+    "longDescription": "Carpinteria is a small coastal community, and many residents rely on a limited set of nearby clinics, urgent care centers, and Santa Barbara County hospitals for treatment. When something goes wrong during that care — a missed diagnosis, a surgical mistake, a medication mix-up — patients often don't know where to turn, especially in a tight-knit town where healthcare options feel personal. LawProactive doesn't practice law; we connect people harmed by medical errors with an independent attorney who can look at the specifics of what happened. California malpractice cases carry strict rules, including short filing windows and a required pre-suit notice period, so timing matters. A bad medical outcome isn't automatically malpractice — an attorney can help sort out whether the care fell below an acceptable standard. Reaching out early, while records and memories are fresh, gives your case the best foundation, and there's no cost to start that conversation.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor post-surgical recovery"
+    ],
+    "ctaText": "Talk to an independent attorney about your care — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Makes Malpractice Claims Different in California",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "California generally gives you one year from when you discover the injury, and never more than three years from the date it happened, to bring a claim. On top of that, a 90-day pre-suit notice must go to the provider before a lawsuit is filed."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But Rising",
+        "desc": "State law places a cap on non-economic damages like pain and suffering, though that cap increases annually under current law. An attorney can explain how this affects the value discussion in your specific case."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California nearly always requires a qualified medical expert to establish that care fell below the accepted standard. This is one reason an early, honest case review matters before deadlines close in."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery — does that mean it was malpractice?",
+        "answer": "Not necessarily. Medicine carries inherent risks, and a poor result alone doesn't prove negligence occurred. An independent attorney can review your records and, if needed, involve a medical expert to determine whether the care you received fell below the accepted standard."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from when it occurred. There's also a required 90-day notice period before a lawsuit can be filed, so it's wise not to wait to ask questions."
+      },
+      {
+        "question": "I live in Carpinteria but was treated at a hospital outside the city — does that change anything?",
+        "answer": "Many Carpinteria residents receive care at facilities in neighboring parts of Santa Barbara County, and that's fine — California's malpractice rules apply based on where you received treatment, not just where you live. An attorney can sort out the right venue and notice requirements for your situation."
+      },
+      {
+        "question": "Is there a cost to speak with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free connection service, and attorneys in the network typically work on contingency, meaning there's no fee unless you recover compensation. There's no obligation to move forward after your initial conversation."
+      }
+    ]
+  }
+}

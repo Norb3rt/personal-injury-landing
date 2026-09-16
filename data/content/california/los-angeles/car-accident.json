@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "car-accident",
+    "note": "los-angeles car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Angeles Car Accident Attorney Match | LawProactive",
+    "metaDescription": "Hurt in a Los Angeles car crash? LawProactive connects you free with an independent injury attorney on contingency. No fee unless there's a recovery."
+  },
+  "hero": {
+    "subtitle": "A crash on the 101, the 5, or the 110 can upend an ordinary Los Angeles week in seconds. LawProactive connects you, at no cost, with an independent car accident attorney who handles claims in Los Angeles County."
+  },
+  "about": {
+    "title": "Los Angeles Car Accident Claims",
+    "longDescription": "Los Angeles moves on its freeways, and that is where much of the damage happens. In 2025, the city recorded 12,125 injury collisions, with 17,113 people hurt and 330 lives lost. Public collision counts run highest along US-101 on the Ventura Freeway stretch, I-5 on the Golden State, and the I-110 Harbor Freeway, and reports tend to cluster on Friday evenings between 5 and 7 p.m., when the week's commute empties out all at once. If one of those crashes was yours, the paperwork can feel heavier than the injury itself. Insurers call quickly. Repair estimates arrive before the pain has settled. LawProactive exists to take one task off that list: connecting you, free of charge, with an independent personal injury attorney who handles Los Angeles County car accident claims. You describe what happened, we make the introduction, and the attorney works on contingency, meaning no fee unless there is a recovery. Nobody will pressure you to sign anything, and the conversation costs nothing.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Los Angeles Car Crashes",
+    "commonInjuries": [
+      "Whiplash and cervical strain",
+      "Concussion and other traumatic brain injuries",
+      "Fractured ribs, wrists, and collarbones",
+      "Herniated or bulging spinal discs",
+      "Knee and shoulder ligament tears",
+      "Airbag and seatbelt bruising to the chest and abdomen"
+    ],
+    "ctaText": "Tell us about your crash and we'll connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Los Angeles Drivers Use LawProactive",
+    "items": [
+      {
+        "title": "The clock is shorter than most people expect",
+        "desc": "California gives you two years to file a car accident lawsuit, but if a city bus, county truck, or other public vehicle was involved, a claim may need to be filed within six months. Getting connected early keeps those options open."
+      },
+      {
+        "title": "Partial blame doesn't end your claim",
+        "desc": "California applies pure comparative fault, so even a driver found partly responsible for a freeway pileup can still recover, reduced by their share. An attorney can push back when an insurer tries to inflate your percentage."
+      },
+      {
+        "title": "No fee unless there's a recovery, and no cap on pain and suffering",
+        "desc": "Attorneys in our network work on contingency, and California places no cap on non-economic damages in ordinary car accident cases. That means your out-of-pocket risk stays at zero while your full losses stay on the table."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "The other driver's insurer wants a recorded statement. Should I give one?",
+        "answer": "You are not obligated to give the other side's insurer a recorded statement, and it is generally wiser not to before speaking with an attorney. Adjusters are trained to ask questions that can be used to shift blame under California's comparative fault rules. Politely decline, take the adjuster's name and claim number, and let an attorney handle further contact."
+      },
+      {
+        "question": "I was hit by a Metro bus on the Harbor Freeway. Is my deadline different?",
+        "answer": "Yes, and this catches many Los Angeles residents off guard. Claims against government entities such as LA Metro, the City, or the County usually require a formal claim within six months of the crash, far shorter than the standard two-year statute of limitations. Because the 101, 5, and 110 all see heavy transit and public vehicle traffic, it's worth confirming who owned the other vehicle right away."
+      },
+      {
+        "question": "What should I save from the crash scene?",
+        "answer": "Keep everything: photos of the vehicles and roadway, the police report number, dashcam footage, medical records, and the names of any witnesses. Do not repair or dispose of your car until the damage has been documented. Write down your own account of the collision while it's fresh, including the time and weather, since these details fade faster than most people realize."
+      }
+    ]
+  }
+}

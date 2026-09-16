@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "la-mirada medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "La Mirada Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in La Mirada? Get connected free with an independent attorney who handles California malpractice claims."
+  },
+  "hero": {
+    "subtitle": "When treatment at a La Mirada clinic or hospital leaves you worse off than before, understanding your options matters. We connect La Mirada residents with independent attorneys familiar with California's medical malpractice rules."
+  },
+  "about": {
+    "title": "La Mirada Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases in La Mirada often begin with confusion — a diagnosis missed, a surgery gone wrong, or a medication given at the wrong dose. Because La Mirada sits within Los Angeles County, residents often receive care across several hospital systems and outpatient clinics along corridors like Imperial Highway and Rosecrans Avenue, which can make it harder to track down full medical records when something goes wrong. California law sets specific rules for these claims, including strict notice requirements and deadlines that differ from a typical injury case. A poor result doesn't automatically mean a provider was negligent — proving malpractice usually requires a qualified medical expert to explain what should have happened. LawProactive doesn't practice law or evaluate your medical records ourselves. Instead, we help La Mirada residents connect, free of charge, with an independent attorney who can review the details and explain what steps, if any, make sense next.",
+    "commonInjuriesTitle": "Common Types of Medical Malpractice We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor post-op recovery"
+    ],
+    "ctaText": "Find out where you stand — connect with an independent attorney today."
+  },
+  "whyChoose": {
+    "title": "What Matters in a California Medical Malpractice Case",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally allows one year from when you discover the harm, and no more than three years from the injury itself. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before filing a lawsuit against a healthcare provider, California law typically requires sending a 90-day pre-suit notice. An attorney can help make sure this step is handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a bad outcome alone isn't proof of negligence, a qualified medical expert almost always has to weigh in on whether the standard of care was met."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery near La Mirada Boulevard — is that automatically malpractice?",
+        "answer": "Not necessarily. California law requires showing that a provider's care fell below the accepted medical standard, not just that the result was disappointing. An attorney can help determine whether an expert review supports a claim."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from when it happened. There's also often a required 90-day notice before filing suit, so timing matters early on."
+      },
+      {
+        "question": "Is there a limit on what I can recover?",
+        "answer": "California law caps non-economic damages in medical malpractice cases, though that cap adjusts upward each year under current rules. Economic losses like medical bills and lost income are handled separately. An independent attorney can walk through how this applies to your situation."
+      }
+    ]
+  }
+}

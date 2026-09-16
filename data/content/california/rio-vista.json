@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "rio-vista city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rio Vista, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Rio Vista, Solano County? Get a free connection to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash or another accident on Rio Vista roads, we can connect you free of charge with an independent attorney serving Solano County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Rio Vista, California",
+    "longDescription": "Rio Vista is a small Solano County town where daily life runs along a handful of key roads — Rt 12, River Road, and Main Street among them. Public records show the most recent finalized crash year logged zero injury collisions and zero traffic deaths, a reflection of how quiet the roadways here can be. Still, when a crash does happen, the aftermath can be disorienting: medical visits, insurance calls, missed work, and questions about what comes next. LawProactive exists to make that first step easier. We are a free connection service — not a law firm — that helps injured people in Rio Vista get in touch with an independent personal injury attorney who can review their situation. There's no cost to reach out, and attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Whether the injury happened on Route 12, along River Road, near Main Street, or somewhere else in town, getting informed early can matter. Reaching out costs nothing and puts you in touch with someone who can explain your options under California law.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and concussion injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries requiring physical therapy"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Rio Vista Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have Limited Time to Act",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity is involved. Connecting with an attorney early helps make sure that deadline isn't missed."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Disqualify You",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover compensation — it's simply reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering, which can matter a great deal depending on the nature of your injuries."
+      },
+      {
+        "title": "No Fee Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award — so there's no upfront cost to get advice."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Feeling pressured by insurance adjusters to settle quickly",
+      "Not knowing if you can still recover damages if you were partly at fault",
+      "Fearing you've missed a filing deadline without realizing it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Rio Vista?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If a government entity is involved — such as a city road crew or public agency — that window can shrink to as little as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some responsibility. Your recovery would simply be reduced by the percentage of fault assigned to you."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Rio Vista?",
+        "answer": "Public-record collision counts show higher volumes along corridors like Rt 12, River Road, and Main Street, with reports tending to peak on Fridays between 3 and 5 p.m. These are simply reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply help connect injured people with an independent attorney who can evaluate their case."
+      },
+      {
+        "question": "How much will an attorney charge if I have a case?",
+        "answer": "Attorneys in our network typically work on contingency, meaning they only collect a fee if you receive a settlement or award. There's no upfront cost to speak with someone about your situation."
+      }
+    ]
+  }
+}

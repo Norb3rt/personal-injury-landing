@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "mountain-view city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Mountain View, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Mountain View? LawProactive connects Santa Clara County residents with an injury attorney for free. 2 years to file; no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "From a rear-end collision on El Camino Real to a slip on a wet store floor, LawProactive connects injured people in Mountain View and across Santa Clara County with an independent personal injury attorney. The connection is free, and there is no fee unless there is a recovery."
+  },
+  "about": {
+    "title": "Personal Injury Help in Mountain View, California",
+    "longDescription": "Mountain View is bracketed by US-101 and SR-85, with El Camino Real and Shoreline Boulevard carrying much of the everyday traffic in between. That geometry shows up in the public record. In 2025, the most recent year with final figures, the city logged 422 injury collisions. Those crashes left 565 people hurt and 2 people dead. The corridors with the highest collision counts were US-101, El Camino Real, SR-85 and Shoreline Boulevard, and reported crashes tended to peak on Thursdays between 6 p.m. and 8 p.m. Statistics describe traffic, though, not the person who now has a neck brace, a totaled car and an adjuster calling before breakfast. If that is you, it helps to know how this works. LawProactive is a free service. We are not a law firm, we do not give legal advice, and we do not handle claims ourselves. What we do is connect Mountain View residents with an independent personal injury attorney who can review what happened, whether it was near the Computer History Museum on Shoreline or on a quiet residential street. Attorneys in our network take cases on contingency, meaning no fee unless there is a recovery. Reaching out costs nothing, and you decide what happens next.",
+    "commonInjuriesTitle": "Injuries People in Mountain View Ask About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end crashes",
+      "Concussions and other head injuries",
+      "Broken bones from bicycle and pedestrian collisions",
+      "Back and spinal injuries",
+      "Soft-tissue injuries from falls on someone else's property",
+      "Dog bites and animal attacks"
+    ],
+    "ctaText": "Talk through what happened, for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Mountain View Claim",
+    "items": [
+      {
+        "title": "The clock is usually two years",
+        "desc": "California gives most injury claims a two-year statute of limitations, but the window can be as short as six months when a city, county or state agency is involved. Sorting out which deadline applies early avoids an unpleasant surprise later."
+      },
+      {
+        "title": "Partial fault does not close the door",
+        "desc": "Under California's pure comparative fault rule, being partly to blame reduces what you can recover rather than wiping it out entirely. An attorney can help make sure your share of fault is assessed fairly."
+      },
+      {
+        "title": "Pain and suffering is not capped",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, lost sleep and the things you can no longer do. Those losses count, and they can be part of a claim."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency, so you do not pay hourly rates or up-front retainers. Their fee comes out of a recovery, and only if there is one."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say",
+      "My car is in the shop and I'm missing shifts I can't afford to miss",
+      "I can't tell if these headaches are normal or something serious",
+      "I've never hired a lawyer and I'm worried about the cost"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do crashes tend to happen in Mountain View?",
+        "answer": "Public collision records for Mountain View show the highest counts along US-101, El Camino Real, SR-85 and Shoreline Boulevard. These are simply the corridors with the most reported collisions, which tracks with how much traffic they carry. The data also shows reported crashes peaking on Thursdays between 6 p.m. and 8 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney. We do not provide legal advice or represent anyone; the attorney you are connected with handles your case directly."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "Most personal injury claims in California must be filed within two years of the injury. If a government entity is involved, such as a city vehicle or a public roadway defect, the deadline can be as short as six months. Because the rules differ, it is worth confirming your specific deadline as soon as you can."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows pure comparative fault. That means your recovery is reduced by your percentage of fault, but you are not barred from recovering just because you share some blame. Even a driver found mostly responsible may still have a claim for the remainder."
+      },
+      {
+        "question": "What does it cost to be connected with an attorney?",
+        "answer": "Nothing. LawProactive does not charge for the connection, and attorneys in our network work on contingency. You pay no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

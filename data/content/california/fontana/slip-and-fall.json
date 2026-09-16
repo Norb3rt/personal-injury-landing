@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "fontana slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fontana Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in Fontana? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall in a Fontana store, parking lot, or apartment complex can leave you with real injuries and unanswered questions. LawProactive connects you, at no cost, with an independent attorney who handles San Bernardino County premises liability claims."
+  },
+  "about": {
+    "title": "Fontana Slip & Fall and Premises Liability Claims",
+    "longDescription": "Fontana is a city of more than 207,000 people, and much of daily life happens on property someone else is responsible for: the shopping centers lining Sierra Avenue and Foothill Boulevard, grocery stores near Citrus Avenue, apartment courtyards, restaurants, and the parking lots that serve all of them. When a spill sits unattended, a walkway crumbles, or a stairwell light burns out, the person who gets hurt is rarely the one who could have prevented it. California premises liability law asks a specific question: did the owner or operator know, or should they reasonably have known, about the hazard and still fail to fix it or warn about it? That element, called notice, is where most San Bernardino County fall cases are won or lost. Photos taken the same day, names of witnesses, and a prompt request that surveillance footage be preserved all matter a great deal. LawProactive is not a law firm. We simply connect Fontana residents with an independent attorney who reviews the facts and, if there is a case, handles it on contingency.",
+    "commonInjuriesTitle": "Injuries Commonly Reported After Falls in Fontana",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and shoulder injuries from bracing a fall",
+      "Concussions and other head trauma",
+      "Knee ligament and meniscus tears",
+      "Lower back and tailbone injuries",
+      "Cuts, deep bruising, and soft-tissue sprains"
+    ],
+    "ctaText": "Talk through what happened, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Fontana Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice Is the Heart of the Case",
+        "desc": "An attorney in our network knows that a Fontana fall claim turns on proving the property owner knew or should have known about the hazard. They focus early on inspection logs, cleaning schedules, and prior complaints that show how long the condition existed."
+      },
+      {
+        "title": "Video Disappears Quickly",
+        "desc": "Most retail and apartment surveillance systems overwrite footage within days or weeks. Getting a preservation demand out fast, and gathering your own photos of the hazard, can make the difference between a documented claim and a disputed one."
+      },
+      {
+        "title": "Deadlines and Shared Fault Are Manageable",
+        "desc": "California generally allows two years to file a premises liability suit, but claims against a public entity such as the city or county run on a much shorter clock. Under pure comparative fault, being partly to blame reduces a recovery rather than eliminating it, so a partial-fault argument is not the end of the road."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped in a store parking lot off Sierra Avenue in Fontana. Who is actually responsible?",
+        "answer": "It depends on who controlled the area where you fell. In many Fontana shopping centers the individual tenant handles the space inside its doors while a property management company or landlord maintains the lot, walkways, and lighting. An attorney can pull the lease terms and maintenance contracts to identify the right party, and sometimes more than one."
+      },
+      {
+        "question": "I tripped on a broken sidewalk in Fontana. Is the deadline different because the city owns it?",
+        "answer": "Yes, and it matters. While most California premises claims carry a two-year filing deadline, a claim against a public entity like the City of Fontana or San Bernardino County generally must be presented through a government claim within six months of the injury. Missing that step can end the case before it starts, so acting quickly is important."
+      },
+      {
+        "question": "The store says I wasn't watching where I was going. Does that end my claim?",
+        "answer": "Not under California law. The state follows pure comparative fault, meaning any share of blame assigned to you reduces your recovery by that percentage rather than barring it. Whether you were distracted is a factual dispute, and evidence such as surveillance video, lighting conditions, and the size or visibility of the hazard all shape how fault is divided."
+      }
+    ]
+  }
+}

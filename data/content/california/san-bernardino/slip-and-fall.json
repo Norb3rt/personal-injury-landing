@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "san-bernardino slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Bernardino Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a slip and fall in San Bernardino? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Fell on someone else's property in San Bernardino? We connect you, at no cost, with an independent premises liability attorney who knows how notice, video, and deadlines work in San Bernardino County."
+  },
+  "about": {
+    "title": "San Bernardino Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You're on the ground in a grocery aisle off E Highland Avenue, or on a cracked walkway outside an apartment complex near W Baseline Street, and the first thought is simply getting up. In San Bernardino, though, the property owner's responsibility began well before you arrived. California premises liability asks a specific question: did the owner know about the hazard, or should they have known, and did they fail to fix it or warn you? That \"notice\" element is where most of these claims are decided. Wet floors without cones, broken stair treads, dim parking-lot lighting, a loose mat at an entrance — each requires proof of what the owner knew and when. LawProactive is not a law firm. We are a free service that connects San Bernardino residents with an independent attorney who handles premises cases across San Bernardino County. That attorney works on contingency, so there is no fee unless your claim recovers money.",
+    "commonInjuriesTitle": "Injuries Common in San Bernardino Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvis fractures",
+      "Wrist, elbow, and shoulder breaks from catching a fall",
+      "Head injuries and concussions",
+      "Knee ligament tears",
+      "Lower back and tailbone injuries",
+      "Cuts and deep bruising requiring treatment"
+    ],
+    "ctaText": "Ask a San Bernardino premises attorney about your fall — free."
+  },
+  "whyChoose": {
+    "title": "Why San Bernardino Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice Is the Whole Case",
+        "desc": "An owner is generally liable only if they knew or should have known about the hazard and did nothing. The attorney we connect you with focuses early on inspection logs, prior complaints, and how long the condition existed."
+      },
+      {
+        "title": "Video Disappears Fast",
+        "desc": "Stores and apartment complexes along San Bernardino corridors often overwrite surveillance footage within days. A prompt preservation request, along with your own photos of the hazard, can keep the proof from vanishing."
+      },
+      {
+        "title": "Deadlines Differ by Owner",
+        "desc": "California gives you two years for most premises claims, but a fall on city, county, or other public property triggers a much shorter government claim window. Sorting out who owns the ground you fell on is one of the first things a San Bernardino attorney will do."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in San Bernardino. Is the city responsible?",
+        "answer": "It depends on who controls that stretch of sidewalk and whether they had notice of the defect. Claims against the City of San Bernardino, San Bernardino County, or another public entity require a formal government claim first, and the deadline is far shorter than the two years that applies to private property. Photograph the exact spot, note nearby cross streets, and speak with an attorney before that window closes."
+      },
+      {
+        "question": "The store says I wasn't watching where I was going. Does that end my claim?",
+        "answer": "No. California uses pure comparative fault, which means your recovery is reduced by your share of responsibility rather than eliminated. If a jury found you 20 percent at fault for not noticing a spill, you would still be able to recover 80 percent of your damages. An attorney can push back on inflated blame with evidence about lighting, signage, and how long the hazard sat there."
+      },
+      {
+        "question": "What should I do right after a fall on private property?",
+        "answer": "Get medical care first, then document everything you can: photos of the hazard, the footwear you had on, and names of anyone who saw it happen. Ask the manager to file an incident report and request that surveillance video be preserved. Avoid giving a recorded statement to the property's insurer until you have talked with a lawyer, since early comments are often used to argue you were at fault."
+      }
+    ]
+  }
+}

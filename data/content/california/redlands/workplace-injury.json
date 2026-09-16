@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "redlands workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury Lawyer Match in Redlands, CA",
+    "metaDescription": "Hurt on the job in Redlands? LawProactive connects San Bernardino County workers with an independent injury attorney for free. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Redlands? Workers' comp may not be your only option, and a free connection to an independent attorney can help you understand what else applies."
+  },
+  "about": {
+    "title": "Redlands Workplace Injury Claims",
+    "longDescription": "Redlands is a working city. Crews along Alabama Street and Lugonia Avenue, delivery routes that feed onto I-10, and the small shops on Orange Street all put people to work, and some of those people get hurt doing it. When that happens in San Bernardino County, the first question is usually about workers' compensation, and that system does cover most on-the-job injuries no matter who was at fault. What many workers never hear is that comp is not always the whole story. If someone outside your employer caused the harm, such as a subcontractor on a job site, a property owner who ignored a hazard, the maker of a defective tool, or another driver who hit you while you were working, a separate third-party claim may be available. Redlands recorded 477 injury collisions in 2025, with 671 people hurt, and reported crashes cluster on Fridays between 5 and 7 p.m., during many shifts. LawProactive is a free service, not a law firm. We connect you with an independent attorney who can sort out which paths apply to you.",
+    "commonInjuriesTitle": "Injuries Redlands Workers Commonly Report",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive loading",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Crush and pinch injuries from machinery or equipment",
+      "Vehicle collision injuries while driving for work",
+      "Burns, chemical exposure, and respiratory harm",
+      "Fractures and head injuries from struck-by incidents"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Redlands Workers Use LawProactive",
+    "items": [
+      {
+        "title": "We look past the comp claim",
+        "desc": "California workers' compensation is usually your only remedy against your employer, but a negligent third party is a different matter. The attorney you are connected with can review whether a subcontractor, property owner, equipment maker, or another driver may be separately responsible."
+      },
+      {
+        "title": "Deadlines are tracked from day one",
+        "desc": "You have 30 days to report an injury to your employer, and a third-party claim generally carries a two-year filing deadline. Getting connected early keeps both clocks in view."
+      },
+      {
+        "title": "Retaliation has a response",
+        "desc": "It is illegal in California for an employer to punish you for reporting an injury or filing a claim. If that is happening to you, it is one more thing an independent attorney can address."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was rear-ended on I-10 while making deliveries for my Redlands employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Workers' compensation typically covers injuries that happen while you are performing your job, including driving. Because another driver caused the crash, you may also have a separate third-party injury claim against that driver, which is subject to a two-year deadline. An attorney can explain how the two claims interact so one does not undercut the other."
+      },
+      {
+        "question": "Can I sue my employer directly if the injury was their fault?",
+        "answer": "In most situations, no. California makes workers' compensation the exclusive remedy against your employer regardless of fault. Claims outside the comp system are usually aimed at third parties, such as a subcontractor or an equipment manufacturer, rather than the employer itself."
+      },
+      {
+        "question": "What does LawProactive charge for connecting me with an attorney?",
+        "answer": "Nothing. LawProactive is a free connection service and not a law firm. The independent attorneys in our network work on contingency, meaning there is no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

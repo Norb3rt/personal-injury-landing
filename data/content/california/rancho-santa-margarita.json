@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "rancho-santa-margarita city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rancho Santa Margarita, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Rancho Santa Margarita? Orange County claims have a 2-year filing deadline. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash on Antonio Parkway or a fall somewhere around town, we'll connect you with an independent attorney at no cost, serving all of Orange County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Rancho Santa Margarita, California",
+    "longDescription": "Rancho Santa Margarita's roads carry a steady flow of daily traffic, and public records show that in the most recent reporting year, the city logged 54 injury collisions, 73 people injured, and 1 traffic death. Corridors like Santa Margarita Parkway, Antonio Parkway, Avenida De Las Flores, and Alma Aldea see the highest volume of reported crashes, simply because they carry the most cars through the city's neighborhoods and shopping areas. If you were hurt in one of these incidents, or in a fall, dog bite, or other accident, sorting out medical bills and insurance calls while you're trying to recover can feel like a second job. LawProactive is a free service — not a law firm — that connects injured people in Rancho Santa Margarita with an independent personal injury attorney who can review what happened and explain your options. There's no upfront cost, and any attorney you're connected with works on contingency, meaning there's no fee unless you recover compensation. You don't have to figure this out alone or guess at deadlines while trying to heal.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones and fractures",
+      "Traumatic brain injuries and concussions",
+      "Herniated discs and back injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from slip-and-fall or premises incidents"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost — there's no obligation to move forward."
+  },
+  "whyChoose": {
+    "title": "Why Talk to Someone Now",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but that window shrinks to as little as six months if a government entity is involved. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault. An attorney can help make sure your portion of blame isn't overstated by an insurer."
+      },
+      {
+        "title": "No Cap on What You've Truly Lost",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, suffering, and diminished quality of life. That means your recovery isn't artificially boxed in by a statutory ceiling."
+      },
+      {
+        "title": "You Pay Nothing Unless You Win",
+        "desc": "Attorneys in the network work on contingency, so there's no hourly billing and no upfront retainer. Legal help stays accessible even while you're dealing with medical bills and lost income."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying that medical bills will pile up faster than you can pay them",
+      "Fearing that admitting any fault means losing your right to compensation entirely",
+      "Feeling pressured by an insurance adjuster to settle quickly for less than you need",
+      "Not knowing how much time you actually have left to take legal action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Rancho Santa Margarita?",
+        "answer": "California generally allows two years from the date of the injury to file a personal injury lawsuit. If a government agency or public entity is involved, that deadline can shrink to as little as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses pure comparative fault, meaning you can still recover compensation even if you share some blame. Your total recovery is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Rancho Santa Margarita?",
+        "answer": "Public crash records show that Santa Margarita Parkway, Antonio Parkway, Avenida De Las Flores, and Alma Aldea have the highest reported collision counts in the city, with reports tending to peak on Thursdays between 4 and 6 p.m. This reflects traffic volume patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything for connecting me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. Any independent attorney you're connected with works on contingency, so there's no fee unless you recover compensation."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary California personal injury cases, there is no statutory cap on non-economic damages such as pain and suffering. This differs from certain other claim types, like medical malpractice, which can carry different rules."
+      }
+    ]
+  }
+}

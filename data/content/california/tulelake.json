@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "tulelake city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tulelake, CA Personal Injury Help | Free Connection",
+    "metaDescription": "Injured in Tulelake, Siskiyou County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether it's a car crash on Main Street or a fall near the fairgrounds, we connect injured Tulelake residents with an independent attorney at no cost, serving all of Siskiyou County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Tulelake, California",
+    "longDescription": "Tulelake is a small farming community near the Oregon border, and its roads reflect that quiet rhythm — but collisions still happen along 800 South Main Street, 800 Main Street, Ridgeview Street, and around the Tulelake Fairgrounds where traffic picks up during events. The most recent final crash-year data for 2022 recorded zero injury collisions, zero people injured, and zero traffic deaths reported for the city, though that doesn't mean people here never get hurt in accidents — it means the public record for that year showed no reported injury crashes. Falls, farm-related incidents, and collisions on the rural highways that connect Tulelake to nearby towns still bring people into urgent need of guidance. If you or someone you love has been hurt, LawProactive can help. We're a free service — not a law firm — that connects injured people in Siskiyou County with an independent personal injury attorney. There's no cost to you unless your case results in a recovery. Reaching out costs nothing and starts the process of understanding your options after an injury.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Broken bones and fractures",
+      "Whiplash and neck injuries",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from farm equipment or rural road accidents"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most personal injury claims in California must be filed within two years of the incident. If a government entity is involved, that window can shrink to as little as six months, so early action matters."
+      },
+      {
+        "title": "Fault Doesn't Disqualify You",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for what happened. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In standard injury cases, California places no limit on compensation for pain, suffering, and other non-economic losses. That can matter a great deal in cases involving lasting injuries."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, which means there's no fee unless they win or settle your case. This lets injured people get legal help without worrying about hourly costs."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up with no income coming in",
+      "Not knowing if the small-town nature of Tulelake means fewer legal options",
+      "Feeling unsure whether a rural road or fairground incident even qualifies for a claim",
+      "Fear that waiting too long could mean losing the chance to file"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have a case if the 2022 records show no injury crashes in Tulelake?",
+        "answer": "Yes. Public crash-count data reflects reported incidents for a specific year, not whether injuries can happen at any time. If you were hurt in an accident, the broader statistics for a prior year don't affect your right to pursue a claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Tulelake?",
+        "answer": "Public records show reported collisions concentrated along 800 South Main Street, 800 Main Street, Ridgeview Street, and near the Tulelake Fairgrounds. These are simply the corridors with the highest recorded crash counts, not a judgment about any particular road."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "Generally, you have two years from the date of injury to file a personal injury lawsuit in California. If your injury involved a government agency or vehicle, that deadline can be much shorter, sometimes just six months, so it's wise to act promptly."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California's pure comparative fault rule means you can still recover compensation even if you share some responsibility. Your total recovery is reduced by your percentage of fault, but it isn't barred entirely."
+      },
+      {
+        "question": "Will I owe anything if I reach out to LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in our network work on contingency, so there's no fee unless you receive a settlement or award."
+      }
+    ]
+  }
+}

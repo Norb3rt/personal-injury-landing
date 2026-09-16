@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "west-covina slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "West Covina Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell on someone else's property in West Covina? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a wet floor, broken step, or dim stairwell in West Covina left you hurt, we can connect you at no cost with an independent premises liability attorney who takes cases on contingency."
+  },
+  "about": {
+    "title": "West Covina Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely announces itself. One moment you are walking through a store off Azusa Avenue or crossing an apartment courtyard near Amar Road, and the next you are on the ground trying to figure out what happened. In West Covina, as everywhere in Los Angeles County, the property owner is not automatically responsible. California law asks whether the owner knew about the hazard, or reasonably should have known, and then failed to repair it or warn you. That question of notice is where most premises cases are won or lost, which is why the first days matter so much. Photograph the spill, the broken step, or the unlit stairwell. Ask for the names of anyone who saw you fall. Request in writing that surveillance footage be saved before it is recorded over. LawProactive is not a law firm; we are a free service that connects West Covina residents with an independent attorney who handles premises liability claims on contingency, so you pay no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in West Covina",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and shoulder fractures from bracing the fall",
+      "Concussions and other head injuries",
+      "Knee ligament and meniscus tears",
+      "Back and spinal disc injuries",
+      "Tailbone and lower spine fractures"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "What an Attorney Brings to a West Covina Fall Case",
+    "items": [
+      {
+        "title": "Building the notice case",
+        "desc": "Owners often argue they had no idea the hazard existed. An attorney can push for inspection logs, maintenance records, and prior complaints that show what the property owner knew or should have known."
+      },
+      {
+        "title": "Preserving video before it disappears",
+        "desc": "Many West Covina businesses overwrite security footage within days. A prompt preservation letter from an attorney puts the owner on notice that the recording must be kept."
+      },
+      {
+        "title": "Handling the comparative fault argument",
+        "desc": "California uses pure comparative fault, so a claim survives even if you were partly responsible; your recovery is simply reduced by your share. An attorney can counter attempts to inflate that percentage."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a raised sidewalk in West Covina. Is that treated differently than a fall inside a store?",
+        "answer": "Yes, and the difference matters for timing. When the property belongs to a public entity, such as the City of West Covina or Los Angeles County, you generally must file a formal government claim within six months rather than the two-year window that applies to private owners. Photograph the exact spot, note the nearest cross street, and reach out quickly so the shorter deadline is not missed."
+      },
+      {
+        "question": "The store manager said I should have been watching where I was going. Does that end my claim?",
+        "answer": "No. California follows pure comparative fault, which means a claim can proceed even if you were partly at fault. If a jury found you 20 percent responsible, your recovery would be reduced by that share, not eliminated. Whether the owner knew or should have known about the hazard is still the central question."
+      },
+      {
+        "question": "What should I do in the first few days after a fall on someone else's property?",
+        "answer": "Get medical care first, then focus on documentation. Take photos of the hazard and the surrounding area, keep the shoes and clothing you were wearing, and write down what happened while the details are fresh. Ask the business to preserve any surveillance video in writing, since many systems record over footage within a short period. An attorney can send that preservation request formally."
+      }
+    ]
+  }
+}

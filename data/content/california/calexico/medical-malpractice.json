@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "calexico medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calexico Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Calexico? LawProactive connects you free with an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnostic error, surgical mistake, or medication mix-up at a Calexico-area clinic or hospital left you hurt, LawProactive can connect you with an independent attorney who understands Imperial County medical malpractice cases — at no cost to you."
+  },
+  "about": {
+    "title": "Calexico Medical Malpractice Claims",
+    "longDescription": "Calexico residents often travel between local clinics and larger facilities in El Centro or across the border corridor for specialized care, and that patchwork of providers can make it harder to piece together what went wrong when treatment doesn't go as expected. Whether the issue happened in an emergency room, a surgical suite, or a routine follow-up visit, medical malpractice cases require showing that a provider departed from the accepted standard of care and that departure caused real harm — a bad result by itself isn't enough under California law. Because Imperial County's rural and border-adjacent healthcare landscape sometimes means fewer specialists and longer waits, delayed diagnosis and treatment lapses are common concerns families raise here. LawProactive doesn't practice law or promise any result; we simply help connect Calexico patients and families with an independent attorney who can review medical records, consult required experts, and explain your options within California's specific malpractice timelines. There's no cost to start that conversation.",
+    "commonInjuriesTitle": "Common Injuries We See in Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication errors or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to properly monitor a patient's condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your options — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Makes Medical Malpractice Claims Different",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally gives you one year from discovering the harm and no more than three years from the injury itself to file, and a 90-day pre-suit notice to the provider is also required. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a bad medical outcome alone isn't proof of malpractice, a qualified medical expert typically has to confirm the standard of care was breached and that the breach caused harm. An attorney can help arrange that review."
+      },
+      {
+        "title": "Damage Caps Change Over Time",
+        "desc": "California law caps non-economic damages in malpractice cases, but that cap rises each year under MICRA. An attorney can walk you through how current limits may apply to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Calexico?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the harm, but no more than three years from the date of the injury itself. A 90-day notice to the healthcare provider is also required before filing suit. Because these deadlines can be easy to miscalculate, it helps to have them reviewed early."
+      },
+      {
+        "question": "Is a poor medical outcome automatically malpractice?",
+        "answer": "No. California law requires showing that a provider's care fell below the accepted medical standard and that this failure caused the harm — a disappointing result on its own isn't enough. This is why a qualified medical expert almost always needs to review the case."
+      },
+      {
+        "question": "Does Calexico's distance from larger hospitals affect my claim?",
+        "answer": "It can shape the facts of a case, since patients here sometimes travel to El Centro or elsewhere for specialized treatment, which may involve more than one provider or facility. An independent attorney can help sort out which provider's care is at issue and how the timeline of treatment fits together."
+      },
+      {
+        "question": "What does LawProactive actually do for me?",
+        "answer": "LawProactive is a free connection service, not a law firm — we help match you with an independent attorney in our network who can evaluate your medical malpractice concerns. There's no cost to you, and any attorney you work with typically handles the case on contingency, meaning no fee unless there's a recovery."
+      }
+    ]
+  }
+}

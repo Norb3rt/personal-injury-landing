@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "davis car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Davis Car Accident Help | LawProactive",
+    "metaDescription": "Free connection to an independent Davis car accident attorney. Yolo County resource, no fee unless you recover. Get matched today."
+  },
+  "hero": {
+    "subtitle": "If a collision on I-80, Russell Boulevard, or elsewhere in Davis has upended your week, we can connect you with an independent attorney who handles Yolo County claims free of charge to start."
+  },
+  "about": {
+    "title": "Davis Car Accident Claims",
+    "longDescription": "Davis sees a steady stream of injury collisions each year — 200 in the most recent reporting period, with 295 people hurt and one life lost. Corridors like 5th Street, Mace Boulevard, and the I-80 interchange carry heavy bike, student, and commuter traffic, and Friday evenings between 5 and 7 p.m. show up often in local crash counts. Whether you were biking near campus, driving on Russell Boulevard, or rear-ended near the freeway, the aftermath usually means medical appointments, missed work, and calls from an insurance adjuster who wants a recorded statement. LawProactive doesn't practice law — we simply connect injured Davis residents with an independent personal injury attorney who can review the details of a crash and explain options under California law. There's no obligation, and no fee unless the attorney you're matched with recovers something on your behalf.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussion or head injury",
+      "Broken bones and fractures",
+      "Herniated or bulging discs",
+      "Bicycle or pedestrian trauma",
+      "Soft tissue and ligament damage"
+    ],
+    "ctaText": "Get matched with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash to file suit, but claims against a government entity — say, a city road issue on Mace Boulevard — can require notice in as little as six months. An attorney can flag which deadline applies before it slips by."
+      },
+      {
+        "title": "Comparative Fault Can Cut Both Ways",
+        "desc": "California lets you recover even if you're partly at fault, but your share of blame reduces your payout. An early recorded statement to the other driver's insurer can be used to inflate your share, so it's worth pausing before you talk."
+      },
+      {
+        "title": "No Cap, No Upfront Cost",
+        "desc": "California doesn't limit non-economic damages like pain and suffering in most car accident cases, and attorneys in our network work on contingency — meaning there's no fee unless they recover something for you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally wise to hold off until you've spoken with an attorney. Insurers often use recorded statements to find ways to shift fault onto you, which matters in California's comparative fault system. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "What if my crash happened on a Davis city street versus I-80?",
+        "answer": "The road itself doesn't change your basic rights, but if a public entity like the City of Davis or Caltrans is involved, there's a much shorter notice deadline — sometimes six months. Sorting out who's responsible for a given stretch of road, like 5th Street versus a state highway, is something an attorney can help identify quickly."
+      },
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and attorneys in our network work on contingency, so there's no fee unless they recover compensation for you. There's no obligation to move forward after your initial conversation."
+      }
+    ]
+  }
+}

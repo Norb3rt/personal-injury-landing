@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "colfax city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colfax, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Colfax, Placer County? Free attorney connection. 2 years to file. No fee unless you win. Call today."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on I-80, a fall, or another accident, we'll connect you free of charge with an independent attorney serving Placer County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Colfax, California",
+    "longDescription": "Colfax is a small Placer County town, but its stretch of I-80 and I-80 Westbound carry heavy through-traffic, and local roads like S Auburn Street and N Main Street see their share of everyday collisions too. In the most recent reporting year, Colfax logged 7 injury collisions, 12 people injured, and 3 traffic deaths — public-record numbers that reflect real people dealing with real consequences, from medical bills to missed work. If you or someone you love was hurt in one of these crashes, you don't have to sort out the legal side alone. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we never charge you a fee for the connection itself. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Given California's two-year filing deadline for most injury claims, it helps to talk to someone sooner rather than later so evidence and details aren't lost to time. Reaching out costs nothing and puts you in touch with someone who can walk through your options.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Deep cuts and lacerations",
+      "Soft tissue damage and sprains"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Two-Year Clock",
+        "desc": "Most injury claims in California must be filed within two years of the accident, though claims against a government entity can require notice in as little as six months. Waiting too long can mean losing your right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault. An attorney can help sort out how fault gets divided."
+      },
+      {
+        "title": "No Limit on Pain-and-Suffering Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering. That means your compensation isn't artificially limited the way it is in some other states."
+      },
+      {
+        "title": "You Pay Nothing Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost and no fee unless they win money on your behalf. That lets you focus on healing instead of legal bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing whether the insurance company's offer is fair",
+      "Fear that admitting any fault will end the claim entirely",
+      "Uncertainty about how much time is left to take legal action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Colfax?",
+        "answer": "Under California law, you generally have two years from the date of the accident to file most personal injury claims. If a government entity is involved, such as a public road authority, the notice period can be as short as six months, so it's wise to act quickly."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some blame for the crash. Your total recovery is simply reduced by the percentage of fault assigned to you, not eliminated entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Colfax?",
+        "answer": "Based on public collision records, corridors including I-80, I-80 Westbound, S Auburn Street, and N Main Street show the highest reported crash counts in Colfax, with activity often peaking on Tuesdays between 12 p.m. and 2 p.m. These are neutral public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "No — in ordinary personal injury cases, California does not cap non-economic damages such as pain and suffering. This differs from some other states that limit these types of damages."
+      },
+      {
+        "question": "Does it cost anything to get connected with an attorney through LawProactive?",
+        "answer": "No, connecting with an attorney through LawProactive is completely free, and we are not a law firm ourselves. Attorneys in our network work on contingency, so you pay nothing unless they recover compensation for you."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "yucaipa workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Yucaipa Workplace Injury Claims | LawProactive",
+    "metaDescription": "Injured on the job in Yucaipa? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Workers hurt on job sites along Yucaipa Boulevard, Oak Glen Road, or out near the I-10 corridor face confusing questions about who's responsible. LawProactive connects you, at no cost, with an independent attorney who can sort through your options."
+  },
+  "about": {
+    "title": "Yucaipa Workplace Injury Claims",
+    "longDescription": "Yucaipa's mix of agriculture, retail, warehousing, and small-business trades along corridors like Yucaipa Boulevard and Bryant Street means workplace injuries here range from equipment accidents to falls on delivery routes near I-10. Under California law, workers' compensation is generally the exclusive remedy against your employer, no matter who was at fault. But that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, a separate third-party claim may be possible alongside your workers' comp benefits. San Bernardino County workers navigating these overlapping systems often feel unsure whether they're leaving compensation on the table. LawProactive doesn't practice law or charge any fee for connecting you. We simply put you in touch with an independent attorney familiar with Yucaipa workplace injury cases, so you can find out what your situation actually allows before deadlines pass.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Forklift and heavy equipment accidents",
+      "Repetitive strain and lifting injuries",
+      "Vehicle collisions during work-related driving",
+      "Injuries from defective tools or machinery",
+      "Chemical or agricultural exposure injuries"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Yucaipa Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the 30-Day Reporting Window",
+        "desc": "California requires injured workers to report the injury to their employer within 30 days. Missing this window can jeopardize your workers' comp benefits, so getting guidance early matters."
+      },
+      {
+        "title": "Spotting a Third-Party Claim",
+        "desc": "Workers' comp usually blocks a lawsuit against your employer, but a negligent subcontractor, equipment maker, or another driver on the job may still be liable separately. An attorney can help identify whether that applies to your Yucaipa case."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "It's illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. If you're worried about your job, an independent attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I sue my employer directly for my injury?",
+        "answer": "In most cases, no. California treats workers' compensation as the exclusive remedy against your employer regardless of fault. However, if a third party outside your employer contributed to the injury, a separate claim against that party may be available."
+      },
+      {
+        "question": "I work near Oak Glen Road doing agricultural or delivery work. Does that change anything?",
+        "answer": "The type of work doesn't change the basic workers' comp rules, but jobs involving driving, equipment, or third-party property (like farms or orchards near Oak Glen Road) often create more opportunities for a separate third-party claim. An attorney can review the specific circumstances of your incident."
+      },
+      {
+        "question": "What if my employer retaliates after I report an injury?",
+        "answer": "Retaliation for reporting a workplace injury is illegal under California law. If you experience demotion, reduced hours, or termination after filing a claim, an independent attorney can advise you on next steps."
+      }
+    ]
+  }
+}

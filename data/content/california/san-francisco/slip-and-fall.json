@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "san-francisco slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Francisco Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on someone else's property in San Francisco? LawProactive connects you, free, with an independent premises liability attorney."
+  },
+  "hero": {
+    "subtitle": "A fall on a wet Mission Street storefront floor, a poorly lit apartment stairwell, or a broken San Francisco sidewalk can upend your life in a second. LawProactive connects you, at no cost, with an independent attorney who handles premises liability claims in San Francisco County."
+  },
+  "about": {
+    "title": "San Francisco Slip & Fall and Premises Liability Claims",
+    "longDescription": "Sidewalks in San Francisco climb, tilt, and crack. Add a fog-damp morning, a grocery aisle along Mission Street that went hours without a mop, or a Nob Hill stairwell with a burned-out bulb, and an ordinary errand can end in the emergency room. Traffic tends to get the headlines here—3,471 injury collisions across the city in 2025—but a great many serious injuries happen on foot, on property somebody else was responsible for maintaining. California law asks a pointed question after a fall: did the owner know, or should they have known, about the hazard and fail to fix it or warn you? That notice element is where premises cases are won or lost, and it rests on evidence that vanishes quickly. Store cameras overwrite. Spills get cleaned. Witnesses head home. LawProactive is not a law firm. We are a free service that connects people injured in San Francisco County with an independent premises liability attorney who works on contingency, meaning no fee unless there is a recovery. One conversation, no obligation, and you decide what comes next.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in San Francisco",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist and elbow fractures from bracing",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why San Franciscans Turn to LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys who know how to prove notice",
+        "desc": "In California you generally have to show the owner knew or should have known about the hazard and did nothing. The attorneys in our network dig into inspection logs, maintenance records, and prior complaints to build that piece of the case."
+      },
+      {
+        "title": "Deadlines tracked from day one",
+        "desc": "Most premises claims in California carry a two-year filing window, but if a public entity such as the City and County of San Francisco owns the property, the clock is far shorter. A quick connection helps make sure nothing lapses while you heal."
+      },
+      {
+        "title": "Surveillance video and hazard evidence preserved early",
+        "desc": "Camera footage from shops, lobbies, and parking garages is often erased within days. Your attorney can send preservation demands right away and document the hazard before it is repaired or repainted."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a buckled sidewalk in San Francisco. Who is responsible?",
+        "answer": "It depends on who owns and maintains that stretch of pavement. In San Francisco, adjacent property owners are often responsible for the sidewalk in front of their buildings, while other segments, curbs, and Muni or BART areas fall under public agencies. If a public entity is involved, California requires a government claim within a much shorter period than the usual two years, so it is worth getting clarity quickly."
+      },
+      {
+        "question": "The store says I wasn't paying attention. Does that end my claim?",
+        "answer": "No. California follows pure comparative fault, which means your compensation can be reduced by your share of responsibility but is not wiped out just because you were partly to blame. An attorney can push back on the store's version with evidence such as video, lighting conditions, and whether warning signs were actually posted."
+      },
+      {
+        "question": "What should I do in the first few days after a fall?",
+        "answer": "Get medical care first, even if the pain seems manageable. Then photograph the hazard, the area around it, and your footwear, and write down the names of anyone who saw what happened. Ask the property owner in writing to keep any surveillance footage, because many systems record over themselves in a week or less. Connecting with an attorney early lets them handle those requests formally."
+      }
+    ]
+  }
+}

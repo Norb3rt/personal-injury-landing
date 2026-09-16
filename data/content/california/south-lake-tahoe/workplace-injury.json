@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "south-lake-tahoe workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "South Lake Tahoe Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in South Lake Tahoe? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "From resort staff to construction crews near Ski Run Boulevard, South Lake Tahoe's workforce faces real on-the-job risks. If you've been hurt at work, LawProactive can connect you with an independent attorney who can help sort out what benefits and claims may apply."
+  },
+  "about": {
+    "title": "South Lake Tahoe Workplace Injury Claims",
+    "longDescription": "South Lake Tahoe's economy runs on tourism, hospitality, and outdoor recreation, and that means a wide mix of on-the-job hazards — from slips on icy loading docks near Lake Tahoe Boulevard to equipment injuries at ski resorts and lifting strains among hotel and restaurant staff. Under California law, workers' compensation is typically the exclusive path for claims against your employer, no matter who was at fault, but that's not always the whole story. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, a separate third-party claim may be possible alongside your workers' comp benefits. Understanding which path — or paths — apply to your situation can be confusing, especially while you're recovering. LawProactive doesn't practice law itself; we simply connect injured workers in South Lake Tahoe with an independent attorney who can review the details and explain your options, free of charge and with no obligation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Slip-and-fall injuries on icy or wet surfaces",
+      "Lifting and repetitive strain injuries",
+      "Ski lift and recreational equipment accidents",
+      "Construction site falls and equipment injuries",
+      "Vehicle collisions during work-related driving",
+      "Burns and injuries from kitchen or hospitality equipment"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney First",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "While workers' compensation is usually the exclusive remedy against your employer, a negligent third party — like a subcontractor or equipment maker — may still be liable for a separate claim."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California law generally requires reporting a workplace injury to your employer within 30 days, so getting guidance early can help protect your rights."
+      },
+      {
+        "title": "Retaliation Is Illegal, But Concerns Are Real",
+        "desc": "It's against California law for an employer to retaliate against you for reporting an injury or filing a claim, and an attorney can help you understand your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work seasonally at a resort near Emerald Bay Road — do I still qualify for workers' comp?",
+        "answer": "Seasonal and part-time employees are generally still covered by California workers' compensation if they're injured on the job. Coverage details can vary depending on your specific employment arrangement, so it's worth having an independent attorney review your situation. LawProactive can help connect you with one at no cost."
+      },
+      {
+        "question": "Can I file a claim if I was hurt in a car accident while working, say along Pioneer Trail?",
+        "answer": "Possibly both a workers' comp claim and a separate third-party claim, depending on who caused the crash. If another driver was at fault, that person's insurance may be liable outside of the workers' comp system. An attorney can look at the specifics and explain what applies to you."
+      },
+      {
+        "question": "What if my employer told me not to report my injury?",
+        "answer": "California law requires timely reporting, generally within 30 days, and it's illegal for an employer to retaliate against you for reporting a workplace injury. If you're facing pressure not to report, an independent attorney can advise you on protecting your rights and next steps."
+      }
+    ]
+  }
+}

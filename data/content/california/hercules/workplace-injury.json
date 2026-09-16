@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "hercules workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hercules Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Hercules? Get connected free to an independent attorney who can review your workers' comp or third-party claim."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Hercules, whether near the Bayfront warehouses or out on a delivery route along I-80, we can connect you with an independent attorney who handles workplace injury claims at no upfront cost."
+  },
+  "about": {
+    "title": "Hercules Workplace Injury Claims",
+    "longDescription": "Hercules sits along the I-80 corridor and San Pablo Bay, home to a mix of light industrial sites, retail centers, and logistics operations that move goods through Contra Costa County. Workers here get hurt in warehouses, on loading docks, in delivery vehicles navigating San Pablo Avenue traffic, and on job sites tied to the area's ongoing development. In California, workers' compensation is typically the exclusive path against your employer, but that's not always the full picture. If a subcontractor, property owner, equipment manufacturer, or another driver contributed to your injury, a separate third-party claim may be possible alongside your workers' comp benefits. LawProactive doesn't practice law or handle claims directly. We simply connect injured Hercules workers with an independent attorney who can look at the facts, explain your options, and tell you whether a third-party claim might apply to your situation. There's no cost to start the conversation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from forklift or heavy equipment accidents",
+      "Vehicle collisions during work-related driving",
+      "Crush or laceration injuries from machinery",
+      "Repetitive stress injuries in warehouse or assembly roles"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Injured Workers in Hercules Reach Out",
+    "items": [
+      {
+        "title": "Understanding Your Two Paths",
+        "desc": "Workers' comp is usually your only claim against an employer, but a negligent third party like a subcontractor or equipment maker can open a separate injury claim. An attorney can help sort out which applies to your case."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires you to report a workplace injury to your employer within 30 days, and a third-party claim carries its own 2-year deadline. Missing either window can limit your options, so timing matters."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "It's illegal for an employer to retaliate against you for reporting an injury or pursuing a claim. If you're worried about your job, an independent attorney can explain your rights before you say anything to your employer."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a warehouse job near I-80 in Hercules. Do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' comp is your primary remedy against your employer, regardless of fault. But if a third party, like a delivery contractor or equipment supplier, contributed to the accident, you may also have a separate injury claim. An independent attorney can review the details and tell you which paths are open to you."
+      },
+      {
+        "question": "What if my employer says I waited too long to report my injury?",
+        "answer": "California generally expects injuries to be reported within 30 days, so delays can complicate a claim, but they don't automatically end it. There may be exceptions depending on when symptoms appeared or when you realized the injury was work-related. Speaking with an attorney early gives you the best chance to address any timing issues."
+      },
+      {
+        "question": "Can I get fired for reporting a workplace injury in Hercules?",
+        "answer": "No. California law prohibits employers from retaliating against workers who report injuries or file a workers' comp claim. If you believe you're facing retaliation, that's a separate issue an independent attorney can help you understand alongside your injury claim."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and attorneys in our network typically work on contingency, meaning there's no fee unless they recover something for you. We're not a law firm ourselves; we simply help connect injured workers with independent legal help."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "torrance medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Torrance Medical Malpractice Attorney | LawProactive",
+    "metaDescription": "Medical error in Torrance? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines apply; no fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a doctor, nurse, or hospital in Torrance made a preventable mistake that changed your health, you deserve straight answers. LawProactive connects you, at no cost, with an independent attorney who handles California medical negligence claims."
+  },
+  "about": {
+    "title": "Torrance Medical Malpractice Claims",
+    "longDescription": "Medical care in Torrance runs around the clock, and most of it goes the way it should. When it doesn't—when a diagnosis gets missed, a medication is confused, or a surgical step is skipped—the person left holding the consequences is usually the patient, and sometimes a family in this city of roughly 148,000 people. Sorting out whether an error rises to the level of malpractice under California law is not something you should have to do alone. That is where LawProactive fits in. We are not a law firm; we are a free service that connects you with an independent attorney who handles medical negligence claims in Los Angeles County. Those attorneys work on contingency, meaning no fee unless there is a recovery. California's MICRA framework sets tight timelines: generally one year from when you discovered the harm, never more than three years from the injury, plus a 90-day notice before suit. A qualified medical expert is nearly always needed to explain what the standard of care required, so an early start matters.",
+    "commonInjuriesTitle": "Harm Often Tied to Medical Negligence in Torrance",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors and retained instruments",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Infections from lapses in hospital care"
+    ],
+    "ctaText": "Ask a Torrance malpractice attorney to review your records—free."
+  },
+  "whyChoose": {
+    "title": "Why Torrance Patients Reach Out Through LawProactive",
+    "items": [
+      {
+        "title": "MICRA's clock starts sooner than most people expect",
+        "desc": "California generally allows one year from the date you discovered the injury, and no more than three years from when it happened, with a 90-day notice required before filing. Getting connected quickly protects those windows."
+      },
+      {
+        "title": "Experts are the backbone of the case",
+        "desc": "A qualified medical expert is almost always required to show what a careful provider would have done differently. The attorneys in our network know how to line that up early."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Malpractice cases are costly to investigate, yet you pay nothing up front. Contingency representation means the attorney's fee comes only from what is recovered, and LawProactive's connection is always free."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Torrance. Does that mean I have a malpractice case?",
+        "answer": "Not by itself. Medicine carries risk, and California law only treats a result as malpractice when a provider fell below the accepted standard of care and that failure caused harm. A qualified medical expert reviews your records to make that determination. An attorney can tell you honestly whether it looks like negligence or simply an unfortunate result."
+      },
+      {
+        "question": "How much time do I have to act on a medical error in California?",
+        "answer": "Under MICRA, the general rule is one year from when you discovered (or reasonably should have discovered) the injury, and never more than three years from the date the injury occurred. You must also give the provider 90 days' notice before filing suit. Because those dates can overlap in confusing ways, it is wise to speak with an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "Is there a limit on what I can recover for a malpractice injury in Los Angeles County?",
+        "answer": "California caps non-economic damages—things like pain and loss of enjoyment of life—in medical malpractice cases, and that cap increases every year under current law. Economic losses such as medical bills and lost income are not subject to that cap. An attorney can walk you through how the rules apply to your specific situation in Torrance."
+      }
+    ]
+  }
+}

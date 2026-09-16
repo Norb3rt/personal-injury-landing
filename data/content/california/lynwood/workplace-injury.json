@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "lynwood workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Workplace Injury in Lynwood, CA | LawProactive",
+    "metaDescription": "Hurt on the job in Lynwood? LawProactive connects you free with an independent attorney who can review workers' comp and any third-party claim."
+  },
+  "hero": {
+    "subtitle": "Injured at work in Lynwood? We'll connect you, at no cost, with an independent attorney who can explain your workers' compensation rights and whether a separate claim against a third party may apply."
+  },
+  "about": {
+    "title": "Lynwood Workplace Injury Claims",
+    "longDescription": "Work in Lynwood takes many shapes. Some people spend their shifts in warehouses and shops along Long Beach Boulevard or Atlantic Avenue. Others drive for a living, threading Imperial Highway or merging onto I-105 with a delivery schedule to keep. When a shift ends in the emergency room instead of at home, the questions come fast: who pays for treatment, what happens to your paycheck, and whether reporting the injury puts your job at risk. Under California law, workers' compensation is generally the only claim you can bring against your own employer, and fault does not matter. That said, a separate injury claim may exist against a negligent third party, such as a subcontractor, a property owner, an equipment manufacturer, or another driver. Public records show 304 injury collisions in Lynwood in 2025, with 398 people hurt, a reminder that Los Angeles County roads are part of the workday for many local employees. LawProactive is a free service, not a law firm. We connect Lynwood workers with an independent attorney who can sort out which claims apply to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Lynwood",
+    "commonInjuries": [
+      "Back and spinal strains from lifting or repetitive bending",
+      "Falls from ladders, scaffolds, or loading docks",
+      "Crush and pinch injuries from forklifts or machinery",
+      "Repetitive-motion injuries to hands, wrists, and shoulders",
+      "Burns, cuts, and chemical exposure",
+      "Crashes while driving a work vehicle or making deliveries"
+    ],
+    "ctaText": "Talk through your options with an independent attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Lynwood Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two claims, one clear picture",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but a negligent third party can open a separate claim. The attorney we connect you with can look at both paths together."
+      },
+      {
+        "title": "Reporting without fear",
+        "desc": "California requires you to report a work injury to your employer within 30 days, and it is illegal for an employer to retaliate against you for doing so. An attorney can help you document the report and respond if pressure follows."
+      },
+      {
+        "title": "Deadlines tracked for you",
+        "desc": "Third-party injury claims in California generally carry a two-year deadline, and the clock keeps moving while you recover. Getting connected early gives your attorney room to preserve evidence and file on time."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on Imperial Highway while making deliveries for my Lynwood employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It may be both. Because you were on the clock, workers' compensation generally covers your medical care and part of your lost wages regardless of who caused the crash. If another driver was at fault, that driver is a third party, and a separate injury claim may be possible alongside your comp benefits. Lynwood collision records show reports tend to peak on Friday afternoons between 3 and 5 p.m., a window when many drivers are finishing routes."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most situations, no. Workers' compensation is designed as the exclusive remedy against your employer, meaning you receive benefits without having to prove fault but give up the right to sue them. There are narrow exceptions, and an attorney can tell you whether any apply to your facts. A claim against a negligent third party is a different matter and is not blocked by this rule."
+      },
+      {
+        "question": "My supervisor said reporting the injury would cause problems. What should I do?",
+        "answer": "Report it anyway, in writing if you can, and keep a copy. California law gives you 30 days to notify your employer, and retaliating against a worker for reporting an injury is illegal. If you are demoted, cut from the schedule, or let go after reporting, tell the attorney you are connected with right away so those events can be documented."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "irwindale workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Irwindale Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Irwindale? Get connected free to an independent attorney who handles workers' comp gaps and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Irwindale's quarries, gravel operations, and industrial yards mean serious on-the-job injuries happen here, and workers' comp doesn't always cover the whole picture. We connect you at no cost with an independent attorney who can look at whether a third party shares the blame."
+  },
+  "about": {
+    "title": "Irwindale Workplace Injury Claims",
+    "longDescription": "Irwindale is a small city by population, but its industrial base — aggregate quarries, manufacturing plants, and distribution yards — keeps a steady stream of workers moving through demanding physical jobs. When someone gets hurt operating heavy machinery, driving a work truck along Arrow Highway, or working near the I-605 and I-210 interchanges, California law usually routes the claim through workers' compensation first, regardless of who was at fault. But workers' comp benefits often fall short of covering lost future earnings or full pain and suffering, especially with severe injuries. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the accident, a separate third-party injury claim may be possible alongside your workers' comp benefits. LawProactive is a free service — we don't practice law ourselves, but we can connect you with an independent attorney who reviews the details and explains your options, with no upfront cost to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Crush injuries from heavy machinery or conveyor equipment",
+      "Falls from elevated platforms, scaffolding, or loading docks",
+      "Injuries from being struck by forklifts or industrial vehicles",
+      "Repetitive strain and overexertion injuries from manual labor",
+      "Burns or chemical exposure in manufacturing settings",
+      "Collisions involving work trucks on Arrow Highway, I-605, or I-210"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Independent Attorney About Your Irwindale Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California generally treats workers' comp as the exclusive remedy against your employer, but if a negligent third party — like a subcontractor or equipment maker — contributed to your injury, a separate claim may be available."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally need to report a workplace injury to your employer within 30 days to protect your workers' comp rights, and a third-party injury claim carries its own 2-year filing deadline under California law."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "Employers cannot legally punish you for reporting an injury or pursuing a claim, and an attorney can help you understand what protections apply if you're worried about your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a quarry job site in Irwindale — can I still file a separate injury claim?",
+        "answer": "If your employer is the only party at fault, workers' compensation is typically your exclusive path against them. But if equipment failure, a subcontractor's negligence, or another company's actions played a role, you may have a separate third-party claim worth exploring. An independent attorney can review the specifics of your job site incident to see what applies."
+      },
+      {
+        "question": "What if I was injured driving a company vehicle near the I-605 or I-210 interchange?",
+        "answer": "Work-related vehicle crashes are still generally covered by workers' comp, but if another driver caused the collision, that driver's insurance may owe you compensation separately from your workers' comp benefits. This is a common scenario for delivery and industrial transport workers in the Irwindale area."
+      },
+      {
+        "question": "How long do I have to report my injury and start a claim?",
+        "answer": "You generally must notify your employer within 30 days to preserve your workers' comp rights, while any separate third-party injury claim typically must be filed within 2 years. Missing these windows can limit your options, so it helps to get guidance sooner rather than later."
+      }
+    ]
+  }
+}

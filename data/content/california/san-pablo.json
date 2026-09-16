@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "san-pablo city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Pablo, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in San Pablo? Free connection to an independent Contra Costa County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end crash on I-80 or a fall that wasn't your fault, we can connect you with an independent attorney serving Contra Costa County at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Pablo, California",
+    "longDescription": "San Pablo sits along I-80 and San Pablo Avenue, two corridors that carry heavy daily traffic through Contra Costa County, along with busy routes like Rumrill Boulevard and 23rd Street. Public records show 94 injury collisions in the most recent final crash year, leaving 130 people hurt. Those numbers reflect how often ordinary trips through this city end with someone dealing with medical bills, missed work, and an insurance company that doesn't have their best interests in mind. LawProactive is a free service, not a law firm — we simply connect people who've been injured with an independent personal injury attorney who can look at what happened and explain the options. There's no obligation to move forward, and attorneys in our network work on contingency, meaning there's no fee unless there's a recovery. If a crash on one of San Pablo's busy streets left you hurt, getting information early can matter, since evidence and witness memories fade fast. You don't have to figure this out alone or guess at what your claim might be worth before talking to someone who handles these cases regularly.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out where you stand — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "Two Years to Act, But Don't Wait",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government agency can require notice in as little as six months. Talking to someone early helps protect your options before deadlines close in."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Case",
+        "desc": "Under California's pure comparative fault rule, even if you were partly responsible for what happened, you can still recover damages — reduced by your share of fault. This is different from states that block recovery entirely if you're found even slightly at fault."
+      },
+      {
+        "title": "No Cap on What You've Truly Lost",
+        "desc": "In ordinary injury cases, California doesn't limit the non-economic damages you can pursue for things like pain and suffering. Your losses aren't reduced to a fixed number before anyone even looks at your case."
+      },
+      {
+        "title": "You Pay Nothing Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to find out where you stand. Legal fees only come out of a recovery, so getting informed carries no financial risk."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know how I'll pay them",
+      "The insurance company keeps calling and I don't know what to tell them",
+      "I'm missing work and worried about how long I can afford to be out",
+      "I don't know if I even have a case or if it's too late to do anything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in San Pablo?",
+        "answer": "California's statute of limitations is generally two years from the date of the injury for most personal injury claims. If a government entity, like a city vehicle, was involved, the notice period can be as short as six months. Because these deadlines are strict, it's worth getting information sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to cluster in San Pablo?",
+        "answer": "Public collision records show higher counts along corridors like I-80, San Pablo Avenue, Rumrill Boulevard, and 23rd Street, with reported crashes tending to peak on Fridays between 5 and 7 p.m. These are simply public-record patterns in traffic volume, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows a pure comparative fault rule, so being partly responsible doesn't automatically bar you from recovering compensation. Your recovery would be reduced by your percentage of fault, but you can still pursue a claim."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm and we don't charge for the connection. Attorneys in the network work on contingency, meaning they only get paid if you recover compensation."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "In ordinary California personal injury cases, there's no cap on non-economic damages such as pain and suffering. An independent attorney can walk you through how those damages are typically evaluated based on your specific situation."
+      }
+    ]
+  }
+}

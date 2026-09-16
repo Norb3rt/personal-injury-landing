@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "maywood workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Maywood Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Maywood? Get connected free to an independent attorney who handles workers' comp and third-party workplace injury claims."
+  },
+  "hero": {
+    "subtitle": "Maywood's mix of warehouses, light industry, and delivery routes near Slauson Avenue and Atlantic Boulevard means workplace injuries happen more often than people expect. If you were hurt on the job, we can connect you with an independent attorney who can look at every angle of your case, free of charge."
+  },
+  "about": {
+    "title": "Maywood Workplace Injury Claims",
+    "longDescription": "Maywood is a small city, but its density of warehouses, trucking operations, and small manufacturing sites along corridors like Atlantic Boulevard and Pine Avenue means workers face real risks every shift. Most job injuries here go through California's workers' compensation system, which pays medical care and partial wage replacement without needing to prove fault. But comp isn't always the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may also have a separate claim outside the comp system. This matters in Maywood especially for delivery drivers and warehouse staff who work around vehicles and machinery owned by companies other than their employer. LawProactive doesn't practice law or take a fee. We simply connect injured workers with an independent attorney who can review your paperwork, explain your options, and tell you honestly whether a third-party claim is worth pursuing alongside your comp benefits.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connections For",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Forklift and machinery-related injuries",
+      "Falls from ladders, docks, or uneven warehouse floors",
+      "Crush or amputation injuries from equipment",
+      "Vehicle collisions during work-related driving or deliveries",
+      "Repetitive stress injuries to wrists, shoulders, and knees"
+    ],
+    "ctaText": "Get connected with an independent attorney about your Maywood workplace injury today."
+  },
+  "whyChoose": {
+    "title": "Why Maywood Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Understanding the 30-Day Report Window",
+        "desc": "California requires injured employees to notify their employer within 30 days of a workplace injury to preserve workers' comp eligibility. An attorney can help you confirm this was done correctly or address it if it wasn't."
+      },
+      {
+        "title": "Spotting Third-Party Claims Beyond Comp",
+        "desc": "Because workers' comp is usually the exclusive remedy against an employer, it's easy to miss that a negligent third party, like a subcontractor, property owner, or equipment maker, may owe you a separate claim. An independent attorney can evaluate whether your Maywood workplace injury involves other liable parties."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "California law prohibits employers from retaliating against workers who report injuries or file comp claims. If you're worried about your job status after getting hurt, an attorney connection can help you understand your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving a delivery route near Atlantic Boulevard for my employer. Is that covered by workers' comp?",
+        "answer": "Generally yes, injuries during work-related driving are typically covered by workers' comp regardless of fault. However, if another driver caused the crash, you may also have a separate third-party injury claim against that driver. An independent attorney can look at the specifics of your route and the crash to sort out which claims apply."
+      },
+      {
+        "question": "Can I sue my employer directly for my workplace injury in Maywood?",
+        "answer": "In most cases, no, workers' compensation is the exclusive remedy against your employer regardless of fault. The exception is when a third party, not your employer, contributed to your injury, such as a subcontractor or equipment manufacturer. An attorney can review your situation to see if a third-party claim is available."
+      },
+      {
+        "question": "How long do I have to file a claim if a third party caused my workplace injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of injury. This is separate from the workers' comp reporting timeline, so it's worth getting an evaluation sooner rather than later. Waiting too long can limit your options."
+      }
+    ]
+  }
+}

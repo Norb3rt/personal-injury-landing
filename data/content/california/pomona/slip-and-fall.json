@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "pomona slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pomona Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on Pomona property? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a fall on someone else's property in Pomona left you hurt, we connect you at no cost with an independent premises liability attorney who can look at whether the owner should have fixed or warned about the hazard."
+  },
+  "about": {
+    "title": "Pomona Slip & Fall and Premises Liability Claims",
+    "longDescription": "A wet grocery aisle, a crumbling parking-lot curb, a dim apartment stairwell: falls in Pomona rarely happen anywhere dramatic. They happen where people shop, rent, and run errands, including the storefronts along Holt Avenue and Garey Avenue and the businesses near Mission Boulevard. When a property owner lets a hazard sit, California law can hold that owner responsible, but only if you can show they knew about the condition or reasonably should have. That question of notice decides most premises cases, which is why the first few days matter so much. Photograph the exact spot before it is cleaned or repaired, collect names of anyone who saw you fall, and ask in writing that surveillance footage be preserved before the system records over it. Pomona sits in Los Angeles County, and if your fall happened on city, county, or school property, the filing window is far shorter than the usual two years. LawProactive is free and is not a law firm. We connect you with an independent attorney who handles premises claims on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Pomona",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and elbow breaks from catching a fall",
+      "Concussions and other head injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Herniated discs and lower back strain",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney, free."
+  },
+  "whyChoose": {
+    "title": "Why Pomona Fall Victims Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Notice is the whole case",
+        "desc": "California does not make owners liable for every fall, only for hazards they knew about or should have caught. An attorney can dig into inspection logs, prior complaints, and cleaning schedules to establish that the owner was on notice."
+      },
+      {
+        "title": "Video disappears fast",
+        "desc": "Many Pomona stores and complexes overwrite security footage within days or weeks. A prompt preservation letter from an attorney helps keep that evidence intact before it is gone for good."
+      },
+      {
+        "title": "Deadlines vary by who owns the property",
+        "desc": "You generally have two years to file a premises claim in California, but a fall on public property involving the City of Pomona or Los Angeles County triggers a much shorter claim process. Connecting early means those dates are tracked from the start."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped at a store on Holt Avenue in Pomona and the manager said it was my fault. Does that end my claim?",
+        "answer": "No. California uses pure comparative fault, so even if you share some responsibility, you can still recover with your compensation reduced by your percentage of fault. What matters more is whether the store knew or should have known about the hazard and failed to address it. An attorney can evaluate that separately from what a manager said in the moment."
+      },
+      {
+        "question": "The fall happened on a Pomona city sidewalk or at a county building. Is the process different?",
+        "answer": "Yes, and the timing is much tighter. Claims against a public entity such as the City of Pomona or Los Angeles County must first go through a government claim process with a deadline measured in months, not the two years that apply to private property. Missing that window can end the case before it begins, so it helps to get connected with an attorney quickly."
+      },
+      {
+        "question": "What should I do right after a fall if I did not take photos at the scene?",
+        "answer": "Go back as soon as you safely can and photograph the area, or ask a friend to do it, because hazards often get fixed within days. Write down what you remember about the surface, lighting, and any warning signs while it is fresh. Request your incident report and any surveillance video in writing, and get medical care so your injuries are documented from the start."
+      }
+    ]
+  }
+}

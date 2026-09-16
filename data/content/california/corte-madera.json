@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "corte-madera city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Corte Madera, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Corte Madera? Free help finding a Marin County attorney. 2 years to file. No fee unless you win. Connect now."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or other accident around Corte Madera, we'll connect you with an independent attorney serving Marin County at no cost to you.Whether it's a whiplash injury or something more serious, getting the right help shouldn't add to your stress."
+  },
+  "about": {
+    "title": "Personal Injury Help in Corte Madera, California",
+    "longDescription": "Corte Madera is a small town, but its roads carry a steady flow of traffic every day — US-101, Tamalpais Drive, and Paradise Drive all see regular use by commuters, shoppers heading to the Village, and residents just running errands. Public records show 48 injury collisions in the most recent year, with 61 people hurt. Reporting patterns show these crashes tend to cluster on Wednesdays between 5 and 7 p.m., likely tied to evening commute traffic on US-101 Northbound and the surrounding corridors. None of these crashes resulted in a traffic death that year, but injuries — from whiplash to broken bones — can still upend daily life, work, and finances. If you were hurt in one of these collisions, or in a fall, dog bite, or other accident in Corte Madera, LawProactive can help. We're a free service that connects injured people with an independent personal injury attorney — we are not a law firm ourselves, and we never charge a fee. Attorneys in our network work on contingency, meaning there's no fee unless you recover money. Reaching out costs you nothing and helps you understand your options sooner rather than later.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out if you have a case — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Ticking",
+        "desc": "California law generally gives you two years from the date of injury to file a personal injury claim. If a government entity was involved, that window can shrink to as little as six months, so it pays to act early."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on What You Can Recover",
+        "desc": "For ordinary injury claims in California, there's no legal cap on non-economic damages like pain and suffering. That means your compensation isn't artificially limited by a statutory ceiling."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless you win your case. This lets you get legal help without worrying about hourly rates or retainers."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know how I'll pay them",
+      "I'm not sure if I can still get help since I was partly at fault",
+      "I don't know how much time I have left to take action",
+      "I'm worried a lawyer will cost more than I can afford"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Corte Madera?",
+        "answer": "In most cases, California law gives you two years from the date of your injury to file a claim. If your accident involved a government agency or entity, that deadline can be as short as six months. It's best to speak with an attorney as soon as possible to make sure you don't miss your window."
+      },
+      {
+        "question": "What if I was partially at fault for my accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some blame for the accident. Your total recovery is reduced by your percentage of fault, but it isn't barred entirely. An attorney can help assess how fault might affect your specific claim."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Corte Madera?",
+        "answer": "Public collision records show that reported crashes in Corte Madera tend to occur more often on Wednesdays between 5 and 7 p.m., with notable counts along US-101, Tamalpais Drive, Paradise Drive, and US-101 Northbound. These are simply patterns in the public record, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — in ordinary personal injury cases in California, there's no statutory cap on non-economic damages such as pain and suffering. The amount depends on the specifics of your case, including the severity of your injuries and how they've affected your life."
+      },
+      {
+        "question": "How much does it cost to work with an attorney through LawProactive?",
+        "answer": "Connecting with an attorney through LawProactive is completely free, and we are not a law firm ourselves — we simply help connect you with independent legal help. Attorneys in our network work on contingency, so you don't pay any fees unless they recover compensation for you."
+      }
+    ]
+  }
+}

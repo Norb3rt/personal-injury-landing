@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "colfax medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colfax Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Colfax, CA? LawProactive connects you free with an independent injury attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis or treatment goes wrong in Colfax, sorting out what happened can feel isolating in a small Placer County community. LawProactive can connect you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Colfax Medical Malpractice Claims",
+    "longDescription": "Colfax residents often rely on nearby regional hospitals and clinics along the I-80 corridor for care, and when something goes wrong during treatment, families are left with hard questions and few local resources to turn to. Medical malpractice cases are different from most injury claims — California's MICRA law requires a qualified medical expert to review the care given, a strict notice period before any lawsuit, and firm deadlines that don't bend for confusion or grief. A bad result isn't automatically malpractice; the law asks whether the provider deviated from an accepted standard of care. For Colfax residents unsure whether what happened to them or a loved one crosses that line, LawProactive offers a free, no-obligation way to get connected with an independent attorney who can review the details and explain the options plainly, without pressure or guesswork.",
+    "commonInjuriesTitle": "Common Malpractice-Related Injuries We Hear About",
+    "commonInjuries": [
+      "Surgical errors or wrong-site procedures",
+      "Delayed or missed diagnosis of a serious condition",
+      "Medication errors or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Hospital-acquired infections from inadequate care"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Colfax Families Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Strict and Layered",
+        "desc": "California generally gives one year from discovering the harm, capped at three years from the injury itself, plus a mandatory 90-day pre-suit notice — missing any of these can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a poor medical outcome alone doesn't prove malpractice, California law typically requires a qualified medical expert to establish that the standard of care was violated."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises",
+        "desc": "MICRA sets a statutory limit on non-economic damages that increases annually, so understanding the current cap and how it applies matters when evaluating a claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim after treatment in Colfax?",
+        "answer": "Under MICRA, you generally have one year from when you discover the injury, but never more than three years from the date it occurred. A required 90-day pre-suit notice to the provider also affects your timeline, so it's worth getting a claim reviewed sooner rather than later."
+      },
+      {
+        "question": "Does a bad outcome from surgery or treatment automatically mean malpractice occurred?",
+        "answer": "No. California law requires showing that a provider's care fell below an accepted medical standard, not simply that the result was disappointing or unexpected. A qualified medical expert is almost always needed to make that determination."
+      },
+      {
+        "question": "Colfax is a small community — does that affect where a malpractice claim gets handled?",
+        "answer": "Not in terms of the legal standards, which apply the same way statewide under MICRA. However, Placer County court procedures and where treatment occurred can affect logistics, which is something an independent attorney can walk you through."
+      },
+      {
+        "question": "Is there a cost to find out if I have a case?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in the network work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

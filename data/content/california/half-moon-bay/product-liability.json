@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "half-moon-bay product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Half Moon Bay Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Half Moon Bay? Get connected free to an independent CA attorney who works on contingency. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a defective product causes harm along Highway 1 or anywhere in Half Moon Bay, LawProactive can connect you free of charge with an independent California attorney who handles these claims on contingency."
+  },
+  "about": {
+    "title": "Half Moon Bay Product Liability Claims",
+    "longDescription": "Half Moon Bay's mix of coastal tourism, farm work, and daily commuting along Route 1 and San Mateo Road means residents and visitors rely on a wide range of consumer products, tools, and vehicle equipment every day. When one of those products fails because of a design flaw, a manufacturing error, or a missing warning, the resulting injury can upend a person's life in a town of just under 13,000 people where medical resources are limited. California law generally allows injured people to pursue a strict liability claim against manufacturers, distributors, or retailers without needing to prove negligence — the focus is on whether the product itself was defective and whether that defect caused harm. If you were hurt by a faulty vehicle part, a piece of farm equipment, a household appliance, or recreational gear near the coast, LawProactive can connect you at no cost with an independent attorney familiar with product liability claims in San Mateo County. Keeping the product itself, along with packaging and receipts, can matter a great deal to how a claim develops.",
+    "commonInjuriesTitle": "Common Injuries From Defective Products",
+    "commonInjuries": [
+      "Burns from faulty electrical or kitchen appliances",
+      "Lacerations from defective tools or farm equipment",
+      "Head injuries from failed protective gear or helmets",
+      "Crush injuries from malfunctioning machinery",
+      "Airbag or seatbelt failures during vehicle collisions",
+      "Chemical burns or poisoning from mislabeled products"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Half Moon Bay Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Path",
+        "desc": "Under California law, you generally don't need to prove a manufacturer was careless — only that the product was defective and that the defect caused your injury. This can make a claim more direct than other injury cases."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable for a defective product. An attorney can help identify which parties were involved in getting the product into your hands."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "Because these claims often hinge on the product itself, keeping it — along with any packaging, manuals, or receipts — can be important. An attorney can advise you on how to protect that evidence early."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the manufacturer was negligent?",
+        "answer": "Not necessarily. California generally allows product liability claims under strict liability, meaning you typically need to show the product was defective and that it caused your injury, rather than proving carelessness. An independent attorney can walk you through how this applies to your specific situation."
+      },
+      {
+        "question": "What if the product was purchased somewhere near Half Moon Bay but made elsewhere?",
+        "answer": "That's common, since many products sold in local stores along Highway 1 or San Mateo Road are manufactured out of state or overseas. California law can still allow claims against manufacturers, distributors, and retailers connected to the product's path to you, regardless of where it was originally made."
+      },
+      {
+        "question": "What should I do with the product that injured me?",
+        "answer": "Try to keep it in the same condition it was in when the injury happened, along with any boxes, instructions, or receipts you still have. Avoid repairing or discarding it, since the product itself is often central to evaluating what went wrong."
+      }
+    ]
+  }
+}

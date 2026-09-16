@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "pismo-beach city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pismo Beach, CA Injury Lawyer Connection | Free Review",
+    "metaDescription": "Hurt in Pismo Beach? Free connection to an independent SLO County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If a crash on US-101 or elsewhere in Pismo Beach left you with a broken bone, whiplash, or worse, we can connect you with an independent attorney serving San Luis Obispo County at no cost to you."
+  },
+  "about": {
+    "title": "Personal Injury Help in Pismo Beach, California",
+    "longDescription": "Pismo Beach is a small coastal city, but its stretch of US-101 carries heavy tourist and commuter traffic year-round, and Dolliver Street funnels visitors toward the pier and downtown shops. In the most recent full year on record, the city logged 58 injury collisions and 73 people hurt, with no traffic deaths reported. Most of these crashes cluster where you'd expect — the northbound and southbound lanes of US-101 and the busy Dolliver corridor — and reports tend to spike on Friday afternoons between 4 and 6 p.m., likely tied to weekend beach traffic and shift-change commutes. If you were injured in one of these collisions, sorting out medical bills, insurance calls, and lost work can feel overwhelming on top of physical recovery. LawProactive is a free service that connects injured people in Pismo Beach with an independent personal injury attorney — we are not a law firm, and we don't handle your case ourselves. The attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and puts you in touch with someone who can look at your situation.",
+    "commonInjuriesTitle": "Common Injuries We See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and joint injuries"
+    ],
+    "ctaText": "Find out if you have a case — connect for free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window can shrink to as little as six months if a government entity is involved. Talking to an attorney sooner rather than later helps protect your options."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still pursue compensation even if you were partly responsible for the collision — your recovery is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering, which can matter a great deal in claims involving serious or lasting injuries."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no retainer and no bill just for asking questions."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Feeling pressured by an insurance adjuster to settle fast",
+      "Not knowing if you waited too long or missed a deadline",
+      "Fearing that being partly at fault means you get nothing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Pismo Beach?",
+        "answer": "California law generally allows two years from the date of the injury to file most personal injury claims. If a government agency or public road authority was involved, that deadline can be as short as six months, so it's worth checking your situation promptly."
+      },
+      {
+        "question": "Where do injury crashes tend to cluster in Pismo Beach?",
+        "answer": "Public collision records for the most recent year show reports concentrated along US-101 in both directions and on Dolliver Street, with Friday afternoons between 4 and 6 p.m. seeing the most reports. These are simply counts from public records, not a judgment about any road's safety."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows pure comparative fault, so being partially responsible doesn't bar you from recovering compensation. Your final award would just be reduced by your percentage of fault."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "No — in standard personal injury cases, California does not cap non-economic damages such as pain and suffering. Caps do apply in certain specific case types, like medical malpractice, but not to ordinary injury claims."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney in our network — we are not a law firm and don't charge for the connection. Attorneys work on contingency, so they only get paid if you recover money."
+      }
+    ]
+  }
+}

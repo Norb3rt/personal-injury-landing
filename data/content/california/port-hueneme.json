@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "port-hueneme city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Port Hueneme, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Port Hueneme? Ventura County residents get free help finding an attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end crash or something more serious, we'll connect you with an independent attorney at no cost, serving Port Hueneme and the rest of Ventura County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Port Hueneme, California",
+    "longDescription": "Port Hueneme is a compact coastal city of about 22,423 people, and like any community with steady traffic flow, collisions happen. Public records show 45 injury collisions in the most recent final crash year, with 62 people hurt — thankfully with zero traffic deaths reported. Corridors like Channel Islands Boulevard, Ventura Road, and Port Hueneme Road see the highest volume of reported crashes, and Fridays between 4 and 6 p.m. tend to be when more collisions are logged. If you were hurt in one of these incidents, you may be wondering what comes next — medical bills, missed work, insurance calls that go nowhere. LawProactive is a free service that helps connect injured people in Port Hueneme with an independent personal injury attorney who can look at the specifics of your situation. We are not a law firm and we don't decide your case; we simply make the introduction. Attorneys in our network work on contingency, meaning there's no fee unless there's a recovery. Reaching out costs nothing and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Back and spinal injuries",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney today — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "Why Reach Out Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, but that window shrinks to as little as six months if a government entity was involved. Waiting too long can close the door on your options entirely."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still pursue compensation — it's just reduced by your share of fault. An attorney can help sort out how fault might apply to your situation."
+      },
+      {
+        "title": "No Cap on What You're Owed for Pain and Suffering",
+        "desc": "Unlike some states, California doesn't limit non-economic damages — like pain, suffering, and loss of enjoyment of life — in typical injury cases. That means your claim isn't boxed in by an arbitrary ceiling."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys connected through LawProactive work on contingency, so there's no upfront cost to you. Legal fees only come out of a settlement or award, not your pocket beforehand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Fear that the insurance company won't take your injury seriously",
+      "Not knowing whether you missed a legal deadline already",
+      "Feeling unsure if you're partly to blame and whether that ends your case"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Port Hueneme?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file. If a government entity or vehicle was involved, that deadline can drop to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your total recovery is simply reduced by your percentage of fault, so it's not an automatic bar to a claim."
+      },
+      {
+        "question": "Are there specific areas in Port Hueneme where crashes are more commonly reported?",
+        "answer": "Public collision records show Channel Islands Boulevard, Ventura Road, and Port Hueneme Road have the highest volume of reported injury collisions in the city, with Friday afternoons between 4 and 6 p.m. showing more reports than other times. These are simply counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in the network work on contingency, meaning they only get paid if you receive a settlement or award. There's no cost to ask questions or find out where you stand."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We're a free service that connects injured people with independent personal injury attorneys who can evaluate their situation directly."
+      }
+    ]
+  }
+}

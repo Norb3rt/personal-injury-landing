@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "dorris product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dorris Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Dorris, CA? LawProactive connects you free to an independent attorney who handles strict liability claims."
+  },
+  "hero": {
+    "subtitle": "When a defective product injures someone in Dorris, the small-town setting doesn't change the legal path forward. LawProactive helps you connect, at no cost, with an independent attorney who understands product liability claims in Siskiyou County."
+  },
+  "about": {
+    "title": "Dorris Product Liability Claims",
+    "longDescription": "Dorris is a quiet community along Rt 97 and 1st Street, and most people here don't expect a household appliance, farm equipment part, or vehicle component to fail and cause harm. But defective products don't discriminate by zip code. Whether the injury happened at home near N Main Street or out on 4th Street, California law gives injured people a real path to accountability. Product liability claims here often rest on strict liability, meaning the focus stays on whether the product itself was flawed rather than proving someone was careless. That distinction matters in a small town where the manufacturer or distributor may be based far away and hard to reach on your own. LawProactive doesn't practice law or promise results. What we do is connect Dorris residents, free of charge, with an independent attorney who can look at the product, the injury, and the facts, and explain what your options may be.",
+    "commonInjuriesTitle": "Injuries We See in Product Liability Cases",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or equipment",
+      "Lacerations from defective tools or machinery parts",
+      "Crush injuries from failed farm or industrial equipment",
+      "Chemical exposure from mislabeled or unsafe products",
+      "Electrical shocks from faulty wiring or devices",
+      "Fractures from collapsing furniture or structural components"
+    ],
+    "ctaText": "Connect free with an independent attorney about your product injury."
+  },
+  "whyChoose": {
+    "title": "Why Strict Liability Matters for Dorris Residents",
+    "items": [
+      {
+        "title": "You Don't Have to Prove Negligence",
+        "desc": "Under California's strict liability rule, you generally only need to show the product was defective and caused your injury, not that the manufacturer was careless."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, which matters when the company that made the product isn't local to Siskiyou County."
+      },
+      {
+        "title": "Preserving the Product Protects Your Claim",
+        "desc": "Keeping the defective item intact, rather than discarding or repairing it, can be critical evidence that supports a strict liability claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What counts as a product defect under California law?",
+        "answer": "A defect generally falls into one of three categories: a design flaw that makes the product unsafe even when made correctly, a manufacturing error that occurred during production, or a failure to warn about a known risk. Any of these can support a strict liability claim if the defect caused your injury."
+      },
+      {
+        "question": "Does it matter that Dorris is a small town far from where the product was made?",
+        "answer": "No. California strict liability law applies regardless of where you live, and manufacturers or distributors based outside Siskiyou County can still be pursued through the legal process. An independent attorney can help identify who along the supply chain may be responsible."
+      },
+      {
+        "question": "What should I do with the product that caused my injury?",
+        "answer": "Try to keep the product exactly as it was at the time of the injury, without cleaning, repairing, or discarding it. This preserved evidence can be important to an attorney evaluating whether a defect existed. If possible, also photograph it and note where you were, such as near 1st Street or N Main Street, when the injury occurred."
+      },
+      {
+        "question": "Is there a cost to get connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, and attorneys in the network typically work on contingency, meaning there's no fee unless there's a recovery. We simply help connect you; we are not a law firm and don't handle the case ourselves."
+      }
+    ]
+  }
+}

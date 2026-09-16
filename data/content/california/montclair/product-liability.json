@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "montclair product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Montclair Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Montclair, CA? LawProactive connects you free with an independent attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a faulty product injures someone in Montclair, the path to answers shouldn't be complicated. LawProactive can connect you at no cost with an independent attorney who handles defective product claims across San Bernardino County."
+  },
+  "about": {
+    "title": "Montclair Product Liability Claims",
+    "longDescription": "Montclair residents rely on countless products every day — from vehicle parts driven along Central Avenue and I-10 to household appliances and tools used at home or on the job. When one of those products fails because of a design flaw, a manufacturing error, or a missing warning, the resulting injury can upend daily life fast. California law generally allows injured people to pursue a claim under strict liability, meaning the focus stays on whether the product was defective and caused harm, not on proving the manufacturer was careless. That said, product cases often involve multiple companies — makers, distributors, and sellers — and untouched evidence matters. LawProactive doesn't practice law or take a fee for referrals; we simply connect Montclair residents with an independent attorney who can evaluate what happened, identify who may be responsible, and explain options going forward, all without cost to start.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or batteries",
+      "Traumatic injuries from failed vehicle components",
+      "Lacerations or amputations from defective tools or machinery",
+      "Poisoning or illness from mislabeled or contaminated products",
+      "Head and spinal injuries from collapsing furniture or structures",
+      "Electrical shock from faulty wiring or devices"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Product Liability Claims Work Differently Here",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Proof",
+        "desc": "Under California law, you generally don't have to show the manufacturer was negligent — just that the product was defective and caused your injury."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, which may widen the paths available for recovery."
+      },
+      {
+        "title": "The Product Itself Is Critical Evidence",
+        "desc": "Since these claims hinge on the item's condition, keeping the defective product intact and unaltered can matter more than in other injury cases."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I need to prove the manufacturer knew about the defect?",
+        "answer": "Not necessarily. California's strict liability standard generally focuses on whether the product itself was defective and caused injury, rather than what the manufacturer knew or intended. An independent attorney can review the specifics of what happened to you."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Keep it exactly as it was at the time of the injury, if it's safe to do so, and avoid repairs or disposal. The product often serves as key evidence, and preserving it can support a claim regardless of where in Montclair or San Bernardino County the incident occurred."
+      },
+      {
+        "question": "Does it matter that Montclair sees a fair amount of traffic near I-10 and Central Avenue?",
+        "answer": "If a defective auto part contributed to a collision along corridors like I-10 or Central Avenue, that context can be relevant since vehicle-related product defects sometimes surface in crash investigations. An independent attorney can look at police reports and vehicle data to determine whether a product issue played a role."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and attorneys in the network generally work on contingency, meaning there's no fee unless you recover compensation."
+      }
+    ]
+  }
+}

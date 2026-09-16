@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "montebello city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Montebello, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Montebello, LA County? 2 years to file. Connect free with an independent attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on SR-60 or a pedestrian crash near Whittier Boulevard, we'll connect you with an independent attorney at no cost, serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Montebello, California",
+    "longDescription": "Montebello sits along the SR-60 corridor, with Beverly Boulevard and Whittier Boulevard carrying much of the city's daily traffic. In the most recent full year of public records, Montebello saw 246 injury collisions, 321 people hurt, and 1 traffic death. Those numbers reflect real people dealing with medical bills, missed work, and recovery — often after a routine trip along one of these corridors turned into something far more serious. LawProactive is a free service that helps injured people in Montebello get connected with an independent personal injury attorney. We are not a law firm, and we don't handle your case ourselves — we simply make the introduction. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. If you were hurt near the Pomona Freeway, on a residential street off Beverly, or anywhere else in the city, getting informed about your options early matters — especially with California's filing deadlines. Reaching out costs nothing and puts no obligation on you.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Torn ligaments and soft tissue injuries",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before You Wait",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can require action in as little as six months."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the crash — your share of fault just reduces the amount."
+      },
+      {
+        "title": "No Cap on What You've Truly Lost",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain and suffering, so your recovery isn't artificially limited."
+      },
+      {
+        "title": "Nothing Out of Pocket to Start",
+        "desc": "Attorneys in our network work on contingency, which means they only get paid if you win — there's no upfront cost to you."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Mounting medical bills with no income coming in",
+      "Uncertainty about whether the insurance offer is fair",
+      "Worry that waiting too long might cost them their case",
+      "Confusion about who's actually at fault and what that means"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim in Montebello?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If a government entity was involved, such as a city vehicle or road defect, the window can shrink to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Montebello?",
+        "answer": "Public records show higher collision counts along corridors like SR-60, Beverly Boulevard, and Whittier Boulevard, with reports peaking on Fridays between 5 and 7 p.m. These are neutral traffic counts, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California follows a pure comparative fault rule, so being partially at fault doesn't bar you from recovering compensation. Your total recovery is simply reduced by your percentage of fault."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in standard personal injury cases. This differs from some other states, so it's worth understanding your full options."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we are not a law firm ourselves. If you're matched with an attorney, they typically work on contingency, meaning no fee unless you recover money."
+      }
+    ]
+  }
+}

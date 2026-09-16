@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "rosemead medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rosemead Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent Rosemead medical malpractice attorney. No fee unless you recover. Learn about MICRA deadlines and your options."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment at a Rosemead-area clinic or hospital goes wrong, the medical and legal steps that follow can feel overwhelming. LawProactive connects you with an independent attorney who can review what happened and explain your options at no cost to you."
+  },
+  "about": {
+    "title": "Rosemead Medical Malpractice Claims",
+    "longDescription": "Rosemead residents rely on a mix of local clinics, urgent care centers, and larger Los Angeles County hospital systems for everything from routine checkups to major surgery. Most of the time, care goes as expected. But when a provider misses a diagnosis, makes a surgical error, or mismanages medication, the consequences can follow a patient for years. Medical malpractice cases are different from typical injury claims — California's MICRA law sets specific notice periods, expert requirements, and damage limits that apply only to these cases. A bad outcome by itself doesn't automatically mean malpractice occurred; the law requires showing that a provider fell below the accepted standard of care. LawProactive doesn't practice law itself, but we can connect Rosemead patients and families with an independent attorney who understands these rules and can evaluate whether a claim is worth pursuing, generally at no upfront cost.",
+    "commonInjuriesTitle": "Common Types of Medical Malpractice Claims",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication errors or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition after treatment"
+    ],
+    "ctaText": "Speak with an independent attorney about your situation — free and confidential."
+  },
+  "whyChoose": {
+    "title": "What Rosemead Patients Should Know Before Filing",
+    "items": [
+      {
+        "title": "Strict Notice and Filing Deadlines",
+        "desc": "California generally requires a claim within one year of discovering the injury and no more than three years from when it occurred, plus a required 90-day notice to the provider before a lawsuit is filed. Missing these windows can end a claim before it starts."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because medical malpractice involves technical standards of care, a qualified medical expert typically has to review the case and confirm the provider's conduct fell short. An independent attorney can help identify and work with the right kind of expert."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped by Statute",
+        "desc": "California law places a cap on non-economic damages in these cases, and that cap rises each year under current law. Understanding how this affects a potential claim is something an attorney can walk through in detail."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does a bad medical outcome mean I have a malpractice case?",
+        "answer": "Not necessarily. California law requires showing that a provider's care fell below the accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney can review your medical records to help determine whether the standard of care was actually violated."
+      },
+      {
+        "question": "How long do I have to bring a claim in Rosemead?",
+        "answer": "Generally, California gives you one year from when you discover the injury, and no more than three years from when it happened, whichever comes first. There's also a required 90-day notice period before a lawsuit can be filed, so it's worth having your situation reviewed as early as possible."
+      },
+      {
+        "question": "Which hospitals or clinics near Rosemead does this cover?",
+        "answer": "LawProactive can help connect you with an attorney regardless of which Los Angeles County provider, clinic, or hospital was involved in your care. The focus is on what happened during your treatment, not the specific facility's name or location."
+      },
+      {
+        "question": "Is there a cost to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free connection service, and attorneys in the network typically work on contingency, meaning there's no fee unless you recover compensation. There's no obligation to move forward after your initial conversation."
+      }
+    ]
+  }
+}

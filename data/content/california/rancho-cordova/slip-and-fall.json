@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "rancho-cordova slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Slip & Fall Attorney in Rancho Cordova, CA | LawProactive",
+    "metaDescription": "Fell on someone else's property in Rancho Cordova? LawProactive connects you, free, with a premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A wet floor at a Zinfandel Drive store or a broken step at a Folsom Boulevard apartment can change your year in a second. LawProactive connects Rancho Cordova residents, at no cost, with an independent attorney who handles premises liability claims."
+  },
+  "about": {
+    "title": "Rancho Cordova Slip & Fall and Premises Liability Claims",
+    "longDescription": "Rancho Cordova is a city of roughly 71,000 people spread across Sacramento County, with much of its daily traffic flowing through the shopping centers, offices, and apartment complexes along Sunrise Boulevard, Zinfandel Drive, Coloma Road, and Folsom Boulevard. Those same properties are where most falls happen: a spill nobody mopped, a parking lot pothole, an unlit stairwell, a loose handrail. Under California law, a fall alone does not create a claim. You generally have to show the property owner knew about the hazard, or reasonably should have known, and did nothing to fix it or warn you. That element, called notice, is where these cases are won or lost, and it depends heavily on what gets documented in the first few days. Photos, incident reports, witness names, and especially surveillance footage matter enormously, because video is routinely overwritten. The general deadline to file is two years, but if a public entity owns the property, the window can be far shorter. LawProactive is a free service, not a law firm; we connect you with an independent attorney who works on contingency.",
+    "commonInjuriesTitle": "Injuries Commonly Reported After Falls in Rancho Cordova",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, elbow, and shoulder breaks from bracing",
+      "Concussions and other head trauma",
+      "Herniated discs and lower back injuries",
+      "Torn knee ligaments and meniscus damage",
+      "Tailbone and spinal compression injuries"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Rancho Cordova Residents Turn to LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Attorneys who understand the notice requirement",
+        "desc": "California asks whether the owner knew or should have known about the hazard. The attorneys in our network know how to look for cleaning logs, prior complaints, and maintenance records that answer that question."
+      },
+      {
+        "title": "Fast action to preserve surveillance video",
+        "desc": "Stores, apartment complexes, and parking lots often keep footage for only days. Getting an attorney involved quickly means a preservation request can go out before the recording disappears."
+      },
+      {
+        "title": "Deadlines and shared fault handled correctly",
+        "desc": "You typically have two years to file, but a claim against a public entity can carry a much shorter deadline. California's pure comparative fault rule also means you may still recover even if you were partly responsible, with your share reduced accordingly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell in a shopping center parking lot off Sunrise Boulevard. Who is actually responsible?",
+        "answer": "It depends on who controlled the area where you fell. Parking lots and walkways in Rancho Cordova retail centers are sometimes maintained by the property owner, sometimes by a management company, and sometimes by an individual tenant under a lease. An attorney can sort out which party had the duty to inspect and repair, which is a key step in showing notice."
+      },
+      {
+        "question": "I did not report the fall right away. Is my claim gone?",
+        "answer": "Not necessarily. The two-year deadline generally still applies to a private property owner, though a public entity claim can be due in as little as six months. What you lose by waiting is evidence, so gather anything you can now, including photos, medical records, and the names of anyone who saw the hazard or your fall."
+      },
+      {
+        "question": "The store says I was looking at my phone when I slipped. Does that end my case?",
+        "answer": "No. California follows pure comparative fault, so a jury or insurer would assign a percentage of responsibility to each side rather than throwing out your claim. If you were found partly at fault, your recovery would be reduced by that percentage, but the owner remains responsible for their share of the hazard they failed to fix or warn about."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "slip-and-fall",
+    "note": "lawndale slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Lawndale Slip & Fall Attorney Referral | LawProactive",
+    "metaDescription": "Injured in a fall in Lawndale, CA? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall at a Lawndale store, apartment complex, or sidewalk along Hawthorne Boulevard can leave you with medical bills and unanswered questions. LawProactive can connect you at no cost with an independent attorney who handles premises liability claims in Los Angeles County."
+  },
+  "about": {
+    "title": "Lawndale Slip & Fall and Premises Liability Claims",
+    "longDescription": "Slip and fall cases in Lawndale often happen at retail centers, apartment complexes, or parking lots near corridors like Rosecrans Avenue and Inglewood Avenue, where foot traffic is heavy and maintenance issues can go unaddressed. Under California law, proving a premises liability claim generally means showing the property owner or manager knew, or reasonably should have known, about a hazardous condition such as a wet floor, broken step, or poor lighting, and failed to fix it or warn visitors. That's why what happens right after a fall matters: photos of the hazard, witness names, and a request for surveillance footage can make a real difference before video gets erased or the scene gets cleaned up. LawProactive doesn't practice law or represent clients directly. Instead, we connect people injured in Lawndale falls with an independent attorney who can evaluate the details, explain your options, and work on a contingency basis, meaning there's no fee unless there's a recovery.",
+    "commonInjuriesTitle": "Injuries Commonly Reported After Falls",
+    "commonInjuries": [
+      "Hip and pelvis fractures",
+      "Wrist and arm fractures",
+      "Torn ligaments or knee injuries",
+      "Herniated or bulging discs",
+      "Traumatic brain injury or concussion",
+      "Shoulder dislocations or rotator cuff tears"
+    ],
+    "ctaText": "Get connected with an independent premises liability attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Matters in a Lawndale Premises Liability Case",
+    "items": [
+      {
+        "title": "Notice Is the Core Issue",
+        "desc": "California law generally requires showing the property owner knew or should have known about the hazard and had a chance to fix or warn about it. An attorney can help identify maintenance logs, prior complaints, or inspection records that speak to that knowledge."
+      },
+      {
+        "title": "Surveillance Video Disappears Fast",
+        "desc": "Many Lawndale businesses overwrite security footage within days or weeks. Sending a preservation request quickly can be the difference between having video evidence and having none."
+      },
+      {
+        "title": "Comparative Fault Can Reduce, Not Eliminate, Recovery",
+        "desc": "California follows pure comparative fault, so even if you're found partly responsible for the fall, you may still recover a reduced amount. An attorney can help present the facts in a way that fairly reflects what happened."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a slip and fall claim in Lawndale?",
+        "answer": "In most cases, California law gives you two years from the date of the fall to file a lawsuit. If the property involved is owned by a government entity, such as a city building or public sidewalk, the deadline is much shorter and requires an earlier claim filing. It's worth discussing your situation with an attorney soon after the incident to avoid missing any deadline."
+      },
+      {
+        "question": "I fell at a shopping center near Hawthorne Boulevard. What should I do first?",
+        "answer": "Try to take photos of the exact spot where you fell, including any spill, crack, or debris, before it's cleaned up. Ask an employee to document the incident and request that the store preserve any surveillance footage. Seeking medical attention promptly also helps create a record connecting your injury to the fall."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent personal injury attorney in their area. We are not a law firm and don't charge for the referral; attorneys in the network typically work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "colfax workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colfax Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Colfax, CA? Get connected free to an independent attorney who handles workers' comp gaps and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were hurt working near I-80, S Auburn Street, or anywhere else in Colfax, LawProactive can connect you at no cost with an independent attorney who understands how workplace injury claims work in Placer County."
+  },
+  "about": {
+    "title": "Colfax Workplace Injury Claims",
+    "longDescription": "Colfax is a small Placer County town, but its workers face real risks — from warehouse and rail-adjacent work near the I-80 corridor to roadside jobs along S Auburn Street and N Main Street where delivery drivers, utility crews, and contractors operate daily. When someone is hurt on the job here, California law generally routes the claim through workers' compensation, regardless of who caused the accident. But that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to the injury, a separate third-party claim may be possible alongside workers' comp. LawProactive doesn't practice law or handle claims directly — we simply connect injured Colfax workers with an independent attorney, free of charge, who can look at the details and explain what options may exist. Given how much local injury involves nearby roadways, understanding both systems matters.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Help Connect",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Being struck by vehicles or equipment on roadside job sites",
+      "Repetitive strain and overexertion injuries",
+      "Machinery entanglement or crush injuries",
+      "Injuries from defective tools or equipment",
+      "Vehicle collisions while driving for work near I-80"
+    ],
+    "ctaText": "Get connected with an independent attorney today, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Colfax Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims May Exist Beyond Workers' Comp",
+        "desc": "California generally treats workers' comp as the exclusive remedy against an employer, but a negligent third party — like a subcontractor or another driver — may still be liable separately. An independent attorney can help sort out whether Colfax workers have this additional option."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "Workplace injuries in California typically need to be reported to the employer within 30 days, and missing that window can complicate a claim. Getting connected quickly with an attorney can help make sure nothing is overlooked."
+      },
+      {
+        "title": "Retaliation Protections Exist Under California Law",
+        "desc": "It's illegal for an employer to retaliate against a worker for reporting an injury or filing a claim. If that happens, an independent attorney in our network can explain what legal protections may apply."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt driving for work near I-80 in Colfax — does workers' comp cover that?",
+        "answer": "Generally yes, workplace injuries that happen while performing job duties, including driving, are typically covered by workers' compensation. However, if another driver caused the crash, there may also be a separate third-party injury claim. An independent attorney can review the specifics of what happened on I-80 or the westbound corridor."
+      },
+      {
+        "question": "What if my employer says I waited too long to report my injury?",
+        "answer": "California generally requires injuries to be reported within 30 days, so timing matters. If you're unsure whether you're still within that window, or if your employer disputes it, an independent attorney can look at your situation before more time passes."
+      },
+      {
+        "question": "Can I be fired for filing a workers' comp claim in Colfax?",
+        "answer": "No — retaliation for reporting a workplace injury or filing a claim is illegal under California law. If you believe you've faced retaliation, LawProactive can connect you with an independent attorney to discuss what happened, free of charge."
+      }
+    ]
+  }
+}

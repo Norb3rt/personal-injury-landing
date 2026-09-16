@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "benicia city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Benicia, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in a Benicia crash? Solano County residents: 2 years to file. Connect free with an independent attorney. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck, a fall, or another accident, we'll connect you free with an independent attorney serving Solano County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Benicia, California",
+    "longDescription": "Benicia is a tight-knit Solano County city, but its roadways still see their share of trouble. In the most recent full year on record, Benicia logged 89 injury collisions, with 115 people hurt and 3 lives lost. Corridors like I-780, E 2nd Street, Lake Herman Road, and I-680 carry a steady flow of local and regional traffic, and public crash records show activity clustering on Friday afternoons between 3 and 5 p.m., when commuters, shoppers, and weekend travelers overlap. If you or someone you love was hurt in a crash, fall, or other accident here, you don't have to sort out the aftermath by yourself. LawProactive is a free service — not a law firm — that connects injured people in Benicia with an independent personal injury attorney who can look at what happened and explain your options. There's no cost to connect, and attorneys in the network work on contingency, meaning no fee unless there's a recovery. Reaching out early can matter, since evidence and memories fade fast after an accident.",
+    "commonInjuriesTitle": "Injuries We Commonly Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal cord injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "Your Filing Window Is Limited",
+        "desc": "California generally gives you 2 years from the date of injury to file a personal injury claim, but claims against a government entity can require notice within as little as 6 months. Waiting too long can cost you your right to recover."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Bar Recovery",
+        "desc": "California follows pure comparative fault, so even if you share some blame for what happened, you may still recover damages — just reduced by your percentage of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering Damages",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, and loss of enjoyment of life, so what you've been through can be part of the conversation."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in the network work on contingency, meaning they only get paid if you win or settle. That structure lets injured people get legal help without paying money upfront."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling confused about who is actually liable for the crash",
+      "Fear that waiting too long could mean losing the right to file"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Benicia?",
+        "answer": "Under California law, you generally have 2 years from the date of the injury to file a lawsuit. If your claim involves a government entity, such as a public road defect, the notice deadline can be as short as 6 months, so it's wise to act quickly."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you were partly at fault. Your total recovery is simply reduced by your share of responsibility."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Benicia?",
+        "answer": "Public crash records show higher collision counts along corridors like I-780, E 2nd Street, Lake Herman Road, and I-680, with activity often peaking on Friday afternoons between 3 and 5 p.m. These are neutral, publicly reported counts and not a statement about any road being more or less risky."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In most ordinary personal injury cases in California, there's no cap on non-economic damages such as pain and suffering. Compensation depends on the specific facts of your case, and an attorney can help explain what may apply to you."
+      },
+      {
+        "question": "Does it cost anything to connect with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service, not a law firm, and connecting with an independent attorney costs nothing upfront. Attorneys in the network work on contingency, so they only get paid if you receive a recovery."
+      }
+    ]
+  }
+}

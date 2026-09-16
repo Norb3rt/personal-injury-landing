@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "sutter-creek workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sutter Creek Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Sutter Creek? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Sutter Creek, whether on Main Street job sites or delivery routes along Rt 49, LawProactive can connect you free with an independent attorney who understands both workers' comp and third-party claims."
+  },
+  "about": {
+    "title": "Sutter Creek Workplace Injury Claims",
+    "longDescription": "Sutter Creek's mix of small businesses, hillside properties, and trade work along corridors like Ridge Road and Main Street means workplace injuries here often involve more than just a factory floor. Delivery drivers navigate Rt-49, contractors work uneven terrain near the historic district, and retail staff handle physically demanding shifts. When you're hurt on the job, California's workers' compensation system is typically your first path to medical care and wage replacement, regardless of who caused the accident. But when a subcontractor, equipment manufacturer, or another driver contributed to your injury, you may also have grounds for a separate claim against that third party. LawProactive doesn't practice law ourselves; we simply connect injured workers in Sutter Creek with an independent attorney from our network who can look at the full picture of your situation, at no upfront cost to you, and explain what options might apply given your specific circumstances.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven ground",
+      "Vehicle collisions during work deliveries or travel",
+      "Repetitive strain from manual labor or lifting",
+      "Equipment or machinery-related injuries",
+      "Burns or exposure incidents at job sites",
+      "Struck-by injuries from falling objects or tools"
+    ],
+    "ctaText": "Get a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Injured Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding Your Deadlines",
+        "desc": "California generally requires reporting a workplace injury to your employer within 30 days, and separate third-party injury claims typically carry a 2-year deadline. An independent attorney can help you understand which timelines apply to your situation."
+      },
+      {
+        "title": "Exploring Beyond Workers' Comp",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but if a negligent third party, like a subcontractor, property owner, or equipment maker, contributed to your injury, you may have grounds for an additional claim. This distinction can matter significantly for what you're able to recover."
+      },
+      {
+        "title": "Protection From Retaliation",
+        "desc": "California law makes it illegal for an employer to retaliate against you for reporting a workplace injury or filing a claim. An attorney can help you understand your rights if you're concerned about how reporting an injury might affect your job."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a job site near Ridge Road, do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' compensation is your primary remedy against your employer regardless of fault, so that's usually the first step. However, if equipment, a subcontractor, or another party outside your employer contributed to the injury, a separate third-party claim may also be possible. An independent attorney can review the specifics of your incident to clarify which paths apply."
+      },
+      {
+        "question": "What if my employer says I waited too long to report my injury?",
+        "answer": "California generally expects workplace injuries to be reported to your employer within 30 days, so timing matters. If you're past that window or unsure where you stand, it's still worth having an independent attorney review your situation, since circumstances can affect how strictly that timeline is applied. Don't assume you're out of options without getting informed guidance first."
+      },
+      {
+        "question": "Does Sutter Creek being a small town affect my claim?",
+        "answer": "Not in terms of your legal rights; California's workers' compensation and third-party claim rules apply the same way here as anywhere else in the state. What can differ locally is the type of work involved, given Sutter Creek's mix of retail, trades, and driving routes along Main Street and Rt 49. An attorney familiar with these kinds of local work environments can help you think through how a third party might factor into your case."
+      }
+    ]
+  }
+}

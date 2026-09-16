@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "san-francisco medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Francisco Medical Malpractice Lawyer | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Francisco? LawProactive connects you, free, with an independent malpractice attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "If a hospital, clinic, or provider in San Francisco made an error that left you worse off, you deserve a clear answer about what went wrong. LawProactive connects you at no cost with an independent attorney who handles medical negligence claims."
+  },
+  "about": {
+    "title": "San Francisco Medical Malpractice Claims",
+    "longDescription": "Medical care in San Francisco is dense and layered: emergency rooms, surgical suites, outpatient clinics, and specialty practices stacked across a city of roughly 865,000 people in San Francisco County. Most of that care goes well. When it doesn't—when a diagnosis is missed, a medication dose is wrong, or a surgeon operates on the wrong site—the harm can be lasting, and figuring out what actually happened is rarely simple. California's MICRA rules shape every step. You generally have one year from the date you discovered the injury to file, and no more than three years from the injury itself, with a 90-day notice sent to the provider before a lawsuit begins. A qualified medical expert almost always has to review the records and confirm that the standard of care was breached, because a poor result by itself is not malpractice. LawProactive is a free service. We are not a law firm; we connect San Francisco residents with an independent personal injury attorney who handles medical negligence cases on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Harm We Commonly See in Medical Negligence Cases",
+    "commonInjuries": [
+      "Missed or delayed cancer diagnosis",
+      "Surgical errors, including wrong-site procedures",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Hospital-acquired infections from lapses in care"
+    ],
+    "ctaText": "Ask a San Francisco malpractice attorney to review your records—free to start."
+  },
+  "whyChoose": {
+    "title": "Why San Francisco Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Tight",
+        "desc": "California generally allows one year from discovery and never more than three years from the injury, plus a 90-day pre-suit notice. Getting connected early protects that window."
+      },
+      {
+        "title": "Experts Make or Break the Case",
+        "desc": "A qualified medical expert is almost always required to show the standard of care was violated. The attorneys in our network know how to build that foundation."
+      },
+      {
+        "title": "A Cap That Changes Yearly",
+        "desc": "MICRA limits non-economic damages, and the cap rises each year. An attorney can explain how the current figure applies to your situation without overstating what a claim is worth."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My treatment at a San Francisco hospital went badly. Is that automatically malpractice?",
+        "answer": "Not by itself. California law separates a bad outcome from negligent care, and many complications happen even when providers do everything right. A qualified medical expert has to review your records and conclude that the provider fell below the accepted standard of care. That review is where an attorney's work usually begins."
+      },
+      {
+        "question": "How long do I have to act in California?",
+        "answer": "Under MICRA you generally have one year from when you discovered, or reasonably should have discovered, the injury, and no more than three years from the date of the injury itself. Before filing, a 90-day notice of intent must go to the provider. Because these clocks overlap, it helps to speak with an attorney as soon as you suspect something went wrong."
+      },
+      {
+        "question": "Does LawProactive charge me anything, and are you a law firm?",
+        "answer": "No and no. LawProactive is a free connection service, not a law firm, and we do not give legal advice. We match you with an independent attorney who handles medical negligence cases in San Francisco County on a contingency basis, meaning there is no attorney fee unless there is a recovery."
+      }
+    ]
+  }
+}

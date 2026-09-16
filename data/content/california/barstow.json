@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "barstow city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Barstow, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Barstow? San Bernardino County residents get free help finding an attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether it's a rear-end collision on I-15 or a fall that left you hurt, we'll connect you with an independent attorney at no cost. Serving Barstow and all of San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Barstow, California",
+    "longDescription": "Barstow sits at a crossroads — literally. I-15 cuts through town as a major desert corridor, while W Main Street, E Main Street, and Lenwood Road carry the daily flow of local traffic. In the most recent full year on record, Barstow saw 63 injury collisions, with 84 people hurt and 3 lives lost. Those aren't just numbers — each one represents someone whose day, and sometimes whole life, changed in an instant. If that's you or someone you love, you probably have questions: about medical bills, about missed work, about what happens next. LawProactive is a free service that helps injured people in Barstow connect with an independent personal injury attorney who can look at what happened and explain the options. We are not a law firm, and we don't charge you anything to make that connection. Attorneys in our network work on contingency, meaning there's no fee unless you actually recover money. Our goal is simply to make it easier for you to find someone who can help, without adding stress or cost to an already hard situation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring physical therapy or surgery"
+    ],
+    "ctaText": "Find out if you have a claim — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity is involved — like a city road issue — that window can shrink to as little as six months, so it pays to act early."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover compensation — it's just reduced by your share of fault."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages — like pain, suffering, and loss of enjoyment of life — in standard injury cases."
+      },
+      {
+        "title": "You Don't Pay Unless You Win",
+        "desc": "Attorneys connected through LawProactive work on contingency. That means no upfront fees, and payment only comes out of an actual recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing if the crash was partly their fault and whether that ruins their case",
+      "Feeling overwhelmed trying to find a trustworthy attorney on their own",
+      "Fear that time is running out to take legal action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim in Barstow?",
+        "answer": "In most personal injury cases in California, you have two years from the date of the incident to file a claim. If your injury involved a government entity, like a road maintained by the city or county, that deadline can be as short as six months — so it's best not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some blame. Your recovery would simply be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Barstow?",
+        "answer": "Public collision records show higher volumes along I-15, W Main Street, E Main Street, and Lenwood Road, with reported crashes tending to peak on Fridays between 2 and 4 p.m. These are simply public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I have to pay anything upfront to get legal help?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency — meaning they only get paid if you recover compensation. There's no cost to you just to explore your options."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm. We're a free service that helps connect injured people in Barstow with independent personal injury attorneys who can evaluate their situation and advise on next steps."
+      }
+    ]
+  }
+}

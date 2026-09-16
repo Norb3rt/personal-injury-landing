@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "note": "moreno-valley city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Moreno Valley, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Moreno Valley? Get connected free with a Riverside County injury attorney. 2 years to file in California, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were rear-ended on SR-60, hit while crossing Perris Boulevard, or hurt in a fall at a local business, LawProactive connects you with an independent personal injury attorney at no cost. Serving Moreno Valley and all of Riverside County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Moreno Valley, California",
+    "longDescription": "Moreno Valley sits at the crossroads of SR-60 and a grid of wide surface streets, and most days that mix works fine. In 2025, though, the city logged 842 injury collisions on public record. Those crashes left 1,239 people hurt and took 9 lives. The highest collision counts came from Perris Boulevard, Heacock Street, and Alessandro Boulevard, with SR-60 rounding out the busiest corridors. Reports tend to climb on Friday evenings between 5 and 7, when commuters are heading home. If you were one of those 1,239 people, the paperwork that follows can feel heavier than the injury itself: adjuster calls, medical bills, missed shifts, a car you can't drive. LawProactive exists to take one decision off your plate. We are a free service, not a law firm. We connect you with an independent personal injury attorney who handles cases in Riverside County, and you decide whether to move forward after talking with them. There is no charge for the connection, and the attorneys in our network work on contingency, so you pay no fee unless there is a recovery. California gives most people two years to file, and being partly at fault doesn't shut the door on a claim. A short conversation now can help you understand where you stand before that clock runs down.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Moreno Valley",
+    "commonInjuries": [
+      "Whiplash and neck strain from freeway rear-end collisions",
+      "Concussions and other head injuries",
+      "Broken wrists, arms, and collarbones",
+      "Back and spinal disc injuries",
+      "Pedestrian and bicyclist injuries at surface-street crossings",
+      "Knee and hip injuries from slip-and-fall incidents"
+    ],
+    "ctaText": "Talk with an independent attorney about your Moreno Valley injury. It costs nothing to get connected."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Moreno Valley Claim",
+    "items": [
+      {
+        "title": "You have two years, usually",
+        "desc": "California's statute of limitations for most personal injury claims is two years from the date of injury. If a city, county, or state agency is involved, the window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Partial fault doesn't end your claim",
+        "desc": "California follows pure comparative fault. Even if you share some blame for what happened on Heacock Street or SR-60, you can still recover, with your share reduced by your percentage of fault."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain, lost enjoyment, and emotional distress. An attorney can help you document the full picture, not just the medical bills."
+      },
+      {
+        "title": "No fee unless there's a recovery",
+        "desc": "Attorneys in the LawProactive network work on contingency. You don't pay attorney fees out of pocket, and nothing is owed unless your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The other driver's insurer keeps calling and I don't know what to say.",
+      "I missed work after the crash and the bills are piling up.",
+      "I was told I was partly at fault, so I'm not sure I can do anything.",
+      "I can't afford a lawyer and don't know how the fees work."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Moreno Valley?",
+        "answer": "For most personal injury claims in California, you have two years from the date you were hurt. That window drops sharply, sometimes to six months, when a government entity is responsible, such as a claim involving a city vehicle or a road maintenance issue. Because the deadlines vary, it's wise to speak with an attorney early rather than wait."
+      },
+      {
+        "question": "Where do crashes tend to happen in Moreno Valley?",
+        "answer": "Public collision records for 2025 show the highest counts along Perris Boulevard, SR-60, Heacock Street, and Alessandro Boulevard. These figures reflect traffic volume and reported incidents, not a judgment about any particular road. Citywide, reports tend to peak on Fridays between 5 p.m. and 7 p.m."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service, not a law firm, and we do not give legal advice. We put you in touch with an independent personal injury attorney who handles cases in Riverside County, and any attorney-client relationship is between you and that attorney."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses pure comparative fault, which means sharing some blame reduces your recovery but does not eliminate it. If you were found 25 percent at fault, for example, your compensation would be reduced by that 25 percent. An attorney can review the police report and evidence to assess how fault might be assigned."
+      },
+      {
+        "question": "How do I pay an attorney if I'm out of work?",
+        "answer": "Attorneys in our network work on a contingency basis. That means no upfront payment and no attorney fee unless there is a recovery in your case. The initial consultation and the connection through LawProactive are both free, so you can get answers without adding to your expenses."
+      }
+    ]
+  }
+}

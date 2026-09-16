@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "sacramento workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sacramento Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Sacramento? See how workers' comp and third-party claims work in California, and connect free with an independent attorney."
+  },
+  "hero": {
+    "subtitle": "Injured at work in Sacramento? Workers' compensation may not be your only option, and a free connection with an independent attorney can help you see the full picture."
+  },
+  "about": {
+    "title": "Sacramento Workplace Injury Claims",
+    "longDescription": "Sacramento's workforce is spread across state offices downtown, warehouses and distribution yards off SR-99, construction sites throughout Sacramento County, and delivery routes that run up and down US-50 every day. When someone is hurt doing any of that work, the first question is usually simple: who pays? In California, workers' compensation covers most on-the-job injuries no matter who was at fault, and it is normally the only claim you can bring against your own employer. If a subcontractor, a property owner, a defective piece of equipment, or another driver contributed to the injury, though, a separate third-party claim may be possible alongside the comp case. That distinction matters in a city where so much work happens behind the wheel. Sacramento recorded 3,388 injury collisions in 2025, with 4,907 people hurt, and public records show crashes peaking on Fridays between 5 and 7 p.m., with US-50, SR-99, Fruitridge Road and Florin Road among the highest-volume corridors. LawProactive is a free service that connects you with an independent attorney who can sort out which claims apply to your situation.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Sacramento Workplaces",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds and loading docks",
+      "Back and shoulder strains from repetitive lifting",
+      "Crush and pinch injuries from machinery or forklifts",
+      "Collisions while driving for work along US-50 or SR-99",
+      "Burns and electrical shocks on job sites",
+      "Heat-related illness during Sacramento's summer months"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Sacramento Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We help you spot a third-party claim",
+        "desc": "Workers' comp is usually the exclusive remedy against your employer, but California allows a separate injury claim against a negligent subcontractor, property owner, equipment maker or driver. An independent attorney can review whether one exists in your case."
+      },
+      {
+        "title": "Deadlines are explained early",
+        "desc": "You generally need to report a work injury to your employer within 30 days, and any third-party claim carries California's two-year deadline. Knowing both clocks from the start keeps your options open."
+      },
+      {
+        "title": "Retaliation concerns are taken seriously",
+        "desc": "It is illegal in California for an employer to punish you for reporting an injury or filing a claim. The attorneys in our network work on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver while making deliveries on US-50. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical care and part of your lost wages regardless of fault. Because the other driver was not your employer, you may also have a separate third-party injury claim against them, which follows California's two-year deadline. An independent attorney can help coordinate the two so they do not work against each other."
+      },
+      {
+        "question": "Do I have to report my injury right away?",
+        "answer": "California asks you to notify your employer within 30 days of the injury, and sooner is better. Reporting promptly protects your right to benefits and creates a clear record of what happened. Your employer cannot legally retaliate against you for making that report."
+      },
+      {
+        "question": "Can I sue my employer directly if they were careless?",
+        "answer": "In most cases, no. Workers' compensation is generally the exclusive remedy against an employer in California, even when the employer was at fault. The exception is when someone other than your employer, such as a subcontractor, a property owner or an equipment manufacturer, shares responsibility. That is where a separate claim may come into play."
+      }
+    ]
+  }
+}

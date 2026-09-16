@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "san-joaquin workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Joaquin Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in San Joaquin, CA? LawProactive connects you free with an independent attorney who handles work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "When a job site injury sidelines you in San Joaquin, the paperwork and rules around workers' comp can feel like a second job. LawProactive can connect you at no cost with an independent attorney who understands both comp claims and any third party that may share the blame."
+  },
+  "about": {
+    "title": "San Joaquin Workplace Injury Claims",
+    "longDescription": "San Joaquin is a small Fresno County farming community, and much of the local workforce spends its days around agricultural equipment, packing facilities, delivery routes, and roadside work near corridors like South Main Street and Colorado Avenue. When a job injury happens here, California law generally routes the claim through workers' compensation regardless of who was at fault. But that's not always the end of the story. If a piece of rented equipment failed, a subcontractor's crew created the hazard, or another driver caused a work-related crash, a separate claim against that third party may be possible alongside comp benefits. LawProactive doesn't practice law or promise results — we simply listen to what happened, then connect you with an independent attorney in our network who can look at the full picture, including any deadlines that apply, and explain your options in plain terms.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Machinery and equipment-related injuries",
+      "Falls from ladders, trucks, or uneven ground",
+      "Crush or amputation injuries from farm or packing equipment",
+      "Vehicle collisions during work travel or deliveries",
+      "Heat-related illness from outdoor agricultural labor"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why San Joaquin Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Help Untangle Comp vs. Third-Party Claims",
+        "desc": "Workers' comp is usually the only path against your employer, but if a subcontractor, property owner, or another driver contributed to your injury, a separate claim may be available. An attorney can help sort out which path — or both — applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California generally requires injured workers to report the incident to their employer within 30 days. Missing that window can complicate a comp claim, so getting guidance early can make a real difference."
+      },
+      {
+        "title": "Retaliation Is Illegal — And You Have Options If It Happens",
+        "desc": "Employers cannot legally punish you for reporting a job injury or filing a comp claim. If a third-party claim is also on the table, that path carries its own two-year deadline, so timing matters on both fronts."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work near South Main Street or Colorado Avenue and was hurt in a work vehicle. Does workers' comp cover that?",
+        "answer": "Generally yes — an injury during work travel is typically covered by workers' compensation regardless of fault. If another driver caused the crash, though, there may also be a separate third-party claim worth exploring. An independent attorney can review the details and explain how the two might work together."
+      },
+      {
+        "question": "My employer says I waited too long to report my injury. Is my claim over?",
+        "answer": "Not necessarily, but timing does matter — California generally expects injuries to be reported within 30 days. Circumstances can vary, so it's worth having someone review exactly what happened before assuming the door is closed."
+      },
+      {
+        "question": "Can I be fired for filing a workers' comp claim in San Joaquin?",
+        "answer": "No — retaliating against an employee for reporting a workplace injury or filing a comp claim is illegal under California law. If you believe that happened, an attorney in our network can talk through what your options may look like."
+      },
+      {
+        "question": "What if a piece of equipment, not my employer, caused my injury?",
+        "answer": "That's exactly the kind of situation where a third-party claim can come into play, separate from workers' comp. Equipment manufacturers, rental companies, or outside contractors can sometimes be held responsible. These claims generally carry a two-year deadline, so it helps to get the facts reviewed sooner rather than later."
+      }
+    ]
+  }
+}

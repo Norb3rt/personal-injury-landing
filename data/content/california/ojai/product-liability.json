@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "ojai product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ojai Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Ojai? Get connected free to an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a faulty product injures someone in Ojai, California law often lets the injured person hold the maker or seller responsible without proving negligence. LawProactive can connect you, free of charge, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Ojai Product Liability Claims",
+    "longDescription": "Ojai is a small city, but its residents rely on the same consumer goods, tools, vehicles, and appliances found everywhere else — and defects can turn up in any of them. Whether the failure happened at home near Grand Avenue, on a ranch off Cuyama Road, or in a vehicle traveling Rt 150 or Ojai Avenue, a defective product injury raises different legal questions than a typical crash claim. California generally applies strict liability in these cases, meaning the person hurt doesn't have to prove the manufacturer was careless — only that the product was defective and that the defect caused harm. That can mean a design flaw, a manufacturing error, or a missing or inadequate warning. Because these cases often involve testing, corporate records, and expert review, having someone examine the product and the circumstances quickly matters. LawProactive connects Ojai residents with independent attorneys who evaluate these claims at no upfront cost.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from malfunctioning appliances or batteries",
+      "Lacerations or amputations from defective tools or machinery",
+      "Traumatic brain injury from failed protective equipment",
+      "Broken bones from collapsing furniture or equipment",
+      "Poisoning or chemical exposure from mislabeled products",
+      "Injuries from vehicle parts or component failures"
+    ],
+    "ctaText": "Talk to an independent attorney about your product injury — free and confidential."
+  },
+  "whyChoose": {
+    "title": "Why Strict Liability Matters in Ojai Product Cases",
+    "items": [
+      {
+        "title": "No Need to Prove Carelessness",
+        "desc": "Because California often applies strict liability to defective products, an injured Ojai resident generally doesn't need to show the manufacturer was negligent — only that a defect existed and caused harm."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable, which matters in a smaller community like Ojai where a product may pass through several local and regional sellers before reaching a home."
+      },
+      {
+        "title": "The Product Itself Is Key Evidence",
+        "desc": "Preserving the defective item, its packaging, and any related materials is often essential to a strict liability claim, since experts frequently need to examine the product to identify the defect."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I have to prove the manufacturer knew about the defect?",
+        "answer": "Not usually. California's strict liability approach generally focuses on whether the product was defective and caused injury, not on what the manufacturer knew or intended. That's a key difference from many other injury claims."
+      },
+      {
+        "question": "What should I do with the product that hurt me?",
+        "answer": "Keep it exactly as it was at the time of the injury, along with any packaging, manuals, or receipts. In Ojai, where replacement parts or products aren't always locally available, holding onto the original item and any purchase records can matter even more."
+      },
+      {
+        "question": "Can I still make a claim if I bought the product from a small local shop?",
+        "answer": "Yes. Both the retailer and the manufacturer can potentially be responsible under California law, regardless of whether the sale happened at a large chain or a small Ojai storefront."
+      }
+    ]
+  }
+}

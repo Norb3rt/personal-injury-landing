@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "corcoran workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Corcoran Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Corcoran? Get connected free with an independent attorney who handles workers' comp and third-party claims in Kings County."
+  },
+  "hero": {
+    "subtitle": "When a shift in Corcoran ends in an injury, the paperwork and rules can feel like a second job on their own. LawProactive connects you at no cost with an independent attorney who can sort out what workers' comp covers and whether someone else may owe you more."
+  },
+  "about": {
+    "title": "Corcoran Workplace Injury Claims",
+    "longDescription": "Corcoran's economy runs on agriculture, food processing, and the daily movement of goods along corridors like Whitley Avenue and Rt 43, and workers in those industries face real risks — from equipment accidents to vehicle collisions during work travel. In California, workers' compensation is generally the only path against your employer, no matter who was at fault, but that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate claim worth pursuing. Kings County's crash data shows dozens of injury collisions each year, some of which involve people simply doing their jobs — delivering, driving between sites, or working roadside. LawProactive doesn't practice law; we connect injured workers in Corcoran with an independent attorney who can look at your specific situation, explain your options plainly, and help you figure out whether workers' comp alone covers your losses or whether more is available.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Back and spine injuries from lifting or falls",
+      "Machinery and equipment-related injuries",
+      "Vehicle collision injuries during work travel",
+      "Repetitive strain and overuse injuries",
+      "Burns or chemical exposure incidents",
+      "Fractures from slips, trips, or falls on the job"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost — there's no obligation to move forward."
+  },
+  "whyChoose": {
+    "title": "Why Corcoran Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Third-Party Claims Aren't Off the Table",
+        "desc": "Workers' comp usually blocks a claim against your employer, but a negligent subcontractor, property owner, or other driver can still be held responsible separately. An attorney can help identify whether that applies to your case."
+      },
+      {
+        "title": "Deadlines Move Fast",
+        "desc": "You generally have 30 days to report a workplace injury to your employer, and a separate third-party claim carries its own 2-year deadline. Missing either can limit your options, so timing matters."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "California law prohibits employers from punishing workers for reporting an injury or filing a claim. If you're worried about your job, an independent attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on the job in Corcoran — can I still sue my employer?",
+        "answer": "In most cases, no — workers' compensation is the exclusive remedy against your employer under California law, regardless of who was at fault. However, if a third party like a subcontractor, equipment maker, or another driver contributed to your injury, you may have a separate claim. An independent attorney can help sort out which applies to you."
+      },
+      {
+        "question": "What if my injury happened while driving on Whitley Avenue or Rt 43 for work?",
+        "answer": "Work-related vehicle collisions can involve both a workers' comp claim and a possible third-party claim against another driver. Corcoran sees dozens of injury collisions each year on corridors like these, and if another driver caused the crash, that's a separate avenue worth exploring. LawProactive can connect you with an attorney to look into both angles."
+      },
+      {
+        "question": "How long do I have to report my injury or file a claim?",
+        "answer": "You generally need to report a workplace injury to your employer within 30 days. If a third-party claim is involved, California's standard deadline is 2 years from the date of injury. Acting sooner rather than later helps preserve your options either way."
+      }
+    ]
+  }
+}

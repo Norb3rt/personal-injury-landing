@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "fresno workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fresno Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Fresno? Learn how workers' comp and third-party claims work in California, then connect free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured on a Fresno job site, in a packing house, or behind the wheel for work? LawProactive connects you, at no cost, with an independent attorney who can explain what workers' comp covers and whether a third-party claim exists."
+  },
+  "about": {
+    "title": "Fresno Workplace Injury Claims",
+    "longDescription": "Fresno runs on physical work. Packing houses, distribution warehouses, construction crews, hospitals, and the trucks moving goods along SR-99 all depend on people whose bodies are on the line every shift. When a shift ends in an injury, the path forward can feel muddled. California's workers' compensation system typically pays for medical care and a portion of lost wages regardless of who caused the accident, and it is usually the only claim you can bring against your own employer. That is not always where things stop, though. If a subcontractor, a property owner, a defective piece of equipment, or another driver played a part, a separate injury claim against that third party may be available. Some Fresno workers are hurt on the road rather than at a site; the city recorded 1,629 injury collisions in 2025, and employees driving for work travel the same corridors as everyone else. LawProactive is a free connection service, not a law firm. We match Fresno County workers with an independent attorney who can sort out which claims apply and which deadlines matter.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fresno Workplace Cases",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and loading docks",
+      "Back and shoulder injuries from repetitive lifting",
+      "Crush and pinch injuries from forklifts and machinery",
+      "Heat-related illness during Central Valley summers",
+      "Collisions while driving a work vehicle",
+      "Chemical and pesticide exposure in agricultural settings"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent Fresno attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Fresno Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Two Systems, One Clear Explanation",
+        "desc": "Workers' comp is generally your exclusive remedy against your employer, but a negligent third party can be held separately accountable. An attorney in our network can lay out both paths so you understand what actually applies to your situation."
+      },
+      {
+        "title": "Deadlines You Can't Afford to Miss",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and any third-party injury claim carries a two-year filing window. Connecting early helps keep both clocks from running out on you."
+      },
+      {
+        "title": "Protection Against Pushback",
+        "desc": "It is illegal for an employer to retaliate against you for reporting an injury or filing a claim. If your hours were cut or your job threatened after you spoke up, that is something an attorney should hear about."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt in a crash on SR-99 while driving for my employer. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were working, workers' compensation generally covers your medical treatment and part of your lost pay. If another driver caused the collision, you may also have a separate injury claim against that driver, which is handled outside the comp system and subject to California's two-year deadline. An attorney can help you pursue both without one undercutting the other."
+      },
+      {
+        "question": "Can I sue my employer if the injury was their fault?",
+        "answer": "In most cases, no. California's workers' compensation system is designed to be the exclusive remedy against your employer, even when the employer was careless. There are narrow exceptions, and separate claims against third parties like subcontractors, property owners, or equipment manufacturers are a different matter entirely. This is exactly the kind of question worth putting to an attorney early."
+      },
+      {
+        "question": "What if I waited a few weeks to report my injury because I thought it would heal?",
+        "answer": "Report it as soon as you can. California asks you to notify your employer within 30 days, and reporting late can complicate a claim, though it does not automatically end it. Write down when the injury happened, who saw it, and any care you have received so far. An attorney in our network can review the timeline and tell you where things stand."
+      }
+    ]
+  }
+}

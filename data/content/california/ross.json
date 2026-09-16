@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "ross city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ross, CA Personal Injury Help | Free Attorney Match",
+    "metaDescription": "Injured in Ross, Marin County? Get matched free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you've been hurt in a car crash, fall, or bike collision around Ross, we'll connect you at no cost with an independent personal injury attorney serving Marin County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Ross, California",
+    "longDescription": "Ross is a small, tree-lined town, but its streets still see their share of collisions. Public records show 2 injury collisions and 3 people hurt in the most recent final crash year, with no traffic deaths reported. Crashes tend to cluster on Fridays between 10 a.m. and noon, and the corridors with the most recorded activity include Sir Francis Drake Boulevard, Loma Linda Avenue, Ross Common, and Ross Commons — all areas locals pass through daily on the way to school, shopping, or the train. If you were hurt in one of these incidents, sorting out medical bills, insurance calls, and next steps can feel overwhelming on top of recovering physically. LawProactive is a free service that helps injured people in Ross get connected with an independent personal injury attorney who can review what happened and explain your options. We are not a law firm, and we don't provide legal advice ourselves — we simply make the introduction. Attorneys in our network work on contingency, meaning there's no fee unless you recover money. Reaching out costs nothing and puts you in touch with someone who can look at your specific situation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and road rash",
+      "Soft tissue and joint damage"
+    ],
+    "ctaText": "Tell us what happened — it's free to connect with an attorney."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "You Have Time, But Not Forever",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government entity is involved, that window can shrink to as little as six months, so it helps to get moving early."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the incident. Your recovery is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in ordinary injury cases. This means compensation isn't automatically limited to medical bills and lost wages."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money for you. That removes the financial barrier to getting a professional opinion on your case."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if the pain will get worse or heal on its own",
+      "Wondering whether it's even worth talking to a lawyer"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Ross?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If your injury involved a government vehicle or property, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still pursue compensation even if you share some blame. Your final recovery would just be reduced by your percentage of fault, not blocked entirely."
+      },
+      {
+        "question": "Where do crashes tend to happen in Ross?",
+        "answer": "Public crash records show reported collision activity concentrated along corridors like Sir Francis Drake Boulevard, Loma Linda Avenue, Ross Common, and Ross Commons, with reports often clustering on Fridays between 10 a.m. and noon. These are simply public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we don't charge you to connect with an independent personal injury attorney. We are not a law firm ourselves — we just help make the introduction."
+      },
+      {
+        "question": "Will I owe money if my case doesn't win?",
+        "answer": "Attorneys in our network typically work on contingency, meaning they only get paid if you recover compensation. If there's no recovery, you generally owe no attorney fees."
+      }
+    ]
+  }
+}

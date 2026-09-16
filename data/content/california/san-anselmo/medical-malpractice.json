@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "san-anselmo medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Anselmo Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Anselmo? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or treatment went wrong at a Marin County medical facility serving San Anselmo, we can help you get connected with an independent attorney who understands these cases.  There's no cost to talk it through."
+  },
+  "about": {
+    "title": "San Anselmo Medical Malpractice Claims",
+    "longDescription": "San Anselmo residents rely on nearby Marin County clinics and hospitals for everything from routine checkups to major procedures, and most of the time care goes as expected. But when a physician, surgeon, or hospital staff member deviates from the accepted standard of care, the consequences can follow a patient for years. Medical malpractice claims are different from typical injury cases — California's MICRA law adds specific notice periods, filing deadlines, and expert-review requirements that don't apply elsewhere. If you or a family member suffered harm from a missed diagnosis, medication error, or surgical mistake connected to care received in or around San Anselmo, LawProactive can connect you at no cost with an independent attorney who handles these claims and can review what happened. A bad outcome by itself doesn't mean malpractice occurred, but you deserve a clear answer from someone qualified to give one.",
+    "commonInjuriesTitle": "Types of Medical Errors We Help Connect Cases For",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site surgery",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor post-op patients"
+    ],
+    "ctaText": "Talk to an independent attorney about your case, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why This Matters for San Anselmo Patients",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines Apply",
+        "desc": "California generally requires malpractice claims to be filed within one year of discovering the harm, and no more than three years from the injury itself. Waiting to get advice can quietly close your window to act."
+      },
+      {
+        "title": "A 90-Day Notice Is Required First",
+        "desc": "Before a malpractice lawsuit can be filed, California law requires a 90-day pre-suit notice to the provider. Missing this step can delay or derail an otherwise valid claim."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "Because a bad outcome alone isn't proof of malpractice, California cases typically require a qualified medical expert to establish that the standard of care was violated. An attorney can help arrange that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in San Anselmo?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it happened. These deadlines are strict, so it's worth getting a case reviewed sooner rather than later."
+      },
+      {
+        "question": "Is there a limit on what I can recover?",
+        "answer": "California caps non-economic damages — compensation for pain and suffering — under MICRA, though that cap rises each year. Economic damages, such as medical bills and lost income, are handled separately and are not subject to that same cap."
+      },
+      {
+        "question": "My care happened at a Marin County facility near San Anselmo — does that change anything?",
+        "answer": "The same California MICRA rules apply regardless of which Marin County facility provided the care, including the notice period and filing deadlines. What matters is documenting the treatment and getting it reviewed by someone who can assess whether the standard of care was met."
+      },
+      {
+        "question": "Does a poor medical outcome automatically mean malpractice happened?",
+        "answer": "No. Medicine involves risk, and not every complication or disappointing result is the result of an error. A qualified medical expert typically needs to review the case to determine whether the provider's actions fell below the accepted standard of care."
+      }
+    ]
+  }
+}

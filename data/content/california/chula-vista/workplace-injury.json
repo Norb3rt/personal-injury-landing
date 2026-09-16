@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "chula-vista workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Chula Vista Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Chula Vista? Learn how workers' comp and third-party claims differ, and get connected free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Chula Vista? Workers' compensation may not be your only option, and LawProactive can connect you with an independent attorney at no cost to find out."
+  },
+  "about": {
+    "title": "Chula Vista Workplace Injury Claims",
+    "longDescription": "Work in Chula Vista looks different depending on where you clock in. Some people spend their shifts on job sites off Main Street, others stock shelves along Broadway, and plenty drive for a living, crossing Olympic Parkway several times a day. When an injury happens on the clock, the first question is usually the same: who pays for this? In California, workers' compensation normally covers medical care and part of your lost wages no matter who was at fault, and it is generally your only claim against your own employer. That is not always the end of the story, though. If a subcontractor, a property owner, a defective piece of equipment, or another driver contributed to what happened, a separate injury claim against that third party may be possible. Sorting out which path fits your situation takes a careful look at the facts. LawProactive is a free service that connects Chula Vista workers with an independent personal injury attorney who can review your case and explain your options, with no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Common Workplace Injuries in Chula Vista",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and loading docks",
+      "Back, shoulder, and knee injuries from lifting",
+      "Crush and amputation injuries from machinery",
+      "Burns and chemical exposure",
+      "Repetitive strain from warehouse and assembly work",
+      "Collisions while driving for work"
+    ],
+    "ctaText": "Ask a Chula Vista attorney about your options, free"
+  },
+  "whyChoose": {
+    "title": "Why Chula Vista Workers Use LawProactive",
+    "items": [
+      {
+        "title": "Workers' comp is not always the whole picture",
+        "desc": "Your employer is usually protected by the exclusive remedy rule, but a negligent subcontractor, property owner, equipment maker, or driver can still be held responsible. An attorney in our network can tell you whether a third-party claim exists alongside your comp benefits."
+      },
+      {
+        "title": "Reporting deadlines and your job are protected",
+        "desc": "California asks you to report a work injury to your employer within 30 days, and it is illegal for an employer to punish you for doing so. Knowing this early keeps your claim on solid footing."
+      },
+      {
+        "title": "Third-party claims run on a two-year clock",
+        "desc": "A separate injury claim against someone other than your employer generally must be filed within two years. Connecting with an attorney sooner leaves room to gather evidence before that window closes."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit while driving a company vehicle in Chula Vista. Is that only a workers' comp case?",
+        "answer": "Not necessarily. Chula Vista recorded 940 injury collisions in 2025, and some of those involved people who were simply doing their jobs on roads like Broadway or Olympic Parkway. Workers' comp should cover your medical care regardless of fault, but if another driver caused the crash, you may also have a separate claim against that driver. An independent attorney can evaluate both routes."
+      },
+      {
+        "question": "What if my employer says I should not report the injury?",
+        "answer": "You have the right to report a work injury, and California requires you to do so within 30 days to protect your benefits. Retaliation for reporting, whether that means firing, cutting hours, or threats, is against the law. If you are feeling pressured, that is a good reason to speak with an attorney right away."
+      },
+      {
+        "question": "Does LawProactive charge for connecting me with a lawyer?",
+        "answer": "No. LawProactive is a free service, not a law firm, and there is never a charge for the connection. The independent attorneys in our network handle injury claims on contingency, which means they are paid only if there is a recovery in your case."
+      }
+    ]
+  }
+}

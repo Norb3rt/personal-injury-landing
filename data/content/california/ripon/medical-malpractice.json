@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "ripon medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Ripon Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney for Ripon, CA patients and families. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Ripon hospital visit or treatment goes wrong, sorting out what happened and what your rights are can feel overwhelming. LawProactive connects you, at no cost, with an independent attorney who handles medical malpractice claims in San Joaquin County."
+  },
+  "about": {
+    "title": "Ripon Medical Malpractice Claims",
+    "longDescription": "Ripon residents often travel to larger San Joaquin County facilities for surgery, emergency care, or specialist treatment, and most of those visits go fine. But when a diagnosis is missed, a medication is mishandled, or a surgical step is skipped, the effects can follow a patient home to Ripon for months or years. California law recognizes that not every bad outcome is malpractice — a claim generally requires showing that a provider departed from the accepted standard of care and that this departure caused harm. Because these cases involve technical medical records and strict filing deadlines under California's MICRA statute, having someone review the details early matters. LawProactive doesn't practice law or charge any fee; we simply connect Ripon patients and families with an independent, contingency-fee attorney so they can get a clear read on whether their situation may qualify for a claim.",
+    "commonInjuriesTitle": "Situations We See Connected to Malpractice Claims",
+    "commonInjuries": [
+      "Delayed or missed cancer and stroke diagnoses",
+      "Surgical errors, including wrong-site procedures",
+      "Medication dosing or prescription mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor a patient after treatment"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your situation, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Ripon Families Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Are Strict and Specific",
+        "desc": "California generally allows one year from when the harm is discovered, and no more than three years from the injury itself, plus a required 90-day pre-suit notice — an attorney can help track these dates before they close a door."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "Because a qualified medical expert typically must weigh in on whether care fell below the accepted standard, connecting with counsel early gives that review time to happen properly."
+      },
+      {
+        "title": "Non-Economic Damages Are Capped, But the Cap Rises Yearly",
+        "desc": "MICRA places a statutory limit on non-economic damages that increases annually, so understanding current figures matters when weighing a claim's value."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment near Ripon — does that automatically mean malpractice happened?",
+        "answer": "No. California law is clear that a poor result by itself isn't proof of malpractice; the question is whether the provider's care fell below the accepted medical standard and caused the harm. An independent attorney can review your medical records to see whether that standard was likely met or missed."
+      },
+      {
+        "question": "How long do I have to bring a medical malpractice claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but never more than three years from when it occurred, and a 90-day pre-suit notice is usually required before filing. Because Ripon patients often receive care at facilities outside city limits, tracking exactly when treatment records were created can affect these dates, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and the independent attorneys in our network work on contingency, meaning there's no fee unless you recover. We don't handle your case directly — we simply help Ripon residents get in touch with someone who can evaluate it."
+      }
+    ]
+  }
+}

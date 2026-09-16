@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "clayton city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Clayton, CA Personal Injury Help | Free Case Review",
+    "metaDescription": "Injured in Clayton, CA? Free, no-obligation connection to an independent Contra Costa County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether it's a rear-end collision on Clayton Road or a fall that leads to broken bones, we connect Clayton residents with an independent attorney at no cost. We serve people throughout Contra Costa County who need guidance after an accident."
+  },
+  "about": {
+    "title": "Personal Injury Help in Clayton, California",
+    "longDescription": "Clayton is a small, tight-knit community tucked against Mount Diablo, but its roads still see their share of collisions. In the most recent recorded year, Clayton logged 8 injury collisions and 9 people hurt, with no traffic deaths reported. Local corridors like Clayton Road, Marsh Creek Road, Oakhurst Drive, and Keller Ridge Drive account for a meaningful share of the town's reported crashes, and Tuesdays between 3 and 5 p.m. tend to see more reports than other times of the week. If you were hurt on one of these roads, or anywhere else in town, sorting out medical bills, insurance calls, and lost work can feel overwhelming on top of physical recovery. LawProactive is a free service — we are not a law firm. We simply connect injured Clayton residents with an independent personal injury attorney who can review the details of what happened and explain your options. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. There's no cost and no obligation to reach out and learn where you stand.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Find out where you stand — reach out for a free, no-obligation connection today."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "California's Two-Year Filing Window",
+        "desc": "Most personal injury claims in California must be filed within two years of the incident, though claims against a government entity can require notice in as little as six months. Waiting too long can mean losing your right to pursue compensation altogether."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows a pure comparative fault rule, so even if you were partly responsible for what happened, you can still recover a share of damages. An attorney can help make sure your compensation isn't reduced more than it should be."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In typical injury cases, California places no limit on compensation for pain, suffering, and other non-economic losses. That means your recovery isn't artificially capped just because your injury is hard to put a dollar figure on."
+      },
+      {
+        "title": "No Fee Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so you pay nothing upfront and owe no attorney fees unless there's a recovery in your case. That structure lets you focus on healing instead of worrying about legal bills."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Mounting medical bills with no clear way to pay them",
+      "Missed paychecks while you're out of work recovering",
+      "Insurance adjusters pushing for a quick, lowball settlement",
+      "Uncertainty about whether you even have a valid claim"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Clayton?",
+        "answer": "In most cases, California gives you two years from the date of the incident to file a personal injury lawsuit. If a government entity or agency was involved, that window can shrink to as little as six months, so it's worth getting guidance quickly. Missing these deadlines generally means losing the right to pursue compensation."
+      },
+      {
+        "question": "Where do collisions tend to cluster in Clayton?",
+        "answer": "Based on public crash records, Clayton Road, Marsh Creek Road, Oakhurst Drive, and Keller Ridge Drive show higher collision counts than other streets in town, and Tuesdays between 3 and 5 p.m. see more reported crashes than other days and times. These are simply reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some responsibility for the accident. Your recovery would be reduced by your percentage of fault, but it isn't barred entirely. An attorney can help assess how fault might be allocated in your specific situation."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is completely free, and attorneys in our network work on a contingency basis. That means they only get paid if you receive a settlement or award, so there's no upfront cost or ongoing fee to worry about."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm — we're a free service that connects injured people in Clayton and throughout Contra Costa County with an independent personal injury attorney. We don't provide legal advice or represent clients directly; we simply help make that first connection easier."
+      }
+    ]
+  }
+}

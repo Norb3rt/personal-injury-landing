@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "hayward slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hayward Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a slip and fall in Hayward, CA? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "Fell on someone else's property in Hayward and now you're dealing with the aftermath? We connect you, at no cost, with an independent attorney who handles premises liability claims across Alameda County."
+  },
+  "about": {
+    "title": "Hayward Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter in the moment. You're on the ground outside a grocery store off Mission Boulevard, or in a stairwell at an apartment complex, and the first thought is embarrassment, then pain. In Hayward, a city of about 158,000 people in Alameda County, these injuries tend to happen in places residents pass through every day: shopping centers, parking structures, restaurants, rental housing, and transit walkways. California premises liability law asks a specific question: did the property owner know about the hazard, or should they have known, and did they fail to fix it or warn you? That \"notice\" element is where most of these claims are decided. Proof also fades quickly. Spills get mopped, loose tile gets patched, and surveillance footage is frequently overwritten within days. LawProactive is a free service that connects Hayward residents with an independent personal injury attorney who takes premises cases on contingency. We are not a law firm, and there is no charge to reach out.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Hayward",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and shoulder fractures from bracing",
+      "Concussions and other head injuries",
+      "Knee ligament tears and meniscus damage",
+      "Back and spinal disc injuries",
+      "Tailbone and lower spine fractures"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Hayward Residents Use LawProactive for Fall Claims",
+    "items": [
+      {
+        "title": "Attorneys who focus on the notice question",
+        "desc": "Winning a California premises case usually means showing the owner knew or should have known about the hazard and did nothing. The attorneys in our network build that proof through maintenance logs, inspection records, and prior complaints."
+      },
+      {
+        "title": "Fast action to preserve video and evidence",
+        "desc": "Store and property cameras often loop over footage in a matter of days. An attorney can send a preservation demand right away and document the scene before it changes."
+      },
+      {
+        "title": "No cost to connect, no fee without a recovery",
+        "desc": "LawProactive is free, and the independent attorneys we connect you with work on contingency. California's two-year deadline (shorter when a public entity is involved) is why we move quickly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a public sidewalk in Hayward. Is my deadline still two years?",
+        "answer": "Probably not. When the property belongs to the City of Hayward, Alameda County, BART, or another government agency, California requires a formal claim to be filed with that entity first, generally within six months of the injury. Missing that window can end the case before it begins, so it's worth speaking with an attorney soon after a fall on public property."
+      },
+      {
+        "question": "The store said I should have been watching where I was walking. Does that end my claim?",
+        "answer": "No. California uses pure comparative fault, which means a jury can assign a percentage of responsibility to you and still hold the property owner accountable for its share. Even if you were partly distracted, the owner's failure to fix or warn about a known hazard still matters."
+      },
+      {
+        "question": "What should I do in the first few days after a fall?",
+        "answer": "Get medical care first, then write down exactly where and how it happened while it's fresh. Photograph the hazard, your shoes, and any missing warning signs, and ask for the names of employees or witnesses. Request in writing that the property keep its surveillance video, since many systems delete footage within a week or two."
+      }
+    ]
+  }
+}

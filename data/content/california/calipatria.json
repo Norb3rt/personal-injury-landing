@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "calipatria city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Calipatria, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Calipatria? Free connection to an Imperial County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you or someone you love was hurt in a car crash, fall, or other accident near Calipatria, we can connect you with an independent attorney at no cost. This free service covers all of Imperial County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Calipatria, California",
+    "longDescription": "Calipatria sits in a quiet stretch of Imperial County, but that doesn't mean people here are immune to serious accidents. Public crash records show activity concentrated along Access Road and Blair Road (State Route 7018), with reported collisions tending to cluster on Saturday mornings between 8 and 10 a.m. The most recent finalized year on record showed no reported injury collisions and no traffic deaths in the city — a reminder that Calipatria's roads see far less volume than larger Imperial County communities, though that can change year to year, and any single crash can turn a routine drive into a life-altering event. If you were hurt in a collision, a fall, or another kind of accident near Calipatria, you don't have to sort through insurance calls and paperwork by yourself. LawProactive is a free service — we are not a law firm — that connects injured people with an independent personal injury attorney who can review what happened. Attorneys in our network work on contingency, meaning there's no fee unless they recover money for you. Reaching out costs nothing and puts no obligation on you.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Concussions and head trauma",
+      "Cuts, bruises, and soft-tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Tell us what happened and we'll help you find the right attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, but that window can shrink to as little as six months if a government entity is involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, even if you share some blame for an accident, you can still recover damages — the amount is simply reduced by your percentage of fault. An attorney can help make sure your share isn't overstated."
+      },
+      {
+        "title": "No Ceiling on Pain-and-Suffering Damages",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in standard injury cases. That means your compensation isn't artificially limited the way it is in some other states."
+      },
+      {
+        "title": "No Fee Unless You Recover Money",
+        "desc": "Attorneys connected through LawProactive work on contingency, so you pay nothing upfront and owe no fee unless your case results in a recovery. That takes the financial risk off your shoulders while you focus on healing."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the insurance company's settlement offer is fair",
+      "Fear that admitting any fault means losing your right to compensation",
+      "Uncertainty about how long you legally have to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much time do I have to file a claim after an accident in Calipatria?",
+        "answer": "In most California injury cases, you have two years from the date of the accident to file a lawsuit. If a government agency or vehicle was involved, that deadline can be as short as six months, so it's worth getting guidance early."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you were partially responsible. Your total award is simply reduced by the percentage of fault assigned to you."
+      },
+      {
+        "question": "Where do crashes tend to be reported in Calipatria?",
+        "answer": "Public collision records point to Access Road and Blair Road (State Route 7018) as the corridors with the highest recorded crash counts in the area, with reports clustering on Saturday mornings between 8 and 10 a.m. These are simply the locations and times where reports have concentrated, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge any fees?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we are not a law firm and we don't charge you anything. Attorneys in the network work on contingency, so they only get paid if you recover compensation."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "California does not cap non-economic damages, such as pain and suffering, in typical personal injury cases. This differs from some other states, and an attorney can help explain how that applies to your specific situation."
+      }
+    ]
+  }
+}

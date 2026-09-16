@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-15",
+    "practice": "workplace-injury",
+    "note": "etna workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Etna Workplace Injury Help | Siskiyou County | LawProactive",
+    "metaDescription": "Hurt at work in Etna, CA? LawProactive connects Siskiyou County workers with an independent injury attorney for free. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a job in Etna leaves you hurt, workers' comp is only part of the picture. We connect you, at no cost, with an independent attorney who can look for any third party that shares the blame."
+  },
+  "about": {
+    "title": "Etna Workplace Injury Claims",
+    "longDescription": "Etna is a town of about 737 people, and most of its work happens close to home: ranching and timber jobs, small shops along Main Street, road crews and delivery routes on State Route 3. An injury in a place this size is rarely just a paperwork problem. It can mean the only mechanic, the only clerk, or the only hand on a crew is suddenly off the job. Under California law, workers' compensation covers you no matter who caused the accident, and it normally stands as your only claim against your employer. That said, a lot of Siskiyou County workers are hurt by someone other than the boss: a subcontractor who left a hazard, a landowner who ignored a known problem, a machine that failed, or another driver on Rt 3. Those third parties can be held responsible in a separate claim. LawProactive is free and independent. Tell us what happened, and we connect you with an attorney who handles these cases on contingency.",
+    "commonInjuriesTitle": "Injuries We See in Etna Workplace Cases",
+    "commonInjuries": [
+      "Falls from ladders, roofs, and loading docks",
+      "Back and shoulder strain from lifting or repetitive work",
+      "Crush injuries from farm and forestry equipment",
+      "Cuts and amputations from tools or machinery",
+      "Collisions while driving for work on State Route 3",
+      "Burns, chemical exposure, and heat illness"
+    ],
+    "ctaText": "Tell us about your injury. The connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Etna Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We look past workers' comp",
+        "desc": "Comp pays regardless of fault, but it is usually the only claim you get against your employer. The attorneys we connect you with check whether a subcontractor, property owner, equipment maker, or another driver opened the door to a separate injury claim."
+      },
+      {
+        "title": "We keep the 30-day report in view",
+        "desc": "California expects you to tell your employer about a work injury within 30 days, and it is illegal for them to punish you for doing it. If you have been written up, cut in hours, or let go after reporting, that matters and we make sure it gets raised."
+      },
+      {
+        "title": "We respect the two-year clock",
+        "desc": "A third-party claim in California generally has to be filed within two years of the injury. Starting early in a small town like Etna gives an attorney time to track down witnesses and records before they scatter."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on State Route 3 while making a work delivery near Etna. Is that a workers' comp case or a car accident case?",
+        "answer": "It can be both. Because you were on the job, workers' compensation applies no matter who caused the crash. If the other driver was at fault, you may also have a separate injury claim against that driver, and that claim follows the two-year deadline. An independent attorney can sort out how the two work together so one does not undercut the other."
+      },
+      {
+        "question": "My employer in Siskiyou County is a small family operation. Can I still file a claim without ruining the relationship?",
+        "answer": "Workers' compensation is insurance your employer is required to carry, so a claim is not a lawsuit against the owner personally. You still need to report the injury within 30 days to protect yourself. If a third party such as an equipment manufacturer or another contractor caused the harm, that claim is aimed at them, not at your employer."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. Our service is free, and we are not a law firm. The attorneys in our network work on contingency, which means there is no fee unless your case recovers money. You are under no obligation after the first conversation."
+      }
+    ]
+  }
+}

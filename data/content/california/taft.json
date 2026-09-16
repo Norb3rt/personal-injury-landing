@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "taft city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Taft, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Taft or Kern County? Get connected free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether it was a rear-end collision on Rt 33 or a fall that left you hurt, we'll connect you free with an independent attorney serving Kern County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Taft, California",
+    "longDescription": "Taft may be a small city, but its roads see real traffic and real consequences. In the most recent reporting year, Kern County recorded 22 injury collisions in and around Taft, leaving 31 people hurt and 2 dead. Corridors like Rt 33, 6th Street, Kern Street, and Gardner Field Road carry much of the town's daily traffic, and collisions here tend to cluster on Saturday evenings between 7 and 9 p.m. — a pattern worth knowing whether you're a driver, a passenger, or a pedestrian. If you've been hurt in a crash or another kind of accident in Taft, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of recovering physically. LawProactive is a free service that connects injured people with an independent personal injury attorney — we are not a law firm, and we don't decide or handle your case ourselves. Attorneys in our network take cases on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and puts you in touch with someone who can review what happened and explain your options under California law.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Head and traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from pedestrian or bicycle collisions"
+    ],
+    "ctaText": "Tell us what happened — the call is free, and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Injured People in Taft Turn to Our Network",
+    "items": [
+      {
+        "title": "You Won't Be Left Waiting on the Clock",
+        "desc": "California generally gives you two years from the date of injury to file a claim, though claims against a government entity can require notice in as little as six months. An attorney can help make sure your window doesn't close."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you share some blame for the accident — your compensation is simply reduced by your percentage of fault."
+      },
+      {
+        "title": "There's No Ceiling on Pain-and-Suffering Damages",
+        "desc": "In ordinary personal injury cases, California places no cap on non-economic damages like pain, suffering, and loss of enjoyment of life."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award — there's no fee out of your pocket to get started."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Feeling unsure whether you can still file a claim if you were partly at fault",
+      "Struggling to gather evidence and paperwork while you're still recovering"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Taft?",
+        "answer": "California generally allows two years from the date of the accident to file a personal injury lawsuit. If a government entity, like the city or county, was involved, that window can shrink to as little as six months for filing a notice of claim. Because these deadlines are strict, it helps to talk to an attorney sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, so being partly at fault doesn't bar you from recovering compensation. Your total award would simply be reduced by your percentage of responsibility. An attorney can help evaluate how fault might be allocated in your specific situation."
+      },
+      {
+        "question": "Where do crashes tend to happen in Taft?",
+        "answer": "Public collision records show that Rt 33, 6th Street, Kern Street, and Gardner Field Road are among the higher-volume corridors for reported injury crashes in Taft. Reported crashes also tend to cluster on Saturdays between 7 and 9 p.m. These are simply public-record patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No — in ordinary California personal injury cases, there's no cap on non-economic damages such as pain, suffering, or emotional distress. Compensation depends on the specific facts and impact of your injury, which an attorney can help assess."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney — we are not a law firm ourselves. Attorneys in our network work on contingency, so you don't pay a fee unless you actually recover compensation."
+      }
+    ]
+  }
+}

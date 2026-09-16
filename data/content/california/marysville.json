@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "marysville city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Marysville, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Hurt in Marysville, Yuba County? Get connected free to an independent injury attorney. 2-year deadline to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash, a broken bone, or something more serious after a crash, you can connect free with an independent personal injury attorney serving Yuba County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Marysville, California",
+    "longDescription": "Marysville sits at the meeting point of the Feather and Yuba Rivers, and its grid of downtown streets carries a steady mix of local drivers, commuters, and through-traffic. Public records show 43 injury collisions in the most recent final crash year, leaving 66 people hurt and 3 lives lost. Corridors like 10th Street, E Street, 5th Street, and B Street see the highest volume of reported collisions in town, and Friday afternoons between 3 and 5 p.m. tend to be when crashes are most often reported. If you were injured in one of these collisions, sorting out medical bills, missed work, and insurance calls can feel like a full-time job on top of recovering. LawProactive is a free service — we are not a law firm — that connects injured people in Marysville with an independent personal injury attorney who can review what happened and explain your options. Attorneys in this network work on contingency, meaning there's no fee unless you recover compensation. You don't have to figure this out on your own or guess at deadlines; a quick, free conversation can help you understand where you stand.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Torn ligaments and soft tissue damage",
+      "Cuts, bruises, and scarring"
+    ],
+    "ctaText": "Find out where you stand — connect free with an attorney today."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Settling",
+    "items": [
+      {
+        "title": "You have a limited window to act",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but claims against a government agency can require notice in as little as six months. Missing that window can end your ability to recover anything."
+      },
+      {
+        "title": "Being partly at fault doesn't shut you out",
+        "desc": "California follows pure comparative fault, so even if you share some blame for the crash, you can still pursue compensation reduced by your percentage of fault. An attorney can help make sure your share of fault isn't overstated by an insurer."
+      },
+      {
+        "title": "There's no cap on many of your losses",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering. That means your compensation isn't artificially boxed in by a statutory ceiling."
+      },
+      {
+        "title": "You don't pay unless you recover",
+        "desc": "Attorneys in this network work on contingency, so there's no upfront fee to have your case reviewed or handled. They only get paid if you receive a settlement or award."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you can't work",
+      "Not knowing if the insurance adjuster's offer is fair",
+      "Fear that admitting any fault will end your claim entirely",
+      "Uncertainty about how much time you actually have left to act"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Marysville?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If your injury involved a government entity, such as a city vehicle, that window can shrink to as little as six months for filing a claim notice. It's worth confirming your specific deadline as soon as possible."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you were partly at fault. Your total recovery would simply be reduced by your percentage of responsibility, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Marysville?",
+        "answer": "Public collision records show that 10th Street, E Street, 5th Street, and B Street have the highest volume of reported collisions in Marysville. Crashes are also more frequently reported on Friday afternoons between 3 and 5 p.m. These are neutral public-record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge any fees?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney — we are not a law firm and don't charge for the connection. Attorneys in the network work on contingency, so they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "How much is my case worth?",
+        "answer": "There's no way to know that without understanding the specifics of your injuries, medical treatment, and how the accident happened. An independent attorney can review your situation and give you a clearer picture after learning the facts. No outcome or dollar amount can be promised in advance."
+      }
+    ]
+  }
+}

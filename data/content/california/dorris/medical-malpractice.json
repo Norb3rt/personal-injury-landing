@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "dorris medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dorris Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Dorris, CA? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or treatment goes wrong at a clinic or hospital serving Dorris, the aftermath can leave you and your family scrambling for answers. LawProactive connects you at no cost with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "Dorris Medical Malpractice Claims",
+    "longDescription": "Dorris sits in a rural stretch of Siskiyou County, and residents here often travel outside the immediate area for specialized medical care, which can add layers of complexity when something goes wrong. Whether the issue involved a missed diagnosis at a local clinic, a medication error, or a surgical complication at a regional hospital, sorting out what happened requires medical records, timelines, and often a qualified expert to review the care you received. California law puts real deadlines and procedural steps in front of anyone pursuing this kind of claim, and a bad medical outcome by itself doesn't automatically mean malpractice occurred. LawProactive doesn't practice law or charge you anything to use our service. Instead, we listen to what happened, then connect you with an independent attorney in our network who can evaluate your situation and explain your options under California's specific rules for medical injury claims.",
+    "commonInjuriesTitle": "Common Types of Medical Errors",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk with someone about what happened — it costs nothing to ask."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "Strict Filing Windows Apply",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to bring a malpractice claim. An attorney can help you understand where you stand on that timeline before options close."
+      },
+      {
+        "title": "A 90-Day Notice Is Required First",
+        "desc": "Before filing suit, California law requires sending the healthcare provider a 90-day notice of intent. Missing or mishandling this step can delay or derail a valid claim."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "Because a poor outcome alone isn't proof of malpractice, these cases typically require a qualified medical expert to establish that the care fell below an accepted standard. An attorney can help arrange that kind of review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I live in Dorris — do I need to find a local attorney?",
+        "answer": "Not necessarily. Because Dorris is a small community in Siskiyou County, the attorney best suited to your case may practice elsewhere in the region or even further away, especially if your care happened at a larger hospital outside town. LawProactive can connect you with an independent attorney experienced in California malpractice claims regardless of where their office sits."
+      },
+      {
+        "question": "How long do I have to bring a claim in California?",
+        "answer": "Generally, you have one year from when you discover the injury, but no more than three years from the date it happened, whichever comes first. There are limited exceptions, so it's worth having someone review your specific timeline soon rather than waiting."
+      },
+      {
+        "question": "Is there a limit on what I can recover?",
+        "answer": "California law caps non-economic damages (things like pain and suffering) in medical malpractice cases, and that cap rises each year under current law. Economic damages, like medical bills and lost income, are generally not subject to that same cap."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. Medicine involves risk, and an unfavorable result doesn't by itself prove negligence occurred. A qualified medical expert typically needs to review the case and confirm that the care fell below an accepted standard before a claim can move forward."
+      }
+    ]
+  }
+}

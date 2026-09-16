@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "chico medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Chico Medical Malpractice Help | LawProactive",
+    "metaDescription": "Harmed by a medical error in Chico? LawProactive connects Butte County patients with an independent malpractice attorney for free. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When care in Chico leaves you worse off than you should be, sorting out what happened should not cost you anything. We connect Butte County patients with an independent medical malpractice attorney at no charge."
+  },
+  "about": {
+    "title": "Chico Medical Malpractice Claims",
+    "longDescription": "Chico, home to roughly 90,000 people in Butte County, is where much of the region's medical care happens. Residents drive in along the Esplanade or off SR-99 for surgeries, deliveries, imaging, and specialist visits, and most of the time that care goes as it should. When it does not, the questions come quickly. Was this a known risk, or did someone fall below the standard other providers would have met? California draws that line carefully. A poor result by itself is not malpractice; a claim under MICRA has to show that a provider's error caused harm, and a qualified medical expert nearly always has to say so. The timing is tight, too: generally one year from when you discovered the injury, never more than three years from when it happened, with a 90-day notice sent before any suit is filed. LawProactive is not a law firm. We are a free service that matches Chico patients and families with an independent attorney who handles these cases on contingency, so you can find out where you stand without paying to ask.",
+    "commonInjuriesTitle": "Harm We See in Chico Malpractice Cases",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Failure to order or follow up on test results"
+    ],
+    "ctaText": "Get a free case review with a Chico malpractice attorney"
+  },
+  "whyChoose": {
+    "title": "Why Chico Patients Start With LawProactive",
+    "items": [
+      {
+        "title": "MICRA's Clock Is Short",
+        "desc": "California generally gives you one year from the date you discovered the injury, and no more than three years from the injury itself. Connecting early leaves room for the required 90-day notice before a lawsuit can be filed."
+      },
+      {
+        "title": "An Expert Has to Back the Claim",
+        "desc": "A bad outcome alone is not malpractice under California law. The attorneys in our network know a qualified medical expert is almost always needed to show the standard of care was breached, and they build that into the review from day one."
+      },
+      {
+        "title": "Free to Connect, Contingency to Pursue",
+        "desc": "LawProactive charges nothing to match you with an independent attorney. If the attorney takes your case, there is no fee unless there is a recovery, and MICRA's rising cap on non-economic damages is explained plainly so there are no surprises."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in Chico but live in another part of Butte County. Does that change anything?",
+        "answer": "Not in terms of your rights. What matters is where the care happened and whether a provider fell below the accepted standard, not your home address. Many people come into Chico from surrounding communities for treatment, and the attorney can review records from any facility involved in your care."
+      },
+      {
+        "question": "My surgery did not go well. Is that automatically malpractice?",
+        "answer": "No. California law is clear that a bad outcome by itself is not malpractice; every procedure carries risks that can occur even with careful treatment. The question is whether a provider did something a reasonably careful provider would not have done, and whether that error caused your harm. A qualified medical expert is almost always needed to answer that."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "MICRA places a cap on non-economic damages such as pain and suffering, and that cap increases each year under current law. Economic losses like medical bills and lost income are treated separately. An attorney can explain how these categories apply to your situation, though no one can promise a particular result."
+      }
+    ]
+  }
+}

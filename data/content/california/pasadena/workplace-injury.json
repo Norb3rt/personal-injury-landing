@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "pasadena workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pasadena Workplace Injury Attorney Match | LawProactive",
+    "metaDescription": "Hurt on the job in Pasadena? See how workers' comp and third-party claims differ, then get connected free to an independent California injury attorney."
+  },
+  "hero": {
+    "subtitle": "An injury at work in Pasadena can leave you juggling a comp claim and questions about who else might be responsible. We help you sort it out and connect you, free, with an independent attorney."
+  },
+  "about": {
+    "title": "Pasadena Workplace Injury Claims",
+    "longDescription": "Pasadena's workforce moves through hospital corridors, research labs, retail floors along Colorado Boulevard, and construction sites tucked between residential blocks. When someone gets hurt at any of those places, California generally steers the employee toward workers' compensation, a no-fault system that pays for medical care and part of lost wages whether or not anyone was careless. That is usually the only route against your employer. It is not always the only route, period. If a subcontractor left a hazard, a property owner ignored a defect, a machine failed because of how it was built, or another driver struck your work vehicle on I-210 or Fair Oaks Avenue, that third party may owe you a separate claim covering losses comp never touches. Los Angeles County records show 922 injury collisions in Pasadena during 2025, with 1,333 people hurt, and some of them were simply doing their jobs. LawProactive helps you figure out which path fits your situation and connects you, at no cost, with an independent attorney who handles these matters on contingency.",
+    "commonInjuriesTitle": "Injuries Pasadena Workers Commonly Report",
+    "commonInjuries": [
+      "Falls from ladders, scaffolds, and loading docks",
+      "Back and shoulder strains from lifting or repetitive motion",
+      "Crush injuries from machinery or falling materials",
+      "Burns and chemical exposure in labs and kitchens",
+      "Collisions while driving a company or delivery vehicle",
+      "Head injuries from struck-by incidents on job sites"
+    ],
+    "ctaText": "Tell us what happened at work. The connection is free, and there's no fee unless your attorney recovers for you."
+  },
+  "whyChoose": {
+    "title": "Why Pasadena Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We look past the comp claim",
+        "desc": "Workers' compensation is usually the exclusive remedy against your employer, but it does not shield a negligent subcontractor, property owner, equipment maker, or driver. An attorney can evaluate whether a third-party claim exists alongside your comp case."
+      },
+      {
+        "title": "Timelines matter, and they differ",
+        "desc": "California expects you to report a work injury to your employer within 30 days, while a third-party injury claim generally carries a two-year deadline. Knowing both clocks early keeps options open."
+      },
+      {
+        "title": "You are protected from pushback",
+        "desc": "Retaliating against a worker for reporting an injury or filing a claim is illegal in California. If you sense pressure to stay quiet, that itself is worth discussing with an attorney."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit on Orange Grove Boulevard while driving for work. Is that a comp claim or a car accident claim?",
+        "answer": "It can be both. Because you were on the job, workers' compensation should cover your medical care and a portion of lost wages regardless of who caused the crash. If the other driver was at fault, you may also have a separate third-party claim against that driver for damages comp doesn't pay, such as full lost income and pain and suffering. Pasadena's collision reports tend to cluster on Friday afternoons between 3 and 5 p.m., a window when many people are still on shift, so this overlap comes up more than you might expect."
+      },
+      {
+        "question": "Can I sue my employer directly if they caused my injury?",
+        "answer": "In most situations, no. California makes workers' compensation the exclusive remedy against an employer, even when the employer was careless. Narrow exceptions exist, and a separate claim may still be possible against a third party like a subcontractor, property owner, or equipment manufacturer. An attorney can tell you whether any of that applies to your case."
+      },
+      {
+        "question": "Does LawProactive charge me anything, and are you a law firm?",
+        "answer": "We are not a law firm and we do not charge you. LawProactive is a free service that connects injured people with an independent personal injury attorney. The attorneys in our network work on contingency, meaning no attorney fee unless there is a recovery, and you decide whether to move forward after speaking with them."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "pittsburg workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Pittsburg Workplace Injury Attorney | LawProactive",
+    "metaDescription": "Hurt on the job in Pittsburg, CA? LawProactive connects you free with an independent attorney to review workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Injured while working in Pittsburg? A free connection to an independent attorney can help you understand whether workers' compensation is your only option or whether a third party also owes you."
+  },
+  "about": {
+    "title": "Pittsburg Workplace Injury Claims",
+    "longDescription": "Pittsburg has long been a working city. Between the daily commutes along SR-4, Railroad Avenue and Harbor Street and the job sites spread across Contra Costa County, a lot of people here earn their living doing physical work. When that work leads to an injury, the first question is usually simple: who pays? In California, workers' compensation normally covers medical care and part of your lost wages no matter who was at fault, and it is generally the only claim you can bring against your employer. But it is not always the whole story. If someone outside your employer contributed to the injury, such as a subcontractor on the same site, the owner of the property, the company that built a faulty machine, or another driver who hit you while you were working, you may also have a separate third-party claim. LawProactive is not a law firm. We connect Pittsburg workers, at no cost, with an independent attorney who can sort out which paths apply and handle them on contingency.",
+    "commonInjuriesTitle": "Injuries Pittsburg Workers Commonly Report",
+    "commonInjuries": [
+      "Back and spinal strain from lifting or repetitive motion",
+      "Falls from ladders, scaffolds or loading docks",
+      "Crush and amputation injuries from machinery",
+      "Burns and chemical exposure at industrial sites",
+      "Head injuries from falling objects or vehicle collisions",
+      "Hand, wrist and shoulder damage from tool and equipment use"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Pittsburg Workers Use LawProactive",
+    "items": [
+      {
+        "title": "Two Claims, Not One",
+        "desc": "Workers' comp is usually the only route against your employer, but a negligent subcontractor, property owner, equipment maker or driver can be pursued separately. The attorneys we connect you with look for both."
+      },
+      {
+        "title": "Deadlines Are Different",
+        "desc": "You should report a work injury to your employer within 30 days, while a third-party claim in California generally carries a two-year filing window. Getting connected early keeps both clocks in view."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "California law protects you from being fired, demoted or punished for reporting an injury or filing a claim. If that happens, it becomes part of the conversation with your attorney."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver on SR-4 while making a delivery for work. Is that just a workers' comp case?",
+        "answer": "Not necessarily. Because you were on the clock, workers' compensation would typically apply, but the other driver is a third party, so you may also have a separate injury claim against them. Pittsburg recorded 170 injury collisions in 2025, and crashes reported to authorities tend to cluster on Wednesday mornings between 7 and 9 a.m., which overlaps with many work shifts. An attorney can review whether both claims fit your situation."
+      },
+      {
+        "question": "My employer told me not to report the injury. What should I do?",
+        "answer": "Report it anyway, in writing, and try to do so within 30 days of the incident. California law prohibits an employer from retaliating against you for reporting an injury or filing a claim. If pressure continues, mention it when you speak with an attorney, because it may matter to your case."
+      },
+      {
+        "question": "Does it cost anything to be connected with an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free connection service and is not a law firm. The independent attorneys in our network handle workplace injury matters on contingency, meaning no attorney fee unless there is a recovery in your case."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "sand-city workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sand City Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Sand City? Get connected free with an independent attorney who handles workers' comp and third-party claims. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you've been injured working near SR-1 or the small commercial stretch along California Avenue in Sand City, we can connect you with an attorney who understands how workers' comp and third-party claims fit together. There's no cost to find out where you stand."
+  },
+  "about": {
+    "title": "Sand City Workplace Injury Claims",
+    "longDescription": "Sand City is tiny — under 400 residents — but it's wedged between Monterey and Seaside along SR-1, and its economy runs on hotels, retail, and light industrial work that lines that corridor. When someone gets hurt on the job here, the first stop is almost always workers' compensation, since California treats it as the exclusive remedy against an employer no matter who caused the accident. But that's not always the end of the story. If a subcontractor, a property owner, a delivery driver, or a piece of defective equipment played a role, there may be a separate claim against that third party worth exploring. LawProactive doesn't practice law — we're a free service that connects injured workers with an independent attorney who can look at both angles, the comp claim and any third-party liability, and explain what applies to your situation. You don't have to sort this out alone or guess which deadline matters.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Slip-and-fall injuries on wet or uneven floors",
+      "Back and shoulder strains from repetitive lifting",
+      "Injuries from forklift or loading equipment accidents",
+      "Falls from ladders or elevated platforms",
+      "Injuries caused by defective tools or machinery",
+      "Collisions involving delivery vehicles near SR-1 or California Avenue"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Workers in Sand City Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We help you see past the comp claim",
+        "desc": "Workers' comp is usually your only path against your employer, but a negligent third party — like a contractor or equipment maker — can still be pursued separately. An attorney can help you figure out if that applies to you."
+      },
+      {
+        "title": "We understand the 30-day reporting window",
+        "desc": "California requires you to report a workplace injury to your employer within 30 days, and missing that window can complicate your comp claim. The attorney you're connected with can walk you through what's still possible even if time has passed."
+      },
+      {
+        "title": "We know retaliation is illegal",
+        "desc": "You're legally protected from being fired or punished for reporting an injury or filing a claim. If you're worried about your job, that's exactly the kind of concern an attorney can address early."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I work at a small business in Sand City — does workers' comp still apply?",
+        "answer": "Yes, California requires most employers, regardless of size, to carry workers' compensation coverage. Even in a small town like Sand City with under 400 residents, the same state rules apply to local hotels, shops, and other employers along SR-1 and California Avenue. An attorney can confirm your employer's coverage and help you file correctly."
+      },
+      {
+        "question": "Can I sue my employer directly if I'm hurt at work?",
+        "answer": "In most cases, no — workers' compensation is the exclusive remedy against your employer regardless of fault. However, if a third party like a contractor, property owner, or another company contributed to your injury, you may have a separate claim against them. An independent attorney can review the facts and tell you which paths are open."
+      },
+      {
+        "question": "How long do I have to bring a claim if a third party caused my injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the incident. This is separate from the workers' comp reporting timeline, so it's worth having both reviewed together. Waiting too long can limit your options, so it helps to talk to an attorney sooner rather than later."
+      }
+    ]
+  }
+}

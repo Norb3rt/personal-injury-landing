@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "los-altos-hills city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Altos Hills, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Los Altos Hills? Santa Clara County residents get 2 years to file. Free attorney connection, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're recovering from a car crash on I-280 or a fall that left you hurt, we connect Los Altos Hills residents with an independent attorney at no cost, serving all of Santa Clara County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Los Altos Hills, California",
+    "longDescription": "Los Altos Hills sits along winding, tree-lined roads that connect quiet neighborhoods to the busier arteries of I-280, Page Mill Road, and Purissima Road. With just over 8,400 residents, the town feels rural, but its roads still see real risk: 2025 public records show 34 injury collisions, 51 people hurt, and one traffic death within town limits. Many of those crashes reportedly cluster on Tuesday afternoons between 4 and 6 p.m., a window that overlaps with school pickups and commuters heading home via I-280 southbound. If you or someone you love was hurt in a crash, a fall, or another accident here, sorting out medical bills, insurance calls, and next steps can feel overwhelming on top of physical recovery. LawProactive is a free service, not a law firm, that connects injured people in Los Altos Hills with an independent personal injury attorney who can review the details of what happened. There's no obligation to move forward, and attorneys in our network only get paid if you recover compensation. You focus on healing; let someone else help sort out the rest.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from vehicle or bicycle crashes",
+      "Traumatic brain injuries from high-speed impacts",
+      "Spinal cord injuries from serious collisions",
+      "Cuts, bruises, and soft-tissue damage",
+      "Injuries from slip-and-fall or premises accidents"
+    ],
+    "ctaText": "Get connected with an independent attorney, free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Look Into Your Options Now",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim, but that window shrinks to as little as six months if a government entity is involved. Waiting to explore your options could mean losing the ability to pursue a claim at all."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, meaning you can still recover compensation even if you were partially responsible for what happened. Your share of fault only reduces your recovery, it doesn't eliminate it."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering Claims",
+        "desc": "Unlike some states, California places no cap on non-economic damages, such as pain and suffering, in standard injury cases. That matters when an injury affects your daily life in ways medical bills alone don't capture."
+      },
+      {
+        "title": "You Don't Pay Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to have your case reviewed. Fees only come out of money recovered on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling before you've healed",
+      "Not knowing whether your own actions might have contributed to the crash",
+      "Fear that too much time has already passed to do anything about it"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Los Altos Hills?",
+        "answer": "Under California law, most injury claims must be filed within two years of the incident. If your injury involved a government entity, such as a city road crew or public vehicle, that deadline can shrink to as little as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still pursue compensation even if you share some blame. Your fault percentage would reduce your recovery, but it wouldn't prevent you from making a claim."
+      },
+      {
+        "question": "Where do crashes tend to happen in Los Altos Hills?",
+        "answer": "Public collision records show higher counts along corridors like I-280, Page Mill Road, I-280 southbound, and Purissima Road, with reported crashes clustering on Tuesdays between 4 and 6 p.m. These are simply recorded patterns from public data, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in typical personal injury cases. This is different from some other states and can matter significantly depending on how an injury has affected your life."
+      },
+      {
+        "question": "Does it cost anything to talk to LawProactive or get connected with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with an independent attorney, and we are not a law firm ourselves. Attorneys in our network work on contingency, meaning they only get paid if you recover compensation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "oceanside medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Oceanside Medical Malpractice Attorney Connection | Free",
+    "metaDescription": "Hurt by a medical error in Oceanside, CA? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines apply, so ask early."
+  },
+  "hero": {
+    "subtitle": "If a missed diagnosis, medication mistake, or surgical error in Oceanside left you worse off, we can connect you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Oceanside Medical Malpractice Claims",
+    "longDescription": "Most people in Oceanside walk into a clinic or emergency room trusting that the person in front of them will get it right. Usually they do. When something goes wrong, though, the aftermath can be confusing: a diagnosis that came late, a medication that should never have been ordered, a surgical complication nobody explained. Sorting out whether that was an honest bad outcome or genuine negligence is the whole question, and it is not one you have to answer alone. LawProactive is a free service, not a law firm. We connect residents of this San Diego County city of roughly 175,000 with an independent attorney who handles medical malpractice claims under California's MICRA rules. Those rules are strict. A one-year discovery clock, a three-year outer limit, a mandatory 90-day notice before suing, and a near-universal requirement for a qualified medical expert all shape what is possible. Getting an early, honest read on your situation costs nothing, and the attorney you speak with works on contingency.",
+    "commonInjuriesTitle": "Harm We Commonly See in Oceanside Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed cancer and stroke diagnoses",
+      "Medication dosing and prescription errors",
+      "Surgical mistakes, including wrong-site procedures",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Infections and pressure sores from inadequate monitoring"
+    ],
+    "ctaText": "Ask a free question about your Oceanside care"
+  },
+  "whyChoose": {
+    "title": "Why Oceanside Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are short and unforgiving",
+        "desc": "California generally allows one year from when you discovered the harm, and never more than three years from the injury itself. A 90-day notice must also go out before any lawsuit is filed, so a quick conversation protects options you might otherwise lose."
+      },
+      {
+        "title": "An expert is almost always required",
+        "desc": "A qualified medical expert nearly always has to confirm that care fell below the accepted standard. The attorneys in our network know how to evaluate records and line up that review before deciding whether a claim makes sense."
+      },
+      {
+        "title": "Honest screening, not pressure",
+        "desc": "A bad result by itself is not malpractice, and a good attorney will tell you that plainly. Because network attorneys work on contingency, you pay no fee unless there is a recovery, and the initial conversation costs nothing."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My treatment happened in Oceanside but I have since moved. Does that change anything?",
+        "answer": "Not much. A claim tied to care you received in Oceanside would typically proceed in San Diego County, and California's MICRA rules apply regardless of where you live now. Your medical records can still be requested from the Oceanside provider, and an attorney can handle most of the process without you traveling back and forth."
+      },
+      {
+        "question": "How do I know whether my bad outcome counts as malpractice?",
+        "answer": "Medicine involves risk, and a poor result on its own does not prove negligence. The question is whether the provider did something a reasonably careful provider would not have done, or failed to do something they should have. That determination almost always requires a qualified medical expert to review the records, which is why an attorney evaluates the case before anyone commits."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California medical malpractice case?",
+        "answer": "California places a statutory cap on non-economic damages such as pain and suffering, and that cap increases each year under current law. Economic losses like medical bills, lost income, and future care costs are handled separately and are not subject to that same cap. An attorney can explain how the current figures might apply to your specific facts without making any promises about outcome."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "escondido slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Escondido Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a fall on someone else's property in Escondido? LawProactive connects you free with an independent premises liability attorney. Contingency only."
+  },
+  "hero": {
+    "subtitle": "A wet floor at a Valley Parkway store or a broken step at an apartment off Washington Avenue can change your year in a second. LawProactive connects Escondido residents with an independent premises liability attorney, at no cost to you."
+  },
+  "about": {
+    "title": "Escondido Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely feels like a legal matter while it is happening. You are picking yourself up off a slick grocery aisle, a cracked walkway outside an apartment complex, or an unlit stairwell, and your first reaction is embarrassment rather than evidence. Yet in Escondido, a city of roughly 151,000 people in inland San Diego County, falls on someone else's property are a common reason people end up in urgent care. Shopping centers along Valley Parkway, restaurants near Mission Avenue, older commercial buildings off Washington Avenue: each is maintained by an owner or tenant with a duty to keep the premises reasonably safe. California law asks whether that owner knew, or should have known, about the hazard and failed to fix it or warn you. Proving that notice is the heart of a premises case, and it depends on what gets documented early, including photos of the condition, witness names, an incident report, and surveillance footage before it is overwritten. LawProactive is a free service, not a law firm. We connect Escondido residents with an independent attorney who works on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Falls in Escondido",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, forearm, and elbow fractures",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back injuries",
+      "Torn knee ligaments and ankle sprains",
+      "Shoulder dislocations and rotator cuff tears"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Escondido Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole case, and it needs early attention",
+        "desc": "California requires you to show the property owner knew or should have known about the hazard and did nothing. An attorney who gets involved quickly can request maintenance logs, sweep sheets, and prior complaints while they still exist."
+      },
+      {
+        "title": "Surveillance video disappears fast",
+        "desc": "Many Escondido stores and apartment complexes overwrite camera footage within days. A preservation letter sent early can keep the recording of your fall from being erased."
+      },
+      {
+        "title": "Deadlines and shared fault are handled carefully",
+        "desc": "Most premises claims carry a two-year filing deadline, but claims against a public entity move on a much shorter clock. California's pure comparative fault rule also means you can still recover even if you were partly to blame, with your share reduced accordingly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I fell on a cracked sidewalk or in a public park in Escondido. Is the deadline different?",
+        "answer": "Yes, and this catches many people off guard. When the property belongs to the City of Escondido, San Diego County, or another public agency, California generally requires a written government claim within six months of the injury before any lawsuit can be filed. That is far shorter than the two-year deadline for a claim against a private business or landlord. Getting the ownership question answered early protects your options."
+      },
+      {
+        "question": "The store says I should have been watching where I was walking. Does that end my claim?",
+        "answer": "No. California follows pure comparative fault, which means a jury can assign a percentage of responsibility to each side rather than throwing the case out. If you were found partly at fault, your recovery is reduced by that percentage, not eliminated. Whether a hazard was open and obvious versus hidden is exactly the kind of fact an attorney will examine."
+      },
+      {
+        "question": "What should I do in the first few days after a fall on someone else's property?",
+        "answer": "Photograph the exact spot, the hazard, and anything nearby like missing warning signs or burned-out lights, ideally the same day. Ask the business for an incident report and write down the names of any employees or shoppers who saw what happened. Seek medical care so your injuries are recorded, and reach out promptly so an attorney can request surveillance footage before it is recycled."
+      }
+    ]
+  }
+}

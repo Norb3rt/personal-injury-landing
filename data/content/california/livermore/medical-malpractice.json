@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "livermore medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Livermore Medical Malpractice Lawyer | LawProactive",
+    "metaDescription": "Hurt by a medical error in Livermore? LawProactive connects you, free, with an independent malpractice attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "If a doctor, nurse, or hospital in Livermore made a mistake that left you worse off, you deserve a clear explanation of what happened and what your options are. LawProactive connects you at no cost with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Livermore Medical Malpractice Claims",
+    "longDescription": "Livermore sits at the eastern edge of Alameda County, and many of its roughly 88,000 residents rely on local clinics, urgent care offices, and regional hospitals for everything from routine checkups to emergency treatment. When that care goes wrong, the fallout reaches into daily life: added recovery time, lost paychecks, and questions no one seems willing to answer. California handles these claims under rules known as MICRA. The clock is short: generally one year from when you discovered the harm, and never more than three years from the injury itself. Before filing, a 90-day notice must go to each provider. Nearly every case also depends on a qualified medical expert who can explain how the care fell below the accepted standard, because a poor result by itself does not prove negligence. LawProactive is not a law firm. We are a free service that connects Livermore residents with an independent attorney who handles these cases, so you can learn where you stand without paying anything up front.",
+    "commonInjuriesTitle": "Types of Medical Errors We Hear About in Livermore",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical mistakes, including wrong-site procedures and retained instruments",
+      "Medication and dosage errors",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up after treatment"
+    ],
+    "ctaText": "Talk through what happened. It costs nothing to be connected."
+  },
+  "whyChoose": {
+    "title": "Why Livermore Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are tight",
+        "desc": "California generally gives you one year from the date you discovered the injury, and no more than three years from when it occurred. Getting connected early leaves room for the 90-day pre-suit notice that must go out before a lawsuit can be filed."
+      },
+      {
+        "title": "Expert review comes first",
+        "desc": "A qualified medical expert is almost always needed to show that care fell below the accepted standard. The attorneys in our network know how to arrange that review before anyone decides whether a claim makes sense."
+      },
+      {
+        "title": "No fee unless there is a recovery",
+        "desc": "Every attorney we connect you with works on contingency, so your first conversation and any case they take on cost you nothing out of pocket. You also get straight talk about California's cap on non-economic damages, which increases each year."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My surgery didn't turn out the way I hoped. Is that automatically malpractice?",
+        "answer": "Not by itself. California law separates a bad outcome from negligent care, and only the second one supports a claim. A qualified medical expert has to review the records and explain how the provider departed from what a careful professional would have done in the same situation. An attorney can help you find out whether that threshold is met."
+      },
+      {
+        "question": "I was first seen at a Livermore clinic but the specialist who treated me was elsewhere in Alameda County. Does that matter?",
+        "answer": "It can affect which providers receive the required 90-day notice and where a case is eventually filed, but it does not prevent you from pursuing a claim. Care that spans several offices or facilities is common in the Tri-Valley area. An attorney will sort out who was responsible for each step of your treatment."
+      },
+      {
+        "question": "How much can I recover in a California medical malpractice case?",
+        "answer": "That depends entirely on your specific losses, and no one can promise a figure. Economic damages such as medical bills and lost income are not capped. Non-economic damages, meaning pain and suffering, are limited by a statutory cap under MICRA that rises every year, and an attorney can tell you the current amount."
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "medical-malpractice",
+    "note": "los-angeles medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Los Angeles Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Los Angeles? LawProactive connects you, free, with an independent malpractice attorney. MICRA deadlines apply, so start early."
+  },
+  "hero": {
+    "subtitle": "When care at a Los Angeles hospital or clinic goes wrong, the questions come fast and the answers come slow. LawProactive is a free service that puts you in touch with an independent medical malpractice attorney who can look at what happened."
+  },
+  "about": {
+    "title": "Los Angeles Medical Malpractice Claims",
+    "longDescription": "Los Angeles County is home to some of the busiest medical systems in the country, serving a city of nearly four million people. Most patients leave better than they arrived. Some do not, and the hard part is telling the difference between an outcome no one could prevent and one that a careful provider should have avoided. Under California law, that difference is the whole case. A bad result by itself is not malpractice; the claim rests on whether the standard of care was breached and whether that breach caused the harm. Sorting this out in Los Angeles usually means gathering records from more than one facility, since patients here are often transferred between emergency rooms, specialists and rehab centers. It also means finding a qualified medical expert willing to review the chart, because California courts almost always require one. LawProactive does not do that work. What we do is connect you, at no cost, with an independent attorney in the network who handles these cases on contingency, so you can find out where you stand without paying anything up front.",
+    "commonInjuries": [
+      "Surgical errors, including wrong-site procedures",
+      "Misdiagnosis or delayed diagnosis of cancer, stroke or infection",
+      "Medication and dosing mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Hospital-acquired infections and pressure injuries"
+    ],
+    "ctaText": "Ask an independent malpractice attorney to review your Los Angeles case, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Los Angeles Patients Use LawProactive",
+    "items": [
+      {
+        "title": "MICRA deadlines are shorter than people expect",
+        "desc": "California generally allows one year from the date you discovered the injury, and no more than three years from when it occurred. A 90-day pre-suit notice must also go to the provider before filing, so waiting costs real time."
+      },
+      {
+        "title": "The expert question gets answered early",
+        "desc": "Because a qualified medical expert is almost always required, attorneys in the network evaluate whether one is likely to support your claim before you commit. That saves you from chasing a case that cannot be proven."
+      },
+      {
+        "title": "Free to connect, contingency for the attorney",
+        "desc": "LawProactive charges nothing to match you with an independent attorney. The attorneys in the network work on contingency, meaning no fee unless there is a recovery, and California's cap on non-economic damages, which rises each year, is explained to you plainly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My records are spread across several Los Angeles hospitals. Does that hurt my case?",
+        "answer": "It is common here, and it does not sink a claim. Patients in Los Angeles County are frequently transferred, discharged and readmitted at different facilities, so the record often has to be assembled from multiple sources. An attorney can request the complete chart from each provider and have a medical expert review the full timeline rather than one hospital's slice of it."
+      },
+      {
+        "question": "How do I know whether what happened to me was actually malpractice?",
+        "answer": "You may not know, and that is normal. California law draws a line between a poor outcome and a breach of the standard of care, and only a qualified medical expert can usually say which side of the line your situation falls on. An attorney in the network can arrange that review and tell you honestly whether the claim holds up."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California's MICRA law places a cap on non-economic damages, meaning pain, suffering and similar losses, and that cap increases every year under the current statute. Economic damages such as medical bills and lost income are handled separately. An attorney can walk you through how the cap applies to the year your claim is filed."
+      }
+    ]
+  }
+}

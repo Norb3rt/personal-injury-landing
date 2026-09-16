@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "garden-grove product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Garden Grove Product Liability Lawyer | LawProactive",
+    "metaDescription": "Hurt by a defective product in Garden Grove? LawProactive connects you free with an independent Orange County attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a product sold to a Garden Grove household fails and someone gets hurt, California law asks what was wrong with the product, not whether you used it perfectly. We connect you, at no cost, with an independent attorney who handles defective product claims."
+  },
+  "about": {
+    "title": "Garden Grove Product Liability Claims",
+    "longDescription": "A product that fails should not be something you have to explain away. Whether it was a space heater in a Brookhurst Street apartment, a power tool bought off Chapman Avenue, or an airbag that never deployed on SR-22, California law focuses on the product, not on how careful you were. Garden Grove's roughly 175,000 residents bring home goods that pass through manufacturers, importers, distributors and retailers. Under strict liability, any link in that chain can be held responsible when a design flaw, a manufacturing mistake, or a missing warning causes harm. You do not need to prove the company was careless. In 2025 the city recorded 623 injury collisions and 788 people hurt; some crashes trace back to a tire, brake or restraint that did not perform as sold. LawProactive is not a law firm. We are a free service that connects you with an independent attorney who handles these claims on contingency, so you owe nothing unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Tied to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating appliances, batteries or chargers",
+      "Cuts, crush injuries and amputations from tools and machinery",
+      "Crash injuries linked to failed airbags, tires or brakes",
+      "Poisoning or chemical exposure from mislabeled household goods",
+      "Choking, strangulation or falls involving children's products",
+      "Internal harm from defective medical devices or medications"
+    ],
+    "ctaText": "Ask an independent attorney whether your product claim is worth pursuing — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What Makes a Garden Grove Product Claim Different",
+    "items": [
+      {
+        "title": "Strict liability shifts the question",
+        "desc": "In most California product cases you show the product was defective in design, manufacturing or warnings and that the defect caused your injury. Proving the maker was negligent is generally not required."
+      },
+      {
+        "title": "The product is the evidence",
+        "desc": "Keep the item, its packaging, receipts and any photos, even if it is broken or dangerous to use. Throwing it away can leave a claim without its most important proof."
+      },
+      {
+        "title": "More than one company may answer",
+        "desc": "Manufacturers, distributors and the Garden Grove retailer that sold the item can each be held responsible. An independent attorney can sort out who belongs in the claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag did not deploy in a crash on Garden Grove Boulevard. Is that a product liability case or a car accident case?",
+        "answer": "It can be both. The other driver may be responsible for the collision itself, while the vehicle or airbag manufacturer may be responsible for injuries the restraint should have prevented. Have the car preserved before it is repaired or scrapped, since the module and its data are central to the claim."
+      },
+      {
+        "question": "Do I have to show the company knew the product was unsafe?",
+        "answer": "Usually not. California applies strict liability to most defective product claims, so the focus is on whether a design, manufacturing or warning defect existed and caused your injury. A company's knowledge or intent can matter for other issues, but it is not the starting point."
+      },
+      {
+        "question": "I bought the item at a store in Garden Grove. Can the store be held responsible?",
+        "answer": "Yes, retailers in the chain of distribution can share liability along with the distributor and manufacturer. This matters when the maker is overseas or hard to identify. Your attorney can review the receipt and product markings to trace every company involved."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "workplace-injury",
+    "note": "san-francisco workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Francisco Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt at work in San Francisco? LawProactive connects you free with an independent attorney to review workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "Injured on the job in San Francisco, whether on a job site, in a kitchen, or behind the wheel on US-101? A free connection with an independent attorney can help you understand which claims may be open to you beyond workers' compensation."
+  },
+  "about": {
+    "title": "San Francisco Workplace Injury Claims",
+    "longDescription": "Work in San Francisco takes many forms: construction crews on high-rise sites, hotel and restaurant staff, warehouse and port workers, and the delivery and rideshare drivers who spend their shifts on Mission Street, I-80, and US-101. Any of those jobs can leave someone hurt, and the next step is not always obvious. Under California law, workers' compensation is usually the exclusive remedy against your employer, and it applies regardless of who was at fault. That covers medical care and partial wage replacement, but it does not pay for pain, suffering, or your full lost earnings. Where a third party contributed — a subcontractor who left a hazard, a property owner who ignored a defect, a manufacturer whose equipment failed, or another driver who hit you while you were working — a separate injury claim may be possible. San Francisco County logged 3,471 injury collisions and 4,390 people injured in 2025, and anyone driving for a living shares those same roads. LawProactive, a free connection service, can match you with an independent attorney to sort out which claims fit your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries in San Francisco",
+    "commonInjuries": [
+      "Falls from scaffolding, ladders, and elevated platforms",
+      "Back and shoulder injuries from lifting or repetitive motion",
+      "Crush and amputation injuries from machinery or equipment",
+      "Burns and chemical exposure in kitchens and industrial settings",
+      "Collision injuries while driving for work",
+      "Struck-by injuries from falling tools or materials"
+    ],
+    "ctaText": "Tell us what happened and get connected with an attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Connect Through LawProactive",
+    "items": [
+      {
+        "title": "Third-party claims get a real look",
+        "desc": "Workers' compensation is usually your only remedy against your employer, but a negligent subcontractor, property owner, equipment maker, or driver may be a separate story. An independent attorney can evaluate whether someone other than your employer shares responsibility."
+      },
+      {
+        "title": "Deadlines and reporting, explained plainly",
+        "desc": "California expects you to report a work injury to your employer within 30 days, and any third-party injury claim generally carries a two-year filing deadline. Getting connected early leaves room to handle both without rushing."
+      },
+      {
+        "title": "Protection from retaliation, no fee unless you recover",
+        "desc": "It is illegal for an employer to punish you for reporting an injury or pursuing a claim. Attorneys in our network work on contingency, so there is no fee unless there is a recovery, and our connection service is always free."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I sue my employer after a workplace injury in San Francisco?",
+        "answer": "In most cases, no. California makes workers' compensation the exclusive remedy against your employer, and it pays benefits regardless of who was at fault. What you can often do is pursue a separate claim against a negligent third party, such as a subcontractor on a multi-employer site, a building owner, or the maker of defective equipment. An attorney can review the facts and tell you whether that route applies."
+      },
+      {
+        "question": "I was hit by another driver while making deliveries on Mission Street. Is that a work injury or a car accident claim?",
+        "answer": "It can be both. Because you were working, workers' compensation should cover your medical care and part of your lost wages. Because another driver caused the crash, you may also have a third-party injury claim against that driver for losses workers' comp does not cover. San Francisco recorded 4,390 people injured in collisions in 2025, and work-related crashes are handled through this two-track approach."
+      },
+      {
+        "question": "What if I waited to report my injury, or my employer is pushing back?",
+        "answer": "California asks you to notify your employer within 30 days, so report in writing as soon as you can, even if some time has passed. Retaliation for reporting a work injury is illegal, and an attorney can help you document what is happening. Keep in mind that any third-party claim has its own two-year deadline that runs separately from the workers' comp process."
+      }
+    ]
+  }
+}

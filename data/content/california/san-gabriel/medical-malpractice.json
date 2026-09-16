@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "san-gabriel medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Gabriel Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Gabriel? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis, surgery, or medication error goes wrong at a San Gabriel clinic or hospital, the aftermath can feel isolating and confusing. LawProactive can connect you at no cost with an independent attorney who understands California's medical malpractice rules."
+  },
+  "about": {
+    "title": "San Gabriel Medical Malpractice Claims",
+    "longDescription": "San Gabriel residents rely on a mix of local clinics, urgent care centers, and larger Los Angeles County hospitals for treatment, and most of the time care goes as expected. But when a provider misses a diagnosis, makes a surgical error, or mishandles medication, patients and families are left dealing with physical setbacks and hard questions about what happened. California law treats these cases differently from ordinary injury claims, with strict notice periods and a requirement that a qualified medical expert weigh in before a case can move forward. A bad result by itself doesn't mean malpractice occurred — the law looks at whether the care fell below an accepted standard. If you're trying to sort out whether what happened to you in San Gabriel crosses that line, LawProactive can connect you with an independent attorney, free of charge, to review your situation.",
+    "commonInjuriesTitle": "Common Situations We Help Connect",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on results"
+    ],
+    "ctaText": "Get connected with an independent malpractice attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why San Gabriel Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding of MICRA's Tight Deadlines",
+        "desc": "California generally gives you one year from discovering the harm, and no more than three years from the injury itself, to act, with a 90-day pre-suit notice required first. An attorney in our network can help make sure those deadlines aren't missed."
+      },
+      {
+        "title": "Knowledge of the Expert Requirement",
+        "desc": "Because a qualified medical expert almost always has to confirm the standard of care was breached, having the right attorney early matters. We connect you with someone equipped to pursue that step properly."
+      },
+      {
+        "title": "Familiarity With the Non-Economic Damages Cap",
+        "desc": "California law caps non-economic damages in these cases, though the cap rises each year under current law. An independent attorney can explain how that cap may apply to your specific circumstances."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in San Gabriel?",
+        "answer": "Under California's MICRA rules, the general deadline is one year from when you discovered (or reasonably should have discovered) the injury, but never more than three years from the date of the injury itself. There's also a 90-day pre-suit notice requirement to the provider before a lawsuit can be filed. Because these timelines are unforgiving, it helps to get an attorney's review as soon as possible."
+      },
+      {
+        "question": "Does a poor medical outcome automatically mean malpractice happened?",
+        "answer": "No — California law is clear that a bad result alone isn't proof of malpractice. There has to be evidence that a provider's care fell below the accepted medical standard, which is why a qualified medical expert is almost always required to evaluate the case. An independent attorney can help determine whether your situation meets that threshold."
+      },
+      {
+        "question": "Are San Gabriel hospitals and clinics treated differently under malpractice law?",
+        "answer": "The same MICRA framework applies whether the care happened at a small San Gabriel clinic or a larger Los Angeles County hospital system. What matters is the standard of care that was owed and whether it was met, not the size of the facility. An attorney can look into the specific provider and circumstances involved in your case."
+      }
+    ]
+  }
+}

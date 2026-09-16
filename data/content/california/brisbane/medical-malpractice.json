@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "brisbane medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice Lawyer in Brisbane, CA | LawProactive",
+    "metaDescription": "Suspect a medical error in Brisbane? LawProactive connects San Mateo County patients with an independent malpractice attorney at no cost to you."
+  },
+  "hero": {
+    "subtitle": "When a diagnosis was missed or a procedure went wrong, Brisbane patients deserve a clear answer about whether the care itself fell short. We connect you, free, with an independent attorney who reviews medical malpractice claims in San Mateo County."
+  },
+  "about": {
+    "title": "Brisbane Medical Malpractice Claims",
+    "longDescription": "Brisbane is a town of about 4,700 people in San Mateo County, and when someone here needs surgery, a specialist, or an emergency room, the trip usually runs along US-101 or Bayshore Boulevard to a facility elsewhere. That distance can make a suspected medical error harder to sort out. Records sit in several places, follow-up visits happen with different providers, and it may take months before a patient realizes something went wrong. California's MICRA rules add their own structure: a claim generally must be filed within one year of discovering the harm and no more than three years from the injury itself, a 90-day notice must go to the provider before suit, and a qualified medical expert is nearly always needed to explain how the care fell below the accepted standard. A poor result by itself is not malpractice. LawProactive helps Brisbane residents find out, at no cost, whether their situation warrants an attorney's review, then connects them with an independent lawyer who handles these cases on contingency.",
+    "commonInjuriesTitle": "Harm Frequently Tied to Medical Negligence",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors and retained instruments",
+      "Medication and dosage mistakes",
+      "Birth injuries to mother or infant",
+      "Anesthesia complications",
+      "Infections from poor post-operative care"
+    ],
+    "ctaText": "Ask a Brisbane malpractice attorney to review your records"
+  },
+  "whyChoose": {
+    "title": "Why Brisbane Patients Start With LawProactive",
+    "items": [
+      {
+        "title": "MICRA Deadlines Are Short and Layered",
+        "desc": "California generally allows one year from the date you discovered the harm, and never more than three years from the injury. An attorney can pin down which clock applies to you before either runs out."
+      },
+      {
+        "title": "The 90-Day Notice Comes First",
+        "desc": "Before any malpractice lawsuit is filed in California, the provider must receive a 90-day notice of intent. Getting that step right early keeps your options open."
+      },
+      {
+        "title": "Expert Review Is Nearly Always Required",
+        "desc": "A bad outcome is not enough; a qualified medical expert must usually explain how the care departed from the accepted standard. Network attorneys arrange that review at no upfront cost, and non-economic damages are subject to a statutory cap that rises each year."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My treatment happened outside Brisbane. Can I still pursue a claim from here?",
+        "answer": "Yes. Many Brisbane residents receive hospital and specialist care in other parts of San Mateo County or the wider Bay Area, and the claim follows the care, not your home address. An attorney can gather records from every provider involved and sort out where and how the claim should proceed. Where you live does not shrink your rights."
+      },
+      {
+        "question": "How do I know if what happened to me is actually malpractice?",
+        "answer": "California law draws a line between an unfortunate result and negligent care. Malpractice means the provider did something a reasonably careful professional in that field would not have done, and that departure caused you harm. A qualified medical expert almost always has to confirm this, which is why an attorney's early review of your records matters."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "Economic losses like medical bills and lost income are not capped. Non-economic damages, such as pain and loss of enjoyment of life, are limited under MICRA, but that cap increases every year, so the amount depends on when your case resolves. An attorney can explain how the current figure applies to your situation without guessing at an outcome."
+      }
+    ]
+  }
+}

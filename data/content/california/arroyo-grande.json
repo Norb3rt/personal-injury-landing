@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "arroyo-grande city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Arroyo Grande, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Arroyo Grande? San Luis Obispo County resource connects you free to an attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, rear-end collision, or a fall in Arroyo Grande, we'll connect you with an independent attorney at no cost. Serving people throughout San Luis Obispo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Arroyo Grande, California",
+    "longDescription": "Arroyo Grande sits along the US-101 corridor, and traffic moving between Southbound and Northbound lanes, along with local routes like E Grand Avenue and El Camino Real, adds up to real numbers on the public record. In the most recent full year, the city logged 72 injury collisions, with 99 people hurt and one traffic death. Behind each of those figures is someone dealing with pain, missed work, and a stack of medical bills they didn't ask for. If that's you, LawProactive can help you find direction. We are a free service that connects injured people with an independent personal injury attorney who works on contingency — meaning there's no fee unless your case results in a recovery. We are not a law firm, and we don't decide your case or promise any result. What we do is make the first step easier: a quick, no-cost conversation to see whether an attorney in our network can review what happened to you. Whether your injury came from a rear-end wreck on US-101, a turning collision on El Camino Real, or something else entirely, you don't have to sort out the legal side alone.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Herniated or bulging discs",
+      "Traumatic brain injuries",
+      "Torn ligaments and soft tissue damage",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Talk to us about what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for Your Claim",
+    "items": [
+      {
+        "title": "A Filing Clock That Won't Wait",
+        "desc": "California generally gives you two years from the date of injury to file a personal injury claim. If a government vehicle or roadway was involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the crash. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in typical injury cases. This can matter significantly if your injury has affected your daily life beyond medical bills."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no retainer and no hourly bill to worry about while you focus on recovering."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Mounting medical bills with no clear way to pay them",
+      "Missed paychecks while unable to work",
+      "Insurance adjusters pushing for a quick, low settlement",
+      "Uncertainty about whether it's too late to do anything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to LawProactive?",
+        "answer": "Nothing. Our service connects you with an independent attorney at no cost, and there's no obligation to move forward. If an attorney does take your case, they typically work on contingency, so you don't pay unless there's a recovery."
+      },
+      {
+        "question": "How long do I have to file a claim in California?",
+        "answer": "In most personal injury cases, California law gives you two years from the date of the incident. If your injury involved a government entity or vehicle, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your total award would be reduced by your percentage of fault, but it wouldn't be barred entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Arroyo Grande?",
+        "answer": "Public crash records show higher collision counts along US-101 Southbound, E Grand Avenue, US-101 Northbound, and El Camino Real. These are simply the corridors with the most reported collisions, not a judgment about any particular stretch of road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people find an independent personal injury attorney. We don't represent you directly or handle your case ourselves — the attorney you're connected with does that."
+      }
+    ]
+  }
+}

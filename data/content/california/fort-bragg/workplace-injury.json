@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "fort-bragg workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Fort Bragg Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Fort Bragg, CA? Learn how workers' comp and third-party claims differ, and get connected free with an independent injury attorney."
+  },
+  "hero": {
+    "subtitle": "Hurt while working in Fort Bragg? Workers' compensation may not be the only path open to you, and a free conversation with an independent attorney can show you which options fit."
+  },
+  "about": {
+    "title": "Fort Bragg Workplace Injury Claims",
+    "longDescription": "A workday in Fort Bragg can go wrong in a moment: a fall from a ladder, a hand caught in machinery, a delivery van struck on Rt 1. When it does, most people are told the same thing: file for workers' compensation and wait. That advice is only half the picture. Under California law, workers' comp is usually the only claim you can bring against your own employer, and it pays regardless of who was at fault. But it does not cover everything, and it does not reach the people outside your company who may have caused the harm. A subcontractor on a Franklin Street remodel, the owner of a property along Main Street, the maker of a defective tool, or another driver on Oak Street can each face a separate injury claim with its own two-year deadline. LawProactive is a free service, not a law firm. We connect Mendocino County workers with an independent attorney who can sort out which path, or both, fits your situation. There is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Fort Bragg Workplace Cases",
+    "commonInjuries": [
+      "Falls from ladders, roofs, and scaffolding",
+      "Back and shoulder injuries from lifting",
+      "Crush and amputation injuries from machinery",
+      "Burns from kitchens, chemicals, or electrical work",
+      "Work-related vehicle collisions",
+      "Repetitive strain and overuse injuries"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Fort Bragg Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "We know where workers' comp stops",
+        "desc": "Comp is generally your exclusive remedy against your employer, but it does not pay for pain and suffering. An attorney in our network can check whether a negligent third party opens a separate claim."
+      },
+      {
+        "title": "Deadlines are watched closely",
+        "desc": "You have 30 days to report an injury to your employer and two years to bring a third-party claim. Getting connected early keeps both clocks from running out on you."
+      },
+      {
+        "title": "Protection from pushback",
+        "desc": "California law makes it illegal for an employer to punish you for reporting an injury or filing a claim. If you sense retaliation, the attorney you're matched with can address it directly."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hit by another driver while making deliveries on Rt 1 in Fort Bragg. Is that just a workers' comp case?",
+        "answer": "Not necessarily. Because you were working, workers' comp should cover your medical care and part of your lost wages regardless of fault. The other driver, however, is a third party, so you may also have a separate injury claim against them with a two-year deadline. An attorney can pursue both tracks and make sure they don't undercut each other."
+      },
+      {
+        "question": "Can I sue my employer directly for a workplace injury in California?",
+        "answer": "In most situations, no. Workers' compensation is designed as the exclusive remedy against your employer, meaning you receive benefits without proving fault but give up the right to sue them. There are narrow exceptions, and an independent attorney can tell you whether any apply to your facts."
+      },
+      {
+        "question": "What if I waited a few weeks to tell my boss I was hurt?",
+        "answer": "Report it as soon as you can. California generally requires notice to your employer within 30 days of the injury, though late reporting does not always end a claim. Write down when and how you told them, keep any texts or emails, and let the attorney you're connected with sort out the timing questions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "product-liability",
+    "note": "costa-mesa product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Costa Mesa Product Liability Attorney | LawProactive",
+    "metaDescription": "Hurt by a defective product in Costa Mesa? LawProactive connects you free with an independent attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When a product sold or used in Costa Mesa fails and hurts someone, California's strict liability rules can put the focus on the defect rather than on proving anyone was careless. LawProactive connects you, at no cost, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Costa Mesa Product Liability Claims",
+    "longDescription": "A product that fails should not become your burden to prove twice over. Around Costa Mesa, from the retail stretches of Harbor Boulevard and Newport Boulevard to homes across this Orange County city of roughly 113,000 people, defective goods show up in ordinary moments: a space heater that ignites, a ladder rung that gives way, a tire or brake component that fails on SR-55. California handles these claims through strict liability. An injured person generally needs to show the product carried a defect in its design, its manufacturing, or its warnings, and that the defect caused the injury. Proving the company acted carelessly is usually not required. Responsibility can also extend past the manufacturer to the distributor and the store that sold the item. LawProactive is not a law firm. We are a free service that connects Costa Mesa residents with an independent attorney who takes product cases on contingency, so there is no fee unless there is a recovery. Hold onto the product, its packaging, and any receipts; they often form the core of the claim.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from overheating batteries, chargers, or appliances",
+      "Lacerations from tools or blades that break during normal use",
+      "Crush and fracture injuries from collapsing furniture or ladders",
+      "Poisoning or choking from mislabeled or contaminated goods",
+      "Head and spinal injuries when helmets, car seats, or airbags fail",
+      "Internal harm from defective medical devices or implants"
+    ],
+    "ctaText": "Tell us what happened and we will connect you with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Costa Mesa Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Changes the Question",
+        "desc": "Under California law, a product claim usually centers on whether the item was defective and caused harm, not on whether the maker was negligent. An attorney in our network can explain how that standard applies to your situation."
+      },
+      {
+        "title": "Three Kinds of Defects, One Path Forward",
+        "desc": "Design flaws, manufacturing errors, and missing or inadequate warnings are each recognized grounds for a claim. Sorting out which one fits your case is work the attorney handles, not you."
+      },
+      {
+        "title": "More Than One Party May Answer",
+        "desc": "Manufacturers, distributors, and retailers can all share responsibility for a defective product sold in Costa Mesa. Identifying every party in that chain is part of building the claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I bought the product at a store on Harbor Boulevard, but it was made by a company overseas. Who is responsible?",
+        "answer": "In California, liability for a defective product is not limited to the manufacturer. The distributor and the Costa Mesa retailer that sold it may also be held responsible under strict liability. That can matter a great deal when the maker is hard to reach or located abroad. An attorney can evaluate which parties in the supply chain belong in your claim."
+      },
+      {
+        "question": "Should I throw away the product that hurt me?",
+        "answer": "No. The product itself is often the single most important piece of evidence in a defect case, so keep it exactly as it is, along with the packaging, manuals, and receipt if you have them. Do not attempt repairs or return it to the store. Photographs help, but the physical item is what experts will need to examine."
+      },
+      {
+        "question": "My airbag did not deploy in a crash on SR-55. Is that a car accident case or a product case?",
+        "answer": "It can be both. Costa Mesa recorded 619 injury collisions in 2025, and when a safety component fails during one of them, a separate product liability claim against the part's maker may exist alongside any claim against another driver. Preserving the vehicle before it is repaired or salvaged is critical. LawProactive can connect you with an attorney who looks at both angles."
+      }
+    ]
+  }
+}

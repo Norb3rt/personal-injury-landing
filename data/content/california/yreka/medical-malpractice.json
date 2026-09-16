@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "yreka medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Yreka Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Yreka? Get connected free to an independent CA malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "When a Siskiyou County hospital or clinic visit in Yreka goes wrong, the aftermath can feel isolating in a small community. LawProactive helps you find an independent attorney who understands California's medical malpractice rules, at no cost to you."
+  },
+  "about": {
+    "title": "Yreka Medical Malpractice Claims",
+    "longDescription": "Yreka residents rely on a handful of local clinics and Siskiyou County's regional hospital network for care, and when something goes wrong there, patients often don't know where to turn next. Because Yreka is a small city, many families are hesitant to question a provider they may see again in the community. But California law gives injured patients a real path forward, even here. If a diagnosis was missed, a surgery went sideways, or medication was mismanaged, an independent attorney can review the records and determine whether the standard of care was met. LawProactive connects you with a lawyer in our network, free of charge, who can walk through what happened during your treatment and explain your options under California's strict malpractice rules. You don't have to sort through medical jargon or hospital paperwork on your own. A conversation costs nothing, and there's no obligation to move forward.",
+    "commonInjuriesTitle": "Common Malpractice Situations We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or baby",
+      "Anesthesia complications",
+      "Failure to monitor a patient's condition"
+    ],
+    "ctaText": "Talk to an independent attorney about your care, at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Yreka Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Filing Windows Matter",
+        "desc": "California generally gives you one year from when you discover the harm, and never more than three years from the injury itself, to bring a claim. Waiting to sort out what happened at a Yreka clinic or hospital can quietly cost you your right to act."
+      },
+      {
+        "title": "The 90-Day Notice Requirement",
+        "desc": "Before a malpractice lawsuit can be filed in California, the provider must typically receive 90 days' written notice. An attorney familiar with this step can help make sure it's handled correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Required",
+        "desc": "California law requires a qualified medical expert to weigh in on most malpractice claims. A bad result alone doesn't prove malpractice, so having someone who can arrange that review matters."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after surgery in Yreka. Does that mean malpractice happened?",
+        "answer": "Not necessarily. California law recognizes that medicine involves risk, and a poor outcome by itself isn't proof that a provider fell below the standard of care. An independent attorney can help determine, often with a medical expert's input, whether what happened deviated from accepted practice."
+      },
+      {
+        "question": "How long do I have to bring a claim after treatment in Siskiyou County?",
+        "answer": "California generally requires you to act within one year of discovering the harm, and no later than three years from the date of injury, whichever comes first. There's also a 90-day pre-suit notice step that typically has to happen before a lawsuit can be filed, so earlier conversations tend to leave more options open."
+      },
+      {
+        "question": "Is there a limit on what I can recover for pain and suffering?",
+        "answer": "Yes, California's MICRA law places a cap on non-economic damages, such as pain and suffering, though that cap increases each year under current law. Economic losses like medical bills are generally handled separately. An attorney can explain how these categories apply to your specific situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "sonora city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Sonora, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Tuolumne County? Connect free with an independent Sonora attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash, a broken bone, or a more serious injury from a car crash or fall, we can connect you with an independent attorney serving Tuolumne County — free, with no obligation."
+  },
+  "about": {
+    "title": "Personal Injury Help in Sonora, California",
+    "longDescription": "Sonora is a small city, but its roads carry a steady stream of daily traffic, and collisions happen here just like anywhere else. In the most recent reporting year, Tuolumne County recorded 45 injury collisions in and around Sonora, leaving 52 people hurt. Corridors like Rt 49, Mono Way, S Washington Street, and Sanguinetti Road see the highest volume of reported crashes based on public records — these are simply the busiest stretches, not verdicts about their safety. If you were hurt in one of these collisions, or in a fall, workplace incident, or other accident, LawProactive can help. We are a free connection service — not a law firm — that puts injured people in touch with an independent personal injury attorney who can review the details of what happened. Attorneys in our network work on contingency, meaning there's no fee unless they recover compensation for you. Getting connected costs nothing and comes with no obligation to move forward.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken or fractured bones",
+      "Concussions and head injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Shoulder and knee injuries"
+    ],
+    "ctaText": "Find out where you stand — reach out for a free, no-obligation connection."
+  },
+  "whyChoose": {
+    "title": "What You Should Know Before Moving Forward",
+    "items": [
+      {
+        "title": "California Gives You Two Years — Usually",
+        "desc": "Most injury claims in California must be filed within two years of the incident. If a government entity was involved, that window can shrink to as little as six months, so timing matters."
+      },
+      {
+        "title": "Being Partly at Fault Doesn't Shut the Door",
+        "desc": "California follows pure comparative fault, meaning even if you shared some responsibility for the accident, you may still recover compensation — just reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "Unlike some states, California doesn't limit non-economic damages like pain and suffering in ordinary injury cases, so your full experience can be part of the conversation."
+      },
+      {
+        "title": "You Pay Nothing Unless There's a Recovery",
+        "desc": "Attorneys in our network work on contingency. That means their fee comes out of any settlement or award — if there's no recovery, there's no fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're unable to work",
+      "Not knowing if the other driver's insurance will actually cover your losses",
+      "Feeling pressured to accept a quick settlement offer",
+      "Wondering if it's too late, or too early, to talk to someone about what happened"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and there's no obligation to move forward after you're connected. Any attorney you end up working with typically operates on contingency, so they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "How long do I have to file a claim after an accident in Sonora?",
+        "answer": "In most California injury cases, you have two years from the date of the accident to file a lawsuit. If your injury involved a government entity or vehicle, that deadline can be as short as six months, so it's worth checking your specific situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California uses a pure comparative fault rule, which means you can still recover compensation even if you were partly at fault. Your total recovery would just be reduced by the percentage of fault assigned to you."
+      },
+      {
+        "question": "Are certain roads in Sonora more likely to have reported crashes?",
+        "answer": "Based on public collision records, Rt 49, Mono Way, S Washington Street, and Sanguinetti Road show the highest volume of reported injury collisions in the area. These are simply the busiest corridors by crash count — not a judgment about how safe any particular road is."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that helps injured people find an independent personal injury attorney. We don't provide legal representation ourselves — we simply make the introduction so you can decide if working with that attorney makes sense for you."
+      }
+    ]
+  }
+}

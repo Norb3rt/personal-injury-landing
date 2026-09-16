@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "red-bluff medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Red Bluff Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Red Bluff? Get connected free to an independent malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or treatment at a Tehama County medical facility went wrong, LawProactive can connect you with an independent Red Bluff-area attorney who handles medical malpractice claims at no upfront cost."
+  },
+  "about": {
+    "title": "Red Bluff Medical Malpractice Claims",
+    "longDescription": "Medical malpractice cases in Red Bluff often involve smaller clinics, urgent care centers, or the regional hospital serving Tehama County's 14,000-plus residents, where limited specialist availability can sometimes contribute to delayed diagnoses or treatment mistakes. These cases are legally distinct from typical injury claims: California's MICRA statute imposes a shorter discovery window, a mandatory 90-day pre-suit notice to the provider, and a requirement that a qualified medical expert review the case before it can move forward. A bad outcome by itself doesn't establish malpractice — what matters is whether the care fell below the accepted standard. LawProactive doesn't practice law or evaluate your medical records ourselves; instead, we connect you with an independent attorney in the network who can review what happened, request records, and explain whether your situation may meet California's legal standard for a malpractice claim. There's no cost to start the conversation, and no fee unless the attorney recovers money for you.",
+    "commonInjuriesTitle": "Common Malpractice-Related Injuries We See",
+    "commonInjuries": [
+      "Delayed or missed cancer diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications",
+      "Failure to diagnose a treatable condition in time"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Makes Medical Malpractice Cases Different",
+    "items": [
+      {
+        "title": "Strict, Short Deadlines",
+        "desc": "California generally requires malpractice claims within 1 year of discovering the injury, and no more than 3 years from when it occurred, so waiting can close the door on a claim."
+      },
+      {
+        "title": "A 90-Day Notice Comes First",
+        "desc": "Before a lawsuit can even be filed, California law requires sending the healthcare provider a 90-day notice of intent to sue — a step an experienced attorney handles correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Almost Always Needed",
+        "desc": "Because a poor result doesn't automatically mean malpractice, California cases typically require a qualified medical expert to confirm the care fell below the accepted standard before a claim can proceed."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I had a bad outcome after treatment in Red Bluff — is that automatically malpractice?",
+        "answer": "Not necessarily. California law recognizes that medicine involves risk, and a poor result alone doesn't prove negligence. An attorney would need to review whether the provider's care fell below the accepted medical standard, usually with input from a qualified medical expert."
+      },
+      {
+        "question": "How much time do I have to bring a claim in Tehama County?",
+        "answer": "Generally, California gives you one year from when you discover (or reasonably should have discovered) the injury, and no more than three years from the date it happened. There's also a required 90-day notice period before filing suit, so it's worth speaking with an attorney sooner rather than later."
+      },
+      {
+        "question": "What if I can't afford a lawyer?",
+        "answer": "LawProactive doesn't charge anything to connect you with an independent attorney, and attorneys in the network work on contingency — meaning there's no fee unless they recover money for you. This lets you get a case reviewed without any upfront financial risk."
+      }
+    ]
+  }
+}

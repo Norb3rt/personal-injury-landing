@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "agoura-hills city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Agoura Hills, CA Injury Lawyer Match | Free Referral",
+    "metaDescription": "Injured in Agoura Hills, LA County? 2 years to file a claim. Get matched free with an independent attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end crash or a broken bone from a fall, we'll connect you free of charge with an independent personal injury attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Agoura Hills, California",
+    "longDescription": "Agoura Hills sits along the US-101 corridor, where daily commuter traffic mixes with local trips down Kanan Road, Agoura Road, and Reyes Adobe Road. In the most recent reporting year, this city of roughly 20,900 residents recorded 64 injury collisions that left 89 people hurt — a reminder that even a quiet community sees its share of crashes. Recovering from any collision or fall means dealing with medical appointments, missed work, and insurance calls, often while still healing physically. LawProactive exists to remove one layer of that burden: we're a free service that connects injured people in Agoura Hills with an independent personal injury attorney who can evaluate their situation. We are not a law firm, we don't provide legal advice, and we never charge for the connection. Attorneys in our network work on contingency, meaning there's no fee unless they recover compensation for you. If you were hurt on the Ventura Freeway, at a local intersection, or anywhere else in the city, reaching out costs nothing and starts the process of understanding your options.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Soft tissue and ligament damage",
+      "Cuts, bruises, and lacerations"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an attorney."
+  },
+  "whyChoose": {
+    "title": "Why Act Sooner Rather Than Later",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity is involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "Under California's pure comparative fault rule, even if you were partly responsible for what happened, you can still recover compensation — it's just reduced by your share of fault. An attorney can help sort out how fault gets allocated in your case."
+      },
+      {
+        "title": "No Cap on What You Can Seek for Pain and Suffering",
+        "desc": "California places no cap on non-economic damages in typical injury cases, meaning compensation for pain, suffering, and loss of enjoyment of life isn't artificially limited the way it is in some other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no hourly billing and no retainer. They only get paid if they secure a recovery for you, which means their interests are aligned with yours from day one."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how medical bills will get paid while you're out of work",
+      "Feeling unsure whether the insurance company's offer is fair",
+      "Not knowing if you waited too long to take action",
+      "Fear that being partly at fault means you can't recover anything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in Agoura Hills?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If your claim involves a government agency, such as a city road department, that window can shrink to as little as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your total recovery would simply be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Agoura Hills?",
+        "answer": "Public crash records show higher collision counts along corridors like Kanan Road, US-101, Agoura Road, and Reyes Adobe Road, with reported crashes tending to peak on Fridays between 3 and 5 p.m. These are simply neutral record counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge for connecting me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we are not a law firm ourselves. We simply connect injured people with an independent attorney who can review their situation, and there's never a cost to you for that connection."
+      },
+      {
+        "question": "Will I have to pay attorney fees out of pocket?",
+        "answer": "Attorneys in our network work on a contingency basis, meaning they only collect a fee if they win or settle your case. If there's no recovery, you typically owe nothing in attorney fees."
+      }
+    ]
+  }
+}

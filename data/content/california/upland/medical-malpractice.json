@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "upland medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Medical Malpractice in Upland, CA | LawProactive",
+    "metaDescription": "Hurt by a medical error in Upland? LawProactive connects you free with an independent malpractice attorney. MICRA deadlines apply—learn your options."
+  },
+  "hero": {
+    "subtitle": "If a doctor, hospital, or pharmacy in Upland made a preventable mistake that left you hurt, you deserve a clear answer about whether the standard of care was met. LawProactive connects you, at no cost, with an independent attorney who handles California medical malpractice claims."
+  },
+  "about": {
+    "title": "Upland Medical Malpractice Claims",
+    "longDescription": "Medical care in Upland happens in ordinary places: a family practice off Foothill Boulevard, a pharmacy counter on Mountain Avenue, an emergency room after one of the 430 injury collisions the city logged in 2025. Most of the time, that care goes right. When it does not — a diagnosis missed, a medication mixed up, a surgery that leaves you worse than you arrived — the question is whether a provider fell below the accepted standard of care, not simply whether the result was bad. California draws that line firmly. A poor outcome by itself is not malpractice. Under MICRA, you generally have one year from discovering the harm, and no more than three years from the injury itself, to file. A 90-day notice must reach the provider before a lawsuit starts, and a qualified medical expert is almost always needed to explain what should have happened. LawProactive is a free connection service, not a law firm. We match Upland residents with an independent attorney who handles malpractice claims on contingency, so there is no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Types of Medical Errors Upland Patients Report",
+    "commonInjuries": [
+      "Missed or delayed diagnosis, including cancer and stroke",
+      "Surgical mistakes and wrong-site procedures",
+      "Medication and dosing errors",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or respond to a worsening condition"
+    ],
+    "ctaText": "Ask a free question about your Upland medical care"
+  },
+  "whyChoose": {
+    "title": "Why Upland Patients Turn to LawProactive",
+    "items": [
+      {
+        "title": "MICRA's clock is short and layered",
+        "desc": "California generally gives you one year from the day you discovered the harm, and never more than three years from the injury, plus a 90-day pre-suit notice must be sent first. Connecting early keeps every option on the table."
+      },
+      {
+        "title": "Experts decide these cases, not opinions",
+        "desc": "A qualified medical expert is almost always required to show a provider fell below the standard of care. The attorneys in our network know how to evaluate whether that showing is realistic before you invest time and hope."
+      },
+      {
+        "title": "Honest about what the law allows",
+        "desc": "MICRA caps non-economic damages, and that cap rises each year. An independent attorney can explain how the current cap and your economic losses fit together, without inflating expectations."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated in an Upland emergency room after a collision on SR-210 and the doctors missed a fracture. Is that malpractice?",
+        "answer": "It might be, but only if a reasonably careful provider in the same situation would have caught the injury. Emergency care after a crash is fast-moving, so the standard accounts for that setting. A qualified medical expert would need to review your records and say whether the miss was a breach of care. An attorney can order that review and tell you frankly what it shows."
+      },
+      {
+        "question": "How long do I have to file a medical malpractice claim in California?",
+        "answer": "Under MICRA, the general rule is one year from when you discovered, or reasonably should have discovered, the injury, and in no event more than three years from the date the injury happened. Before filing suit, you must also give the provider 90 days' written notice. Some situations adjust these windows, so it is worth asking an attorney about your specific dates rather than assuming."
+      },
+      {
+        "question": "What does it cost to talk to a malpractice attorney through LawProactive?",
+        "answer": "Nothing to be connected. LawProactive is a free service, and we are not a law firm. The independent attorneys in our network handle medical malpractice cases on contingency, meaning they are paid only if there is a recovery. If an attorney reviews your situation and concludes it does not meet the legal standard, you owe nothing for that answer."
+      }
+    ]
+  }
+}

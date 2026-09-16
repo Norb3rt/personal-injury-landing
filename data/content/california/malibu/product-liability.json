@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "malibu product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Malibu Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Malibu? LawProactive connects you free with an independent product liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "From faulty auto parts on Pacific Coast Highway to defective gear used along Malibu's beaches and canyons, a dangerous product can upend a life in an instant. LawProactive can connect you at no cost with an independent attorney who handles defective-product claims in Malibu."
+  },
+  "about": {
+    "title": "Malibu Product Liability Claims",
+    "longDescription": "Malibu's mix of coastal highway traffic, outdoor recreation, and hillside living means residents and visitors rely daily on products that are supposed to work as intended — vehicle components, safety equipment, household appliances, and recreational gear. When one of those products fails because of a design flaw, a manufacturing error, or a missing warning, the person hurt is rarely at fault, yet the injuries can be serious and lasting. California law recognizes this reality by allowing strict liability claims in many defective-product cases, meaning the focus stays on the product's defect and the harm it caused rather than proving someone was careless. If a faulty part contributed to a crash along Route 1 or Malibu Canyon Road, or a defective item caused harm anywhere in the city, LawProactive can connect you with an independent attorney, free of charge, who can evaluate what happened and explain your options.",
+    "commonInjuriesTitle": "Common Injuries From Defective Products",
+    "commonInjuries": [
+      "Traumatic brain injuries from failed safety equipment",
+      "Burns from malfunctioning appliances or batteries",
+      "Fractures caused by defective vehicle parts",
+      "Spinal cord injuries from equipment failure",
+      "Lacerations or amputations from faulty tools or machinery",
+      "Internal injuries from airbag or restraint system defects"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney at no cost."
+  },
+  "whyChoose": {
+    "title": "Why Malibu Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Strict Liability Can Simplify Your Path Forward",
+        "desc": "Under California law, you generally don't need to prove a manufacturer was negligent — showing the product was defective and caused your injury may be enough. An independent attorney can help determine whether this standard applies to your situation."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable for a defective product. This matters in Malibu, where products often pass through several hands before reaching a driver on PCH or a homeowner in the canyons."
+      },
+      {
+        "title": "Preserving the Product Matters",
+        "desc": "Because these claims hinge on the product's actual condition, keeping the item intact and unaltered is important. An attorney connected through LawProactive can advise you on safely preserving evidence before it's lost or repaired."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What counts as a defective product under California law?",
+        "answer": "A product can be considered defective due to a design flaw, a manufacturing error, or an inadequate warning about its risks. Any of these categories can support a claim if the defect caused your injury. An independent attorney can help identify which type applies to your case."
+      },
+      {
+        "question": "I was hurt in a crash on Pacific Coast Highway that may involve a faulty auto part — where do I start?",
+        "answer": "Start by preserving the vehicle or part involved, since physical evidence is central to these claims. LawProactive can connect you with an independent attorney who can review the collision details, including public crash records for the PCH corridor, and advise on next steps. There's no cost to get that initial connection."
+      },
+      {
+        "question": "Do I need to prove the manufacturer was careless?",
+        "answer": "Not necessarily. California often allows strict liability claims, meaning the focus is on whether the product itself was defective and caused harm, not on the manufacturer's conduct. An attorney can explain how this standard may apply to your specific situation."
+      }
+    ]
+  }
+}

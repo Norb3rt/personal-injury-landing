@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "encinitas city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Encinitas, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Encinitas? San Diego County residents have 2 years to file. Connect free with an attorney—no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end collision on I-5 or a broken bone from a fall, we'll connect you free with an independent attorney serving San Diego County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Encinitas, California",
+    "longDescription": "Encinitas sees its share of everyday traffic risk along corridors like I-5, Encinitas Boulevard, Leucadia Boulevard, and N El Camino Real. In the most recent full year on record, the city logged 210 injury collisions that left 278 people hurt and, tragically, 5 people dead. Crashes here tend to cluster on Friday afternoons between 3 and 5 p.m., when commuters, students, and beachgoers all converge on the same stretches of road. If you were hurt in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of physical recovery. LawProactive is a free service — not a law firm — that connects injured people in Encinitas with an independent personal injury attorney who can review the details of what happened. There's no cost to get connected, and any attorney in the network works on contingency, meaning no fee unless there's a recovery. You don't have to figure out the next step alone; a quick, no-pressure conversation can help you understand your options while the details are still fresh.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and soft-tissue neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Cuts, bruises, and lacerations",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you 2 years from the date of injury to file a claim, but that window can shrink to as little as 6 months if a government entity, like a city road crew, was involved."
+      },
+      {
+        "title": "Partial Fault Doesn't Shut You Out",
+        "desc": "Under California's pure comparative fault rule, you can still recover compensation even if you were partly responsible for what happened — your share of fault simply reduces the award."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages in ordinary injury cases, so compensation for pain, suffering, and loss of enjoyment of life isn't artificially limited."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in the network work on contingency, meaning they only get paid if you receive a settlement or verdict — there's no fee unless there's a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about how to pay medical bills piling up after the crash",
+      "Fear that missing work will spiral into financial trouble",
+      "Uncertainty about whether the insurance company's offer is fair",
+      "Not knowing if being partly at fault means losing the right to any compensation"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a crash in Encinitas?",
+        "answer": "In most California injury cases you have 2 years from the date of the incident to file a lawsuit. If a government entity was involved, such as a defect in a city-maintained road, that window can be as short as 6 months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows pure comparative fault, which means you can still recover compensation even if you share some blame. Your total recovery is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Encinitas?",
+        "answer": "Public collision records show higher counts along I-5, Encinitas Boulevard, Leucadia Boulevard, and N El Camino Real, with reports peaking on Fridays between roughly 3 and 5 p.m. These are neutral counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in typical personal injury cases, unlike some medical malpractice claims."
+      },
+      {
+        "question": "Does it cost anything to talk to an attorney through LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney, and we are not a law firm ourselves. Attorneys in the network work on contingency, so there's no fee unless you receive a settlement or award."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "rolling-hills workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Rolling Hills Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Rolling Hills? Get connected free with an independent attorney who can review your workers' comp or third-party options."
+  },
+  "hero": {
+    "subtitle": "If you've been injured working in Rolling Hills, whether on a private estate, a hillside property crew, or while traveling for a job, LawProactive can connect you with an independent attorney at no cost to sort through your options."
+  },
+  "about": {
+    "title": "Rolling Hills Workplace Injury Claims",
+    "longDescription": "Rolling Hills is a small, quiet community of under 2,000 residents, but that doesn't mean workplace injuries don't happen here. Landscaping crews, private household staff, security personnel, contractors working on the winding roads near Crenshaw Boulevard or Crest Road West, and delivery drivers navigating Silver Spur Road all face real on-the-job risks. In California, workers' compensation is generally the only path against your employer, but it doesn't tell the whole story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may have a separate claim worth exploring. LawProactive doesn't practice law ourselves; we connect injured workers in Rolling Hills with independent attorneys who can look at both the workers' comp side and any third-party angle, free of charge, so you understand where you actually stand before making decisions about your case.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders or hillside terrain",
+      "Equipment and machinery accidents",
+      "Vehicle collisions during work travel",
+      "Repetitive strain and overexertion injuries",
+      "Cuts, burns, or lacerations from tools",
+      "Injuries from falling objects or debris"
+    ],
+    "ctaText": "Talk to an independent attorney about your workplace injury, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Rolling Hills Workers Turn to LawProactive",
+    "items": [
+      {
+        "title": "Understanding What Workers' Comp Covers",
+        "desc": "California generally treats workers' comp as the exclusive remedy against your employer regardless of fault. An independent attorney can help you understand whether that applies fully to your situation."
+      },
+      {
+        "title": "Spotting Third-Party Responsibility",
+        "desc": "If a subcontractor, property owner, equipment maker, or another driver contributed to your injury, a separate claim may be possible outside the workers' comp system. Third-party claims in California carry a 2-year filing deadline."
+      },
+      {
+        "title": "Protection Against Retaliation",
+        "desc": "Reporting a workplace injury to your employer within 30 days is required, and California law makes it illegal for an employer to retaliate against you for doing so. Knowing your rights early can matter."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt working on a private property in Rolling Hills. Do I only have a workers' comp claim?",
+        "answer": "Not necessarily. Workers' comp is usually the exclusive remedy against your direct employer, but if a separate contractor, equipment supplier, or another party's negligence played a role, you may have an additional claim. An independent attorney can review the specifics of your situation and tell you what applies."
+      },
+      {
+        "question": "How soon do I need to report my injury to my employer?",
+        "answer": "California law requires you to report a workplace injury to your employer within 30 days. Missing that window can complicate your claim, so it's best to report as soon as possible after the incident."
+      },
+      {
+        "question": "Can my employer punish me for filing a workplace injury claim?",
+        "answer": "No. Retaliation against an employee for reporting a workplace injury or filing a claim is illegal under California law. If you believe you've faced retaliation, that's something an independent attorney can help you address alongside your injury claim."
+      }
+    ]
+  }
+}

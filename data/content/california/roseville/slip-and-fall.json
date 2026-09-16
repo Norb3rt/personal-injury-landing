@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "roseville slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Roseville Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Fell at a Roseville store, apartment, or parking lot? LawProactive connects you free with a premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a wet floor, broken step, or poorly lit lot in Roseville left you hurt, the property owner may be responsible. LawProactive connects you, at no cost, with an independent attorney who handles Placer County premises claims."
+  },
+  "about": {
+    "title": "Roseville Slip & Fall and Premises Liability Claims",
+    "longDescription": "A fall rarely happens where anyone expects it. In Roseville, that might be a slick entryway at a shopping center along Douglas Boulevard, a crumbling walkway outside an apartment complex off Pleasant Grove Boulevard, or an unlit stairwell in a parking structure after the Friday evening rush. With roughly 130,000 residents moving through stores, restaurants, gyms, and office parks every day, property upkeep in this part of Placer County does not always keep pace with foot traffic. Under California law, the question is not simply whether you fell. It is whether the owner or manager knew, or reasonably should have known, about the hazard and failed to fix it or warn you. That element, called notice, is where most premises cases are decided, and it rests on evidence that disappears quickly: surveillance footage, incident reports, cleaning logs, and photos of the exact condition. LawProactive is a free service. We listen to what happened, then connect you with an independent Roseville-area attorney who handles premises claims on contingency, meaning no fee unless there is a recovery.",
+    "commonInjuriesTitle": "Injuries Often Seen After Falls in Roseville",
+    "commonInjuries": [
+      "Hip and pelvic fractures",
+      "Wrist, arm, and shoulder breaks from catching a fall",
+      "Knee ligament and meniscus tears",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back strain",
+      "Tailbone and spinal fractures"
+    ],
+    "ctaText": "Tell us about your fall and get connected free."
+  },
+  "whyChoose": {
+    "title": "How a Roseville Premises Attorney Can Help",
+    "items": [
+      {
+        "title": "Building the notice case",
+        "desc": "California requires proof that the owner knew or should have known about the hazard. An attorney can push for inspection schedules, prior complaints, and maintenance records that show how long the problem existed."
+      },
+      {
+        "title": "Locking down video before it vanishes",
+        "desc": "Stores and apartment complexes often overwrite surveillance within days. A preservation demand sent early can keep the footage that shows what the floor, stairs, or lighting actually looked like."
+      },
+      {
+        "title": "Meeting the right deadline",
+        "desc": "Most premises claims carry a two-year filing window, but a fall on city or county property triggers a much shorter government claim requirement. An attorney sorts out which clock applies to your situation."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I slipped in a Roseville grocery store and the manager said it was my fault. Does that end my claim?",
+        "answer": "No. California uses pure comparative fault, so even if you share some blame, you can still recover a portion of your damages reduced by your percentage of responsibility. The manager's opinion is not the final word, and the store's own cleaning records and camera footage often tell a different story. Document what you can and speak with an attorney before giving a recorded statement."
+      },
+      {
+        "question": "What if I fell on a sidewalk or in a park owned by the City of Roseville or Placer County?",
+        "answer": "Claims against a public entity follow a different process with a much shorter deadline, generally requiring a written government claim within six months of the injury. Missing that step can bar the case entirely, regardless of how strong the facts are. Because of this, falls on public property in Roseville should be reviewed as soon as possible."
+      },
+      {
+        "question": "What should I do in the first few days after a fall?",
+        "answer": "Get medical care first, then photograph the hazard, your footwear, and any warning signs or lack of them. Ask the property for a copy of any incident report and request in writing that they preserve surveillance video. Keep the shoes you were wearing and write down the names of anyone who saw what happened."
+      }
+    ]
+  }
+}

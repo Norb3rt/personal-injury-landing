@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "newark city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Newark, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Newark, Alameda County? Connect free with an independent injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash, broken bones, or a more serious injury from a car crash or fall, we'll connect you with an independent attorney at no cost, serving Newark and all of Alameda County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Newark, California",
+    "longDescription": "Newark is a compact city of roughly 45,000 people, but its streets carry a steady flow of daily traffic, and that traffic produces real consequences. In the most recent reporting year, Newark saw 105 injury collisions and 138 people hurt, with 2 lives lost. Corridors like Cedar Boulevard, Thornton Avenue, Cherry Street, and Newark Boulevard see the highest volume of recorded collisions, and reports tend to cluster on Thursday evenings between 5 and 7 p.m., a window when work traffic and errands often overlap. If you or someone close to you was hurt in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel like a second job on top of recovery. LawProactive is a free service — we are not a law firm — that connects injured people in Newark with an independent personal injury attorney who can look at what happened and explain your options. There's no cost to talk with someone, and attorneys in this network only get paid if you recover money. You don't have to figure this out by yourself, and you don't have to decide anything today to start the conversation.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head trauma",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Talk to an independent attorney about your situation — it's free to ask."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most personal injury claims in California must be filed within two years of the incident. If a government entity is involved, that window can shrink to as little as six months, so it helps to know where you stand early."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In ordinary injury cases, California places no limit on non-economic damages like pain and suffering, so the full impact of an injury can be considered."
+      },
+      {
+        "title": "No Fee Unless You Win",
+        "desc": "Attorneys in this network work on contingency, which means you owe nothing upfront and pay nothing unless there's a recovery on your behalf."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up while you're out of work",
+      "Not knowing if the insurance company's offer is fair",
+      "Fear that admitting any fault means losing your right to compensation",
+      "Feeling like there's no time to deal with legal paperwork while recovering"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Newark?",
+        "answer": "In most cases, California gives you two years from the date of the incident to file a claim. If your injury involves a government entity or vehicle, that deadline can be as short as six months, so it's worth checking your specific timeline sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you share some responsibility. Your total recovery is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to happen most in Newark?",
+        "answer": "Based on public collision records, Cedar Boulevard, Thornton Avenue, Cherry Street, and Newark Boulevard show the highest volume of reported incidents, with reports clustering on Thursdays around 5 to 7 p.m. These are simply the corridors with the most recorded volume, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in the network work on contingency, meaning they only get paid if you receive a settlement or award."
+      },
+      {
+        "question": "Is there a cap on what I can recover for pain and suffering?",
+        "answer": "In standard personal injury cases in California, there is no cap on non-economic damages such as pain and suffering. This means the compensation you seek can reflect the actual impact the injury has had on your life."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "car-accident",
+    "note": "san-jose car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Jose Car Accident Attorney Connection | LawProactive",
+    "metaDescription": "Hurt in a San Jose car crash? LawProactive connects you, for free, with an independent California injury attorney. No fee unless there's a recovery."
+  },
+  "hero": {
+    "subtitle": "After a crash on I-280, US-101 or a Santa Clara County surface street, you shouldn't have to sort out the insurance side alone. We connect San Jose drivers and passengers with an independent car accident attorney at no cost."
+  },
+  "about": {
+    "title": "San Jose Car Accident Claims",
+    "longDescription": "San Jose is a driving city. Just over a million people move across Santa Clara County's largest city every day, and much of that travel funnels onto I-280, US-101 and Monterey Road, the corridors that appear most often in public collision records. In 2025, San Jose logged 3,457 injury collisions, 4,783 people hurt and 34 traffic deaths. Reports cluster on Friday evenings between 5 and 7 p.m., when commuters and weekend traffic overlap. If one of those crashes was yours, the days that follow can feel like a second collision: adjusters calling, a car in the shop, medical bills you didn't budget for. LawProactive exists to make one part simpler. We are not a law firm. We are a free service that connects you with an independent California personal injury attorney who handles car accident claims on contingency. You pay nothing to be connected, and the attorney charges no fee unless there is a recovery. From there, the work of documenting the crash and dealing with the insurers shifts to someone who does it every day.",
+    "commonInjuriesTitle": "Injuries We Commonly See After San Jose Car Crashes",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussion and other traumatic brain injuries",
+      "Herniated discs and lower back injuries",
+      "Broken wrists, arms and collarbones",
+      "Knee and hip damage from dashboard impact",
+      "Airbag and seatbelt bruising to the chest"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why San Jose Drivers Use LawProactive",
+    "items": [
+      {
+        "title": "The clock in California is real",
+        "desc": "Most car accident claims here must be filed within two years, but if a city, county or state vehicle was involved, you may have as little as six months to act. An attorney can pin down which deadline applies to your crash before it passes."
+      },
+      {
+        "title": "Partial blame doesn't end your claim",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible, you can still recover the share of your losses caused by the other driver. The other insurer knows this, which is one reason they push for a recorded statement early."
+      },
+      {
+        "title": "No cap, no upfront cost",
+        "desc": "California places no cap on non-economic damages like pain and lost quality of life in an ordinary car accident case. The attorneys in our network take these claims on contingency, meaning no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "The other driver's insurance company keeps calling me. Do I have to give them a recorded statement?",
+        "answer": "No. You are not required to give the other driver's insurer a recorded statement, and it is usually wise to hold off until you have spoken with an attorney. Those statements are often used to shift a percentage of fault onto you, which under California's comparative fault rule directly reduces what you recover. A short, polite decline is enough."
+      },
+      {
+        "question": "I was hit near the US-101 and I-280 interchange in San Jose. Does it matter where the crash happened?",
+        "answer": "It can. Crashes on state highways like US-101 and I-280 sometimes involve Caltrans or CHP records that differ from a San Jose Police report on a street like Monterey Road, and knowing where to request the right documents matters. If a government vehicle or roadway condition played a role, the filing deadline can drop to six months, so the location is one of the first things an attorney will want to know."
+      },
+      {
+        "question": "What should I be saving right now?",
+        "answer": "Keep everything: photos of the scene and your vehicle, the police report number, names of witnesses, medical discharge papers, receipts, and even the texts you sent friends that night describing how you felt. Ask any nearby business about camera footage quickly, since many systems overwrite within days. Preserving evidence early is often the difference between a disputed claim and a well-documented one."
+      }
+    ]
+  }
+}

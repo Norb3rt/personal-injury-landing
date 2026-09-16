@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "colfax car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Colfax Car Accident Help | Free Attorney Connection",
+    "metaDescription": "Injured in a Colfax car accident? Get connected free to an independent Placer County attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a crash along I-80 or S Auburn Street in Colfax, we can connect you at no cost with an independent attorney who knows Placer County roads and courts."
+  },
+  "about": {
+    "title": "Colfax Car Accident Claims",
+    "longDescription": "Colfax sits along a stretch of I-80 that carries steady mountain-bound traffic through town, and local roads like S Auburn Street and N Main Street see their share of collisions too. Recent public records show 7 injury collisions and 12 people hurt in a single year here, with three lives lost — numbers that remind us how quickly an ordinary Tuesday afternoon drive can change. If you were injured, the moments after matter: photos, witness names, medical care, and caution about what you say to any insurance adjuster. LawProactive doesn't practice law — we're a free service that connects injured Colfax residents and visitors with an independent personal injury attorney who can evaluate what happened and explain your options. There's no obligation to move forward, and no upfront cost to talk with someone who understands how California's rules apply to a case like yours.",
+    "commonInjuriesTitle": "Injuries We Commonly See After Colfax Crashes",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injury",
+      "Spinal cord damage",
+      "Deep lacerations or road rash",
+      "Torn ligaments and soft tissue injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to the Insurer",
+    "items": [
+      {
+        "title": "California's Clock Is Running",
+        "desc": "You generally have two years from the crash to file a claim, but that window can shrink to as little as six months if a government entity — like a road authority on I-80 — may share fault. An attorney can help you figure out which deadline applies before it's too late."
+      },
+      {
+        "title": "Comparative Fault Can Cut Your Recovery",
+        "desc": "California uses pure comparative fault, meaning any percentage of blame assigned to you can reduce your compensation. An early recorded statement to the other driver's insurer can be used to inflate your share of fault, so it's worth pausing before you speak."
+      },
+      {
+        "title": "No Cap Means Full Value Matters",
+        "desc": "California places no cap on non-economic damages like pain and suffering, so how your claim is documented and presented can matter. Attorneys in our network work on contingency, meaning there's no fee unless you recover something."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurers often use these statements to find ways to shift blame onto you, which matters under California's comparative fault rules. An independent attorney can advise you on what, if anything, to say."
+      },
+      {
+        "question": "How long do I have to file a claim after a crash in Colfax?",
+        "answer": "California generally allows two years from the date of the crash to file a personal injury lawsuit. If a government entity, such as a Placer County or Caltrans road authority, may be involved because of road conditions on I-80, that deadline can be much shorter — sometimes six months. Because Colfax sits along a major interstate corridor, this possibility is worth checking early."
+      },
+      {
+        "question": "What if the crash happened on I-80 and I'm not sure who caused it?",
+        "answer": "Fault isn't always obvious right away, especially on a busy corridor like I-80 through Colfax. California's pure comparative fault system allows you to recover even if you were partly at fault, though your share reduces the total. An attorney can help gather evidence, such as witness statements or traffic data, to help sort out what happened."
+      }
+    ]
+  }
+}

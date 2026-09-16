@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "perris medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Perris Medical Malpractice Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt by a medical error in Perris, CA? LawProactive connects you with an independent malpractice attorney for free. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "When care in Perris goes wrong, the questions come fast and the deadlines are shorter than most people expect. LawProactive is a free service that puts you in touch with an independent medical malpractice attorney who can review what happened."
+  },
+  "about": {
+    "title": "Perris Medical Malpractice Claims",
+    "longDescription": "Perris is home to roughly 74,971 people, and many of them move between local clinics, urgent care, and larger Riverside County hospitals for treatment. Most visits end the way they should. Some do not, and it can be hard to tell whether a poor result came from a known risk or from a mistake that a careful provider would have avoided. That distinction matters under California law. A bad outcome by itself is not malpractice; a claim rests on showing that the care fell below the accepted standard and that the lapse caused harm. California's MICRA rules add their own structure: generally one year from the date you discovered the injury, never more than three years from the injury itself, a 90-day notice before a lawsuit can be filed, and a cap on non-economic damages that increases each year. Nearly every case also needs a qualified medical expert. LawProactive is not a law firm. We simply connect Perris residents, at no cost, with an independent attorney who handles these claims on contingency.",
+    "commonInjuries": [
+      "Missed or delayed diagnosis of cancer, stroke, or infection",
+      "Surgical errors, including wrong-site procedures and retained instruments",
+      "Medication and dosing mistakes",
+      "Birth injuries affecting mother or child",
+      "Anesthesia complications",
+      "Emergency room errors, including patients sent home too soon"
+    ],
+    "ctaText": "Ask a free question about your care in Perris."
+  },
+  "whyChoose": {
+    "title": "Why Perris Residents Reach Out Through LawProactive",
+    "items": [
+      {
+        "title": "The clock is measured in months, not years",
+        "desc": "MICRA generally allows one year from discovery of the injury, and never more than three from the date it occurred. Talking to an attorney early protects your options."
+      },
+      {
+        "title": "The 90-day notice is handled correctly",
+        "desc": "California requires written notice to the provider at least 90 days before a suit is filed. An experienced attorney knows how that step interacts with the filing deadline."
+      },
+      {
+        "title": "Expert review comes with the case",
+        "desc": "Almost every malpractice claim needs a qualified medical expert to explain where the standard of care was breached. The attorneys in our network arrange that review on contingency, so there is no fee unless there is a recovery."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was treated after a collision on Perris Boulevard and something was missed. Is that malpractice?",
+        "answer": "It might be, but the crash and the medical care are two separate questions. Perris recorded 267 injury collisions in 2025, and many of those patients pass through emergency departments where fractures, bleeds, or spinal injuries can go unnoticed. Whether that amounts to malpractice depends on what a competent provider should have caught given the same information. An attorney can look at both the crash claim and the care you received."
+      },
+      {
+        "question": "Is there a limit on what I can recover in a California malpractice case?",
+        "answer": "California caps non-economic damages, such as pain and suffering, in medical malpractice cases. That cap rises every year under MICRA, so the figure depends on when your case resolves. Economic losses like medical bills and lost income are handled separately. An attorney can explain how the current numbers apply to your situation."
+      },
+      {
+        "question": "Does LawProactive charge Perris residents anything to get connected?",
+        "answer": "No. Our service is free, and we are not a law firm. We connect you with an independent attorney who works on contingency, meaning no fee unless there is a recovery. You decide whether to move forward after the first conversation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "camarillo city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Camarillo, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Camarillo, Ventura County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on US-101 or a fall that wasn't your fault, we'll connect you free with an independent attorney serving Ventura County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Camarillo, California",
+    "longDescription": "Camarillo's roads carry a lot of daily traffic, and the numbers reflect it: in the most recent reporting year, Ventura County logged 303 injury collisions involving Camarillo residents and visitors, with 411 people hurt and 3 lives lost. Corridors like Las Posas Road, the Ventura Freeway (US-101), Ponderosa Drive, and Santa Rosa Road see the heaviest collision counts, and reports tend to cluster on Friday evenings between 5 and 7 p.m. when commuters and weekend traffic overlap. If you or someone you love was hurt in one of these incidents, sorting out medical bills, insurance calls, and next steps can feel overwhelming on top of recovering physically. LawProactive is a free service — we are not a law firm — that connects injured people in Camarillo with an independent personal injury attorney who can review what happened and explain your options. There's no cost to get connected, and attorneys in our network work on contingency, meaning no fee unless there's a recovery. You don't have to figure this out alone or guess at deadlines; a quick, free conversation can help you understand where you stand.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain from rear-end collisions",
+      "Broken bones from freeway or intersection crashes",
+      "Traumatic brain injuries from high-speed impacts",
+      "Back and spinal injuries from vehicle crashes",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip-and-fall or premises incidents"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to Someone Now",
+    "items": [
+      {
+        "title": "The clock is ticking",
+        "desc": "California generally gives you 2 years from the date of injury to file a claim, though claims against a government entity can require notice in as little as 6 months. Waiting too long can close the door on your options."
+      },
+      {
+        "title": "Fault doesn't have to be all-or-nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover compensation even if you were partly responsible for what happened — your share of fault just reduces the amount, it doesn't erase it."
+      },
+      {
+        "title": "No cap on pain and suffering",
+        "desc": "In ordinary injury cases, California places no cap on non-economic damages like pain, suffering, and loss of enjoyment of life, so your losses beyond medical bills can be fully considered."
+      },
+      {
+        "title": "You risk nothing to find out where you stand",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless there's a recovery. Getting informed costs you nothing upfront."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Medical bills are piling up and I don't know who's supposed to pay",
+      "The insurance adjuster keeps calling and I don't know what to say",
+      "I missed work and I'm worried about losing income long-term",
+      "I don't know if I even have a case worth pursuing"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much time do I have to file a claim in California?",
+        "answer": "Generally, you have 2 years from the date of the injury to file a personal injury claim in California. If a government entity is involved, that window can shrink to as little as 6 months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the crash?",
+        "answer": "California uses pure comparative fault, so being partly responsible doesn't bar you from recovering compensation. Your fault percentage simply reduces the amount you might receive."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Camarillo?",
+        "answer": "Based on public-record collision counts, corridors like Las Posas Road, US-101, Ponderosa Drive, and Santa Rosa Road show the highest volume of reported crashes, with Friday evenings between 5 and 7 p.m. seeing more reports than other times. This reflects traffic volume patterns, not a judgment about any road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys. We don't represent you directly, and there's no fee to get connected."
+      },
+      {
+        "question": "Will I owe money if I talk to an attorney through LawProactive?",
+        "answer": "No. Attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no upfront cost to have your situation reviewed."
+      }
+    ]
+  }
+}

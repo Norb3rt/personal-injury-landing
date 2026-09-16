@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "san-juan-bautista medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Juan Bautista Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in San Juan Bautista? Free, no-obligation connection to an independent CA medical malpractice attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a hospital visit or medical procedure in San Juan Bautista left you worse off than before, we can connect you with an independent attorney who understands California's medical malpractice rules and San Benito County's healthcare landscape."
+  },
+  "about": {
+    "title": "San Juan Bautista Medical Malpractice Claims",
+    "longDescription": "San Juan Bautista is a small, close-knit community in San Benito County, and many residents travel outside city limits for hospital-level or specialist care. That distance can add complications when something goes wrong during diagnosis, surgery, or treatment. Medical malpractice claims are different from most injury cases because California law (MICRA) sets strict rules around timing, notice requirements, and how damages are calculated. A hard outcome from a medical visit is not automatically malpractice — the law requires showing that a provider deviated from the accepted standard of care and that this deviation caused harm. LawProactive doesn't practice law. We're a free service that listens to what happened, then connects you with an independent, licensed California attorney who can review your medical records and explain whether your situation may qualify for a malpractice claim, all without any upfront cost to you.",
+    "commonInjuriesTitle": "Common Situations We Hear About",
+    "commonInjuries": [
+      "Delayed or missed diagnosis of a serious condition",
+      "Surgical errors or wrong-site procedures",
+      "Medication mistakes or dangerous drug interactions",
+      "Birth injuries to mother or newborn",
+      "Anesthesia complications during a procedure",
+      "Failure to monitor a patient after treatment"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why Timing and Details Matter in a Malpractice Claim",
+    "items": [
+      {
+        "title": "Strict Filing Deadlines",
+        "desc": "California generally gives you one year from when you discovered the harm, and no more than three years from the date of the injury itself, to bring a claim. Missing either window can end a case before it starts."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "Before filing suit against a healthcare provider, California law requires sending formal notice at least 90 days in advance. An attorney familiar with this process can help make sure it's done correctly and on time."
+      },
+      {
+        "title": "Expert Review Is Usually Required",
+        "desc": "Because a bad medical outcome alone doesn't prove malpractice, a qualified medical expert almost always has to weigh in on whether the standard of care was violated. Connecting with an attorney early gives more time to gather records and line up that review."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does San Juan Bautista's small size affect where my case gets reviewed?",
+        "answer": "Not usually. Medical malpractice claims are governed by California state law regardless of the city's population, so a claim tied to care received or connected to San Juan Bautista follows the same MICRA rules as anywhere else in the state. What matters more is where the treatment happened and which providers were involved."
+      },
+      {
+        "question": "Is there a cap on what I can recover in a California medical malpractice case?",
+        "answer": "California law places a cap specifically on non-economic damages (like pain and suffering), and that cap rises each year under current law. Economic damages, such as medical bills and lost income, are generally not subject to that same cap. An attorney can walk through how this applies to your specific circumstances."
+      },
+      {
+        "question": "What if I'm not sure whether what happened to me counts as malpractice?",
+        "answer": "That uncertainty is common, and it's exactly why a free case review can help. An independent attorney can look at your medical records and explain whether the standard of care appears to have been violated, since a poor outcome by itself isn't enough to establish a claim."
+      }
+    ]
+  }
+}

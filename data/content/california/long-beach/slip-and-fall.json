@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "slip-and-fall",
+    "note": "long-beach slip-and-fall silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Long Beach Slip & Fall Lawyer Connection | LawProactive",
+    "metaDescription": "Hurt in a slip and fall in Long Beach, CA? LawProactive connects you free with an independent premises liability attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "A fall in a Long Beach store, apartment complex, or parking structure can leave you with medical bills and a landlord or business that suddenly stops returning calls. LawProactive connects you, at no cost, with an independent attorney who handles premises liability claims across Los Angeles County."
+  },
+  "about": {
+    "title": "Long Beach Slip & Fall and Premises Liability Claims",
+    "longDescription": "Long Beach packs close to 474,000 residents into a city where busy commercial stretches run along Atlantic Avenue, Long Beach Boulevard, and Pacific Coast Highway. That mix means a lot of foot traffic through grocery aisles, parking structures, apartment stairwells, and restaurant patios. When one of those spaces has a wet floor, a broken step, a loose mat, or poor lighting, someone eventually gets hurt. Under California premises liability law, the question is rarely whether you fell. It is whether the property owner knew, or reasonably should have known, about the hazard and did nothing to fix it or warn you. Proving that notice is where these claims are won or lost, and it usually turns on evidence that disappears quickly: cleaning logs, incident reports, and surveillance footage that many businesses overwrite within days. LawProactive is a free service, not a law firm. We connect Long Beach residents with an independent attorney who handles premises cases on contingency, so there is no fee unless you recover.",
+    "commonInjuriesTitle": "Injuries We Commonly See in Long Beach Fall Cases",
+    "commonInjuries": [
+      "Hip and pelvic fractures, especially in older adults",
+      "Wrist, elbow, and shoulder injuries from bracing a fall",
+      "Concussions and other head injuries",
+      "Herniated discs and lower back strain",
+      "Torn knee ligaments and meniscus damage",
+      "Tailbone and spinal fractures"
+    ],
+    "ctaText": "Tell us what happened and we'll connect you with an independent Long Beach premises liability attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Long Beach Residents Use LawProactive After a Fall",
+    "items": [
+      {
+        "title": "Notice is the whole case",
+        "desc": "California requires you to show the owner knew or should have known about the hazard. An attorney who works these claims knows how to pull inspection schedules, prior complaints, and maintenance records that establish what the property owner was aware of."
+      },
+      {
+        "title": "Video gets erased fast",
+        "desc": "Most Long Beach businesses and apartment buildings keep surveillance footage only briefly before it is overwritten. Getting a preservation demand out early, along with your own photos of the hazard, can keep the strongest evidence from vanishing."
+      },
+      {
+        "title": "Deadlines and shared fault both matter",
+        "desc": "You generally have two years to file, but a claim against a public entity such as the City of Long Beach must be presented within a much shorter window. And because California follows pure comparative fault, being partly to blame reduces your recovery rather than eliminating it."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I tripped on a broken sidewalk in Long Beach. Is that different from falling inside a store?",
+        "answer": "Yes, in an important way. If the sidewalk or public area is maintained by the City of Long Beach, Los Angeles County, or another government body, California requires a formal claim to be filed with that entity, typically within six months, before any lawsuit can proceed. Missing that deadline can end the case regardless of how strong it is, so it is worth speaking with an attorney quickly."
+      },
+      {
+        "question": "The store says I wasn't paying attention. Does that mean I have no claim?",
+        "answer": "Not under California law. The state uses pure comparative fault, which means your compensation is reduced by whatever percentage of blame is assigned to you, but the claim is not thrown out. Owners frequently argue distraction to lower what they owe, and an attorney can push back with evidence about how visible the hazard actually was."
+      },
+      {
+        "question": "What should I do in the first few days after a fall?",
+        "answer": "Get medical care first, then focus on preserving evidence. Photograph the exact spot where you fell, including anything wet, broken, or poorly lit, and note whether there were warning signs. Ask the business for a copy of any incident report and request in writing that surveillance video be saved, because many systems overwrite footage within a week or two."
+      }
+    ]
+  }
+}

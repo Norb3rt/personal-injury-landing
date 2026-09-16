@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "paramount city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Paramount, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Paramount, LA County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash, broken bones, or a more serious injury from a crash, we'll connect you free of charge with an independent attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Paramount, California",
+    "longDescription": "Paramount sees a steady stream of traffic moving through corridors like Rosecrans Avenue, Alondra Boulevard, Garfield Avenue, and Downey Avenue, and public records show 217 injury collisions in the most recent final crash year, with 299 people hurt and 4 traffic deaths. If you were hurt in one of these incidents, sorting out medical bills, missed work, and insurance calls can feel overwhelming on top of physical recovery. LawProactive is a free service — not a law firm — that connects injured people in Paramount with an independent personal injury attorney who can review what happened and explain your options. There's no cost to reach out, and attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. You don't have to figure this out alone or guess at what your claim might be worth. We simply make the introduction so you can focus on healing while someone with legal knowledge looks at the details of your situation and helps you understand the road ahead.",
+    "commonInjuriesTitle": "Common Injuries We Hear About",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken or fractured bones",
+      "Head and concussion injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Knee and joint injuries"
+    ],
+    "ctaText": "Reach out today for a free, no-obligation connection to an independent attorney."
+  },
+  "whyChoose": {
+    "title": "Why Connect With an Attorney Through LawProactive",
+    "items": [
+      {
+        "title": "Time Limits Apply",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window can shrink to as little as six months if a government entity is involved. Talking to someone sooner rather than later helps preserve your options."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you may still recover compensation, just reduced by your share of fault. An attorney can help explain how this might apply to your situation."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In most ordinary injury cases, California does not limit the amount you can seek for non-economic damages like pain and suffering. This is different from some other states and worth discussing with an attorney."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so you don't pay upfront and there's no fee unless there's a recovery. That means reaching out to explore your options costs you nothing out of pocket."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while you're unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Fearing that being partly at fault means you can't recover anything",
+      "Feeling unsure how much time you actually have to take action"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Paramount?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a claim. If a government entity is involved, that window can be as short as six months, so it's best not to wait too long to look into your options."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some responsibility. Your recovery would simply be reduced by your percentage of fault, not eliminated entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Paramount?",
+        "answer": "Public crash records show higher collision counts along corridors such as Rosecrans Avenue, Alondra Boulevard, Garfield Avenue, and Downey Avenue, with reported crashes tending to peak on Fridays between 3 and 5 p.m. These are simply neutral counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I have to pay anything upfront to talk to an attorney?",
+        "answer": "No. LawProactive's connection service is free, and attorneys in our network work on contingency, meaning they only get paid if you receive a recovery. There's no upfront cost to have your situation reviewed."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "In ordinary California injury cases, there is no cap on non-economic damages like pain and suffering. An independent attorney can help you understand how this might apply given the specifics of your case."
+      }
+    ]
+  }
+}

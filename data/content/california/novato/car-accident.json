@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "car-accident",
+    "note": "novato car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Novato Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Novato car crash? Get connected free to an independent attorney who works US-101 and Marin County claims on contingency."
+  },
+  "hero": {
+    "subtitle": "If a collision on US-101, Redwood Boulevard, or Novato Boulevard has left you hurt, we can connect you with an independent attorney who handles Marin County crash claims at no upfront cost."
+  },
+  "about": {
+    "title": "Novato Car Accident Claims",
+    "longDescription": "Novato sees a steady stream of injury collisions each year, with public records showing 153 injury crashes and 198 people hurt in the most recent full year, plus 2 traffic deaths. Corridors like US-101, Redwood Boulevard, Novato Boulevard, and San Marin Drive carry heavy volume, and Thursday afternoons between 4 and 6 p.m. tend to see more reported incidents. Whether you were rear-ended commuting through the 101 corridor or hit at an intersection along San Marin Drive, the aftermath can mean medical bills, missed work, and confusing insurance calls. LawProactive isn't a law firm — we're a free service that connects injured Novato residents with an independent personal injury attorney who works on contingency, meaning there's no fee unless you recover. Early steps like documenting the scene and avoiding recorded statements to insurers can matter a great deal to your claim.",
+    "commonInjuriesTitle": "Injuries Commonly Reported After Novato Collisions",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Fractured bones",
+      "Back and spinal injuries",
+      "Shoulder and knee ligament damage",
+      "Cuts and bruising from broken glass or airbags"
+    ],
+    "ctaText": "Tell us what happened and get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "What Matters After a Novato Crash",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the crash date to file a claim, but if a government entity — like a Marin County road agency — may be responsible, that window can shrink to as little as six months. Talking to an attorney early helps make sure you don't miss a deadline."
+      },
+      {
+        "title": "Fault Doesn't Have to Be Simple",
+        "desc": "California uses pure comparative fault, so you may still recover compensation even if you're partly at fault for a crash on a busy stretch like US-101 or Redwood Boulevard. An attorney can help make sure shared fault isn't used to unfairly shrink your claim."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost to have your case reviewed. There's also no cap on non-economic damages like pain and suffering under California law, which can matter for serious injuries."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should I give a recorded statement to the other driver's insurance company?",
+        "answer": "It's generally best to avoid giving a recorded statement before speaking with an attorney. Insurance adjusters often use these statements to look for ways to reduce or deny a claim. An independent attorney can advise you on what to say and when."
+      },
+      {
+        "question": "What if my crash happened at a Novato intersection maintained by the city or county?",
+        "answer": "Claims involving a government entity, such as a road maintained by the City of Novato or Marin County, often come with a much shorter filing deadline — sometimes as little as six months. It's important to get legal advice quickly if this may apply to your situation."
+      },
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service that connects you with an independent personal injury attorney, and attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no cost or obligation to see if you have a case."
+      }
+    ]
+  }
+}

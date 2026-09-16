@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "shafter city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Shafter, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Shafter, Kern County? Get connected free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car wreck on E Lerdo Highway or injured as a pedestrian near town, we'll connect you free with an independent attorney serving Kern County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Shafter, California",
+    "longDescription": "Shafter may be a smaller Kern County community, but its roads still see real traffic. In the most recent reporting year, the city recorded 44 injury collisions, 72 people injured, and 2 traffic deaths. Corridors like E Lerdo Highway, Santa Fe Way, Zerker Road, and 7th Standard Road carry a steady mix of local, agricultural, and through traffic, and reported crashes tend to cluster on Friday afternoons between 3 and 5 p.m., a window when work commutes and weekend errands overlap. If you were hurt in one of these incidents, the aftermath can feel overwhelming — medical bills, missed work, and unanswered questions about what happens next. LawProactive is a free service that connects injured people in Shafter with an independent personal injury attorney. We are not a law firm, and we do not provide legal advice ourselves. The attorneys in our network handle cases on contingency, meaning there's no fee unless you recover compensation. Our goal is simply to make it easier for you to find someone who can evaluate your situation and explain your options, without adding another burden to an already difficult time.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Get connected with an independent attorney today — free, with no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity can require notice in as little as six months. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, so even if you were partly responsible for what happened, you may still be able to recover a reduced amount. An attorney can help sort out how fault might be allocated in your situation."
+      },
+      {
+        "title": "No Limit on Pain and Suffering Damages",
+        "desc": "In an ordinary injury case, California does not cap non-economic damages like pain, suffering, or loss of enjoyment of life. That means your case is evaluated on its own facts, not squeezed into an artificial ceiling."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they recover money on your behalf. That structure lets you get legal help without worrying about hourly bills piling up."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills while you're unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Fearing that being partly at fault means you can't recover anything",
+      "Feeling unsure whether you even need a lawyer or can handle it alone"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Shafter?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If a government agency was involved, such as a city vehicle or road defect, that window can shrink to as little as six months for a claim notice. It's best to speak with an attorney as soon as possible so deadlines don't slip by."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means your compensation is reduced by your percentage of fault rather than eliminated entirely. So even if you were 30% responsible, you could still recover the remaining 70% of your damages. An attorney can help evaluate how fault might be assessed in your case."
+      },
+      {
+        "question": "Where do crashes tend to happen in Shafter?",
+        "answer": "Public crash records show that reported collisions in Shafter are concentrated along corridors like E Lerdo Highway, Santa Fe Way, Zerker Road, and 7th Standard Road, with a noticeable rise in reports on Fridays between 3 and 5 p.m. These are simply patterns from public data, not a judgment about any particular road or area."
+      },
+      {
+        "question": "Does LawProactive charge me anything?",
+        "answer": "No. LawProactive is a free service that connects you with an independent attorney — we are not a law firm and don't charge fees ourselves. Attorneys in our network typically work on contingency, meaning they only get paid if you recover compensation."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In a standard personal injury case in California, there is no cap on non-economic damages such as pain and suffering. Recovery amounts depend on the specific facts of your case, which is something an attorney can help evaluate after reviewing your situation."
+      }
+    ]
+  }
+}

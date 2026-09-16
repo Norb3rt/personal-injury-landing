@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "mcfarland city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "McFarland, CA Injury Lawyer Connection | Free Case Review",
+    "metaDescription": "Injured in McFarland, Kern County? Get connected free to an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on SR-99 or a fall that wasn't your fault, we'll connect you free of charge with an independent attorney serving Kern County."
+  },
+  "about": {
+    "title": "Personal Injury Help in McFarland, California",
+    "longDescription": "McFarland sits along a stretch of Kern County where daily life runs through a handful of key roads — Elmo Highway, SR-99, Driver Road, and Garzoli Avenue carry the bulk of local traffic, and public records show these corridors account for the highest collision counts in town. The most recent full-year data recorded one traffic death in McFarland, a reminder that even a town this size isn't immune to serious crashes. If you or someone you love was hurt in a collision here, sorting out what comes next — medical bills, missed work, insurance calls — can feel like too much to handle alone. LawProactive is a free service that connects injured people in McFarland with an independent personal injury attorney. We are not a law firm, we don't decide your case, and we never charge you a fee to make the connection. The attorneys in our network work on contingency, meaning there's no cost to you unless they recover money on your behalf. Our goal is simple: get you talking to someone who can actually help, without adding to your stress or your bills. Reach out and let us do the legwork of finding the right fit.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injury",
+      "Back and spinal cord injury",
+      "Cuts, bruises, and lacerations",
+      "Soft tissue damage"
+    ],
+    "ctaText": "Tell us what happened — the connection is free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of an injury to file a claim, but that window shrinks to as little as six months if a government entity is involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, you can still recover damages even if you were partly responsible for the accident. Your compensation is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Ceiling on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages — like pain, suffering, and loss of enjoyment of life — in ordinary injury cases. That matters when the physical and emotional toll outweighs the medical bills."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, meaning they only get paid if you win or settle. There's no retainer, no hourly fee, and no financial risk in finding out where you stand."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worried medical bills will pile up before any settlement comes through",
+      "Not sure if the crash was partly your fault and whether that ruins your claim",
+      "Afraid the insurance company is already building a case against you",
+      "Unsure how much time you actually have left to file"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file an injury claim in McFarland?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If a government agency or public road authority is involved, that deadline can shrink to as little as six months, so it's worth checking your situation sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your total award is reduced by your percentage of fault, but it isn't wiped out entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in McFarland?",
+        "answer": "Public collision records show the highest counts along Elmo Highway, SR-99, Driver Road, and Garzoli Avenue, with reports tending to peak on Wednesdays between 10 a.m. and noon. These are neutral, publicly reported counts, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and we never charge you to connect with an independent attorney. We are not a law firm and don't handle your case directly — we simply make the introduction."
+      },
+      {
+        "question": "How much will an attorney cost if I do hire one?",
+        "answer": "Attorneys in our network work on contingency, which means there's no upfront fee. They only get paid a percentage if they recover money for you, so there's no financial risk in exploring your options."
+      }
+    ]
+  }
+}

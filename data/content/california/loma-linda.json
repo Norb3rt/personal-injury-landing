@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "loma-linda city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Loma Linda, CA Injury Lawyer Match | Free Case Review",
+    "metaDescription": "Injured in Loma Linda? Free connection to an independent San Bernardino County attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you're dealing with whiplash from a rear-end crash on Barton Road or a broken bone from a fall, we'll connect you with an independent attorney at no cost. Free help for injured residents throughout San Bernardino County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Loma Linda, California",
+    "longDescription": "Loma Linda is a small city, but its roads carry a steady stream of daily traffic — commuters heading to I-10, local trips along Redlands Boulevard, and cross-town drives on Mountain View Avenue and Barton Road. In the most recent full year on record, the city saw 80 injury collisions resulting in 105 injured people and 1 traffic death. Behind each of those numbers is someone dealing with medical bills, missed work, and an insurance company asking questions. LawProactive is a free service that helps injured people in Loma Linda get connected with an independent personal injury attorney who can look at what happened and explain their options. We are not a law firm — we don't handle your case or give legal advice ourselves. We simply make the introduction so you can talk to someone who does this work, at no upfront cost, since attorneys in our network only get paid if you recover compensation. If a crash on Barton Road, Redlands Boulevard, or elsewhere in the city left you hurt, it's worth a conversation before you decide anything with an insurance adjuster.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Torn ligaments and joint injuries"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to Someone Now",
+    "items": [
+      {
+        "title": "The Clock Is Already Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but if a government vehicle or road defect was involved, that window can shrink to as little as six months. Waiting too long can close the door on your claim entirely."
+      },
+      {
+        "title": "Shared Fault Doesn't Erase Your Case",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash. Your compensation is simply reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "In an ordinary injury case in California, there's no legal ceiling on non-economic damages like pain and suffering. An attorney can help make sure that side of your claim isn't overlooked."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, which means they only get paid if you receive a settlement or award. There's no hourly fee and no retainer required just to talk."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying the insurance company won't take the injury seriously",
+      "Not knowing if missed work and medical bills will ever get covered",
+      "Feeling pressured to accept a quick settlement offer",
+      "Uncertainty about whether shared fault ruins any chance at compensation"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a claim after a crash in Loma Linda?",
+        "answer": "In most California injury cases, you have two years from the date of the incident to file a lawsuit. If a government entity, such as a city vehicle or a road maintained by a public agency, is involved, that deadline can be as short as six months, so it's best not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some blame. Your final award is simply reduced by your percentage of fault rather than blocked entirely."
+      },
+      {
+        "question": "Where do crashes tend to cluster in Loma Linda?",
+        "answer": "Based on public collision records, reported crashes in Loma Linda tend to be more frequent along corridors like I-10, Barton Road, Redlands Boulevard, and Mountain View Avenue, with a noticeable rise on Fridays between 5 and 7 p.m. This is simply a pattern in the data, not a judgment about any particular road."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service, and there's no cost to you for the connection. If you choose to work with the attorney you're matched with, they typically operate on contingency, meaning payment only comes from a settlement or award, not out of your pocket upfront."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No, LawProactive is not a law firm and doesn't provide legal representation or advice. We connect injured people in Loma Linda with independent, licensed attorneys who can evaluate their situation and advise them directly."
+      }
+    ]
+  }
+}

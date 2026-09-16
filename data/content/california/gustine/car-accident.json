@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "gustine car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gustine Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Gustine car crash? LawProactive connects you free with an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a collision on Route 140, Route 33, or another Gustine roadway left you hurt, we can connect you with an independent attorney who works these Merced County cases and takes no fee unless you recover."
+  },
+  "about": {
+    "title": "Gustine Car Accident Claims",
+    "longDescription": "Gustine is a small town, but its roads carry real traffic risk. Public crash records show 8 injury collisions and 12 people hurt in the most recent final reporting year, with Friday afternoons between 3 and 5 p.m. showing up most often. Route 140, Route 33, 4th Street, and 6th Avenue see the heaviest reported crash counts, likely tied to commuter and agricultural traffic passing through town. If you were hurt in one of these crashes, what happens in the days right after matters. Photos, witness names, and vehicle damage can disappear or get forgotten quickly, and insurance adjusters often call soon after asking for a recorded statement. LawProactive doesn't practice law — we're a free service that connects injured Gustine residents with an independent personal injury attorney who can review the facts, protect evidence, and handle communication with insurers on your behalf.",
+    "commonInjuriesTitle": "Injuries We Commonly See Reported",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and other head injuries",
+      "Broken bones and fractures",
+      "Back and spinal disc injuries",
+      "Deep cuts and lacerations",
+      "Torn ligaments and joint damage"
+    ],
+    "ctaText": "Get connected with an independent attorney — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before the Insurer Calls",
+    "items": [
+      {
+        "title": "California's Filing Deadline Is Firm",
+        "desc": "You generally have two years from the crash date to file a personal injury lawsuit in California, but that window can shrink to as little as six months if a government entity — like a road authority responsible for Route 140 or Route 33 — is involved. Missing that deadline can end your claim before it starts."
+      },
+      {
+        "title": "Comparative Fault Can Reduce What You Recover",
+        "desc": "California allows recovery even if you're partly at fault, but your share of blame reduces your payout under pure comparative fault rules. An attorney can help make sure the insurer isn't unfairly shifting blame onto you to lower what you're owed."
+      },
+      {
+        "title": "No Cap Doesn't Mean No Fight",
+        "desc": "California places no cap on non-economic damages like pain and suffering, but insurers still push back hard on these amounts. Having someone review your claim before you give a recorded statement can help protect the full value of what you experienced."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was in a crash on 4th Street in Gustine — should I talk to the other driver's insurance company first?",
+        "answer": "It's best to avoid giving a recorded statement to the other driver's insurer before speaking with an attorney. Insurance adjusters are trained to ask questions that can be used to minimize your claim later. LawProactive can connect you with someone who can advise you on what to say and what to avoid."
+      },
+      {
+        "question": "How much does it cost to get connected with an attorney through LawProactive?",
+        "answer": "Nothing upfront. LawProactive is a free service, and attorneys in our network work on contingency, meaning they only get paid if you recover compensation. There's no cost or obligation to see if you have a case worth pursuing."
+      },
+      {
+        "question": "What if my accident happened at an intersection maintained by the city or county, like along Route 140?",
+        "answer": "Claims involving government-maintained roads have special rules and much shorter deadlines — sometimes just six months instead of two years. It's important to act quickly if a public road or intersection was involved in your Gustine crash. An attorney can help determine which deadline applies to your situation."
+      }
+    ]
+  }
+}

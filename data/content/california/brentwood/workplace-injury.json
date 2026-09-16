@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "brentwood workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Brentwood Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Brentwood, CA? Get connected free with an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "If you were injured while working in Brentwood, from a warehouse near Sand Creek Road to a jobsite off Brentwood Boulevard, LawProactive can connect you with an independent attorney at no cost to you."
+  },
+  "about": {
+    "title": "Brentwood Workplace Injury Claims",
+    "longDescription": "Brentwood has grown fast, and with that growth comes more construction sites, delivery routes, and agricultural operations spread across the city and into unincorporated Contra Costa County. Workers hurt on these jobs often assume workers' compensation is their only option, and while it usually is the exclusive remedy against an employer, that's not always the full picture. If a subcontractor, equipment manufacturer, property owner, or another driver on roads like SR-4 or Balfour Road contributed to your injury, you may have a separate claim against that third party. Navigating both systems at once, workers' comp and a potential third-party lawsuit, is where an experienced attorney matters. LawProactive doesn't practice law ourselves; we simply connect injured workers in Brentwood with an independent attorney who can look at the full picture of what happened and explain your options, all on a contingency basis so there's no upfront cost to you.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See",
+    "commonInjuries": [
+      "Falls from ladders or scaffolding",
+      "Repetitive strain and overexertion injuries",
+      "Equipment and machinery accidents",
+      "Vehicle collisions during work duties",
+      "Injuries from falling materials or debris",
+      "Burns or chemical exposure incidents"
+    ],
+    "ctaText": "Find out if you have options beyond workers' comp — reach out today."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California treats workers' comp as the exclusive remedy against your employer in most cases, but a negligent third party, like a subcontractor or equipment maker, may still be liable separately."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally need to report a workplace injury to your employer within 30 days, and missing that window can complicate your claim, so getting guidance early helps protect it."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "Employers cannot legally punish you for reporting an injury or filing a claim, and an attorney can help you understand your rights if you feel pressured after speaking up."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a jobsite near Sand Creek Road in Brentwood. Can I still file a claim?",
+        "answer": "Yes. Location doesn't change your right to report a workplace injury to your employer, generally within 30 days. If a third party, like a subcontractor or equipment supplier, contributed to the accident, you may also have a separate claim worth exploring with an attorney."
+      },
+      {
+        "question": "Can I sue my employer directly for my injury?",
+        "answer": "In most cases, California law makes workers' compensation the exclusive remedy against your employer, meaning a direct lawsuit isn't typically an option. However, if someone other than your employer, such as another contractor or a product manufacturer, caused or contributed to your injury, you may be able to pursue a separate third-party claim."
+      },
+      {
+        "question": "How long do I have to bring a third-party claim after a workplace injury?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of the injury. That's separate from the workers' comp reporting timeline, so it helps to understand both clocks. An attorney can help sort out which deadlines apply to your situation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "saratoga workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Saratoga Workplace Injury Claims | LawProactive",
+    "metaDescription": "Hurt on the job in Saratoga? Get connected free to an independent attorney who handles workers' comp and third-party injury claims."
+  },
+  "hero": {
+    "subtitle": "If a job-related injury has sidelined you in Saratoga, LawProactive can connect you with an independent attorney who understands both workers' comp and third-party claims tied to local worksites and roadways like Saratoga Avenue and SR-85."
+  },
+  "about": {
+    "title": "Saratoga Workplace Injury Claims",
+    "longDescription": "Saratoga's mix of small commercial centers, hillside properties, and busy corridors like Saratoga Sunnyvale Road and Saratoga Los Gatos Road means workplace injuries here often involve more than just an employer. Delivery drivers, landscapers, contractors, and retail employees can be hurt not only by workplace hazards but by negligent third parties — another driver, a subcontractor, or defective equipment. California generally requires injured workers to pursue workers' compensation first, since it's usually the exclusive remedy against an employer. But when someone outside the employment relationship contributes to the injury, a separate claim may be possible. LawProactive doesn't practice law or take a fee itself; we simply connect injured workers in Saratoga with an independent attorney who can look at the full picture, explain your options clearly, and help you understand whether a workers' comp claim, a third-party claim, or both may apply to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Inquiries About",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or uneven surfaces",
+      "Vehicle collisions during work-related driving",
+      "Repetitive strain and overexertion injuries",
+      "Equipment or machinery-related injuries",
+      "Struck-by incidents on job sites or loading areas",
+      "Injuries from defective tools or safety equipment"
+    ],
+    "ctaText": "Get connected with an independent attorney to review your workplace injury situation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "While workers' comp is usually the exclusive remedy against your employer, a negligent third party like a subcontractor or equipment maker may still be liable separately."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "California requires injuries to be reported to your employer within 30 days, so timing your claim correctly can protect your options."
+      },
+      {
+        "title": "Retaliation Is Illegal",
+        "desc": "If you're worried about reporting an injury, California law prohibits employer retaliation for filing a workers' comp claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Can I file a claim if I was hurt while driving for work near SR-85 or Saratoga Avenue?",
+        "answer": "Possibly. If another driver caused the crash while you were performing work duties, you may have both a workers' comp claim and a separate third-party injury claim against that driver. An independent attorney can help sort out which claims apply and how they interact."
+      },
+      {
+        "question": "What if my employer doesn't have workers' comp insurance?",
+        "answer": "California employers are generally required to carry workers' comp coverage, but if yours doesn't, you may have additional legal options. An attorney can explain what remedies exist in that situation."
+      },
+      {
+        "question": "How long do I have to bring a third-party injury claim in California?",
+        "answer": "Third-party injury claims generally carry a two-year deadline from the date of injury. Workers' comp reporting has its own shorter 30-day window, so it's important not to delay either process."
+      }
+    ]
+  }
+}

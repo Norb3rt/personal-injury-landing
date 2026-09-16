@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-13",
+    "note": "hawthorne city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Hawthorne, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Hurt in Hawthorne? Connect free with an independent injury attorney serving Los Angeles County. 2 years to file in CA. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a car crash, a slip and fall, or a pedestrian collision, LawProactive connects you at no cost with an independent personal injury attorney. We serve Hawthorne and all of Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Hawthorne, California",
+    "longDescription": "Hawthorne sits in the South Bay corner of Los Angeles County, and its streets carry a steady flow of daily traffic. Prairie Avenue, El Segundo Boulevard, Rosecrans Avenue and 120th Street all run through neighborhoods where people live, shop and commute. In 2025, the most recent final year of public records, Hawthorne logged 328 injury collisions. Those crashes injured 416 people and took 3 lives. The same records show reports peaking on Fridays between 3 p.m. and 5 p.m. Behind each of those numbers is someone trying to figure out what comes next: an ER bill, a totaled car, time away from work. That is where LawProactive comes in. We are a free service, not a law firm. We do not handle cases ourselves. What we do is connect you with an independent personal injury attorney who serves Hawthorne and the rest of Los Angeles County, at no cost to you. Attorneys in our network work on contingency. If there is no recovery, you owe no attorney fee. Whether you were hurt behind the wheel, on a bike, on foot, or on someone else's property, you can find out where you stand before deciding anything.",
+    "commonInjuriesTitle": "Injuries People in Hawthorne Ask About",
+    "commonInjuries": [
+      "Whiplash and soft-tissue neck injuries",
+      "Concussions and traumatic brain injuries",
+      "Broken arms, legs and ribs",
+      "Back and spinal disc injuries",
+      "Cuts, burns and lasting scars",
+      "Knee and shoulder damage from falls"
+    ],
+    "ctaText": "Talk through your options for free."
+  },
+  "whyChoose": {
+    "title": "What California Law Means for You in Hawthorne",
+    "items": [
+      {
+        "title": "The clock runs two years",
+        "desc": "California gives most injured people two years from the date of injury to file a claim. If a city, county or state agency is involved, that window can shrink to as little as six months."
+      },
+      {
+        "title": "Being partly at fault does not end your claim",
+        "desc": "California follows pure comparative fault. Your recovery may be reduced by your share of responsibility, but it is not wiped out just because you were partly to blame."
+      },
+      {
+        "title": "No cap on pain and suffering in ordinary cases",
+        "desc": "California does not limit non-economic damages in typical injury claims. That means the toll on your daily life can be counted, not just your medical bills."
+      },
+      {
+        "title": "No attorney fee unless you recover",
+        "desc": "Attorneys in the LawProactive network take cases on contingency. You pay nothing up front, and if there is no recovery there is no attorney fee."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "The insurance adjuster keeps calling and I don't know what to say.",
+      "I missed shifts and rent is due.",
+      "My doctor says I need more treatment I can't afford right now.",
+      "I'm not even sure I have a case worth pursuing."
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Where do collisions tend to happen in Hawthorne?",
+        "answer": "Public collision records list Prairie Avenue, El Segundo Boulevard, Rosecrans Avenue and 120th Street as the corridors with the highest counts in Hawthorne. These are simply the busiest reporting locations, not a judgment about any particular road. In 2025 the city recorded 328 injury collisions overall, with reports tending to peak Friday afternoons between 3 and 5."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service. We match you with an independent personal injury attorney who practices in Los Angeles County, and that attorney, not us, handles your case."
+      },
+      {
+        "question": "How long do I have to file an injury claim in California?",
+        "answer": "For most personal injury claims, California allows two years from the date you were hurt. Claims against a government entity often have a much shorter deadline, sometimes six months. Because these windows vary, it helps to talk with an attorney sooner rather than later."
+      },
+      {
+        "question": "What if the crash was partly my fault?",
+        "answer": "California uses pure comparative fault, so partial responsibility reduces what you can recover but does not bar you from recovering. For example, if you are found 20 percent at fault, your recovery would be reduced by that share. An attorney can explain how this might apply to your situation."
+      },
+      {
+        "question": "What will an attorney cost me?",
+        "answer": "Attorneys in our network work on contingency. There is no upfront fee, and if your case does not result in a recovery, you owe no attorney fee. The connection through LawProactive is free as well."
+      }
+    ]
+  }
+}

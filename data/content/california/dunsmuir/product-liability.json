@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "dunsmuir product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Dunsmuir Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Dunsmuir, CA? Get connected free with an independent attorney who handles strict liability product cases."
+  },
+  "hero": {
+    "subtitle": "If a defective product hurt you or someone you love in Dunsmuir, you don't have to sort out the legal side alone. LawProactive connects you, at no cost, with an independent attorney who handles these claims."
+  },
+  "about": {
+    "title": "Dunsmuir Product Liability Claims",
+    "longDescription": "Dunsmuir sits along I-5 in Siskiyou County, a small town of roughly 1,582 people where daily life often involves the same tools, vehicles, and household products found everywhere else in California. When one of those products fails — a car part gives out on I-5, a tool breaks on the job, or an appliance malfunctions at home — the injury can be sudden and serious. California law generally allows an injured person to pursue a defective-product claim under strict liability, meaning the focus is on whether the product itself was flawed, not on proving carelessness by the manufacturer. That can apply to design flaws, manufacturing defects, or inadequate warnings. Because Dunsmuir is a small community without a large local legal market, residents often need to connect with attorneys who regularly handle product cases regardless of where they're based. LawProactive helps make that connection, free, so you can focus on recovering while someone experienced reviews what happened and who may be responsible — the maker, distributor, or retailer.",
+    "commonInjuriesTitle": "Injuries Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from faulty electrical or heating products",
+      "Lacerations from broken tools or machinery parts",
+      "Head injuries from failed safety equipment",
+      "Crush injuries from malfunctioning vehicle components",
+      "Chemical exposure from mislabeled or unsafe products",
+      "Fractures from collapsing furniture or structures"
+    ],
+    "ctaText": "Tell us what happened — connecting with an attorney is free and there's no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About a Product Defect",
+    "items": [
+      {
+        "title": "You Don't Have to Prove Negligence",
+        "desc": "Under California's strict liability rules, the question is usually whether the product was defective, not whether the manufacturer was careless. An attorney can help identify which type of defect applies to your situation."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and retailers can all potentially be held liable for a defective product. A knowledgeable attorney can sort out which parties were involved in getting that product to you."
+      },
+      {
+        "title": "Keeping the Product Matters",
+        "desc": "California product cases often depend heavily on examining the item itself. An attorney can advise you on preserving evidence before it's lost, altered, or discarded."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What counts as a defective product under California law?",
+        "answer": "Generally, a product can be considered defective if it has a design flaw, a manufacturing error, or inadequate warnings and instructions. California's strict liability standard means you typically don't need to prove the company was negligent — just that the defect existed and caused your injury. An attorney can help evaluate which category fits your case."
+      },
+      {
+        "question": "I live in a small town like Dunsmuir — can I still find help with a product liability claim?",
+        "answer": "Yes. Dunsmuir's size doesn't limit your legal options; attorneys who handle product liability cases often work with clients throughout Siskiyou County and beyond. LawProactive connects you with an independent attorney regardless of how small or remote your community is, at no cost to you."
+      },
+      {
+        "question": "Should I keep the product that hurt me?",
+        "answer": "In most cases, yes — preserving the actual product is often important evidence in a strict liability claim. Try not to repair, modify, or discard it, and store it somewhere safe until you've spoken with an attorney about next steps."
+      }
+    ]
+  }
+}

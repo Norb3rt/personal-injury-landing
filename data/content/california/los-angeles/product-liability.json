@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-fable-5-1",
+    "generatedAt": "2026-09-12",
+    "practice": "product-liability",
+    "note": "los-angeles product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Product Liability Attorney in Los Angeles, CA",
+    "metaDescription": "Hurt by a defective product in Los Angeles? LawProactive connects you, free, with an independent California attorney. No fee unless there is a recovery."
+  },
+  "hero": {
+    "subtitle": "A defective product does not care whether you read the manual. If something you bought or used in Los Angeles failed and hurt you, we can connect you with an independent attorney at no cost."
+  },
+  "about": {
+    "title": "Los Angeles Product Liability Claims",
+    "longDescription": "Nearly four million people live in Los Angeles, and every one of them relies on products someone else designed, built, and sold. When one does not work as it should — a space heater that ignites, a car seat latch that gives way, a medication with a warning that left out the risk that mattered — the harm lands on the person holding it, not the company that shipped it. California law recognizes that imbalance. Under strict liability, you generally do not have to prove the manufacturer was careless. You need to show the product had a defect in its design, its manufacturing, or its warnings, and that the defect caused your injury. Los Angeles County's traffic volume matters here too: in 2025 the city recorded 12,125 injury collisions, and some crashes on US-101, I-5, or I-110 trace back to a tire, brake, or airbag that failed rather than to a driver's mistake. LawProactive is not a law firm. We connect you, at no cost, with an independent attorney who handles product liability claims and works on contingency.",
+    "commonInjuriesTitle": "Injuries Often Linked to Defective Products",
+    "commonInjuries": [
+      "Burns from appliances, batteries, or e-bike and scooter chargers",
+      "Lacerations and amputations from power tools or machinery",
+      "Crash injuries tied to airbag, seatbelt, or tire failures",
+      "Poisoning or organ damage from contaminated food or drugs",
+      "Head and spinal injuries from collapsed furniture, ladders, or child seats",
+      "Choking, strangulation, or suffocation hazards in children's products"
+    ],
+    "ctaText": "Tell us what happened. The connection is free."
+  },
+  "whyChoose": {
+    "title": "What Makes a Los Angeles Product Case Different",
+    "items": [
+      {
+        "title": "Fault Is Not the Question",
+        "desc": "Because California applies strict liability to most product claims, an attorney focuses on proving the defect and the injury it caused — not on proving the maker was careless."
+      },
+      {
+        "title": "The Product Is the Evidence",
+        "desc": "Keep the item, its packaging, and any receipts exactly as they are. An attorney in our network will want to preserve the product before anyone repairs, discards, or returns it."
+      },
+      {
+        "title": "More Than One Party May Answer",
+        "desc": "In California, the manufacturer, the distributor, and the store that sold the product can each be held responsible. That matters in a city where goods pass through many hands before reaching you."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "My airbag did not deploy in a crash on the 110. Is that a product case or a car accident case?",
+        "answer": "It may be both. A collision claim looks at who caused the crash, while a product claim asks whether a defective airbag, seatbelt, or other component made your injuries worse than they should have been. An attorney can pursue the driver's insurer and the vehicle's manufacturer at the same time. Do not let the car be scrapped or repaired until the parts have been inspected."
+      },
+      {
+        "question": "I threw away the product that hurt me. Do I still have a claim?",
+        "answer": "Possibly, but it becomes harder. Under strict liability you still need to show the product was defective, and the item itself is usually the clearest proof. Photos, the packaging, purchase records, and any similar units you still have can help fill the gap. Talk to an attorney before assuming the case is lost."
+      },
+      {
+        "question": "Does LawProactive charge me anything to find an attorney in Los Angeles?",
+        "answer": "No. Our connection service is free, and we are not a law firm. The independent attorneys in our network work on contingency, which means they are paid only if there is a recovery in your case. You can speak with someone about your situation without committing to anything."
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "car-accident",
+    "note": "parlier car-accident silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Parlier Car Accident Help | LawProactive",
+    "metaDescription": "Injured in a Parlier car crash? LawProactive connects you free with an independent CA attorney. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a crash on Manning Avenue, Academy Avenue, or another Parlier road has left you hurt, LawProactive can connect you at no cost with an independent attorney who handles cases like yours."
+  },
+  "about": {
+    "title": "Parlier Car Accident Claims",
+    "longDescription": "Parlier is a small, tight-knit Fresno County community, but its roads still see a steady stream of traffic collisions. Public records show 16 injury crashes and 20 injured people in the most recent reporting year, with Sunday evenings between 5 and 7 p.m. showing up often. Corridors like Manning Avenue, Academy Avenue, Parlier Avenue, and Mendocino Avenue carry much of that traffic, and a moment's distraction or a missed stop can turn a routine drive into a serious injury. If you were hurt in one of these collisions, the insurance process that follows can feel confusing, especially while you're trying to recover. LawProactive doesn't practice law ourselves — we're a free service that connects injured people in Parlier with an independent personal injury attorney who can review what happened and explain your options, without any upfront cost or obligation.",
+    "commonInjuriesTitle": "Injuries We Commonly See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Concussions and head injuries",
+      "Broken bones and fractures",
+      "Back and spinal injuries",
+      "Cuts, bruises, and soft-tissue damage",
+      "Shoulder and knee injuries from impact"
+    ],
+    "ctaText": "Get connected with an attorney today — free, no obligation."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Before Talking to the Insurer",
+    "items": [
+      {
+        "title": "California's Filing Clock Is Limited",
+        "desc": "You generally have two years from the date of the crash to file a personal injury lawsuit in California, but that window can shrink to as little as six months if a government entity was involved, such as a Fresno County road issue. Waiting too long can cost you the ability to recover anything at all."
+      },
+      {
+        "title": "Fault Doesn't Have to Be All-or-Nothing",
+        "desc": "California follows pure comparative fault, meaning you can still recover damages even if you were partly responsible for the crash. An attorney can help make sure your share of fault isn't unfairly inflated by an insurance adjuster."
+      },
+      {
+        "title": "Be Careful Before Giving a Recorded Statement",
+        "desc": "Insurance companies often ask for a recorded statement early, before you know the full extent of your injuries. Anything you say can be used to minimize your claim, so it's worth speaking with an attorney first and preserving evidence like photos, witness names, and medical records."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free connection service, and the attorneys in our network work on a contingency basis, meaning they only get paid if you recover compensation. There's no upfront cost or obligation to move forward."
+      },
+      {
+        "question": "What if my crash happened on a road maintained by the city or county, like Parlier Avenue?",
+        "answer": "Claims involving government-maintained roads can have much shorter deadlines than the standard two-year statute of limitations, sometimes as little as six months. It's important to act quickly so an attorney can evaluate whether a government claim applies to your situation."
+      },
+      {
+        "question": "I was told I was partly at fault for the crash. Can I still make a claim?",
+        "answer": "Yes. California's pure comparative fault rule allows you to seek compensation even if you share some responsibility for the collision, though your recovery may be reduced by your percentage of fault. An independent attorney can help evaluate how fault might affect your specific claim."
+      }
+    ]
+  }
+}

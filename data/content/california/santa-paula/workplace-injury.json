@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "workplace-injury",
+    "note": "santa-paula workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Santa Paula Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Santa Paula? Get connected free to an independent attorney who handles work injury and third-party claims."
+  },
+  "hero": {
+    "subtitle": "Santa Paula's mix of agricultural operations, warehouses, and roadway work along SR-126 and Harvard Boulevard means job-site injuries happen in ways that don't always fit neatly into a workers' comp file. We connect you, free of charge, with an independent attorney who can look at whether someone besides your employer bears responsibility."
+  },
+  "about": {
+    "title": "Santa Paula Workplace Injury Claims",
+    "longDescription": "Santa Paula's economy runs on agriculture, packing houses, equipment operators, and drivers moving product along SR-126, Santa Paula Street, and Harvard Boulevard. When a worker is hurt, California law usually channels the claim through workers' compensation, which pays regardless of fault but limits what you can recover. What often gets missed is whether a third party — a subcontractor, equipment manufacturer, property owner, or another driver — contributed to the injury. That kind of claim runs on a separate track, with its own 2-year deadline, and can provide compensation workers' comp doesn't cover, like full pain and suffering. LawProactive doesn't practice law or take a fee ourselves; we're a free connection service that matches injured workers in Santa Paula with an independent attorney who can sort out which path — or paths — apply to your situation and explain them in plain terms.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Connections For",
+    "commonInjuries": [
+      "Falls from ladders, scaffolding, or loading docks",
+      "Injuries from heavy farm or packing equipment",
+      "Vehicle collisions while working, including near SR-126",
+      "Repetitive strain and overexertion injuries",
+      "Chemical or pesticide exposure incidents",
+      "Crush or caught-in-machinery injuries"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an attorney who can review it, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Santa Paula Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "We Untangle the Workers' Comp vs. Third-Party Question",
+        "desc": "Workers' comp is usually the exclusive remedy against an employer, but a negligent subcontractor, property owner, or equipment maker can still be liable separately. An independent attorney can help figure out which claims apply to your injury."
+      },
+      {
+        "title": "We Understand the 30-Day Reporting Window",
+        "desc": "California requires injured workers to report an incident to their employer within 30 days to preserve comp benefits. We can connect you quickly so that window doesn't slip by unnoticed."
+      },
+      {
+        "title": "We Know Retaliation Is Illegal",
+        "desc": "If you're worried about reporting an injury because of how your employer might react, know that retaliation for a workplace injury claim is against California law. An attorney can advise you on protecting your job while pursuing a claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt on a Santa Paula work site — do I file workers' comp or a lawsuit?",
+        "answer": "In most cases, workers' comp is your remedy against your employer regardless of fault, so that claim usually gets filed first. But if a third party — like a subcontractor, a driver on SR-126, or an equipment manufacturer — contributed to your injury, a separate claim against them may also be possible. An independent attorney can review the specifics and explain which routes apply."
+      },
+      {
+        "question": "What if my injury happened while driving for work near Santa Paula Street or Harvard Boulevard?",
+        "answer": "Work-related driving injuries are usually covered by workers' comp, but if another driver caused the crash, that driver's negligence could support a separate third-party claim. Those claims carry a 2-year deadline, so it helps to get a review sooner rather than later."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury?",
+        "answer": "No — California law prohibits retaliation against employees who report a workplace injury or file a workers' comp claim. If you're facing pressure not to report, an independent attorney can advise you on your options and rights."
+      }
+    ]
+  }
+}

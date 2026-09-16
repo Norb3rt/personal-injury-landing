@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "st-helena workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "St. Helena Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in St. Helena? Get connected free to an independent attorney who handles workers' comp and third-party claims."
+  },
+  "hero": {
+    "subtitle": "When a shift at a Main Street kitchen, a Silverado Trail vineyard, or a Highway 29 job site ends in injury, St. Helena workers deserve clear answers about their options. We connect you free with an independent attorney who can sort out workers' comp from any third-party claim."
+  },
+  "about": {
+    "title": "St. Helena Workplace Injury Claims",
+    "longDescription": "St. Helena's economy leans heavily on hospitality, agriculture, and tourism, which means workplace injuries here often happen in vineyards, wineries, restaurants, and along delivery routes on Route 29 and Oak Avenue. Whether it's a fall among wine barrels, a laceration from harvest equipment, or a collision while driving for work, the path forward usually starts with workers' compensation. But California law also allows a separate claim against a negligent third party, like an equipment manufacturer, a subcontractor, or another driver, if one contributed to the injury. Napa County's mix of small hospitality businesses and larger agricultural operations means these situations vary widely, and it helps to have someone review the details. LawProactive doesn't practice law itself. We simply connect injured workers with an independent attorney who can look at what happened, explain your options plainly, and help you figure out whether more than one type of claim applies to your situation.",
+    "commonInjuriesTitle": "Common Workplace Injuries We See Referred",
+    "commonInjuries": [
+      "Falls in wineries, cellars, or kitchens",
+      "Repetitive strain from harvest or bottling work",
+      "Equipment-related cuts or crush injuries",
+      "Vehicle collisions during work deliveries or travel",
+      "Heat-related illness during outdoor labor",
+      "Back and shoulder injuries from lifting or hauling"
+    ],
+    "ctaText": "Get connected with an independent attorney at no cost to you."
+  },
+  "whyChoose": {
+    "title": "Why St. Helena Workers Reach Out to LawProactive",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Story",
+        "desc": "California treats workers' comp as the usual remedy against an employer, but if a third party like a subcontractor or equipment maker contributed to the injury, a separate claim may be possible alongside it."
+      },
+      {
+        "title": "Reporting Deadlines Matter Early",
+        "desc": "California requires injuries be reported to an employer within 30 days, and missing that window can complicate a claim, so timing matters even before you've decided anything else."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "Workers sometimes hesitate to report injuries out of fear, but California law prohibits retaliation for filing a claim, and an attorney can help if that becomes a concern."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a St. Helena winery during harvest season. Is that covered under workers' comp?",
+        "answer": "Most job-related injuries, including seasonal harvest work, fall under California's workers' compensation system regardless of fault. If equipment failure or a subcontractor's negligence played a role, there may also be a separate third-party claim worth reviewing. An independent attorney can look at the specifics of your situation and explain what applies."
+      },
+      {
+        "question": "What if my injury happened while driving for work near Highway 29 or Silverado Trail?",
+        "answer": "Work-related driving injuries are usually handled through workers' comp, but if another driver caused the crash, that driver's negligence could support an additional third-party claim. These two paths aren't mutually exclusive under California law. It's worth having someone review both angles."
+      },
+      {
+        "question": "Can my employer fire me for reporting a workplace injury?",
+        "answer": "No. California law makes it illegal for an employer to retaliate against a worker for reporting an injury or filing a workers' comp claim. If you believe retaliation happened, an independent attorney can help you understand your options. Documenting dates and communications can also be useful."
+      }
+    ]
+  }
+}

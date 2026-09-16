@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "product-liability",
+    "note": "big-bear-lake product-liability silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Big Bear Lake Product Liability Help | LawProactive",
+    "metaDescription": "Hurt by a defective product in Big Bear Lake? Get connected free to an independent CA attorney who works on contingency. No fee unless you recover."
+  },
+  "hero": {
+    "subtitle": "If a defective product hurt you in Big Bear Lake, whether at home, on the trail, or along Big Bear Boulevard, LawProactive can connect you with an independent attorney who handles product liability claims in San Bernardino County.  There's no cost to you unless the case results in a recovery."
+  },
+  "about": {
+    "title": "Big Bear Lake Product Liability Claims",
+    "longDescription": "Big Bear Lake draws people year-round for skiing, hiking, and lake recreation, which means a wide mix of gear, equipment, and consumer products gets heavy use here — ski bindings, mountain bikes, snowmobiles, propane heaters, and cabin appliances among them. When one of these products fails because of a design flaw, a manufacturing error, or a missing warning, the resulting injury can be serious given the area's rugged terrain and distance from larger trauma centers. California law generally allows injured residents and visitors to pursue a strict liability claim, meaning the focus is on whether the product was defective and caused harm, not on proving the manufacturer was careless. If you were hurt by a product anywhere in Big Bear Lake, keeping the item and any packaging can matter a great deal. LawProactive doesn't practice law itself; we simply connect you, free of charge, with an independent attorney who can evaluate your situation and explain your options under California law.",
+    "commonInjuriesTitle": "Common Injuries From Defective Products",
+    "commonInjuries": [
+      "Broken bones from failed sporting or recreational gear",
+      "Burns from malfunctioning heaters or propane equipment",
+      "Head injuries from defective helmets or safety equipment",
+      "Lacerations from faulty tools or machinery",
+      "Traumatic injuries from vehicle or off-road equipment defects",
+      "Injuries from tainted or mislabeled consumer products"
+    ],
+    "ctaText": "Get connected with an independent attorney to discuss your product liability claim."
+  },
+  "whyChoose": {
+    "title": "Why Strict Liability Matters in Big Bear Lake Cases",
+    "items": [
+      {
+        "title": "You Don't Have to Prove Negligence",
+        "desc": "California's strict liability standard generally means you only need to show the product was defective and that it caused your injury, not that the manufacturer was careless. This can simplify a claim involving complex outdoor or recreational equipment common in Big Bear Lake."
+      },
+      {
+        "title": "Multiple Parties May Share Responsibility",
+        "desc": "Manufacturers, distributors, and even the local retailer who sold the product may all be potentially liable under California law. An attorney can help sort out which parties were involved in getting a defective product into your hands."
+      },
+      {
+        "title": "Preserving the Product Is Critical",
+        "desc": "Because a defect claim often hinges on the physical product itself, keeping the item, its packaging, and any related paperwork can matter to the strength of a case. An independent attorney can advise you on how to properly preserve this evidence."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What counts as a 'defect' under California product liability law?",
+        "answer": "California recognizes three general types of defects: design defects, manufacturing defects, and failure-to-warn defects. A design defect means the product itself was designed unsafely, a manufacturing defect means something went wrong during production, and a warning defect means the maker failed to adequately warn of a known risk. An attorney can help determine which category fits your situation."
+      },
+      {
+        "question": "I was hurt by ski or recreational equipment near Moonridge Road — does that count?",
+        "answer": "Yes, injuries from defective recreational or sporting equipment used in and around Big Bear Lake, including near Moonridge Road, can potentially form the basis of a product liability claim. What matters is whether the product itself was defective and caused your injury, not where you were using it. An independent attorney can review the specifics of your incident."
+      },
+      {
+        "question": "Do I need to prove the manufacturer was negligent?",
+        "answer": "Generally, no. Under California's strict liability doctrine, you typically only need to show the product was defective and that the defect caused your injury. This is different from ordinary negligence claims, which require proving the other party failed to use reasonable care."
+      }
+    ]
+  }
+}

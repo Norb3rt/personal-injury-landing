@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "morro-bay city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Morro Bay, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Morro Bay? Free connection to a San Luis Obispo County injury attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "If you were hurt in a car crash, bicycle collision, or fall in Morro Bay, we can connect you with an independent attorney at no cost. Free, no-obligation connection serving all of San Luis Obispo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Morro Bay, California",
+    "longDescription": "Morro Bay is a small coastal city, but its streets still see a steady share of collisions. In the most recent full year of public records, the city logged 26 injury collisions and 30 people injured, with no reported traffic deaths. Local corridors like Rt 1, Main Street, South Bay Boulevard, and Atascadero Road carry the bulk of daily traffic, and it's along these roads that many reported crashes have occurred. If you were hurt in one of these incidents, sorting out medical bills, insurance calls, and missed work can feel overwhelming on top of recovering physically. LawProactive is a free service that connects injured people in Morro Bay with an independent personal injury attorney — we are not a law firm, and we don't decide or handle your case ourselves. The attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Reaching out costs nothing and doesn't obligate you to anything. Whether your injury happened near the Embarcadero, on Highway 1, or on a quieter side street, getting informed early can make a real difference in how your claim unfolds.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Concussions and head injuries",
+      "Back and spinal injuries",
+      "Cuts, bruises, and road rash",
+      "Torn ligaments and joint damage"
+    ],
+    "ctaText": "Find out where you stand — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "California's Filing Deadline",
+        "desc": "Most injury claims in California must be filed within two years of the incident. If a government entity is involved, that window can shrink to as little as six months, so it pays to move quickly."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Claim",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for the crash, you can still recover compensation reduced by your share of fault."
+      },
+      {
+        "title": "No Cap on Non-Economic Damages",
+        "desc": "In ordinary injury cases, California places no limit on compensation for pain, suffering, and other non-economic losses, unlike some other states."
+      },
+      {
+        "title": "No Fee Unless You Recover",
+        "desc": "Attorneys in our network work on contingency, so you pay nothing upfront and owe no fee unless your case results in a recovery."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Feeling pressured by insurance adjusters calling too soon",
+      "Not knowing if you waited too long to take action",
+      "Fear that admitting any fault will cost you everything"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much does it cost to talk to an attorney through LawProactive?",
+        "answer": "Nothing. LawProactive is a free service, and the attorneys we connect you with work on contingency, so there's no fee unless you recover money."
+      },
+      {
+        "question": "How long do I have to file a personal injury claim in Morro Bay?",
+        "answer": "Under California law, most injury claims must be filed within two years of the incident. If your injury involved a government entity or vehicle, that deadline can be as short as six months, so it's best not to wait."
+      },
+      {
+        "question": "What if I was partly at fault for the accident?",
+        "answer": "California uses pure comparative fault, which means you can still recover compensation even if you share some blame. Your recovery would simply be reduced by your percentage of fault."
+      },
+      {
+        "question": "Where do reported crashes tend to cluster in Morro Bay?",
+        "answer": "Public crash records show that reported collisions in Morro Bay are concentrated along Rt 1, Main Street, South Bay Boulevard, and Atascadero Road, with a noticeable rise on Saturdays between 3 p.m. and 5 p.m. This reflects public-record collision counts only, not a judgment about any specific road."
+      },
+      {
+        "question": "Is LawProactive a law firm?",
+        "answer": "No. LawProactive is a free connection service that puts injured people in touch with independent personal injury attorneys. We don't provide legal representation ourselves."
+      }
+    ]
+  }
+}

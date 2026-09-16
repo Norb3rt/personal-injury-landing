@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "practice": "medical-malpractice",
+    "note": "brentwood medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Brentwood, CA Medical Malpractice Help | LawProactive",
+    "metaDescription": "Free connection to an independent medical malpractice attorney serving Brentwood, CA. No fee unless you recover. Contra Costa County deadlines apply."
+  },
+  "hero": {
+    "subtitle": "When a Brentwood medical visit goes wrong, the rules for holding a provider accountable are narrow and time-sensitive. We connect you with an independent attorney who can review what happened at no cost to you."
+  },
+  "about": {
+    "title": "Brentwood Medical Malpractice Claims",
+    "longDescription": "Brentwood residents rely on a mix of local clinics and larger Contra Costa County medical systems for everything from routine checkups to surgical care. When a diagnosis is missed, a surgery goes sideways, or medication is mismanaged, the harm can be serious and lasting — but California treats these claims differently than a car crash. Medical malpractice cases fall under MICRA, meaning strict notice periods, expert review requirements, and caps on certain damages all come into play before a case can even move forward. A bad outcome by itself doesn't establish fault; the law requires showing the provider fell below an accepted standard of care. LawProactive doesn't practice law or promise results — we simply connect Brentwood residents with an independent attorney who can evaluate medical records, determine whether the standard of care was met, and explain what deadlines apply to your specific situation.",
+    "commonInjuriesTitle": "Common Types of Medical Malpractice Cases",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Get connected with an independent attorney who can review your records."
+  },
+  "whyChoose": {
+    "title": "What to Know Before You Wait",
+    "items": [
+      {
+        "title": "Strict, Layered Deadlines",
+        "desc": "Under MICRA, claims generally must be filed within one year of discovering the harm and no later than three years from the injury itself. Missing either window can end a claim regardless of its merits."
+      },
+      {
+        "title": "90-Day Notice Requirement",
+        "desc": "California law requires sending the provider a formal notice at least 90 days before filing suit, which affects how and when a case can proceed."
+      },
+      {
+        "title": "Expert Review Is Nearly Always Required",
+        "desc": "Because a bad medical outcome alone isn't proof of malpractice, a qualified medical expert typically must confirm the standard of care was breached before a claim can move forward."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to bring a medical malpractice claim in Brentwood?",
+        "answer": "California's MICRA law generally allows one year from when you discover the injury, but never more than three years from when it occurred. There's also a 90-day pre-suit notice requirement that can affect these timelines, so getting an evaluation early matters."
+      },
+      {
+        "question": "Is a poor medical outcome automatically malpractice?",
+        "answer": "No. California law requires showing the provider's care fell below an accepted medical standard, not just that the result was disappointing or unexpected. An independent attorney working with medical experts can help determine whether that standard was actually breached."
+      },
+      {
+        "question": "Does it matter that I was treated at a facility outside Brentwood?",
+        "answer": "Not necessarily — many Brentwood residents receive care at larger facilities elsewhere in Contra Costa County, and your claim can still be evaluated based on where the treatment occurred. What matters most is gathering the medical records and timeline, which an attorney can help organize regardless of the treating location."
+      },
+      {
+        "question": "What does LawProactive actually do?",
+        "answer": "We're a free service that connects injured Brentwood residents with an independent attorney to review their situation — we are not a law firm and don't handle cases ourselves. Attorneys in the network work on contingency, meaning there's no fee unless you recover."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "note": "bradbury city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Bradbury, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Bradbury, CA? Connect free with an independent LA County attorney. 2 years to file, no fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you've been hurt in a car crash or a fall, we can connect you at no cost with an independent personal injury attorney serving Los Angeles County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Bradbury, California",
+    "longDescription": "Bradbury is a small, quiet hillside community in Los Angeles County, home to just over a thousand residents along streets like Mount Olive Drive, Gardi Street, Woodlyn Lane, and Bradbury Hills Road. The most recent full-year public records show zero reported injury collisions and zero traffic deaths in the city for 2024 — a reflection of how lightly traveled these residential roads tend to be. That said, collisions and other injury-causing incidents can still happen anywhere, whether on a private driveway, a shared road, or even inside a local business. If you or someone you love has been hurt in or around Bradbury, LawProactive can help. We are a free connection service — not a law firm — and we do not charge you anything to be matched with an independent personal injury attorney who can review what happened. Attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. Whether your injury involved a vehicle, a fall, or something else entirely, getting informed early can make a real difference in protecting your options under California law.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries from slip-and-fall accidents"
+    ],
+    "ctaText": "Find out your options — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window can shrink to as little as six months if a government entity is involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Shared Fault Doesn't Shut You Out",
+        "desc": "California follows a pure comparative fault rule, so even if you were partly responsible for what happened, you may still recover a share of compensation. An attorney can help sort out how fault is likely to be divided."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "Unlike some states, California places no cap on non-economic damages — like pain and suffering — in ordinary injury cases. That means your full experience of the injury can be part of the conversation."
+      },
+      {
+        "title": "You Don't Pay Unless You Win",
+        "desc": "Attorneys in our network work on contingency, so there's no upfront cost and no fee unless you actually recover money. That removes a major barrier to getting help early."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about medical bills piling up before you've even healed",
+      "Not knowing if you can still get help since the accident felt like it was partly your fault",
+      "Fear that too much time has passed to do anything about the injury",
+      "Uncertainty about whether talking to an attorney will cost money you don't have"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Bradbury?",
+        "answer": "In most California injury cases, you have two years from the date of the injury to file a claim. If a government agency or public road issue is involved, that deadline can be as short as six months, so it's worth checking sooner rather than later."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault system, which means being partially responsible doesn't automatically bar you from recovering compensation. Your recovery may just be reduced by your share of fault, so it's still worth exploring your options."
+      },
+      {
+        "question": "Are certain roads in Bradbury more likely to have crashes?",
+        "answer": "Public collision records show that Mount Olive Drive, Gardi Street, Woodlyn Lane, and Bradbury Hills Road are the corridors with the highest recorded crash counts in the city. These are simply neutral, publicly reported figures, not a judgment about how safe or unsafe any road is."
+      },
+      {
+        "question": "Does LawProactive charge anything to connect me with an attorney?",
+        "answer": "No. LawProactive is a free service that connects injured people with independent personal injury attorneys, and we are not a law firm ourselves. Attorneys in our network work on contingency, so there's no fee unless you recover compensation."
+      },
+      {
+        "question": "Is there a cap on how much I can recover for pain and suffering?",
+        "answer": "In ordinary personal injury cases in California, there is no cap on non-economic damages like pain and suffering. This is different from some other states, and it means your full range of losses can be considered in a claim."
+      }
+    ]
+  }
+}

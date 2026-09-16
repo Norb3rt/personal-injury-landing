@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "san-luis-obispo city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "San Luis Obispo, CA Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in San Luis Obispo County? Connect free with an independent attorney. 2 years to file. No fee unless you win."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a rear-end collision on Higuera Street or a fall that wasn't your fault, we'll connect you with an independent attorney at no cost, serving San Luis Obispo County."
+  },
+  "about": {
+    "title": "Personal Injury Help in San Luis Obispo, California",
+    "longDescription": "San Luis Obispo sees steady traffic on corridors like US-101 Southbound, Los Osos Valley Road, Broad Street, and Higuera Street — and public records show 179 injury collisions in the most recent final crash year, hurting 223 people and claiming 1 life. Crashes tend to cluster on Fridays between 4 and 6 p.m., when commuters, students, and weekend travelers all converge downtown and along the highway. If you were hurt in one of these incidents, or in a slip-and-fall, workplace accident, or dog bite anywhere in the county, you deserve straightforward answers about your options. LawProactive is a free service — we are not a law firm. We simply connect injured people with an independent personal injury attorney who can review the details of what happened and explain what California law allows. There's no cost to talk, no obligation to hire anyone, and attorneys in our network work on contingency, meaning they only get paid if you recover compensation. Reaching out costs nothing and starts the process of understanding where you stand.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck strain",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Spinal cord damage",
+      "Soft tissue and ligament tears",
+      "Cuts requiring stitches or surgery"
+    ],
+    "ctaText": "Find out where you stand — connect with an independent attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney Soon",
+    "items": [
+      {
+        "title": "The Clock Is Running",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but claims against a government entity — like a city road crew — can require notice in as little as six months. Waiting too long can close the door on compensation entirely."
+      },
+      {
+        "title": "Partial Fault Doesn't End Your Claim",
+        "desc": "Under California's pure comparative fault rule, even if you were partly responsible for what happened, you can still recover damages — just reduced by your share of fault. An attorney can help make sure your share is assessed fairly."
+      },
+      {
+        "title": "No Cap on Pain and Suffering",
+        "desc": "California places no cap on non-economic damages, like pain and suffering, in ordinary injury cases. That means your recovery isn't artificially limited the way it is in some other states."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless you win. That removes the financial barrier to finding out whether you have a valid claim."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills with no income coming in",
+      "Not knowing whether the insurance company's offer is fair",
+      "Fearing that being partly at fault means losing everything",
+      "Feeling unsure whether it's too late to do anything at all"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in San Luis Obispo?",
+        "answer": "California generally allows two years from the date of the injury to file a lawsuit. If your claim involves a government entity — such as a city street department — the notice period can be as short as six months, so it's wise to act sooner rather than later."
+      },
+      {
+        "question": "What if I was partly responsible for the accident?",
+        "answer": "California follows a pure comparative fault rule, which means you can still recover compensation even if you share some blame. Your recovery would simply be reduced by your percentage of fault, not eliminated."
+      },
+      {
+        "question": "Where do crashes tend to cluster in San Luis Obispo?",
+        "answer": "Public crash records show higher collision counts along corridors like US-101 Southbound, Los Osos Valley Road, Broad Street, and Higuera Street, with reported crashes tending to peak on Fridays between 4 and 6 p.m. These are simply neutral public-record patterns, not a judgment about any particular road."
+      },
+      {
+        "question": "Is there a limit on how much I can recover for pain and suffering?",
+        "answer": "No. California does not cap non-economic damages, like pain and suffering, in typical personal injury cases. This is different from some other states that impose such limits."
+      },
+      {
+        "question": "Does it cost anything to use LawProactive?",
+        "answer": "No. LawProactive is a free service that connects you with an independent personal injury attorney — we are not a law firm ourselves. Attorneys in our network work on contingency, so you pay nothing unless they recover compensation for you."
+      }
+    ]
+  }
+}

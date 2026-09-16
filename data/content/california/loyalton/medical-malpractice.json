@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "medical-malpractice",
+    "note": "loyalton medical-malpractice silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Loyalton Medical Malpractice Help | LawProactive",
+    "metaDescription": "Hurt by a medical error in Loyalton, CA? Get connected free to an independent malpractice attorney who understands Sierra County care options."
+  },
+  "hero": {
+    "subtitle": "If a diagnosis, surgery, or medication error left you worse off after care in or around Loyalton, we can connect you with an independent attorney who handles medical malpractice claims under California law. There's no cost to find out where you stand."
+  },
+  "about": {
+    "title": "Loyalton Medical Malpractice Claims",
+    "longDescription": "Loyalton is a small Sierra County town of under 800 residents, which means most serious medical care happens at a distance — often requiring travel down Rt 49 or through nearby corridors like Beckwith Road to reach a hospital or specialist. When that care goes wrong, whether at a local clinic near Courthouse Square or a regional facility, the resulting harm can be just as serious as it would be in a big city, but the path to answers can feel more isolating. A qualified medical expert almost always has to weigh in before a malpractice claim can move forward under California law, and strict notice and filing deadlines apply. LawProactive doesn't practice law or promise any result — we simply connect Loyalton residents with an independent attorney experienced in evaluating these cases, at no upfront cost, so you can understand your options with someone who works on contingency.",
+    "commonInjuriesTitle": "Types of Harm We See in Malpractice Claims",
+    "commonInjuries": [
+      "Delayed or missed diagnosis",
+      "Surgical errors or wrong-site procedures",
+      "Medication or dosage mistakes",
+      "Birth injuries to mother or child",
+      "Anesthesia complications",
+      "Failure to monitor or follow up on test results"
+    ],
+    "ctaText": "Talk to an independent attorney about what happened — it costs nothing to ask."
+  },
+  "whyChoose": {
+    "title": "Why Loyalton Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "Deadlines Move Fast Under MICRA",
+        "desc": "California generally gives you one year from when you discover the harm, and no more than three years from the injury itself, to bring a claim. Missing that window can end a case before it starts, so early guidance matters."
+      },
+      {
+        "title": "Expert Review Is Required Before Filing",
+        "desc": "California law almost always requires a qualified medical expert to weigh in before a malpractice claim can proceed. An independent attorney can help arrange that review rather than leaving you to sort it out alone."
+      },
+      {
+        "title": "A Bad Outcome Isn't Automatically Malpractice",
+        "desc": "Not every disappointing result from care counts as negligence under California law. An attorney can help you sort out whether what happened crossed the line into a legitimate legal claim."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a medical malpractice claim in Loyalton?",
+        "answer": "Under California's MICRA rules, you generally have one year from when you discovered (or reasonably should have discovered) the injury, but no more than three years from the date it happened. A 90-day pre-suit notice to the provider is also typically required before filing. Because Loyalton residents often receive care outside Sierra County, it's worth confirming these dates with an attorney quickly."
+      },
+      {
+        "question": "Is there a limit on how much I can recover?",
+        "answer": "California law caps non-economic damages — things like pain and suffering — in medical malpractice cases, though that cap rises each year under current law. Economic damages, such as medical bills and lost income, generally aren't subject to that same cap. An independent attorney can walk you through how this applies to your situation."
+      },
+      {
+        "question": "Does a bad medical outcome automatically mean malpractice happened?",
+        "answer": "No. Medicine carries inherent risk, and an unfavorable result on its own doesn't establish negligence under California law. What matters is whether the provider deviated from the accepted standard of care, which is why a qualified medical expert's review is almost always required before a claim can move forward."
+      }
+    ]
+  }
+}

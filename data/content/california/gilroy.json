@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-13",
+    "note": "gilroy city page (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Gilroy, CA Personal Injury Lawyer | Free Case Review",
+    "metaDescription": "Injured in Gilroy? Santa Clara County residents get 2 years to file. Free attorney connection, no fee unless you win. Get started today."
+  },
+  "hero": {
+    "subtitle": "Whether you were hurt in a crash on US-101 or injured elsewhere in Gilroy, we'll connect you with an independent attorney at no cost, serving all of Santa Clara County."
+  },
+  "about": {
+    "title": "Personal Injury Help in Gilroy, California",
+    "longDescription": "Gilroy sees its share of collisions along corridors like Leavesley Road, 1st Street, US-101, and Monterey Highway. In the most recent year on record, Gilroy logged 141 injury collisions, 199 people hurt, and 2 traffic deaths — real public-record numbers that show how often local families are affected. If you were hurt in one of these incidents, getting the right help quickly matters, especially with California's filing deadlines. LawProactive is a free service — we are not a law firm. We simply connect injured people in Gilroy with an independent personal injury attorney who can review the details of what happened and explain your options. There's no obligation to move forward, and if you do, the attorneys in our network work on contingency, meaning there's no fee unless you recover compensation. We built this service because we know how overwhelming it can be to figure out next steps after an injury, especially while also dealing with medical appointments, missed work, and vehicle repairs. Reaching out costs nothing and takes just a few minutes.",
+    "commonInjuriesTitle": "Common Injuries We See",
+    "commonInjuries": [
+      "Whiplash and neck injuries",
+      "Broken bones and fractures",
+      "Traumatic brain injuries",
+      "Back and spinal cord injuries",
+      "Cuts, bruises, and soft tissue damage",
+      "Injuries requiring ongoing physical therapy"
+    ],
+    "ctaText": "Find out if you have a claim — connect with an attorney for free."
+  },
+  "whyChoose": {
+    "title": "Why Gilroy Residents Turn to LawProactive",
+    "items": [
+      {
+        "title": "You Have Limited Time to Act",
+        "desc": "California generally gives you two years from the date of injury to file a claim, but that window shrinks to as little as six months if a government entity was involved. Waiting too long can cost you the right to recover anything at all."
+      },
+      {
+        "title": "Partial Fault Won't Shut You Out",
+        "desc": "California follows pure comparative fault, meaning even if you were partly responsible for what happened, you can still recover compensation. Your award is simply reduced by your share of fault, not eliminated."
+      },
+      {
+        "title": "No Cap on What You Can Recover",
+        "desc": "Unlike some states, California places no limit on non-economic damages like pain and suffering in ordinary injury cases. That means your recovery isn't artificially capped just because your losses go beyond medical bills."
+      },
+      {
+        "title": "You Pay Nothing Upfront",
+        "desc": "Attorneys in our network work on contingency, so there's no fee unless they win or settle your case. This lets you get legal help without worrying about hourly rates or retainers."
+      }
+    ]
+  },
+  "painPoints": {
+    "items": [
+      "Worrying about mounting medical bills while unable to work",
+      "Not knowing if the insurance company's offer is fair",
+      "Fear that admitting any fault will ruin your chance at compensation",
+      "Feeling too overwhelmed by paperwork and deadlines to know where to start"
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How long do I have to file a personal injury claim in Gilroy?",
+        "answer": "In most cases, California law gives you two years from the date of the injury to file a lawsuit. If your claim involves a government agency, such as a city road crew or public bus, that deadline can shrink to as little as six months, so it's important to act quickly."
+      },
+      {
+        "question": "What if I was partly at fault for my accident?",
+        "answer": "California uses a pure comparative fault system, which means you can still recover compensation even if you were partially responsible. Your total award would just be reduced by your percentage of fault, not blocked entirely."
+      },
+      {
+        "question": "Where do injury collisions tend to cluster in Gilroy?",
+        "answer": "Public collision records show higher volumes along corridors such as Leavesley Road, 1st Street, US-101, and Monterey Highway, with reports tending to peak on Saturdays between 3 and 5 p.m. These are simply counts from public records, not a judgment about any particular road."
+      },
+      {
+        "question": "Will I owe money upfront if I connect with an attorney?",
+        "answer": "No. LawProactive is a free connection service, and the attorneys in our network work on contingency, meaning they only get paid if you receive a settlement or award. There's no cost to speak with someone about your situation."
+      },
+      {
+        "question": "Is there a cap on how much I can recover in California?",
+        "answer": "For ordinary personal injury cases, California does not cap non-economic damages like pain and suffering. This means your potential recovery isn't limited beyond what your actual damages and circumstances support."
+      }
+    ]
+  }
+}

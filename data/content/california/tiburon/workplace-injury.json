@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "voice": "brand-standard",
+    "model": "claude-sonnet-5",
+    "generatedAt": "2026-09-14",
+    "practice": "workplace-injury",
+    "note": "tiburon workplace-injury silo (Fable pipeline)."
+  },
+  "seo": {
+    "metaTitle": "Tiburon Workplace Injury Help | LawProactive",
+    "metaDescription": "Hurt on the job in Tiburon? Get connected free to an independent attorney who can review your workers' comp and third-party options."
+  },
+  "hero": {
+    "subtitle": "If you were hurt while working in Tiburon, from a job site near Tiburon Boulevard to a marina or shop along Paradise Drive, LawProactive can connect you at no cost with an independent attorney who handles work injury cases in Marin County."
+  },
+  "about": {
+    "title": "Tiburon Workplace Injury Claims",
+    "longDescription": "Tiburon is a small, close-knit community, and a workplace injury here can feel especially disruptive when your job, your commute, and your daily routine are all tied to the same few corridors — Tiburon Boulevard, Paradise Drive, Cecilia Way, and Rt 131. Whether you work at a marina, a restaurant, a retail shop, a construction site, or you drive for work along these roads, California law generally requires injured workers to go through workers' compensation first, regardless of who was at fault. But that's not always the end of the story. If a subcontractor, equipment manufacturer, property owner, or another driver contributed to your injury, you may also have a separate third-party claim worth pursuing. LawProactive doesn't practice law or promise outcomes — we simply connect injured workers in Tiburon with an independent attorney who can look at the specifics of your case, explain your options plainly, and help you understand the next step forward.",
+    "commonInjuriesTitle": "Common Workplace Injuries We Hear About",
+    "commonInjuries": [
+      "Falls from ladders, docks, or uneven work surfaces",
+      "Back and shoulder strains from repetitive lifting",
+      "Equipment or machinery-related injuries",
+      "Vehicle collisions while driving for work",
+      "Cuts, burns, or injuries from tools and kitchen equipment",
+      "Repetitive stress injuries from prolonged manual tasks"
+    ],
+    "ctaText": "Tell us what happened — we'll connect you with an independent attorney, free of charge."
+  },
+  "whyChoose": {
+    "title": "Why Talk to an Attorney About Your Tiburon Workplace Injury",
+    "items": [
+      {
+        "title": "Workers' Comp Isn't Always the Whole Picture",
+        "desc": "California treats workers' compensation as the usual remedy against your employer, but a negligent third party — like a subcontractor, property owner, or equipment maker — can still be separately liable. An attorney can help sort out whether that applies to your situation."
+      },
+      {
+        "title": "Reporting Deadlines Matter",
+        "desc": "You generally need to report a workplace injury to your employer within 30 days, and missing that window can complicate your claim. Getting guidance early helps make sure you don't lose options by waiting too long."
+      },
+      {
+        "title": "Retaliation Is Against the Law",
+        "desc": "It's illegal for an employer to punish you for reporting an injury or filing a claim. If you're worried about how reporting might affect your job, an independent attorney can explain your protections."
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "I was hurt at a job in Tiburon — do I have to go through workers' comp, or can I sue?",
+        "answer": "In most cases, workers' compensation is the exclusive remedy against your employer, meaning you generally can't sue your employer directly even if they were careless. However, if a third party outside your employer — like another driver on Tiburon Boulevard or a piece of defective equipment — contributed to your injury, you may have a separate claim worth exploring."
+      },
+      {
+        "question": "What if my injury happened while driving for work near Paradise Drive or Cecilia Way?",
+        "answer": "If you were injured in a work-related vehicle incident on local roads like Paradise Drive or Cecilia Way, you may have both a workers' comp claim and a potential third-party claim against another driver. An independent attorney can review the details and explain how the two interact."
+      },
+      {
+        "question": "How long do I have to bring a claim if a third party was involved?",
+        "answer": "Third-party injury claims in California generally carry a two-year deadline from the date of injury. That's separate from the 30-day window for reporting the injury to your employer, so it helps to get clarity on both timelines early."
+      }
+    ]
+  }
+}
